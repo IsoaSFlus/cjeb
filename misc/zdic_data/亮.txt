@@ -1,0 +1,625 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>亮的解释|亮的意思|汉典“亮”字的基本解释</title>
+<meta name="title" content="亮的解释|亮的意思|汉典“亮”字的基本解释">
+<meta name="keywords" content="|⿱⿳亠口冖几|⿱⿳亠口冖儿|" /><meta property="og:title" content="“亮”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“亮”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“亮”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/亮" />
+<link rel="canonical" href="//www.zdic.net/hans/亮" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/亮" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/亮" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/亮" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/亮">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/亮">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4EAE.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4EAE.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">liàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“亮”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/liàng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄌㄧㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“亮”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄌㄧㄤˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亠" target="_blank">  亠</a></p>
+                              <p><span class="z_ts2">部外</span>  7</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_ytz2"><a href='/hans/倞' target=_blank>倞</a> <a href='/hans/𠅙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20159.svg'><span class='ytz_txt'>𠅙</span></a> <a href='/hans/亮' target=_blank>亮</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4EAE</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>412514535</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ypmb|ypwb</p></td>                            <td class="dsk_2_1"><p>yrbn</p></td>                            <td class="dsk_2_1"><p>sjwq</p></td>                            <td class="dsk_2_1"><p>00217</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">liàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“亮”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/liàng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄌㄧㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“亮”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄌㄧㄤˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亠" target="_blank">亠</a> <span class="z_ts2">部外</span> 7<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 4EAE<span class="z_ts2">笔顺</span> 412514535                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4EAE_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=175" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>亮</strong></p>
+<p><span class="dicpy">li&agrave;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/li&agrave;ng.mp3"></a></span> ㄌㄧㄤˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>明，有光：天～了，敞～。明～。豁～。～光。～度。</li>
+	<li>光线：屋子里一点～儿也没有。</li>
+	<li>明摆出来，显露，显示：～相。</li>
+	<li>明朗，清楚：心里～了。</li>
+	<li>声音响：洪～。响～。</li>
+	<li>使声音响：～开嗓子唱。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> <p>bright, brilliant, radiant, light</p></p><p><span class="z_ts2">德语</span> aufgeweckt (Adj)​,hell (Adj)</p><p><span class="z_ts2">法语</span> brillant,clair,retentissant,briller,montrer</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>亮</strong> <span class="dicpy">li&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/li&agrave;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (<span class="smcs">《说文》</span>一说本作&ldquo;倞&rdquo;，后移&ldquo;人&rdquo;于&ldquo;京&rdquo;下，又变作&ldquo;儿&rdquo;，并省去&ldquo;京&rdquo;中一竖。本义:明亮)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[bright]</span></p>
+<p><span class="diczx1">亮，明也。&mdash;&mdash;<span class="smcs">《说文》</span>。</span><span class="diczx2">段</span>注:&ldquo;古人名亮者字明。&rdquo;</p>
+<p><span class="diczx3">如:诸葛亮，字孔明。</span></p>
+<p><span class="diczx1">皎皎亮月。&mdash;&mdash;<span class="smcs">《文选&middot;嵇康&middot;杂诗》</span></span></p>
+<p><span class="diczx1">寸心若不亮。&mdash;&mdash;</span><span class="diczx2">谢灵运</span><span class="smcs">《初发&middot;石首城诗》</span></p>
+<p><span class="diczx1">且火德承</span><span class="diczx2">尧</span>，虽昧必亮。&mdash;&mdash;<span class="smcs">《后汉书&middot;苏竟传》</span>。 <span class="diczx2">李贤</span>注:&ldquo;亮，明也。&rdquo;</p>
+<p><span class="diczx3">又如:亮钟(更楼上报天亮的钟声);亮隔(亮槅。有透光花格的窗户、门窗等);亮色(明亮的色彩);亮油油(形容光亮而润泽);亮闪(明亮);亮莹莹(形容光亮透明);亮藿藿(形容明光耀眼);亮灼灼(犹亮晶晶)</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;谅&rdquo;。诚信;忠诚 <span class="encs">[sincere]</span></p>
+<p><span class="diczx2">孟子</span>曰:君子不亮，恶乎执?&mdash;&mdash;<span class="smcs">《孟子》</span></p>
+<p><span class="diczx3">又如:亮直(诚实正直;诚实正直的人);亮节(清高的节操);亮怀(忠直、坦荡的胸怀)</span></p>
+<p><span class="cino">(4)</span> 响亮<span class="encs">[loud and clear]</span></p>
+<p><span class="diczx1">其鸣高亮。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;鹤鸣》</span></span></p>
+<p><span class="diczx3">又如:亮溜(指声音嘹亮溜圆);亮彻(指声音响亮清脆);亮节(高亢之声)</span></p>
+<p><span class="cino">(5)</span> 明白，清楚 <span class="encs">[obvious;plain;as clear as day]</span></p>
+<p><span class="diczx1">即蒙亮许，当赐矜擢。&mdash;&mdash;<span class="smcs">《宋书&middot;王僧达传》</span></span></p>
+<p><span class="diczx3">又如:亮拔(明达章理、才能出众);亮许(明察允许);亮察(明鉴);亮照(亮察)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>亮</strong> <span class="dicpy">li&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/li&agrave;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 辅佐 <span class="encs">[assist]</span></p>
+<p><span class="diczx1">亮，佐也。&mdash;&mdash;<span class="smcs">《小尔雅》</span></span></p>
+<p><span class="diczx1">惟时亮天工。&mdash;&mdash;<span class="smcs">《虞书》</span></span></p>
+<p><span class="diczx1">亮彼武王。&mdash;&mdash;<span class="smcs">《韩诗&middot;大明》</span>。按，如影之附形，合而相助也。</span></p>
+<p><span class="diczx3">又如:亮工(辅佐天子以立天下之功);亮采(辅佐政事);亮弼(辅佐)</span></p>
+<p><span class="cino">(2)</span> 相信;信任 <span class="encs">[believe]</span></p>
+<p><span class="diczx1">亮，信也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">亮采惠畴。&mdash;&mdash;<span class="smcs">《虞书》</span></span></p>
+<p><span class="diczx1">亮采有邦。&mdash;&mdash;<span class="smcs">《书&middot;皋谟》</span></span></p>
+<p><span class="diczx3">又如:亮贤(相信贤才);亮天地(敬信天地)</span></p>
+<p><span class="cino">(3)</span> 显示;显露 <span class="encs">[disclose]</span></p>
+<p><span class="diczx1">乃或亮闇。&mdash;&mdash;<span class="smcs">《书&middot;无逸》</span>。按，恶室也。</span></p>
+<p><span class="diczx3">又如:亮台(旧称戏班组成后的首次演出);亮盒子摇(犹&ldquo;打开天窗说亮话&rdquo;。盒子，指赌博时押宝的宝盒)</span></p>
+<p><span class="cino">(4)</span> 发光 <span class="encs">[shine]</span>。</p>
+<p><span class="diczx3">如:电灯亮了</span></p>
+<p><span class="cino">(5)</span> 谅解;原谅 <span class="encs">[understand;forgive;pardon]</span></p>
+<p><span class="diczx1">母也天只，不亮人只。&mdash;&mdash;<span class="smcs">《诗&middot;鄘风&middot;柏舟》</span></span></p>
+<p><span class="cino">(6)</span> 把&hellip;拿出来供检查 <span class="encs">[show]</span>。</p>
+<p><span class="diczx3">如:他把工作证亮了一下就进去了</span></p>
+<p><span class="cino">(7)</span> 讲清楚、解释 <span class="encs">[declare]</span>。</p>
+<p><span class="diczx3">如:亮观点</span></p>
+<p>◎ <strong>亮</strong> <span class="dicpy">li&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/li&agrave;ng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 亮儿;灯火 <span class="encs">[light]</span>。</p>
+<p><span class="diczx3">如:屋里一点亮儿也没有;拿个亮来</span></p>
+<p><span class="cino">(2)</span> 姓</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/亮敞">亮敞</a></span><span class="crefe"><a href="/hans/亮底">亮底</a></span><span class="crefe"><a href="/hans/亮度">亮度</a></span><span class="crefe"><a href="/hans/亮儿">亮儿</a></span><span class="crefe"><a href="/hans/亮拱">亮拱</a></span><span class="crefe"><a href="/hans/亮光">亮光</a></span><span class="crefe"><a href="/hans/亮光光">亮光光</a></span><span class="crefe"><a href="/hans/亮节">亮节</a></span><span class="crefe"><a href="/hans/亮牌">亮牌</a></span><span class="crefe"><a href="/hans/亮牌">亮牌</a></span><span class="crefe"><a href="/hans/亮闪闪">亮闪闪</a></span><span class="crefe"><a href="/hans/亮私">亮私</a></span><span class="crefe"><a href="/hans/亮堂堂">亮堂堂</a></span><span class="crefe"><a href="/hans/亮堂">亮堂</a></span><span class="crefe"><a href="/hans/亮相">亮相</a></span><span class="crefe"><a href="/hans/亮胸">亮胸</a></span><span class="crefe"><a href="/hans/亮眼">亮眼</a></span><span class="crefe"><a href="/hans/亮锃锃">亮锃锃</a></span><span class="crefe"><a href="/hans/亮铮铮">亮铮铮</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>亮</rb></rbc><rtc><rt>ㄌㄧㄤˋ</rt></rtc><rtc><rt>li&agrave;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/2037.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">明朗、光亮。</span><span class="gc_lz">如：「晶<b>亮</b>」、「明<b>亮</b>」、「烏黑亮麗」。</span><span class="gc_yy">《文選&middot;嵇康&middot;雜詩》：「皎皎<b>亮</b>月，麗于高隅。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">聲音響亮清澈。</span><span class="gc_lz">如：「宏<b>亮</b>」、「嘹<b>亮</b>」。</span><span class="gc_yy">元&middot;尚仲賢《單鞭奪槊&middot;第三折》：「則聽的語如鐘，喝一聲響<b>亮</b>春雷動。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">忠貞正直。</span><span class="gc_lz">如：「高風亮節」。</span><span class="gc_yy">《文選&middot;諸葛<b>亮</b>&middot;出師表》：「此悉貞<b>亮</b>死節之臣也。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">顯露、展示。</span><span class="gc_lz">如：「<b>亮</b>牌」、「亮相」。</span><span class="gc_yy">《兒女英雄傳&middot;第一五回》：「<b>亮</b>了兵器，就交起手來。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>亮</rb></rbc><rtc><rt>ㄌㄧㄤˊ</rt></rtc><rtc><rt>li&aacute;ng</rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">參見「<a href='/hans/亮陰' target=_blank>亮陰</a> 」條。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4EAE_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=亠" target="_blank">亠</a>】
+                              亮·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=亠" target="_blank">亠</a>】
+                              亮·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：7</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4EAE.svg">						  <p>【廣韻】【集韻】力讓切【韻會】【正韻】力仗切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音量。與諒同。信也。【孟子】君子不亮，惡乎執。【古詩十九首】君亮執高節，賤妾亦奚爲。</p>
+<p>又明也。</p>
+<p>又姓。</p>
+<p>又【集韻】呂張切，音良。【書&middot;說命】亮隂，卽梁闇。　【正字通】亮下从儿。改作几，非。亮原字作亠口冖儿。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4EAE_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=儿">儿</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=儿">儿</a>】</div>                          
+						                                                      <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4EAE_1.svg" /> <span class="swbf">(亮)</span><span class="ywyy">朙也。从儿，高省。</span><span class="swdz">各本無。此依六書故所據唐本補，葢卽晁氏以道所見唐本也。古人名亮者字明，人處高則明，故其字从儿高，明者可以佐人。故釋詁曰：亮，相導也。典謨多用亮字。大雅：涼彼武王。傳曰：涼，佐也。此假涼爲亮也。韓詩正作亮。孟子曰：君子不亮，惡乎執。此假亮爲諒也。力讓切。十部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4EAE_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  liɑŋ˥˧ <span class="z_ts4">唐代读音</span>  liɑ̀ng<span class="z_ts4">日语读音</span>  AKIRAKA SUKE<span class="z_ts4">韩语罗马</span>  LYANG<span class="z_ts4">现代韩语</span>  량 양</p>						<p><span class="z_ts3">客家话</span>  [台湾四县腔] liong5 [客语拼音字汇] liong4 [沙头角腔] liong5 [宝安腔] liong5 [海陆腔] liong6 [陆丰腔] liong6 [梅县腔] liong5 [客英字典] liong5<span class="z_ts2">粤语</span>  loeng6<span class="z_ts3">潮州话</span>  liang6 (lĩang)</p>						<p><span class="z_ts3">近代音</span>  來母    江陽韻    去聲    亮小空；<span class="z_ts3">中古音</span>  來母    漾韻    去聲    亮小韻    力讓切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：來母    唐部   ；王力系统：來母    陽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/亮">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/亮">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/亮">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/亮">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/亮">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/亮">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/亮">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/亮">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/亮">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/亮">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/亮">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/亮">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">亮</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    					 
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4EAE.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4EAE.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4EAE.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4EAE.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4EAE.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/倞' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/501E.svg'><span>倞</span></a></div> <div class='zx'><a href='/hans/𠅙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20159.svg'><span>𠅙</span></a></div> <div class='zx'><a href='/hans/亮' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/F977.svg'><span>亮</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="175" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5871">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/輌">輌(liang4)</a></li><li><a href="/hans/涼">涼(liang4)</a></li><li><a href="/hans/倞">倞(liang4)</a></li><li><a href="/hans/悢">悢(liang4)</a></li><li><a href="/hans/䁁">䁁(liang4)</a></li><li><a href="/hans/谅">谅(liang4)</a></li><li><a href="/hans/諒">諒(liang4)</a></li><li><a href="/hans/鿌">鿌(liang4)</a></li><li><a href="/hans/靓">靓(liang4)</a></li><li><a href="/hans/凉">凉(liang4)</a></li><li><a href="/hans/靚">靚(liang4)</a></li><li><a href="/hans/鍄">鍄(liang4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠅧">𠅧</a></li><li><a href="/hans/𠅔">𠅔</a></li><li><a href="/hans/𠅟">𠅟</a></li><li><a href="/hans/亪">亪</a></li><li><a href="/hans/亭">亭</a></li><li><a href="/hans/𠅍">𠅍</a></li><li><a href="/hans/𠅭">𠅭</a></li><li><a href="/hans/𠅡">𠅡</a></li><li><a href="/hans/𠆝">𠆝</a></li><li><a href="/hans/𠅕">𠅕</a></li><li><a href="/hans/𠅩">𠅩</a></li><li><a href="/hans/交">交</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㸳">㸳</a></li><li><a href="/hans/指">指</a></li><li><a href="/hans/栄">栄</a></li><li><a href="/hans/柨">柨</a></li><li><a href="/hans/娃">娃</a></li><li><a href="/hans/恡">恡</a></li><li><a href="/hans/㡄">㡄</a></li><li><a href="/hans/娰">娰</a></li><li><a href="/hans/𠉡">𠉡</a></li><li><a href="/hans/訅">訅</a></li><li><a href="/hans/帟">帟</a></li><li><a href="/hans/带">带</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=175"></script>
+</body>
+</html>

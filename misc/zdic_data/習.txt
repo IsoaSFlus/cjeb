@@ -1,0 +1,696 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>習的解释|習的意思|汉典“習”字的基本解释</title>
+<meta name="title" content="習的解释|習的意思|汉典“習”字的基本解释">
+<meta name="keywords" content="上：羽，下：白。  " /><meta property="og:title" content="“習”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“習”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“習”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/習" />
+<link rel="canonical" href="//www.zdic.net/hans/習" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/習" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/習" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/習" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/習">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/習">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/7FD2.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/7FD2.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">xí<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“習”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xí.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄒㄧˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“習”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=羽" target="_blank">  羽</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">简体</span> <a href='/hans/习' target=_blank>习</a>  </p>
+                                                            </td>
+                                                        <td class="z_ytz2"><a href='/hans/习' target=_blank>习</a> <a href='/hans/𮊸' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2E2B8.svg'><span class='ytz_txt'>𮊸</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7FD2</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>54154132511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>nrf</p></td>                            <td class="dsk_2_1"><p>smha</p></td>                            <td class="dsk_2_1"><p>ytyn</p></td>                            <td class="dsk_2_1"><p>17602</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">xí<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“習”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xí.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄒㄧˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“習”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=羽" target="_blank">羽</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">基本区</span> 7FD2<span class="z_ts2">笔顺</span> 54154132511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7FD2_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                                                <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                                                          <a href="/e/member/fava/add/?classid=3&id=12755" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>習</strong></p><p><span class="dicpy">x&iacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/x&iacute;.mp3"></a></span> ㄒㄧˊ</span></p><hr class="dichr" /><ol>	<li>鳥類頻頻練飛。《説文&bull;習部》：&ldquo;習，數飛也。&rdquo;《禮記&bull;月令》：&ldquo;鷹乃學習，腐草為螢。&rdquo;</li>	<li>學習。《禮記&bull;學記》：&ldquo;五年視博習親師，七年視論學取友。&rdquo;</li>	<li>複習；溫習。《論語&bull;學而》：&ldquo;學而時習之。&rdquo;</li>	<li>累積；重疊。《易&bull;坎》：&ldquo;習坎，入于坎。&rdquo;</li>	<li>熟悉；通曉。《國語&bull;周語上》：&ldquo;是皆習民數者也。&rdquo;</li>	<li>習慣；習染。《商君書&bull;慎法》：&ldquo;見訾言無損，習相憎，不相害也。&rdquo;</li>	<li>近習；親信。《韓非子&bull;孤憤》：&ldquo;凡當塗者之於人主也，希不信愛也，又且習故。&rdquo;</li>	<li>教習；訓練。《吴子&bull;治兵》：&ldquo;習其馳逐，閑其進止，人馬相親，然後可使。&rdquo;</li>	<li>作為。《易&bull;坤》：&ldquo;直方大，不習无不利。&rdquo;</li>	<li>調節。《大戴禮記&bull;子張問入官》：&ldquo;既知其以生有習，然后民特從命也。&rdquo;</li>	<li>副詞。常常、經常。《漢書&bull;董仲舒傳》：&ldquo;習聞其號，未燭厥理。&rdquo;</li>	<li>姓。《廣韻&bull;緝韻》：&ldquo;習，姓。出襄陽。晋有習鑿齒。&rdquo;</li>	<li>通&ldquo;<a href="/hans/襲">襲</a>&rdquo;。相因；重複。《書&bull;大禹謨》：&ldquo;龜筮協從，卜不習吉。&rdquo;</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> practice; flapping wings</p><p><span class="z_ts2">德语</span> üben, vertraut sein ,Xi  (Eig, Fam)</p><p><span class="z_ts2">法语</span> étudier,apprendre,pratiquer,habitude,s'exercer,s'habituer</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>詳細字義</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>習</strong></p>
+<p>習 <span class="dicpy">x&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/x&iacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">動</span></p>
+<p><span class="cino">(1)</span> (會意。从羽 。从羽，與鳥飛有關。本義:小鳥反覆地試飛)</p>
+<p><span class="cino">(2)</span> 同本義 <span class="encs">[fly frequently]</span></p>
+<p><span class="diczx1">習，數飛也。&mdash;&mdash;<span class="smcs">《說文》</span></span></p>
+<p><span class="diczx1">鷹乃學習。&mdash;&mdash;<span class="smcs">《禮記&middot;月令》</span></span></p>
+<p><span class="diczx1">習習籠中鳥，舉翮觸四隅。&mdash;&mdash;</span><span class="diczx2">晉</span>&middot; <span class="diczx2">左思</span><span class="smcs">《詠史》</span></p>
+<p><span class="cino">(3)</span> 反覆練習，鑽研 <span class="encs">[review;practise;exercise]</span></p>
+<p><span class="diczx1">君子以朋友講習。&mdash;&mdash;<span class="smcs">《易&middot;象下傳》</span></span></p>
+<p><span class="diczx1">是皆習民數者也。&mdash;&mdash;<span class="smcs">《國 語&middot;周語》</span>。注;&ldquo;習，簡習也。&rdquo;</span></p>
+<p><span class="diczx1">學而時習之，不亦說乎?&mdash;&mdash;<span class="smcs">《論語&middot;學而》</span>。</span><span class="diczx2">皇侃</span>義疏:&ldquo;習是修故之稱也。言人不學則已，既學必因仍而修習，日夜無替也。&rdquo;</p>
+<p><span class="diczx3">又如:習容(練習舉止，整飭儀表);習肄(猶練習);習戰(練習作戰);習非勝是(對錯誤的事物相習既久，無法矯正，反以爲是)</span></p>
+<p><span class="cino">(4)</span> 通曉，熟悉 <span class="encs">[become familiar with;be used to]</span></p>
+<p><span class="diczx1">不習於誦。&mdash;&mdash;<span class="smcs">《戰國策&middot;秦策》</span></span></p>
+<p><span class="diczx1">誰習計會，能爲文收責於</span><span class="diczx2">薛</span>者乎?&mdash;&mdash;<span class="smcs">《戰國策》</span></p>
+<p><span class="diczx1">皆通習之。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韓愈</span><span class="smcs">《師說》</span></p>
+<p><span class="diczx1">益習其聲。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx1">不習水戰。&mdash;&mdash;<span class="smcs">《資治通鑑》</span></span></p>
+<p><span class="diczx1">習見習聞。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黃宗羲</span><span class="smcs">《柳敬亭傳》</span></p>
+<p><span class="diczx1">習方俗</span></p>
+<p><span class="diczx3">又如:習流(熟悉水流。又指熟悉水戰的兵士);習士(熟悉法制的人);習事(熟諳事理);習知(熟知);習水(熟習水性)</span></p>
+<p><span class="cino">(5)</span> 學習 <span class="encs">[learn]</span></p>
+<p><span class="diczx1">始習於大豆。&mdash;&mdash;<span class="smcs">《呂氏春秋&middot;造父》</span>。注:&ldquo;學也。&rdquo;</span></p>
+<p><span class="diczx1">習其句讀。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韓愈</span><span class="smcs">《師說》</span></p>
+<p><span class="diczx1">自幼好武術，習無不精。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗類鈔&middot;戰事類》</span></p>
+<p><span class="diczx3">又如:習學(學習);習文練武;講習(講授與學習);習業(攻習學業，鑽研學問)</span></p>
+<p><span class="cino">(6)</span> 習慣;習慣於，習以爲常 <span class="encs">[get accustomed to;be used to]</span></p>
+<p><span class="diczx1">聖人者，明於治亂之道，習於人事之終始者也。&mdash;&mdash;<span class="smcs">《管子》</span></span></p>
+<p><span class="diczx1">民習以力攻難，故輕死。&mdash;&mdash;<span class="smcs">《商君法&middot;戰法》</span></span></p>
+<p><span class="diczx1">人習於苟且非一日。&mdash;&mdash;</span><span class="diczx2">王安石</span><span class="smcs">《答司馬諫議書》</span></p>
+<p><span class="diczx1">不習水土。&mdash;&mdash;<span class="smcs">《資治通鑑》</span></span></p>
+<p><span class="diczx1">家人習奢。</span></p>
+<p><span class="diczx1">習於鐘鼓。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">蘇軾</span><span class="smcs">《教戰守》</span></p>
+<p><span class="diczx3">又如:習熟(習慣熟悉);習閒(遊手好閒者);習聞;習安(習慣於安定)</span></p>
+<p><span class="cino">(7)</span> 訓練 <span class="encs">[train]</span></p>
+<p><span class="diczx1">不習，則民不可使也。&mdash;&mdash;<span class="smcs">《大戴禮記》</span></span></p>
+<p><span class="diczx3">又如:習教(猶訓練);習勒(嚴格訓練);習練(練習;訓練);習用(演習);習兵(操演軍事);習陣(演習戰陣之事)</span></p>
+<p><span class="cino">(8)</span> 習染 <span class="encs">[fall into a bad habit]</span></p>
+<p><span class="diczx1">習善而爲善，習惡而爲惡也。&mdash;&mdash;<span class="smcs">《論衡&middot;本性》</span></span></p>
+<p><span class="diczx1">習其家風。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">司馬光</span><span class="smcs">《訓儉示康》</span></p>
+<p><strong>詞性變化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>習</strong></p>
+<p>習 <span class="dicpy">x&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/x&iacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 習性;習慣 <span class="encs">[habit;custom;usual practice]</span></p>
+<p><span class="diczx1">性相近也，習相遠也。&mdash;&mdash;<span class="smcs">《論語&middot;陽貨》</span></span></p>
+<p><span class="diczx1">政教習俗，相順而後行。&mdash;&mdash;<span class="smcs">《荀子&middot;大略》</span></span></p>
+<p><span class="diczx3">又如:固習;陋習;惡習;習性;積習</span></p>
+<p><span class="cino">(2)</span> 親信 <span class="encs">[trusted follower]</span></p>
+<p><span class="diczx1">凡當塗者之於人主也，希不信愛也，又且習故。&mdash;&mdash;<span class="smcs">《韓非子&middot;孤憤》</span></span></p>
+<p><span class="diczx3">又如:習故(親近故舊。又指熟悉故舊的人)</span></p>
+<p>◎ <strong>習</strong></p>
+<p>習 <span class="dicpy">x&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/x&iacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p>經常，常常 <span class="encs">[often]</span></p>
+<p><span class="diczx1">自是日抱就犬，習示之，使勿動。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx1">車戶</span><span class="diczx2">李旺</span>行了多日，習見匣子沉重，曉得是銀子在內。&mdash;&mdash;<span class="smcs">《二刻拍案驚奇》</span></p>
+<p><span class="diczx3">又如:習洽(經常交往，關係密切);習聞;習用</span></p>
+<p><strong>常用詞組</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/習兵">習兵</a></span><span class="crefe"><a href="/hans/習而不察">習而不察</a></span><span class="crefe"><a href="/hans/習非成是">習非成是</a></span><span class="crefe"><a href="/hans/習慣">習慣</a></span><span class="crefe"><a href="/hans/習慣">習慣</a></span><span class="crefe"><a href="/hans/習見">習見</a></span><span class="crefe"><a href="/hans/習氣">習氣</a></span><span class="crefe"><a href="/hans/習染">習染</a></span><span class="crefe"><a href="/hans/習尚">習尚</a></span><span class="crefe"><a href="/hans/習俗">習俗</a></span><span class="crefe"><a href="/hans/習題">習題</a></span><span class="crefe"><a href="/hans/習性">習性</a></span><span class="crefe"><a href="/hans/習以成俗">習以成俗</a></span><span class="crefe"><a href="/hans/習以成性">習以成性</a></span><span class="crefe"><a href="/hans/習以爲常">習以爲常</a></span><span class="crefe"><a href="/hans/習藝">習藝</a></span><span class="crefe"><a href="/hans/習用">習用</a></span><span class="crefe"><a href="/hans/習字">習字</a></span><span class="crefe"><a href="/hans/習字帖">習字帖</a></span><span class="crefe"><a href="/hans/習作">習作</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>習</rb></rbc><rtc><rt>ㄒㄧˊ</rt></rtc><rtc><rt>x&iacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3866.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">鳥類頻頻拍動翅膀試飛。</span><span class="gc_yy">《說文解字&middot;<b>習</b>部》：「<b>習</b>，數飛也。」</span><span class="gc_yy">元&middot;戴侗《六書故&middot;卷一九&middot;動物》：「<b>習</b>，鳥肄飛也。&hellip;&hellip;引之則凡數數扇闔者，皆謂之<b>習</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">反覆演練、鑽研。</span><span class="gc_lz">如：「溫<b>習</b>」、「研<b>習</b>」。</span><span class="gc_yy">《論語&middot;學而》：「學而時<b>習</b>之，不亦說乎？」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">熟悉，通曉。</span><span class="gc_yy">《戰國策&middot;秦策五》：「嘗無師傅所教學，不<b>習</b>於誦。」</span><span class="gc_yy">《管子&middot;正世》：「明於治亂之道，<b>習</b>於人事之終始者也。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">反覆拍動翅膀的動作。</span><span class="gc_yy">《禮記&middot;月令》：「鷹乃學<b>習</b>，腐草為螢。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">積久養成的慣性行為。</span><span class="gc_lz">如：「舊<b>習</b>」、「惡<b>習</b>」、「積習難改」。</span><span class="gc_yy">《論語&middot;陽貨》：「性相近也，<b>習</b>相遠也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">親信、親狎的人。</span><span class="gc_yy">《禮記&middot;月令》：「雖有貴戚近<b>習</b>，毋有不禁。」</span><span class="gc_yy">《後漢書&middot;卷六&middot;孝順帝等紀&middot;贊曰》：「匪砥匪革，終淪嬖<b>習</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如明代有習經。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">時常、常常。</span><span class="gc_yy">《漢書&middot;卷五六&middot;董仲舒傳》：「<b>習</b>聞其號，未燭厥理。」</span><span class="gc_yy">《後漢書&middot;卷六一&middot;黃瓊傳》：「瓊隨父在臺閣，習見故事。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7FD2_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=未集中" target="_blank">未集中</a>】【<a href="/zd/kx/?zm=未集中&amp;bs=羽" target="_blank">羽</a>】
+                              習·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=未集中" target="_blank">未集中</a>】【<a href="/zd/kx/?zm=未集中&amp;bs=羽" target="_blank">羽</a>】
+                              習·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7FD2.svg">						  <p>【廣韻】似入切【集韻】【韻會】【正韻】席入切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音襲。【說文】數飛也。【禮&middot;月令】鷹乃學習。</p><p>又【易&middot;坤卦】不習，无不利。【註】不假修爲，而功自成。【論語】學而時習之。【何晏註】學者以時誦習之。</p><p>又【易&middot;坎卦】習坎。【註】習謂便習之。【釋文】習，重也。</p><p>又【書&middot;大禹謨】士不習吉。【傳】習，因也。</p><p>又【詩&middot;邶風】習習谷風。【傳】習習，和舒貌。</p><p>又姓。【廣韻】出襄陽。晉有習鑿齒。◎按說文習自爲部。今從正字通併入。字从羽从白。俗作習，非。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7FD2_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=習">習</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=習">習</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7FD2.svg">                          <p>數飛也。从羽从白。凡習之屬皆从習。似入切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7FD2_5133.svg" /><span class="swbf">(習)</span><span class="ywyy">數飛也。</span><span class="swdz">數，所角切。月令：鷹乃學習。引伸之義爲習孰。</span><span class="ywyy">从羽白聲。</span><span class="swdz">按此合韵也。又部彗，古文作習，亦是从習聲合韵。似入切。七部。</span><span class="ywyy">凡習之屬皆从習。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7FD2_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ɕi˧˥ <span class="z_ts4">唐代读音</span>  zip<span class="z_ts4">日语读音</span>  NARAU NARAI<span class="z_ts4">韩语罗马</span>  SUP<span class="z_ts4">现代韩语</span>  습<span class="z_ts3">越南语</span>  tập</p>						<p><span class="z_ts3">客家话</span>  [客语拼音字汇] xib6 [台湾四县腔] sip8 [梅县腔] sip8 [沙头角腔] sip8 [东莞腔] sip8 [海陆腔] sip8 [客英字典] sip8 [陆丰腔] sip8 [宝安腔] sip8<span class="z_ts2">粤语</span>  zaap6</p>						<p><span class="z_ts3">近代音</span>  心母    齊微韻    入聲作平聲陽    夕小空；<span class="z_ts3">中古音</span>  邪母    緝韻    入聲    習小韻    似入切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：心母    合部   ；王力系统：邪母    緝部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/習">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/習">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/習">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/習">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/習">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/習">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/習">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/習">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/習">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/習">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/習">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/習">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">習</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td style="display:none">金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/習"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_F599.svg" /><span>「習」 明715</span><span>合26979</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/cx/習"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_F406.svg" /><span>「習」 包2.223</span></a></td>
+			<td><a href="/zd/zx/xz/習"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_7FD2.svg" /><span>「習」 說文‧習部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/習" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/7FD2.svg" /><span>「習」</span></a></td>
+			<td style="display:none"><a href="/hans/习" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/4E60.svg" /><span>「习」</span></a></td>
+			<td style="display:none"><a href="/hans/習" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/7FD2.svg" /><span>「習」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/習"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_F595.svg" /><span>「習」 甲920</span><span>合31671</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/cx/習"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_F79D.svg" /><span>「習」 郭.語3.13</span></a></td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/習">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/習">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/習">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/習">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/習">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7FD2.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7FD2.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7FD2.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7FD2.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/7FD2.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/习' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E60.svg'><span>习</span></a></div> <div class='zx'><a href='/hans/𮊸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2E2B8.svg'><span>𮊸</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="12755" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="13296">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/驨">驨(xi2)</a></li><li><a href="/hans/䀘">䀘(xi2)</a></li><li><a href="/hans/雭">雭(xi2)</a></li><li><a href="/hans/霫">霫(xi2)</a></li><li><a href="/hans/䏮">䏮(xi2)</a></li><li><a href="/hans/嶍">嶍(xi2)</a></li><li><a href="/hans/觋">觋(xi2)</a></li><li><a href="/hans/鳛">鳛(xi2)</a></li><li><a href="/hans/𠅤">𠅤(xi2)</a></li><li><a href="/hans/㵿">㵿(xi2)</a></li><li><a href="/hans/鎴">鎴(xi2)</a></li><li><a href="/hans/漝">漝(xi2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/翸">翸</a></li><li><a href="/hans/翱">翱</a></li><li><a href="/hans/䎗">䎗</a></li><li><a href="/hans/䍾">䍾</a></li><li><a href="/hans/䎍">䎍</a></li><li><a href="/hans/翛">翛</a></li><li><a href="/hans/䎕">䎕</a></li><li><a href="/hans/䎅">䎅</a></li><li><a href="/hans/翏">翏</a></li><li><a href="/hans/䎒">䎒</a></li><li><a href="/hans/翇">翇</a></li><li><a href="/hans/䎑">䎑</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/旎">旎</a></li><li><a href="/hans/掛">掛</a></li><li><a href="/hans/逪">逪</a></li><li><a href="/hans/㙈">㙈</a></li><li><a href="/hans/聆">聆</a></li><li><a href="/hans/㫯">㫯</a></li><li><a href="/hans/毮">毮</a></li><li><a href="/hans/帴">帴</a></li><li><a href="/hans/啇">啇</a></li><li><a href="/hans/悿">悿</a></li><li><a href="/hans/混">混</a></li><li><a href="/hans/蛂">蛂</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">人之初，性本善。性相近，<span>习</span>相远。苟不教，性乃迁。</div><div class="gscdr">《三字经》（节选）</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">子曰：“学而时<span>习</span>之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《学而》曾子曰：“吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不<span>习</span>乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=12755"></script>
+</body>
+</html>

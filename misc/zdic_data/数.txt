@@ -1,0 +1,631 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>数的解释|数的意思|汉典“数”字的基本解释</title>
+<meta name="title" content="数的解释|数的意思|汉典“数”字的基本解释">
+<meta name="keywords" content="左：娄，右：攵。 " /><meta property="og:title" content="“数”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“数”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“数”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/数" />
+<link rel="canonical" href="//www.zdic.net/hans/数" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/数" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/数" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/数" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/数">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/数">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6570.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6570.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shù.mp3"></a></span></span></p><p><span class="z_d song">shǔ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span></span></p><p><span class="z_d song">shuò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shuò.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄕㄨˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨˇ.mp3"></a></span></span></p><p><span class="z_d song">ㄕㄨㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨㄛˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=攵" target="_blank">  攵</a></p>
+                              <p><span class="z_ts2">部外</span>  9</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/數' target=_blank>數</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/數' target=_blank>數</a> <a href='/hans/𡢏' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2188F.svg'><span class='ytz_txt'>𡢏</span> <a href='/hans/𢿘' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22FD8.svg'><span class='ytz_txt'>𢿘</span> <a href='/hans/𢿙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22FD9.svg'><span class='ytz_txt'>𢿙</span> <a href='/hans/𣀭' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2302D.svg'><span class='ytz_txt'>𣀭</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6570</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>4312345313134</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ovty</p></td>                            <td class="dsk_2_1"><p>fvok</p></td>                            <td class="dsk_2_1"><p>ufzm</p></td>                            <td class="dsk_2_1"><p>98440</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shù.mp3"></a></span></span> <span class="z_d song">shǔ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span></span> <span class="z_d song">shuò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shuò.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨˋ.mp3"></a></span></span> <span class="z_d song">ㄕㄨˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨˇ.mp3"></a></span></span> <span class="z_d song">ㄕㄨㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“数”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨㄛˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=攵" target="_blank">攵</a> <span class="z_ts2">部外</span> 9<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">基本区</span> 6570<span class="z_ts2">笔顺</span> 4312345313134                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6570_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6001" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">数</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>数</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">數</span>）</strong></p>
+<p><span class="dicpy">sh&ugrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&ugrave;.mp3"></a></span>  ㄕㄨˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>表示、划分或计算出来的量：～目。～量。～词。～论（数学的一支，主要研究正整数的性质以及和它有关的规律）。～控。</li>
+	<li>几，几个：～人。～日。</li>
+	<li>技艺，学术：&ldquo;今夫弈之为～，小～也&rdquo;。</li>
+	<li>命运，天命：天～。气～。</li>
+</ol>
+<p>● <strong>数</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">數</span>）</strong></p>
+<p><span class="dicpy">shǔ  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span>  ㄕㄨˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>一个一个地计算：不可胜～。～九。</li>
+	<li>比较起来突出：～得着。</li>
+	<li>责备，列举过错：～落。</li>
+	<li>谈论，述说：～说。～典忘祖（喻忘掉自己本来的情况，亦喻对于本国历史的无知）。</li>
+</ol>
+<p>● <strong>数</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">數</span>）</strong></p>
+<p><span class="dicpy">shu&ograve;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shu&ograve;.mp3"></a></span>  ㄕㄨㄛˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>屡次：～见不鲜（亦称&ldquo;屡见不鲜&rdquo;）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> number; several, count; fate</p><p><span class="z_ts2">德语</span> zählen, abzählen, gelten  (V)​,häufig, oft,Numerus, Numeri (Zählform; Singular, Dual od. Plural)​ <Grammatik&gt (S, Sprachw)​,Nummer (S)​,abzählen (V)​,nummerieren (V)</p><p><span class="z_ts2">法语</span> nombre,nombre,quelques,plusieurs,compter</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">数</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>数</strong></p>
+<p>數 <span class="dicpy">shǔ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (形声。从攴( <span class="dicpy">pū</span>)，娄声。本义:点数;计算)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[count]</span></p>
+<p><span class="diczx1">數，计也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">以岁之上下数邦用。&mdash;&mdash;<span class="smcs">《周礼&middot;廪人》</span></span></p>
+<p><span class="diczx1">递数之不能终其物。&mdash;&mdash;<span class="smcs">《礼记&middot;儒行》</span></span></p>
+<p><span class="diczx1">善数不用筹策。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><span class="diczx1">珠可历历数也。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx1">自</span><span class="diczx2">董卓</span>以来，豪杰并起，跨州连郡者不可胜数。&mdash;&mdash;<span class="smcs">《三国志&middot;诸葛亮传》</span></p>
+<p><span class="diczx3">又如:从一数到十;数拾(查点;收拾);数白道黑(卖弄口舌);数白论黄(计较银钱。白:白银。黄:黄金);数筹定点(数筹码计算时间);数东瓜，道茄子(尽情谈论各种事情);数米而炊，称柴而爨(比喻吝啬之极);数数儿;数不胜数;数课(计算并予登记);数墨(计算书本上的文字)</span></p>
+<p><span class="cino">(3)</span> 比较起来最突出 <span class="encs">[be uppermost]</span>。</p><p><span class="diczx3">如:数一数二;数不着;数得上</span></p>
+<p><span class="cino">(4)</span> 枚举;列举 <span class="encs">[enumerate]</span></p>
+<p><span class="diczx1">其余以俭立名，以侈自败者多矣，不可遍数，聊举数人以训汝。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">司马光</span><span class="smcs">《训俭示康》</span></p>
+<p><span class="diczx1">数</span><span class="diczx2">吕师孟</span>叔侄为逆。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">文天祥</span><span class="smcs">《指南录&middot;后序》</span></p>
+<p><span class="diczx3">又如:不可胜数;历数其罪;数之于前</span></p>
+<p><span class="cino">(5)</span> 数落;责备 <span class="encs">[scold]</span></p>
+<p><span class="diczx1">数，责也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">后世其追数吾过乎。&mdash;&mdash;<span class="smcs">《列子&middot;周穆五》</span></span></p>
+<p><span class="diczx1">使</span><span class="diczx2">韩仓</span>数之。&mdash;&mdash;<span class="smcs">《战国策&middot;秦策》</span></p>
+<p><span class="diczx1">日暮，至豪民第门，捽使跪，数之曰。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p>
+<p><span class="diczx3">又如:数驳(方言。责备;教训);数骂(数落责骂);数说;数骂(责骂);数让;数道(责难，责备);数喇(数落;数说)</span></p>
+<p><span class="cino">(6)</span> 诉说，称说 <span class="encs">[say]</span></p>
+<p><span class="diczx1">故诵数以贯之，思索以通之&hellip;&mdash;&mdash;<span class="smcs">《荀子&middot;劝学》</span></span></p>
+<p><span class="diczx3">又如:数贫嘴(油嘴肖舌;耍嘴皮子);数黄道黑(数黄论黑。指说长道短)</span></p>
+<p><span class="cino">(7)</span> 另见 <span class="dicpy">sh&ugrave;;shu&ograve;</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/数不清">数不清</a></span><span class="crefe"><a href="/hans/数不上">数不上</a></span><span class="crefe"><a href="/hans/数不胜数">数不胜数</a></span><span class="crefe"><a href="/hans/数点">数点</a></span><span class="crefe"><a href="/hans/数典忘祖">数典忘祖</a></span><span class="crefe"><a href="/hans/数伏">数伏</a></span><span class="crefe"><a href="/hans/数黑论黄">数黑论黄</a></span><span class="crefe"><a href="/hans/数九">数九</a></span><span class="crefe"><a href="/hans/数九寒天">数九寒天</a></span><span class="crefe"><a href="/hans/数来宝">数来宝</a></span><span class="crefe"><a href="/hans/数落">数落</a></span><span class="crefe"><a href="/hans/数念">数念</a></span><span class="crefe"><a href="/hans/数贫嘴">数贫嘴</a></span><span class="crefe"><a href="/hans/数说">数说</a></span><span class="crefe"><a href="/hans/数算">数算</a></span><span class="crefe"><a href="/hans/数往知来">数往知来</a></span><span class="crefe"><a href="/hans/数一数">数一数</a></span><span class="crefe"><a href="/hans/数一数二">数一数二</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>数</strong></p>
+<p>數 <span class="dicpy">sh&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&ugrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 数目;数量 <span class="encs">[figure;number]</span></p>
+<p><span class="diczx1">窃怜爱之，愿令得补黑衣之数。&mdash;&mdash;<span class="smcs">《战国策&middot;赵策》</span></span></p>
+<p><span class="diczx1">五陵少年争缠头，一曲红绡不知数。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx3">又如:报数(报告数目);数计(以数字来计算);数珠儿(念珠);可被2除尽的数;自然数、整数、有理数、无理数、实数或复数;基数;单数;复数</span></p>
+<p><span class="cino">(2)</span> 底细 <span class="encs">[base]</span>。</p><p><span class="diczx3">如:心里没有数;心中都有个数</span></p>
+<p><span class="cino">(3)</span> 道数，方法 <span class="encs">[method]</span></p>
+<p><span class="diczx1">故为国之数，务在垦草。&mdash;&mdash;<span class="smcs">《商君书》</span></span></p>
+<p><span class="cino">(4)</span> 技艺，如博弈的技艺 <span class="encs">[art]</span></p>
+<p><span class="diczx1">今夫弈之为数，小数也。&mdash;&mdash;<span class="smcs">《孟子&middot;告子上》</span></span></p>
+<p><span class="cino">(5)</span> <span class="encs">[古]</span>∶算术，古代六艺之一 <span class="encs">[arithmetic]</span></p>
+<p><span class="diczx1">三曰六艺:礼、乐、射、御、书、数。&mdash;&mdash;<span class="smcs">《周礼&middot;地官&middot;大司徒》</span></span></p>
+<p><span class="cino">(6)</span> 气数;命运 <span class="encs">[destiny;fate]</span></p>
+<p><span class="diczx2">卫青</span>不败由天幸， <span class="diczx2">李广</span>无功缘数奇。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">王维</span><span class="smcs">《老将行》</span></p>
+<p><span class="diczx1">向使三国各爱其地，</span><span class="diczx2">齐</span>人勿附于 <span class="diczx2">秦</span>，刺客不行，良将犹在，则胜负之数，存亡之理，当与 <span class="diczx2">秦</span>相较，或未易量。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">苏洵</span><span class="smcs">《六国论》</span></p>
+<p><span class="diczx3">又如:数奇(命运不佳;遭遇不顺);数命(命运);数尽禄终(死亡);数劫(厄运)</span></p>
+<p><span class="cino">(7)</span> 策略;权术 <span class="encs">[tactics]</span></p>
+<p><span class="diczx1">以计求便，以数取利。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">王充</span><span class="smcs">《论衡》</span></p>
+<p><span class="cino">(8)</span> 规律;必然性 <span class="encs">[law]</span></p>
+<p><span class="diczx2">汉</span>世外戚，自 <span class="diczx2">东</span>、 <span class="diczx2">西京</span>十有余族，非徒豪横盈极，自取灾故，必于贻衅后主，以至颠败者，其数有可言焉。&mdash;&mdash;<span class="smcs">《后汉书》</span></p>
+<p><span class="cino">(9)</span> 道理 <span class="encs">[reason]</span></p>
+<p><span class="diczx1">夫以疏远与近爱信争，其数不胜也。&mdash;&mdash;<span class="smcs">《韩非子》</span></span></p>
+<p><span class="cino">(10)</span> 礼数;仪节 <span class="encs">[rites]</span></p>
+<p><span class="diczx1">今嬖宠之丧，不敢择位，而数于守适。&mdash;&mdash;<span class="smcs">《左传&middot;庄公十八年》</span></span></p>
+<p><span class="cino">(11)</span> 特指方术，如占卜之类 <span class="encs">[divination]</span></p>
+<p><span class="diczx1">数有所不逮，神有所不通。&mdash;&mdash;<span class="smcs">《楚辞&middot;卜居》</span></span></p>
+<p><span class="diczx3">又如:数家(精于术数的人);数术(术数)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>数</strong></p>
+<p>數 <span class="dicpy">sh&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&ugrave;.mp3"></a></span> </p>
+<p>［数］</p>
+<p><span class="cino">(1)</span> 几个，若干 <span class="encs">[a few;several]</span></p>
+<p><span class="diczx1">忽逢桃花林，夹岸数百步，中无杂树。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">今将军诚能命猛将统兵数万，与</span><span class="diczx2">豫州</span>协规同力，破 <span class="diczx2">操</span>军必矣。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">司马光</span><span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx3">又如:数四(犹三四，表示为数不多);数粒(几粒);数人;数十，数百，数千，数万;数本(几棵;几株);数众(佛教称其教徒人数为&ldquo;众&rdquo;，有若干僧则称若干众);数武(几步);数射(几射。射:一箭能及的距离);数家(几派;几家;几户)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">shǔ;shu&ograve;</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/数表">数表</a></span><span class="crefe"><a href="/hans/数词">数词</a></span><span class="crefe"><a href="/hans/数额">数额</a></span><span class="crefe"><a href="/hans/数据">数据</a></span><span class="crefe"><a href="/hans/数量">数量</a></span><span class="crefe"><a href="/hans/数量词">数量词</a></span><span class="crefe"><a href="/hans/数码">数码</a></span><span class="crefe"><a href="/hans/数目">数目</a></span><span class="crefe"><a href="/hans/数内">数内</a></span><span class="crefe"><a href="/hans/数术">数术</a></span><span class="crefe"><a href="/hans/数学">数学</a></span><span class="crefe"><a href="/hans/数以万计">数以万计</a></span><span class="crefe"><a href="/hans/数值">数值</a></span><span class="crefe"><a href="/hans/数制">数制</a></span><span class="crefe"><a href="/hans/数珠">数珠</a></span><span class="crefe"><a href="/hans/数字">数字</a></span><span class="crefe"><a href="/hans/数罪并罚">数罪并罚</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6570_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=攴" target="_blank">攴</a>】
+                              數·康熙筆画：<a href="/zd/kx/bh/?bh=15" target="_blank">15</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">數</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“数”字头，请参考“<a href="/hans/數">數</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=攴" target="_blank">攴</a>】
+                              數·康熙筆画：<a href="/zd/kx/bh/?bh=15" target="_blank">15</a>　·部外筆画：11</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6578.svg">						  <p>【廣韻】所矩切【集韻】爽主切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音籔。【說文】計也。【易&middot;說卦】數往者順。【詩&middot;小雅】心焉數之。【禮&middot;曲禮】問國君之富，數地以對。</p>
+<p>又【博雅】責也。【左傳&middot;昭二年】使吏數之。【註】責數其罪。</p>
+<p>又【集韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24564.svg"><span class="k_txt">𤕤</span>阻切，音所。義同。</p>
+<p>又【廣韻】色句切【集韻】【韻會】【正韻】雙遇切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音捒。算數也。【羣經音辨】計之有多少曰數。【類篇】枚也。【易&middot;節卦】君子以制數度議德行。【疏】數度，謂尊<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24C1E.svg"><span class="k_txt">𤰞</span>禮命之多少。</p>
+<p>又【繫辭】極數知來之謂占。【疏】蓍策之數。【書&middot;大禹謨】天之曆數在汝躬。【疏】天之曆運之數。【周禮&middot;天官&middot;小宰】掌官常以治數。【註】治數，每事多少異也。【後漢&middot;律曆志】隷首作數。【註】隷首，黃帝之臣。</p>
+<p>又【廣韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>色角切，音朔。頻數也。【禮&middot;祭義】祭不欲數，數則煩。</p>
+<p>又【爾雅&middot;釋詁】數，疾也。【疏】皆謂急疾也。</p>
+<p>又【集韻】蘇谷切，音速。【禮&middot;樂記】衞音趨數煩志。【註】趨數，讀爲促速，聲之誤也。【史記&middot;賈生傳】淹數之度兮，語余其期。【註】徐廣曰：數，速也。</p>
+<p>又【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>趨玉切，音促。細也。【孟子】數罟不入洿池。【趙岐註】密細之網。</p>
+<p>又【集韻】聳取切，音繏。數數，猶汲汲也。</p>
+<p>又所錄切，松入聲。汲水疾也。【莊子&middot;天地篇】數如泆湯。</p>
+<p>又所六切，音縮。數數，迫促意。</p>
+<p>又仕角切，音浞。促也。</p>
+<p>又【韻補】叶先奏切。【陸機&middot;宣猷堂詩】篤生我后，克明克秀。體輝重光，承規景數。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6570_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=攴">攴</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">數</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“数”字头，请参考“<a href="/hans/數">數</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=攴">攴</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6578.svg">                          <p>計也。从攴婁聲。所矩切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6578_2453.svg" /><span class="swbf">(數)</span><span class="ywyy">計也。</span><span class="swdz">六藝六曰九數，今九章筭術是也。今人謂在物者去聲，在人者上聲。昔人不<img class="lazy k_img" data-original="//img.zdic.net/song/cn/275CA.svg"><span class="k_txt">𧗊</span>然。又引伸之義、分析之音甚多，大約速與密二義可包之。</span><span class="ywyy">从攴婁聲。</span><span class="swdz">所矩切。古音在四部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6570_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">数</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂu˥˧; ʂu˨˩˦; ʂuo˥˧ <span class="z_ts4">日语读音</span>  KAZOERU KAZU SEMERU<span class="z_ts4">韩语罗马</span>  SWU CHOK</p>						<p><span class="z_ts3">客家话</span>  [客英字典] sii5 su5<span class="z_ts2">粤语</span>  sou2 sou3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/数">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/数">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/数">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/数">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/数">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/数">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/数">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/数">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/数">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/数">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/数">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/数">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/数">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">数</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「數」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/数"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6578.svg" class="lazy ypic"><span>「數」 說文‧攴部</span></a></td><td><a href="/zd/zx/qx/数"><img data-original="//img.zdic.net/zy/qinwenzi/71_E343.svg" class="lazy ypic"><span>「數」 睡.法147</span></a></td><td><a href="/hans/數" target="_blank"><img data-original="//img.zdic.net/kai/tw/6578.svg" class="lazy ypic"><span>「數」</span></a> </td><td><a href="/hans/数" target="_blank"><img data-original="//img.zdic.net/kai/tw/6570.svg" class="lazy ypic"><span>「数」</span></a></td><td style="display:none"><a href="/hans/数" target="_blank"><img data-original="//img.zdic.net/kai/tw/6570.svg" class="lazy ypic"><span>「数」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/数">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/数">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/数">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6570.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6570.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6570.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6570.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/數' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6578.svg'><span>數</span></a></div> <div class='zx'><a href='/hans/𡢏' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2188F.svg'><span>𡢏</span></a></div> <div class='zx'><a href='/hans/𢿘' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22FD8.svg'><span>𢿘</span></a></div> <div class='zx'><a href='/hans/𢿙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22FD9.svg'><span>𢿙</span></a></div> <div class='zx'><a href='/hans/𣀭' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2302D.svg'><span>𣀭</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6001" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6777">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/豎">豎(shu4)</a></li><li><a href="/hans/树">树(shu4)</a></li><li><a href="/hans/䆝">䆝(shu4)</a></li><li><a href="/hans/䝂">䝂(shu4)</a></li><li><a href="/hans/霔">霔(shu4)</a></li><li><a href="/hans/䢤">䢤(shu4)</a></li><li><a href="/hans/絉">絉(shu4)</a></li><li><a href="/hans/术">术(shu4)</a></li><li><a href="/hans/虪">虪(shu4)</a></li><li><a href="/hans/䉀">䉀(shu4)</a></li><li><a href="/hans/䭭">䭭(shu4)</a></li><li><a href="/hans/䜿">䜿(shu4)</a></li><li><a href="/hans/䠱">䠱(shu3)</a></li><li><a href="/hans/鼠">鼠(shu3)</a></li><li><a href="/hans/䑕">䑕(shu3)</a></li><li><a href="/hans/鱰">鱰(shu3)</a></li><li><a href="/hans/籔">籔(shu3)</a></li><li><a href="/hans/潻">潻(shu3)</a></li><li><a href="/hans/㟬">㟬(shu3)</a></li><li><a href="/hans/㯮">㯮(shu3)</a></li><li><a href="/hans/屬">屬(shu3)</a></li><li><a href="/hans/黍">黍(shu3)</a></li><li><a href="/hans/薥">薥(shu3)</a></li><li><a href="/hans/㻿">㻿(shu3)</a></li><li><a href="/hans/碩">碩(shuo4)</a></li><li><a href="/hans/愬">愬(shuo4)</a></li><li><a href="/hans/䌃">䌃(shuo4)</a></li><li><a href="/hans/䁻">䁻(shuo4)</a></li><li><a href="/hans/洬">洬(shuo4)</a></li><li><a href="/hans/數">數(shuo4)</a></li><li><a href="/hans/鑠">鑠(shuo4)</a></li><li><a href="/hans/矟">矟(shuo4)</a></li><li><a href="/hans/硕">硕(shuo4)</a></li><li><a href="/hans/㮶">㮶(shuo4)</a></li><li><a href="/hans/䀥">䀥(shuo4)</a></li><li><a href="/hans/槊">槊(shuo4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/攻">攻</a></li><li><a href="/hans/敻">敻</a></li><li><a href="/hans/敛">敛</a></li><li><a href="/hans/數">數</a></li><li><a href="/hans/救">救</a></li><li><a href="/hans/敌">敌</a></li><li><a href="/hans/敚">敚</a></li><li><a href="/hans/敓">敓</a></li><li><a href="/hans/斂">斂</a></li><li><a href="/hans/整">整</a></li><li><a href="/hans/攼">攼</a></li><li><a href="/hans/散">散</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/嗌">嗌</a></li><li><a href="/hans/溔">溔</a></li><li><a href="/hans/筼">筼</a></li><li><a href="/hans/煄">煄</a></li><li><a href="/hans/蜎">蜎</a></li><li><a href="/hans/楂">楂</a></li><li><a href="/hans/虡">虡</a></li><li><a href="/hans/腽">腽</a></li><li><a href="/hans/㮛">㮛</a></li><li><a href="/hans/颔">颔</a></li><li><a href="/hans/椸">椸</a></li><li><a href="/hans/榃">榃</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">墙角<span>数</span>枝梅，凌寒独自开。</div><div class="gscdr">宋·王安石 《梅花》</div><div class="gscdl">京口瓜洲一水间，钟山只隔<span>数</span>重山。</div><div class="gscdr">宋·王安石 《泊船瓜洲》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">屠暴起，以刀劈狼首，又<span>数</span>刀毙之。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">以为顺流下矣，棹<span>数</span>小舟，曳铁钯，寻十余里，无迹。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">如其言，果得于<span>数</span>里外。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">忽逢桃花林，夹岸<span>数</span>百步，中无杂树，芳草鲜美，落英缤纷，渔人甚异之，复前行，欲穷其林。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">复行<span>数</span>十步，豁然开朗。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">余人各复延至其家，皆出酒食。停<span>数</span>日，辞去。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6001"></script>
+</body>
+</html>

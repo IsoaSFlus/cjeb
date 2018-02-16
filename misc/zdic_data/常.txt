@@ -1,0 +1,639 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>常的解释|常的意思|汉典“常”字的基本解释</title>
+<meta name="title" content="常的解释|常的意思|汉典“常”字的基本解释">
+<meta name="keywords" content="上：龸，下：吊。 " /><meta property="og:title" content="“常”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“常”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“常”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/常" />
+<link rel="canonical" href="//www.zdic.net/hans/常" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/常" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/常" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/常" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/常">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/常">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5E38.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5E38.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">cháng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“常”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cháng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄔㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“常”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄤˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=巾" target="_blank">  巾</a></p>
+                              <p><span class="z_ts2">部外</span>  8</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_ytz2"><a href='/hans/㦂' target=_blank>㦂</a> <a href='/hans/嫦' target=_blank>嫦</a> <a href='/hans/裳' target=_blank>裳</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5E38</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>24345251252</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ipkh</p></td>                            <td class="dsk_2_1"><p>fbrlb</p></td>                            <td class="dsk_2_1"><p>kojl</p></td>                            <td class="dsk_2_1"><p>90227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">cháng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“常”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cháng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄔㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“常”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄤˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=巾" target="_blank">巾</a> <span class="z_ts2">部外</span> 8<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">基本区</span> 5E38<span class="z_ts2">笔顺</span> 24345251252                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5E38_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4153" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>常</strong></p><p><span class="dicpy">ch&aacute;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span>  ㄔㄤˊ</span></p><hr class="dichr" /><ol>	<li>长久，固定不变：～数。～量（亦称&ldquo;恒量&rdquo;）。～项。～任。～年。～驻。～住。～备不懈。</li>	<li>副词，经常，时时（叠），不只一次：～～。～客。时～。经～。</li>	<li>普通的，一般的：～识。～务。～规。～情。～人。平～。反～。</li>	<li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> common, normal, frequent, regular</p><p><span class="z_ts2">德语</span> allgemein, oft</p><p><span class="z_ts2">法语</span> souvent,fréquemment,ordinaire,commun,constant,invariable</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>常</strong> <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从巾，尚声。本义:旗)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[flag]</span></p>
+<p><span class="diczx1">纪于太常。&mdash;&mdash;<span class="smcs">《书&middot;君牙》</span>。传:&ldquo;王之旌旗画日月曰太常。</span></p>
+<p><span class="diczx1">载是常服。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;六月》</span></span></p>
+<p><span class="cino">(3)</span> 裙子 <span class="encs">[skirt]</span></p>
+<p><span class="diczx2">叔旦</span>泣涕于常，悲不能对。&mdash;&mdash;<span class="smcs">《逸周书》</span></p>
+<p><span class="diczx1">常，下裙也。&mdash;&mdash;<span class="smcs">《说文》</span>。</span><span class="diczx2">朱骏声</span>曰:&ldquo;常裳二字，经传截然分开，并不通借。&rdquo;</p>
+<p><span class="cino">(4)</span> 规则，规律 <span class="encs">[routine;law]</span></p>
+<p><span class="diczx1">陈常于时夏。&mdash;&mdash;<span class="smcs">《诗&middot;周颂&middot;思文》</span></span></p>
+<p><span class="diczx1">天行有常，不为</span><span class="diczx2">尧</span>存，不为 <span class="diczx2">桀</span>亡。&mdash;&mdash;<span class="smcs">《荀子&middot;天论》</span></p>
+<p><span class="diczx3">又如:常古(旧法，常法);常故(旧例;常例);常式(法式)</span></p>
+<p><span class="cino">(5)</span> 封建社会宣扬的所谓恒久不变的人与人之间的关系准则，即伦常;纲常 <span class="encs">[feudal order of importance or seniority in human relationships]</span>。</p>
+<p><span class="diczx3">如:常伦(伦常);三纲五常</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>常</strong> <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">量</span></p>
+<p>古代长度单位。一丈六尺为常 <span class="encs">[sixteen feet]</span></p>
+<p><span class="diczx1">寻舒两肱也，倍寻谓之常。&mdash;&mdash;<span class="smcs">《小尔雅&middot;广度》</span></span></p>
+<p><span class="diczx1">蒲筵常。&mdash;&mdash;<span class="smcs">《仪礼&middot;公食礼》</span>。注:&ldquo;丈六尺曰常，半常曰寻。&rdquo;</span></p>
+<p><span class="diczx1">酋予常有四尺。&mdash;&mdash;<span class="smcs">《考工记》</span></span></p>
+<p><span class="diczx1">争寻常以尽其民。&mdash;&mdash;<span class="smcs">《左传&middot;成公十二年》</span></span></p>
+<p><span class="diczx1">不过墨丈寻常之间。&mdash;&mdash;<span class="smcs">《国语&middot;周语》</span></span></p>
+<p><span class="diczx1">寻常之沟。&mdash;&mdash;<span class="smcs">《庄子&middot;庚桑楚》</span></span></p>
+<p>◎ <strong>常</strong> <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 恒久;长久不变 <span class="encs">[constant;fixed;invariable]</span></p>
+<p><span class="diczx1">常，质也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">未变常也。&mdash;&mdash;<span class="smcs">《易象下传》</span>。</span><span class="diczx2">虞</span>注:&ldquo;恒也。&rdquo;</p>
+<p><span class="diczx2">鲁</span>邦是常。&mdash;&mdash;<span class="smcs">《诗&middot;鲁颂&middot;閟宫》</span></p>
+<p><span class="diczx1">天命靡常。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;文王》</span></span></p>
+<p><span class="diczx1">日月以为常。&mdash;&mdash;<span class="smcs">《国语&middot;越语》</span></span></p>
+<p><span class="diczx1">故官无常贵，而民无终贱。&mdash;&mdash;<span class="smcs">《墨子&middot;尚贤》</span></span></p>
+<p><span class="diczx1">圣人无常师。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx3">又如:常德(始终不变的品德);常心(固执不变的心);常安(永久的平安)</span></p>
+<p><span class="cino">(2)</span> 一般;普通;正常 <span class="encs">[ordinary;common;normal]</span></p>
+<p><span class="diczx1">其有常。&mdash;&mdash;<span class="smcs">《诗&middot;唐风&middot;鸨羽》</span></span></p>
+<p><span class="diczx1">则维其常。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;十月之交》</span></span></p>
+<p><span class="diczx1">顾人之常情，由俭入奢易，由奢入俭难。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">司马光</span><span class="smcs">《训俭示康》</span></p>
+<p><span class="diczx1">且欲与常马等不可得。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《杂说》</span></p>
+<p><span class="diczx1">白乐天游大林寺诗云:&ldquo;人间四月芳菲尽，山寺桃花始盛开。&rdquo;盖常理也。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx3">又如:常时(平时;平日);常言(平常的话;普通的话)</span></p>
+<p><span class="cino">(3)</span> 一定 <span class="encs">[fixed;established]</span>。</p>
+<p><span class="diczx3">如:常刑(一定的刑罚);常序(一定的次序)</span></p>
+<p>◎ <strong>常</strong> <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 经常，常常 <span class="encs">[frequently;often]</span></p>
+<p><span class="diczx1">常生常化者，无时不生，无时不化。&mdash;&mdash;<span class="smcs">《列子》</span></span></p>
+<p><span class="diczx2">汉王</span>急，推堕 <span class="diczx2">孝惠</span>、 <span class="diczx2">鲁元</span>车下; <span class="diczx2">滕公</span>常下，收载之，如是者三。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></p>
+<p><span class="diczx1">良因异之，常习诵之。&mdash;&mdash;<span class="smcs">《史记&middot;留侯世家》</span></span></p>
+<p><span class="diczx1">千里马常有，而</span><span class="diczx2">伯乐</span>不常有。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《杂说》</span></p>
+<p><span class="diczx3">又如:常见面;常则是(经常是，总是);常时(时常，常常);常参官(日常参朝的官吏);常惺惺(佛教语。指头脑经常或长久保持清醒);常经(经常);常赁(经常受雇于人)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;尝&rdquo;。曾经 <span class="encs">[have already]</span></p>
+<p><span class="diczx1">子常语诸梁也曰:凡事若小若大，寡不道以权成。&mdash;&mdash;<span class="smcs">《庄子&middot;人间世》</span></span></p>
+<p><span class="diczx1">主父常游于此。&mdash;&mdash;<span class="smcs">《韩非子&middot;外储说左上》</span></span></p>
+<p><span class="diczx1">夫日、月之有蚀，风雨之不时，怪星之常见，是无世而不常有之。&mdash;&mdash;<span class="smcs">《荀子&middot;天论》</span></span></p>
+<p><span class="diczx2">高祖</span>为亭长时，常告归之田。&mdash;&mdash;<span class="smcs">《史记&middot;高祖本纪》</span></p>
+<p><span class="diczx2">项伯</span>常杀人，从良匿。&mdash;&mdash;<span class="smcs">《史记&middot;留侯世家》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/常备">常备</a></span><span class="crefe"><a href="/hans/常备不懈">常备不懈</a></span><span class="crefe"><a href="/hans/常备军">常备军</a></span><span class="crefe"><a href="/hans/常常">常常</a></span><span class="crefe"><a href="/hans/常川">常川</a></span><span class="crefe"><a href="/hans/常度">常度</a></span><span class="crefe"><a href="/hans/常规">常规</a></span><span class="crefe"><a href="/hans/常规化">常规化</a></span><span class="crefe"><a href="/hans/常规武器">常规武器</a></span><span class="crefe"><a href="/hans/常轨">常轨</a></span><span class="crefe"><a href="/hans/常会">常会</a></span><span class="crefe"><a href="/hans/常见">常见</a></span><span class="crefe"><a href="/hans/常可">常可</a></span><span class="crefe"><a href="/hans/常来常往">常来常往</a></span><span class="crefe"><a href="/hans/常礼">常礼</a></span><span class="crefe"><a href="/hans/常绿">常绿</a></span><span class="crefe"><a href="/hans/常年">常年</a></span><span class="crefe"><a href="/hans/常年">常年</a></span><span class="crefe"><a href="/hans/常情">常情</a></span><span class="crefe"><a href="/hans/常任">常任</a></span><span class="crefe"><a href="/hans/常设">常设</a></span><span class="crefe"><a href="/hans/常识">常识</a></span><span class="crefe"><a href="/hans/常事">常事</a></span><span class="crefe"><a href="/hans/常数">常数</a></span><span class="crefe"><a href="/hans/常态">常态</a></span><span class="crefe"><a href="/hans/常谈">常谈</a></span><span class="crefe"><a href="/hans/常套">常套</a></span><span class="crefe"><a href="/hans/常温">常温</a></span><span class="crefe"><a href="/hans/常务">常务</a></span><span class="crefe"><a href="/hans/常务委员会">常务委员会</a></span><span class="crefe"><a href="/hans/常言">常言</a></span><span class="crefe"><a href="/hans/常用">常用</a></span><span class="crefe"><a href="/hans/常用对数">常用对数</a></span><span class="crefe"><a href="/hans/常驻">常驻</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>常</rb></rbc><rtc><rt>ㄔㄤˊ</rt></rtc><rtc><rt>ch&aacute;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4759.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">倫理關係。</span><span class="gc_lz">如：「倫<b>常</b>」、「三綱五<b>常</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如漢代有常惠。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">普通的、一般的。</span><span class="gc_lz">如：「平<b>常</b>」、「常識」、「人之常情」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">固定不變的。</span><span class="gc_lz">如：「常規」。</span><span class="gc_yy">《老子&middot;第四十九章》：「聖人無<b>常</b>心，以百姓心為心。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">規律的、定期的。</span><span class="gc_lz">如：「<b>常</b>期」、「常會」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">長久不變的。</span><span class="gc_lz">如：「常設」、「知足常樂」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">時時、一次又一次，表示頻繁的意思。</span><span class="gc_lz">如：「常<b>常</b>」、「時<b>常</b>」、「老生常談」。</span><span class="gc_yy">唐˙韓愈〈雜說〉：「千里馬<b>常</b>有而伯樂不<b>常</b>有。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5E38_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集中" target="_blank">寅集中</a>】【<a href="/zd/kx/?zm=寅集中&amp;bs=巾" target="_blank">巾</a>】
+                              常·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集中" target="_blank">寅集中</a>】【<a href="/zd/kx/?zm=寅集中&amp;bs=巾" target="_blank">巾</a>】
+                              常·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5E38.svg">						  <p>【唐韻】市羊切【集韻】【韻會】辰羊切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音裳。【玉篇】恆也。【正韻】久也。【易&middot;坤卦】後得主而有常。【繫辭】動靜有常。【詩&middot;周頌】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>常于時夏。【箋】謂<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>久長之功，於是夏而歌之。【朱傳】謂君臣父子之常道。</p><p>又五常。【書&middot;舜典愼徽五典傳】五典，五常之敎，父義，母慈，兄友，弟恭，子孝。</p><p>又【五品傳】五品，謂五常。【疏】此事可常行，乃爲五常耳。</p><p>又神名。【荀子&middot;九家易】兌爲常，西方之神也。</p><p>又地名。【詩&middot;魯頌】居常與許。【傳】常許，魯南鄙西鄙也。</p><p>又州名。【隋書&middot;地理志】毗陵郡平<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>置常州。</p><p>又山名。【前漢&middot;地理志】常山郡。【註】恆山在西，避漢文帝諱，故改曰常山。</p><p>又水名。【史記&middot;夏本紀】常衞旣從。【註】常水，出常山上曲陽縣。【書&middot;禹貢】作恆。</p><p>又旂名。【周禮&middot;春官】司常掌九旗之物名，日月爲常。【又】王建大常。【釋名】日月爲常。謂畫日月於其端，天子所建，言常明也。</p><p>又常服。【詩&middot;小雅】載是常服。【傳】日月爲常服，戎服也。</p><p>又【廣韻】倍尋曰常。</p><p>又車戟名。【釋名】車戟曰常，長丈六尺，車上所持也。八尺曰尋，倍尋曰常，故曰常也。</p><p>又木名。【爾雅&middot;釋木】常棣。【註】關西棣樹，子如櫻桃，可食。【詩&middot;小雅】彼爾維何，維常之華。</p><p>又姓。【廣韻】出河內。【前漢&middot;常惠傳】惠，太原人，甘露中爲右將軍。</p><p>又與裳同。【說文】下帬也。【徐鉉曰】下直而垂，象巾，故从巾。今文作裳。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5E38_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=巾">巾</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=巾">巾</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5E38.svg">                          <p>下帬也。从巾尚聲。<img class="swtimg" src="//img.zdic.net/swxz/88F3.svg" />裳，常或从衣。市羊切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5E38_1681.svg" /><span class="swbf">(常)</span><span class="ywyy">下帬也。</span><span class="swdz">釋名曰：上曰衣，下曰裳。裳，障也，以自障蔽也。士冠禮：爵弁，服纁裳。皮弁，服素積。玄端，玄裳，黃裳，襍裳可也。禮記深衣：續衽鉤邊。要縫半下。今字裳行而常廢矣。</span><span class="ywyy">从巾尙聲。</span><span class="swdz">从巾者，取其方幅也，引伸爲經常字。市羊切。十部。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5E38_1682.svg" /><span class="swbf">(裳)</span><span class="ywyy">常或从衣。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5E38_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʰɑŋ˧˥ <span class="z_ts4">唐代读音</span>  *zhiɑng<span class="z_ts4">日语读音</span>  TSUNE TOKO TSUNENI<span class="z_ts4">韩语罗马</span>  SANG<span class="z_ts4">现代韩语</span>  상<span class="z_ts3">越南语</span>  thường</p>						<p><span class="z_ts3">客家话</span>  [客英字典] shong2 [陆丰腔] shong3 [梅县腔] shong2 [东莞腔] song2 [客语拼音字汇] song2 [台湾四县腔] song2 [沙头角腔] song2 [宝安腔] song2 [海陆腔] shong2<span class="z_ts2">粤语</span>  soeng4</p>						<p><span class="z_ts3">近代音</span>  穿母    江陽韻    平聲陽    長小空；<span class="z_ts3">中古音</span>  禪母    陽韻    平聲    常小韻    市羊切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：定母    唐部   ；王力系统：禪母    陽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/常">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/常">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/常">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/常">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/常">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/常">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/常">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/常">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/常">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/常">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/常">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/常">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">常</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/常"><img data-original="//img.zdic.net/zy/jinwen/32_F6AD.svg" class="lazy ypic"><span>「尚」 陳公子叔𨙅父甗</span><span>春秋早期</span><span>集成947</span></a></td><td><a href="/zd/zx/cx/常"><img data-original="//img.zdic.net/zy/chuwenzi/52_F200.svg" class="lazy ypic"><span>「常」 包2.203</span></a></td><td><a href="/zd/zx/xz/常"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5E38.svg" class="lazy ypic"><span>「常」 說文‧巾部</span></a></td><td><a href="/zd/zx/qx/常"><img data-original="//img.zdic.net/zy/qinwenzi/71_E87C.svg" class="lazy ypic"><span>「常」 睡.日乙23</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/常" target="_blank"><img data-original="//img.zdic.net/kai/tw/5E38.svg" class="lazy ypic"><span>「常」</span></a></td></tr><tr><td style="display:none"></td><td></td><td><a href="/zd/zx/cx/常"><img data-original="//img.zdic.net/zy/chuwenzi/52_F201.svg" class="lazy ypic"><span>「常」 包2.214</span></a></td><td><a href="/zd/zx/xz/常"><img data-original="//img.zdic.net/zy/xiaozhuan/27_88F3.svg" class="lazy ypic"><span>「裳」 說文或體</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td></td><td><a href="/zd/zx/cx/常"><img data-original="//img.zdic.net/zy/chuwenzi/52_F202.svg" class="lazy ypic"><span>「裳」 包2.244</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/常">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/常">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/常">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/常">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/常">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5E38.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5E38.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5E38.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5E38.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5E38.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㦂' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3982.svg'><span>㦂</span></a></div> <div class='zx'><a href='/hans/嫦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5AE6.svg'><span>嫦</span></a></div> <div class='zx'><a href='/hans/裳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/88F3.svg'><span>裳</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4153" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4525">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/倘">倘(chang2)</a></li><li><a href="/hans/瓺">瓺(chang2)</a></li><li><a href="/hans/𠑻">𠑻(chang2)</a></li><li><a href="/hans/徜">徜(chang2)</a></li><li><a href="/hans/苌">苌(chang2)</a></li><li><a href="/hans/裳">裳(chang2)</a></li><li><a href="/hans/嘗">嘗(chang2)</a></li><li><a href="/hans/嫦">嫦(chang2)</a></li><li><a href="/hans/㦂">㦂(chang2)</a></li><li><a href="/hans/龦">龦(chang2)</a></li><li><a href="/hans/鱨">鱨(chang2)</a></li><li><a href="/hans/镸">镸(chang2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㡊">㡊</a></li><li><a href="/hans/幔">幔</a></li><li><a href="/hans/帬">帬</a></li><li><a href="/hans/㡩">㡩</a></li><li><a href="/hans/幪">幪</a></li><li><a href="/hans/幫">幫</a></li><li><a href="/hans/㡍">㡍</a></li><li><a href="/hans/带">带</a></li><li><a href="/hans/幤">幤</a></li><li><a href="/hans/帊">帊</a></li><li><a href="/hans/幬">幬</a></li><li><a href="/hans/㡆">㡆</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/猚">猚</a></li><li><a href="/hans/救">救</a></li><li><a href="/hans/庺">庺</a></li><li><a href="/hans/傦">傦</a></li><li><a href="/hans/堌">堌</a></li><li><a href="/hans/谔">谔</a></li><li><a href="/hans/菔">菔</a></li><li><a href="/hans/萕">萕</a></li><li><a href="/hans/紹">紹</a></li><li><a href="/hans/焄">焄</a></li><li><a href="/hans/朚">朚</a></li><li><a href="/hans/𠒝">𠒝</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">岐王宅里寻<span>常</span>见，崔九堂前几度闻。</div><div class="gscdr">唐·杜甫 《江南逢李龟年》</div><div class="gscdl">宋之丁氏，家无井而出溉汲，<span>常</span>一人居外。</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">“卿言多务，孰若孤？孤<span>常</span>读书，自以为大有所益。”蒙乃始就学。</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">每至晴初霜旦，林寒涧肃，<span>常</span>有高猿长啸，属引凄异，空谷传响，哀转久绝。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">风声一何盛，松枝一何劲！冰霜正惨凄，终岁<span>常</span>端正。</div><div class="gscdr">魏晋·刘桢 《赠从弟》</div><div class="gscdl"><span>常</span>记溪亭日暮，沉醉不知归路。</div><div class="gscdr">宋·李清照 《如梦令》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=4153"></script>
+</body>
+</html>

@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>蒸的解释|蒸的意思|汉典“蒸”字的基本解释</title>
+<meta name="title" content="蒸的解释|蒸的意思|汉典“蒸”字的基本解释">
+<meta property="og:title" content="“蒸”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“蒸”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“蒸”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/蒸" />
+<link rel="canonical" href="//www.zdic.net/hans/蒸" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/蒸" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/蒸" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/蒸" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/蒸">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/蒸">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/84B8.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/84B8.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhēng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒸”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒸”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄥ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">  艹</a></p>
+                              <p><span class="z_ts2">部外</span>  10</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/𩟘' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/297D8.svg'><span class='ytz_txt'>𩟘</span></a>  <a href='/hans/烝' target=_blank>烝</a>  <a href='/hans/䒱' target=_blank>䒱</a>  <a href='/hans/𦲶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26CB6.svg'><span class='ytz_txt'>𦲶</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+84B8</p></td>
+                            <td class="dsk_2_1">上中下结构</td>                            <td align="center" class="z_bis2"><p>1225253414444</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>abio</p></td>                            <td class="dsk_2_1"><p>tnef</p></td>                            <td class="dsk_2_1"><p>exau</p></td>                            <td class="dsk_2_1"><p>44331</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhēng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒸”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒸”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄥ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">艹</a> <span class="z_ts2">部外</span> 10<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">统一码</span> 84B8<span class="z_ts2">笔顺</span> 1225253414444                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="84B8_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=14009" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>蒸</strong></p><p><span class="dicpy">zhēng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span>  ㄓㄥˉ</span></p><ol><li>热气上升：～汽。～腾。～发。～气（液体或固体因蒸发沸腾或升华而变成的气体）。～馏。云～霞蔚。～～日上。</li><li>用水蒸气的热力把东西加热或使熟：～饼。～饺。～笼。</li><li>古代以麻秸、竹木制成的火炬：～烛。</li><li>细小的木柴。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> steam; evaporate</p><p><span class="z_ts2">德语</span> dämpfen, verdampfen, verdunsten  (V, Ess)</p><p><span class="z_ts2">法语</span> s'évaporer,cuire à la vapeur</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>蒸</strong> <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。烝声。本义:麻秆)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[hemp stalk]</span></p><p><span class="diczx1">蒸，析麻中干也。——<span class="smcs">《说文》</span>。今俗谓之麻骨棓，古烛用之，故凡用麻干葭苇竹木为烛皆曰蒸。</span></p><p><span class="diczx1">蒸，炬也。——<span class="smcs">《广雅》</span></span></p><p><span class="diczx1">故云烛用蒸也。——<span class="smcs">《仪礼》</span>疏</span></p><p><span class="cino">(3)</span> 细小的木柴 <span class="encs">[small firewood]</span></p><p><span class="diczx1">共祭祀之薪蒸材木。——<span class="smcs">《周礼·委人》</span>。注:<span class="yhcs">“给炊及燎，粗者曰薪，细者曰蒸。”</span></span></p><p><span class="diczx1">蒸间容蒸然者处下。——<span class="smcs">《管子·弟子职》</span>。注:<span class="yhcs">“细薪也。”</span></span></p><p><span class="diczx1">以薪以蒸。——<span class="smcs">《诗·小雅》</span></span></p><p><span class="cino">(4)</span> 又如:蒸薪(木柴)</p><p><span class="cino">(5)</span> 以麻秸、竹木制成的火炬 <span class="encs">[torch]</span>。如:蒸烛(古指以麻秆、竹木等制成的火炬)</p><p><span class="cino">(6)</span> 中药炮制法之一 <span class="encs">[steaming]</span>。将药物隔水蒸熟，以便于制剂。如茯苓、厚朴蒸后易于切片。或加酒拌蒸，如大黄、地黄经蒸制后，熟大黄的泻下减弱，熟地黄便成温性而滋肾补血</p><p><strong>词性变化</strong></p><p>◎ <strong>蒸</strong> <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 假借为<span class="yhcs">“烝”</span>。气体上升 <span class="encs">[evaporate]</span></p><p><span class="diczx1">蒸灵液以播云。——</span><span class="diczx2">嵇康</span><span class="smcs">《琴赋》</span>。注:<span class="yhcs">“气上貌。”</span></p><p><span class="diczx1">阴阳陶蒸。——</span><span class="diczx2">张华</span><span class="smcs">《鹪鹩赋》</span>。注:<span class="yhcs">“气上山貌。”</span></p><p><span class="diczx1">日气蒸云。——<span class="smcs">《广东军务记》</span></span></p><p><span class="cino">(2)</span> 又如:蒸樊(热气郁勃上升);蒸郁(湿气旺盛上升)</p><p><span class="cino">(3)</span> 同<span class="yhcs">“烝”</span>。古代祭祀时以牲之全体置于俎上 <span class="encs">[sacrifice]</span></p><p><span class="diczx1">冬祭曰蒸。——<span class="smcs">《尔雅》</span></span></p><p><span class="cino">(4)</span> 又如:蒸禋(祭祀)</p><p><span class="cino">(5)</span> 烧煮 <span class="encs">[steam]</span></p><p><span class="diczx1">素汤米饭蒸卷馒头。——<span class="smcs">《西游记》</span></span></p><p><span class="cino">(6)</span> 又如:蒸粟(蒸熟的粟子是黄色的，因以蒸粟比喻黄色);蒸暑(闷热，暑热如蒸);蒸黎(蒸煮野菜)</p><p>◎ <strong>蒸</strong> <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 同<span class="yhcs">“烝”</span>。众，多 <span class="encs">[many]</span></p><p><span class="diczx1">天生蒸民。——<span class="smcs">《孟子·告子上》</span></span></p><p><span class="diczx1">立我蒸民。——<span class="smcs">《列子·仲尼》</span></span></p><p><span class="diczx1">莘莘蒸徒。——</span><span class="diczx2">左思</span><span class="smcs">《魏都赋》</span></p><p><span class="cino">(2)</span> 又如:蒸天价(满天地;通天地);蒸人(众人);蒸民(众民，人民);蒸庶(百姓，众民);蒸黎(民众)</p><p><span class="cino">(3)</span> 热 <span class="encs">[hot]</span>。如:蒸炎(形容气候闷热);蒸暑(形容盛暑天气闷热);蒸闷(闷热);蒸溽(湿热)</p><p><span class="cino">(4)</span> 兴盛的样子 <span class="encs">[prosperous;thriving]</span>。如:蒸蒸(兴盛的样子)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蒸饼">蒸饼</a></span><span class="crefe"><a href="/hans/蒸发">蒸发</a></span><span class="crefe"><a href="/hans/蒸锅">蒸锅</a></span><span class="crefe"><a href="/hans/蒸馏">蒸馏</a></span><span class="crefe"><a href="/hans/蒸馏水">蒸馏水</a></span><span class="crefe"><a href="/hans/蒸馏柱">蒸馏柱</a></span><span class="crefe"><a href="/hans/蒸笼">蒸笼</a></span><span class="crefe"><a href="/hans/蒸馍">蒸馍</a></span><span class="crefe"><a href="/hans/蒸气">蒸气</a></span><span class="crefe"><a href="/hans/蒸汽">蒸汽</a></span><span class="crefe"><a href="/hans/蒸汽锤">蒸汽锤</a></span><span class="crefe"><a href="/hans/蒸汽机">蒸汽机</a></span><span class="crefe"><a href="/hans/蒸散">蒸散</a></span><span class="crefe"><a href="/hans/蒸食">蒸食</a></span><span class="crefe"><a href="/hans/蒸腾">蒸腾</a></span><span class="crefe"><a href="/hans/蒸蒸日上">蒸蒸日上</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>蒸</rb></rbc><rtc><rt>ㄓㄥ</rt></rtc><rtc><rt>zhēng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4480.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">热气上升。</span><span class="gc_lz">如：「蒸发」。</span><span class="gc_yy">《国语·周语上》：「阳气俱<b>蒸</b>，土膏其动。」</span></p></li><li><p class="def"><span class="gc_sy">利用水蒸汽的热力把食物煮熟。</span><span class="gc_lz">如：「<b>蒸</b>鱼」。</span><span class="gc_yy">汉·王充《论衡·幸偶》：「<b>蒸</b>谷为饭，酿饭为酒。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="84B8_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蒸·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：10</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蒸·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：10</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/84B8.svg">						  <p>【唐韻】煑仍切，音烝。【說文】折麻中榦也。【詩·小雅】以薪以蒸。【箋】麤曰薪，細曰蒸。【周禮·天官·甸師】帥其徒以薪蒸，役外內饔之事。【疏】自然小者曰蒸也。</p><p>又衆也。【詩·大雅】天生蒸民。</p><p>又地名。【吳越春秋】吳王召公孫聖，使門人提之蒸丘。</p><p>又通烝。【爾雅·釋天】冬祭曰蒸。【註】進品物也。</p><p>又【類篇】諸應切，音證。氣之上達也。【列子註】溫蒸同乎炎火，音去聲。【潘尼·苦雨賦】氣觸石而結蒸，雲膚合而仰浮。　【羣經音辨】蒸，經典蒸祭之蒸多去草，以此爲薪蒸。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="84B8_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/84B8.svg">                          <p>折麻中榦也。从艸烝聲。䒱，蒸或省火。煑仍切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/84B8_5648.svg"  /><span class="swbf">(蒸)</span><span class="ywyy">析麻中榦也。</span><span class="swdz">析各本作折。誤。謂木其皮爲麻。其中莖謂之蒸。亦謂之菆。今俗所謂麻骨棓也。潘岳西征賦李注云。菆井卽渭城賣麻蒸市也。毛詩傳曰。粗曰薪。細曰蒸。周禮甸師注云。大曰薪。小曰蒸。是凡言薪蒸者、皆不必專謂麻骨。古凡燭用蒸。弟子職云。蒸閒容蒸。毛詩傳云。蒸盡摍屋而繼之是也。</span><span class="ywyy">从艸。烝聲。</span><span class="swdz">煑仍切。六部。</span><span class="xh"></span></p><hr><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/84B8_5649.svg"  /><span class="swbf">(䒱)</span><span class="ywyy">蒸或省火。</span><span class="swdz">丞聲烝聲一也。大射儀注、旣夕禮注皆作此䒱。張淳、葉林宗所見釋文皆爾。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="84B8_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂəŋ˥ <span class="z_ts4">唐代读音</span>  jiəng jiɛng<span class="z_ts4">日语读音</span>  MUSU OGARA MURASU<span class="z_ts4">韩语罗马</span>  CUNG<span class="z_ts4">现代韩语</span>  증<span class="z_ts3">越南语</span>  chưng</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] zin1 [客英字典] zhin1 [台湾四县腔] tsiin1 [梅县腔] zhin1 [海陆腔] zhin1 [宝安腔] zin1 [东莞腔] zin1 [客语拼音字汇] zin1<span class="z_ts2">粤语</span>  zing1</p>						<p><span class="z_ts3">近代音</span>  照母    庚青韻    平聲陰    征小空；<span class="z_ts3">中古音</span>  照章母    蒸韻    平聲    蒸小韻    煑仍切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：端母    登部   ；王力系统：章母    蒸部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/蒸">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/蒸">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/蒸">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/蒸">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/蒸">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/蒸">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/蒸">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/蒸">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/蒸">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/蒸">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/蒸">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/蒸">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/蒸">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">蒸</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/蒸"><img data-original="//img.zdic.net/zy/xiaozhuan/27_84B8.svg" class="lazy ypic"><span>「蒸」 說文‧艸部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/蒸" target="_blank"><img data-original="//img.zdic.net/kai/tw/84B8.svg" class="lazy ypic"><span>「蒸」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/蒸"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E0BC.svg" class="lazy ypic"><span>「䒱」 說文或體</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/蒸">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/蒸">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/蒸">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/84B8.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/84B8.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/84B8.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/84B8.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/84B8.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𩟘' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/297D8.svg'><span>𩟘</span></a></div>  <div class='zx'><a href='/hans/烝' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/70DD.svg'><span>烝</span></a></div> <div class='zx'><a href='/hans/䒱' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/44B1.svg'><span>䒱</span></a></div> <div class='zx'><a href='/hans/𦲶' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26CB6.svg'><span>𦲶</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="14009" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7802">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/炡">炡(zheng1)</a></li><li><a href="/hans/眐">眐(zheng1)</a></li><li><a href="/hans/鉦">鉦(zheng1)</a></li><li><a href="/hans/睁">睁(zheng1)</a></li><li><a href="/hans/揁">揁(zheng1)</a></li><li><a href="/hans/脀">脀(zheng1)</a></li><li><a href="/hans/䋊">䋊(zheng1)</a></li><li><a href="/hans/凧">凧(zheng1)</a></li><li><a href="/hans/猙">猙(zheng1)</a></li><li><a href="/hans/争">争(zheng1)</a></li><li><a href="/hans/鬇">鬇(zheng1)</a></li><li><a href="/hans/綪">綪(zheng1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/著">著</a></li><li><a href="/hans/莻">莻</a></li><li><a href="/hans/萔">萔</a></li><li><a href="/hans/莽">莽</a></li><li><a href="/hans/䒗">䒗</a></li><li><a href="/hans/荌">荌</a></li><li><a href="/hans/苪">苪</a></li><li><a href="/hans/藺">藺</a></li><li><a href="/hans/蘱">蘱</a></li><li><a href="/hans/蓣">蓣</a></li><li><a href="/hans/葁">葁</a></li><li><a href="/hans/蒍">蒍</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㗗">㗗</a></li><li><a href="/hans/雏">雏</a></li><li><a href="/hans/㻟">㻟</a></li><li><a href="/hans/慈">慈</a></li><li><a href="/hans/勠">勠</a></li><li><a href="/hans/𠍝">𠍝</a></li><li><a href="/hans/誆">誆</a></li><li><a href="/hans/㬊">㬊</a></li><li><a href="/hans/䂽">䂽</a></li><li><a href="/hans/溣">溣</a></li><li><a href="/hans/㼱">㼱</a></li><li><a href="/hans/㥵">㥵</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">气<span>蒸</span>云梦泽，波撼岳阳城。</div><div class="gscdr">唐·孟浩然 《望洞庭湖赠张丞相》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=14009"></script>
+</body>
+</html>

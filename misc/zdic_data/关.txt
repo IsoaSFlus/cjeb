@@ -1,0 +1,620 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>关的解释|关的意思|汉典“关”字的基本解释</title>
+<meta name="title" content="关的解释|关的意思|汉典“关”字的基本解释">
+<meta name="keywords" content="上：丷，下：天。 " /><meta property="og:title" content="“关”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“关”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“关”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/关" />
+<link rel="canonical" href="//www.zdic.net/hans/关" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/关" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/关" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/关" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.1" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/关">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/关">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5173.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5173.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">guān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“关”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/guān.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄍㄨㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“关”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄨㄢ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=丷" target="_blank">  丷</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/關' target=_blank>關</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/關' target=_blank>關</a> <a href='/hans/関' target=_blank>関</a> <a href='/hans/闗' target=_blank>闗</a> <a href='/hans/𠴨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20D28.svg'><span class='ytz_txt'>𠴨</span> <a href='/hans/𨳹' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28CF9.svg'><span class='ytz_txt'>𨳹</span> <a href='/hans/𨴊' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D0A.svg'><span class='ytz_txt'>𨴊</span> <a href='/hans/𨵿' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D7F.svg'><span class='ytz_txt'>𨵿</span> <a href='/hans/𨶚' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D9A.svg'><span class='ytz_txt'>𨶚</span> <a href='/hans/𨷀' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28DC0.svg'><span class='ytz_txt'>𨷀</span> <a href='/hans/𨳡' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28CE1.svg'><span class='ytz_txt'>𨳡</span> <a href='/hans/𨳨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28CE8.svg'><span class='ytz_txt'>𨳨</span> <a href='/hans/𫔢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2B522.svg'><span class='ytz_txt'>𫔢</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5173</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>431134</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>udu</p></td>                            <td class="dsk_2_1"><p>tk</p></td>                            <td class="dsk_2_1"><p>uagd</p></td>                            <td class="dsk_2_1"><p>80804</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">guān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“关”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/guān.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄍㄨㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“关”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄨㄢ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=丷" target="_blank">丷</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 5173<span class="z_ts2">笔顺</span> 431134                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5173_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=884" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">关</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>关</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">關</span>）</strong></p>
+<p><span class="dicpy">guān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guān.mp3"></a></span> ㄍㄨㄢˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>闭，合拢：～门。～闭。～张。～停并转（<span class="dicpy">zhǎn</span>）。</li>
+	<li>拘禁：～押。～禁。</li>
+	<li>古代在险要地方或国界设立的守卫处所：～口。～隘。～卡（qiǎ）。～塞（<span class="dicpy">s&agrave;i</span>）。～津。嘉峪～。</li>
+	<li>征收进出口货税的机构：海～。～税。</li>
+	<li>重要的转折点，不易度过的时机：～节。难～。年～。</li>
+	<li>牵连，联属：～连。～联。～心。～涉。～乎。～注。～于。有～。</li>
+	<li>旧指发给或支领薪饷：～饷。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> frontier pass; close; relation</p><p><span class="z_ts2">德语</span> ausschalten, schließen, stilllegen, zumachen  (V)​,Joch, Pass, Passhöhe  (V)</p><p><span class="z_ts2">法语</span> passe,défilé,passage,col,difficulté,douane,fermer,clore,être fermé,éteindre,emprisonner,mettre en prison,concerner,avoir rapport à,faire faillite</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">关</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>关</strong></p>
+<p>關、関 <span class="dicpy">guān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guān.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从门，丱( <span class="dicpy">guān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guān.mp3"></a></span> )声。金文作&ldquo;門&rdquo;，象门里有门闩形，本象形字。小篆繁化，变成了形声字。本义:门闩)</p>
+<p><span class="cino">(2)</span> 门闩。闩门的横木 <span class="encs">[bolt;bar]</span></p>
+<p><span class="diczx1">关，以木横持门户也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx2">臧纥</span>斩鹿门之关以出。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十三年》</span></p>
+<p><span class="diczx2">赢</span>乃夷门抱关者也，而公子亲枉车骑，自迎 <span class="diczx2">赢</span>于众人广坐之中。&mdash;&mdash;<span class="smcs">《史记&middot;魏公子列传》</span></p>
+<p><span class="diczx3">又如:关牡(门闩。也叫门牡);关楗(关闭门户用的横木或木闩);关龠(门上横木。用来闩门)</span></p>
+<p><span class="cino">(3)</span> 关口，隘门 <span class="encs">[frontier pass]</span></p>
+<p><span class="diczx1">万里赴戎机，关山度若飞。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">尝以十倍之地，百万之师，叩关而攻</span><span class="diczx2">秦</span>。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx3">又如:关石(关口征赋所用的量器名);关令(守关口的官吏。即关尹);关梁(关口和桥梁)</span></p>
+<p><span class="cino">(4)</span> 事物的枢纽或重要的转折点 <span class="encs">[key;critical juncture]</span></p>
+<p><span class="diczx1">中有都柱，傍行八道，施关发机。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx3">又如:关目(剧本或故事的情节。引申为演出);关捩(机关);关煞(旧时星象家称所谓命里注定的灾难);关捩子(机关;机轴)</span></p>
+<p><span class="cino">(5)</span> 人体的重要孔窍或肢体 <span class="encs">[the important part of the body]</span></p>
+<p><span class="diczx1">肾者，胃之关也。&mdash;&mdash;<span class="smcs">《素问&middot;水热穴论》</span></span></p>
+<p><span class="diczx3">又如:三关(即耳、眼、口);四关(即耳、眼、口、鼻);关元(人体经穴名之一。在脐下三寸处);关窍(人体的孔穴;诀窍，窍门)</span></p>
+<p><span class="cino">(6)</span> 征收关税的机构、组织或程序 <span class="encs">[customs;custom house]</span></p>
+<p><span class="diczx1">昔者</span><span class="diczx2">文王</span>之治 <span class="diczx2">岐</span>也，耕者九一，仕者世禄，关市讥而不征。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></p>
+<p><span class="diczx3">又如:验关;结关;关栈(税关所设置用来供未经通关的货物积存的仓库。也叫保税仓库)</span></p>
+<p><span class="cino">(7)</span> 古代公文的一种。用于互相质询 <span class="encs">[a document]</span></p>
+<p><span class="diczx1">其上闻及移关诸部，犹未敢然。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:关牒(公文);关报(用文书通知;禀报);关白(禀报;通告);关文札牒(古时官府颁行的文书或通行证件)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>关</strong></p>
+<p>關 <span class="dicpy">guān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guān.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 合拢，闭门 <span class="encs">[shut;close]</span></p>
+<p><span class="diczx1">关，闭也。&mdash;&mdash;<span class="smcs">《方言十二》</span></span></p>
+<p><span class="diczx1">关，界上之门也。&mdash;&mdash;<span class="smcs">《周礼&middot;司关》</span>注</span></p>
+<p><span class="diczx1">园日涉以成趣，门虽设而常关。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《归去来兮辞》</span></p>
+<p><span class="diczx1">春色满园关不住。&mdash;&mdash;</span><span class="diczx2">叶绍翁</span><span class="smcs">《游园不值》</span></p>
+<p><span class="diczx3">又如:关门吃饭(比喻一心一意过日子);关门落闩(比喻到了顶峰，极限)</span></p>
+<p><span class="cino">(2)</span> 引申为幽禁、禁闭 <span class="encs">[lockup]</span>。</p><p><span class="diczx3">如:关在牢里;关押</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;贯&rdquo;。贯通，贯穿 <span class="encs">[pass through]</span></p>
+<p><span class="diczx1">见轮人以其杖关毂而转輠者。&mdash;&mdash;<span class="smcs">《礼记&middot;杂记下》</span></span></p>
+<p><span class="diczx1">其次关木索、被箠楚受辱。&mdash;&mdash;<span class="smcs">《汉书&middot;司马迁传》</span></span></p>
+<p><span class="diczx1">大臣括发关械、裸躬受笞。&mdash;&mdash;<span class="smcs">《汉书&middot;王嘉传》</span></span></p>
+<p><span class="diczx1"><span class="smcs">《春秋》</span>五经，义相关穿。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">王充</span><span class="smcs">《论衡&middot;程材》</span></p>
+<p><span class="diczx3">又如:关穿(关联贯穿);关通(贯通，沟通);关合(贯通;吻合)</span></p>
+<p><span class="cino">(4)</span> 牵连，涉及 <span class="encs">[involve in]</span></p>
+<p><span class="diczx1">故天子一跬步，皆关民命，不可忽也。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx1">你说的何尝不是。但事关人命，&hellip;&hellip;岂可因私枉法。&mdash;&mdash;<span class="smcs">《红楼梦》</span></span></p>
+<p><span class="diczx3">又如:关天(关系于天命);关着(牵涉;别着，带着);关接(接触);关风(涉及风趣，有味)</span></p>
+<p><span class="cino">(5)</span> 闭掉，切断电源使中断 <span class="encs">[turn off]</span>。</p><p><span class="diczx3">如:关收音机</span></p>
+<p><span class="cino">(6)</span> 暂停营业或终止营业日 <span class="encs">[close down]</span>。</p><p><span class="diczx3">如:镇上已关了好几家店铺</span></p>
+<p><span class="cino">(7)</span> 支领，领取 <span class="encs">[draw;receive]</span></p>
+<p><span class="diczx1">三军尽关了粮赏。&mdash;&mdash;<span class="smcs">《水浒》</span>第五十五回</span></p>
+<p><span class="diczx3">又如:关领(支取，领取);关请(领取);关支(领取;支出，发放);关发(颁发;发放);关饷(发薪金);关给(发放，供给)</span></p>
+<p><span class="cino">(8)</span> 关心 <span class="encs">[be concerned with]</span>。</p><p><span class="diczx3">如:关应(关顾照应);关意(放在心上);关思(留心思考);关念(关心挂念)</span></p>
+<p><span class="cino">(9)</span> 通&ldquo;弯&rdquo;。引弓 <span class="encs">[draw (bow)]</span></p>
+<p><span class="diczx2">越</span>人关弓而射之。&mdash;&mdash;<span class="smcs">《孟子&middot;告子下》</span></p>
+<p><span class="diczx1">豹则关矣。&mdash;&mdash;<span class="smcs">《左传&middot;昭公二十一年》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/关碍">关碍</a></span><span class="crefe"><a href="/hans/关隘">关隘</a></span><span class="crefe"><a href="/hans/关报">关报</a></span><span class="crefe"><a href="/hans/关闭">关闭</a></span><span class="crefe"><a href="/hans/关岛">关岛</a></span><span class="crefe"><a href="/hans/关东">关东</a></span><span class="crefe"><a href="/hans/关防">关防</a></span><span class="crefe"><a href="/hans/关顾">关顾</a></span><span class="crefe"><a href="/hans/关汉卿">关汉卿</a></span><span class="crefe"><a href="/hans/关河">关河</a></span><span class="crefe"><a href="/hans/关怀">关怀</a></span><span class="crefe"><a href="/hans/关键">关键</a></span><span class="crefe"><a href="/hans/关节">关节</a></span><span class="crefe"><a href="/hans/关节痛">关节痛</a></span><span class="crefe"><a href="/hans/关节炎">关节炎</a></span><span class="crefe"><a href="/hans/关津">关津</a></span><span class="crefe"><a href="/hans/关紧">关紧</a></span><span class="crefe"><a href="/hans/关禁">关禁</a></span><span class="crefe"><a href="/hans/关口">关口</a></span><span class="crefe"><a href="/hans/关联">关联</a></span><span class="crefe"><a href="/hans/关门">关门</a></span><span class="crefe"><a href="/hans/关门">关门</a></span><span class="crefe"><a href="/hans/关门打狗">关门打狗</a></span><span class="crefe"><a href="/hans/关门大吉">关门大吉</a></span><span class="crefe"><a href="/hans/关内">关内</a></span><span class="crefe"><a href="/hans/关卡">关卡</a></span><span class="crefe"><a href="/hans/关切">关切</a></span><span class="crefe"><a href="/hans/关山">关山</a></span><span class="crefe"><a href="/hans/关涉">关涉</a></span><span class="crefe"><a href="/hans/关市">关市</a></span><span class="crefe"><a href="/hans/关税">关税</a></span><span class="crefe"><a href="/hans/关头">关头</a></span><span class="crefe"><a href="/hans/关外">关外</a></span><span class="crefe"><a href="/hans/关系">关系</a></span><span class="crefe"><a href="/hans/关系户">关系户</a></span><span class="crefe"><a href="/hans/关系网">关系网</a></span><span class="crefe"><a href="/hans/关系学">关系学</a></span><span class="crefe"><a href="/hans/关厢">关厢</a></span><span class="crefe"><a href="/hans/关小">关小</a></span><span class="crefe"><a href="/hans/关心">关心</a></span><span class="crefe"><a href="/hans/关押">关押</a></span><span class="crefe"><a href="/hans/关于">关于</a></span><span class="crefe"><a href="/hans/关羽">关羽</a></span><span class="crefe"><a href="/hans/关张">关张</a></span><span class="crefe"><a href="/hans/关照">关照</a></span><span class="crefe"><a href="/hans/关中">关中</a></span><span class="crefe"><a href="/hans/关注">关注</a></span><span class="crefe"><a href="/hans/关子">关子</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5173_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=戌集上" target="_blank">戌集上</a>】【<a href="/zd/kx/?zm=戌集上&amp;bs=門" target="_blank">門</a>】
+                              關·康熙筆画：<a href="/zd/kx/bh/?bh=19" target="_blank">19</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">關</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“关”字头，请参考“<a href="/hans/關">關</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=戌集上" target="_blank">戌集上</a>】【<a href="/zd/kx/?zm=戌集上&amp;bs=門" target="_blank">門</a>】
+                              關·康熙筆画：<a href="/zd/kx/bh/?bh=19" target="_blank">19</a>　·部外筆画：11</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/95DC.svg">						  <p>【唐韻】古還切【集韻】【韻會】【正韻】姑還切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音瘝。【說文】以木橫持門戸也。【韻會】要會也。</p>
+<p>又【玉篇】扃也。【正韻】塞門也，門牡也。</p>
+<p>又關津。【周禮&middot;地官&middot;司關】司關掌國貨之節。以聮門市。【註】界上之門也。【禮&middot;王制】關譏而不征。【易&middot;復卦】先王以至日閉關。</p>
+<p>又墓門也。【周禮&middot;春官&middot;巾車】及墓，嘑啓關陳車。【註】關，墓門也。</p>
+<p>又【集韻】通也。【書&middot;五子之歌】關石和鈞。【疏】關通衡石之用，使之和平。【易&middot;同人註】雖是同人卦下之辭，不關六二之義。</p>
+<p>又【韻會】關，所以閉也。【楚辭&middot;招魂】虎豹九關。【註】使神虎豹，執其關閉。</p>
+<p>又【正字通】關策，猶關說也。【史記&middot;梁孝王世家】有所關說于景帝。</p>
+<p>又【博雅】驛也。</p>
+<p>又塞也。</p>
+<p>又【正韻】戾機也。</p>
+<p>又聮絡也。</p>
+<p>又涉也。【後漢&middot;張升傳】升少好學，多關覽。【註】關，涉也。</p>
+<p>又由也。【前漢&middot;董仲舒傳】太學者，賢士之所關也。【註】關，由也。</p>
+<p>又穿也。【禮&middot;雜記】叔孫武叔朝見，輪人以其杖，關轂而輠輪者。【疏】關，穿也。</p>
+<p>又三關。【淮南子&middot;主術訓】三關者，不可不愼守，謂耳目口不當妄視聽言也。</p>
+<p>又關藏。【荀悅&middot;申鑒】善養性者得其和，鄰臍三寸謂之關。關藏呼吸，以受四氣也。</p>
+<p>又關脉。【史記&middot;倉公傳】少陽初關一分。【註】脉經云：從魚際至高骨，却行一寸，其中名曰寸口。其骨自高從寸至尺，名曰尺，澤后尺前名曰關。陽出隂入，以關爲界。</p>
+<p>又關孔。【周禮&middot;冬官&middot;車人&middot;五分其長以其一爲之首註】首六寸，謂今剛關頭斧。【疏】漢時斧近刃，皆以剛鐵爲之。</p>
+<p>又以柄關孔。</p>
+<p>又【史記&middot;封禪書】因巫爲主人，關飮食。○按關卽索字意。</p>
+<p>又【韻會】閒關，崎嶇屈轉貌。【後漢&middot;荀彧傳】荀君乃越河冀閒關，以從曹武。</p>
+<p>又【正韻】關白也。【前漢&middot;王褒傳】進退得關其忠。</p>
+<p>又【正字通】閒關，車<img class="lazy k_img" data-original="//img.zdic.net/song/cn/246C9.svg"><span class="k_txt">𤛉</span>聲。【詩&middot;小雅】閒關，車之<img class="lazy k_img" data-original="//img.zdic.net/song/cn/246C9.svg"><span class="k_txt">𤛉</span>兮。【傳】閒關，設<img class="lazy k_img" data-original="//img.zdic.net/song/cn/246C9.svg"><span class="k_txt">𤛉</span>也。</p>
+<p>又【正字通】關關，鳥鳴聲。【詩&middot;周南】關關雎鳩。【傳】關關，和聲也。</p>
+<p>又斧名。【後漢&middot;馬融傳】揚關斧。【註】關斧，斧名也。</p>
+<p>又地名。【史記&middot;項羽紀】行略定秦地函谷關。【前漢&middot;高帝紀】先入定關中者王之。【註】自函谷關以西總名關中。</p>
+<p>又【集韻】亦姓。</p>
+<p>又【集韻】烏關切【正韻】烏還切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音彎。【集韻】持弓關矢也。【左傳&middot;昭二十一年】將注豹則關矣。【註】關，引弓。【釋文】烏環反。【孟子】越人關弓而射之。</p>
+<p>又【韻補】叶圭懸切，音涓。【劉歆&middot;遂初賦】馳大行之嚴防，入天井之喬關。望庭燧之皦皦，飛旌旐之翩翩。【盧諶&middot;懷古詩】藺生在下位，繆子稱其賢。奉辭馳出境，伏軾徑入關。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5173_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=門">門</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">關</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“关”字头，请参考“<a href="/hans/關">關</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=門">門</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/95DC.svg">                          <p>以木橫持門戶也。从門<img class="lazy k_img" data-original="//img.zdic.net/song/cn/221C5.svg"><span class="k_txt">𢇅</span>聲。古還切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/95DC_7322.svg" /><span class="swbf">(關)</span><span class="ywyy">以木横持門戶也。</span><span class="swdz">通俗文作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237F4.svg"><span class="k_txt">𣟴</span>。引申之，周禮注曰關，畍上之門。又引申之，凡曰關閉，曰機關，曰關白，曰關藏皆是。凡立乎此而交彼曰關。毛詩傳曰：關關，和聲也。又曰：閒關，設<img class="lazy k_img" data-original="//img.zdic.net/song/cn/246C9.svg"><span class="k_txt">𤛉</span>皃。皆於音得義者也。</span><span class="ywyy">从門<img class="lazy k_img" data-original="//img.zdic.net/song/cn/221C2.svg"><span class="k_txt">𢇂</span>聲。</span><span class="swdz">古還切。十四部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5173_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">关</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  kuan˥ </p>						<p><span class="z_ts2">粤语</span>  gwaan1</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/关">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/关">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/关">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/关">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/关">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/关">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/关">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/关">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/关">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/关">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/关">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/关">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/关">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">关</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td style="display:none">說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/关"><img data-original="//img.zdic.net/zy/jiaguwen/41_ED26.svg" class="lazy ypic"><span>「灷」 庫1397</span><span>合21211</span></a></td><td><a href="/zd/zx/jw/关"><img data-original="//img.zdic.net/zy/jinwen/31_ED6B.svg" class="lazy ypic"><span>「灷」 戉灷鳥爵</span><span>商代晚期或西周早期</span><span>集成8248</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/關" target="_blank"><img data-original="//img.zdic.net/kai/tw/95DC.svg" class="lazy ypic"><span>「關」</span></a> </td><td><a href="/hans/关" target="_blank"><img data-original="//img.zdic.net/kai/tw/5173.svg" class="lazy ypic"><span>「关」</span></a></td><td style="display:none"><a href="/hans/关" target="_blank"><img data-original="//img.zdic.net/kai/tw/5173.svg" class="lazy ypic"><span>「关」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/关"><img data-original="//img.zdic.net/zy/jinwen/31_ED6D.svg" class="lazy ypic"><span>「灷」 臣諫簋</span><span>西周中期</span><span>集成4237</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/关">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/关">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/关">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/关">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/关">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/关">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5173.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5173.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5173.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/關' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/95DC.svg'><span>關</span></a></div> <div class='zx'><a href='/hans/関' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/95A2.svg'><span>関</span></a></div> <div class='zx'><a href='/hans/闗' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/95D7.svg'><span>闗</span></a></div> <div class='zx'><a href='/hans/𠴨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20D28.svg'><span>𠴨</span></a></div> <div class='zx'><a href='/hans/𨳹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28CF9.svg'><span>𨳹</span></a></div> <div class='zx'><a href='/hans/𨴊' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D0A.svg'><span>𨴊</span></a></div> <div class='zx'><a href='/hans/𨵿' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D7F.svg'><span>𨵿</span></a></div> <div class='zx'><a href='/hans/𨶚' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D9A.svg'><span>𨶚</span></a></div> <div class='zx'><a href='/hans/𨷀' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28DC0.svg'><span>𨷀</span></a></div> <div class='zx'><a href='/hans/𨳡' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28CE1.svg'><span>𨳡</span></a></div> <div class='zx'><a href='/hans/𨳨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28CE8.svg'><span>𨳨</span></a></div> <div class='zx'><a href='/hans/𫔢' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2B522.svg'><span>𫔢</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="884" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5142">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/莞">莞(guan1)</a></li><li><a href="/hans/纶">纶(guan1)</a></li><li><a href="/hans/鳏">鳏(guan1)</a></li><li><a href="/hans/鱞">鱞(guan1)</a></li><li><a href="/hans/棺">棺(guan1)</a></li><li><a href="/hans/綸">綸(guan1)</a></li><li><a href="/hans/𠕍">𠕍(guan1)</a></li><li><a href="/hans/矜">矜(guan1)</a></li><li><a href="/hans/闗">闗(guan1)</a></li><li><a href="/hans/瘝">瘝(guan1)</a></li><li><a href="/hans/閞">閞(guan1)</a></li><li><a href="/hans/观">观(guan1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/兽">兽</a></li><li><a href="/hans/养">养</a></li><li><a href="/hans/兰">兰</a></li><li><a href="/hans/兑">兑</a></li><li><a href="/hans/兿">兿</a></li><li><a href="/hans/兼">兼</a></li><li><a href="/hans/冁">冁</a></li><li><a href="/hans/兾">兾</a></li><li><a href="/hans/兹">兹</a></li><li><a href="/hans/兯">兯</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/芆">芆</a></li><li><a href="/hans/𠕹">𠕹</a></li><li><a href="/hans/扠">扠</a></li><li><a href="/hans/岁">岁</a></li><li><a href="/hans/𠕾">𠕾</a></li><li><a href="/hans/轨">轨</a></li><li><a href="/hans/则">则</a></li><li><a href="/hans/舟">舟</a></li><li><a href="/hans/𠂩">𠂩</a></li><li><a href="/hans/汆">汆</a></li><li><a href="/hans/𠄥">𠄥</a></li><li><a href="/hans/㞯">㞯</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">劝君更尽一杯酒，西出阳<span>关</span>无故人。</div><div class="gscdr">唐·王维 《送元二使安西》</div><div class="gscdl">山一程，水一程，身向榆<span>关</span>那畔行，夜深千帐灯。</div><div class="gscdr">清·纳兰性德 《长相思·山一程》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">河流大野犹嫌束，山入潼<span>关</span>不解平。</div><div class="gscdr">清·谭嗣同 《潼关》</div><div class="gscdl">万里赴戎机，<span>关</span>山度若飞。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">日暮乡<span>关</span>何处是？烟波江上使人愁。</div><div class="gscdr">唐·崔颢 《黄鹤楼》</div><div class="gscdl">萧<span>关</span>逢候骑，都护在燕然。</div><div class="gscdr">唐·王维 《使至塞上》</div><div class="gscdl"><span>关</span><span>关</span>雎鸠，在河之洲。</div><div class="gscdr">先秦·无名氏  诗经《关雎》</div><div class="gscdl">欲为圣明除弊事，肯将衰朽惜残年！云横秦岭家何在？雪拥蓝<span>关</span>马不前。</div><div class="gscdr">唐·韩愈 《左迁至蓝关示侄孙湘》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=884"></script>
+</body>
+</html>

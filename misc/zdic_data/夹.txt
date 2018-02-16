@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>夹的解释|夹的意思|汉典“夹”字的基本解释</title>
+<meta name="title" content="夹的解释|夹的意思|汉典“夹”字的基本解释">
+<meta property="og:title" content="“夹”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“夹”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“夹”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/夹" />
+<link rel="canonical" href="//www.zdic.net/hans/夹" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/夹" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/夹" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/夹" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/夹">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/夹">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5939.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5939.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">jiā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiā.mp3"></a></span></span></p><p><span class="z_d song">jiá<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiá.mp3"></a></span></span></p><p><span class="z_d song">gā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gā.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄐㄧㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄚ.mp3"></a></span></span></p><p><span class="z_d song">ㄐㄧㄚˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄚˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄍㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄚ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=大" target="_blank">  大</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/夾' target=_blank>夾</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/夾' target=_blank>夾</a>  <a href='/hans/裌' target=_blank>裌</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5939</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>143134</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>guwi|gudi</p></td>                            <td class="dsk_2_1"><p>kt</p></td>                            <td class="dsk_2_1"><p>bduo</p></td>                            <td class="dsk_2_1"><p>50800</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">jiā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiā.mp3"></a></span></span> <span class="z_d song">jiá<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiá.mp3"></a></span></span> <span class="z_d song">gā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gā.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄐㄧㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄚ.mp3"></a></span></span> <span class="z_d song">ㄐㄧㄚˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄚˊ.mp3"></a></span></span> <span class="z_d song">ㄍㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“夹”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄚ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=大" target="_blank">大</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">统一码</span> 5939<span class="z_ts2">笔顺</span> 143134                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5939_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=2874" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">夹</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>夹</strong></p><p><strong>（<span class="diczx3">夾</span>）</strong></p><p><span class="dicpy">jiā  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiā.mp3"></a></span> ㄐㄧㄚˉ</span></p><ol>    <li>从两旁钳住：使劲儿～住。</li>    <li>两旁有物限制住，在两者之间：两山～一水。～峙。</li>    <li>搀杂：～生饭。～杂。</li>    <li>夹东西的器具：竹～子。～剪。卷（<span class="dicpy">juǎn </span>）～。</li></ol><p><strong>其它字义</strong></p><hr class="dichr" /><p>● <strong>夹</strong></p><p><strong>（<span class="diczx3">夾、裌、袷</span>）</strong></p><p><span class="dicpy">jiá  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiá.mp3"></a></span> ㄐㄧㄚˊ</span></p><ol>    <p>　◎ 两层的衣服：～衣。～被。</p></ol><p><strong>其它字义</strong></p><hr class="dichr" /><p>● <strong>夹</strong></p><p><strong>（<span class="diczx3">夾</span>）</strong></p><p><span class="dicpy">gā  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gā.mp3"></a></span> ㄍㄚˉ</span></p><ol>    <p>　◎ 〔～肢窝〕腋下。</p></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> be wedged or inserted between</p><p><span class="z_ts2">德语</span> Falter  (S)​,Hieb  (S)​,kürzen, stutzen  (V)​,kneifen  (V)​,Jia  (Eig, Fam)​,etwas zwischen etwas stecken, etwas einklemmen ,liniert, liniiert</p><p><span class="z_ts2">法语</span> pincer,insérer,tenir qch sous le bras,mêler,mélanger,aisselle,pincer,insérer,tenir qch sous le bras,mêler,mélanger,pince,épingle</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">夹</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>夹</strong></p><p><span class="cino">(1)</span> 夾 <span class="dicpy">gā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gā.mp3"></a></span> </p><p><span class="cino">(2)</span> 另见 <span class="dicpy">jiā;jiá</span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/夹肢窝">夹肢窝</a></span></div>　<p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>夹</strong></p><p>夾 <span class="dicpy">jiā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiā.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (会意。甲骨文字形，象左右二人从两边辅助中间一个人。本义:从左右两方相持，从两旁限制)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[press from both sides]</span></p><p><span class="diczx1">夹，持也。从大挟二人。会意。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">尔曷不夹介又我</span><span class="diczx2">周</span>王。——<span class="smcs">《书·多方》</span></p><p><span class="diczx1">左右夹佩。——<span class="smcs">《穆天子传》</span></span></p><p><span class="diczx1">怀为夹。——<span class="smcs">《周礼·梓材》</span></span></p><p><span class="diczx1">使吾二婢子夹我。——<span class="smcs">《礼记·檀弓》</span></span></p><p><span class="diczx1">夹大铁椎。——</span><span class="diczx2">明</span>· <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p><p><span class="diczx1">两竿夹揭。——</span><span class="diczx2">明</span>· <span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p><p><span class="cino">(3)</span> 又如:夹拥(左右围抱)</p><p><span class="cino">(4)</span> 栽插在物体的两边 <span class="encs">[press from both sides and fix]</span></p><p><span class="diczx1">墙下当官道，依前夹竹篱。——</span><span class="diczx2">姚合</span><span class="smcs">《原上新居》</span></p><p><span class="cino">(5)</span> 带;沿靠 <span class="encs">[bring;along]</span></p><p><span class="diczx1">夹江傍山。——<span class="smcs">《文选·左思·蜀都赋》</span></span></p><p><span class="cino">(6)</span> 又如:夹江(濒临江水，沿着江水);夹单(夹放在手本第一幅里的单帖)</p><p><span class="cino">(7)</span> 辅佐 <span class="encs">[assist]</span></p><p><span class="diczx1">五侯九伯，女实征之，以夹辅</span><span class="diczx2">周</span>室。——<span class="smcs">《左传》</span></p><p><span class="cino">(8)</span> 又如:夹辅(共同辅佐);夹介(犹言辅佐);夹助(辅助);夹持(犹夹辅，匡助)</p><p><span class="cino">(9)</span> 掺杂;混杂 <span class="encs">[mix;mingle]</span></p><p><span class="diczx1">又夹百千求救声。——<span class="smcs">《虞初新志·秋声诗自序》</span></span></p><p><span class="cino">(10)</span> 又如: 夹和(乱七夹八);夹叙夹议(边叙述边议论)</p><p><strong>词性变化</strong></p><p>◎ <strong>夹</strong></p><p>夾 <span class="dicpy">jiā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiā.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 处在两旁的 <span class="encs">[place in between and secure]</span></p><p><span class="diczx1">引申为凡物在左右之称。——<span class="smcs">《说文》</span>徐锴注</span></p><p><span class="diczx1">圉人夹牵之。——<span class="smcs">《仪礼·既夕礼》</span></span></p><p><span class="diczx1">夹岸复连沙，枝枝摇浪花。——</span><span class="diczx2">雍裕之</span><span class="smcs">《芦花》</span></p><p><span class="diczx1">夹岸数百步。——晋·陶渊明<span class="smcs">《桃花源记》</span></span></p><p><span class="diczx1">高柳夹堤。——</span><span class="diczx2">明</span>· <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p><p><span class="diczx1">送者夹岸。——</span><span class="diczx2">清</span>· <span class="diczx2">张廷玉</span><span class="smcs">《明史》</span></p><p><span class="cino">(2)</span> 又如: 夹道子(狭窄的巷道、胡同);夹发(从左右两路同时出兵);夹拥(左右围抱); 夹岸(水流的两岸;堤岸的两边)</p><p><span class="cino">(3)</span> 从两面来的 <span class="encs">[from both sides]</span>。如:夹击;夹攻</p><p>◎ <strong>夹</strong></p><p>夾 <span class="dicpy">jiā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiā.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> 钳夹用具 <span class="encs">[clip;tongs;hanger]</span></p><p><span class="diczx1">笄夹。——<span class="smcs">《周礼·司弓矢》</span></span></p><p><span class="diczx1">则以笄夹取之。——<span class="smcs">《周礼·射鸟氏》</span></span></p><p><span class="diczx1">见叶梵书一夹。——<span class="smcs">《宋史·外国传·天笠》</span></span></p><p><span class="cino">(2)</span> 又如:夹讯(用夹棍逼供审讯);夹拶(用夹子夹手指的酷型);夹剪(夹取物件的工具，铁制，形似剪刀，但无锋刃，头宽而平)</p><p><span class="cino">(3)</span> 通<span class="yhcs">“铗”</span>。剑把 <span class="encs">[sword;sabre]</span></p><p><span class="diczx1">天子之剑，以……</span><span class="diczx2">周</span>、 <span class="diczx2">宋</span>为镡， <span class="diczx2">韩</span>、 <span class="diczx2">魏</span>为夹。——<span class="smcs">《庄子·说剑》</span></p><p><span class="diczx1">诸侯之剑，…以豪桀士为夹。</span></p><p><span class="cino">(4)</span> 另见 <span class="dicpy">jiá;gā</span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/夹板">夹板</a></span><span class="crefe"><a href="/hans/夹板气">夹板气</a></span><span class="crefe"><a href="/hans/夹层">夹层</a></span><span class="crefe"><a href="/hans/夹持">夹持</a></span><span class="crefe"><a href="/hans/夹带">夹带</a></span><span class="crefe"><a href="/hans/夹带">夹带</a></span><span class="crefe"><a href="/hans/夹当">夹当</a></span><span class="crefe"><a href="/hans/夹道">夹道</a></span><span class="crefe"><a href="/hans/夹断">夹断</a></span><span class="crefe"><a href="/hans/夹缝">夹缝</a></span><span class="crefe"><a href="/hans/夹攻">夹攻</a></span><span class="crefe"><a href="/hans/夹棍">夹棍</a></span><span class="crefe"><a href="/hans/夹击">夹击</a></span><span class="crefe"><a href="/hans/夹角">夹角</a></span><span class="crefe"><a href="/hans/夹紧">夹紧</a></span><span class="crefe"><a href="/hans/夹具">夹具</a></span><span class="crefe"><a href="/hans/夹批">夹批</a></span><span class="crefe"><a href="/hans/夹七夹八">夹七夹八</a></span><span class="crefe"><a href="/hans/夹起尾巴">夹起尾巴</a></span><span class="crefe"><a href="/hans/夹钳">夹钳</a></span><span class="crefe"><a href="/hans/夹塞儿">夹塞儿</a></span><span class="crefe"><a href="/hans/夹生">夹生</a></span><span class="crefe"><a href="/hans/夹生饭">夹生饭</a></span><span class="crefe"><a href="/hans/夹馅">夹馅</a></span><span class="crefe"><a href="/hans/夹心">夹心</a></span><span class="crefe"><a href="/hans/夹杂">夹杂</a></span><span class="crefe"><a href="/hans/夹子">夹子</a></span></div>　<p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>夹</strong></p><p>夾、裌、袷 <span class="dicpy">jiá</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiá.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 双层的(衣被等) <span class="encs">[double-layered;lined]</span></p><p><span class="diczx1">御袷衣。——<span class="smcs">《文选·潘岳·秋兴赋》</span></span></p><p><span class="cino">(2)</span> 又如:夹衣(双层的衣服。指有里、有面的衣服);夹衫(双层的衣服);夹布子(月经带);夹被摩疼(喻指没有抓住要害)</p><p><span class="cino">(3)</span> 次，副贰 <span class="encs">[second]</span>。如:夹辂(帝王的副车);夹车(袷辂)</p><p><span class="cino">(4)</span> 衬。在里面托上层 <span class="encs">[line]</span>。如:夹囊(夹层佩囊。晋代品官朝服上的饰物)</p><p><span class="cino">(5)</span> 另见 <span class="dicpy">gā;jiā</span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/夹裙">夹裙</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5939_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集下" target="_blank">丑集下</a>】【<a href="/zd/kx/?zm=丑集下&amp;bs=大" target="_blank">大</a>】
+                              夾·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">夾</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“夹”字头，请参考“夾”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=丑集下" target="_blank">丑集下</a>】【<a href="/zd/kx/?zm=丑集下&amp;bs=大" target="_blank">大</a>】
+                              夾·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：4</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/593E.svg">						  <p>【廣韻】【集韻】【正韻】古狎切【韻會】訖洽切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音甲。左右持也。【書·多方】爾曷不夾介乂我周王。【左傳·僖二十六年】夾輔成王。</p><p>又近也。【書·梓材】懷爲夾。【註】懷遠爲近也。</p><p>又兼也。【呂温狄仁傑頌】潛授五龍，夾日以飛。</p><p>又梵夾。【通鑑】唐懿宗於禁中設講，自唱經，手錄梵夾。</p><p>又鉗夾，巧言膠固也。【柳宗元·乞巧文】膠如鉗夾。</p><p>又【集韻】【韻會】吉協切【正韻】古協切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音頰。傍也，把也。夾弓，見【周禮·夏官註】。往體多，來體寡曰夾。</p><p>又劒夾。【陶弘景·刀劒錄】商孔甲採牛首山鐵，鑄一劒，銘曰夾。</p><p>又【集韻】檄頰切，音協。【說文】俜也。</p><p>又姓。【前漢·藝文志】有夾氏春秋。</p><p>又同狹。【後漢·東夷傳】東沃沮，其地東西夾，南北長。　【六書正譌】从二人，从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/215D5.svg'><span class='k_txt'>𡗕</span>省。二人對輔于肘<img class='lazy k_img' data-original='//img.zdic.net/song/cn/215D5.svg'><span class='k_txt'>𡗕</span>之下，會夾意。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5939_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=大">大</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">夾</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“夹”字头，请参考“夾”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=大">大</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/593E.svg">                          <p>持也。从大俠二人。古狎切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <span class="jieshi">持也。</span>持者、握也。握者、搤也。搤者、捉也。捉物必以兩手。故凡持曰夾。左傳曰。夾輔成王。古多叚俠爲夾。公羊注曰。滕薛俠轂。<span class="jieshi">从大㚒二人。</span>㚒各本作俠。俠者、俜也。非其義。今正。㚒者、盜竊褱物也。从亦、有所持。㚒褱物、故从二入。夾持人、故从二人。大者、人也。一人而二人居其亦。猶一人二亦閒褱物也。故曰从大㚒二人。古狎切。八部。                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5939_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">夹</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕiĄ˥; tɕiĄ˧˥; kɑ˥ </p>						<p><span class="z_ts2">粤语</span>  gaap3<span class="z_ts3">潮州话</span>  goih8 goih4,hiap8[澄海]hiak8</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/夹">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/夹">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/夹">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/夹">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/夹">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/夹">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/夹">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/夹">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/夹">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/夹">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/夹">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/夹">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/夹">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">夹</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「夾」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/夹"><img data-original="//img.zdic.net/zy/jiaguwen/43_E651.svg" class="lazy ypic"><span>「夾」 河670</span><span>合24240</span></a></td><td><a href="/zd/zx/jw/夹"><img data-original="//img.zdic.net/zy/jinwen/33_E9FB.svg" class="lazy ypic"><span>「夾」 大盂鼎</span><span>西周早期</span><span>集成2837</span></a></td><td><a href="/zd/zx/cx/夹"><img data-original="//img.zdic.net/zy/chuwenzi/53_E383.svg" class="lazy ypic"><span>「夾」 信2.07</span></a></td><td><a href="/zd/zx/xz/夹"><img data-original="//img.zdic.net/zy/xiaozhuan/27_593E.svg" class="lazy ypic"><span>「夾」 說文‧大部</span></a></td><td><a href="/zd/zx/qx/夹"><img data-original="//img.zdic.net/zy/qinwenzi/71_EB17.svg" class="lazy ypic"><span>「夾」 睡.日甲151</span></a></td><td><a href="/hans/夾" target="_blank"><img data-original="//img.zdic.net/kai/tw/593E.svg" class="lazy ypic"><span>「夾」</span></a> </td><td><a href="/hans/夹" target="_blank"><img data-original="//img.zdic.net/kai/tw/5939.svg" class="lazy ypic"><span>「夹」</span></a></td><td style="display:none"><a href="/hans/夹" target="_blank"><img data-original="//img.zdic.net/kai/tw/5939.svg" class="lazy ypic"><span>「夹」</span></a></td></tr><tr><td><a href="/zd/zx/jg/夹"><img data-original="//img.zdic.net/zy/jiaguwen/45_F2AA.svg" class="lazy ypic"><span>「夾」 鐵71.3</span><span>合4665</span></a></td><td></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/夹">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/夹">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/夹">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/夹">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/夹">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/夹">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5939.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5939.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5939.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5939.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/夾' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/593E.svg'><span>夾</span></a></div> <div class='zx'><a href='/hans/裌' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/88CC.svg'><span>裌</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="2874" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5416">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/枷">枷(jia1)</a></li><li><a href="/hans/犌">犌(jia1)</a></li><li><a href="/hans/鉫">鉫(jia1)</a></li><li><a href="/hans/豭">豭(jia1)</a></li><li><a href="/hans/貑">貑(jia1)</a></li><li><a href="/hans/珈">珈(jia1)</a></li><li><a href="/hans/椵">椵(jia1)</a></li><li><a href="/hans/毠">毠(jia1)</a></li><li><a href="/hans/浹">浹(jia1)</a></li><li><a href="/hans/伽">伽(jia1)</a></li><li><a href="/hans/埉">埉(jia1)</a></li><li><a href="/hans/加">加(jia1)</a></li><li><a href="/hans/㔠">㔠(jia2)</a></li><li><a href="/hans/荚">荚(jia2)</a></li><li><a href="/hans/䛟">䛟(jia2)</a></li><li><a href="/hans/鵊">鵊(jia2)</a></li><li><a href="/hans/㮖">㮖(jia2)</a></li><li><a href="/hans/拮">拮(jia2)</a></li><li><a href="/hans/郟">郟(jia2)</a></li><li><a href="/hans/䀫">䀫(jia2)</a></li><li><a href="/hans/頬">頬(jia2)</a></li><li><a href="/hans/鋏">鋏(jia2)</a></li><li><a href="/hans/裌">裌(jia2)</a></li><li><a href="/hans/扴">扴(jia2)</a></li><li><a href="/hans/嘠">嘠(ga1)</a></li><li><a href="/hans/伽">伽(ga1)</a></li><li><a href="/hans/嘎">嘎(ga1)</a></li><li><a href="/hans/旮">旮(ga1)</a></li><li><a href="/hans/咖">咖(ga1)</a></li><li><a href="/hans/夾">夾(ga1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/奜">奜</a></li><li><a href="/hans/夺">夺</a></li><li><a href="/hans/奲">奲</a></li><li><a href="/hans/㚕">㚕</a></li><li><a href="/hans/㚡">㚡</a></li><li><a href="/hans/奩">奩</a></li><li><a href="/hans/奝">奝</a></li><li><a href="/hans/奓">奓</a></li><li><a href="/hans/夻">夻</a></li><li><a href="/hans/大">大</a></li><li><a href="/hans/㚒">㚒</a></li><li><a href="/hans/㚖">㚖</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㲿">㲿</a></li><li><a href="/hans/𠕹">𠕹</a></li><li><a href="/hans/危">危</a></li><li><a href="/hans/贞">贞</a></li><li><a href="/hans/竹">竹</a></li><li><a href="/hans/㐺">㐺</a></li><li><a href="/hans/𠇖">𠇖</a></li><li><a href="/hans/𠂢">𠂢</a></li><li><a href="/hans/𠘷">𠘷</a></li><li><a href="/hans/𠁧">𠁧</a></li><li><a href="/hans/而">而</a></li><li><a href="/hans/𠆶">𠆶</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>夹</span>岸高山，皆生寒树，负势竞上，互相轩邈，争高直指，千百成峰。</div><div class="gscdr">南北朝·吴均 《与朱元思书》</div><div class="gscdl">忽逢桃花林，<span>夹</span>岸数百步，中无杂树，芳草鲜美，落英缤纷，渔人甚异之，复前行，欲穷其林。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=2874"></script>
+</body>
+</html>

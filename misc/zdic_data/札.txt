@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>札的解释|札的意思|汉典“札”字的基本解释</title>
+<meta name="title" content="札的解释|札的意思|汉典“札”字的基本解释">
+<meta name="keywords" content="左：木，右：乚。 " /><meta property="og:title" content="“札”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“札”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“札”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/札" />
+<link rel="canonical" href="//www.zdic.net/hans/札" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/札" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/札" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/札" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/札">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/札">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/672D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/672D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhá<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“札”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhá.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄚˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“札”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄚˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">  木</a></p>
+                              <p><span class="z_ts2">部外</span>  1</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_ytz2"><a href='/hans/剳' target=_blank>剳</a> <a href='/hans/劄' target=_blank>劄</a> <a href='/hans/扎' target=_blank>扎</a> <a href='/hans/𤵦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24D66.svg'><span class='ytz_txt'>𤵦</span></a> <a href='/hans/軋' target=_blank>軋</a> <a href='/hans/𤔑' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24511.svg'><span class='ytz_txt'>𤔑</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+672D</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>12345</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>snn</p></td>                            <td class="dsk_2_1"><p>du</p></td>                            <td class="dsk_2_1"><p>fzvv</p></td>                            <td class="dsk_2_1"><p>42910</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhá<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“札”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhá.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄚˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“札”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄚˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">木</a> <span class="z_ts2">部外</span> 1<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 672D<span class="z_ts2">笔顺</span> 12345                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="672D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                                                <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6446" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>札</strong></p><p><span class="dicpy">zh&aacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&aacute;.mp3"></a></span> ㄓㄚˊ</span></p><hr class="dichr" /><ol>	<li>古时写字的小木筒：～记。</li>	<li>信件：手～。信～。</li>	<li>旧时的一种公文：～子。</li>	<li>夭死。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> letter, note; correspondence</p><p><span class="z_ts2">法语</span> mince morceau de bois utilisé comme tablette d'écriture (dans la Chine ancienne)​,sorte de document officiel (autrefois)​</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>札</strong> <span class="dicpy">zh&aacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&aacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从木，札声。本义:古代用来写字的小木片)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[wooden strip]</span></p>
+<p><span class="diczx1">札，牒也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">皆一札十行，细书成文。&mdash;&mdash;<span class="smcs">《后汉书&middot;循吏传》</span></span></p>
+<p><span class="diczx1">卿有札书。&mdash;&mdash;<span class="smcs">《汉书&middot;郊祀志上》</span></span></p>
+<p><span class="diczx1">上令尚书给笔札。&mdash;&mdash;<span class="smcs">《汉书&middot;司马相如传上》</span></span></p>
+<p><span class="diczx1">上许，令尚书给笔札。&mdash;&mdash;<span class="smcs">《史记&middot;司马相如列传》</span></span></p>
+<p><span class="diczx1">郡国诸户口黄籍，籍皆用一尺二寸札，已在官役者载名。&mdash;&mdash;<span class="smcs">《太平御览》</span></span></p>
+<p><span class="cino">(3)</span> 古代公文的泛称 <span class="encs">[official document]</span>。</p><p><span class="diczx3">如:札子(古代官方公文的一种);札付(官府上行下的文书，多指手谕);札吏(旧时官府撰拟公文的使员);札委(旧时官府委派差使的公文);札书(牒，公文);札函(奏折);札稿(文稿);札牍(借指簿册)</span></p>
+<p><span class="cino">(4)</span> 引申为书信 <span class="encs">[letter]</span></p>
+<p><span class="diczx1">客从远方来，遗我一书札。&mdash;&mdash;<span class="smcs">《古诗十九首》</span></span></p>
+<p><span class="diczx3">又如:札帙(犹书函、书套);札诲(赐函教诲。旧时书信套语);札翰(书信)</span></p>
+<p><span class="cino">(5)</span> 疫病。也指遭瘟疫死亡 <span class="encs">[plague]</span></p>
+<p><span class="diczx1">大札则不举。&mdash;&mdash;<span class="smcs">《周礼》</span></span></p>
+<p><span class="diczx1">土气和，亡札厉。&mdash;&mdash;<span class="smcs">《列子》</span></span></p>
+<p><span class="diczx3">又如:札荒(瘟疫与灾荒);札丧(因疫病死亡);札厉(因疫病死亡);札瘟(因疫疠、疾病而死);札手风(手张开而不能自由伸缩的一种病。亦比喻醒态)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>札</strong> <span class="dicpy">zh&aacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&aacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 拔出;拔除 <span class="encs">[pull out]</span></p>
+<p><span class="diczx1">毫末不札，将寻斧柯。&mdash;&mdash;<span class="smcs">《孔子家语》</span></span></p>
+<p><span class="cino">(2)</span> 夭死 <span class="encs">[die young]</span></p>
+<p><span class="diczx1">疠疾不降，民不夭札。&mdash;&mdash;<span class="smcs">《左传》</span></span></p>
+<p><span class="cino">(3)</span> 书写 <span class="encs">[write]</span>。</p><p><span class="diczx3">如:札记</span></p>
+<p><span class="cino">(4)</span> 缠绕;捆，绑 <span class="encs">[bind]</span>。</p><p><span class="diczx3">如:札裹(收拾;打扮);札缚(结扎;捆缚);札合(把分散的东西捆在一起);札足(缠足);札抹(犹缠束);札实(牢靠稳固)</span></p>
+<p><span class="cino">(5)</span> 同&ldquo;扎&rdquo;。刺 <span class="encs">[prick run or stick]</span></p>
+<p><span class="diczx1">语来言去各仇恨，棒迎拐架当心札。&mdash;&mdash;<span class="smcs">《西游记》</span></span></p>
+<p><span class="cino">(6)</span> 同&ldquo;炸&rdquo; <span class="encs">[deep-fry]</span></p>
+<p><span class="diczx1">刽子手将一把铁笊篱，在油锅里捞，&hellip;又奏道:&ldquo;和尚身微骨嫩，俱札化了。&rdquo;&mdash;&mdash;<span class="smcs">《西游记》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/札记">札记</a></span><span class="crefe"><a href="/hans/札手舞脚">札手舞脚</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>札</rb></rbc><rtc><rt>ㄓㄚˊ</rt></rtc><rtc><rt>zh&aacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4303.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">古時用以寫字的小木片。</span><span class="gc_lz">如：「筆<b>札</b>」、「簡<b>札</b>」。</span><span class="gc_yy">《史記&middot;卷一一七&middot;司馬相如傳》：「上許，令尚書給筆<b>札</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">書信或公文。</span><span class="gc_lz">如：「手<b>札</b>」、「信<b>札</b>」。</span><span class="gc_yy">《文選&middot;古詩十九首&middot;孟冬寒氣至》：「客從遠方來，遺我一書<b>札</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">武士冑甲上由皮革或金屬製成的甲葉。</span><span class="gc_yy">《左傳&middot;成公十六年》：「潘尪之黨與養由基蹲甲而射之，徹七<b>札</b>焉。」</span><span class="gc_yy">北齊&middot;顏之推《顏氏家訓&middot;勉學》：「射則不能穿<b>札</b>，筆則纔記姓名。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">因災禍而死。</span><span class="gc_yy">《左傳&middot;昭公四年》：「癘疾不降，民不夭<b>札</b>。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="672D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集中" target="_blank">辰集中</a>】【<a href="/zd/kx/?zm=辰集中&amp;bs=木" target="_blank">木</a>】
+                              札·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：1</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集中" target="_blank">辰集中</a>】【<a href="/zd/kx/?zm=辰集中&amp;bs=木" target="_blank">木</a>】
+                              札·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：1</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/672D.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>側八切，音紮。【說文】牒也。【徐曰】牒亦木牘也。【爾雅&middot;釋器疏】古未有紙，載文於<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>，謂之<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>札。【中庸&middot;方策註】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>、札、牒、畢，同物而異名。札，木<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>之薄小者也。【釋名】札，櫛也。編之如櫛齒相比也。【前漢&middot;司馬相如傳】請爲天子遊獵之賦，上令尚書給筆札。</p><p>又甲葉也。【左傳&middot;成十六年】養由基蹲甲而射之，徹七札焉。</p><p>又夭死爲札。【左傳&middot;昭四年】民不夭札。</p><p>又【釋名】撥水之櫂曰札，形似札也。</p><p>又【集韻】一黠切，音軋。報也。</p><p>又叶側瑟切，音櫛。【古詩十九首】客從遠方來，遺我一書札。上言長相思，下言久離別。　【正譌】俗作扎，非。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="672D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=木">木</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=木">木</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/672D.svg">                          <p>牒也。从木乙聲。側八切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/672D_2642.svg" /><span class="swbf">(札)</span><span class="ywyy">牒也。</span><span class="swdz">片部曰：牒，札也。二字互訓。長大者曰槧，薄小者曰札，曰牒。釋名曰：札，櫛也，編之如櫛齒相比也。司馬相如傳曰：上令尚書給筆札。師古曰：札，木<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>之薄小者也。</span><span class="ywyy">從木乙聲。</span><span class="swdz">側八切。古音在十二部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="672D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂɑ˧˥ <span class="z_ts4">唐代读音</span>  jrat<span class="z_ts4">日语读音</span>  FUDA WAKAJINI<span class="z_ts4">韩语罗马</span>  CHAL<span class="z_ts4">现代韩语</span>  찰<span class="z_ts3">越南语</span>  trát</p>						<p><span class="z_ts3">客家话</span>  [客语拼音字汇] zad5 [沙头角腔] zat7 [东莞腔] zat7 [台湾四县腔] zap7 [客英字典] zap7 [宝安腔] zat7 [梅县腔] zap7 [陆丰腔] zhap7 [海陆腔] zap7<span class="z_ts2">粤语</span>  zaat3<span class="z_ts3">潮州话</span>  zab4 zag4(tsap tsak) [澄海]zag4(tsak) </p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  照莊母    黠韻    入聲    札小韻    側八切    二等    開口；<span class="z_ts3">上古音</span>  黄侃系统：精母    曷部   ；王力系统：莊母    月部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/札">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/札">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/札">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/札">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/札">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/札">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/札">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/札">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/札">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/札">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/札">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">札</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/札"><img data-original="//img.zdic.net/zy/xiaozhuan/27_672D.svg" class="lazy ypic"><span>「札」 說文‧木部</span></a></td><td><a href="/zd/zx/qx/札"><img data-original="//img.zdic.net/zy/qinwenzi/71_E614.svg" class="lazy ypic"><span>「札」 睡.效41</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/札" target="_blank"><img data-original="//img.zdic.net/kai/tw/672D.svg" class="lazy ypic"><span>「札」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/札">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/札">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/札">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/672D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/672D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/672D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/672D.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/672D.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/剳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5273.svg'><span>剳</span></a></div> <div class='zx'><a href='/hans/劄' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5284.svg'><span>劄</span></a></div> <div class='zx'><a href='/hans/扎' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/624E.svg'><span>扎</span></a></div> <div class='zx'><a href='/hans/𤵦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24D66.svg'><span>𤵦</span></a></div> <div class='zx'><a href='/hans/軋' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8ECB.svg'><span>軋</span></a></div> <div class='zx'><a href='/hans/𤔑' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24511.svg'><span>𤔑</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6446" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7717">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/炸">炸(zha2)</a></li><li><a href="/hans/軋">軋(zha2)</a></li><li><a href="/hans/䮜">䮜(zha2)</a></li><li><a href="/hans/㔍">㔍(zha2)</a></li><li><a href="/hans/鍘">鍘(zha2)</a></li><li><a href="/hans/煠">煠(zha2)</a></li><li><a href="/hans/耫">耫(zha2)</a></li><li><a href="/hans/㩹">㩹(zha2)</a></li><li><a href="/hans/閘">閘(zha2)</a></li><li><a href="/hans/箚">箚(zha2)</a></li><li><a href="/hans/铡">铡(zha2)</a></li><li><a href="/hans/劄">劄(zha2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/槾">槾</a></li><li><a href="/hans/槻">槻</a></li><li><a href="/hans/榺">榺</a></li><li><a href="/hans/柅">柅</a></li><li><a href="/hans/㭓">㭓</a></li><li><a href="/hans/杉">杉</a></li><li><a href="/hans/㯞">㯞</a></li><li><a href="/hans/椐">椐</a></li><li><a href="/hans/柜">柜</a></li><li><a href="/hans/枉">枉</a></li><li><a href="/hans/㮝">㮝</a></li><li><a href="/hans/㭵">㭵</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/厉">厉</a></li><li><a href="/hans/尓">尓</a></li><li><a href="/hans/㘝">㘝</a></li><li><a href="/hans/击">击</a></li><li><a href="/hans/叏">叏</a></li><li><a href="/hans/甲">甲</a></li><li><a href="/hans/母">母</a></li><li><a href="/hans/叴">叴</a></li><li><a href="/hans/㐷">㐷</a></li><li><a href="/hans/𠕅">𠕅</a></li><li><a href="/hans/圥">圥</a></li><li><a href="/hans/仭">仭</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=6446"></script>
+</body>
+</html>

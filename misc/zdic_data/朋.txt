@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>朋的解释|朋的意思|汉典“朋”字的基本解释</title>
+<meta name="title" content="朋的解释|朋的意思|汉典“朋”字的基本解释">
+<meta property="og:title" content="“朋”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“朋”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“朋”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/朋" />
+<link rel="canonical" href="//www.zdic.net/hans/朋" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/朋" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/朋" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/朋" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/朋">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/朋">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/670B.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/670B.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">péng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“朋”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/péng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄆㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“朋”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄆㄥˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=月" target="_blank">  月</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_ytz2"><a href='/hans/倗' target=_blank>倗</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+670B</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>35113511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>eeg</p></td>                            <td class="dsk_2_1"><p>bb</p></td>                            <td class="dsk_2_1"><p>qqvv</p></td>                            <td class="dsk_2_1"><p>77220</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">péng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“朋”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/péng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄆㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“朋”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄆㄥˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=月" target="_blank">月</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">统一码</span> 670B<span class="z_ts2">笔顺</span> 35113511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="670B_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6412" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">朋</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>朋</strong></p><p><span class="dicpy">péng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/péng.mp3"></a></span> ㄆㄥˊ</span></p><ol><li>彼此友好的人：～友。～辈。～侪。～俦。宾～。至爱亲～。</li><li>结党：～党（为私利而互相勾结、排斥异己的一帮人）。</li><li>成群：群居～飞。</li><li>古代以贝壳为货币，五贝为一串，两串为一朋。</li><li>比：硬大无～。</li><li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> friend, pal, acquaintance</p><p><span class="z_ts2">德语</span> Freund  (S)​,Peng  (Eig, Fam)</p><p><span class="z_ts2">法语</span> ami,compagnon,partisan,se grouper</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">朋</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>朋</strong> <span class="dicpy">péng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/péng.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (象形。本义:古代货币单位。相传五贝为一朋。或说五贝为一系，两系为一朋)</p><p><span class="cino">(2)</span> 古代货币单位。五贝为一朋。一说两贝为一朋，也有说十贝为一朋的 <span class="encs">[five shells]</span></p><p><span class="diczx1">既见君子，锡我百朋。——<span class="smcs">《诗·小雅·菁菁者莪》</span></span></p><p><span class="cino">(3)</span> 同学 <span class="encs">[classmate]</span></p><p><span class="diczx1">君子以朋友讲习。——<span class="smcs">《易·兑》</span>。</span><span class="diczx2">孔颖达</span>疏:<span class="yhcs">“同门曰朋，同志曰友。”</span></p><p><span class="cino">(4)</span> 朋友 <span class="encs">[friend]</span></p><p><span class="diczx1">朋，比也，朋，类也。——<span class="smcs">《广雅》</span></span></p><p><span class="diczx1">或益之十朋之龟。——<span class="smcs">《易·损》</span>。注:<span class="yhcs">“党也。”</span></span></p><p><span class="diczx1">每有良朋。——<span class="smcs">《诗·小雅·常棣》</span></span></p><p><span class="diczx1">有朋自远方来。——<span class="smcs">《论语·学而》</span></span></p><p><span class="cino">(5)</span> 又如:朋故(朋友故旧);朋曹(朋友辈);朋好(朋友，好友);朋伴(朋友，同伴);朋知(朋友;知交);朋侣(朋友;同伴)</p><p><span class="cino">(6)</span> 同类 <span class="encs">[same kind]</span>。如:朋从(同类相从);朋类(同类事物)</p><p><span class="cino">(7)</span> 朋党 <span class="encs">[clique]</span>。如:朋比(结成私党);朋甲(犹朋党);朋附(结党营私);朋徒(朋党;党徒);朋家(犹朋党);朋头(朋党的首领)</p><p><span class="cino">(8)</span> 队;班 <span class="encs">[team;group]</span></p><p><span class="diczx1">一朋头用杖击弄球子，如缀球子方坠队，两朋争占，供与朋头。——</span><span class="diczx2">宋</span>· <span class="diczx2">孟元老</span><span class="smcs">《东京梦华录》</span></p><p><strong>词性变化</strong></p><p>◎ <strong>朋</strong> <span class="dicpy">péng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/péng.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 勾结 <span class="encs">[collude with]</span></p><p><span class="diczx1">世并举而好朋兮。——<span class="smcs">《楚辞·离骚》</span></span></p><p><span class="diczx1">向闻</span><span class="diczx2">杨虞卿</span>兄弟朋比贵势，妨平进之路。——<span class="smcs">《唐书·选举志》</span></p><p><span class="cino">(2)</span> 又如:朋谋(结党图谋不轨);朋比(阿附;勾结);朋邪(朋比为奸);朋奸(朋比为奸);朋附(勾结、阿附);朋挺(犹勾结);朋扇(相互勾结煽动);朋援(勾结引援)</p><p><span class="cino">(3)</span> 群聚 <span class="encs">[gather]</span>。如:朋酒(谓亲友聚饮);朋宴(聚朋宴饮);朋淫(群聚淫乱);朋饮(聚饮);朋戏(群聚嬉戏)</p><p><span class="cino">(4)</span> 合伙 <span class="encs">[form a partnership]</span>。如:朋充(谓合伙蒙混冒充);朋伙(犹合伙)</p><p><span class="cino">(5)</span> 通<span class="yhcs">“崩”</span>。倒塌 <span class="encs">[collapse;crash to the ground]</span></p><p><span class="diczx1">其状义而不朋。——<span class="smcs">《庄子·大宗师》</span></span></p><p>◎ <strong>朋</strong> <span class="dicpy">péng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/péng.mp3"></a></span> </p><p>〈副〉</p><p>共同，一致 <span class="encs">[together;common]</span>。如:朋分(共同分之);朋合(一起充任);朋充(相互充当)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/朋辈">朋辈</a></span><span class="crefe"><a href="/hans/朋比为奸">朋比为奸</a></span><span class="crefe"><a href="/hans/朋党">朋党</a></span><span class="crefe"><a href="/hans/朋僚">朋僚</a></span><span class="crefe"><a href="/hans/朋友">朋友</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">朋</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>朋</rb></rbc><rtc><rt>ㄆㄥˊ</rt></rtc><rtc><rt>péng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0401.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">友人。</span><span class="gc_lz">如：「亲朋好友」、「朋友」。</span></p></li><li><p class="def"><span class="gc_sy">量词。古代计算货币的单位。</span><span class="gc_yy">《诗经·小雅·菁菁者莪》：「既见君子，锡我百<b>朋</b>。」</span></p></li><li><p class="def"><span class="gc_sy">姓。如宋代有<b><b>朋</b></b>山、<b><b>朋</b></b>水。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">集结。</span><span class="gc_lz">如：「朋比为奸」。</span><span class="gc_yy">宋·刘克庄〈鹊桥仙·阁中芸冷〉词：「不交平勃，不游田窦，也不<b>朋</b>他牛李。」</span></p></li><li><p class="def"><span class="gc_sy">相比、相类。</span><span class="gc_yy">《诗经·唐风·椒聊》：「彼其之子，硕大无<b>朋</b>。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="670B_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=月" target="_blank">月</a>】
+                              朋·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">朋</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=月" target="_blank">月</a>】
+                              朋·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：4</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/670B.svg">						  <p>【唐韻】步崩切【集韻】【韻會】蒲登切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音鵬。【易·坤卦】西南得朋。【註】與坤同道者也。【疏】凡言朋者，非惟人爲其黨，性行相同，亦爲其黨。【書·洛誥】孺子其朋。【傳】少子愼其朋黨。</p><p>又【易·兌卦】君子以朋友講習。【疏】同門曰朋。【周禮·地官·大司徒】聮朋友。【註】同師曰朋。</p><p>又【書·益稷】朋淫于家。【傳】朋，羣也。</p><p>又【易·損卦】或益之十朋之龜。【詩·小雅】錫我百朋。【傳】五貝爲朋。【前漢·食貨志】元龜岠冉，長尺二寸，直二千一百六十，爲大貝十朋。【註】蘇林曰：兩貝爲朋，朋直二百一十六，元龜十朋，故二千一百六十也。</p><p>又兩尊曰朋。【詩·豳風】朋酒斯饗。</p><p>又姓。【奇姓通】宋有朋水、朋山。</p><p>又【韻補】叶蒲蒙切。【劉楨·魯都賦】時謝節移，和族綏宗。招歡合好，肅戒友朋。</p><p>又叶蒲光切。【陳琳·大荒賦】王父皤焉白首兮，坐淸零之爽堂。塊獨處而無疇兮，願揖子以爲朋。○按《說文》古鳳字，註：<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22434.svg'><span class='k_txt'>𢐴</span>，古文鳳。象形。鳳飛，羣鳥从以萬數，故以爲朋黨字。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="670B_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=人">人</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">倗</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“朋”字头，请参考“倗”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=人">人</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5017.svg">                          <p>輔也。从人朋聲，讀若陪位。步崩切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5017_246.svg"  /><span class="swbf">(倗)</span><span class="ywyy">輔也。</span><span class="swdz">周禮士師。掌士之八成。七曰爲邦朋。注曰。朋黨相阿。使政不平者。故書朋作傰。鄭司農讀爲朋友之朋。按管子亦曰。練之以散羣傰署。皆卽倗字也。鳥部朋下曰。鳳飛、羣鳥從以萬數。故以爲朋黨字。葢朋黨字正作倗。而朋其假借字。然許云讀若陪。則似有別矣。</span><span class="ywyy">从人。朋聲。</span><span class="swdz">步崩切。六部。</span><span class="ywyy">讀若陪位。</span><span class="swdz">讀若陪者、之蒸合韵冣近也。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="670B_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">朋</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  pʰəŋ˧˥ <span class="z_ts4">唐代读音</span>  bhəng<span class="z_ts4">日语读音</span>  TOMO<span class="z_ts4">韩语罗马</span>  PWUNG<span class="z_ts4">现代韩语</span>  붕<span class="z_ts3">越南语</span>  bằng</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] pen2 pung2 [宝安腔] pen2 [客英字典] pen2 [沙头角腔] pien2 [东莞腔] pen2 [台湾四县腔] pen2 [客语拼音字汇] pen2 [海陆腔] pen2 [陆丰腔] pen3<span class="z_ts2">粤语</span>  pang4</p>						<p><span class="z_ts3">近代音</span>  滂母    庚青韻    平聲陽    鵬小空；<span class="z_ts3">中古音</span>  並母    登韻    平聲    朋小韻    步崩切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：並母    登部   ；王力系统：並母    蒸部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/朋">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/朋">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/朋">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/朋">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/朋">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/朋">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/朋">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/朋">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/朋">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/朋">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/朋">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/朋">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/朋">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">朋</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td style="display:none">說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/朋"><img data-original="//img.zdic.net/zy/jiaguwen/42_ED21.svg" class="lazy ypic"><span>「朋」 後2.8.5</span><span>合11438</span></a></td><td><a href="/zd/zx/jw/朋"><img data-original="//img.zdic.net/zy/jinwen/32_ED87.svg" class="lazy ypic"><span>「朋」 中作且癸鼎</span><span>西周早期</span><span>集成2458</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/qx/朋"><img data-original="//img.zdic.net/zy/qinwenzi/71_E6C5.svg" class="lazy ypic"><span>「朋」 睡.日甲65背</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/朋" target="_blank"><img data-original="//img.zdic.net/kai/tw/670B.svg" class="lazy ypic"><span>「朋」</span></a></td></tr><tr><td><a href="/zd/zx/jg/朋"><img data-original="//img.zdic.net/zy/jiaguwen/42_ED1B.svg" class="lazy ypic"><span>「朋」 甲777</span><span>合29694</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/朋">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/朋">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/朋">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/朋">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/朋">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/670B.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/670B.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/670B.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/670B.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/670B.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/倗' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/5017.svg'><span>倗</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6412" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6297">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/搒">搒(peng2)</a></li><li><a href="/hans/髼">髼(peng2)</a></li><li><a href="/hans/芃">芃(peng2)</a></li><li><a href="/hans/憉">憉(peng2)</a></li><li><a href="/hans/痭">痭(peng2)</a></li><li><a href="/hans/㔙">㔙(peng2)</a></li><li><a href="/hans/棚">棚(peng2)</a></li><li><a href="/hans/䄘">䄘(peng2)</a></li><li><a href="/hans/㱶">㱶(peng2)</a></li><li><a href="/hans/䡫">䡫(peng2)</a></li><li><a href="/hans/彭">彭(peng2)</a></li><li><a href="/hans/鵬">鵬(peng2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/膞">膞</a></li><li><a href="/hans/肓">肓</a></li><li><a href="/hans/䏵">䏵</a></li><li><a href="/hans/脌">脌</a></li><li><a href="/hans/朐">朐</a></li><li><a href="/hans/膴">膴</a></li><li><a href="/hans/膅">膅</a></li><li><a href="/hans/脎">脎</a></li><li><a href="/hans/䏎">䏎</a></li><li><a href="/hans/膕">膕</a></li><li><a href="/hans/腎">腎</a></li><li><a href="/hans/脡">脡</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/狍">狍</a></li><li><a href="/hans/㕼">㕼</a></li><li><a href="/hans/佭">佭</a></li><li><a href="/hans/坥">坥</a></li><li><a href="/hans/㭌">㭌</a></li><li><a href="/hans/迬">迬</a></li><li><a href="/hans/佾">佾</a></li><li><a href="/hans/怋">怋</a></li><li><a href="/hans/或">或</a></li><li><a href="/hans/瓯">瓯</a></li><li><a href="/hans/呹">呹</a></li><li><a href="/hans/㳒">㳒</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">子曰：“学而时习之，不亦说乎？有<span>朋</span>自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《学而》曾子曰：“吾日三省吾身：为人谋而不忠乎？与<span>朋</span>友交而不信乎？传不习乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6412"></script>
+</body>
+</html>

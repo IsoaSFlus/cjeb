@@ -1,0 +1,26 @@
+name: BUILD
+
+on:
+  push:
+
+jobs:
+  amd64:
+    runs-on: ubuntu-20.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+    - run: sudo apt-get update
+    - run: sudo apt-get install pkg-config libssl-dev build-essential python3-aiofiles python3-aiohttp cmake extra-cmake-modules  gettext
+    - run: sudo apt-get install fcitx5*
+    - run: sudo apt-get install libime*
+    - run: bash ./build.sh || ls
+
+    - uses: ncipollo/release-action@v1
+      with:
+        allowUpdates: true
+        tag: "release"
+        artifacts: "misc/mb.txt, rime/hanma.dict.yaml"
+        token: ${{ secrets.GITHUB_TOKEN }}

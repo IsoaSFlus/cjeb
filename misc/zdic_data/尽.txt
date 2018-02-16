@@ -1,0 +1,655 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>尽的解释|尽的意思|汉典“尽”字的基本解释</title>
+<meta name="title" content="尽的解释|尽的意思|汉典“尽”字的基本解释">
+<meta property="og:title" content="“尽”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“尽”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“尽”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/尽" />
+<link rel="canonical" href="//www.zdic.net/hans/尽" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/尽" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/尽" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/尽" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/尽">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/尽">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5C3D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5C3D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">jìn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jìn.mp3"></a></span></span></p><p><span class="z_d song">jǐn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jǐn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄐㄧㄣˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄣˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄐㄧㄣˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄣˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=尸" target="_blank">  尸</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/儘' target=_blank>儘</a>  <a href='/hans/盡' target=_blank>盡</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/儘' target=_blank>儘</a>  <a href='/hans/盡' target=_blank>盡</a>  <a href='/hans/侭' target=_blank>侭</a>  <a href='/hans/𥁞' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2505E.svg'><span class='ytz_txt'>𥁞</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5C3D</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>513444</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>nyuu</p></td>                            <td class="dsk_2_1"><p>soy</p></td>                            <td class="dsk_2_1"><p>xmst</p></td>                            <td class="dsk_2_1"><p>77303</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">jìn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jìn.mp3"></a></span></span> <span class="z_d song">jǐn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jǐn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄐㄧㄣˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄣˋ.mp3"></a></span></span> <span class="z_d song">ㄐㄧㄣˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尽”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄣˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=尸" target="_blank">尸</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">统一码</span> 5C3D<span class="z_ts2">笔顺</span> 513444                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5C3D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=3646" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">尽</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>尽</strong></p>
+<p><strong>（<span class="diczx3">盡</span>）</strong></p>
+<p><span class="dicpy">j&igrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/j&igrave;n.mp3"></a></span> ㄐㄧㄣˋ</span></p>
+<ol>
+	<li>完毕：用～。说不～。取之不～。</li>
+	<li>达到极端：～头。山穷水～。～情。自～（自杀）。</li>
+	<li>全部用出，竭力做到：～心。～力。～瘁。～职。～忠。～责。人～其才。物～其用。</li>
+	<li>都，全：～然。～是白的。～收眼底。～释前嫌。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>尽</strong></p>
+<p><strong>（<span class="diczx3">儘</span>）</strong></p>
+<p><span class="dicpy">jǐn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐn.mp3"></a></span> ㄐㄧㄣˇ</span></p>
+<ol>
+	<li>极，最：～底下。</li>
+	<li>力求达到最大限度：～量（<span class="dicpy">li&agrave;ng </span>）。～管。</li>
+	<li>都，全。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> exhaust, use up; deplete</p><p><span class="z_ts2">法语</span> le plus possible,dans certaines limites,donner la priorité</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">尽</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>尽</strong></p>
+<p>儘 <span class="dicpy">jǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐn.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> (尽为&ldquo;儘&rdquo;和&ldquo;盡&rdquo;的简化字)</p>
+<p><span class="cino">(2)</span> 尽量，尽可能 <span class="encs">[to the greatest extent]</span>。</p>
+<p><span class="diczx3">如:尽早;尽分(尽量);尽语(尽量告诉)</span></p>
+<p><span class="cino">(3)</span> 意思同&ldquo;最&rdquo;，用在方位词的前面 <span class="encs">[always]</span>。</p>
+<p><span class="diczx3">如:尽南边;尽前边</span></p>
+<p><span class="cino">(4)</span> 老是;总 <span class="encs">[always]</span>。</p>
+<p><span class="diczx3">如:尽子(总是;老是)</span></p>
+<p><span class="cino">(5)</span> 〈方〉∶保持某种事情的连续性 <span class="encs">[keep on doing sth.]</span>。</p>
+<p><span class="diczx3">如:他衣服都被汗湿透了，还尽着干呢?这些日子尽下雨</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>尽</strong></p>
+<p>儘 <span class="dicpy">jǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐn.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 表示以某个范围为界限，不得超过 <span class="encs">[within]</span>。</p>
+<p><span class="diczx3">如:尽着一天把事情处理完</span></p>
+<p><span class="cino">(2)</span> 让先 <span class="encs">[first;give priority to]</span>。</p>
+<p><span class="diczx3">如:尽让(谦让);尽着好位子坐;尽好的吃</span></p>
+<p><span class="cino">(3)</span> 任凭，纵使 <span class="encs">[no matter]</span></p>
+<p><span class="diczx1">惟有落红不禁，尽教飞舞出宫墙。&mdash;&mdash;</span><span class="diczx2">武衍</span><span class="smcs">《宫词》</span></p>
+<p><span class="diczx3">又如:尽下(听凭臣下;对臣下放心。帝王宽以待下)</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">j&igrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/j&igrave;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/尽管">尽管</a></span><span class="crefe"><a href="/hans/尽可能">尽可能</a></span><span class="crefe"><a href="/hans/尽快">尽快</a></span><span class="crefe"><a href="/hans/尽量">尽量</a></span><span class="crefe"><a href="/hans/尽先">尽先</a></span><span class="crefe"><a href="/hans/尽自">尽自</a></span></div>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>尽</strong></p>
+<p>盡 <span class="dicpy">j&igrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/j&igrave;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (尽原为&ldquo;盡&rdquo;的俗字;今为&ldquo;盡&rdquo;的简化字。会意。甲骨文字形表示手持刷子洗刷器皿。盛东西的器皿只有空了才能洗刷。本义:器物中空) 同本义 <span class="encs">[empty]</span></p>
+<p><span class="diczx1">盡，器中空也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx3">又如:尽觞(饮尽杯中之酒);尽光(精光。全无剩余)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>尽</strong></p>
+<p>盡 <span class="dicpy">j&igrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/j&igrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 竭;完;没有了 <span class="encs">[exhaust;finish]</span></p>
+<p><span class="diczx1">尽，竭也，终也。&mdash;&mdash;<span class="smcs">《广韵》</span></span></p>
+<p><span class="diczx1">尽，止也。&mdash;&mdash;<span class="smcs">《小尔雅》</span></span></p>
+<p><span class="diczx1">尽莫不然也。&mdash;&mdash;<span class="smcs">《墨子经》</span></span></p>
+<p><span class="diczx1">固民自尽。&mdash;&mdash;<span class="smcs">《礼记&middot;哀公问》</span>。疏:&ldquo;谓竭尽。&rdquo;</span></p>
+<p><span class="diczx1">尽信书。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">虚坐尽后，食坐尽前。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">尽信书。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">虚坐尽后，食坐尽前。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">攻械尽。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></span></p>
+<p><span class="diczx1">民力尽于无用。&mdash;&mdash;<span class="smcs">《墨子&middot;七患》</span></span></p>
+<p><span class="diczx1">马力尽矣。&mdash;&mdash;<span class="smcs">《荀子&middot;哀公》</span></span></p>
+<p><span class="diczx1">林尽水源。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">雪尽马蹄轻。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">王维</span><span class="smcs">《观猎》</span>诗</p>
+<p><span class="diczx1">以尽吾齿。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx1">尽其肉。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《柳河东集&middot;三戒》</span></p>
+<p><span class="diczx1">烧尽北船。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">必尽吾力。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">担中肉尽，止有剩骨。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;狼三则》</span></span></p>
+<p><span class="diczx3">又如:尽言(竭尽其言);尽志(竭尽心志);尽哀(竭尽哀思);尽盘将军(指贪吃的人);尽敬(竭尽敬意)</span></p>
+<p><span class="cino">(2)</span> 达到极限 <span class="encs">[within the limits of;no more than]</span></p>
+<p><span class="diczx1">五帝三王之于乐，尽之矣。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;明理》</span>。注:&ldquo;极也。&rdquo;</span></p>
+<p><span class="diczx3">又如:尽美(极美;完美);尽善(十分完善);尽齿(尽其年寿;指衰老)</span></p>
+<p><span class="cino">(3)</span> 全部用上;全部使出 <span class="encs">[to the greatest extent]</span>。</p>
+<p><span class="diczx3">如:尽辞(毫无保留地把话说出来);尽醉(尽情醉酒)</span></p>
+<p><span class="cino">(4)</span> 死 <span class="encs">[die]</span></p>
+<p><span class="diczx1">转侧床头，惟思自尽。&mdash;&mdash;<span class="smcs">《聊斋志异》</span></span></p>
+<p><span class="diczx3">又如:尽命(终天年;效死;丧命);尽年(极其天年);尽死(效死);尽绝(绝灭)</span></p>
+<p><span class="cino">(5)</span> 努力完成 <span class="encs">[use up;do one&rsquo;s most]</span></p>
+<p><span class="diczx1">农以力尽田，贾以察尽财，百工以巧尽械器。&mdash;&mdash;<span class="smcs">《荀子&middot;荣辱》</span>。谓:&ldquo;精于事。&rdquo;</span></p>
+<p><span class="diczx3">又如:尽义务(尽本分，完成自己所应做的事);尽规(竭力谋划)</span></p>
+<p><span class="cino">(6)</span> 追问 <span class="encs">[question closely;make a detailed inquiry]</span></p>
+<p><span class="diczx1">当下心中大喜，却故意的尽了那风水几句。&mdash;&mdash;<span class="smcs">《儿女英雄传》</span></span></p>
+<p><span class="cino">(7)</span> 消灭;消失 <span class="encs">[annihilate;eliminate;perish]</span></p>
+<p><span class="diczx1">不过亡三十万金，则诸侯可尽。&mdash;&mdash;<span class="smcs">《史记&middot;秦始皇本纪》</span></span></p>
+<p>◎ <strong>尽</strong></p>
+<p>盡 <span class="dicpy">j&igrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/j&igrave;n.mp3"></a></span> </p>
+<p>〈介〉</p>
+<p><span class="cino">(1)</span> 到&hellip;底;到&hellip;尽头 <span class="encs">[all;whole;to the end]</span>。</p>
+<p><span class="diczx3">如:尽岁(全年;整年);尽世(一辈子);尽日(一整天，一天到晚);尽人(所有的人);尽物(所有之物);尽止(尽头;止境);尽头路(末路;绝路);尽情话(绝情话;无情话);尽古(终古);尽场儿(到头来;自始至终)。又指农历月终。古以农历月终三十日为大尽，二十九日为小尽</span></p>
+<p><span class="cino">(2)</span> 姓</p>
+<p>◎ <strong>尽</strong></p>
+<p>盡 <span class="dicpy">j&igrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/j&igrave;n.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 全部，都 <span class="encs">[all;completely;exhaustive]</span></p>
+<p><span class="diczx1">虚实尽知。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></span></p>
+<p><span class="diczx1">尽杀其戍卒。</span></p>
+<p><span class="diczx1">尽杀之。</span></p>
+<p><span class="diczx1">尽戮之。</span></p>
+<p><span class="diczx3">又如:应有尽有;尽净(全部不剩);尽皆(全都;完全);尽实(完全按照实情);尽多(全部，尽皆)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">jǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐn.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/尽瘁">尽瘁</a></span><span class="crefe"><a href="/hans/尽欢">尽欢</a></span><span class="crefe"><a href="/hans/尽节">尽节</a></span><span class="crefe"><a href="/hans/尽力">尽力</a></span><span class="crefe"><a href="/hans/尽力而为">尽力而为</a></span><span class="crefe"><a href="/hans/尽量">尽量</a></span><span class="crefe"><a href="/hans/尽其所能">尽其所能</a></span><span class="crefe"><a href="/hans/尽情">尽情</a></span><span class="crefe"><a href="/hans/尽全力">尽全力</a></span><span class="crefe"><a href="/hans/尽然">尽然</a></span><span class="crefe"><a href="/hans/尽人皆知">尽人皆知</a></span><span class="crefe"><a href="/hans/尽如人意">尽如人意</a></span><span class="crefe"><a href="/hans/尽善尽美">尽善尽美</a></span><span class="crefe"><a href="/hans/尽是">尽是</a></span><span class="crefe"><a href="/hans/尽收眼底">尽收眼底</a></span><span class="crefe"><a href="/hans/尽数">尽数</a></span><span class="crefe"><a href="/hans/尽态极妍">尽态极妍</a></span><span class="crefe"><a href="/hans/尽头">尽头</a></span><span class="crefe"><a href="/hans/尽夕">尽夕</a></span><span class="crefe"><a href="/hans/尽孝">尽孝</a></span><span class="crefe"><a href="/hans/尽心">尽心</a></span><span class="crefe"><a href="/hans/尽兴">尽兴</a></span><span class="crefe"><a href="/hans/尽性">尽性</a></span><span class="crefe"><a href="/hans/尽言">尽言</a></span><span class="crefe"><a href="/hans/尽意">尽意</a></span><span class="crefe"><a href="/hans/尽责">尽责</a></span><span class="crefe"><a href="/hans/尽职">尽职</a></span><span class="crefe"><a href="/hans/尽致">尽致</a></span><span class="crefe"><a href="/hans/尽忠">尽忠</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">尽</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>尽</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/盡' target=_blank>盡</a> 」的異體字。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5C3D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=尸" target="_blank">尸</a>】
+                              尽·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">尽</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=尸" target="_blank">尸</a>】
+                              尽·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5C3D.svg">						  <p>【正字通】俗盡字，詳皿部盡字註。</p>
+<p>（盡）【唐韻】【正韻】慈忍切【集韻】【韻會】在忍切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>秦上聲。【說文】器中空也。【小爾雅】止也。【玉篇】終也。【廣韻】竭也。【集韻】悉也。【易&middot;繫辭】書不盡言，言不盡意。【左傳&middot;哀元年】去惡莫如盡。【穀梁傳&middot;定十年】孔子歷階而上，不盡一等。【禮&middot;曲禮】君子不盡人之歡。【中庸】天地之道，可一言而盡也。【史記&middot;禮書】明者，禮之盡也。【荀子&middot;正名篇】欲雖不可盡，可以近盡也。【註】適可而止也。</p>
+<p>又【韓鄂歲華紀麗】大酺小盡。【註】月三十日爲大盡，二十九日爲小盡。</p>
+<p>又姓。見【萬姓統譜】。</p>
+<p>又【唐韻】【正韻】卽忍切【集韻】【韻會】子忍切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>津上聲。【類篇】極也。【正韻】盡之也。【書&middot;康誥】往盡乃心。【詩&middot;小雅】孔惠孔時，維其盡之。【左傳&middot;閔二年】晉侯使太子申生伐東山皋落氏，曰：盡敵而反。【禮&middot;樂記】殷周之<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2380B.svg'><span class='k_txt'>𣠋</span>盡矣。</p>
+<p>又【韻會】皆也。【左傳&middot;昭二年】韓宣子曰：周禮盡在魯矣。</p>
+<p>又【類篇】任也。【增韻】縱令也。【左傳&middot;文十四年】公子商人，盡其家貸於公。【禮&middot;曲禮】虛坐盡後，食坐盡前。俗作儘。</p>
+<p>又盡盡，極視盡物之貌。【荀子&middot;非十二子篇】學者之嵬盡盡然，盱盱然。</p>
+<p>又【韻會】徐刃切【正韻】齊進切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>秦去聲。亦竭也。【周語】齊國佐其語盡。【註】盡其心意，善惡褒貶，無所諱也。【世說新語】可以累心處都盡。【註】盡，猶空也。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5C3D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=皿">皿</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">盡</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“尽”字头，请参考“盡”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=皿">皿</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/76E1.svg">                          <p>器中空也。从皿㶳聲。慈刃切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/76E1_4246.svg" /><span class="swbf">(盡)</span><span class="ywyy">器中空也。</span><span class="swdz">釋詁。觳悉卒泯忽滅罄空畢罊殲拔殄盡也。曲禮曰。虛坐盡後。實坐盡前。卽忍切。俗作儘。亦空義之引伸。</span><span class="ywyy">从皿。㶳聲。</span><span class="swdz">慈忍切。十二部。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5C3D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">尽</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕin˥˧; tɕin˨˩˦ <span class="z_ts4">日语读音</span>  TSUKUSU TSUKIRU KOTOGOTOKU<span class="z_ts4">韩语罗马</span>  CIN<span class="z_ts3">越南语</span>  tận</p>						<p><span class="z_ts2">粤语</span>  zeon6<span class="z_ts3">潮州话</span>  之因6 ，zing6(chĭng) [揭阳]zêng6(chĕng) </p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/尽">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/尽">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/尽">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/尽">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/尽">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/尽">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/尽">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/尽">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/尽">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/尽">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/尽">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/尽">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">尽</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/尽">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/尽">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/尽">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/尽">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/尽">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5C3D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5C3D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5C3D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5C3D.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/儘' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/5118.svg'><span>儘</span></a></div> <div class='zx'><a href='/hans/盡' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/76E1.svg'><span>盡</span></a></div> <div class='zx'><a href='/hans/侭' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4FAD.svg'><span>侭</span></a></div> <div class='zx'><a href='/hans/𥁞' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2505E.svg'><span>𥁞</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="3646" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5557">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/觐">觐(jin4)</a></li><li><a href="/hans/䖐">䖐(jin4)</a></li><li><a href="/hans/靳">靳(jin4)</a></li><li><a href="/hans/荩">荩(jin4)</a></li><li><a href="/hans/濜">濜(jin4)</a></li><li><a href="/hans/嬐">嬐(jin4)</a></li><li><a href="/hans/䝲">䝲(jin4)</a></li><li><a href="/hans/瑨">瑨(jin4)</a></li><li><a href="/hans/进">进(jin4)</a></li><li><a href="/hans/烬">烬(jin4)</a></li><li><a href="/hans/僸">僸(jin4)</a></li><li><a href="/hans/浕">浕(jin4)</a></li><li><a href="/hans/䥆">䥆(jin3)</a></li><li><a href="/hans/卺">卺(jin3)</a></li><li><a href="/hans/瑾">瑾(jin3)</a></li><li><a href="/hans/錦">錦(jin3)</a></li><li><a href="/hans/緊">緊(jin3)</a></li><li><a href="/hans/侭">侭(jin3)</a></li><li><a href="/hans/僅">僅(jin3)</a></li><li><a href="/hans/㹏">㹏(jin3)</a></li><li><a href="/hans/䭙">䭙(jin3)</a></li><li><a href="/hans/㬐">㬐(jin3)</a></li><li><a href="/hans/䐶">䐶(jin3)</a></li><li><a href="/hans/㝻">㝻(jin3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㞔">㞔</a></li><li><a href="/hans/㞟">㞟</a></li><li><a href="/hans/㞐">㞐</a></li><li><a href="/hans/屝">屝</a></li><li><a href="/hans/㞝">㞝</a></li><li><a href="/hans/㞌">㞌</a></li><li><a href="/hans/屉">屉</a></li><li><a href="/hans/屍">屍</a></li><li><a href="/hans/屪">屪</a></li><li><a href="/hans/屃">屃</a></li><li><a href="/hans/屬">屬</a></li><li><a href="/hans/展">展</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/屽">屽</a></li><li><a href="/hans/肍">肍</a></li><li><a href="/hans/糹">糹</a></li><li><a href="/hans/𠚼">𠚼</a></li><li><a href="/hans/仯">仯</a></li><li><a href="/hans/危">危</a></li><li><a href="/hans/㠶">㠶</a></li><li><a href="/hans/㝌">㝌</a></li><li><a href="/hans/兊">兊</a></li><li><a href="/hans/丟">丟</a></li><li><a href="/hans/叒">叒</a></li><li><a href="/hans/仼">仼</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">白日依山<span>尽</span>，黄河入海流。</div><div class="gscdr">唐·王之涣 《登鹳雀楼》</div><div class="gscdl">野火烧不<span>尽</span>，春风吹又生。</div><div class="gscdr">《赋得古原草送别》（节选）</div><div class="gscdl">荷<span>尽</span>已无擎雨盖，菊残犹有傲霜枝。</div><div class="gscdr">宋·苏轼 《赠刘景文》</div><div class="gscdl">梅子黄时日日晴，小溪泛<span>尽</span>却山行。</div><div class="gscdr">宋·曾几 《三衢道中》</div><div class="gscdl">孤帆远影碧空<span>尽</span>，唯见长江天际流。</div><div class="gscdr">唐·李白 《黄鹤楼送孟浩然之广陵》</div><div class="gscdl">劝君更<span>尽</span>一杯酒，西出阳关无故人。</div><div class="gscdr">唐·王维 《送元二使安西》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">杨花落<span>尽</span>子规啼，闻道龙标过五溪。</div><div class="gscdr">唐·李白 《闻王昌龄左迁龙标遥有此寄》</div><div class="gscdl">不知何处吹芦管，一夜征人<span>尽</span>望乡。</div><div class="gscdr">唐·李益 《夜上受降城闻笛》</div><div class="gscdl">一屠晚归，担中肉<span>尽</span>，止有剩骨。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">骨已<span>尽</span>矣，而两狼之并驱如故。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">山随平野<span>尽</span>，江入大荒流。</div><div class="gscdr">唐·李白 《渡荆门送别》</div><div class="gscdl">兴<span>尽</span>晚回舟，误入藕花深处。</div><div class="gscdr">宋·李清照 《如梦令》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=3646"></script>
+</body>
+</html>

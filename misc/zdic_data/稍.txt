@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>稍的解释|稍的意思|汉典“稍”字的基本解释</title>
+<meta name="title" content="稍的解释|稍的意思|汉典“稍”字的基本解释">
+<meta property="og:title" content="“稍”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“稍”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“稍”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/稍" />
+<link rel="canonical" href="//www.zdic.net/hans/稍" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/稍" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/稍" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/稍" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/稍">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/稍">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/7A0D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/7A0D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                                                  </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span></span></p><p><span class="z_d song">shào<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shào.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄠ.mp3"></a></span></span></p><p><span class="z_d song">ㄕㄠˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄠˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=禾" target="_blank">  禾</a></p>
+                              <p><span class="z_ts2">部外</span>  7</p>
+                              <p><span class="z_ts3">总笔画</span>  12</p></td>                                                                                  </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7A0D</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>312342432511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tieg</p></td>                            <td class="dsk_2_1"><p>hdfb</p></td>                            <td class="dsk_2_1"><p>mfkq</p></td>                            <td class="dsk_2_1"><p>29927</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span></span> <span class="z_d song">shào<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shào.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄠ.mp3"></a></span></span> <span class="z_d song">ㄕㄠˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“稍”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄠˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=禾" target="_blank">禾</a> <span class="z_ts2">部外</span> 7<span class="z_ts3">总笔画</span> 12</p>                    <p><span class="z_ts3">统一码</span> 7A0D<span class="z_ts2">笔顺</span> 312342432511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7A0D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=11278" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>稍</strong></p><p><span class="dicpy">shāo  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span>  ㄕㄠˉ</span></p><ol><p>　◎ 本义为禾末，引申为略微：～～。～微。～许。～纵即逝。</p></ol><p><strong>其它字义</strong></p><hr class="dichr" /><p>● <strong>稍</strong></p><p><span class="dicpy">shào  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shào.mp3"></a></span>  ㄕㄠˋ</span></p><ol><p>　◎ 〔～息〕军事或体操的口令。</p></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> little, slightly; rather</p><p><span class="z_ts2">德语</span> ein wenig, ein bisschen, ein Augenblick</p><p><span class="z_ts2">法语</span> un peu,légèrement</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>稍</strong> <span class="dicpy">shāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。从禾，肖声。本义:禾末)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[tip of standing grain]</span></p><p><span class="diczx1">稍，出物有渐也。——<span class="smcs">《说文》</span>。按，此字当训禾末，与秒为谷芒者别。</span></p><p><span class="cino">(3)</span> 又如:稍秣(给牛马吃的草料)</p><p><span class="cino">(4)</span> 泛指事物的末端，枝叶 <span class="encs">[tip;the thin end of a twig]</span>。如:稍芟(指树枝芦荻等塞河之物);稍房(亦作<span class="yhcs">“梢间”</span>、<span class="yhcs">“梢房”</span>。距主房较远的房间);稍瓜(菜瓜)</p><p><span class="cino">(5)</span> 俸禄，官吏的薪水 <span class="encs">[an offical's salary]</span></p><p><span class="diczx1">均其稍食。——<span class="smcs">《周礼·内宰》</span>。注:<span class="yhcs">“吏禄禀也。”</span></span></p><p><span class="diczx1">今诸生学于太学，县官日有廪之供。——</span><span class="diczx2">明</span>· <span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p><p><span class="cino">(6)</span> 又如:稍食(月俸，按月而给的廪食);稍饩(月俸，廪食);稍房(堆放稻粮的屋子)</p><p><span class="cino">(7)</span> 赌本 <span class="encs">[money to gamble with]</span>。如:翻稍(翻本);稍物(做赌本的财物，金钱);稍长胆壮(赌本足，胆子大);稍挽稍(拿自己的赌资来博取别人的银钱)</p><p><span class="cino">(8)</span> 用同<span class="yhcs">“艄”</span>。称船家 <span class="encs">[boat man]</span>。如:稍婆(船家妇女;撑船的女子);稍工(艄公);稍子(艄公;船夫);稍公(撑船的人，掌舵的人)</p><p><strong>词性变化</strong></p><p>◎ <strong>稍</strong> <span class="dicpy">shāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span> </p><p>〈副〉</p><p><span class="cino">(1)</span> 逐渐 <span class="encs">[gradually]</span></p><p><span class="diczx1">献孝之后，稍以蚕食六国。——<span class="smcs">《史记·秦楚之际月表》</span></span></p><p><span class="diczx1">稍，渐也。——<span class="smcs">《汉书·郊祀志》</span>集注</span></p><p><span class="diczx1">渐渐，犹稍稍也。——<span class="smcs">《一切经音义》</span></span></p><p><span class="diczx1">吏稍侵辱之。——<span class="smcs">《汉书·周勃传》</span></span></p><p><span class="diczx1">稍出近之，慭慭然，莫相知。——</span><span class="diczx2">唐</span>· <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p><p><span class="diczx1">其后稍蚕食</span><span class="diczx2">魏</span>。——<span class="smcs">《史记·魏公子列传》</span></p><p><span class="cino">(2)</span> 又如:稍杀(渐衰;稍差)</p><p><span class="cino">(3)</span> 略微;稍微 <span class="encs">[a little;slightly]</span></p><p><span class="diczx1">稍，稍小也。——<span class="smcs">《广雅》</span></span></p><p><span class="diczx1">门人弟子填其室，未尝稍降辞色。——</span><span class="diczx2">明</span>· <span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p><p><span class="diczx1">乃使人复葺南阁子，其制稍异于前。——</span><span class="diczx2">明</span>· <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p><p><span class="cino">(4)</span> 又如:稍姑(稍微，姑且);稍胜一筹;稍息(略微休养生息;略微停止;小憩;歇息一会儿);产品的质量稍差了些，要注意保证质量;这大衣稍长了一点</p><p><span class="cino">(5)</span> 表示范围，相当于<span class="yhcs">“只”</span>、<span class="yhcs">“但”</span> <span class="encs">[but]</span></p><p><span class="diczx1">山豁何时断，江平不肯流。稍知花改岸，始验鸟随舟。——</span><span class="diczx2">杜甫</span><span class="smcs">《陪王使君晦日泛江》</span></p><p><span class="cino">(6)</span> 随即，不一会 <span class="encs">[immdiately]</span>。如:稍稍(随即，已而)</p><p><span class="cino">(7)</span> 表示程度深，相当于<span class="yhcs">“颇”</span>、<span class="yhcs">“甚”</span> <span class="encs">[very]</span></p><p><span class="diczx1">姐姐稍亲文墨，</span><span class="diczx2">君瑞</span>博通今古。—— <span class="diczx2">董解元</span><span class="smcs">《西厢记诸宫调》</span></p><p>◎ <strong>稍</strong> <span class="dicpy">shāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span> </p><p>〈动〉</p><p>用同<span class="yhcs">“捎”</span>。顺带寄、带<span class="encs">[bring]</span>。如:稍带(携带);稍驮(装载在牲口背上);稍袋(装粮食的口袋)</p><p>◎ <strong>稍</strong> <span class="dicpy">shāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 小 <span class="encs">[small]</span></p><p><span class="diczx1">凡王之稍事，设荐脯醢。——<span class="smcs">《周礼·天官·膳夫》</span></span></p><p><span class="cino">(2)</span> 另见 <span class="dicpy">shào</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shào.mp3"></a></span> </p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/稍后">稍后</a></span><span class="crefe"><a href="/hans/稍绿">稍绿</a></span><span class="crefe"><a href="/hans/稍稍">稍稍</a></span><span class="crefe"><a href="/hans/稍胜一筹">稍胜一筹</a></span><span class="crefe"><a href="/hans/稍微">稍微</a></span><span class="crefe"><a href="/hans/稍为">稍为</a></span><span class="crefe"><a href="/hans/稍许">稍许</a></span><span class="crefe"><a href="/hans/稍纵即逝">稍纵即逝</a></span></div>　<p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>稍</strong> <span class="dicpy">shào</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shào.mp3"></a></span> </p><p>另见 <span class="dicpy">shāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shāo.mp3"></a></span> </p><p><strong>常用词组</strong><hr class="dichr" /></p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/稍息">稍息</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>稍</rb></rbc><rtc><rt>ㄕㄠ</rt></rtc><rtc><rt>shāo <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4987.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">副</span><ol><li><p class="def"><span class="gc_sy">略微。</span><span class="gc_lz">如：「请稍候」、「稍纵即逝」。</span></p></li><li><p class="def"><span class="gc_sy">颇、甚。</span><span class="gc_yy">《文选·江淹·恨赋》：「紫台<b>稍</b>远，关山无极。」</span><span class="gc_yy">唐·柳宗元〈与崔策登西山〉诗：「谪居安所习？<b>稍</b>厌从纷扰。」</span></p></li><li><p class="def"><span class="gc_sy">已经。</span><span class="gc_yy">唐·赵冬曦〈和尹懋秋夜游灉湖〉诗二首之一：「山暗云犹辨，潭幽月<b>稍</b>来。」</span></p></li><li><p class="def"><span class="gc_sy">正、方才。</span><span class="gc_yy">宋·陈师道〈寄晁无斁春怀〉诗：「<b>稍</b>听春鸟语叮咛，又见官池出断冰。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">俸禄。</span><span class="gc_yy">《仪礼·聘礼》：「赴者至，则衰而出，唯<b>稍</b>受之。」</span><span class="gc_yy">汉·郑玄·注：「<b>稍</b>，廪食也 。」</span></p></li><li><p class="def"><span class="gc_sy">钱财、赌本。</span><span class="gc_yy">《喻世明言·卷二一·临安里钱婆留发迹》：「公子宽坐，容在下回家去，再取<b>稍</b>来决赌何如？」</span></p></li><li><p class="def"><span class="gc_sy">姓。如汉代有<b><b>稍</b></b>腾。</span></p></li></ol></div></div><div class="gycd"><div class="pz"><ruby><rbc><rb>稍</rb></rbc><rtc><rt>ㄕㄠˋ</rt></rtc><rtc><rt>​shào</rt></rtc></ruby></div><div class="gycd-item"><ol><li><p class="def"><span class="gc_sy">（一）​之又音。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7A0D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集下" target="_blank">午集下</a>】【<a href="/zd/kx/?zm=午集下&amp;bs=禾" target="_blank">禾</a>】
+                              稍·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=午集下" target="_blank">午集下</a>】【<a href="/zd/kx/?zm=午集下&amp;bs=禾" target="_blank">禾</a>】
+                              稍·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：7</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7A0D.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>所敎切，音哨。【說文】出物有漸也。【儀禮·聘禮】惟稍受之。【註】稍，廩食也。【疏】以其稍稍給之，故謂米廩爲稍。</p><p>又【廣韻】均也，小也。【周禮·天官·小宰】凡王之稍事。【註】鄭司農云：非日中大舉時而閒食，謂之稍事。一說有小事而飮酒。</p><p>又【韻會】漸也。【韓愈·答柳柳州食蝦蟆詩】余初不下喉，近亦能稍稍。</p><p>又【周禮·地官·稍人註】距王城三百里曰稍。【疏】案載師家邑任稍地，在三百里內，故云。</p><p>又【集韻】【韻會】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>山巧切，音梢。亦漸也。</p><p>又【集韻】師交切，音筲。稅也。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7A0D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=禾">禾</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=禾">禾</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7A0D.svg">                          <p>出物有漸也。从禾肖聲。所教切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7A0D_4525.svg"  /><span class="swbf">(稍)</span><span class="ywyy">出物有漸也。</span><span class="swdz">漸依許當作？。漸行而？廢矣。稍之言小也、少也。凡古言稍稍者皆漸進之謂。周禮。稍食、祿稟也。云稍者、謂祿之小者也。</span><span class="ywyy">从禾。肖聲。</span><span class="swdz">所敎切。二部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7A0D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂɑu˥; ʂɑu˥˧ <span class="z_ts4">唐代读音</span>  *shràu<span class="z_ts4">日语读音</span>  YOUYAKU YAYA<span class="z_ts4">韩语罗马</span>  CHO<span class="z_ts4">现代韩语</span>  초</p>						<p><span class="z_ts3">客家话</span>  [陆丰腔] siau3 [客英字典] sau1 sau5 [沙头角腔] sau1 [东莞腔] siau1 [海陆腔] sau1 [梅县腔] sau1 [台湾四县腔] sau1 [宝安腔] sau1 [客语拼音字汇] sau3 seu3<span class="z_ts2">粤语</span>  saau2</p>						<p><span class="z_ts3">近代音</span>  審母    蕭豪韻    上聲    稍小空；<span class="z_ts3">中古音</span>  審生母    效韻    去聲    稍小韻    所敎切    二等    開口；<span class="z_ts3">上古音</span>  黄侃系统：心母    豪部   ；王力系统：山母    宵部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/稍">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/稍">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/稍">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/稍">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/稍">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/稍">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/稍">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/稍">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/稍">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/稍">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/稍">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/稍">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">稍</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/稍"><img data-original="//img.zdic.net/zy/xiaozhuan/27_7A0D.svg" class="lazy ypic"><span>「稍」 說文‧禾部</span></a></td><td><a href="/zd/zx/qx/稍"><img data-original="//img.zdic.net/zy/qinwenzi/71_E785.svg" class="lazy ypic"><span>「稍」 睡.秦120</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/稍" target="_blank"><img data-original="//img.zdic.net/kai/tw/7A0D.svg" class="lazy ypic"><span>「稍」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/稍">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/稍">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/稍">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7A0D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7A0D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7A0D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7A0D.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/7A0D.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                             
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="11278" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6642">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/弰">弰(shao1)</a></li><li><a href="/hans/旓">旓(shao1)</a></li><li><a href="/hans/艄">艄(shao1)</a></li><li><a href="/hans/捎">捎(shao1)</a></li><li><a href="/hans/萷">萷(shao1)</a></li><li><a href="/hans/髾">髾(shao1)</a></li><li><a href="/hans/䈰">䈰(shao1)</a></li><li><a href="/hans/烧">烧(shao1)</a></li><li><a href="/hans/筲">筲(shao1)</a></li><li><a href="/hans/梢">梢(shao1)</a></li><li><a href="/hans/䈾">䈾(shao1)</a></li><li><a href="/hans/鞘">鞘(shao1)</a></li><li><a href="/hans/哨">哨(shao4)</a></li><li><a href="/hans/䏴">䏴(shao4)</a></li><li><a href="/hans/娋">娋(shao4)</a></li><li><a href="/hans/佋">佋(shao4)</a></li><li><a href="/hans/少">少(shao4)</a></li><li><a href="/hans/紹">紹(shao4)</a></li><li><a href="/hans/卲">卲(shao4)</a></li><li><a href="/hans/潲">潲(shao4)</a></li><li><a href="/hans/袑">袑(shao4)</a></li><li><a href="/hans/柖">柖(shao4)</a></li><li><a href="/hans/召">召(shao4)</a></li><li><a href="/hans/䙼">䙼(shao4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䅀">䅀</a></li><li><a href="/hans/稜">稜</a></li><li><a href="/hans/䅬">䅬</a></li><li><a href="/hans/䅣">䅣</a></li><li><a href="/hans/稅">稅</a></li><li><a href="/hans/稶">稶</a></li><li><a href="/hans/䅜">䅜</a></li><li><a href="/hans/䆀">䆀</a></li><li><a href="/hans/䄬">䄬</a></li><li><a href="/hans/穔">穔</a></li><li><a href="/hans/秼">秼</a></li><li><a href="/hans/程">程</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/詝">詝</a></li><li><a href="/hans/韌">韌</a></li><li><a href="/hans/舒">舒</a></li><li><a href="/hans/揯">揯</a></li><li><a href="/hans/𠌍">𠌍</a></li><li><a href="/hans/痢">痢</a></li><li><a href="/hans/兟">兟</a></li><li><a href="/hans/㗎">㗎</a></li><li><a href="/hans/㪏">㪏</a></li><li><a href="/hans/嵏">嵏</a></li><li><a href="/hans/鈊">鈊</a></li><li><a href="/hans/琳">琳</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">其船背<span>稍</span>夷，则题名其上，文曰“天启壬戌秋日，虞山王毅叔远甫刻”。</div><div class="gscdr">明·魏学洢 《核舟记》</div><div class="gscdl">录毕，走送之，不敢<span>稍</span>逾约。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div><div class="gscdl">先达德隆望尊，门人弟子填其室，未尝<span>稍</span>降辞色。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div><div class="gscdl">今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？今诸生学于太学，县官日有廪<span>稍</span>之供，父母岁有裘葛之遗，无冻馁之患矣；坐大厦之下而诵《诗》《书》无奔走之劳矣；有司业、博士为之师，未有问而不告，求而不得者也；凡所宜有之书，皆集于此，不必若余之手录，假诸人而后见也。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=11278"></script>
+</body>
+</html>

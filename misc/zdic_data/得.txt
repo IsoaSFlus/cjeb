@@ -1,0 +1,709 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>得的解释|得的意思|汉典“得”字的基本解释</title>
+<meta name="title" content="得的解释|得的意思|汉典“得”字的基本解释">
+<meta name="keywords" content="|⿰彳㝵|" /><meta property="og:title" content="“得”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“得”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“得”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/得" />
+<link rel="canonical" href="//www.zdic.net/hans/得" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/得" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/得" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/得" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/得">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/得">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5F97.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5F97.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">dé<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dé.mp3"></a></span></span></p><p><span class="z_d song">děi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/děi.mp3"></a></span></span></p><p><span class="z_d song">de<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/de.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄜˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄜˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄉㄟˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄟˇ.mp3"></a></span></span></p><p><span class="z_d song">˙ㄉㄜ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/˙ㄉㄜ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彳" target="_blank">  彳</a></p>
+                              <p><span class="z_ts2">部外</span>  8</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_ytz2"><a href='/hans/㝵' target=_blank>㝵</a> <a href='/hans/㝶' target=_blank>㝶</a> <a href='/hans/䙸' target=_blank>䙸</a> <a href='/hans/𠊚' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2029A.svg'><span class='ytz_txt'>𠊚</span></a> <a href='/hans/𠭁' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20B41.svg'><span class='ytz_txt'>𠭁</span></a> <a href='/hans/𢔨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22528.svg'><span class='ytz_txt'>𢔨</span></a> <a href='/hans/𢔶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22536.svg'><span class='ytz_txt'>𢔶</span></a> <a href='/hans/𧴫' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/27D2B.svg'><span class='ytz_txt'>𧴫</span></a> <a href='/hans/䙷' target=_blank>䙷</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5F97</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>33225111124</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tjgf</p></td>                            <td class="dsk_2_1"><p>hoami</p></td>                            <td class="dsk_2_1"><p>oiad</p></td>                            <td class="dsk_2_1"><p>26241</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">dé<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dé.mp3"></a></span></span> <span class="z_d song">děi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/děi.mp3"></a></span></span> <span class="z_d song">de<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/de.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄜˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄜˊ.mp3"></a></span></span> <span class="z_d song">ㄉㄟˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄟˇ.mp3"></a></span></span> <span class="z_d song">˙ㄉㄜ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“得”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/˙ㄉㄜ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彳" target="_blank">彳</a> <span class="z_ts2">部外</span> 8<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">基本区</span> 5F97<span class="z_ts2">笔顺</span> 33225111124                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5F97_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4504" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>得</strong></p><p><span class="dicpy">d&eacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&eacute;.mp3"></a></span> ㄉㄜˊ</span></p><hr class="dichr" /><ol>	<li>获取，接受：～到。～失。～益。～空（<span class="dicpy">k&ograve;ng</span>）。～便。～力。～济。心～。</li>	<li>适合：～劲。～当（<span class="dicpy">d&agrave;ng </span>）。～法。～体。</li>	<li>满意：～意。扬扬自～。</li>	<li>完成，实现：饭～了。～逞。～志（多指满足名利的欲望）。</li>	<li>可以，许可：不～随地吐痰。</li>	<li>口语词（①表禁止，如&ldquo;～了，别说了&rdquo;；②表同意，如&ldquo;～，就这么办&rdquo;）。</li></ol><p>● <strong>得</strong></p><p><span class="dicpy">děi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/děi.mp3"></a></span> ㄉㄟˇ</span></p><hr class="dichr" /><ol>	<li>必须，须要：可～注意。</li>	<li>极舒服，极适意：这时要能洗上凉水澡，就～了。</li></ol><p>● <strong>得</strong></p><p><span class="dicpy">de  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/de.mp3"></a></span> ㄉㄜ</span></p><hr class="dichr" /><ol>	<li>用在动词后表可能：要不～。拿～起来。</li>	<li>用在动词或形容词后的连接补语，表示效果或程度：跑～快。香～很。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> <p>obtain, get, gain, acquire</p></p><p><span class="z_ts2">德语</span> werden ,suffix zur Beschreibung der Art und Weise ,müssen (Hilfsverb)​</p><p><span class="z_ts2">法语</span> acquérir,gagner,être prêt,(complément de manière)​,(exprime un résultat, une possibilité, un degré ou un aboutissement)​,avoir besoin,nécessiter,devoir,falloir,être sûr de</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>得</strong> <span class="dicpy">d&eacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&eacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (会意。金文字形，右边是&ldquo;贝&rdquo;(财货)加&ldquo;手&rdquo;，左边是&ldquo;彳&rdquo;，表示行有所得。手里拿着财货，自然是有所得。本义:得到，获得)</p>
+<p><span class="cino">(2)</span> 同本义(本来没有而争取得来成为己有) <span class="encs">[get;obtain;gain]</span></p>
+<p><span class="diczx1">得，行有所得也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">三人行必得我师焉。&mdash;&mdash;<span class="smcs">《论语》</span>。释文:&ldquo;本或作必有。&rdquo;</span></p>
+<p><span class="diczx1">缘木求鱼，虽不得鱼，无后灾。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">佳婿难得。&mdash;&mdash;<span class="smcs">《世说新语&middot;假谲》</span></span></p>
+<p><span class="diczx1">卖炭得钱何所营。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《卖炭翁》</span></p>
+<p><span class="diczx2">工之侨</span>得良桐焉。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">刘基</span><span class="smcs">《郁离子&middot;千里马篇》</span></p>
+<p><span class="diczx3">又如:得人心;各得其所;得肆(得志，肆意);得闲儿(有空闲时间;得空);得胜回头(宋元说书人在开讲正书前先说一段小故事作引子，叫得胜回头);得职(获得官职);得情报;得钱;得奖</span></p>
+<p><span class="cino">(3)</span> 找到 <span class="encs">[discover;obtain;find out]</span></p>
+<p><span class="diczx1">知得而不知丧。&mdash;&mdash;<span class="smcs">《易&middot;文言》</span></span></p>
+<p><span class="diczx1">虑而后后能得。&mdash;&mdash;<span class="smcs">《礼记&middot;大学》</span>。注:&ldquo;谓得事之宜也。&rdquo;</span></p>
+<p><span class="diczx1">至德不得。&mdash;&mdash;<span class="smcs">《庄子&middot;秋水》</span></span></p>
+<p><span class="diczx1">既而得其尸于井。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="cino">(4)</span> 得知 <span class="encs">[hear of;learn about]</span></p>
+<p><span class="diczx1">故无术者得于不用。&mdash;&mdash;<span class="smcs">《韩非子》</span></span></p>
+<p><span class="diczx1">礼得其报则乐。&mdash;&mdash;<span class="smcs">《礼记&middot;乐记》</span>。注:&ldquo;谓晓其义。&rdquo;</span></p>
+<p><span class="diczx2">武王</span>得之矣。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;义赏》</span>。注:&ldquo;犹知也。&rdquo;</p>
+<p><span class="cino">(5)</span> 捕获 <span class="encs">[catch]</span></p>
+<p><span class="diczx1">然得而腊之以为饵。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="cino">(6)</span> 亦指被捕获;被逮捕。</p>
+<p><span class="diczx3">又如:得俊(俘获敌方的勇猛将士)</span></p>
+<p><span class="cino">(7)</span> 成功;完成 <span class="encs">[succeed]</span></p>
+<p><span class="diczx1">已经传人画图样去了。明日就得。&mdash;&mdash;<span class="smcs">《红楼梦》</span></span></p>
+<p><span class="diczx3">又如:得算(计谋成功);得策(谋略得当)</span></p>
+<p><span class="cino">(8)</span> 适，合 <span class="encs">[fit;befit;suit]</span></p>
+<p><span class="diczx1">傲啸东轩下，聊复得此生。&mdash;&mdash;</span><span class="diczx2">陶渊明</span><span class="smcs">《饮酒》</span></p>
+<p><span class="cino">(9)</span> 具备 <span class="encs">[have;possess]</span></p>
+<p><span class="diczx1">积善成德，而神明自得。&mdash;&mdash;<span class="smcs">《荀子&middot;劝学》</span></span></p>
+<p><span class="cino">(10)</span> 同&ldquo;德&rdquo;，恩惠，感恩 <span class="encs">[be grateful;feel grateful]</span></p>
+<p><span class="diczx1">所识穷乏者得我欤。&mdash;&mdash;<span class="smcs">《孟子&middot;告子上》</span></span></p>
+<p><span class="diczx1">地广而不得者国危，兵强而凌敌者身亡。&mdash;&mdash;<span class="smcs">《盐铁论&middot;击之》</span></span></p>
+<p><span class="cino">(11)</span> 助动词。能，能够 <span class="encs">[can]</span></p>
+<p><span class="diczx2">孔子</span>下，欲与之言，趋而避之，不得与之言。&mdash;&mdash;<span class="smcs">《论语&middot;微子》</span></p>
+<p><span class="diczx1">以是人多以书假余，余因得遍观群书。&mdash;&mdash;</span><span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p>
+<p><span class="diczx1">进退不得，为之奈何?&mdash;&mdash;<span class="smcs">《吴子&middot;应变》</span></span></p>
+<p><span class="diczx2">沛公</span>军 <span class="diczx2">霸上</span>，未得与 <span class="diczx2">项羽</span>相见。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></p>
+<p><span class="cino">(12)</span> 得意，满足 <span class="encs">[be proud of;revel in]</span></p>
+<p><span class="diczx1">意气扬扬，甚自得也。&mdash;&mdash;<span class="smcs">《史记&middot;管晏列传》</span></span></p>
+<p><span class="diczx1">常使两情皆得，彼此俱畅。&mdash;&mdash;<span class="smcs">《世说新语&middot;文学》</span></span></p>
+<p><span class="diczx3">又如:洋洋得意</span></p>
+<p><span class="cino">(13)</span> 看到 <span class="encs">[see]</span></p>
+<p><span class="diczx1">林尽水源，便得一山。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>得</strong> <span class="dicpy">d&eacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&eacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 收获，心得 <span class="encs">[what one has learned]</span></p>
+<p><span class="diczx1">古人之观于天地、山川、草木、虫鱼、鸟兽，往往有得。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《游褒禅山记》</span></p>
+<p><span class="diczx1">开卷有得，便欣然忘食。&mdash;&mdash;<span class="smcs">《南史&middot;陶潜传》</span></span></p>
+<p><span class="cino">(2)</span> 德，道德，有德之人 <span class="encs">[virtue]</span></p>
+<p><span class="diczx1">尚得推贤不失序。&mdash;&mdash;<span class="smcs">《荀子》</span></span></p>
+<p>◎ <strong>得</strong> <span class="dicpy">d&eacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&eacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p>必须，应该 <span class="encs">[must]</span></p>
+<p><span class="diczx1">君为我呼入，吾得兄事之。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></span></p>
+<p>◎ <strong>得</strong> <span class="dicpy">d&eacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&eacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p>合适;正确 <span class="encs">[suitable;right]</span></p>
+<p><span class="diczx1">于彼计则得。&mdash;&mdash;</span><span class="diczx2">马中锡</span><span class="smcs">《中山狼传》</span></p>
+<p><span class="diczx1">历古今之得失。&mdash;&mdash;<span class="smcs">《汉书》</span></span></p>
+<p>◎ <strong>得</strong> <span class="dicpy">d&eacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&eacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">叹</span></p>
+<p><span class="cino">(1)</span> 用在口语中表示同意或禁止 <span class="encs">[all right]</span>。</p>
+<p><span class="diczx3">如:得，就这么办;得了，别说了;得也么(算了吧;又作答应之词)</span></p>
+<p><span class="cino">(2)</span> 用在口语中，瞧。在情况变坏时表示无可奈何 <span class="encs">[look，look!]</span>。</p>
+<p><span class="diczx3">如:得，又搞错了;得，全完了</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">de;děi</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/得便">得便</a></span><span class="crefe"><a href="/hans/得标">得标</a></span><span class="crefe"><a href="/hans/得病">得病</a></span><span class="crefe"><a href="/hans/得不偿失">得不偿失</a></span><span class="crefe"><a href="/hans/得采">得采</a></span><span class="crefe"><a href="/hans/得逞">得逞</a></span><span class="crefe"><a href="/hans/得宠">得宠</a></span><span class="crefe"><a href="/hans/得出">得出</a></span><span class="crefe"><a href="/hans/得当">得当</a></span><span class="crefe"><a href="/hans/得当">得当</a></span><span class="crefe"><a href="/hans/得到">得到</a></span><span class="crefe"><a href="/hans/得道">得道</a></span><span class="crefe"><a href="/hans/得道多助">得道多助</a></span><span class="crefe"><a href="/hans/得法">得法</a></span><span class="crefe"><a href="/hans/得分">得分</a></span><span class="crefe"><a href="/hans/得过且过">得过且过</a></span><span class="crefe"><a href="/hans/得计">得计</a></span><span class="crefe"><a href="/hans/得间">得间</a></span><span class="crefe"><a href="/hans/得劲">得劲</a></span><span class="crefe"><a href="/hans/得救">得救</a></span><span class="crefe"><a href="/hans/得空，得空儿">得空，得空儿</a></span><span class="crefe"><a href="/hans/得力">得力</a></span><span class="crefe"><a href="/hans/得力">得力</a></span><span class="crefe"><a href="/hans/得脸">得脸</a></span><span class="crefe"><a href="/hans/得了">得了</a></span><span class="crefe"><a href="/hans/得陇望蜀">得陇望蜀</a></span><span class="crefe"><a href="/hans/得名">得名</a></span><span class="crefe"><a href="/hans/得饶人处且饶人">得饶人处且饶人</a></span><span class="crefe"><a href="/hans/得人">得人</a></span><span class="crefe"><a href="/hans/得人心">得人心</a></span><span class="crefe"><a href="/hans/得胜">得胜</a></span><span class="crefe"><a href="/hans/得胜回朝">得胜回朝</a></span><span class="crefe"><a href="/hans/得胜头回">得胜头回</a></span><span class="crefe"><a href="/hans/得失">得失</a></span><span class="crefe"><a href="/hans/得势">得势</a></span><span class="crefe"><a href="/hans/得手">得手</a></span><span class="crefe"><a href="/hans/得体">得体</a></span><span class="crefe"><a href="/hans/得天独厚">得天独厚</a></span><span class="crefe"><a href="/hans/得无">得无</a></span><span class="crefe"><a href="/hans/得悉">得悉</a></span><span class="crefe"><a href="/hans/得闲">得闲</a></span><span class="crefe"><a href="/hans/得心应手">得心应手</a></span><span class="crefe"><a href="/hans/得一望十">得一望十</a></span><span class="crefe"><a href="/hans/得宜">得宜</a></span><span class="crefe"><a href="/hans/得以">得以</a></span><span class="crefe"><a href="/hans/得意">得意</a></span><span class="crefe"><a href="/hans/得意忘形">得意忘形</a></span><span class="crefe"><a href="/hans/得鱼忘筌">得鱼忘筌</a></span><span class="crefe"><a href="/hans/得知">得知</a></span><span class="crefe"><a href="/hans/得志">得志</a></span><span class="crefe"><a href="/hans/得中">得中</a></span><span class="crefe"><a href="/hans/得中">得中</a></span><span class="crefe"><a href="/hans/得主">得主</a></span><span class="crefe"><a href="/hans/得罪">得罪</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>得</strong> <span class="dicpy">de</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/de.mp3"></a></span> </p>
+<p><span class="xx_cx">助</span></p>
+<p><span class="cino">(1)</span> 用在动词后面，表示能够或可以。</p>
+<p><span class="diczx3">如:我们可粗心不得;她能去我为什么去不得</span></p>
+<p><span class="cino">(2)</span> 用在动词和补语中间，表示可能。</p>
+<p><span class="diczx3">如:我拿得动;那办得到</span></p>
+<p><span class="cino">(3)</span> 用在动词或形容词后面，连接表示程度或结果的补语。</p>
+<p><span class="diczx3">如:冷得打哆嗦;笑得肚子痛</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">d&eacute;;děi</span></p>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>得</strong> <span class="dicpy">děi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/děi.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 用在口语中表示必须有，一定 <span class="encs">[need]</span>。</p>
+<p><span class="diczx3">如:这个工程得三个月才能完成</span></p>
+<p><span class="cino">(2)</span> 绝对必要或应当去做 <span class="encs">[must;have to]</span></p>
+<p><span class="diczx1">犹得备晨炊。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《石壕吏》</span></p>
+<p><span class="diczx3">又如:有错误就得批评;做得好就得表扬</span></p>
+<p><span class="cino">(3)</span> 表示推测的必然 <span class="encs">[will be sure to]</span>。</p>
+<p><span class="diczx3">如:要不快走，我们就得迟到了</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">d&eacute;;de</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/得亏">得亏</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>得</rb></rbc><rtc><rt>ㄉㄜˊ</rt></rtc><rtc><rt>d&eacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/1016.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">獲、取。與「失」相對而言。</span><span class="gc_lz">如：「鷸蚌相爭，漁翁得利。」</span><span class="gc_yy">《孟子&middot;告子上》：「求則<b>得</b>之，舍則失之。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">演算產生結果。</span><span class="gc_lz">如：「三三<b>得</b>九。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">遇。</span><span class="gc_lz">如：「<b>得</b>便」、「得空即前往拜訪。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">契合、適宜。</span><span class="gc_lz">如：「得體」、「得法」。</span><span class="gc_yy">漢&middot;王襃〈聖主<b>得</b>賢臣頌〉：「聚精會神，相<b>得</b>益章。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">快意、滿足。</span><span class="gc_yy">《史記&middot;卷六二&middot;管晏傳》：「意氣揚揚，甚自<b>得</b>也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">可以、能夠。</span><span class="gc_lz">如：「得過且過」、「不<b>得</b>抽菸！」、「得饒人處且饒人」、「所有員工均<b>得</b>摸彩。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">用於談話終了之時，表反對、禁止或同意。</span><span class="gc_lz">如：「得了，別再出餿主意了！」、「<b>得</b>，我們就照你的方法去做。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">相當於「何」、「豈」、「那」、「怎」、「難道」等，表示反詰的語氣。</span><span class="gc_yy">唐&middot;杜甫〈後苦寒行〉二首之二：「巴東之峽生凌澌，彼蒼迴斡人得知。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">助</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">置於動詞之後，無義。</span><span class="gc_yy">唐&middot;杜甫〈絕句漫興〉詩九首之二：「恰似春風相欺<b>得</b>，夜來吹折數枝花。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>得</rb></rbc><rtc><rt>ㄉㄜ˙</rt></rtc><rtc><rt>de <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/1021.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">介</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">用在動詞、形容詞後面，表示結果或性狀。</span><span class="gc_lz">如：「跑<b>得</b>快」、「覺<b>得</b>很好」、「美得冒泡」。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>得</rb></rbc><rtc><rt>ㄉㄟˇ</rt></rtc><rtc><rt>děi <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/1043.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">應該、必須、需要。</span><span class="gc_lz">如：「你總<b>得</b>讓我把話說完。」</span><span class="gc_yy">《紅樓夢&middot;第六六回》：「出了月就起身，<b>得</b>半個工夫纔回來。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>得</rb></rbc><rtc><rt>ㄉㄞˇ</rt></rtc><rtc><rt>dǎi</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">遭受。</span><span class="gc_lz">如：「他作惡多端，得了報應也是應該的。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5F97_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=彳" target="_blank">彳</a>】
+                              得·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=彳" target="_blank">彳</a>】
+                              得·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5F97.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22536.svg"><span class="k_txt">𢔶</span>䙷<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22528.svg"><span class="k_txt">𢔨</span>【唐韻】【正韻】多則切【集韻】【韻會】的則切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音德。【說文】行有所得也。【玉篇】獲也。【韻會】凡有求而獲皆曰得。</p><p>又賦受亦曰得。【易&middot;乾卦】知得而不知喪。【禮&middot;曲禮】臨財毋苟得。【左傳&middot;定九年】凡獲器用曰得，得用焉曰獲。【孟子】求則得之。</p><p>又貪也。【論語】戒之在得。</p><p>又【韻會】與人契合曰相得。【王褒&middot;聖主得賢臣頌】聚精會神，相得益章。</p><p>又得得，唐人方言，猶特地也。【全唐詩話】貫休入蜀，以詩投王建曰：一瓶一鉢垂垂老，千水千山得得來。</p><p>又叶都木切，音篤。【老子&middot;道德經】罪莫大於可欲，禍莫大於不知足，咎莫大於欲得。【易林】入市求鹿，不見頭足，終日至夜，竟無所得。　【集韻】或作㝶。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5F97_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=彳">彳</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=彳">彳</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5F97.svg">                          <p>行有所得也。从彳㝵聲。<img class="swtimg" src="//img.zdic.net/swxz/5F97_1.svg" />䙷，古文省彳。多則切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5F97_1845.svg" /><span class="swbf">(得)</span><span class="ywyy">行有所㝵也。</span><span class="swdz">㝵，各本作得，誤，今正。見部曰：䙷，取也。行而有所取，是曰得也。左傳曰：凡獲器用曰得。</span><span class="ywyy">从彳䙷聲。</span><span class="swdz">多則切。一部。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5F97_1846.svg" /><span class="swbf">(㝵)</span><span class="ywyy">古文省彳。</span><span class="swdz">按此字已見於見部。與得並爲小篆，義亦少異。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5F97_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɤ˧˥; tei˨˩˦; tɤ˧˥ <span class="z_ts4">唐代读音</span>  *dək<span class="z_ts4">日语读音</span>  ERU URU<span class="z_ts4">韩语罗马</span>  TUK<span class="z_ts4">现代韩语</span>  득<span class="z_ts3">越南语</span>  đắc</p>						<p><span class="z_ts3">客家话</span>  [东莞腔] det7 [客英字典] det7 [台湾四县腔] det7 [梅县腔] det7 [海陆腔] det7 [客语拼音字汇] ded5 diad5 [沙头角腔] diet7 [陆丰腔] det7 [宝安腔] det7<span class="z_ts2">粤语</span>  dak1</p>						<p><span class="z_ts3">近代音</span>  端母    齊微韻    入聲作上聲    德小空；<span class="z_ts3">中古音</span>  端母    德韻    入聲    德小韻    多則切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：端母    德部   ；端母    德部   ；王力系统：端母    職部   ；端母    職部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/得">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/得">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/得">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/得">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/得">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/得">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/得">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/得">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/得">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/得">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/得">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/得">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">得</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/得"><img data-original="//img.zdic.net/zy/jiaguwen/41_E9D3.svg" class="lazy ypic"><span>「得」 後2.29.14</span><span>合527</span></a></td><td><a href="/zd/zx/jw/得"><img data-original="//img.zdic.net/zy/jinwen/31_E974.svg" class="lazy ypic"><span>「得」 得觚</span><span>商代晚期</span><span>集成6634</span></a></td><td><a href="/zd/zx/cx/得"><img data-original="//img.zdic.net/zy/chuwenzi/51_EAF9.svg" class="lazy ypic"><span>「得」 包2.102</span></a></td><td><a href="/zd/zx/xz/得"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F4A8.svg" class="lazy ypic"><span>「得」 說文古文</span></a></td><td><a href="/zd/zx/qx/得"><img data-original="//img.zdic.net/zy/qinwenzi/71_E1AB.svg" class="lazy ypic"><span>「得」 睡.秦62</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/得" target="_blank"><img data-original="//img.zdic.net/kai/tw/5F97.svg" class="lazy ypic"><span>「得」</span></a></td></tr><tr><td><a href="/zd/zx/jg/得"><img data-original="//img.zdic.net/zy/jiaguwen/41_E9C9.svg" class="lazy ypic"><span>「得」 京都2113</span><span>合30000</span></a></td><td><a href="/zd/zx/jw/得"><img data-original="//img.zdic.net/zy/jinwen/31_E97D.svg" class="lazy ypic"><span>「得」 大克鼎</span><span>西周晚期</span><span>集成2836</span></a></td><td><a href="/zd/zx/cx/得"><img data-original="//img.zdic.net/zy/chuwenzi/51_EAF5.svg" class="lazy ypic"><span>「得」 包2.6</span></a></td><td><a href="/zd/zx/xz/得"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5F97.svg" class="lazy ypic"><span>「得」 說文‧彳部</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/得"><img data-original="//img.zdic.net/zy/jinwen/31_E97E.svg" class="lazy ypic"><span>「得」 虢叔旅鐘</span><span>西周晚期</span><span>集成238</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/得">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/得">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/得">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/得">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/得">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/得">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5F97.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5F97.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5F97.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5F97.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5F97.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㝵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3775.svg'><span>㝵</span></a></div> <div class='zx'><a href='/hans/㝶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3776.svg'><span>㝶</span></a></div> <div class='zx'><a href='/hans/䙸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4678.svg'><span>䙸</span></a></div> <div class='zx'><a href='/hans/𠊚' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2029A.svg'><span>𠊚</span></a></div> <div class='zx'><a href='/hans/𠭁' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20B41.svg'><span>𠭁</span></a></div> <div class='zx'><a href='/hans/𢔨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22528.svg'><span>𢔨</span></a></div> <div class='zx'><a href='/hans/𢔶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22536.svg'><span>𢔶</span></a></div> <div class='zx'><a href='/hans/𧴫' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/27D2B.svg'><span>𧴫</span></a></div> <div class='zx'><a href='/hans/䙷' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4677.svg'><span>䙷</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4504" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4745">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/淂">淂(de2)</a></li><li><a href="/hans/惪">惪(de2)</a></li><li><a href="/hans/鍀">鍀(de2)</a></li><li><a href="/hans/㥀">㥀(de2)</a></li><li><a href="/hans/㯖">㯖(de2)</a></li><li><a href="/hans/㝶">㝶(de2)</a></li><li><a href="/hans/㝵">㝵(de2)</a></li><li><a href="/hans/恴">恴(de2)</a></li><li><a href="/hans/悳">悳(de2)</a></li><li><a href="/hans/锝">锝(de2)</a></li><li><a href="/hans/蚮">蚮(de2)</a></li><li><a href="/hans/㤫">㤫(de2)</a></li><li><a href="/hans/䮻">䮻(dei3)</a></li><li><a href="/hans/地">地(de0)</a></li><li><a href="/hans/的">的(de0)</a></li><li><a href="/hans/䙸">䙸(de0)</a></li><li><a href="/hans/底">底(de0)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/徑">徑</a></li><li><a href="/hans/徕">徕</a></li><li><a href="/hans/徳">徳</a></li><li><a href="/hans/彽">彽</a></li><li><a href="/hans/徨">徨</a></li><li><a href="/hans/徤">徤</a></li><li><a href="/hans/彼">彼</a></li><li><a href="/hans/彺">彺</a></li><li><a href="/hans/待">待</a></li><li><a href="/hans/徙">徙</a></li><li><a href="/hans/㣗">㣗</a></li><li><a href="/hans/㣳">㣳</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㓓">㓓</a></li><li><a href="/hans/添">添</a></li><li><a href="/hans/婟">婟</a></li><li><a href="/hans/啵">啵</a></li><li><a href="/hans/猇">猇</a></li><li><a href="/hans/袺">袺</a></li><li><a href="/hans/㳵">㳵</a></li><li><a href="/hans/眻">眻</a></li><li><a href="/hans/祭">祭</a></li><li><a href="/hans/娶">娶</a></li><li><a href="/hans/阌">阌</a></li><li><a href="/hans/殓">殓</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">路人借问遥招手，怕<span>得</span>鱼惊不应人。</div><div class="gscdr">唐·胡令能 《小儿垂钓》</div><div class="gscdl">绿阴不减来时路，添<span>得</span>黄鹂四五声。</div><div class="gscdr">宋·曾几 《三衢道中》</div><div class="gscdl">玉颗珊珊下月轮，殿前拾<span>得</span>露华新。</div><div class="gscdr">唐·皮日休 《天竺寺八月十五日夜桂子》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">一狼<span>得</span>骨止，一狼仍从。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">及其家穿井，告人曰：“吾穿井<span>得</span>一人。”</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">有闻而传之者：“丁氏穿井<span>得</span>一人。”</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">丁氏对曰：“<span>得</span>一人之使，非<span>得</span>一人于井中也。”</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">阅十余岁，僧募金重修，求二石兽于水中，竟不可<span>得</span>。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">如其言，果<span>得</span>于数里外。</div><div class="gscdr">清·纪昀 《河中石兽》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=4504"></script>
+</body>
+</html>

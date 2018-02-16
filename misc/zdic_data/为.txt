@@ -1,0 +1,740 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>为的解释|为的意思|汉典“为”字的基本解释</title>
+<meta name="title" content="为的解释|为的意思|汉典“为”字的基本解释">
+<meta name="keywords" content="|为|" /><meta property="og:title" content="“为”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“为”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“为”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/为" />
+<link rel="canonical" href="//www.zdic.net/hans/为" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/为" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/为" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/为" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/为">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/为">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E3A.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E3A.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">wéi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wéi.mp3"></a></span></span></p><p><span class="z_d song">wèi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wèi.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄨㄟˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄟˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄨㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄟˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=丶" target="_blank">  丶</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/為' target=_blank>為</a>  <a href='/hans/爲' target=_blank>爲</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/為' target=_blank>為</a> <a href='/hans/爲' target=_blank>爲</a> <a href='/hans/𤓸' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/244F8.svg'><span class='ytz_txt'>𤓸</span></a> <a href='/hans/𨤒' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28912.svg'><span class='ytz_txt'>𨤒</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E3A</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>4354</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ylyi|yeyi</p></td>                            <td class="dsk_2_1"><p>iksi</p></td>                            <td class="dsk_2_1"><p>udys</p></td>                            <td class="dsk_2_1"><p>34027</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">wéi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wéi.mp3"></a></span></span> <span class="z_d song">wèi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wèi.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄨㄟˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄟˊ.mp3"></a></span></span> <span class="z_d song">ㄨㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“为”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄟˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=丶" target="_blank">丶</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 4E3A<span class="z_ts2">笔顺</span> 4354                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E3A_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=59" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">为</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>为</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">爲</span>）</strong></p>
+<p><span class="dicpy">w&eacute;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> ㄨㄟˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>做，行，做事：～人。～时。～难。不～己甚（不做得太过分）。</li>
+	<li>当做，认做：以～。认～。习以～常。</li>
+	<li>变成：成～。</li>
+	<li>是：十两～一斤。</li>
+	<li>治理，处理：～政。</li>
+	<li>被：～天下笑。</li>
+	<li>表示强调：大～恼火。</li>
+	<li>助词，表示反诘或感叹：敌未灭，何以家～？</li>
+	<li>姓。</li>
+</ol>
+<p>● <strong>为</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">爲</span>）</strong></p>
+<p><span class="dicpy">w&egrave;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;i.mp3"></a></span> ㄨㄟˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>替，给：～民请命。～虎作伥。～国捐躯。</li>
+	<li>表目的：～了。～何。</li>
+	<li>对，向：不足～外人道。</li>
+	<li>帮助，卫护。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> do, handle, govern, act; be</p><p><span class="z_ts2">德语</span> fungieren als, verhalten als, auftreten als  (V)​,sein, betragen  (V)​,wegen, um, im Bestreben  (Konj)</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">为</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>为</strong></p>
+<p>為、爲 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意字。从爪象。甲金文像手牵象，会劳作意，本义是做事、作为。)</p>
+<p><span class="cino">(2)</span> 假借为&ldquo;伪&rdquo;。做，作，干，搞 <span class="encs">[do;act;make]</span></p>
+<p><span class="diczx1">我生之初，尚无为。&mdash;&mdash;<span class="smcs">《诗&middot;王风&middot;兔爰》</span></span></p>
+<p><span class="diczx1">子为不知，我将不墜。&mdash;&mdash;<span class="smcs">《左传&middot;定公十二年》</span></span></p>
+<p><span class="diczx1">为善者，非善也，故善无以为也。&mdash;&mdash;<span class="smcs">《管子&middot;枢言》</span></span></p>
+<p><span class="diczx1">变化则为生，为生则乱矣。&mdash;&mdash;<span class="smcs">《管子&middot;心术上》</span></span></p>
+<p><span class="diczx1">为，施也。又，成也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">有客自云能，帝使为之。&mdash;&mdash;<span class="smcs">《世说新语&middot;巧艺》</span></span></p>
+<p><span class="diczx1">为之难。&mdash;&mdash;<span class="smcs">《论语》</span>。</span><span class="diczx2">皇</span>疏:&ldquo;犹行也。&rdquo;</p>
+<p><span class="diczx1">可以为师。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">人之为学。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx1">推为长。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">为之者较少。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="diczx3">又如:为事(办事;成事);为诈(作假);为薪(取薪);为善(做善事);为道(学道，实践圣道);为头(居首;从头开始);为人(做人);为后(立后);为底(治足茧)</span></p>
+<p><span class="cino">(3)</span> 制作;创作 <span class="encs">[make;compose]</span></p>
+<p><span class="diczx1">造作，为也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">以为乐器。&mdash;&mdash;<span class="smcs">《周礼&middot;春官&middot;典同》</span>。注:&ldquo;为，作也。&rdquo;</span></p>
+<p><span class="diczx1">其为衣裘何?以为冬以圉寒，夏以圉暑。&mdash;&mdash;<span class="smcs">《墨子&middot;节用上》</span></span></p>
+<p><span class="diczx1">夫仰而视其细枝，则拳曲而不可以为栋梁，俯而见其大根，则轴解而不可为棺槨。&mdash;&mdash;<span class="smcs">《庄子&middot;人间世》</span></span></p>
+<p><span class="diczx1">应声便为诗。&mdash;&mdash;<span class="smcs">《世说新语&middot;文学》</span></span></p>
+<p><span class="cino">(4)</span> 治理 <span class="encs">[administer]</span></p>
+<p><span class="diczx1">为，治也。&mdash;&mdash;<span class="smcs">《小尔雅》</span></span></p>
+<p><span class="diczx2">诸葛瑾</span>为 <span class="diczx2">豫州</span>。&mdash;&mdash;<span class="smcs">《世说新语&middot;排调》</span></p>
+<p><span class="diczx3">又如:为国(治国);为政(治理国家;执掌国政)</span></p>
+<p><span class="cino">(5)</span> 变成，成为 <span class="encs">[become]</span></p>
+<p><span class="diczx1">何遽不为福。&mdash;&mdash;<span class="smcs">《淮南子&middot;人间训》</span></span></p>
+<p><span class="diczx1">不能为祸。</span></p>
+<p><span class="diczx1">终为忠臣。&mdash;&mdash;<span class="smcs">《世说新语&middot;自新》</span></span></p>
+<p><span class="diczx1">而改为入。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">洪迈</span><span class="smcs">《容斋续笔》</span></p>
+<p><span class="diczx3">又如:由徒为师</span></p>
+<p><span class="cino">(6)</span> 是 <span class="encs">[be]</span></p>
+<p><span class="diczx1">不为远者小。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx1">不为近者热。</span></p>
+<p><span class="diczx1">治不病以为功。&mdash;&mdash;<span class="smcs">《韩非子&middot;喻老》</span></span></p>
+<p><span class="diczx1">谓为三横。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="diczx3">又如:十尺为一丈</span></p>
+<p><span class="cino">(7)</span> 学习，研究 <span class="encs">[study]</span></p>
+<p><span class="diczx1">群臣为学，门子好辩，商贾外积，小民右仗者，可亡也。&mdash;&mdash;<span class="smcs">《韩非子》</span></span></p>
+<p><span class="cino">(8)</span> 种植;营作 <span class="encs">[plant]</span></p>
+<p><span class="diczx2">东周</span>欲为稻， <span class="diczx2">西周</span>不下水， <span class="diczx2">东周</span>患之。&mdash;&mdash;<span class="smcs">《战国策》</span></p>
+<p><span class="cino">(9)</span> 设置;建立 <span class="encs">[establish]</span>。</p>
+<p><span class="diczx3">如:为法(制定法律;成为法律);为命(撰写政令、盟会的文辞);为山(建立功业)</span></p>
+<p><span class="cino">(10)</span> 使 <span class="encs">[let]</span></p>
+<p><span class="diczx1">井渫不食，为我心恻。&mdash;&mdash;<span class="smcs">《易&middot;井》</span></span></p>
+<p><span class="cino">(11)</span> 以为;认为 <span class="encs">[think;bilieve;consider]</span></p>
+<p><span class="diczx1">为汝多智。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx1">惊为生人。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">我将为无人会使此法。&mdash;&mdash;<span class="smcs">《大唐三藏取经诗话》</span></span></p>
+<p><span class="cino">(12)</span> 演奏 <span class="encs">[play]</span>。</p>
+<p><span class="diczx3">如:为乐(奏乐;作乐)</span></p>
+<p>〈名〉</p>
+<p>姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>为</strong></p>
+<p>爲 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p>〈介〉</p>
+<p><span class="cino">(1)</span> 被 <span class="encs">[by]</span>&mdash;&mdash;引出动作行为的主动者</p>
+<p><span class="diczx1">不为酒困。&mdash;&mdash;<span class="smcs">《论语&middot;子罕》</span></span></p>
+<p><span class="diczx1">为乡里所患。&mdash;&mdash;<span class="smcs">《世说新语&middot;自新》</span></span></p>
+<p><span class="diczx1">为予群从所得。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈&middot;活板》</span></p>
+<p><span class="diczx1">为</span><span class="diczx2">操</span>所先。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx1">悉为逆据。&mdash;&mdash;<span class="smcs">《广东军务记》</span></span></p>
+<p><span class="diczx3">又如:不为表面现象所迷惑;为贼所盗;为敌所败</span></p>
+<p><span class="cino">(2)</span> 于，在 <span class="encs">[in]</span>&mdash;&mdash;表示时间或处所</p>
+<p><span class="diczx1">今之时人，辞官而隐处为乡邑之下。&mdash;&mdash;<span class="smcs">《淮南子》</span></span></p>
+<p>◎ <strong>为</strong></p>
+<p>爲 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p>&lt;连&gt;</p>
+<p><span class="cino">(1)</span> 和 <span class="encs">[and]</span>&mdash;&mdash;表示并列关系</p>
+<p><span class="diczx1">得之为有财，古之人皆用之。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑下》</span></span></p>
+<p><span class="diczx1">犀首以</span><span class="diczx2">梁</span>为 <span class="diczx2">齐</span>战于 <span class="diczx2">承匡</span>而不胜。&mdash;&mdash;<span class="smcs">《战国策》</span></p>
+<p><span class="cino">(2)</span> 则，就 <span class="encs">[then]</span>&mdash;&mdash;表示承接关系</p>
+<p><span class="diczx1">君子有勇而无义为乱，小人有勇而无义为盗。&mdash;&mdash;<span class="smcs">《论语&middot;阳货》</span></span></p>
+<p><span class="cino">(3)</span> 如，若 <span class="encs">[if]</span>&mdash;&mdash;表示假设关系</p>
+<p><span class="diczx1">今诚得治国，国治身死不恨。为死，终不得治，不如去。&mdash;&mdash;<span class="smcs">《史记》</span></span></p>
+<p><span class="cino">(4)</span> 或，抑 <span class="encs">[or]</span>&mdash;&mdash;表示选择关系</p>
+<p><span class="diczx1">助教</span><span class="diczx2">顾良</span>戏之曰:&ldquo;汝姓何，是荷叶之荷，为河水之河?&rdquo; <span class="diczx2">妥</span>应声曰:&ldquo;先生姓顾，是眷顾之顾，为新故之故?&rdquo;&mdash;&mdash;<span class="smcs">《北史&middot;何妥传》</span></p>
+<p><span class="diczx1"><span class="smcs">《太誓》</span>之注不解&ldquo;五至&rdquo;，&hellip;不知为一日五来，为当异日也。&rdquo;&mdash;&mdash;<span class="smcs">《诗&middot;周颂&middot;思文》</span>疏</span></p>
+<p><span class="diczx1">不审先生梁朝出仕，为复隐居?&mdash;&mdash;<span class="smcs">《太平广记》</span></span></p>
+<p><span class="diczx3">又如:为复(还是，抑或);为是(抑或;还是);为当(抑或;还是)</span></p>
+<p>◎ <strong>为</strong></p>
+<p>爲 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p>〈助〉</p>
+<p><span class="cino">(1)</span> 的，之 <span class="encs">[of]</span>&mdash;&mdash;用于名词性偏正结构中</p>
+<p><span class="diczx1">岂弟君子，四方为则。&mdash;&mdash;<span class="smcs">《后汉书》</span></span></p>
+<p><span class="cino">(2)</span> 宾语前置的标志</p>
+<p><span class="diczx1">使</span><span class="diczx2">弈秋</span>诲二人弈，其一人专心致志，惟 <span class="diczx2">弈秋</span>之为听。&mdash;&mdash;<span class="smcs">《孟子》</span></p>
+<p><span class="cino">(3)</span> 附于单音形容词后，表示程度、范围的加深或扩大。如:大为高兴;广为宣传</p>
+<p><span class="cino">(4)</span> 附于表示程度的单音副词后，加强语意。如:广为流传;更为重要</p>
+<p>◎ <strong>为</strong></p>
+<p>爲 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p>&lt;语气&gt;</p>
+<p><span class="cino">(1)</span> 用于句尾，表示反诘、疑问，多与&ldquo;何&rdquo;相配合使用。如:何乐而不为</p>
+<p><span class="cino">(2)</span> 用于句尾，表示感叹</p>
+<p><span class="diczx1">予无所用天下为。&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="diczx1">何命焉为。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></span></p>
+<p>◎ <strong>为</strong></p>
+<p><span class="cino">(1)</span> 爲 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p><span class="diczx1">相为倚伏。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">刘基</span><span class="smcs">《诚意伯刘文成公文集》</span></p>
+<p><span class="diczx1">相为应答。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">w&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;i.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/为德不卒">为德不卒</a></span><span class="crefe"><a href="/hans/为恶不悛">为恶不悛</a></span><span class="crefe"><a href="/hans/为法自弊">为法自弊</a></span><span class="crefe"><a href="/hans/为非作歹">为非作歹</a></span><span class="crefe"><a href="/hans/为富不仁">为富不仁</a></span><span class="crefe"><a href="/hans/为鬼为蜮">为鬼为蜮</a></span><span class="crefe"><a href="/hans/为好成歉">为好成歉</a></span><span class="crefe"><a href="/hans/为害">为害</a></span><span class="crefe"><a href="/hans/为患">为患</a></span><span class="crefe"><a href="/hans/为难">为难</a></span><span class="crefe"><a href="/hans/为期">为期</a></span><span class="crefe"><a href="/hans/为裘为箕">为裘为箕</a></span><span class="crefe"><a href="/hans/为人">为人</a></span><span class="crefe"><a href="/hans/为人师表">为人师表</a></span><span class="crefe"><a href="/hans/为仁不富">为仁不富</a></span><span class="crefe"><a href="/hans/为生">为生</a></span><span class="crefe"><a href="/hans/为时">为时</a></span><span class="crefe"><a href="/hans/为时过早">为时过早</a></span><span class="crefe"><a href="/hans/为市">为市</a></span><span class="crefe"><a href="/hans/为首">为首</a></span><span class="crefe"><a href="/hans/为寿">为寿</a></span><span class="crefe"><a href="/hans/为数">为数</a></span><span class="crefe"><a href="/hans/为所欲为">为所欲为</a></span><span class="crefe"><a href="/hans/为文">为文</a></span><span class="crefe"><a href="/hans/为伍">为伍</a></span><span class="crefe"><a href="/hans/为限">为限</a></span><span class="crefe"><a href="/hans/为止">为止</a></span><span class="crefe"><a href="/hans/为主">为主</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>为</strong></p>
+<p>為、爲 <span class="dicpy">w&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;i.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (爲字的本义是母猴。象形。按字，从爪，下象形。古文象两母猴相对形)</p>
+<p><span class="cino">(2)</span> 帮助;佑助 <span class="encs">[help]</span></p>
+<p><span class="diczx1">福禄来为。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;凫鷖》</span></span></p>
+<p><span class="diczx3">又如:为虎添(傅)翼</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;谓&rdquo;。言说;告诉 <span class="encs">[tell;speak]</span></p>
+<p><span class="diczx2">宋</span>，所为无雉兔孤狸者也。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></p>
+<p><span class="diczx2">管仲</span>， <span class="diczx2">曾西</span>所不为也，而子为我愿之乎?&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑上》</span></p>
+<p><span class="diczx1">孰为盾而忍弑其君者乎?&mdash;&mdash;<span class="smcs">《谷梁传&middot;宣公二年》</span></span></p>
+<p><span class="diczx1">太子怒，入为王泣曰&hellip;&mdash;&mdash;<span class="smcs">《韩非子&middot;外储说右上》</span></span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>为</strong></p>
+<p>爲 <span class="dicpy">w&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;i.mp3"></a></span> </p>
+<p>〈介〉</p>
+<p><span class="cino">(1)</span> 因为，由于 <span class="encs">[because;for;on account of]</span></p>
+<p><span class="diczx1">非为织作迟，君家妇难为(做)。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:为是(因为是，为的是);为甚(为什么)</span></p>
+<p><span class="cino">(2)</span> 替，给 <span class="encs">[for;for the benefit of]</span></p>
+<p><span class="diczx1">为王吹竽。&mdash;&mdash;<span class="smcs">《韩非子&middot;内诸说上》</span></span></p>
+<p><span class="diczx1">为</span><span class="diczx2">长安君</span>计短。&mdash;&mdash;<span class="smcs">《战国策&middot;赵策》</span></p>
+<p><span class="diczx1">为</span><span class="diczx2">楚王</span>作剑。&mdash;&mdash; <span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span></p>
+<p><span class="diczx1">为王作剑。</span></p>
+<p><span class="diczx1">为国戍轮台。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">陆游</span><span class="smcs">《十一月四日风雨大作》</span></p>
+<p><span class="diczx3">又如:为容(替人美言推荐);为我去商店买东西;他的律师为他处理这个事件;为人谋而不忠乎?</span></p>
+<p><span class="cino">(3)</span> 为了 <span class="encs">[for;for the sake of]</span></p>
+<p><span class="diczx1">为市鞍马。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">则众何为。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《答司马谏议书》</span></p>
+<p><span class="diczx1">不为怨者故。</span></p>
+<p><span class="diczx1">生为之饱。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="diczx3">又如:为国捐躯(为国家献出生命);为好成歉(将好事变成坏事);为许(为此)</span></p>
+<p><span class="cino">(4)</span> 表示动作行为所向，可译为&ldquo;向&rdquo;、&ldquo;对&rdquo;、&ldquo;朝&rdquo; <span class="encs">[facing to;toward]</span></p>
+<p><span class="diczx1">为具言所闻。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">不足为外人道。</span></p>
+<p><span class="diczx1">为弟子说前代事。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="cino">(5)</span> 另见 <span class="dicpy">w&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&eacute;i.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /> <div class="cit type-xxjs"><span class="crefe"><a href="/hans/为此">为此</a></span><span class="crefe"><a href="/hans/为何">为何</a></span><span class="crefe"><a href="/hans/为虎添傅翼">为虎添傅翼</a></span><span class="crefe"><a href="/hans/为虎作伥">为虎作伥</a></span><span class="crefe"><a href="/hans/为了">为了</a></span><span class="crefe"><a href="/hans/为民请命">为民请命</a></span><span class="crefe"><a href="/hans/为人作嫁">为人作嫁</a></span><span class="crefe"><a href="/hans/为渊驱鱼，为丛驱雀">为渊驱鱼，为丛驱雀</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E3A_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=巳集中" target="_blank">巳集中</a>】【<a href="/zd/kx/?zm=巳集中&amp;bs=爪" target="_blank">爪</a>】
+                              爲·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">爲</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“为”字头，请参考“<a href="/hans/爲">爲</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=巳集中" target="_blank">巳集中</a>】【<a href="/zd/kx/?zm=巳集中&amp;bs=爪" target="_blank">爪</a>】
+                              爲·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7232.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2696E.svg"><span class="k_txt">𦥮</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/244F8.svg"><span class="k_txt">𤓸</span>【唐韻】薳支切【集韻】于嬀切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音潙。【說文】母猴也。其爲禽好爪。爪母猴象也。下腹爲母猴形。王育曰：爪象形也。</p>
+<p>又【爾雅&middot;釋言】作，造，爲也。【書&middot;益稷】予欲宣力四方汝爲。【洪範】有猷有爲有守。</p>
+<p>又治也。【晉語】疾不可爲也。【註】爲，治也。</p>
+<p>又使也。【魯語】其爲後世昭前之令聞也。【註】爲，猶使也。</p>
+<p>又語詞。【前漢&middot;武帝紀】何但亡匿幕北寒苦之地爲。</p>
+<p>又姓。【廣韻】風俗通云：漢有南郡太守爲昆。【韻會】魯昭公子公爲之後。</p>
+<p>又【廣韻】【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>于僞切，音䧦。【廣韻】助也。【增韻】所以也，緣也，被也，護也，與也。【書&middot;咸有一德】臣爲上爲德，爲下爲民。【釋文】爲上爲下之爲，于僞反。徐云：四爲字皆于僞反。</p>
+<p>又【多士】惟我下民秉爲。【詩&middot;大雅】福祿來爲。【箋】爲，猶助也。【釋文】于僞反，協句如字。</p>
+<p>又叶吾何切，音莪。【詩&middot;王風】有兔爰爰，雉離于羅。我生之初，尙無爲。我生之後，逢此百罹，尙寐無吪。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E3A_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=爪">爪</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">爲</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“为”字头，请参考“<a href="/hans/爲">爲</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=爪">爪</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7232.svg">                          <p>母猴也。其爲禽好爪。爪，母猴象也。下腹爲母猴形。王育曰：&ldquo;爪，象形也。&rdquo; <img class="lazy k_img" data-original="//img.zdic.net/song/cn/223FD.svg"><span class="k_txt">𢏽</span>，古文爲象兩母猴相對形。薳支切〖注〗<img class="lazy k_img" data-original="//img.zdic.net/song/cn/244F8.svg"><span class="k_txt">𤓸</span>，亦古文爲。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7232_3770.svg" /><span class="swbf">(爲)</span><span class="ywyy">母猴也。</span><span class="swdz">左傳魯昭公子公爲亦稱公叔務人，檀弓作公叔禺人。甶部曰：禺，母㺅屬也。然則名爲字禺，所謂名字相應也。假借爲作爲之字，凡有所變化曰爲。</span><span class="ywyy">其爲禽好爪。</span><span class="swdz">禸部曰：禽者，走獸揔名。好爪，故其字從爪也。此下各本有爪母猴象也五字，衍文。</span><span class="ywyy">下腹爲母㺅形。</span><span class="swdz">腹當作復。上旣從爪矣，其下又全象母猴頭目身足之形也。</span><span class="ywyy">王育曰：&ldquo;爪象形也。&rdquo;</span><span class="swdz">此博異說。爪，衍文，王說全字象母猴形也。薳支切。古音在十七部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7232_3771.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/223FD.svg"><span class="k_txt">𢏽</span>)</span><span class="ywyy">古文爲，象㒳母猴相對形。</span><span class="swdz">左傳：仲子生有文在其手曰爲魯夫人，手文必非若小篆爲魯，葢作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/223FD.svg"><span class="k_txt">𢏽</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2394F.svg"><span class="k_txt">𣥏</span>。容或相似也。</span>〖注〗<img class="lazy k_img" data-original="//img.zdic.net/song/cn/244F8.svg"><span class="k_txt">𤓸</span>，亦古文爲。</p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E3A_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">为</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  wei˧˥; wei˥˧ </p>						<p><span class="z_ts2">粤语</span>  wai4 wai6</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/为">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/为">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/为">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/为">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/为">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/为">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/为">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/为">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/为">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/为">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">为</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「為」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/为"><img data-original="//img.zdic.net/zy/jiaguwen/41_EDFA.svg" class="lazy ypic"><span>「為」 乙1049</span><span>合21729</span></a></td><td><a href="/zd/zx/jw/为"><img data-original="//img.zdic.net/zy/jinwen/31_EE44.svg" class="lazy ypic"><span>「為」 曶鼎</span><span>西周中期</span><span>集成2838</span></a></td><td><a href="/zd/zx/cx/为"><img data-original="//img.zdic.net/zy/chuwenzi/51_EF50.svg" class="lazy ypic"><span>「為」 包2.5</span></a></td><td><a href="/zd/zx/xz/为"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F286.svg" class="lazy ypic"><span>「為」 說文古文</span></a></td><td><a href="/zd/zx/qx/为"><img data-original="//img.zdic.net/zy/qinwenzi/71_E2C7.svg" class="lazy ypic"><span>「為」 睡.日甲101</span></a></td><td><a href="/hans/為" target="_blank"><img data-original="//img.zdic.net/kai/tw/70BA.svg" class="lazy ypic"><span>「為」</span></a> </td><td><a href="/hans/为" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E3A.svg" class="lazy ypic"><span>「为」</span></a></td><td style="display:none"><a href="/hans/为" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E3A.svg" class="lazy ypic"><span>「为」</span></a></td></tr><tr><td><a href="/zd/zx/jg/为"><img data-original="//img.zdic.net/zy/jiaguwen/41_EDFE.svg" class="lazy ypic"><span>「為」 前5.30.4</span><span>合15182</span></a></td><td><a href="/zd/zx/jw/为"><img data-original="//img.zdic.net/zy/jinwen/31_EE48.svg" class="lazy ypic"><span>「為」 各口凵鼎</span><span>西周中期</span><span>集成2705</span></a></td><td><a href="/zd/zx/cx/为"><img data-original="//img.zdic.net/zy/chuwenzi/51_EF52.svg" class="lazy ypic"><span>「為」 包2.15反</span></a></td><td><a href="/zd/zx/xz/为"><img data-original="//img.zdic.net/zy/xiaozhuan/27_70BA.svg" class="lazy ypic"><span>「為」 說文‧爪部</span></a></td><td></td><td><a href="/hans/爲" target="_blank"><img data-original="//img.zdic.net/kai/tw/7232.svg" class="lazy ypic"><span>「爲」</span></a> </td><td></td><td style="display:none"></td></tr><tr><td></td><td><a href="/zd/zx/jw/为"><img data-original="//img.zdic.net/zy/jinwen/31_EE51.svg" class="lazy ypic"><span>「為」 散氏盤</span><span>西周晚期</span><span>集成10176</span></a></td><td><a href="/zd/zx/cx/为"><img data-original="//img.zdic.net/zy/chuwenzi/51_EF58.svg" class="lazy ypic"><span>「為」 包2.83</span></a></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/为">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/为">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/为">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/为">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/为">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/为">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E3A.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E3A.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E3A.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/為' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/70BA.svg'><span>為</span></a></div> <div class='zx'><a href='/hans/爲' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7232.svg'><span>爲</span></a></div> <div class='zx'><a href='/hans/𤓸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/244F8.svg'><span>𤓸</span></a></div> <div class='zx'><a href='/hans/𨤒' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28912.svg'><span>𨤒</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="59" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7070">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/爲">爲(wei2)</a></li><li><a href="/hans/喡">喡(wei2)</a></li><li><a href="/hans/䲘">䲘(wei2)</a></li><li><a href="/hans/维">维(wei2)</a></li><li><a href="/hans/醀">醀(wei2)</a></li><li><a href="/hans/違">違(wei2)</a></li><li><a href="/hans/琟">琟(wei2)</a></li><li><a href="/hans/硙">硙(wei2)</a></li><li><a href="/hans/唯">唯(wei2)</a></li><li><a href="/hans/媁">媁(wei2)</a></li><li><a href="/hans/䧦">䧦(wei2)</a></li><li><a href="/hans/韦">韦(wei2)</a></li><li><a href="/hans/轊">轊(wei4)</a></li><li><a href="/hans/蝟">蝟(wei4)</a></li><li><a href="/hans/䥆">䥆(wei4)</a></li><li><a href="/hans/谓">谓(wei4)</a></li><li><a href="/hans/䲁">䲁(wei4)</a></li><li><a href="/hans/衛">衛(wei4)</a></li><li><a href="/hans/煟">煟(wei4)</a></li><li><a href="/hans/䵳">䵳(wei4)</a></li><li><a href="/hans/䬑">䬑(wei4)</a></li><li><a href="/hans/胃">胃(wei4)</a></li><li><a href="/hans/䬿">䬿(wei4)</a></li><li><a href="/hans/躗">躗(wei4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/丼">丼</a></li><li><a href="/hans/丷">丷</a></li><li><a href="/hans/𠂅">𠂅</a></li><li><a href="/hans/𠂃">𠂃</a></li><li><a href="/hans/𠂀">𠂀</a></li><li><a href="/hans/𠂂">𠂂</a></li><li><a href="/hans/屰">屰</a></li><li><a href="/hans/主">主</a></li><li><a href="/hans/𠁼">𠁼</a></li><li><a href="/hans/之">之</a></li><li><a href="/hans/鼡">鼡</a></li><li><a href="/hans/𠁿">𠁿</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/冈">冈</a></li><li><a href="/hans/𠚦">𠚦</a></li><li><a href="/hans/尺">尺</a></li><li><a href="/hans/㐊">㐊</a></li><li><a href="/hans/丑">丑</a></li><li><a href="/hans/𠘭">𠘭</a></li><li><a href="/hans/化">化</a></li><li><a href="/hans/什">什</a></li><li><a href="/hans/孔">孔</a></li><li><a href="/hans/帀">帀</a></li><li><a href="/hans/𠑶">𠑶</a></li><li><a href="/hans/㐋">㐋</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">教之道，贵以专子不学，非所宜。幼不学，老何<span>为</span>。玉不琢，不成器。人不学，不知义。</div><div class="gscdr">《三字经》（节选）</div><div class="gscdl">遥知不是雪，<span>为</span>有暗香来。</div><div class="gscdr">宋·王安石 《梅花》</div><div class="gscdl">独在异乡<span>为</span>异客，每逢佳节倍思亲。</div><div class="gscdr">唐·王维 《九月九日忆山东兄弟》</div><div class="gscdl">孔君平诣其父，父不在，乃呼儿出。<span>为</span>设果，果有杨梅。</div><div class="gscdr">南北朝·刘义庆  世说新语《杨氏之子》</div><div class="gscdl">使弈秋诲二人弈，其一人专心致志，惟弈秋之<span>为</span>听；一人虽听之，一心以<span>为</span>有鸿鹄将至，思援弓缴而射之。</div><div class="gscdr">先秦·《孟子·告子》 《学弈》</div><div class="gscdl"><span>为</span>是其智弗若与？曰：非然也。</div><div class="gscdr">先秦·《孟子·告子》 《学弈》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">——《学而》曾子曰：“吾日三省吾身：<span>为</span>人谋而不忠乎？与朋友交而不信乎？传不习乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《<span>为</span>政》子曰：“温故而知新，可以<span>为</span>师矣。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《<span>为</span>政》子曰：“学而不思则罔，思而不学则殆。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《<span>为</span>政》子曰：“贤哉，回也！一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。贤哉，回也！”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">僵卧孤村不自哀，尚思<span>为</span>国戍轮台。</div><div class="gscdr">宋·陆游 《十一月四日风雨大作》</div><div class="gscdl">权曰：“孤岂欲卿治经<span>为</span>博士邪！但当涉猎，见往事耳。”</div><div class="gscdr">宋·司马光 《孙权劝学》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=59"></script>
+</body>
+</html>

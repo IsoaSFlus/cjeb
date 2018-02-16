@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>谒的解释|谒的意思|汉典“谒”字的基本解释</title>
+<meta name="title" content="谒的解释|谒的意思|汉典“谒”字的基本解释">
+<meta property="og:title" content="“谒”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“谒”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“谒”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/谒" />
+<link rel="canonical" href="//www.zdic.net/hans/谒" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/谒" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/谒" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/谒" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/谒">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/谒">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8C12.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8C12.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“谒”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yè.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄧㄝˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“谒”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄝˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=讠" target="_blank">  讠</a></p>
+                              <p><span class="z_ts2">部外</span>  9</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/謁' target=_blank>謁</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/謁' target=_blank>謁</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8C12</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>45251135345</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>yjqn</p></td>                            <td class="dsk_2_1"><p>ivapv</p></td>                            <td class="dsk_2_1"><p>skry</p></td>                            <td class="dsk_2_1"><p>36727</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“谒”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yè.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄧㄝˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“谒”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄝˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=讠" target="_blank">讠</a> <span class="z_ts2">部外</span> 9<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">统一码</span> 8C12<span class="z_ts2">笔顺</span> 45251135345                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8C12_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                                                         <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=15891" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">谒</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>谒</strong></p><p><strong>（<span class="diczx3">謁</span>）</strong></p><p><span class="dicpy">yè  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yè.mp3"></a></span>  ㄧㄝˋ</span></p><ol><li>拜见：～见。拜～。进～。</li><li>说明，陈述，告发：请～其故。</li><li>请求：～归。～医。</li><li>名帖：“使者惧而失～，跪拾～”。</li><li>掌管晋见的近待。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> visit, pay respects</p><p><span class="z_ts2">德语</span> bei einem Vorgesetzten vorsprechen  (V, Pol)​,jdm seine Aufwartung machen  (V, Pol)​,jdm seine Hochachtung zeigen  (V, Pol)​,jdm. formal besuchen  (V, Pol)​,jdm. respektvoll einen Besuch abstatten  (V, Pol)​,Ye  (Eig, Fam)</p><p><span class="z_ts2">法语</span> visiter,annoncer</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">谒</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>谒</strong></p><p>謁 <span class="dicpy">yè</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yè.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (形声。从言，曷( <span class="dicpy">hé</span>)声。本义:禀告，陈述)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[report (to one's superior)]</span></p><p><span class="diczx1">谒，白也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">谒，告也。——<span class="smcs">《尔雅》</span></span></p><p><span class="diczx1">摈者谒诸天子。——<span class="smcs">《仪礼·觐礼》</span></span></p><p><span class="diczx1">能典谒矣。——<span class="smcs">《礼记·曲礼》</span></span></p><p><span class="diczx1">惟我</span><span class="diczx2">郑国</span>之有请谒焉。——<span class="smcs">《左传·隐公十一年》</span></p><p><span class="diczx1">不谒而归。——<span class="smcs">《国语·晋语》</span></span></p><p><span class="diczx1">臣请谒其故。——<span class="smcs">《战国策》</span></span></p><p><span class="cino">(3)</span> 又如:谒急(告急);谒言(进谏)</p><p><span class="cino">(4)</span> 告发;检举 <span class="encs">[inform against;lodge an accusation against]</span></p><p><span class="diczx1">伍、官、连、县而邻，谒过赏，失过诛。——<span class="smcs">《韩非子·八经》</span></span></p><p><span class="cino">(5)</span> 又如:谒过(揭发罪过)</p><p><span class="cino">(6)</span> 请;请求 <span class="encs">[request;ask]</span></p><p><span class="diczx1">微太子言，臣愿得谒之。——<span class="smcs">《战国策·燕策》</span></span></p><p><span class="cino">(7)</span> 又如:谒告(告假);谒归(告假归里);谒浆(乞求茶水)</p><p><span class="cino">(8)</span> 进见<span class="encs">[地位或辈分高的人]</span> <span class="encs">[call on(a superior or an older person)]</span></p><p><span class="diczx1">谒，访也。——<span class="smcs">《增韵》</span></span></p><p><span class="diczx1">越日偃师谒见王。——<span class="smcs">《列子·汤问》</span></span></p><p><span class="diczx1">父利其然也，日扳仲永环谒于邑人，不使学。(环谒，四处拜访)。——</span><span class="diczx2">宋</span>· <span class="diczx2">王安石</span><span class="smcs">《伤仲永》</span></p><p><span class="diczx1">乡人子谒余。——</span><span class="diczx2">明</span>· <span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p><p><span class="diczx1">谒</span><span class="diczx2">伊藤氏</span>。—— <span class="diczx2">清</span>· <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p><p><span class="diczx1">台谒当以属礼。——<span class="smcs">《明史》</span></span></p><p><span class="cino">(9)</span> 又如:谒索(探望;借拜访之机索取财物);谒帝台(进见皇帝或权贵。喻指求官显达);谒选(官员到吏部等候选派);谒刺(谒见人时所用的名刺);谒禁(禁止人来进见);谒托(投见求托)</p><p><span class="cino">(10)</span> 到某人的陵墓表示敬意 <span class="encs">[pay homage at sb’s mausoleum]</span></p><p><span class="diczx1">城外有新坟者，即往拜扫。禁中亦出车马诣道者院谒坟。——</span><span class="diczx2">宋</span>· <span class="diczx2">孟元老</span><span class="smcs">《东京梦华录》</span></p><p><span class="cino">(11)</span> 又如:谒坟(拜谒坟墓);谒圣、簪花(考取秀才后，由教官率领到孔庙行礼，叫谒圣。新秀才披红，头插两朵金花，叫簪花);谒庙(进庙拜神)</p><p><strong>词性变化</strong></p><p>◎ <strong>谒</strong></p><p>謁 <span class="dicpy">yè</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yè.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> 名剌 <span class="encs">[visiting card]</span></p><p><span class="diczx1">怀谒诣辞。——</span><span class="diczx2">宋</span>· <span class="diczx2">刘攽</span><span class="smcs">《贺知府某侍读启》</span></p><p><span class="cino">(2)</span> 掌管引进谒见者的近侍 <span class="encs">[suite;retinue]</span>。如:谒者(古时泛指掌理传达、通报的近侍)</p><p><span class="cino">(3)</span> 姓</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/谒见">谒见</a></span><span class="crefe"><a href="/hans/谒陵">谒陵</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8C12_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=酉集上" target="_blank">酉集上</a>】【<a href="/zd/kx/?zm=酉集上&amp;bs=言" target="_blank">言</a>】
+                              謁·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：9</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">謁</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“谒”字头，请参考“謁”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=酉集上" target="_blank">酉集上</a>】【<a href="/zd/kx/?zm=酉集上&amp;bs=言" target="_blank">言</a>】
+                              謁·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：9</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8B01.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>於歇切，堰入聲。【說文】白也。【爾雅·釋詁】告也，請也。【左傳·隱十一年】唯我鄭國之有請謁焉。【註】謁，告也。【禮·曲禮】問士之子，長曰能典謁矣，幼曰未能典謁也。【註】謁，請也。典謁者，主賔客告請之事。</p><p>又【增韻】訪也，請見也。【後漢·卓茂傳】茂詣河陽，謁見光武。</p><p>又【釋名】謁，詣也，詣告也。書其姓名於上，以告所至詣者也。【正字通】刺名也。古之門狀，今之拜帖。【史記·高祖紀】高祖乃紿爲謁曰：賀錢萬。實不持一錢。【註】謁，謂以札書姓名，若今之通刺。</p><p>又謁舍，今之客舍也。【前漢·食貨志】里區謁舍。</p><p>又官名。【前漢·百官公卿表】謁者，掌賔讚受事。【應劭註】謁，請也，白也，僕主也。【三輔黃圖】內謁者，署在未央宮，屬少府。</p><p>又星名。【宋史·天文志】謁者一星在左執法東北，主賔客，辨疑惑。</p><p>又山名。【山海經】謁戾之山多松柏，有金玉，沁水出焉。【註】山今在上黨郡涅縣。</p><p>又姓。【後漢·方術傳】汝南太守謁煥。</p><p>又【集韻】【類篇】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>乙列切，音䋵。亦白也。李舟說。</p><p>又【正韻】於蓋切，音愛。與䨠同。隂晦也。引韓愈秋雨聯句：牖變景明謁。一本作藹，義同。</p><p>又【揚雄·百官箴】殷以<img class='lazy k_img' data-original='//img.zdic.net/song/cn/206EC.svg'><span class='k_txt'>𠛬</span>顚，秦以酷敗。獄臣司理，敢告執謁。謁叶敗。</p><p>又【史記·孔子世家】去魯歌云：彼婦之謁，可以死敗。按此歌六句三韻，謁本音愛，與敗叶。【字彙】謁攺音意，敗叶音佩，誤。　【正字通】俗作謁，非。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8C12_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=言">言</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">謁</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“谒”字头，请参考“謁”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=言">言</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/8B01.svg">                          <p>白也。从言曷聲。於歇切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <span class="jieshi">白也。</span>廣韵曰。白、告也。按謁者、若後人書刺自言爵里姓名並列所白事。<span class="jieshi">从言。曷聲。</span>於歇切。十五部。                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8C12_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">谒</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  jɛ˥˧ </p>						<p><span class="z_ts2">粤语</span>  zit3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/谒">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/谒">闽语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/谒">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/谒">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/谒">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">谒</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「謁」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/谒"><img data-original="//img.zdic.net/zy/xiaozhuan/27_8B01.svg" class="lazy ypic"><span>「謁」 說文‧言部</span></a></td><td><a href="/zd/zx/qx/谒"><img data-original="//img.zdic.net/zy/qinwenzi/71_E214.svg" class="lazy ypic"><span>「謁」 睡.秦87</span></a></td><td><a href="/hans/謁" target="_blank"><img data-original="//img.zdic.net/kai/tw/8B01.svg" class="lazy ypic"><span>「謁」</span></a> </td><td><a href="/hans/谒" target="_blank"><img data-original="//img.zdic.net/kai/tw/8C12.svg" class="lazy ypic"><span>「谒」</span></a></td><td style="display:none"><a href="/hans/谒" target="_blank"><img data-original="//img.zdic.net/kai/tw/8C12.svg" class="lazy ypic"><span>「谒」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/谒">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/谒">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/谒">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8C12.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8C12.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8C12.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/謁' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/8B01.svg'><span>謁</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="15891" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="8226">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/靥">靥(ye4)</a></li><li><a href="/hans/痷">痷(ye4)</a></li><li><a href="/hans/澲">澲(ye4)</a></li><li><a href="/hans/緤">緤(ye4)</a></li><li><a href="/hans/鿒">鿒(ye4)</a></li><li><a href="/hans/䴾">䴾(ye4)</a></li><li><a href="/hans/㷸">㷸(ye4)</a></li><li><a href="/hans/烨">烨(ye4)</a></li><li><a href="/hans/㖡">㖡(ye4)</a></li><li><a href="/hans/皣">皣(ye4)</a></li><li><a href="/hans/擫">擫(ye4)</a></li><li><a href="/hans/鸈">鸈(ye4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/诪">诪</a></li><li><a href="/hans/讼">讼</a></li><li><a href="/hans/诟">诟</a></li><li><a href="/hans/议">议</a></li><li><a href="/hans/谆">谆</a></li><li><a href="/hans/谮">谮</a></li><li><a href="/hans/䜣">䜣</a></li><li><a href="/hans/诺">诺</a></li><li><a href="/hans/讵">讵</a></li><li><a href="/hans/证">证</a></li><li><a href="/hans/䜧">䜧</a></li><li><a href="/hans/谪">谪</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/掆">掆</a></li><li><a href="/hans/啦">啦</a></li><li><a href="/hans/剬">剬</a></li><li><a href="/hans/紾">紾</a></li><li><a href="/hans/欷">欷</a></li><li><a href="/hans/逽">逽</a></li><li><a href="/hans/㻐">㻐</a></li><li><a href="/hans/䇤">䇤</a></li><li><a href="/hans/釩">釩</a></li><li><a href="/hans/𠋞">𠋞</a></li><li><a href="/hans/猛">猛</a></li><li><a href="/hans/紻">紻</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">余朝京师，生以乡人子<span>谒</span>余，撰长书以为贽，辞甚畅达，与之论辩，言和而色夷。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=15891"></script>
+</body>
+</html>

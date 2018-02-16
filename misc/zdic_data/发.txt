@@ -1,0 +1,712 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>发的解释|发的意思|汉典“发”字的基本解释</title>
+<meta name="title" content="发的解释|发的意思|汉典“发”字的基本解释">
+<meta name="keywords" content="|发|" /><meta property="og:title" content="“发”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“发”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“发”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/发" />
+<link rel="canonical" href="//www.zdic.net/hans/发" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/发" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/发" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/发" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/发">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/发">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/53D1.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/53D1.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">fā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fā.mp3"></a></span></span></p><p><span class="z_d song">fà<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fà.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄈㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄚ.mp3"></a></span></span></p><p><span class="z_d song">ㄈㄚˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄚˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=又" target="_blank">  又</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/發' target=_blank>發</a>  <a href='/hans/髮' target=_blank>髮</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/發' target=_blank>發</a> <a href='/hans/髮' target=_blank>髮</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+53D1</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>53544</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ntcy</p></td>                            <td class="dsk_2_1"><p>ivke</p></td>                            <td class="dsk_2_1"><p>zmxs</p></td>                            <td class="dsk_2_1"><p>23407</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">fā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fā.mp3"></a></span></span> <span class="z_d song">fà<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fà.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄈㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄚ.mp3"></a></span></span> <span class="z_d song">ㄈㄚˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“发”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄚˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=又" target="_blank">又</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 53D1<span class="z_ts2">笔顺</span> 53544                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="53D1_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1490" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">发</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>发</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">發</span>）</strong></p><p><span class="dicpy">fā  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fā.mp3"></a></span>  ㄈㄚ</span></p><hr class="dichr" /><ol>	<li>交付，送出：分～。～放。～行（批发）。</li>	<li>放，射：～射。百～百中。焕～。</li>	<li>表达，阐述：～表。～凡（陈述某一学科或一本书的要旨）。阐～。</li>	<li>散开，分散：～散。</li>	<li>开展，张大，扩大：～展。～扬。</li>	<li>打开，揭露：～现。～掘。</li>	<li>产生，出现：～生。～愤。奋～。</li>	<li>食物因发酵或水浸而膨涨：～面。</li>	<li>显现，显出：～病。～抖。～憷。</li>	<li>开始动作：～动。</li>	<li>引起，开启：启～。～人深省。</li>	<li>公布，宣布：～布。～号施令。</li>	<li>量词，用于枪弹、炮弹。</li></ol><p>● <strong>发</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">髮</span>）</strong></p><p><span class="dicpy">f&agrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/f&agrave;.mp3"></a></span>  ㄈㄚˋ</span></p><hr class="dichr" /><ol>	<li>人的前额、双耳和头颈部以上生长的毛：头～。鬓～。怒～冲冠。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> issue, dispatch, send out; hair</p><p><span class="z_ts2">法语</span> cheveux</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">发</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>发</strong></p>
+<p>發 <span class="dicpy">fā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fā.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (形声。本义: 放箭)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[shoot an arrow]</span></p>
+<p><span class="diczx1">發，射发也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">壹发五豝。&mdash;&mdash;<span class="smcs">《诗&middot;召南&middot;驺虞》</span></span></p>
+<p><span class="diczx1">发彼有的。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;宾之初筵》</span></span></p>
+<p><span class="diczx1">循声而发。&mdash;&mdash;<span class="smcs">《礼记&middot;射义》</span></span></p>
+<p><span class="diczx1">矢四发。&mdash;&mdash;<span class="smcs">《汉书&middot;匈奴传》</span></span></p>
+<p><span class="diczx1">其射，见敌急，非在数十步之内，度不中不发，发即应弦而倒。&mdash;&mdash;<span class="smcs">《史记&middot;李将军列传》</span></span></p>
+<p><span class="diczx1">暮见火而俱发。&mdash;&mdash;<span class="smcs">《史记&middot;孙子吴起列传》</span></span></p>
+<p><span class="diczx1">见其发矢十中八九。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《归田录》</span></p>
+<p><span class="diczx1">度不中而轻发。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx3">又如: 百发百中; 发矢(射箭); 发箭(射箭);发功(指射技)</span></p>
+<p><span class="cino">(3)</span> 出发;上路 <span class="encs">[set out;start off]</span></p>
+<p><span class="diczx1">发，去也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">履我发兮。&mdash;&mdash;<span class="smcs">《诗&middot;齐风&middot;东方之日》</span></span></p>
+<p><span class="diczx1">朝发</span><span class="diczx2">枉诸</span>。&mdash;&mdash;<span class="smcs">《楚辞&middot;离骚&middot;涉江》</span></p>
+<p><span class="diczx1">顷之未发。&mdash;&mdash;<span class="smcs">《战国策&middot;燕策》</span></span></p>
+<p><span class="diczx1">卿与</span><span class="diczx2">子敬</span>、 <span class="diczx2">程公</span>便前发。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx1">兰舟催发。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">柳永</span><span class="smcs">《雨霖铃》</span></p>
+<p><span class="diczx3">又如:发足(起程，出发)发程(起程，上路;动身启程);发逐(出发追逐);发迈(出发远行)</span></p>
+<p><span class="cino">(4)</span> 打开;开启 <span class="encs">[open]</span></p>
+<p><span class="diczx2">成</span>有子九岁，窥父不在，窃发盆。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></p>
+<p><span class="diczx3">又如:发日(公文的启封日期);发书(拆开诏书或书信)</span></p>
+<p><span class="cino">(5)</span> 征发;征调 <span class="encs">[call up;requisition]</span></p>
+<p><span class="diczx2">西门豹</span>即发民凿十二渠。&mdash;&mdash;<span class="smcs">《西门豹治邺》</span></p>
+<p><span class="diczx3">又如:发召(征调);发调(征调);发徭(征派徭役)</span></p>
+<p><span class="cino">(6)</span> 发生;发出 <span class="encs">[happen;occur;take place]</span></p>
+<p><span class="diczx1">使人发书于</span><span class="diczx2">赵王</span>。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></p>
+<p><span class="diczx1">而大声发于水上。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2"> 苏轼</span><span class="smcs">《石钟山记》</span></p>
+<p><span class="diczx1">怀怒未发。&mdash;&mdash;<span class="smcs">《战国策&middot;魏策》</span></span></p>
+<p><span class="diczx1">变遂发。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx3">又如:发念(萌生念头);发意(产生某种意念);发兴(发生)</span></p>
+<p><span class="cino">(7)</span> 发布;宣告 <span class="encs">[publish;declare]</span></p>
+<p><span class="diczx1">今王发政施仁，使天下仕者皆立于王之朝。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">遂发命，遽兴姜戎。&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十三年》</span></span></p>
+<p><span class="diczx3">又如:发政(发布政令)</span></p>
+<p><span class="cino">(8)</span> 抒发;发泄 <span class="encs">[give vent to;let off]</span></p>
+<p><span class="diczx1">发狂吟。&mdash;&mdash;<span class="smcs">《三国演义》</span></span></p>
+<p><span class="diczx1">发其志士之悲哉。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">张溥</span><span class="smcs">《五人墓碑记》</span></p>
+<p><span class="diczx3">又如:发郁(发泄郁结在心头的烦闷);发忿(发泄愤恨的情绪);发挥(抒发)</span></p>
+<p><span class="cino">(9)</span> 派遣 <span class="encs">[dispatch;send]</span></p>
+<p><span class="diczx1">吾欲发兵，使公及桓楚将。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></span></p>
+<p><span class="diczx2">二世</span>元年四月，发闾左适戍 <span class="diczx2">渔阳</span>九百人。&mdash;&mdash;<span class="smcs">《史记&middot;陈涉世家》</span></p>
+<p><span class="diczx1">孤当续发人众，多载资粮，为卿后援。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:发师(派遣军队、出兵);发导(派遣向导)</span></p>
+<p><span class="cino">(10)</span> 挖掘 <span class="encs">[dig]</span></p>
+<p><span class="diczx1">于败石丛草处，探石发穴。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx3">又如:发冢(掘墓);发硎(发掘整理);发揭(发掘，揭开)</span></p>
+<p><span class="cino">(11)</span> 花开放 <span class="encs">[flower;bloom]</span></p>
+<p><span class="diczx1">野芳发而幽香。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《醉翁亭记》</span></p>
+<p><span class="diczx3">又如:发秀(开花);发彩(指开花)</span></p>
+<p><span class="cino">(12)</span> 送出;交付。与&ldquo;收&rdquo;相对;发出 <span class="encs">[send out;deliver]</span></p>
+<p><span class="diczx1">发五十金。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">张溥</span><span class="smcs">《五人墓碑记》</span></p>
+<p><span class="diczx3">又如:发电报</span></p>
+<p><span class="cino">(13)</span> 因得到大量财富而兴旺 <span class="encs">[get rich;make a fortune]</span>。</p>
+<p><span class="diczx3">如:暴发(突然发财得势)</span></p>
+<p><span class="cino">(14)</span> 发酵，膨胀 <span class="encs">[(of foodstuffs)rise or expand when fermented or soaked]</span>。</p>
+<p><span class="diczx3">如:面发了;发一发干菜</span></p>
+<p><span class="cino">(15)</span> 卖出 <span class="encs">[sell]</span>。</p>
+<p><span class="diczx3">如:发兑(批发;卖出);发脱(卖出;打发;除去)</span></p>
+<p><span class="cino">(16)</span> 繁育;生长 <span class="encs">[sprout;grow]</span>。</p>
+<p><span class="diczx3">如:发孚(发芽);发鲜(发芽);发荣滋长(草木繁茂的萌发生长)</span></p>
+<p><span class="cino">(17)</span> 施行;开始 <span class="encs">[carry out;start]</span>。</p>
+<p><span class="diczx3">如:发头(开始;起头);发讲(开始讲解);发始(开始);发严(开始严阵待命)</span></p>
+<p><span class="cino">(18)</span> 阐发 <span class="encs">[elucidate]</span>。</p>
+<p><span class="diczx3">如:发微(阐发微妙之处);发义(阐发义理);发题(阐发题意);发蕴(阐发奥秘之情)</span></p>
+<p><span class="cino">(19)</span> 显现;显露 <span class="encs">[appear;show;become visible]</span></p>
+<p><span class="diczx1">征于色，发于声，而后喻。&mdash;&mdash;<span class="smcs">《孟子&middot;告子下》</span></span></p>
+<p><span class="diczx1">凄凄切切，呼号奋发。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《秋声赋》</span></p>
+<p><span class="diczx3">又如:发色(呈现色彩);发迷(显现迷惘的神情);发梦(显现梦境)</span></p>
+<p><span class="cino">(20)</span> 表现 <span class="encs">[show;display]</span>。</p>
+<p><span class="diczx3">如:发华(表现出文彩);发威(显示威风);发藻(显示文采)</span></p>
+<p><span class="cino">(21)</span> 散发;发给 <span class="encs">[distribute;issue]</span>。</p>
+<p><span class="diczx3">如:发越(散发，播散);发辉(散发光辉)</span></p>
+<p><span class="cino">(22)</span> 举事;发难 <span class="encs">[rise in revolt]</span>。</p>
+<p><span class="diczx3">如:发谪(举发;谴责);发衅(挑起争端);发举(兴起，举事)</span></p>
+<p><span class="cino">(23)</span> 倡始;提出 <span class="encs">[propose;sponsor]</span>。</p>
+<p><span class="diczx3">如:发端</span></p>
+<p><span class="cino">(24)</span> 启发;开导 <span class="encs">[enlighten]</span>。</p>
+<p><span class="diczx3">如:发悟(启发使领悟);发机(启发机杼。多指诗文的构思和布局)</span></p>
+<p><span class="cino">(25)</span> 提拔;举荐 <span class="encs">[promote;recommend]</span>。</p>
+<p><span class="diczx3">如:发困(举荐处于困境的人);发荐(发迹，被荐举)</span></p>
+<p><span class="cino">(26)</span> 传扬;张扬 <span class="encs">[spread]</span>。</p>
+<p><span class="diczx3">如:发闻(传播;显扬;传扬名声);发德(使道德显扬)</span></p>
+<p><span class="cino">(27)</span> 揭露;暴露 <span class="encs">[expose;lay bare]</span></p>
+<p><span class="diczx3">又如:发奸(揭发坏人坏事);发潜(揭发潜伏的坏人坏事);发举(揭发，检举)</span></p>
+<p><span class="cino">(28)</span> 点燃;燃烧起来 <span class="encs">[ignite;fire]</span></p>
+<p><span class="diczx1">同时发火。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:发爨(烧火做饭);发薪(点燃柴草)</span></p>
+<p><span class="cino">(29)</span> 疾病发作 <span class="encs">[attack;break out]</span>。</p>
+<p><span class="diczx3">如:发脾寒(患疟疾病);发痧(患中暑或霍乱等急性病)</span></p>
+<p><span class="cino">(30)</span> 制作;拟定 <span class="encs">[make;elaborate]</span>。</p>
+<p><span class="diczx3">如:发天葩(比喻制作新奇的文章)</span></p>
+<p><span class="cino">(31)</span> 歌唱;表演;演奏 <span class="encs">[sing;play]</span>。</p>
+<p><span class="diczx3">如:发调(发出曲调);发猛(高亢清扬的乐声);发梁(歌声绕梁不绝)</span></p>
+<p><span class="cino">(32)</span> 感到 <span class="encs">[feel; have a feeling]</span>。</p>
+<p><span class="diczx3">如:发虚(饿得发慌);发软;发晕</span></p>
+<p><span class="cino">(33)</span> 行动 <span class="encs">[act]</span>。</p>
+<p><span class="diczx3">如:发止(行止;进退);发乔(做出滑稽可笑的动作)</span></p>
+<p><span class="cino">(34)</span> 发源;发端 <span class="encs">[rise;originate]</span>。</p>
+<p><span class="diczx3">如:发轸(比喻事物的起始、开端);发岁(一年起始)</span></p>
+<p><span class="cino">(35)</span> 发性，使性子 <span class="encs">[get angry;lose one&#39;s temper]</span>。</p>
+<p><span class="diczx3">如:发业(发怒;作孽);发村(撒野;发脾气);发野(撒野;蛮不讲理)</span></p>
+<p><span class="cino">(36)</span> 流露感情 <span class="encs">[reveal;betray]</span>。</p>
+<p><span class="diczx3">如:发中(发自内心)</span></p>
+<p><span class="cino">(37)</span> 通&ldquo;拨( <span class="dicpy">bō</span>)&rdquo;。除去;错乱 <span class="encs">[cast away;clean;mix up]</span></p>
+<p><span class="diczx1">居干之道，菑栗不迤，则弓不发。&mdash;&mdash;<span class="smcs">《周礼&middot;考工记&middot;弓人》</span></span></p>
+<p><span class="diczx1">毋逝我梁，毋发我笱。&mdash;&mdash;<span class="smcs">《诗&middot;邶风&middot;谷风》</span></span></p>
+<p><span class="cino">(38)</span> 通&ldquo;法&rdquo;。效法，遵守 <span class="encs">[follow the example of;imitate;go by]</span></p>
+<p><span class="diczx1">法者不可不恒也，存亡治乱所从出，圣君所以为天下大仪也，君臣上下贵贱皆发焉。&mdash;&mdash;<span class="smcs">《管子&middot;任法》</span></span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>发</strong></p>
+<p>發 <span class="dicpy">fā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fā.mp3"></a></span> </p>
+<p><span class="xx_cx">量</span></p>
+<p><span class="cino">(1)</span> 在小武器打靶比赛中每个射手规定的发射次数 <span class="encs">[string]</span>。</p>
+<p><span class="diczx3">如:一次20发</span></p>
+<p><span class="cino">(2)</span> 计算子弹、炮弹的单位。如:一发炮弹</p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">f&agrave;;f&egrave;i</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/发案">发案</a></span><span class="crefe"><a href="/hans/发白">发白</a></span><span class="crefe"><a href="/hans/发榜">发榜</a></span><span class="crefe"><a href="/hans/发报">发报</a></span><span class="crefe"><a href="/hans/发变">发变</a></span><span class="crefe"><a href="/hans/发表">发表</a></span><span class="crefe"><a href="/hans/发兵">发兵</a></span><span class="crefe"><a href="/hans/发病">发病</a></span><span class="crefe"><a href="/hans/发布">发布</a></span><span class="crefe"><a href="/hans/发财">发财</a></span><span class="crefe"><a href="/hans/发车">发车</a></span><span class="crefe"><a href="/hans/发痴">发痴</a></span><span class="crefe"><a href="/hans/发愁">发愁</a></span><span class="crefe"><a href="/hans/发出">发出</a></span><span class="crefe"><a href="/hans/发怵">发怵</a></span><span class="crefe"><a href="/hans/发达">发达</a></span><span class="crefe"><a href="/hans/发达">发达</a></span><span class="crefe"><a href="/hans/发达国家">发达国家</a></span><span class="crefe"><a href="/hans/发呆">发呆</a></span><span class="crefe"><a href="/hans/发电">发电</a></span><span class="crefe"><a href="/hans/发电厂">发电厂</a></span><span class="crefe"><a href="/hans/发电机">发电机</a></span><span class="crefe"><a href="/hans/发动">发动</a></span><span class="crefe"><a href="/hans/发动机">发动机</a></span><span class="crefe"><a href="/hans/发抖">发抖</a></span><span class="crefe"><a href="/hans/发端">发端</a></span><span class="crefe"><a href="/hans/发端词">发端词</a></span><span class="crefe"><a href="/hans/发凡">发凡</a></span><span class="crefe"><a href="/hans/发放">发放</a></span><span class="crefe"><a href="/hans/发奋">发奋</a></span><span class="crefe"><a href="/hans/发奋图强">发奋图强</a></span><span class="crefe"><a href="/hans/发愤">发愤</a></span><span class="crefe"><a href="/hans/发疯">发疯</a></span><span class="crefe"><a href="/hans/发福">发福</a></span><span class="crefe"><a href="/hans/发付">发付</a></span><span class="crefe"><a href="/hans/发高烧">发高烧</a></span><span class="crefe"><a href="/hans/发稿">发稿</a></span><span class="crefe"><a href="/hans/发给">发给</a></span><span class="crefe"><a href="/hans/发光">发光</a></span><span class="crefe"><a href="/hans/发汗">发汗</a></span><span class="crefe"><a href="/hans/发狠">发狠</a></span><span class="crefe"><a href="/hans/发红">发红</a></span><span class="crefe"><a href="/hans/发花">发花</a></span><span class="crefe"><a href="/hans/发话">发话</a></span><span class="crefe"><a href="/hans/发坏">发坏</a></span><span class="crefe"><a href="/hans/发还">发还</a></span><span class="crefe"><a href="/hans/发慌">发慌</a></span><span class="crefe"><a href="/hans/发挥">发挥</a></span><span class="crefe"><a href="/hans/发昏">发昏</a></span><span class="crefe"><a href="/hans/发火">发火</a></span><span class="crefe"><a href="/hans/发货">发货</a></span><span class="crefe"><a href="/hans/发急">发急</a></span><span class="crefe"><a href="/hans/发迹">发迹</a></span><span class="crefe"><a href="/hans/发家">发家</a></span><span class="crefe"><a href="/hans/发奖">发奖</a></span><span class="crefe"><a href="/hans/发酵">发酵</a></span><span class="crefe"><a href="/hans/发窘">发窘</a></span><span class="crefe"><a href="/hans/发觉">发觉</a></span><span class="crefe"><a href="/hans/发掘">发掘</a></span><span class="crefe"><a href="/hans/发刊词">发刊词</a></span><span class="crefe"><a href="/hans/发狂">发狂</a></span><span class="crefe"><a href="/hans/发困">发困</a></span><span class="crefe"><a href="/hans/发牢骚">发牢骚</a></span><span class="crefe"><a href="/hans/发冷">发冷</a></span><span class="crefe"><a href="/hans/发愣">发愣</a></span><span class="crefe"><a href="/hans/发利市">发利市</a></span><span class="crefe"><a href="/hans/发亮">发亮</a></span><span class="crefe"><a href="/hans/发聋振聩">发聋振聩</a></span><span class="crefe"><a href="/hans/发落">发落</a></span><span class="crefe"><a href="/hans/发麻">发麻</a></span><span class="crefe"><a href="/hans/发毛">发毛</a></span><span class="crefe"><a href="/hans/发霉">发霉</a></span><span class="crefe"><a href="/hans/发蒙">发蒙</a></span><span class="crefe"><a href="/hans/发蒙">发蒙</a></span><span class="crefe"><a href="/hans/发面">发面</a></span><span class="crefe"><a href="/hans/发面">发面</a></span><span class="crefe"><a href="/hans/发面点心">发面点心</a></span><span class="crefe"><a href="/hans/发明">发明</a></span><span class="crefe"><a href="/hans/发明">发明</a></span><span class="crefe"><a href="/hans/发明家">发明家</a></span><span class="crefe"><a href="/hans/发木">发木</a></span><span class="crefe"><a href="/hans/发难">发难</a></span><span class="crefe"><a href="/hans/发怒">发怒</a></span><span class="crefe"><a href="/hans/发牌">发牌</a></span><span class="crefe"><a href="/hans/发胖">发胖</a></span><span class="crefe"><a href="/hans/发配">发配</a></span><span class="crefe"><a href="/hans/发脾气">发脾气</a></span><span class="crefe"><a href="/hans/发票">发票</a></span><span class="crefe"><a href="/hans/发起">发起</a></span><span class="crefe"><a href="/hans/发气">发气</a></span><span class="crefe"><a href="/hans/发情">发情</a></span><span class="crefe"><a href="/hans/发球">发球</a></span><span class="crefe"><a href="/hans/发热">发热</a></span><span class="crefe"><a href="/hans/发人深省">发人深省</a></span><span class="crefe"><a href="/hans/发散">发散</a></span><span class="crefe"><a href="/hans/发散">发散</a></span><span class="crefe"><a href="/hans/发丧">发丧</a></span><span class="crefe"><a href="/hans/发烧">发烧</a></span><span class="crefe"><a href="/hans/发射">发射</a></span><span class="crefe"><a href="/hans/发身">发身</a></span><span class="crefe"><a href="/hans/发神经">发神经</a></span><span class="crefe"><a href="/hans/发生">发生</a></span><span class="crefe"><a href="/hans/发声">发声</a></span><span class="crefe"><a href="/hans/发市">发市</a></span><span class="crefe"><a href="/hans/发誓">发誓</a></span><span class="crefe"><a href="/hans/发售">发售</a></span><span class="crefe"><a href="/hans/发送">发送</a></span><span class="crefe"><a href="/hans/发送">发送</a></span><span class="crefe"><a href="/hans/发酸">发酸</a></span><span class="crefe"><a href="/hans/发条">发条</a></span><span class="crefe"><a href="/hans/发文">发文</a></span><span class="crefe"><a href="/hans/发问">发问</a></span><span class="crefe"><a href="/hans/发物">发物</a></span><span class="crefe"><a href="/hans/发现">发现</a></span><span class="crefe"><a href="/hans/发祥">发祥</a></span><span class="crefe"><a href="/hans/发祥地">发祥地</a></span><span class="crefe"><a href="/hans/发饷">发饷</a></span><span class="crefe"><a href="/hans/发笑">发笑</a></span><span class="crefe"><a href="/hans/发泄">发泄</a></span><span class="crefe"><a href="/hans/发薪">发薪</a></span><span class="crefe"><a href="/hans/发信">发信</a></span><span class="crefe"><a href="/hans/发行">发行</a></span><span class="crefe"><a href="/hans/发硎">发硎</a></span><span class="crefe"><a href="/hans/发芽">发芽</a></span><span class="crefe"><a href="/hans/发言">发言</a></span><span class="crefe"><a href="/hans/发言">发言</a></span><span class="crefe"><a href="/hans/发炎">发炎</a></span><span class="crefe"><a href="/hans/发扬">发扬</a></span><span class="crefe"><a href="/hans/发扬光大">发扬光大</a></span><span class="crefe"><a href="/hans/发痒">发痒</a></span><span class="crefe"><a href="/hans/发音">发音</a></span><span class="crefe"><a href="/hans/发音">发音</a></span><span class="crefe"><a href="/hans/发语词">发语词</a></span><span class="crefe"><a href="/hans/发育">发育</a></span><span class="crefe"><a href="/hans/发源">发源</a></span><span class="crefe"><a href="/hans/发愿">发愿</a></span><span class="crefe"><a href="/hans/发晕">发晕</a></span><span class="crefe"><a href="/hans/发展">发展</a></span><span class="crefe"><a href="/hans/发展中国家">发展中国家</a></span><span class="crefe"><a href="/hans/发颤<span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span>">发颤<span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span></a></span><span class="crefe"><a href="/hans/发胀">发胀</a></span><span class="crefe"><a href="/hans/发怔">发怔</a></span><span class="crefe"><a href="/hans/发作">发作</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>发</strong></p>
+<p>髮 <span class="dicpy">f&agrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/f&agrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 头发，人头上的毛 <span class="encs">[hair]</span>?</p>
+<p><span class="diczx1">巽为寡发。&mdash;&mdash;<span class="smcs">《易&middot;说卦》</span></span></p>
+<p><span class="diczx1">其华在发。&mdash;&mdash;<span class="smcs">《素问&middot;大节藏象论》</span></span></p>
+<p><span class="diczx1">穷发之下。&mdash;&mdash;<span class="smcs">《庄子&middot;逍遥游》</span></span></p>
+<p><span class="diczx1">束发而就大学。&mdash;&mdash;<span class="smcs">《大戴礼记&middot;保傅》</span></span></p>
+<p><span class="diczx1">结发成夫妻。&mdash;&mdash;<span class="smcs">《苏武古诗》</span>。注:&ldquo;结发始成人也。谓男年二十，女年十五，时取笄冠为义也。&rdquo;</span></p>
+<p><span class="diczx1">人不寐，将军白发征夫泪。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《渔家傲》</span></p>
+<p><span class="diczx3">又如:理发;脱发;怒发冲冠(形容怒极)</span></p>
+<p><span class="cino">(2)</span> 草木 <span class="encs">[grass and tree]</span></p>
+<p><span class="diczx1">穷发之北有冥海者，天池也。&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="diczx1">山以草木为发。&mdash;&mdash;<span class="smcs">《地理书》</span></span></p>
+<p><span class="cino">(3)</span> 通&ldquo;旆( <span class="dicpy">p&egrave;i</span>)&rdquo;。古代旐末形如燕尾的垂旒;旗帜的通称 <span class="encs">[flag]</span></p>
+<p><span class="diczx2">武王</span>载发，有虔秉钺;如火烈烈，则莫我敢遏。&mdash;&mdash;<span class="smcs">《荀子&middot;议兵》</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">fā;f&egrave;i</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/发辫">发辫</a></span><span class="crefe"><a href="/hans/发鬓">发鬓</a></span><span class="crefe"><a href="/hans/发菜">发菜</a></span><span class="crefe"><a href="/hans/发短心长">发短心长</a></span><span class="crefe"><a href="/hans/发际">发际</a></span><span class="crefe"><a href="/hans/发髻">发髻</a></span><span class="crefe"><a href="/hans/发廊">发廊</a></span><span class="crefe"><a href="/hans/发妻">发妻</a></span><span class="crefe"><a href="/hans/发乳">发乳</a></span><span class="crefe"><a href="/hans/发式">发式</a></span><span class="crefe"><a href="/hans/发屋">发屋</a></span><span class="crefe"><a href="/hans/发型">发型</a></span><span class="crefe"><a href="/hans/发指">发指</a></span><span class="crefe"><a href="/hans/发指眦裂">发指眦裂</a></span></div>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>发</strong></p>
+<p>發 <span class="dicpy">f&egrave;i</span></p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 通&ldquo;废&rdquo;。崩坏;停止 <span class="encs">[collopse;stop]</span></p>
+<p><span class="diczx1">天无以清，将恐裂;地无以宁，将恐发。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><span class="diczx1">君夜发不可以朝。&mdash;&mdash;<span class="smcs">《晏子春秋》</span></span></p>
+<p><span class="diczx2">景公</span>饮酒，酲，三日而后发。</p>
+<p><span class="diczx3">又如:发药(停止用药)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">fā;f&agrave;</span></p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="53D1_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集中" target="_blank">午集中</a>】【<a href="/zd/kx/?zm=午集中&amp;bs=癶" target="_blank">癶</a>】
+                              發·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">發</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“发”字头，请参考“<a href="/hans/發">發</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=午集中" target="_blank">午集中</a>】【<a href="/zd/kx/?zm=午集中&amp;bs=癶" target="_blank">癶</a>】
+                              發·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：7</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/767C.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>方伐切，音髮。【說文】䠶發也。【詩&middot;召南】壹發五豝。【傳】發，矢也。【前漢&middot;匈奴傳】矢四發。【註】射禮三而止，每射四矢，故以十二矢爲一發。師古曰：發，猶今言箭一放兩放也。</p><p>又【廣韻】起也。【孟子】舜發於<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24C76.svg"><span class="k_txt">𤱶</span>畝之中。</p><p>又舒也，揚也。【易&middot;乾卦】六爻發揮。【疏】發，越也。</p><p>又【坤卦】發於事業。【疏】宣發也。【左傳&middot;桓二年】聲名以發之。【註】發揚此德也。</p><p>又【博雅】開也。【書&middot;武成】發鉅橋之粟。【疏】謂開出也。【詩&middot;小雅】明發不寐。【註】謂將旦而光明開發也。</p><p>又【玉篇】進也，行也。【博雅】去也。【詩&middot;齊風】履我發兮。【疏】行必發足而去，故以發爲行也。【禮&middot;玉藻】疾趨則欲發，而手足無移。【註】謂起屨也。</p><p>又【釋名】撥也。撥使開也。【禮&middot;王制】有發，則命大司徒，教士以車甲。【疏】謂有軍旅以發士卒也。</p><p>又【廣韻】明也。【論語】亦足以發。【註】謂發明大體也。</p><p>又【廣韻】舉也。【增韻】興也。【前漢&middot;王吉傳】愼毋有所發。【註】謂興舉眾事也。</p><p>又亂也。【詩&middot;邶風】毋發我笱。</p><p>又伐也。【詩&middot;周頌】駿發爾私。【疏】以耜擊伐其私田，使之發起也。</p><p>又遣也。【禮&middot;檀弓】晉獻文子成室，晉大夫發焉。【註】發禮往賀也。</p><p>又見也。【禮&middot;禮器】君子樂其發也。【註】樂多其外見也。</p><p>又動也。【老子&middot;道德經】地無以寧，將恐發。</p><p>又洩也。【楚辭&middot;大招】春氣奮發。</p><p>又【曆法】春夏曰發，秋冬曰斂。</p><p>又發發，疾貌。【詩&middot;小雅】飄風發發。【箋】寒且疾也。</p><p>又【詩傳】長發，大禘也。【疏】大禘之樂歌也。【唐書&middot;禮樂志】懿祖曰：長發之舞。</p><p>又昏禮曰發齊。【荀子&middot;禮論】大昏之未發齊也。【註】謂未有威儀節文。象太古時也。【史記&middot;禮書】作廢齊。</p><p>又【玉篇】發，駕車也。【揚子&middot;方言】發，稅，舍車也。東齊海岱之閒謂之發，宋趙<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>魏之閒謂之稅。【註】舍宜音寫，今通發，寫也。稅猶脫也。</p><p>又【後漢&middot;五行志】東方神鳥曰發明。【博雅】鳳皇晨鳴曰發明。</p><p>又【汲冢周書】發人鹿鹿者，若鹿迅走。【註】發，東夷也。</p><p>又淸發，水名。見【左傳】。</p><p>又縣名。【前漢&middot;地理志】餘發縣，屬九眞郡。發干縣，屬東郡。</p><p>又姓。【史記&middot;封禪書】游水發根。【註】游水，縣名。發根，人姓名。</p><p>又【集韻】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>北末切，音撥。【詩&middot;衞風】鱣鮪發發。【傳】盛貌。馬融曰：魚尾著網發發然。【韓詩】作鱍。【說文】作鮁。</p><p>又叶方吠切，音廢。【詩&middot;豳風】一之日觱發。【傳】風寒也，叶下烈烈。音例。</p><p>又叶非律切，廢入聲。【揚雄&middot;長楊賦】紛紜沸渭，雲合電發。猋騰波流，機駭蠭軼。軼音亦。一說本賦發軼，與上文爰整其旅，乃命驃衞，衞字爲韻。發，音費。軼，音替。古霽寘二韻通，非發讀廢入聲，與軼音亦叶也。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="53D1_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=弓">弓</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">發</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“发”字头，请参考“<a href="/hans/發">發</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=弓">弓</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/767C.svg">                          <p>䠶發也。从弓癹聲。方伐切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/767C_4205.svg" /><span class="swbf">(發)</span><span class="ywyy">䠶發也。</span><span class="swdz">詩曰：壹發五豝。引申爲凡作起之偁。</span><span class="ywyy">从弓癹聲。</span><span class="swdz">方伐切。十五部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="53D1_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">发</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  fɑ˥; fɑ˥˧ </p>						<p><span class="z_ts2">粤语</span>  faat3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/发">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/发">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/发">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/发">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/发">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/发">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/发">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/发">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/发">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/发">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/发">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/发">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">发</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「發」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/发"><img data-original="//img.zdic.net/zy/jiaguwen/43_F0A1.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/0_F5D9.svg" class="ykai">」 鐵162.2</span><span>合19752</span></a></td><td><a href="/zd/zx/jw/发"><img data-original="//img.zdic.net/zy/jinwen/31_F293.svg" class="lazy ypic"><span>「㢭」 叔之仲子平鐘</span><span>春秋晚期</span><span>集成174</span></a></td><td><a href="/zd/zx/cx/发"><img data-original="//img.zdic.net/zy/chuwenzi/53_EAB2.svg" class="lazy ypic"><span>「發」 包2.141</span></a></td><td><a href="/zd/zx/xz/发"><img data-original="//img.zdic.net/zy/xiaozhuan/27_767C.svg" class="lazy ypic"><span>「發」 說文‧弓部</span></a></td><td><a href="/zd/zx/qx/发"><img data-original="//img.zdic.net/zy/qinwenzi/71_ED09.svg" class="lazy ypic"><span>「發」 睡.秦22</span></a></td><td><a href="/hans/發" target="_blank"><img data-original="//img.zdic.net/kai/tw/767C.svg" class="lazy ypic"><span>「發」</span></a> </td><td><a href="/hans/发" target="_blank"><img data-original="//img.zdic.net/kai/tw/53D1.svg" class="lazy ypic"><span>「发」</span></a></td><td style="display:none"><a href="/hans/发" target="_blank"><img data-original="//img.zdic.net/kai/tw/53D1.svg" class="lazy ypic"><span>「发」</span></a></td></tr><tr><td><a href="/zd/zx/jg/发"><img data-original="//img.zdic.net/zy/jiaguwen/43_F0A5.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/0_F5D9.svg" class="ykai">」 甲2471</span><span>合26907</span></a></td><td><a href="/zd/zx/jw/发"><img data-original="//img.zdic.net/zy/jinwen/33_F60D.svg" class="lazy ypic"><span>「發」 姑發聑反劍</span><span>春秋晚期</span><span>集成11718</span></a></td><td></td><td></td><td></td><td><a href="/hans/髮" target="_blank"><img data-original="//img.zdic.net/kai/tw/9AEE.svg" class="lazy ypic"><span>「髮」</span></a> </td><td></td><td style="display:none"></td></tr><tr><td><a href="/zd/zx/jg/发"><img data-original="//img.zdic.net/zy/jiaguwen/43_E256.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/0_F5D9.svg" class="ykai">」 明藏145</span></a></td><td></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/发">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/发">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/发">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/发">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/发">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/发">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/53D1.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/53D1.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/53D1.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/發' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/767C.svg'><span>發</span></a></div> <div class='zx'><a href='/hans/髮' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9AEE.svg'><span>髮</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1490" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4900">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/彂">彂(fa1)</a></li><li><a href="/hans/醱">醱(fa1)</a></li><li><a href="/hans/発">発(fa1)</a></li><li><a href="/hans/醗">醗(fa1)</a></li><li><a href="/hans/冹">冹(fa1)</a></li><li><a href="/hans/發">發(fa1)</a></li><li><a href="/hans/沷">沷(fa1)</a></li><li><a href="/hans/㛲">㛲(fa4)</a></li><li><a href="/hans/髮">髮(fa4)</a></li><li><a href="/hans/珐">珐(fa4)</a></li><li><a href="/hans/蕟">蕟(fa4)</a></li><li><a href="/hans/髪">髪(fa4)</a></li><li><a href="/hans/琺">琺(fa4)</a></li><li><a href="/hans/䒥">䒥(fa4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/双">双</a></li><li><a href="/hans/㕜">㕜</a></li><li><a href="/hans/㕚">㕚</a></li><li><a href="/hans/﨎">﨎</a></li><li><a href="/hans/叒">叒</a></li><li><a href="/hans/叝">叝</a></li><li><a href="/hans/㕞">㕞</a></li><li><a href="/hans/叠">叠</a></li><li><a href="/hans/叢">叢</a></li><li><a href="/hans/友">友</a></li><li><a href="/hans/㕝">㕝</a></li><li><a href="/hans/反">反</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/甩">甩</a></li><li><a href="/hans/仩">仩</a></li><li><a href="/hans/𠘲">𠘲</a></li><li><a href="/hans/讨">讨</a></li><li><a href="/hans/㚎">㚎</a></li><li><a href="/hans/劢">劢</a></li><li><a href="/hans/孕">孕</a></li><li><a href="/hans/厺">厺</a></li><li><a href="/hans/𠚵">𠚵</a></li><li><a href="/hans/宄">宄</a></li><li><a href="/hans/罒">罒</a></li><li><a href="/hans/禾">禾</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">复恐匆匆说不尽，行人临<span>发</span>又开封。</div><div class="gscdr">唐·张籍 《秋思》</div><div class="gscdl">醉里吴音相媚好，白<span>发</span>谁家翁媪？大儿锄豆溪东，中儿正织鸡笼。</div><div class="gscdr">宋·辛弃疾 《清平乐·村居》</div><div class="gscdl">好雨知时节，当春乃<span>发</span>生。</div><div class="gscdr">唐·杜甫 《春夜喜雨》</div><div class="gscdl">谁道人生无再少？门前流水尚能西！休将白<span>发</span>唱黄鸡。</div><div class="gscdr">宋·苏轼 《浣溪沙·游蕲水清泉寺》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">夜<span>发</span>清溪向三峡，思君不见下渝州。</div><div class="gscdr">唐·李白 《峨眉山月歌》</div><div class="gscdl">见其<span>发</span>矢十中八九，但微颔之。康肃问曰：</div><div class="gscdr">宋·欧阳修 《卖油翁》</div><div class="gscdl">或王命急宣，有时朝<span>发</span>白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">庭中有奇树，绿叶<span>发</span>华滋。</div><div class="gscdr">汉·佚名 《庭中有奇树》</div><div class="gscdl">舜<span>发</span>于畎亩之中，傅说举于版筑之间，胶鬲举于鱼盐之中，管夷吾举于士，孙叔敖举于海，百里奚举于市。</div><div class="gscdr">《孟子·告子下》《生于忧患 死于安乐》</div><div class="gscdl">人恒过然后能改，困于心衡于虑而后作；征于色<span>发</span>于声而后喻。</div><div class="gscdr">《孟子·告子下》《生于忧患 死于安乐》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=1490"></script>
+</body>
+</html>

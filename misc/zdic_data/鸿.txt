@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>鸿的解释|鸿的意思|汉典“鸿”字的基本解释</title>
+<meta name="title" content="鸿的解释|鸿的意思|汉典“鸿”字的基本解释">
+<meta property="og:title" content="“鸿”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“鸿”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“鸿”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/鸿" />
+<link rel="canonical" href="//www.zdic.net/hans/鸿" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/鸿" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/鸿" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/鸿" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/鸿">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/鸿">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/9E3F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/9E3F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">hóng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鸿”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hóng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄏㄨㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鸿”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨㄥˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=鸟" target="_blank">  鸟</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/鴻' target=_blank>鴻</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/鴻' target=_blank>鴻</a>  <a href='/hans/䲨' target=_blank>䲨</a>  <a href='/hans/𩾯' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29FAF.svg'><span class='ytz_txt'>𩾯</span></a>  <a href='/hans/𪅯' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2A16F.svg'><span class='ytz_txt'>𪅯</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+9E3F</p></td>
+                            <td class="dsk_2_1">左中右结构</td>                            <td align="center" class="z_bis2"><p>44112135451</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>iaqg</p></td>                            <td class="dsk_2_1"><p>empm</p></td>                            <td class="dsk_2_1"><p>vbrz</p></td>                            <td class="dsk_2_1"><p>37127</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">hóng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鸿”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hóng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄏㄨㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鸿”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨㄥˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=鸟" target="_blank">鸟</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">统一码</span> 9E3F<span class="z_ts2">笔顺</span> 44112135451                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="9E3F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                                                         <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=20544" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">鸿</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>鸿</strong></p><p><strong>（<span class="diczx3">鴻</span>）</strong></p><p><span class="dicpy">hóng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hóng.mp3"></a></span> ㄏㄨㄥˊ</span></p><ol><li>大雁：～雁。～毛。雪泥～爪（喻往事遗留的痕迹）。</li><li>大：～博。～图。～沟。～儒。～福。～运。～烈。</li><li>指书信：来～。</li><li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> species of wild swan; vast</p><p><span class="z_ts2">德语</span> Brief, Schreiben  (S)​,Schwanengans  (S, Bio)​,groß, grandios  (Adj)</p><p><span class="z_ts2">法语</span> oie sauvage,grand,vaste</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">鸿</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>鸿</strong></p><p>鴻 <span class="dicpy">hóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hóng.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。从鸟，江声。本义:大雁)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[swan goose]</span>。雁属中类似天鹅的大型种类旧时的泛称</p><p><span class="diczx1">鸿，鹄也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">鸿渐于干。——<span class="smcs">《易·渐》</span></span></p><p><span class="diczx1">鸿雁于飞。——<span class="smcs">《诗·小雅·鸿雁》</span></span></p><p><span class="cino">(3)</span> 又如:鸿冥(鸿鸟飞入苍冥);鸿飞(鸿鸟飞翔);鸿爪(比喻往事遗留的痕迹);鸿渐(鸿鸟飞翔由低处逐渐进于高位。比喻官职升迁或渐入佳境);鸿嗷(鸿鸟哀鸣，比喻灾民的悲号)</p><p><span class="cino">(4)</span> 鹄。即天鹅 <span class="encs">[swan]</span></p><p><span class="diczx1">燕雀安知鸿鹄之志。——<span class="smcs">《史记·陈涉世家》</span>。按，凡鸿鹄连文者即鹄也。</span></p><p><span class="cino">(5)</span> 又如:鸿骞凤立(鸿鹄高飞，凤凰挺立。比喻超群杰出);鸿翼(天鹅的羽翼);鸿举(天鹅高飞远翔)</p><p><span class="cino">(6)</span> 喻指书信 <span class="encs">[letter]</span>。如:来鸿(来信);鸿稀鳞绝(比喻书信断绝);鸿信(书信);鸿便(信使)</p><p><span class="cino">(7)</span> 洪水。通<span class="yhcs">“洪”</span> <span class="encs">[flood]</span></p><p><span class="diczx2">鲧</span>陻鸿水，汨陈其五行。——<span class="smcs">《汉石经·尚书·洪范》</span></p><p><span class="diczx2">禹</span>有功，抑下鸿。——<span class="smcs">《荀子·成相》</span></p><p><span class="diczx1">不任汨鸿，师何以尚之?——<span class="smcs">《楚辞·屈原·天问》</span></span></p><p><span class="diczx1">当</span><span class="diczx2">帝尧</span>之时，鸿水滔天。——<span class="smcs">《史记·夏本纪》</span></p><p><span class="diczx2">禹</span>抑洪水。——<span class="smcs">《史记·河渠书》</span></p><p><span class="cino">(8)</span> 又如:鸿水(大水。即洪水);鸿泉(洪水的源头);鸿体(洪水的主流);鸿波(洪水)</p><p><span class="cino">(9)</span> 天地未开时的景象 <span class="encs">[chaos]</span>。如:鸿洞(混同为一。指宇宙虚无混沌的原始景象);鸿墐(天地未开时浑沌的元气);鸿同(即鸿洞)</p><p><span class="cino">(10)</span> 即豆雁 <span class="encs">[bean goose]</span>。一种带褐色的欧亚普通雁( Anser fabalis )，嘴有一豆形斑</p><p><strong>词性变化</strong></p><p>◎ <strong>鸿</strong></p><p>鴻 <span class="dicpy">hóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hóng.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 大 <span class="encs">[great]</span></p><p><span class="diczx1">原生受命于贞节兮，鸿永路有嘉名。——<span class="smcs">《楚辞·刘向·九欢·逢纷》</span></span></p><p><span class="diczx1">撞鸿钟，建九旒。——<span class="smcs">《文选·扬雄·羽猎赋》</span></span></p><p><span class="diczx1">夫鸿均之世，何物不乐。——</span><span class="diczx2">王褒</span><span class="smcs">《四子讲德论》</span></p><p><span class="diczx1">鸿，大也。——<span class="smcs">《淮南子·鸿烈序》</span></span></p><p><span class="cino">(2)</span> 又如:鸿猷(大道理);鸿文(巨著，大作);鸿名(大名，崇高的声誉);鸿休(洪福);鸿绪(大业，大统);鸿志(大志，壮志)</p><p><span class="cino">(3)</span> 形容学识渊博 <span class="encs">[broad and profound]</span></p><p><span class="diczx1">能精思著文、连结篇章者为鸿儒。——<span class="smcs">《论衡·超奇》</span></span></p><p><span class="cino">(4)</span> 又如:鸿生(指博学之士);鸿博(学识渊博);鸿儒(学识渊博的儒者);鸿儒硕辅(学识渊博的学者，功勋卓著的臣士)</p><p><span class="cino">(5)</span> 旺盛，兴盛 <span class="encs">[prosperous]</span></p><p><span class="diczx1">神农以鸿。——<span class="smcs">《吕氏春秋·执一》</span>。注:<span class="yhcs">“盛也。”</span></span></p><p><span class="cino">(6)</span> 又如:鸿均(太平，升平);鸿明(昌盛清明);鸿威(盛威);鸿祚(鼎盛的王业)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/鸿裁">鸿裁</a></span><span class="crefe"><a href="/hans/鸿沟">鸿沟</a></span><span class="crefe"><a href="/hans/鸿鹄">鸿鹄</a></span><span class="crefe"><a href="/hans/鸿鹄之志">鸿鹄之志</a></span><span class="crefe"><a href="/hans/鸿毛">鸿毛</a></span><span class="crefe"><a href="/hans/鸿门宴">鸿门宴</a></span><span class="crefe"><a href="/hans/鸿篇巨制">鸿篇巨制</a></span><span class="crefe"><a href="/hans/鸿儒">鸿儒</a></span><span class="crefe"><a href="/hans/鸿图">鸿图</a></span><span class="crefe"><a href="/hans/鸿雁">鸿雁</a></span><span class="crefe"><a href="/hans/鸿运">鸿运</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="9E3F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=亥集中" target="_blank">亥集中</a>】【<a href="/zd/kx/?zm=亥集中&amp;bs=鳥" target="_blank">鳥</a>】
+                              鴻·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">鴻</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“鸿”字头，请参考“鴻”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=亥集中" target="_blank">亥集中</a>】【<a href="/zd/kx/?zm=亥集中&amp;bs=鳥" target="_blank">鳥</a>】
+                              鴻·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：6</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/9D3B.svg">						  <p>〔古文〕䲨【唐韻】戸工切【集韻】【韻會】【正韻】胡公切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音洪。【說文】鴻，鵠也。【玉篇】鴻，鴈也。詩傳云：大曰鴻，小曰鴈。【陸璣疏】鴻羽毛光澤純白，似鶴而大，長頸，肉美如鷹。</p><p>又有小鴻如鳧，色白，今人直謂之鴻。【易·漸卦】鴻漸于陸，其羽可用爲儀。</p><p>又旗名。【禮·曲禮】前有車騎，則載飛鴻。【鄭註】鴻取飛有行列也。</p><p>又通作洪，大也。【史記·河渠書】禹抑鴻水。【楚辭·天問】不任汨鴻，何以尙之。【註】鴻，大水也。</p><p>又傭也。【周禮·冬官考工記】梓人爲筍簴，小首而長，摶身而鴻，若是者謂之鱗屬，以爲筍。【註】鴻，傭也。</p><p>又【周禮·冬官考工記】矢人橈之，以眡其鴻殺之稱也。【疏】釋云：鴻卽上文强是也。殺，卽上文弱是也。</p><p>又地名。【左傳·昭二十一年】齊師宋師敗吳師于鴻口。【註】梁國睢陽縣東有鴻口亭。</p><p>又鴻溝。【史記·蘇秦傳】大王之地，南有鴻溝。【註】在滎陽。</p><p>又蟲名。蜚鴻。【史記·周本紀】蜚鴻滿野。【註】蠛蠓也。</p><p>又姓。衞大夫鴻騮魋，見【左傳】。鴻安丘，見【後漢書】。</p><p>又人名。大鴻，堯臣名。梁鴻，漢人。</p><p>又【廣韻】【韻會】胡孔切【集韻】戸孔切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音汞。與澒同。【揚雄·羽獵賦】鴻絧緁獵。【師古註】鴻絧，直馳貌。</p><p>又鴻濛，元氣也。【淮南子·俶眞訓】以鴻濛爲景柱。【註】東方之野日所出。</p><p>又【集韻】【類篇】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>虎孔切，音嗊。義同。</p><p>又【集韻】胡貢切，音<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20D28.svg'><span class='k_txt'>𠴨</span>。鴻洞，深遠。一曰相連次貌。</p><p>又【字彙】古送切，音貢。【淮南子·精神訓】澒濛鴻洞。【註】鴻，讀如子贛之贛。</p><p>又叶胡光切，音黃。【呂氏春秋】彭祖以壽，三代以昌。五帝以昭，神農以鴻。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="9E3F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=鳥">鳥</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">鴻</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“鸿”字头，请参考“鴻”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=鳥">鳥</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/9D3B.svg">                          <p>鴻鵠也。从鳥江聲。戶工切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <span class="jieshi">鴻、</span>逗。此複舉字之未刪者。<span class="jieshi">鵠也。</span>黃鵠一名鴻。豳風。鴻飛遵渚。毛曰。鴻不宜循渚。鴻飛遵陸。毛曰。陸非鴻所宜止。按鄭箋衹云鴻、大鳥。不言何鳥。學者多云雁之大者。夫鴻雁遵渚遵陸亦其常耳。何以毛云不宜。以喻周公未得禮。正謂一舉千里之大鳥。常集高山茂林之上。不當循小州之渚、高平之陸也。經傳鴻字有謂大雁者。如曲禮前有車騎則載飛鴻、易鴻漸于磐是也。有謂黃鵠者。此詩是也。單呼鵠。絫呼黃鵠、鴻鵠。黃言其色。鴻之言<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28F8A.svg'><span class='k_txt'>𨾊</span>也。言其大也。故又單呼鴻雁之大者曰鴻。字當作䲨而假借也。<span class="jieshi">从鳥。江聲。</span>戸工切。九部。                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="9E3F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">鸿</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  xuŋ˧˥ </p>						<p><span class="z_ts2">粤语</span>  hung4</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/鸿">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/鸿">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/鸿">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/鸿">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/鸿">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/鸿">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/鸿">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/鸿">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/鸿">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/鸿">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/鸿">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/鸿">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">鸿</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「鴻」。</p><table class="zyyb"><tr><td>甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/鸿"><img data-original="//img.zdic.net/zy/jiaguwen/41_F776.svg" class="lazy ypic"><span>「𨾊」 前2.9.6</span><span>合36567</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/鸿"><img data-original="//img.zdic.net/zy/xiaozhuan/27_9D3B.svg" class="lazy ypic"><span>「鴻」 說文‧鳥部</span></a></td><td style="display:none"></td><td><a href="/hans/鴻" target="_blank"><img data-original="//img.zdic.net/kai/tw/9D3B.svg" class="lazy ypic"><span>「鴻」</span></a> </td><td><a href="/hans/鸿" target="_blank"><img data-original="//img.zdic.net/kai/tw/9E3F.svg" class="lazy ypic"><span>「鸿」</span></a></td><td style="display:none"><a href="/hans/鸿" target="_blank"><img data-original="//img.zdic.net/kai/tw/9E3F.svg" class="lazy ypic"><span>「鸿」</span></a></td></tr><tr><td></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/鸿">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/鸿">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/鸿">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/9E3F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/9E3F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/9E3F.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/鴻' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/9D3B.svg'><span>鴻</span></a></div> <div class='zx'><a href='/hans/䲨' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4CA8.svg'><span>䲨</span></a></div> <div class='zx'><a href='/hans/𩾯' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/29FAF.svg'><span>𩾯</span></a></div>  <div class='zx'><a href='/hans/𪅯' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2A16F.svg'><span>𪅯</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="20544" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5252">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/霐">霐(hong2)</a></li><li><a href="/hans/鴻">鴻(hong2)</a></li><li><a href="/hans/䞑">䞑(hong2)</a></li><li><a href="/hans/鉷">鉷(hong2)</a></li><li><a href="/hans/耾">耾(hong2)</a></li><li><a href="/hans/鞃">鞃(hong2)</a></li><li><a href="/hans/䫹">䫹(hong2)</a></li><li><a href="/hans/紭">紭(hong2)</a></li><li><a href="/hans/㢬">㢬(hong2)</a></li><li><a href="/hans/玜">玜(hong2)</a></li><li><a href="/hans/䩑">䩑(hong2)</a></li><li><a href="/hans/䲨">䲨(hong2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/鹦">鹦</a></li><li><a href="/hans/鹘">鹘</a></li><li><a href="/hans/鹆">鹆</a></li><li><a href="/hans/鸮">鸮</a></li><li><a href="/hans/鸸">鸸</a></li><li><a href="/hans/鹯">鹯</a></li><li><a href="/hans/鹟">鹟</a></li><li><a href="/hans/鸳">鸳</a></li><li><a href="/hans/鸯">鸯</a></li><li><a href="/hans/鹋">鹋</a></li><li><a href="/hans/鹊">鹊</a></li><li><a href="/hans/鹔">鹔</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/婖">婖</a></li><li><a href="/hans/庵">庵</a></li><li><a href="/hans/阏">阏</a></li><li><a href="/hans/䂈">䂈</a></li><li><a href="/hans/㬇">㬇</a></li><li><a href="/hans/萡">萡</a></li><li><a href="/hans/涾">涾</a></li><li><a href="/hans/够">够</a></li><li><a href="/hans/笠">笠</a></li><li><a href="/hans/䓨">䓨</a></li><li><a href="/hans/铢">铢</a></li><li><a href="/hans/弶">弶</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">孤村落日残霞，轻烟老树寒鸦，一点飞<span>鸿</span>影下。</div><div class="gscdr">元·白朴 《天净沙·秋》</div><div class="gscdl">使弈秋诲二人弈，其一人专心致志，惟弈秋之为听；一人虽听之，一心以为有<span>鸿</span>鹄将至，思援弓缴而射之。</div><div class="gscdr">先秦·《孟子·告子》 《学弈》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">谈笑有<span>鸿</span>儒，往来无白丁。</div><div class="gscdr">唐·刘禹锡 《陋室铭》</div><div class="gscdl">谁见幽人独往来，缥缈孤<span>鸿</span>影。</div><div class="gscdr">宋·苏轼 《卜算子·黄州定慧院寓居作》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=20544"></script>
+</body>
+</html>

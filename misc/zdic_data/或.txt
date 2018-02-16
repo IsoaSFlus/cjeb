@@ -1,0 +1,631 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>或的解释|或的意思|汉典“或”字的基本解释</title>
+<meta name="title" content="或的解释|或的意思|汉典“或”字的基本解释">
+<meta name="keywords" content="|⿹戈⿱口一|" /><meta property="og:title" content="“或”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“或”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“或”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/或" />
+<link rel="canonical" href="//www.zdic.net/hans/或" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/或" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/或" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/或" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/或">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/或">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6216.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6216.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">huò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“或”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/huò.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄏㄨㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“或”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨㄛˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=戈" target="_blank">  戈</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_ytz2"><a href='/hans/國' target=_blank>國</a> <a href='/hans/㦯' target=_blank>㦯</a> <a href='/hans/𢈿' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2223F.svg'><span class='ytz_txt'>𢈿</span></a> <a href='/hans/𢦙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22999.svg'><span class='ytz_txt'>𢦙</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6216</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>12511534</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>akgd</p></td>                            <td class="dsk_2_1"><p>irm</p></td>                            <td class="dsk_2_1"><p>hmja</p></td>                            <td class="dsk_2_1"><p>53100</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">huò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“或”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/huò.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄏㄨㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“或”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨㄛˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=戈" target="_blank">戈</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">基本区</span> 6216<span class="z_ts2">笔顺</span> 12511534                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6216_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=5143" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>或</strong></p>
+<p><span class="dicpy">hu&ograve;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&ograve;.mp3"></a></span> ㄏㄨㄛˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>也许，有时，表示不定的词：～许。～者（①也许；②连词，用在叙述句里，表示选择关系。均亦单用&ldquo;或&rdquo;）。～然。～则。</li>
+	<li>某人，有的人：～告之曰。</li>
+	<li>稍微：不可～缓。不可～忽。不可～缺。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> or, either, else; perhaps, maybe</p><p><span class="z_ts2">德语</span> vielleicht (Adv)​,oder (Konj)</p><p><span class="z_ts2">法语</span> ou,soit...soit...,probablement,peut-être</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>或</strong> <span class="dicpy">hu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&ograve;.mp3"></a></span> </p>
+<p><span class="xx_cx">代</span></p>
+<p><span class="cino">(1)</span> (会意。甲骨文字形从囗(象城形)，从戈(以戈守之)。表示以戈卫国。本义:国家。用本义时读 <span class="dicpy">y&ugrave;</span>)有人，有的&mdash;&mdash;泛指人或事物 <span class="encs">[some;someone]</span></p>
+<p><span class="diczx1">或，有也。&mdash;&mdash;<span class="smcs">《小尔雅&middot;广言》</span></span></p>
+<p><span class="diczx1">或跃在渊。&mdash;&mdash;<span class="smcs">《易&middot;乾》</span></span></p>
+<p><span class="diczx1">殷其弗或乱正四方。&mdash;&mdash;<span class="smcs">《书&middot;微子》</span></span></p>
+<p><span class="diczx1">或群或友。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;吉日》</span></span></p>
+<p><span class="diczx1">庶或饷之。&mdash;&mdash;<span class="smcs">《礼记&middot;祭义》</span></span></p>
+<p><span class="diczx1">或赐二小人酒。&mdash;&mdash;<span class="smcs">《左传&middot;昭公二十八年》</span></span></p>
+<p><span class="diczx1">或说处杀虎斩蛟。&mdash;&mdash;<span class="smcs">《世说新语&middot;自新》</span></span></p>
+<p><span class="diczx1">或立或卧。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p><span class="diczx3">又如:或人(某人。不称名而暗指的人。有些人);或时(有时);或一，或种(某种);或日(某日，有一天)</span>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>或</strong> <span class="dicpy">hu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&ograve;.mp3"></a></span> </p>
+<p><span class="xx_cx">连</span></p>
+<p><span class="cino">(1)</span> 用作虚词 <span class="encs">[or]</span></p>
+<p><span class="diczx1"><span class="encs">[1]</span>∶表示选择或列举。 </span><span class="diczx3">如:或是(连词。表示选择或并列关系);或乃(或者。常用于句首表示变换叙述内容) </span><span class="diczx1"><span class="encs">[2]</span>∶在不同或不相似的事物、状况或行动之间的一个抉择。 </span><span class="diczx3">如:有病或无病，他不都应该在这里 </span><span class="diczx1"><span class="encs">[3]</span>∶近似、可疑或不肯定。 </span><span class="diczx3">如:在五天或六天之内 </span><span class="diczx1"><span class="encs">[4]</span>∶两个词或两个短语同义、等义或替换的性质</span></p>
+<p><span class="diczx1">或尽粟一石。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《杂说》</span></p>
+<p><span class="diczx1">君实或见恕。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《答司马谏议书》</span></p>
+<p><span class="diczx1">或异二者之为。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx1">或能免乎。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx3">又如:跌下悬崖或峭壁</span></p>
+<p><span class="cino">(2)</span> 表示假设。犹倘若，假使 <span class="encs">[if]</span>。</p>
+<p><span class="diczx3">如:或若(假使，倘或)</span></p>
+<p>◎ <strong>或</strong> <span class="dicpy">hu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&ograve;.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 或许，也许。表示不肯定 <span class="encs">[perphaps]</span>。</p>
+<p><span class="diczx3">如:或是(或许;也许是);或恐(也许;可能);你仔细找一找，或能找到</span></p>
+<p><span class="cino">(2)</span> 间或，有时 <span class="encs">[occasionally;sometimes]</span></p>
+<p><span class="diczx1">或长烟一空。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx1">或至相殴。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">纪昀</span><span class="smcs">《阅微草堂笔记》</span></p>
+<p><span class="diczx3">又如:或时(有时)</span></p>
+<p>◎ <strong>或</strong> <span class="dicpy">hu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&ograve;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 通&ldquo;惑&rdquo;。迷惑 <span class="encs">[puzzle]</span></p>
+<p><span class="diczx1">夜半，而城上四面鼓噪，敌人必或。&mdash;&mdash;<span class="smcs">《墨子&middot;备蛾传》</span></span></p>
+<p><span class="diczx1">无或乎王之不智也。&mdash;&mdash;<span class="smcs">《孟子&middot;告子上》</span></span></p>
+<p><span class="diczx1">擅创为令，迷或其君。&mdash;&mdash;<span class="smcs">《管子&middot;回称》</span></span></p>
+<p><span class="diczx1">买则失实，卖则失理，其疑或滋益甚。&mdash;&mdash;<span class="smcs">《盐铁论&middot;错币》</span></span></p>
+<p><span class="diczx1">贫贱吾恐其或失也。&mdash;&mdash;<span class="smcs">《大戴礼记&middot;曾子制言》</span></span></p>
+<p><span class="diczx1">别从东道，或失道。&mdash;&mdash;<span class="smcs">《汉书&middot;霍去病传》</span></span></p>
+<p><span class="diczx1">惟恐或后。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="diczx3">又如:或或(迷惑。或，通惑);或乱(昏乱;惑乱);或疑(怀疑，疑惑;有人怀疑)</span></p>
+<p>◎ <strong>或</strong> <span class="dicpy">hu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&ograve;.mp3"></a></span> </p>
+<p><span class="xx_cx">语</span></p>
+<p>语气词，在否定句中加强否定语气</p>
+<p><span class="diczx1">莫或兴之。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《原君》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/或许">或许</a></span><span class="crefe"><a href="/hans/或曰">或曰</a></span><span class="crefe"><a href="/hans/或则">或则</a></span><span class="crefe"><a href="/hans/或者">或者</a></span><span class="crefe"><a href="/hans/或者">或者</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>或</rb></rbc><rtc><rt>ㄏㄨㄛˋ</rt></rtc><rtc><rt>hu&ograve; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/2864.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">也許。</span><span class="gc_lz">如：「或許」。</span><span class="gc_yy">《史記&middot;卷二八&middot;封禪書》：「其神<b>或</b>歲不至，<b>或</b>歲數來。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">連</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表示選擇或列舉。</span><span class="gc_lz">如：「或是」、「或者」、「喜<b>或</b>怒」、「哀<b>或</b>樂」、「去<b>或</b>不去？」</span><span class="gc_yy">《新唐書&middot;卷九七&middot;魏徵傳》：「今之刑賞，<b>或</b>由喜怒，<b>或</b>出好惡。」</span><span class="gc_yy">《三國演義&middot;第三七回》：「<b>或</b>駕小舟游於江湖之中；<b>或</b>訪僧道於山嶺之上；<b>或</b>尋朋友於村落之間；<b>或</b>樂琴棋於洞府之內：往來莫測，不知去所。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">代</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">泛指人或事物。相當於「有人」、「有的」。</span><span class="gc_yy">《禮記&middot;中庸》：「<b>或</b>生而知之，<b>或</b>學而知之，<b>或</b>困而知之。」</span><span class="gc_yy">明&middot;徐弘祖《徐霞客遊記&middot;卷五上&middot;滇遊日記二》：「群山叢突，小石峰<b>或</b>朝<b>或</b>拱，參立前塢中。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">誰。表示疑問的語氣。</span><span class="gc_yy">《詩經&middot;豳風&middot;鴟鴞》：「今女下民，<b>或</b>敢侮予！」</span><span class="gc_yy">《文選&middot;潘岳&middot;藉田賦》：「昔者明王以孝治天下，其<b>或</b>繼之者，鮮哉希矣。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6216_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=戈" target="_blank">戈</a>】
+                              或·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=戈" target="_blank">戈</a>】
+                              或·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6216.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2223F.svg"><span class="k_txt">𢈿</span>【集韻】越逼切，音閾。【說文】邦也。从口从戈，以守一。一，地也。通作域。</p>
+<p>又【廣韻】胡國切【集韻】【韻會】【正韻】穫北切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音惑。疑也。凡或人或曰皆闕疑之辭。【易&middot;乾卦】或躍在淵。【朱子&middot;本義】疑而未定之辭。</p>
+<p>又與惑通。怪也。【孟子】無或乎王之不智也。◎按六書有假借，或本是邦或字，借爲疑或字，後人加土爲域，加心爲惑。而於或字，止作或人或曰之用，幷其本義而忘之矣。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6216_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=戈">戈</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=戈">戈</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6216.svg">                          <p>邦也。从囗从戈，以守一。一，地也。域，或又从土。于逼切〖注〗臣鉉等曰：今俗作胡國切。以爲疑或不定之意。臣鉉等曰：今無復或音。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6216_2130.svg" /><span class="swbf">(或)</span><span class="ywyy">邦也。</span><span class="swdz">邑部曰：邦者，國也。葢或國在周時爲古今字。古文衹有或字。旣乃復製國字。以凡人各有所守。皆得謂之或。各守其守，不能不相疑。故孔子曰：或之者，疑之也。而封建日廣。以爲凡人所守之或字未足盡之。乃又加囗而爲國。又加心爲惑。以爲疑惑當別於或。此孶乳寖多之理也。旣有國字。則國訓邦，而或但訓有。漢人多以有釋或。毛公之傳詩商頌也。曰域，有也。傳大雅也。曰囿，所以域養禽獸也。域卽或。攷工記梓人注。或，有也。小雅天保箋，鄭論語注皆云。或之言有也。高誘注淮南屢言或，有也。毛詩九有，韓詩作九域。緯書作九囿。葢有，古音如以。或，古音同域。相爲平入。</span><span class="ywyy">从口，</span><span class="swdz">羽非切。</span><span class="ywyy">戈，㠯守其一。</span><span class="swdz">从三字會意。于逼切。廣韵分域切雨逼，或切胡國。非也。一部。</span><span class="ywyy">一，地也。</span><span class="swdz">解从一之意。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6216_2131.svg" /><span class="swbf">(域)</span><span class="ywyy">或或从土。</span><span class="swdz">旣从口从一矣。又从土。是爲後起之俗字。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6216_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  xuo˥˧ <span class="z_ts4">唐代读音</span>  *huək<span class="z_ts4">日语读音</span>  ARU ARUIHA<span class="z_ts4">韩语罗马</span>  HOK<span class="z_ts4">现代韩语</span>  혹<span class="z_ts3">越南语</span>  hoặc</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] fet8 [沙头角腔] fiet8 [客英字典] fet8 [海陆腔] fet8 [客语拼音字汇] fed6 [陆丰腔] fet8 [台湾四县腔] fet8 [东莞腔] fet8 [宝安腔] fet8<span class="z_ts2">粤语</span>  waak6<span class="z_ts3">潮州话</span>  hog8(hôk) [揭阳、潮阳]huêg8(huêk) </p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  匣母    德韻    入聲    或小韻    胡國切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：匣母    德部   ；王力系统：匣母    職部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/或">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/或">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/或">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/或">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/或">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/或">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/或">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/或">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/或">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/或">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/或">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/或">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/或">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">或</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/或"><img data-original="//img.zdic.net/zy/jinwen/34_F4B6.svg" class="lazy ypic"><span>「或」 或作父癸方鼎</span><span>西周早期</span><span>集成2133</span></a></td><td><a href="/zd/zx/cx/或"><img data-original="//img.zdic.net/zy/chuwenzi/53_E999.svg" class="lazy ypic"><span>「或」 包2.120</span></a></td><td><a href="/zd/zx/xz/或"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6216.svg" class="lazy ypic"><span>「或」 說文‧戈部</span></a></td><td><a href="/zd/zx/qx/或"><img data-original="//img.zdic.net/zy/qinwenzi/71_ECD6.svg" class="lazy ypic"><span>「或」 睡.秦104</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/或" target="_blank"><img data-original="//img.zdic.net/kai/tw/6216.svg" class="lazy ypic"><span>「或」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/或"><img data-original="//img.zdic.net/zy/jinwen/33_F3C9.svg" class="lazy ypic"><span>「或」 保卣</span><span>西周早期</span><span>集成5415</span></a></td><td><a href="/zd/zx/cx/或"><img data-original="//img.zdic.net/zy/chuwenzi/53_E99B.svg" class="lazy ypic"><span>「或」 包2.135反</span></a></td><td><a href="/zd/zx/xz/或"><img data-original="//img.zdic.net/zy/xiaozhuan/27_57DF.svg" class="lazy ypic"><span>「域」 說文或體</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/或"><img data-original="//img.zdic.net/zy/jinwen/33_F3CA.svg" class="lazy ypic"><span>「或」 𣄰尊</span><span>西周早期</span><span>集成6014</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/或">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/或">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/或">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/或">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/或">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6216.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6216.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6216.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6216.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/6216.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/國' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/570B.svg'><span>國</span></a></div> <div class='zx'><a href='/hans/㦯' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/39AF.svg'><span>㦯</span></a></div> <div class='zx'><a href='/hans/𢈿' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2223F.svg'><span>𢈿</span></a></div> <div class='zx'><a href='/hans/𢦙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22999.svg'><span>𢦙</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="5143" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5356">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/俰">俰(huo4)</a></li><li><a href="/hans/韄">韄(huo4)</a></li><li><a href="/hans/霍">霍(huo4)</a></li><li><a href="/hans/謋">謋(huo4)</a></li><li><a href="/hans/濩">濩(huo4)</a></li><li><a href="/hans/嚯">嚯(huo4)</a></li><li><a href="/hans/䦚">䦚(huo4)</a></li><li><a href="/hans/䋭">䋭(huo4)</a></li><li><a href="/hans/㗲">㗲(huo4)</a></li><li><a href="/hans/彟">彟(huo4)</a></li><li><a href="/hans/䉟">䉟(huo4)</a></li><li><a href="/hans/獲">獲(huo4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/戝">戝</a></li><li><a href="/hans/戮">戮</a></li><li><a href="/hans/戜">戜</a></li><li><a href="/hans/戛">戛</a></li><li><a href="/hans/战">战</a></li><li><a href="/hans/戮">戮</a></li><li><a href="/hans/戏">戏</a></li><li><a href="/hans/㦷">㦷</a></li><li><a href="/hans/㦵">㦵</a></li><li><a href="/hans/戔">戔</a></li><li><a href="/hans/㦲">㦲</a></li><li><a href="/hans/戣">戣</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/垀">垀</a></li><li><a href="/hans/绌">绌</a></li><li><a href="/hans/䃿">䃿</a></li><li><a href="/hans/刽">刽</a></li><li><a href="/hans/肭">肭</a></li><li><a href="/hans/䄫">䄫</a></li><li><a href="/hans/汬">汬</a></li><li><a href="/hans/波">波</a></li><li><a href="/hans/咐">咐</a></li><li><a href="/hans/矻">矻</a></li><li><a href="/hans/其">其</a></li><li><a href="/hans/牨">牨</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>或</span>王命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">马之千里者，一食<span>或</span>尽粟一石。</div><div class="gscdr">唐·韩愈 《马说》</div><div class="gscdl">而<span>或</span>长烟一空，皓月千里，浮光跃金，静影沉璧，渔歌互答，此乐何极！登斯楼也，则有心旷神怡，宠辱偕忘，把酒临风，其喜洋洋者矣。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div><div class="gscdl">嗟夫！予尝求古仁人之心，<span>或</span>异二者之为，何哉？不以物喜，不以己悲；居庙堂之高则忧其民；处江湖之远则忧其君。是进亦忧，退亦忧。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div><div class="gscdl">余立侍左右，援疑质理，俯身倾耳以请；<span>或</span>遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=5143"></script>
+</body>
+</html>

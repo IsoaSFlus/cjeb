@@ -1,0 +1,666 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>尚的解释|尚的意思|汉典“尚”字的基本解释</title>
+<meta name="title" content="尚的解释|尚的意思|汉典“尚”字的基本解释">
+<meta name="keywords" content="上：龸，下：口。  " /><meta property="og:title" content="“尚”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“尚”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“尚”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/尚" />
+<link rel="canonical" href="//www.zdic.net/hans/尚" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/尚" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/尚" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/尚" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/尚">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/尚">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5C1A.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5C1A.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尚”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shàng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尚”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄤˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=小" target="_blank">  小</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_ytz2"><a href='/hans/儻' target=_blank>儻</a> <a href='/hans/尙' target=_blank>尙</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5C1A</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>24325251</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>imkf</p></td>                            <td class="dsk_2_1"><p>fbr</p></td>                            <td class="dsk_2_1"><p>kold</p></td>                            <td class="dsk_2_1"><p>90227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尚”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shàng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“尚”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄤˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=小" target="_blank">小</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">基本区</span> 5C1A<span class="z_ts2">笔顺</span> 24325251                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5C1A_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=3611" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">尚</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>尚</strong></p><p><span class="dicpy">sh&agrave;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&agrave;ng.mp3"></a></span> ㄕㄤˋ</span></p><hr class="dichr" /><ol>	<li>还（<span class="dicpy">h&aacute;i </span>），仍然：～小。～未。～不可知。</li>	<li>尊崇，注重：～武。～贤（①崇尚贤人；②《墨子》篇名，内容阐述墨子的一种政治主张）。</li>	<li>社会上共同遵从的风俗、习惯等：风～。时～。</li>	<li>矜夸，自负：自～其功。</li>	<li>古，久远：&ldquo;故乐之所由来者～矣，非独为一世之所造也&rdquo;。</li>	<li>庶几，差不多：～飨（希望死者来享用祭品之意）。</li>	<li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> still, yet; even; fairly, rather</p><p><span class="z_ts2">德语</span>  noch, dennoch  (V)​,berücksichtigen, respektieren  (V)​,schätzen, wertschätzen  (V)</p><p><span class="z_ts2">法语</span> estimer,accorder de l'importance,considérer,encore</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">尚</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>尚</strong> <span class="dicpy">sh&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&agrave;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> (会意。从八，向声。本义:尚且)</p>
+<p><span class="cino">(2)</span> 同本义<span class="encs">[still;yet;even]</span></p>
+<p><span class="diczx1">尚，曾也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">尚无为。&mdash;&mdash;<span class="smcs">《诗&middot;王风&middot;免爰》</span></span></p>
+<p><span class="diczx1">尚求其雌。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;小弁》</span></span></p>
+<p><span class="diczx1">亦尚一人之庆。&mdash;&mdash;<span class="smcs">《书&middot;秦誓》</span></span></p>
+<p><span class="diczx2">元济</span>尚寝，笑曰:&ldquo;俘囚为盗耳，晓当尽戮之。&rdquo;&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></p>
+<p><span class="diczx1">臣以布衣之交尚不相欺，况大国乎?&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></span></p>
+<p><span class="diczx3">又如:尚有不少;尚来得及;尚未娶亲;尚待研究;尚兀自(还;尚且);尚尔(尚且这样);尚自(尚且);尚然(尚且);尚犹(犹，还)</span></p>
+<p><span class="cino">(4)</span> 还;仍然 <span class="encs">[still;yet]</span></p>
+<p><span class="diczx2">赵王</span>使使(派使者)视 <span class="diczx2">廉颇</span>尚可用否。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></p>
+<p><span class="diczx1">如仆尚何言哉?&mdash;&mdash;</span><span class="diczx2">司马迁</span><span class="smcs">《报任安书》</span></p>
+<p><span class="cino">(5)</span> 希望 <span class="encs">[wish]</span> 表示命令或希望</p>
+<p><span class="diczx1">鸣呼哀哉!伏惟尚飨。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《为韦京兆祭太常崔少卿文》</span></p>
+<p><span class="cino">(6)</span> 差不多 <span class="encs">[nearly]</span></p>
+<p><span class="diczx2">灵王</span>卜曰:&ldquo;余尚得天下。&rdquo;&mdash;&mdash;<span class="smcs">《左传&middot;昭公十三年》</span></p>
+<p><span class="cino">(7)</span> 往上;向上。通&ldquo;上&rdquo; <span class="encs">[upper;up]</span>。</p>
+<p><span class="diczx3">如:尚论(往上追论古人的行事。尚，通上);尚同(墨子的重要思想之一。即在政体中，下位者，必须对上服从，必须向上认同)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>尚</strong> <span class="dicpy">sh&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&agrave;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 尚假借为&ldquo;上&rdquo;，尊崇<span class="encs">[worship;revere]</span></p>
+<p><span class="diczx1">尚，上也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">以其上古之书谓之尚书。&mdash;&mdash;<span class="smcs">《书&middot;孔安国序》</span></span></p>
+<p><span class="diczx1">尚有晋国。&mdash;&mdash;<span class="smcs">《国语&middot;晋语》</span></span></p>
+<p><span class="diczx1">学者多称五帝，尚矣!&mdash;&mdash;<span class="smcs">《史记&middot;五帝纪》</span></span></p>
+<p><span class="diczx1">尚论古之人。&mdash;&mdash;<span class="smcs">《孟子&middot;万章下》</span></span></p>
+<p><span class="diczx1">尚三王只。&mdash;&mdash;<span class="smcs">《楚辞&middot;大招》</span></span></p>
+<p><span class="diczx1">尚左。&mdash;&mdash;<span class="smcs">《仪礼&middot;觐礼》</span></span></p>
+<p><span class="diczx2">宣德</span>间，宫中尚促织之戏。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></p>
+<p><span class="diczx1">且五方土音，乡俗好尚，习见习闻。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《柳敬亭传》</span></p>
+<p><span class="diczx3">又如:崇尚(尊重;推崇);尚茅茨(崇尚茅屋);尚齿(尊崇年老的人);尚年(尊崇年长者);尚左(以左为尊);尚右(以右为尊);尚白(崇尚白色)</span></p>
+<p><span class="cino">(2)</span> 重视 <span class="encs">[pay attention to]</span></p>
+<p><span class="diczx1">臣欲使士大夫尊尚武勇，讲习兵法。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx3">又如:尚文(重视文治);尚气(重气节，重义气;负气)</span></p>
+<p><span class="cino">(3)</span> 仰慕 <span class="encs">[hold sb. in high esteem]</span></p>
+<p><span class="diczx1">尚前良之遗风兮，恫后辰而无及。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">张衡</span><span class="smcs">《思玄曲》</span></p>
+<p><span class="cino">(4)</span> 佑，佑助 <span class="encs">[assist]</span></p>
+<p><span class="diczx1">象曰:包荒得尚于中行，以光大也。&mdash;&mdash;<span class="smcs">《易&middot;泰》</span></span></p>
+<p><span class="cino">(5)</span> 给帝王管理事物 <span class="encs">[administer (things for emperor)]</span></p>
+<p><span class="diczx1">今日堂有炼珍，朝分尚食。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="diczx3">又如:尚食(掌帝王膳食);尚宝(明代官名。掌理宝玺、金银、符牌等事);尚衣(古官名。掌管帝王衣服);尚席(官名。掌理宫中筵席);尚宫(宫中女官名。为宫官的首长，掌管导引皇后及闺阁廪赐)</span></p>
+<p><span class="cino">(6)</span> 夸耀 <span class="encs">[show off]</span></p>
+<p><span class="diczx1">君子不自大其事，不自尚其功。&mdash;&mdash;<span class="smcs">《礼记&middot;表记》</span></span></p>
+<p><span class="cino">(7)</span> 超过;高出 <span class="encs">[surpass]</span></p>
+<p><span class="diczx1">得闻先生之余论，则</span><span class="diczx2">大庭氏</span>何以尚兹?&mdash;&mdash; <span class="diczx2">张衡</span><span class="smcs">《东京赋》</span></p>
+<p><span class="cino">(8)</span> 奉;承 <span class="encs">[present]</span></p>
+<p><span class="diczx1">愿赐问而自进兮，得尚君之玉音。&mdash;&mdash;<span class="smcs">《文选&middot;司马相如&middot;长门赋》</span></span></p>
+<p><span class="cino">(9)</span> 仰攀婚姻 <span class="encs">[match]</span></p>
+<p><span class="diczx2">卓王孙</span>喟然而叹，自以得使女尚 <span class="diczx2">司马长卿</span>晚。&mdash;&mdash;<span class="smcs">《史记》</span></p>
+<p><span class="cino">(10)</span> 加上，往&hellip;上补充东西 <span class="encs">[increase]</span></p>
+<p><span class="diczx1">尚之以琼华乎而。&mdash;&mdash;<span class="smcs">《诗&middot;齐风&middot;著》</span></span></p>
+<p><span class="diczx3">又如:尚絅(穿锦衣时加上罩袍，以使华美不显耀于外)</span></p>
+<p><span class="cino">(11)</span> 荐举;选拔 <span class="encs">[value highly]</span></p>
+<p><span class="diczx1">尚者，<span class="smcs">《五制》</span>:&ldquo;上贤以崇德&rdquo;，&ldquo;上贤谓举贤也&rdquo;。上与尚通。&mdash;&mdash;<span class="smcs">《广雅》</span></span><span class="diczx2">王念孙</span>疏证</p>
+<p><span class="cino">(12)</span> 喜欢;爱好 <span class="encs">[like]</span>。</p>
+<p><span class="diczx3">如:尚诙谑(喜欢戏谑)</span></p>
+<p><span class="cino">(13)</span> 娶帝王之女为妻 <span class="encs">[marry a princess]</span></p>
+<p><span class="diczx1">诸男皆尚</span><span class="diczx2">秦</span>公主。&mdash;&mdash;<span class="smcs">《史记&middot;李斯列传》</span></p>
+<p><span class="diczx3">又如:尚主(娶公主为妻)</span></p>
+<p>◎ <strong>尚</strong> <span class="dicpy">sh&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&agrave;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 志向;愿望 <span class="encs">[aspirations]</span></p>
+<p><span class="diczx1">平生有微尚，欢笑自此毕。&mdash;&mdash;</span><span class="diczx2">李白</span><span class="smcs">《登峨眉山》</span></p>
+<p><span class="cino">(2)</span> 姓</p>
+<p>◎ <strong>尚</strong> <span class="dicpy">sh&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&agrave;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 久远;古远 <span class="encs">[remote;ages ago]</span></p>
+<p><span class="diczx1">乐所由来者尚矣。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;古乐》</span></span></p>
+<p><span class="diczx3">又如:尚远(久远)</span></p>
+<p><span class="cino">(2)</span> 自负;骄傲 <span class="encs">[be conceited]</span></p>
+<p><span class="diczx1">虽才高于世，而无骄尚之情。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="cino">(3)</span> 上，高尚 <span class="encs">[noble]</span></p>
+<p><span class="diczx2">南阳</span><span class="diczx2">刘子骥</span>，高尚士也。&mdash;&mdash; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/尚存">尚存</a></span><span class="crefe"><a href="/hans/尚方宝剑">尚方宝剑</a></span><span class="crefe"><a href="/hans/尚古">尚古</a></span><span class="crefe"><a href="/hans/尚好">尚好</a></span><span class="crefe"><a href="/hans/尚可">尚可</a></span><span class="crefe"><a href="/hans/尚且">尚且</a></span><span class="crefe"><a href="/hans/尚书">尚书</a></span><span class="crefe"><a href="/hans/尚书">尚书</a></span><span class="crefe"><a href="/hans/尚武">尚武</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">尚</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>尚</rb></rbc><rtc><rt>ㄕㄤˋ</rt></rtc><rtc><rt>sh&agrave;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5081.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">尊崇、仰慕。</span><span class="gc_lz">如：「<b>尚</b>文」、「尚武」。</span><span class="gc_yy">《墨子&middot;<b>尚</b>賢上》：「不能以<b>尚</b>賢事能為政也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">主管其事。</span><span class="gc_yy">《史記&middot;卷九&middot;呂太后本紀》：「襄平侯通<b>尚</b>符節，乃令持節矯內太尉北軍。」</span><span class="gc_yx">通「掌」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">仰攀婚姻。</span><span class="gc_yy">《史記&middot;卷八七&middot;李斯傳》：「諸男皆<b>尚</b>秦公主，女悉嫁秦諸公子。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">猶、還。</span><span class="gc_lz">如：「他至今尚未結婚。」</span><span class="gc_yy">《詩經&middot;大雅&middot;蕩》：「雖無老成人，<b>尚</b>有典型。 」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">尚且、況且。</span><span class="gc_yy">《老子&middot;第二三章》：「天地<b>尚</b>不能久，而況於人乎？」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">希望，表示祈求。</span><span class="gc_lz">如：「尚饗」。</span><span class="gc_yy">唐&middot;韓愈〈汴州東 西水門記〉：「乃伐山石，刻之日月，<b>尚</b>俾來者知作之所始。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如漢代有尚長。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5C1A_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=小" target="_blank">小</a>】
+                              尙·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">尙</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“尚”字头，请参考“<a href="/hans/尙">尙</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=小" target="_blank">小</a>】
+                              尙·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5C19.svg">						  <p>【唐韻】【集韻】【韻會】時亮切【正韻】時樣切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音上。【說文】曾也，庶幾也。从八向聲。【爾雅註】郉昺曰：尙，謂心所希望也。【詩·小雅】不尙息焉。【書·大禹謨】爾尙一乃心力。</p><p>又【廣韻】加也，飾也。【論語】好仁。　無以尙之。【詩·齊風】充耳以素乎而，尙之以瓊華乎而。</p><p>又崇也，貴也。【禮·檀弓】夏后氏尙黑，殷人尙白，周人尙赤。</p><p>又主也。　　司進御之物者皆曰尙。【漢官儀】尙食，尙醫，尙方等是也。</p><p>又尙書，主大計。</p><p>又【增韻】尊也。【詩·大雅】維師尙父。【註】太公望，太師而尊爲尙父者也。</p><p>又猶也。【詩·大雅】雖無老成人，尙有典<img class="lazy k_img" data-original="//img.zdic.net/song/cn/206EC.svg"><span class="k_txt">𠛬</span>。</p><p>又娶公主謂之尙。言帝王之女尊，而尙之，不敢言娶。【前漢·王吉傳】娶天子女曰尙公主，娶諸侯女曰承翁主，尙承皆<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24C1E.svg"><span class="k_txt">𤰞</span>下之名。一曰配也。【司馬相如傳】卓王孫自以使女得尙司馬長卿晚。【註】尙，配也。義與尙公主同。</p><p>又【易·泰卦】得尙乎中行。【註】謂合乎中行之道也。</p><p>又奉也。【司馬相如·長門賦】願賜問而自進兮，得尙君之玉音。</p><p>又矜伐也。【禮·表記】君子不自尙其功。</p><p>又姓。戰國尙靳，唐尙衡。</p><p>又與上通。【詩·魏風】上愼旃哉，猶來無止。【註】上猶尙也，言愼之可以來歸，無止於彼也。【尚書序】尚者，上也。言此上代以來書，故曰尚書。</p><p>又叶辰羊切，音常。【詩·大雅】肆皇天弗尚。叶亡方。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5C1A_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=八">八</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">尚</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=八">八</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5C1A.svg">                          <p>尚，曾也，庶幾也。从八，向聲。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5C1A_1.svg" /><span class="swbf">(尚)</span><span class="ywyy">曾也。</span><span class="swdz">尚之䛐亦舒，故釋尚爲曾。曾，重也。尚，上也。皆積絫加高之意。義亦相通也。</span><span class="ywyy">庶幾也。</span><span class="swdz">釋言曰：庶幾，尚也。</span><span class="ywyy">从八。</span><span class="swdz">亦象氣之分散。</span><span class="ywyy">向聲。</span><span class="swdz">時亮切。十部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5C1A_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">尚</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂɑŋ˥˧ <span class="z_ts4">唐代读音</span>  *zhiɑ̀ng zhiɑ̀ng<span class="z_ts4">日语读音</span>  KUWAERU TATTOBU NEGAU<span class="z_ts4">韩语罗马</span>  SANG<span class="z_ts3">越南语</span>  chuộng</p>						<p><span class="z_ts3">客家话</span>  [陆丰腔] shong6 [梅县腔] song5 [宝安腔] song3 [客语拼音字汇] song4 [东莞腔] song3 [沙头角腔] song5 song3<span class="z_ts2">粤语</span>  soeng6<span class="z_ts3">潮州话</span>  siang6(siãng) siên1/sion1 </p>						<p><span class="z_ts3">近代音</span>  審母    江陽韻    去聲    上小空；<span class="z_ts3">中古音</span>  禪母    陽韻    平聲    常小韻    市羊切    三等    開口；禪母    漾韻    去聲    尚小韻    時亮切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：定母    唐部   ；王力系统：禪母    陽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/尚">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/尚">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/尚">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/尚">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/尚">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/尚">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/尚">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/尚">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/尚">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/尚">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/尚">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/尚">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">尚</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/尚"><img data-original="//img.zdic.net/zy/jinwen/31_E3D9.svg" class="lazy ypic"><span>「尚」 曶鼎</span><span>西周中期</span><span>集成2838</span></a></td><td><a href="/zd/zx/cx/尚"><img data-original="//img.zdic.net/zy/chuwenzi/51_E52E.svg" class="lazy ypic"><span>「尚」 包2.90</span></a></td><td><a href="/zd/zx/xz/尚"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5C1A.svg" class="lazy ypic"><span>「尚」 說文‧八部</span></a></td><td><a href="/zd/zx/qx/尚"><img data-original="//img.zdic.net/zy/qinwenzi/71_E0AB.svg" class="lazy ypic"><span>「尚」 睡.雜35</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/尚" target="_blank"><img data-original="//img.zdic.net/kai/tw/5C1A.svg" class="lazy ypic"><span>「尚」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/尚"><img data-original="//img.zdic.net/zy/jinwen/31_E3DB.svg" class="lazy ypic"><span>「尚」 陳公子叔𨙅父甗</span><span>春秋早期</span><span>集成947</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/尚"><img data-original="//img.zdic.net/zy/jinwen/31_E3DE.svg" class="lazy ypic"><span>「尚」 陳侯因敦</span><span>戰國中期</span><span>集成4649</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/尚">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/尚">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/尚">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/尚">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/尚">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5C1A.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5C1A.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5C1A.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5C1A.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/儻' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/513B.svg'><span>儻</span></a></div> <div class='zx'><a href='/hans/尙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5C19.svg'><span>尙</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="3611" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6638">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/鞝">鞝(shang4)</a></li><li><a href="/hans/绱">绱(shang4)</a></li><li><a href="/hans/丄">丄(shang4)</a></li><li><a href="/hans/𠄠">𠄠(shang4)</a></li><li><a href="/hans/緔">緔(shang4)</a></li><li><a href="/hans/上">上(shang4)</a></li><li><a href="/hans/尙">尙(shang4)</a></li><li><a href="/hans/𠄞">𠄞(shang4)</a></li><li><a href="/hans/恦">恦(shang4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/尡">尡</a></li><li><a href="/hans/尕">尕</a></li><li><a href="/hans/尖">尖</a></li><li><a href="/hans/尠">尠</a></li><li><a href="/hans/㝺">㝺</a></li><li><a href="/hans/少">少</a></li><li><a href="/hans/尝">尝</a></li><li><a href="/hans/龸">龸</a></li><li><a href="/hans/尞">尞</a></li><li><a href="/hans/㝻">㝻</a></li><li><a href="/hans/小">小</a></li><li><a href="/hans/尜">尜</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/怜">怜</a></li><li><a href="/hans/炄">炄</a></li><li><a href="/hans/顷">顷</a></li><li><a href="/hans/绐">绐</a></li><li><a href="/hans/衫">衫</a></li><li><a href="/hans/㹤">㹤</a></li><li><a href="/hans/或">或</a></li><li><a href="/hans/缷">缷</a></li><li><a href="/hans/泸">泸</a></li><li><a href="/hans/呮">呮</a></li><li><a href="/hans/㑔">㑔</a></li><li><a href="/hans/昄">昄</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">谁道人生无再少？门前流水<span>尚</span>能西！休将白发唱黄鸡。</div><div class="gscdr">宋·苏轼 《浣溪沙·游蕲水清泉寺》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">僵卧孤村不自哀，<span>尚</span>思为国戍轮台。</div><div class="gscdr">宋·陆游 《十一月四日风雨大作》</div><div class="gscdl">可汗问所欲，木兰不用<span>尚</span>书郎，愿驰千里足，送儿还故乡。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">南阳刘子骥，高<span>尚</span>士也，闻之，欣然规往。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">为报倾城随太守，亲射虎，看孙郎。酒酣胸胆<span>尚</span>开张。</div><div class="gscdr">宋·苏轼 《江城子·密州出猎》</div><div class="gscdl">侍中、<span>尚</span>书、长史、参军，此悉贞良死节之臣，愿陛下亲之信之，则汉室之隆，可计日而待也。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=3611"></script>
+</body>
+</html>

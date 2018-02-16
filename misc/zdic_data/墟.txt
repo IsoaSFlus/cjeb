@@ -1,0 +1,609 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>墟的解释|墟的意思|汉典“墟”字的基本解释</title>
+<meta name="title" content="墟的解释|墟的意思|汉典“墟”字的基本解释">
+<meta name="keywords" content="左：土，右：虚。" /><meta property="og:title" content="“墟”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“墟”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“墟”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/墟" />
+<link rel="canonical" href="//www.zdic.net/hans/墟" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/墟" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/墟" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/墟" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/墟">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/墟">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/589F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/589F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">xū<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“墟”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xū.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄒㄩ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“墟”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄩ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=土" target="_blank">  土</a></p>
+                              <p><span class="z_ts2">部外</span>  11</p>
+                              <p><span class="z_ts3">总笔画</span>  14</p></td>                                                        <td class="z_ytz2"><a href='/hans/圩' target=_blank>圩</a> <a href='/hans/虚' target=_blank>虚</a> <a href='/hans/虛' target=_blank>虛</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+589F</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>12121531522431</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>fhag|fhog</p></td>                            <td class="dsk_2_1"><p>gypc</p></td>                            <td class="dsk_2_1"><p>biku</p></td>                            <td class="dsk_2_1"><p>41112</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">xū<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“墟”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xū.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄒㄩ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“墟”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄩ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=土" target="_blank">土</a> <span class="z_ts2">部外</span> 11<span class="z_ts3">总笔画</span> 14</p>                    <p><span class="z_ts3">基本区</span> 589F<span class="z_ts2">笔顺</span> 12121531522431                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="589F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                                                <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=2720" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">墟</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>墟</strong></p>
+<p><span class="dicpy">xū  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xū.mp3"></a></span>  ㄒㄩˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>有人住过而现已荒废的地方：废～。殷～。～里（村落）。丘～（①废墟，荒地；②坟墓）。</li>
+	<li>土丘。</li>
+	<li>毁坏，使成为废墟。</li>
+	<li>同&ldquo;<a href="/hans/圩">圩</a>&rdquo;。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> high mound; hilly countryside; wasteland</p><p><span class="z_ts2">法语</span> ruines</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">墟</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>墟</strong> <span class="dicpy">xū</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xū.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (本作&ldquo;虚&rdquo;。形声。从土，虚声。本义:大土山)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[big mound]</span></p>
+<p><span class="diczx1">墟土之人大，沙土之人细。&mdash;&mdash;<span class="smcs">《孔子家语》</span></span></p>
+<p><span class="diczx3">又如:墟土(丘陵之地);墟垒(犹堡垒)</span></p>
+<p><span class="cino">(3)</span> 废址，故城 <span class="encs">[ruins]</span></p>
+<p><span class="diczx1">使人之朝为草而国为墟。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;贵直》</span></span></p>
+<p><span class="diczx3">又如:殷墟;墟棘，墟榛，墟莽(废墟榛莽;荒野)</span></p>
+<p><span class="cino">(4)</span> 坟墓 <span class="encs">[grave]</span></p>
+<p><span class="diczx1">墟，墟墓。&mdash;&mdash;<span class="smcs">《字汇》</span></span></p>
+<p><span class="diczx3">又如:墟墓(墟坟，丘墓，墓地)</span></p>
+<p><span class="cino">(5)</span> 乡村集市 <span class="encs">[country fair]</span></p>
+<p><span class="diczx1">二豪贼劫持反接，布囊其口，去逾四十里之墟所卖之。&mdash;&mdash;<span class="smcs">《童区寄传》</span></span></p>
+<p><span class="diczx3">又如:墟市;墟集(乡村市集);墟期，墟日(市集日)</span></p>
+<p><span class="cino">(6)</span> 场所 <span class="encs">[place]</span></p>
+<p><span class="diczx1">古之至人，假道于仁，诧宿于义，以游逍遥之墟。&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="cino">(7)</span> 村落 <span class="encs">[village]</span>。</p>
+<p><span class="diczx3">如:墟落(墟里;村墟，都指村落);墟井;墟曲，墟聚，墟墅(乡间房舍)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>墟</strong> <span class="dicpy">xū</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xū.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 毁为废墟 <span class="encs">[ruin]</span></p>
+<p><span class="diczx1">今万乘之国，墟数于千，不胜而入。&mdash;&mdash;<span class="smcs">《墨子》</span></span></p>
+<p><span class="cino">(2)</span> 奴役 <span class="encs">[enslave]</span></p>
+<p><span class="diczx1">通商而墟五印矣。&mdash;&mdash;</span><span class="diczx2">康有为</span><span class="smcs">《强学会序》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/墟里">墟里</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">墟</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>墟</rb></rbc><rtc><rt>ㄒㄩ</rt></rtc><rtc><rt>xū <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4118.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">大土堆。</span><span class="gc_yy">《孔子家語&middot;卷六&middot;執轡》：「<b>墟</b>土之人大，沙土之人細。」</span><span class="gc_yy">唐&middot;韓愈〈圬者王承福傳〉：「有一至者焉，又往過之，則為<b>墟</b>矣。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">荒廢的城市、村落。</span><span class="gc_lz">如：「廢<b>墟</b>」、「殷<b>墟</b>」。</span><span class="gc_yy">《戰國策&middot;齊策六》：「破燕兵，復齊<b>墟</b>。」</span><span class="gc_yy">明&middot;梅鼎祚《玉合記&middot;第二十七齣》：「閭里成<b>墟</b>，門庭易主。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">泛指村莊、村落。</span><span class="gc_yy">晉&middot;陶淵明〈歸園田居〉詩五首之一：「曖曖遠人村，依依墟里煙。」</span><span class="gc_yy">唐&middot;王維〈渭川田家〉詩：「斜光照墟落，窮巷牛羊歸。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">農村定期的市集。</span><span class="gc_lz">如：「牛<b>墟</b>」、「趕<b>墟</b>」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">毀滅。</span><span class="gc_yy">《史記&middot;卷四十一&middot;越王句踐世家》：「王不聽諫，後三年吳其<b>墟</b>乎！」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="589F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集中" target="_blank">丑集中</a>】【<a href="/zd/kx/?zm=丑集中&amp;bs=土" target="_blank">土</a>】
+                              墟·康熙筆画：<a href="/zd/kx/bh/?bh=15" target="_blank">15</a>　·部外筆画：12</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">墟</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=丑集中" target="_blank">丑集中</a>】【<a href="/zd/kx/?zm=丑集中&amp;bs=土" target="_blank">土</a>】
+                              墟·康熙筆画：<a href="/zd/kx/bh/?bh=15" target="_blank">15</a>　·部外筆画：12</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/589F.svg">						  <p>【唐韻】去魚切【集韻】【韻會】【正韻】丘於切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音虛。【說文】大丘也。【禮&middot;檀弓】墟墓之閒，未施哀于民而民哀。</p>
+<p>又故城。【帝王世紀】瞍妻握登生舜于姚墟，故得姓姚氏。【左傳&middot;昭七年】謝息遷桃。【註】魯卞縣東南有桃墟，世謂之陶墟，相傳舜所陶處。【竹書紀年】盤庚自奄遷朝歌，遂曰殷墟。</p>
+<p>又大壑。【列子&middot;湯問篇】渤海之東有大壑焉，名曰歸墟。【木華&middot;海賦】南澰朱厓，北灑天墟。</p>
+<p>又商賈貨物輻湊處，古謂之務，今謂之集，又謂之墟。</p>
+<p>又叶偶舉切，音語。【詩&middot;邶風】升彼墟矣。叶下楚。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="589F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=丘">丘</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">虚</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“墟”字头，请参考“<a href="/hans/虚">虚</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=丘">丘</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/865A.svg">                          <p>大丘也。崐崘丘謂之崐崘虛。古者九夫爲井，四井爲邑，四邑爲丘。丘謂之虛。从丘虍聲。丘如切。又，朽居切〖注〗臣鉉等曰：今俗别作墟，非是。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/865A_1.svg" /><span class="swbf">(虚)</span><span class="ywyy">大丠也。昆侖丠謂之昆侖虚。</span><span class="swdz">昆侖丘、丘之至大者也。釋水曰。河出昆侖虚。海內西經曰。海內昆侖之虚在西北。帝之下都。卽西山經昆侖之丘。實惟帝之下都也。水部曰。泑津在昆侖虚下。按虚者、今之墟字。猶昆侖今之崐崘字也。虚本謂大丘。大則空曠。故引伸之爲空虚。如魯、少皞之虚，衛、顓頊之虚。陳、大皞之虚，鄭、祝融之虚，皆本帝都，故謂之虚。又引伸之爲凡不實之稱。邶風：其虚其邪。毛曰：虚，虚也。謂此虚字乃謂空虚，非丘虚也。一字有數義數音，則訓詁有此例。如許書巳、巳也。謂此辰巳之字。其義爲巳甚也。虚訓空，故丘亦訓空。如漢書丘亭是。自學者䍐能會通，乃分用墟虚字。別休居邱於二切。而虚之本義廢矣。</span><span class="ywyy">古者九夫爲井，四井爲邑，四邑爲丠，丠謂之虗。</span><span class="swdz">此又引小司徒職文，言丘亦名虗，皆說虗篆从丘之意也。丘虚語之轉，易<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26AF5.svg"><span class="k_txt">𦫵</span>九三，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26AF5.svg"><span class="k_txt">𦫵</span>虚邑。馬云：虚，丘也。虚猶聚也，居也。引伸爲虚落，今作墟。庸風：<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26AF5.svg"><span class="k_txt">𦫵</span>彼虗矣。傳曰：虚，漕虚也。</span><span class="ywyy">从丠虍聲。</span><span class="swdz">邱如切。又朽居切。五部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="589F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">墟</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ɕy˥ <span class="z_ts4">唐代读音</span>  kiu<span class="z_ts4">日语读音</span>  ATO<span class="z_ts4">韩语罗马</span>  HE<span class="z_ts4">现代韩语</span>  허</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] hi1 [宝安腔] hi1 [梅县腔] hi1 [台湾四县腔] hi1 [客英字典] hi1 [东莞腔] hi1 [客语拼音字汇] hi1 [海陆腔] hi1 [陆丰腔] hi1<span class="z_ts2">粤语</span>  heoi1</p>						<p><span class="z_ts3">近代音</span>  曉母    魚模韻    平聲陰    虛小空；<span class="z_ts3">中古音</span>  溪母    魚韻    平聲    虚小韻    去魚切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：溪母    模部   ；王力系统：溪母    魚部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/墟">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/墟">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/墟">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/墟">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/墟">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/墟">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/墟">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/墟">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/墟">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/墟">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/墟">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/墟">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">墟</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「虛」。</p>
+<table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td style="display:none">金文</td>
+			<td>楚系簡帛</td>
+			<td>秦系簡牘</td>
+			<td>說文</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/cx/虚"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/56_F5CB.svg" /><span>「虛」 郭.老甲.24</span></a></td>
+			<td><a href="/zd/zx/qx/虚"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E912.svg" /><span>「虛」 睡.日乙89</span></a></td>
+			<td><a href="/zd/zx/xz/虚"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_865B.svg" /><span>「虛」 說文‧丘部</span></a></td>
+			<td style="display:none"><a href="/hans/虛" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/865B.svg" /><span>「虛」</span></a></td>
+			<td><a href="/hans/墟" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/589F.svg" /><span>「墟」</span></a></td>
+			<td style="display:none"><a href="/hans/虚" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/865A.svg" /><span>「虚」</span></a></td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/589F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/589F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/589F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/589F.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/589F.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/圩' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5729.svg'><span>圩</span></a></div> <div class='zx'><a href='/hans/虚' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/865A.svg'><span>虚</span></a></div> <div class='zx'><a href='/hans/虛' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/865B.svg'><span>虛</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="2720" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7318">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠕮">𠕮(xu1)</a></li><li><a href="/hans/許">許(xu1)</a></li><li><a href="/hans/蓲">蓲(xu1)</a></li><li><a href="/hans/盱">盱(xu1)</a></li><li><a href="/hans/蝑">蝑(xu1)</a></li><li><a href="/hans/欻">欻(xu1)</a></li><li><a href="/hans/頊">頊(xu1)</a></li><li><a href="/hans/䱬">䱬(xu1)</a></li><li><a href="/hans/綇">綇(xu1)</a></li><li><a href="/hans/稰">稰(xu1)</a></li><li><a href="/hans/魆">魆(xu1)</a></li><li><a href="/hans/旴">旴(xu1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㙎">㙎</a></li><li><a href="/hans/坲">坲</a></li><li><a href="/hans/㙆">㙆</a></li><li><a href="/hans/埱">埱</a></li><li><a href="/hans/墤">墤</a></li><li><a href="/hans/垍">垍</a></li><li><a href="/hans/堁">堁</a></li><li><a href="/hans/堵">堵</a></li><li><a href="/hans/塻">塻</a></li><li><a href="/hans/垅">垅</a></li><li><a href="/hans/垀">垀</a></li><li><a href="/hans/垲">垲</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/熑">熑</a></li><li><a href="/hans/瘇">瘇</a></li><li><a href="/hans/慺">慺</a></li><li><a href="/hans/塽">塽</a></li><li><a href="/hans/䃐">䃐</a></li><li><a href="/hans/嵺">嵺</a></li><li><a href="/hans/熓">熓</a></li><li><a href="/hans/䨓">䨓</a></li><li><a href="/hans/綳">綳</a></li><li><a href="/hans/摜">摜</a></li><li><a href="/hans/瘌">瘌</a></li><li><a href="/hans/嘞">嘞</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=2720"></script>
+</body>
+</html>

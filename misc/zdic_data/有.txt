@@ -1,0 +1,647 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>有的解释|有的意思|汉典“有”字的基本解释</title>
+<meta name="title" content="有的解释|有的意思|汉典“有”字的基本解释">
+<meta name="keywords" content="上：𠂇，下：月。 " /><meta property="og:title" content="“有”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“有”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“有”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/有" />
+<link rel="canonical" href="//www.zdic.net/hans/有" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/有" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/有" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/有" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/有">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/有">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6709.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6709.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yǒu<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span></span></p><p><span class="z_d song">yòu<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yòu.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄧㄡˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄡˇ.mp3"></a></span></span></p><p><span class="z_d song">ㄧㄡˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄡˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=月" target="_blank">  月</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_ytz2"><a href='/hans/𢇔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/221D4.svg'><span class='ytz_txt'>𢇔</span> <a href='/hans/洧' target=_blank>洧</a> <a href='/hans/𠂇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20087.svg'><span class='ytz_txt'>𠂇</span> <a href='/hans/𪠥' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2A825.svg'><span class='ytz_txt'>𪠥</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6709</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>132511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>def</p></td>                            <td class="dsk_2_1"><p>kb</p></td>                            <td class="dsk_2_1"><p>gdq</p></td>                            <td class="dsk_2_1"><p>40227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yǒu<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span></span> <span class="z_d song">yòu<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yòu.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄧㄡˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄡˇ.mp3"></a></span></span> <span class="z_d song">ㄧㄡˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“有”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄡˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=月" target="_blank">月</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 6709<span class="z_ts2">笔顺</span> 132511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6709_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6410" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>有</strong></p>
+<p><span class="dicpy">yǒu  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span>  ㄧㄡˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>存在：～关。～方（得法）。～案可稽。～备无患。～目共睹。</li>
+	<li>表示所属：他～一本书。</li>
+	<li>表示发生、出现：～病。情况～变化。</li>
+	<li>表示估量或比较：水～一丈多深。</li>
+	<li>表示大、多：～学问。</li>
+	<li>用在某些动词前面表示客气：～劳。～请。</li>
+	<li>无定指，与&ldquo;<span class="diczx3">某</span>&rdquo;相近：～一天。</li>
+	<li>词缀，用在某些朝代名称的前面：～夏。～宋一代。</li>
+</ol>
+<p>● <strong>有</strong></p>
+<p><span class="dicpy">y&ograve;u  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&ograve;u.mp3"></a></span>  ㄧㄡˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>同&ldquo;<a href="/hans/又">又</a>&rdquo;，表示整数之外再加零数。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> have, own, possess; exist</p><p><span class="z_ts2">德语</span> existieren  (V)​,haben  (V)​,es gibt</p><p><span class="z_ts2">法语</span> avoir,posséder,il y a,exister</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>有</strong> <span class="dicpy">yǒu</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。金文字形，从又(手)持肉，意思是手中有物。本义:具有，与&ldquo;无&rdquo;相对)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[have;possess]</span></p>
+<p><span class="diczx1">有，不宜有也。春秋传曰:&ldquo;日月有食之。&rdquo;&mdash;&mdash;<span class="smcs">《说文》</span>。按，掩日者月也。故许云月有食之，犹言日有食之月食之也。</span></p>
+<p><span class="diczx1">一有一亡曰有。&mdash;&mdash;<span class="smcs">《谷梁传&middot;庄公二十八年》</span></span></p>
+<p><span class="diczx1">大有众也。&mdash;&mdash;<span class="smcs">《易&middot;杂卦》</span></span></p>
+<p><span class="diczx1">有备无患。&mdash;&mdash;<span class="smcs">《左传&middot;襄公十一年》</span></span></p>
+<p><span class="diczx1">天若有情天亦老。&mdash;&mdash;</span><span class="diczx2">李贺</span><span class="smcs">《金铜仙人辞汉歌》</span></p>
+<p><span class="diczx3">又如:有来有去(有板有眼);有命无运(谓命好，运气却不好);有酒胆无饭力(表面刚强，骨子里懦弱);有竡划没是处(虽有安排，但无法实现。喻指无处下手之意);有尺水行尺船(指量力而行);有天无日头(天色已晚);有腿没裤子(形容很穷);有气的死人(比喻人无本事，不起什么作用);有门楹人家(有声望、有地位的人家;官宦之家)有些头脸(有面子);有怀莫逐(有厚望不能实现);有心计儿(有主意;有心眼);有眼色(有眼力;有眼光);有针线(有主意;有心眼);有字号(有名气的店铺);有出息(有才能;会办事);有口舌(有口才;能言善辩);有生之年(指人活着的岁月);有缘千里来相会(人与人之间只要有缘分，即使相离很远也会相见)</span></p>
+<p><span class="cino">(3)</span> 存在 <span class="encs">[there be]</span></p>
+<p><span class="diczx1">东有启明，西有长庚。&mdash;&mdash;<span class="smcs">《诗&middot;小雅》</span></span></p>
+<p><span class="diczx1">天下万物生于有，有生于无。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><span class="diczx3">又如:有想头(有利可图);有讲究(有问题);有肚皮(有默契;有深交);有虞(有误);有等(有些);有偏(心地不公正);有味(有利益;有油水);有间(有区别;不同);有分(有机会;有希望);有服(亲属死后正在服丧期间);有事(隐指有暧昧关系);有首尾(有不正当关系);有神没气(没有生气);有负众望(辜负众人的期望);有差(有区别，不一)</span></p>
+<p><span class="cino">(4)</span> 取得，获得，占有 <span class="encs">[get;seize]</span></p>
+<p><span class="diczx1">若据而有之，此帝王之资也。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:有功(有功劳，有功绩);有根有苗(有根据，有线索);有根有底(有根有据);有福同享，有祸同当(有幸福共同享受，有灾难共同担当);有娠(怀孕);有理走遍天下(只要有道理，任何地方都行得通)</span></p>
+<p><span class="cino">(5)</span> 等候，等待 <span class="encs">[wait]</span>。</p>
+<p><span class="diczx3">如:有程(有期限;有定额);有朝(有朝一日);有期(有一定期限);有时节(有时候);有盼头(有希望;有前途)</span></p>
+<p><span class="cino">(6)</span> 发生，呈现;产生 <span class="encs">[happen]</span>。</p>
+<p><span class="diczx3">如:有忝祖德(有愧于祖宗的德行，辱没了祖宗的声誉);有事为荣(出头办事，炫耀权势或钱财);有罪(有犯法的行为;有过错;表示失敬陪礼之辞)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>有</strong> <span class="dicpy">yǒu</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 用在&ldquo;人&rdquo;、&ldquo;时候&rdquo;、&ldquo;地方&rdquo;前面，表示一部分 <span class="encs">[some]</span>。</p>
+<p><span class="diczx3">如:有人说可以，有人说不可以;这个措施有地方适用，有地方不适用</span></p>
+<p><span class="cino">(2)</span> 表示不定指 <span class="encs">[one]</span>。跟&ldquo;某&rdquo;的作用相近。如:有一天他来我家;有人这样说，我可没看见</p>
+<p><span class="cino">(3)</span> 表示过去有一段<span class="encs">[时间]</span> <span class="encs">[means a certain(time) in the past]</span>。</p>
+<p><span class="diczx3">如:有一年，有一次，有一回，有一天</span></p>
+<p>◎ <strong>有</strong> <span class="dicpy">yǒu</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span> </p>
+<p><span class="diczx1">〈副〉</span></p>
+<p><span class="cino">(1)</span> 用于某些动词前组成套语，表示客气。如:有烦(烦劳。敬辞);&ldquo;有请&rdquo;;&ldquo;有劳&rdquo;</p>
+<p><span class="cino">(2)</span> 相当于&ldquo;或&rdquo;。或许 <span class="encs">[perhaps]</span></p>
+<p><span class="diczx1">由是则生，而有不用也(有，或，有的人)。&mdash;&mdash;<span class="smcs">《孟子&middot;告子上》</span></span></p>
+<p>◎ <strong>有</strong> <span class="dicpy">yǒu</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span> </p>
+<p><span class="diczx1">词缀</span></p>
+<p><span class="cino">(1)</span> 附着在动词、名词、形容词前，相当于词缀，无实际意义</p>
+<p><span class="diczx2">舜</span>伐有 <span class="diczx2">苗</span>&hellip;汤代有 <span class="diczx2">夏</span>。&mdash;&mdash;<span class="smcs">《荀子&middot;议兵》</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">y&ograve;u</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&ograve;u.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/有案可查">有案可查</a></span><span class="crefe"><a href="/hans/有板有眼">有板有眼</a></span><span class="crefe"><a href="/hans/有备无患">有备无患</a></span><span class="crefe"><a href="/hans/有偿">有偿</a></span><span class="crefe"><a href="/hans/有成">有成</a></span><span class="crefe"><a href="/hans/有翅难飞">有翅难飞</a></span><span class="crefe"><a href="/hans/有待">有待</a></span><span class="crefe"><a href="/hans/有道">有道</a></span><span class="crefe"><a href="/hans/有道之士">有道之士</a></span><span class="crefe"><a href="/hans/有德者">有德者</a></span><span class="crefe"><a href="/hans/有的是">有的是</a></span><span class="crefe"><a href="/hans/有底">有底</a></span><span class="crefe"><a href="/hans/有的放矢">有的放矢</a></span><span class="crefe"><a href="/hans/有方">有方</a></span><span class="crefe"><a href="/hans/有福同享，有难同当">有福同享，有难同当</a></span><span class="crefe"><a href="/hans/有根">有根</a></span><span class="crefe"><a href="/hans/有骨头">有骨头</a></span><span class="crefe"><a href="/hans/有关">有关</a></span><span class="crefe"><a href="/hans/有光纸">有光纸</a></span><span class="crefe"><a href="/hans/有轨电车">有轨电车</a></span><span class="crefe"><a href="/hans/有国有家者">有国有家者</a></span><span class="crefe"><a href="/hans/有害">有害</a></span><span class="crefe"><a href="/hans/有恒">有恒</a></span><span class="crefe"><a href="/hans/有悔">有悔</a></span><span class="crefe"><a href="/hans/有奇">有奇</a></span><span class="crefe"><a href="/hans/有机">有机</a></span><span class="crefe"><a href="/hans/有机玻璃">有机玻璃</a></span><span class="crefe"><a href="/hans/有机合成">有机合成</a></span><span class="crefe"><a href="/hans/有机化学">有机化学</a></span><span class="crefe"><a href="/hans/有机可乘">有机可乘</a></span><span class="crefe"><a href="/hans/有机酸">有机酸</a></span><span class="crefe"><a href="/hans/有机体">有机体</a></span><span class="crefe"><a href="/hans/有机物">有机物</a></span><span class="crefe"><a href="/hans/有机质">有机质</a></span><span class="crefe"><a href="/hans/有及">有及</a></span><span class="crefe"><a href="/hans/有几分">有几分</a></span><span class="crefe"><a href="/hans/有奸">有奸</a></span><span class="crefe"><a href="/hans/有间">有间</a></span><span class="crefe"><a href="/hans/有教无类">有教无类</a></span><span class="crefe"><a href="/hans/有劲">有劲</a></span><span class="crefe"><a href="/hans/有旧">有旧</a></span><span class="crefe"><a href="/hans/有救">有救</a></span><span class="crefe"><a href="/hans/有口皆碑">有口皆碑</a></span><span class="crefe"><a href="/hans/有口无心">有口无心</a></span><span class="crefe"><a href="/hans/有赖">有赖</a></span><span class="crefe"><a href="/hans/有劳">有劳</a></span><span class="crefe"><a href="/hans/有理">有理</a></span><span class="crefe"><a href="/hans/有理方程">有理方程</a></span><span class="crefe"><a href="/hans/有理分式">有理分式</a></span><span class="crefe"><a href="/hans/有理函数">有理函数</a></span><span class="crefe"><a href="/hans/有理式">有理式</a></span><span class="crefe"><a href="/hans/有理数">有理数</a></span><span class="crefe"><a href="/hans/有力">有力</a></span><span class="crefe"><a href="/hans/有利">有利</a></span><span class="crefe"><a href="/hans/有利">有利</a></span><span class="crefe"><a href="/hans/有两下子">有两下子</a></span><span class="crefe"><a href="/hans/有门">有门</a></span><span class="crefe"><a href="/hans/有苗">有苗</a></span><span class="crefe"><a href="/hans/有名">有名</a></span><span class="crefe"><a href="/hans/有名无实">有名无实</a></span><span class="crefe"><a href="/hans/有目共睹">有目共睹</a></span><span class="crefe"><a href="/hans/有奶便是娘">有奶便是娘</a></span><span class="crefe"><a href="/hans/有年">有年</a></span><span class="crefe"><a href="/hans/有盼儿">有盼儿</a></span><span class="crefe"><a href="/hans/有气">有气</a></span><span class="crefe"><a href="/hans/有气无力">有气无力</a></span><span class="crefe"><a href="/hans/有钱">有钱</a></span><span class="crefe"><a href="/hans/有钱能使鬼推磨">有钱能使鬼推磨</a></span><span class="crefe"><a href="/hans/有钱有势">有钱有势</a></span><span class="crefe"><a href="/hans/有情">有情</a></span><span class="crefe"><a href="/hans/有请">有请</a></span><span class="crefe"><a href="/hans/有顷">有顷</a></span><span class="crefe"><a href="/hans/有求必应">有求必应</a></span><span class="crefe"><a href="/hans/有趣">有趣</a></span><span class="crefe"><a href="/hans/有人家儿">有人家儿</a></span><span class="crefe"><a href="/hans/有日子">有日子</a></span><span class="crefe"><a href="/hans/有色金属">有色金属</a></span><span class="crefe"><a href="/hans/有色人种">有色人种</a></span><span class="crefe"><a href="/hans/有身">有身</a></span><span class="crefe"><a href="/hans/有神论">有神论</a></span><span class="crefe"><a href="/hans/有生">有生</a></span><span class="crefe"><a href="/hans/有生力量">有生力量</a></span><span class="crefe"><a href="/hans/有声有色">有声有色</a></span><span class="crefe"><a href="/hans/有始无终">有始无终</a></span><span class="crefe"><a href="/hans/有始有终">有始有终</a></span><span class="crefe"><a href="/hans/有恃无恐">有恃无恐</a></span><span class="crefe"><a href="/hans/有事">有事</a></span><span class="crefe"><a href="/hans/有数">有数</a></span><span class="crefe"><a href="/hans/有数">有数</a></span><span class="crefe"><a href="/hans/有司">有司</a></span><span class="crefe"><a href="/hans/有所益">有所益</a></span><span class="crefe"><a href="/hans/有蹄类">有蹄类</a></span><span class="crefe"><a href="/hans/有条不紊">有条不紊</a></span><span class="crefe"><a href="/hans/有头无尾">有头无尾</a></span><span class="crefe"><a href="/hans/有头有尾">有头有尾</a></span><span class="crefe"><a href="/hans/有望">有望</a></span><span class="crefe"><a href="/hans/有为">有为</a></span><span class="crefe"><a href="/hans/有味">有味</a></span><span class="crefe"><a href="/hans/有&hellip;无&hellip;">有&hellip;无&hellip;</a></span><span class="crefe"><a href="/hans/有喜">有喜</a></span><span class="crefe"><a href="/hans/有戏">有戏</a></span><span class="crefe"><a href="/hans/有隙可乘">有隙可乘</a></span><span class="crefe"><a href="/hans/有限">有限</a></span><span class="crefe"><a href="/hans/有效">有效</a></span><span class="crefe"><a href="/hans/有些">有些</a></span><span class="crefe"><a href="/hans/有心">有心</a></span><span class="crefe"><a href="/hans/有心力">有心力</a></span><span class="crefe"><a href="/hans/有心人">有心人</a></span><span class="crefe"><a href="/hans/有形">有形</a></span><span class="crefe"><a href="/hans/有幸">有幸</a></span><span class="crefe"><a href="/hans/有序">有序</a></span><span class="crefe"><a href="/hans/有血有肉">有血有肉</a></span><span class="crefe"><a href="/hans/有言在先">有言在先</a></span><span class="crefe"><a href="/hans/有眼不识泰山">有眼不识泰山</a></span><span class="crefe"><a href="/hans/有要于时">有要于时</a></span><span class="crefe"><a href="/hans/有一搭没一搭">有一搭没一搭</a></span><span class="crefe"><a href="/hans/有一得一">有一得一</a></span><span class="crefe"><a href="/hans/有一手儿">有一手儿</a></span><span class="crefe"><a href="/hans/有益">有益</a></span><span class="crefe"><a href="/hans/有意">有意</a></span><span class="crefe"><a href="/hans/有意思">有意思</a></span><span class="crefe"><a href="/hans/有勇无谋">有勇无谋</a></span><span class="crefe"><a href="/hans/有用">有用</a></span><span class="crefe"><a href="/hans/有&hellip;有&hellip;">有&hellip;有&hellip;</a></span><span class="crefe"><a href="/hans/有余">有余</a></span><span class="crefe"><a href="/hans/有缘">有缘</a></span><span class="crefe"><a href="/hans/有朝一日">有朝一日</a></span><span class="crefe"><a href="/hans/有志者事竟成">有志者事竟成</a></span><span class="crefe"><a href="/hans/有种">有种</a></span><span class="crefe"><a href="/hans/有嘴没舌">有嘴没舌</a></span><span class="crefe"><a href="/hans/有嘴无心">有嘴无心</a></span><span class="crefe"><a href="/hans/有子存焉">有子存焉</a></span><span class="crefe"><a href="/hans/有作其芒">有作其芒</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>有</strong> <span class="dicpy">y&ograve;u</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&ograve;u.mp3"></a></span> </p>
+<p><span class="cino">(1)</span> 通&ldquo;又&rdquo; <span class="encs">[same as &ldquo;又&rdquo;]</span></p>
+<p><span class="diczx1">割地朝者三十有六国。&mdash;&mdash;<span class="smcs">《韩非子&middot;五蠹》</span></span></p>
+<p><span class="diczx1">序八州而朝同列，百有余年矣。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx1">亡国之恨顿生，檀板之声无色，有非莫生之言可尽言者矣。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《柳敬亭传》</span></p>
+<p><span class="diczx1">对联、题名并篆文，为字共三十有四。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">张潮</span><span class="smcs">《虞初新志&middot;魏学&middot;核舟记》</span></p>
+<p><span class="diczx1">以八月十三日斩于市，春秋三十有三。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">yǒu</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǒu.mp3"></a></span> </p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>有</rb></rbc><rtc><rt>ㄧㄡˇ</rt></rtc><rtc><rt>yǒu <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6046.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表事實、狀況的正面存在，與「無」相對。</span><span class="gc_lz">如：「<b>有</b>困難」、「有利<b>有</b>弊」、「<b>有</b>學問」、「有錢」、「擁<b>有</b>」、「面<b>有</b>飢色」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">豐足、富裕。</span><span class="gc_lz">如：「他是個非常富<b>有</b>的人。」</span><span class="gc_yy">《詩經&middot;大雅&middot;公劉》：「止基迺理，爰眾爰<b>有</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">多，表示時間久或年齡大。</span><span class="gc_lz">如：「本店開設有年。」、「母親已有了年紀。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">故意。</span><span class="gc_lz">如：「有心犯錯應嚴懲，無心疏忽可原諒。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">綴</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">置於名詞前，作音節的襯字。</span><span class="gc_lz">如：「有夏」、「<b>有</b>清」。</span><span class="gc_yy">《韓非子&middot;五蠹》：「當舜之時，<b>有</b>苗不服，禹將伐之。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">代</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">某，表示不確定。</span><span class="gc_lz">如：「<b>有</b>一天晚上」、「有人說你做人很講義氣。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如漢代有有祿。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>有</rb></rbc><rtc><rt>ㄧㄡˋ</rt></rtc><rtc><rt>y&ograve;u <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6057.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表示重複、反複、連續。</span><span class="gc_yy">唐&middot;裴守真〈請重耕織表〉：「奸偽由此而生，黎庶緣斯而苦，此<b>有</b>國之大患也。」</span><span class="gc_yx">通「又」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">連</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">用於整數與餘數之間，表示數目的附加。</span><span class="gc_lz">如：「七十<b>有</b>七人」。</span><span class="gc_yy">《論語&middot;為政》：「吾十<b>有</b>五而志於學，三十而立。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6709_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=月" target="_blank">月</a>】
+                              有·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：2</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=月" target="_blank">月</a>】
+                              有·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：2</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6709.svg">						  <p>〔古文〕【唐韻】云久切【集韻】【韻會】【正韻】云九切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音友。【說文】不宜有也。《春秋傳》曰：日月有食之。从月又聲。【九經字樣】有，从月。从冃，譌。</p>
+<p>又【玉篇】不無也。【易&middot;大有疏】能大所有。</p>
+<p>又【繫辭】富有之謂大業。</p>
+<p>又【詩&middot;商頌】奄有九有。【傳】九有，九州也。</p>
+<p>又【左傳&middot;桓三年】有年。【註】五穀皆熟書有年。</p>
+<p>又【玉篇】果也，得也，取也，質也，寀也。</p>
+<p>又姓。【論語】有子。【註】孔子弟子有若。</p>
+<p>又【集韻】尤救切。與又通。【書&middot;堯典】朞三百有六旬有六日。【詩&middot;邶風】不日有曀。【註】有，又也。</p>
+<p>又【韻補】叶羽軌切。【前漢&middot;敘傳】文豔用寡，子虛烏有。寄言淫麗，託風終始。</p>
+<p>又叶演女切。【徐幹&middot;齊都賦】主人盛饗，期盡所有。三酒旣醇，五齊惟醹。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6709_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=有">有</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=有">有</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6709.svg">                          <p>不宜有也。《春秋傳》曰：&ldquo;日月有食之。&rdquo;从月又聲。凡有之屬皆从有。云九切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6709_2621.svg" /><span class="swbf">(有)</span><span class="ywyy">不宜有也。</span><span class="swdz">謂本是不當有而有之偁，引伸遂爲凡有之偁。凡春秋書有者，皆有字之本義也。</span><span class="ywyy">春秋傳曰：日月有食之。从月，</span><span class="swdz">日下之月，衍字也。此引經釋不宜有之恉，亦卽釋从月之意也。日不當見食也，而有食之者，孰食之，月食之也。月食之，故字从月。公羊傳注曰：不言月食之者，其形不可得而覩也，故疑言曰有食之。引孔子曰：多聞闕疑，愼言其餘，則寡尤。</span><span class="ywyy">又聲。</span><span class="swdz">云九切。古音在一部。古多叚有爲又字。</span><span class="ywyy">凡有之屬皆从有。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6709_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  jou˨˩˦; jou˥˧ <span class="z_ts4">唐代读音</span>  *hiǒu<span class="z_ts4">日语读音</span>  ARU MOTSU TAMOTSU<span class="z_ts4">韩语罗马</span>  YU<span class="z_ts4">现代韩语</span>  유<span class="z_ts3">越南语</span>  hữu</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] ju1 [海陆腔] riu1 riu3 [客英字典] ju3 ju1 jiu2 [沙头角腔] jeu1 [台湾四县腔] ju1 ju3 [东莞腔] jiu1 [宝安腔] ju1 jiu1 | ju3 jiu3 [客语拼音字汇] yiu1 yiu4 [陆丰腔] jiu1  [客英字典] ju5<span class="z_ts2">粤语</span>  jau5 jau6</p>						<p><span class="z_ts3">近代音</span>  影母    尤侯韻    上聲    有小空；<span class="z_ts3">中古音</span>  喻云母    有韻    上聲    有小韻    云久切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：匣母    咍部   ；王力系统：匣母    之部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/有">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/有">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/有">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/有">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/有">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/有">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/有">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/有">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/有">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/有">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/有">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/有">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">有</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/有"><img data-original="//img.zdic.net/zy/jiaguwen/42_EED0.svg" class="lazy ypic"><span>「㞢」 甲1222</span><span>合16951</span></a></td><td><a href="/zd/zx/jw/有"><img data-original="//img.zdic.net/zy/jinwen/32_F08D.svg" class="lazy ypic"><span>「有」 索諆爵</span><span>西周早期</span><span>集成9091</span></a></td><td><a href="/zd/zx/cx/有"><img data-original="//img.zdic.net/zy/chuwenzi/52_EE77.svg" class="lazy ypic"><span>「有」 包2.123</span></a></td><td><a href="/zd/zx/xz/有"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6709.svg" class="lazy ypic"><span>「有」 說文‧有部</span></a></td><td><a href="/zd/zx/qx/有"><img data-original="//img.zdic.net/zy/qinwenzi/71_E730.svg" class="lazy ypic"><span>「有」 睡.秦185</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/有" target="_blank"><img data-original="//img.zdic.net/kai/tw/6709.svg" class="lazy ypic"><span>「有」</span></a></td></tr><tr><td><a href="/zd/zx/jg/有"><img data-original="//img.zdic.net/zy/jiaguwen/42_EECC.svg" class="lazy ypic"><span>「又」 粹13</span><span>合30391</span></a></td><td><a href="/zd/zx/jw/有"><img data-original="//img.zdic.net/zy/jinwen/32_F092.svg" class="lazy ypic"><span>「有」 令鼎</span><span>西周早期</span><span>集成2803</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/有"><img data-original="//img.zdic.net/zy/jinwen/32_F0A3.svg" class="lazy ypic"><span>「有」 南宮柳鼎</span><span>西周晚期</span><span>集成2805</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/有">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/有">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/有">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/有">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/有">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/有">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6709.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6709.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6709.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6709.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/6709.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𢇔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/221D4.svg'><span>𢇔</span></a></div> <div class='zx'><a href='/hans/洧' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6D27.svg'><span>洧</span></a></div> <div class='zx'><a href='/hans/𠂇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20087.svg'><span>𠂇</span></a></div> <div class='zx'><a href='/hans/𪠥' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2A825.svg'><span>𪠥</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6410" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7578">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/友">友(you3)</a></li><li><a href="/hans/蜏">蜏(you3)</a></li><li><a href="/hans/㕛">㕛(you3)</a></li><li><a href="/hans/羑">羑(you3)</a></li><li><a href="/hans/禉">禉(you3)</a></li><li><a href="/hans/䅎">䅎(you3)</a></li><li><a href="/hans/㮋">㮋(you3)</a></li><li><a href="/hans/梄">梄(you3)</a></li><li><a href="/hans/莠">莠(you3)</a></li><li><a href="/hans/牖">牖(you3)</a></li><li><a href="/hans/黝">黝(you3)</a></li><li><a href="/hans/铕">铕(you3)</a></li><li><a href="/hans/梎">梎(you4)</a></li><li><a href="/hans/痏">痏(you4)</a></li><li><a href="/hans/亴">亴(you4)</a></li><li><a href="/hans/牰">牰(you4)</a></li><li><a href="/hans/侑">侑(you4)</a></li><li><a href="/hans/宥">宥(you4)</a></li><li><a href="/hans/狖">狖(you4)</a></li><li><a href="/hans/孧">孧(you4)</a></li><li><a href="/hans/祐">祐(you4)</a></li><li><a href="/hans/又">又(you4)</a></li><li><a href="/hans/佦">佦(you4)</a></li><li><a href="/hans/㹨">㹨(you4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/臉">臉</a></li><li><a href="/hans/肖">肖</a></li><li><a href="/hans/膸">膸</a></li><li><a href="/hans/䐲">䐲</a></li><li><a href="/hans/䏖">䏖</a></li><li><a href="/hans/胖">胖</a></li><li><a href="/hans/膨">膨</a></li><li><a href="/hans/臒">臒</a></li><li><a href="/hans/膢">膢</a></li><li><a href="/hans/䐅">䐅</a></li><li><a href="/hans/腥">腥</a></li><li><a href="/hans/䐓">䐓</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/在">在</a></li><li><a href="/hans/场">场</a></li><li><a href="/hans/氘">氘</a></li><li><a href="/hans/㞯">㞯</a></li><li><a href="/hans/犳">犳</a></li><li><a href="/hans/㚣">㚣</a></li><li><a href="/hans/齐">齐</a></li><li><a href="/hans/牝">牝</a></li><li><a href="/hans/𠆻">𠆻</a></li><li><a href="/hans/𠄧">𠄧</a></li><li><a href="/hans/㕧">㕧</a></li><li><a href="/hans/厾">厾</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">远看山<span>有</span>色，近听水无声。</div><div class="gscdr">唐·王维 《画》</div><div class="gscdl">小荷才露尖尖角，早<span>有</span>蜻蜓立上头。</div><div class="gscdr">宋·杨万里 《小池》</div><div class="gscdl">遥知不是雪，为<span>有</span>暗香来。</div><div class="gscdr">宋·王安石 《梅花》</div><div class="gscdl">远上寒山石径斜，白云生处<span>有</span>人家。</div><div class="gscdr">唐·杜牧 《山行》</div><div class="gscdl">荷尽已无擎雨盖，菊残犹<span>有</span>傲霜枝。</div><div class="gscdr">宋·苏轼 《赠刘景文》</div><div class="gscdl">知<span>有</span>儿童挑促织，夜深篱落一灯明。</div><div class="gscdr">宋·叶绍翁 《夜书所见》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">子曰：“学而时习之，不亦说乎？<span>有</span>朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《学而》子曰：“吾十<span>有</span>五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《述而》子曰：“三人行，必<span>有</span>我师焉。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">一屠晚归，担中肉尽，止<span>有</span>剩骨。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">顾野<span>有</span>麦场，场主积薪其中，苫蔽成丘。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">杞人<span>有</span>忧天地崩坠，身亡所寄，废寝食者。</div><div class="gscdr">《列子》《杞人忧天》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6410"></script>
+</body>
+</html>

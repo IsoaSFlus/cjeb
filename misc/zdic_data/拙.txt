@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>拙的解释|拙的意思|汉典“拙”字的基本解释</title>
+<meta name="title" content="拙的解释|拙的意思|汉典“拙”字的基本解释">
+<meta property="og:title" content="“拙”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“拙”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“拙”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/拙" />
+<link rel="canonical" href="//www.zdic.net/hans/拙" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/拙" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/拙" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/拙" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/拙">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/拙">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/62D9.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/62D9.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhuō<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuō.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄨㄛ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄛ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">  扌</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_ytz2"><a href='/hans/䂐' target=_blank>䂐</a>  <a href='/hans/𢼍' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22F0D.svg'><span class='ytz_txt'>𢼍</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+62D9</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>12152252</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>rbmh</p></td>                            <td class="dsk_2_1"><p>quu</p></td>                            <td class="dsk_2_1"><p>dzzi</p></td>                            <td class="dsk_2_1"><p>52072</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhuō<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuō.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄨㄛ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄛ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">扌</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">统一码</span> 62D9<span class="z_ts2">笔顺</span> 12152252                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="62D9_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=5338" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>拙</strong></p><p><span class="dicpy">zhuō  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuō.mp3"></a></span>  ㄓㄨㄛˉ</span></p><ol><li>笨，不灵巧：笨～。弄巧成～。～劣。</li><li>谦辞，称自己的：～作。～见。～笔。～著。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> stupid, clumsy, crude; convention</p><p><span class="z_ts2">法语</span> maladroit,gauche</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>拙</strong> <span class="dicpy">zhuō</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuō.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> (形声。从手，出声。本义:笨拙，不灵活)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[clumsy;awkward]</span></p><p><span class="diczx1">拙，不巧也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">拙，钝也。——<span class="smcs">《广雅》</span></span></p><p><span class="diczx1">不利于人谓之拙。——<span class="smcs">《墨子·贵义》</span></span></p><p><span class="diczx1">予亦拙谋。——<span class="smcs">《书·盘庚》</span></span></p><p><span class="diczx1">理弱而媒拙兮。——<span class="smcs">《离骚》</span></span></p><p><span class="diczx1">大直若屈，大巧若拙，大辩若讷。——<span class="smcs">《老子》</span>四十五章</span></p><p><span class="diczx1">每动作而受嗤，言发口而违理者，拙人也。——<span class="smcs">《抱朴子》</span></span></p><p><span class="diczx1">拙者不足。——<span class="smcs">《史记·货殖列传》</span></span></p><p><span class="diczx1">理弱而媒兮，恐导言之不固。——<span class="smcs">《楚辞·离骚》</span></span></p><p><span class="diczx2">汉</span>家青史上，计拙是和亲。—— <span class="diczx2">唐</span>· <span class="diczx2">戎昱</span><span class="smcs">《咏史》</span></p><p><span class="diczx1">姐妹们虽拙，大家一处作伴，也可解些烦闷。——<span class="smcs">《红楼梦》</span></span></p><p><span class="cino">(3)</span> 又如:性拙(生性笨拙);拙行(外行;不在行);拙诚(笨拙而真诚);拙鸠(相传鸠鸟性笨拙，不善营巢，常占据他鸟的巢而栖息);拙薄(拙劣浅薄);拙守(安于愚拙，不取巧)</p><p><span class="cino">(4)</span> 我的 <span class="encs">[my]</span>。自谦之辞</p><p><span class="diczx1">拙妻好乘鸾，娇女爱飞鹤。——</span><span class="diczx2">李白</span><span class="smcs">《题嵩山逸人元丹邱山居》</span></p><p><span class="diczx1">这妇人便插口道:<span class="yhcs">“这个叔叔，便是拙夫新认识的兄弟。”</span>——<span class="smcs">《水浒全传》</span></span></p><p><span class="cino">(5)</span> 又如:拙子(对人称自己的儿子);拙分(谦称自己的名分、职分);拙作(称自己作品的谦词);拙室(拙妇。称自己妻子的谦词);拙恶(谦称自己的作品)</p><p><span class="cino">(6)</span> 粗劣 <span class="encs">[coarse]</span></p><p><span class="diczx1">黄金即为侈，白石又太拙。——</span><span class="diczx2">陆龟蒙</span><span class="smcs">《酒樽》</span></p><p><span class="cino">(7)</span> 又如:拙易(粗陋肤浅);拙野(粗糙);拙率(粗率);拙浅(粗浅，浅陋);拙恶(粗劣)</p><p><span class="cino">(8)</span> 粗俗 <span class="encs">[vulgar]</span>。如:拙夫(粗俗的男人，或指粗俗的丈夫);拙俗(粗俗)</p><p><span class="cino">(9)</span> 短浅 <span class="encs">[narrow and shallow]</span>。如:拙智(短见);拙目(眼光短浅的人);拙眼(眼光短浅的人)</p><p><span class="cino">(10)</span> 倒霉 <span class="encs">[evil]</span></p><p><span class="diczx1">缅思桃源内，益叹身世拙。——</span><span class="diczx2">杜甫</span><span class="smcs">《北征》</span></p><p><span class="diczx1">中了一个甚么举人，就得了这个拙病。——<span class="smcs">《儒林外史》</span></span></p><p><span class="cino">(11)</span> 又如:运拙(命运不济;命该倒霉)</p><p><span class="cino">(12)</span> 质朴无华 <span class="encs">[simple]</span></p><p><span class="diczx1">巧诈不如拙诚。——<span class="smcs">《韩非子》</span></span></p><p><span class="cino">(13)</span> 又如:拙木(质朴);拙句(自然质朴的诗句)</p><p><strong>词性变化</strong></p><p>◎ <strong>拙</strong> <span class="dicpy">zhuō</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuō.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 不善于 <span class="encs">[not good at]</span></p><p><span class="diczx1">拙讷谢浮名。——</span><span class="diczx2">谢灵运</span><span class="smcs">《初去郡》</span></p><p><span class="cino">(2)</span> 又如:拙生(拙于生计，不善谋生);拙政(拙于为政。亦用为谦词);拙宦(不善于为官，仕途不顺。多用以自谦);拙讷(才疏口拙，不善应对)</p><p><span class="cino">(3)</span> 穷尽;用尽 <span class="encs">[exhaust]</span></p><p><span class="diczx1">计拙无衣食，途穷仗友生。——</span><span class="diczx2">杜甫</span><span class="smcs">《客夜》</span></p><p><span class="cino">(4)</span> 屈抑;粗暴对待 <span class="encs">[rude]</span></p><p><span class="diczx1">径省其说，则以为不智而拙之。——<span class="smcs">《韩非子》</span></span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/拙笨">拙笨</a></span><span class="crefe"><a href="/hans/拙笔">拙笔</a></span><span class="crefe"><a href="/hans/拙稿">拙稿</a></span><span class="crefe"><a href="/hans/拙见">拙见</a></span><span class="crefe"><a href="/hans/拙荆">拙荆</a></span><span class="crefe"><a href="/hans/拙劣">拙劣</a></span><span class="crefe"><a href="/hans/拙朴">拙朴</a></span><span class="crefe"><a href="/hans/拙涩">拙涩</a></span><span class="crefe"><a href="/hans/拙直">拙直</a></span><span class="crefe"><a href="/hans/拙著">拙著</a></span><span class="crefe"><a href="/hans/拙嘴笨舌">拙嘴笨舌</a></span><span class="crefe"><a href="/hans/拙作">拙作</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>拙</rb></rbc><rtc><rt>ㄓㄨㄛˊ</rt></rtc><rtc><rt>zhuó <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4549.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">形</span><ol><li><p class="def"><span class="gc_sy">愚笨、不灵活。</span><span class="gc_lz">如：「笨<b>拙</b>」、「手<b>拙</b>」、「弄巧成<b>拙</b>」。</span></p></li><li><p class="def"><span class="gc_sy">谦称自己的。</span><span class="gc_lz">如：「拙见」、「拙作」、「拙计」。</span></p></li><li><p class="def"><span class="gc_sy">古朴的、未加修饰的。</span><span class="gc_lz">如：「古<b>拙</b>」、「朴<b>拙</b>」。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="62D9_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=手" target="_blank">手</a>】
+                              拙·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=手" target="_blank">手</a>】
+                              拙·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/62D9.svg">						  <p>〔古文〕䂐【唐韻】職悅切。【集韻】【韻會】【正韻】朱劣切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音梲。讀若專入聲。【說文】不巧也。【書·周官】作僞心勞日拙。【老子·道德經】大巧若拙。【戰國策】敎人而不能，則謂之拙。</p><p>又【釋名】屈也。使物否屈，不爲用也。【史記·范睢傳】楚之鐵劒利，而倡優拙。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="62D9_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=手">手</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=手">手</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/62D9.svg">                          <p>不巧也。从手出聲。職說切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/62D9_2210.svg"  /><span class="swbf">(拙)</span><span class="ywyy">不巧也。</span><span class="swdz">不能爲技巧也。</span><span class="ywyy">从手。出聲。</span><span class="swdz">職說切。十五部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="62D9_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂuo˥ <span class="z_ts4">唐代读音</span>  *jiuɛt<span class="z_ts4">日语读音</span>  TSUTANAI<span class="z_ts4">韩语罗马</span>  COL<span class="z_ts4">现代韩语</span>  졸<span class="z_ts3">越南语</span>  chút</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] zhot7 [台湾四县腔] zot7 [客语拼音字汇] dod5 dog6 zod5 [海陆腔] chot7 [东莞腔] cut7 [宝安腔] zot7 [客英字典] chot7<span class="z_ts2">粤语</span>  zyut3 zyut6</p>						<p><span class="z_ts3">近代音</span>  照母    車遮韻    入聲作上聲    拙小空；<span class="z_ts3">中古音</span>  照章母    薛韻    入聲    拙小韻    職恱切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：端母    沒部   ；王力系统：章母    物部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/拙">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/拙">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/拙">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/拙">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/拙">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/拙">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/拙">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/拙">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/拙">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/拙">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/拙">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">拙</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/拙"><img data-original="//img.zdic.net/zy/xiaozhuan/27_62D9.svg" class="lazy ypic"><span>「拙」 說文‧手部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/拙" target="_blank"><img data-original="//img.zdic.net/kai/tw/62D9.svg" class="lazy ypic"><span>「拙」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/拙">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/拙">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/62D9.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/62D9.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/62D9.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/62D9.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/62D9.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/䂐' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4090.svg'><span>䂐</span></a></div> <div class='zx'><a href='/hans/𢼍' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/22F0D.svg'><span>𢼍</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="5338" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7936">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䖦">䖦(zhuo1)</a></li><li><a href="/hans/穱">穱(zhuo1)</a></li><li><a href="/hans/槕">槕(zhuo1)</a></li><li><a href="/hans/䪼">䪼(zhuo1)</a></li><li><a href="/hans/捉">捉(zhuo1)</a></li><li><a href="/hans/棹">棹(zhuo1)</a></li><li><a href="/hans/倬">倬(zhuo1)</a></li><li><a href="/hans/淖">淖(zhuo1)</a></li><li><a href="/hans/桌">桌(zhuo1)</a></li><li><a href="/hans/棁">棁(zhuo1)</a></li><li><a href="/hans/涿">涿(zhuo1)</a></li><li><a href="/hans/炪">炪(zhuo1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/揺">揺</a></li><li><a href="/hans/擡">擡</a></li><li><a href="/hans/攪">攪</a></li><li><a href="/hans/揬">揬</a></li><li><a href="/hans/搏">搏</a></li><li><a href="/hans/挾">挾</a></li><li><a href="/hans/㩠">㩠</a></li><li><a href="/hans/揣">揣</a></li><li><a href="/hans/捥">捥</a></li><li><a href="/hans/拨">拨</a></li><li><a href="/hans/㨉">㨉</a></li><li><a href="/hans/㨮">㨮</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/哎">哎</a></li><li><a href="/hans/玤">玤</a></li><li><a href="/hans/侔">侔</a></li><li><a href="/hans/坵">坵</a></li><li><a href="/hans/㣙">㣙</a></li><li><a href="/hans/板">板</a></li><li><a href="/hans/肥">肥</a></li><li><a href="/hans/岽">岽</a></li><li><a href="/hans/䏓">䏓</a></li><li><a href="/hans/怊">怊</a></li><li><a href="/hans/㑑">㑑</a></li><li><a href="/hans/届">届</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=5338"></script>
+</body>
+</html>

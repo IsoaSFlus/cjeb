@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>同的解释|同的意思|汉典“同”字的基本解释</title>
+<meta name="title" content="同的解释|同的意思|汉典“同”字的基本解释">
+<meta property="og:title" content="“同”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“同”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“同”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/同" />
+<link rel="canonical" href="//www.zdic.net/hans/同" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/同" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/同" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/同" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/同">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/同">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/540C.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/540C.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">tóng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span></span></p><p><span class="z_d song">tòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/tòng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄊㄨㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄊㄨㄥˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄊㄨㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄊㄨㄥˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=口" target="_blank">  口</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/衕' target=_blank>衕</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/仝' target=_blank>仝</a>  <a href='/hans/詷' target=_blank>詷</a>  <a href='/hans/𧇌' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/271CC.svg'><span class='ytz_txt'>𧇌</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+540C</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>251251</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>mgkd</p></td>                            <td class="dsk_2_1"><p>bmr</p></td>                            <td class="dsk_2_1"><p>ld</p></td>                            <td class="dsk_2_1"><p>77220</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">tóng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span></span> <span class="z_d song">tòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/tòng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄊㄨㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄊㄨㄥˊ.mp3"></a></span></span> <span class="z_d song">ㄊㄨㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“同”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄊㄨㄥˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=口" target="_blank">口</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">统一码</span> 540C<span class="z_ts2">笔顺</span> 251251                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="540C_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1549" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>同</strong></p><p><span class="dicpy">tóng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> ㄊㄨㄥˊ</span></p><ol>    <li>一样，没有差异；相～。～一（ａ．一致，统一；ｂ．共同的一个或一种）。～侪（同辈）。～庚（同岁）。～年。～胞。～人（ａ．在同一单位工作的人；ｂ．同行业的人）。～仁（同人）。～仇敌忾。～工异曲。～室操戈。情～手足。</li>    <li>共，在一起（从事）：共～。～学。～步。殊途～归。～舟共济。</li>    <li>和，跟：～流合污。</li>    <li>姓。</li></ol><p><strong>其它字义</strong></p><hr class="dichr" /><p>● <strong>同</strong></p><p><span class="dicpy">tòng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tòng.mp3"></a></span> ㄊㄨㄥˋ</span></p><ol>    <p>　◎ 〔胡～〕见“<span class="diczx3">胡</span>”。</p></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> same, similar; together with</p><p><span class="z_ts2">德语</span> ähnlich  (Adj)​,gleich, wie ,zusammen mit</p><p><span class="z_ts2">法语</span> avec,pareil,identique,similaire,ensemble,conjointement</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>同</strong> <span class="dicpy">tóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (会意。从冃，从口。冃( <span class="dicpy">mào</span>)，重复。本义:聚集)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[converge]</span></p><p><span class="diczx1">同，合会也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">同重体合类。——<span class="smcs">《墨子·经上》</span></span></p><p><span class="diczx1">同人亲也。——<span class="smcs">《易·杂卦》</span></span></p><p><span class="diczx1">六曰同衣服。——<span class="smcs">《周礼·大司徒》</span></span></p><p><span class="cino">(3)</span> 又如:云同(云彩聚集);同天(共存于人世间);同合(使相一致;融会);同流(诸水合流)</p><p><span class="cino">(4)</span> 相同，一样，共同(侧重于同样，齐一) <span class="encs">[be the same as]</span></p><p><span class="diczx1">同事之人，不可不审察也。——<span class="smcs">《韩非子·说林上》</span></span></p><p><span class="diczx1">鸟兽不可与同群。——<span class="smcs">《论语·微子》</span></span></p><p><span class="diczx1">同予者何人。——</span><span class="diczx2">宋</span>· <span class="diczx2">周敦颐</span><span class="smcs">《爱莲说》</span></p><p><span class="diczx1">同于真耶。——</span><span class="diczx2">清</span>· <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p><p><span class="diczx1">同于幻耶。</span></p><p><span class="cino">(5)</span> 又如:同心戮力(同心合力);同功一体(功绩地位一样);同号(称号相同;运算符号相同);同忾(相同的愤慨);同义(仁义或道义相同);同义字(意义相同的字);同源字(音、义相同或相近)</p><p><span class="cino">(6)</span> 参与;一起干某事 <span class="encs">[participate in;share]</span></p><p><span class="diczx1">不知三军之事而同三军之政者，则军士惑矣。——<span class="smcs">《孙子·谋攻》</span></span></p><p><span class="cino">(7)</span> 又如:同举(一同举荐);同乐(一同娱乐);同栖(一同栖息);同休(同享福禄);同枕(共枕而卧);同利(共享利益);同车(同乘一车);同室(同居一室)</p><p><span class="cino">(8)</span> 共，共一个 <span class="encs">[in common]</span></p><p><span class="diczx1">上下同欲者胜。——<span class="smcs">《孙子·谋政》</span></span></p><p><span class="diczx1">俗之同病。——</span><span class="diczx2">清</span>· <span class="diczx2">刘开</span><span class="smcs">《问说》</span></p><p><span class="diczx1">同社诸君子。——</span><span class="diczx2">明</span>· <span class="diczx2">张溥</span><span class="smcs">《五人墓碑记》</span></p><p><span class="diczx1">以同姓为吾后。——</span><span class="diczx2">清</span>· <span class="diczx2">全祖望</span><span class="smcs">《梅花岭记》</span></p><p><span class="cino">(9)</span> 又如:同福(共同的福禄)</p><p><span class="cino">(10)</span> 齐一;统一 <span class="encs">[uniform;unified;unitary]</span></p><p><span class="diczx1">死去方知万事空，但悲不见九州同。——</span><span class="diczx2">宋</span>· <span class="diczx2">陆游</span><span class="smcs">《示儿》</span></p><p><strong>词性变化</strong></p><p>◎ <strong>同</strong> <span class="dicpy">tóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> </p><p>〈副〉</p><p><span class="cino">(1)</span> 共同。到一处<span class="encs">[together;jointly]</span></p><p><span class="diczx1">同行十二年。——<span class="smcs">《乐府诗集·木兰诗》</span></span></p><p><span class="diczx1">同是宦游人。——</span><span class="diczx2">唐</span>· <span class="diczx2">王勃</span><span class="smcs">《杜少府之任蜀州》</span></p><p><span class="diczx1">少同学。——</span><span class="diczx2">明</span>· <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p><p><span class="diczx1">既同寝。</span></p><p><span class="cino">(2)</span> 又如:同参(共同参与);同晷(同受日光照耀);同奖(共同辅助);同庆(共同庆贺);同进(一同前进);同举(一同举荐);同来同去;同吃同住;同宿;同游</p><p>◎ <strong>同</strong> <span class="dicpy">tóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> 中国古代诸侯朝见天子的六礼之一。每隔十二年，诸侯一齐来朝见天子叫<span class="yhcs">“同”</span> <span class="encs">[tong]</span></p><p><span class="diczx1">奠此中国，四夷来同。——</span><span class="diczx2">王安石</span><span class="smcs">《赠贾魏公神道碑》</span></p><p><span class="cino">(2)</span> 中国古代土地面积单位，地方百里为同 <span class="encs">[a unit of land measurement]</span></p><p><span class="diczx1">且昔天子之地一圻，列国一同。——<span class="smcs">《左传·襄公二十五年》</span></span></p><p><span class="cino">(3)</span> 中国古代爵一类的酒器 <span class="encs">[wine vessel]</span></p><p><span class="cino">(4)</span> 姓</p><p>◎ <strong>同</strong> <span class="dicpy">tóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> </p><p>〈介〉</p><p><span class="cino">(1)</span> 引进共同行动者 <span class="encs">[with]</span>。</p><p><span class="cino">(2)</span> 如:我同你去;我同她说话</p><p><span class="cino">(3)</span> 给，为 <span class="encs">[for]</span></p><p><span class="diczx1">合共还他三十六，还要同他做一年。——<span class="smcs">《中国歌谣资料》</span></span></p><p>◎ <strong>同</strong> <span class="dicpy">tóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> </p><p>〈连〉</p><p><span class="cino">(1)</span> 和，表示并列关系 <span class="encs">[and;with]</span>。</p><p><span class="cino">(2)</span> 如:我同农民;教师同塾师</p><p><span class="cino">(3)</span> 另见 <span class="dicpy">tòng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tòng.mp3"></a></span> </p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/同案">同案</a></span><span class="crefe"><a href="/hans/同案犯">同案犯</a></span><span class="crefe"><a href="/hans/同案分离">同案分离</a></span><span class="crefe"><a href="/hans/同班">同班</a></span><span class="crefe"><a href="/hans/同班">同班</a></span><span class="crefe"><a href="/hans/同班同学">同班同学</a></span><span class="crefe"><a href="/hans/同伴">同伴</a></span><span class="crefe"><a href="/hans/同胞">同胞</a></span><span class="crefe"><a href="/hans/同胞">同胞</a></span><span class="crefe"><a href="/hans/同辈">同辈</a></span><span class="crefe"><a href="/hans/同病">同病</a></span><span class="crefe"><a href="/hans/同病相怜">同病相怜</a></span><span class="crefe"><a href="/hans/同步">同步</a></span><span class="crefe"><a href="/hans/同侪">同侪</a></span><span class="crefe"><a href="/hans/同仇敌忾">同仇敌忾</a></span><span class="crefe"><a href="/hans/同窗">同窗</a></span><span class="crefe"><a href="/hans/同窗">同窗</a></span><span class="crefe"><a href="/hans/同床异梦，同床各梦">同床异梦，同床各梦</a></span><span class="crefe"><a href="/hans/同党">同党</a></span><span class="crefe"><a href="/hans/同道">同道</a></span><span class="crefe"><a href="/hans/同等">同等</a></span><span class="crefe"><a href="/hans/同等对待">同等对待</a></span><span class="crefe"><a href="/hans/同等学历">同等学历</a></span><span class="crefe"><a href="/hans/同调">同调</a></span><span class="crefe"><a href="/hans/同恶相济">同恶相济</a></span><span class="crefe"><a href="/hans/同犯">同犯</a></span><span class="crefe"><a href="/hans/同房">同房</a></span><span class="crefe"><a href="/hans/同甘共苦">同甘共苦</a></span><span class="crefe"><a href="/hans/同感">同感</a></span><span class="crefe"><a href="/hans/同根词">同根词</a></span><span class="crefe"><a href="/hans/同庚">同庚</a></span><span class="crefe"><a href="/hans/同工同酬">同工同酬</a></span><span class="crefe"><a href="/hans/同工异曲">同工异曲</a></span><span class="crefe"><a href="/hans/同归">同归</a></span><span class="crefe"><a href="/hans/同归殊途">同归殊途</a></span><span class="crefe"><a href="/hans/同归于尽">同归于尽</a></span><span class="crefe"><a href="/hans/同行">同行</a></span><span class="crefe"><a href="/hans/同好">同好</a></span><span class="crefe"><a href="/hans/同花">同花</a></span><span class="crefe"><a href="/hans/同伙，同夥">同伙，同夥</a></span><span class="crefe"><a href="/hans/同级">同级</a></span><span class="crefe"><a href="/hans/同居">同居</a></span><span class="crefe"><a href="/hans/同科">同科</a></span><span class="crefe"><a href="/hans/同乐">同乐</a></span><span class="crefe"><a href="/hans/同类">同类</a></span><span class="crefe"><a href="/hans/同僚">同僚</a></span><span class="crefe"><a href="/hans/同列">同列</a></span><span class="crefe"><a href="/hans/同龄">同龄</a></span><span class="crefe"><a href="/hans/同流合污">同流合污</a></span><span class="crefe"><a href="/hans/同路">同路</a></span><span class="crefe"><a href="/hans/同门">同门</a></span><span class="crefe"><a href="/hans/同盟">同盟</a></span><span class="crefe"><a href="/hans/同名">同名</a></span><span class="crefe"><a href="/hans/同名同姓">同名同姓</a></span><span class="crefe"><a href="/hans/同命">同命</a></span><span class="crefe"><a href="/hans/同命运共呼吸">同命运共呼吸</a></span><span class="crefe"><a href="/hans/同谋">同谋</a></span><span class="crefe"><a href="/hans/同年">同年</a></span><span class="crefe"><a href="/hans/同袍">同袍</a></span><span class="crefe"><a href="/hans/同期">同期</a></span><span class="crefe"><a href="/hans/同气">同气</a></span><span class="crefe"><a href="/hans/同气连枝">同气连枝</a></span><span class="crefe"><a href="/hans/同情">同情</a></span><span class="crefe"><a href="/hans/同情心">同情心</a></span><span class="crefe"><a href="/hans/同人">同人</a></span><span class="crefe"><a href="/hans/同上">同上</a></span><span class="crefe"><a href="/hans/同生共死">同生共死</a></span><span class="crefe"><a href="/hans/同声">同声</a></span><span class="crefe"><a href="/hans/同时">同时</a></span><span class="crefe"><a href="/hans/同室操戈">同室操戈</a></span><span class="crefe"><a href="/hans/同事">同事</a></span><span class="crefe"><a href="/hans/同事">同事</a></span><span class="crefe"><a href="/hans/同是天涯沦落人">同是天涯沦落人</a></span><span class="crefe"><a href="/hans/同岁">同岁</a></span><span class="crefe"><a href="/hans/同位素">同位素</a></span><span class="crefe"><a href="/hans/同位语，同位词">同位语，同位词</a></span><span class="crefe"><a href="/hans/同温层">同温层</a></span><span class="crefe"><a href="/hans/同喜">同喜</a></span><span class="crefe"><a href="/hans/同乡">同乡</a></span><span class="crefe"><a href="/hans/同心">同心</a></span><span class="crefe"><a href="/hans/同心并力">同心并力</a></span><span class="crefe"><a href="/hans/同心同德">同心同德</a></span><span class="crefe"><a href="/hans/同心协力">同心协力</a></span><span class="crefe"><a href="/hans/同行">同行</a></span><span class="crefe"><a href="/hans/同性">同性</a></span><span class="crefe"><a href="/hans/同性恋">同性恋</a></span><span class="crefe"><a href="/hans/同性恋恐怖">同性恋恐怖</a></span><span class="crefe"><a href="/hans/同姓">同姓</a></span><span class="crefe"><a href="/hans/同学">同学</a></span><span class="crefe"><a href="/hans/同样">同样</a></span><span class="crefe"><a href="/hans/同业">同业</a></span><span class="crefe"><a href="/hans/同一">同一</a></span><span class="crefe"><a href="/hans/同一">同一</a></span><span class="crefe"><a href="/hans/同意">同意</a></span><span class="crefe"><a href="/hans/同义词">同义词</a></span><span class="crefe"><a href="/hans/同音">同音</a></span><span class="crefe"><a href="/hans/同音词">同音词</a></span><span class="crefe"><a href="/hans/同寅">同寅</a></span><span class="crefe"><a href="/hans/同源">同源</a></span><span class="crefe"><a href="/hans/同志">同志</a></span><span class="crefe"><a href="/hans/同舟共济">同舟共济</a></span><span class="crefe"><a href="/hans/同宗">同宗</a></span><span class="crefe"><a href="/hans/同族">同族</a></span></div><p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>同</strong></p><p><span class="cino">(1)</span> 衕 <span class="dicpy">tòng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tòng.mp3"></a></span> </p><p><span class="cino">(2)</span> ——见<span class="yhcs">“胡同”</span> <span class="dicpy">hútòng</span></p><p><span class="cino">(3)</span> 另见 <span class="dicpy">tóng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/tóng.mp3"></a></span> </p>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>同</rb></rbc><rtc><rt>ㄊㄨㄥˊ</rt></rtc><rtc><rt>tóng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/1560.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">会合、聚集。</span><span class="gc_lz">如：「会<b>同</b>」。</span><span class="gc_yy">《说文解字·𠔼部》：「<b>同</b>，合会也。」</span><span class="gc_yy">唐·钱起〈送钟评事应宏词下第东归〉诗：「劝君稍尽离筵酒，千里佳期难再<b>同</b>。」</span></p></li><li><p class="def"><span class="gc_sy">统一、齐一。</span><span class="gc_yy">《书经·舜典》：「协时月正日，<b>同</b>律度量衡。」</span><span class="gc_yy">宋·陆游〈示儿〉诗：「死去元知万事空，但悲不见九州<b>同</b>。」</span></p></li><li><p class="def"><span class="gc_sy">一齐分享、从事等。</span><span class="gc_lz">如：「<b>同</b>甘苦，共患难。」</span><span class="gc_yy">《孙子·谋攻》：「不知三军之事，而<b>同</b>三军之政者，则军士惑矣。」</span></p></li><li><p class="def"><span class="gc_sy">赞成。</span><span class="gc_lz">如：「赞<b>同</b>」、「同意」。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">形</span><ol><li><p class="def"><span class="gc_sy">一样的。</span><span class="gc_lz">如：「同类」、「相<b>同</b>」、「同工同酬」。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">副</span><ol><li><p class="def"><span class="gc_sy">一起、共<b><b>同</b></b>。</span><span class="gc_lz">如：「有福同享，有难同当。」</span><span class="gc_yy">唐·李白〈长干行〉二首之一：「同居长干里，两小无嫌猜。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">连</span><ol><li><p class="def"><span class="gc_sy">和、与、跟。</span><span class="gc_lz">如：「有事<b>同</b>你商量。」、「我<b>同</b>他一起去看电影。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">和谐、和平。</span><span class="gc_lz">如：「促进世界大<b>同</b>」。</span><span class="gc_yy">《礼记·礼运》：「是故谋闭而不兴，盗窃乱贼而不作，故外户而不闭，是谓大<b>同</b>。」</span></p></li><li><p class="def"><span class="gc_sy">契约。</span><span class="gc_lz">如：「合<b>同</b>」。</span></p></li><li><p class="def"><span class="gc_sy">姓。如唐代有<b><b>同</b></b>谷。</span></p></li></ol></div></div><div class="gycd"><div class="pz"><ruby><rbc><rb>同</rb></rbc><rtc><rt>ㄊㄨㄥˋ</rt></rtc><rtc><rt>tòng</rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">巷弄、小街道。</span><span class="gc_lz">如：「胡<b>同</b>」。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="540C_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              同·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              同·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/540C.svg">						  <p>【唐韻】【正韻】徒紅切【集韻】【韻會】徒東切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音桐。【說文】合會也。【玉篇】共也。【廣韻】①也。【易·同人】天與火同人，君子以類族辨物。【書·益稷】敷同日奏罔功。</p><p>又【廣韻】齊也。【書·舜典】同律度量衡。【詩·小雅】我馬旣同。</p><p>又聚也。【詩·小雅】獸之所同。【傳】同猶聚也。</p><p>又和也。【禮·禮運】是謂大同。【註】猶和也，平也。</p><p>又【周禮·春官·大司樂】六律六同。【註】六律合陽聲者，六同合隂聲者。</p><p>又【典同】掌六律，六同之和。【註】律以竹，同以銅。言助陽宣氣，與之同也。</p><p>又【周禮·春官·大宗伯】時見曰會，殷見曰同。【詩·小雅】赤芾金舄，會同有繹。</p><p>又【周禮·地官·小司徒·井牧其田野註】司馬法曰：十成爲終，十終爲同，同方百里。【疏】謂之爲同者，取象震雷百里所聞同，故名百里爲同也。</p><p>又爵名。【書·顧命】上宗奉同瑁。【註】同，爵。瑁，圭也。</p><p>又州名。【廣韻】漢馮翊地有九龍泉，泉有九源，同爲一流，因以名之。【韻會】後魏以灃水攸同名州。</p><p>又【正韻】通也。【莊子·在宥篇】聞廣成子在于空同之上。【註】呂吉甫曰：空同之上，無物而大通之處也。</p><p>又姓。【正字通】唐有同谷。</p><p>又【盧仝詩】仝不仝，異不異，是謂大仝而小異。</p><p>又通作童。【列子·黃帝篇】狀與我童者，近而愛之。狀與我異者，疏而畏之。</p><p>又【釋文】徒貢切，音洞。與詷同。【禮·祭統】鋪筵設同几，爲依神也。【註】同之言詷也。【疏】同之言詷也者，若單作同字，是齊同之同，非詷共之詷。若詷共之詷，則言旁作同。漢魏之時，字義如此，今則總爲一字。</p><p>又叶徒黃切，音唐。【<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>琳·答客難】六合咸熙，九州來同。倒載干戈，放馬華陽。①字作北下<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C1E.svg'><span class='k_txt'>𤰞</span>。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="540C_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=𠔼">𠔼</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=𠔼">𠔼</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/540C.svg">                          <p>合會也。从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2053C.svg'><span class='k_txt'>𠔼</span>从口。徒紅切〖注〗臣鉉等曰：同，爵名也。《周書》曰：“太保受同嚌，故从口。”史籀亦从口。李陽冰云：“从口。”非是</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/540C_718.svg"  /><span class="swbf">(同)</span><span class="ywyy">合會也。从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2053C.svg'><span class='k_txt'>𠔼</span>口。</span><span class="swdz">口皆在所覆之下。是同之意也。徒紅切。九部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="540C_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʰuŋ˧˥; tʰuŋ˥˧ <span class="z_ts4">唐代读音</span>  *dhung<span class="z_ts4">日语读音</span>  ONAJI TOMONI TOMONISURU<span class="z_ts4">韩语罗马</span>  TONG<span class="z_ts4">现代韩语</span>  동<span class="z_ts3">越南语</span>  đồng</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] tung2 [海陆腔] tung2 [客英字典] tung2 [台湾四县腔] tung2 [客语拼音字汇] tung2 [陆丰腔] tung3 [沙头角腔] tung2 [东莞腔] tung2 [宝安腔] tung2<span class="z_ts2">粤语</span>  tung4<span class="z_ts3">潮州话</span>  dang5(tâng) tong5(thông) </p>						<p><span class="z_ts3">近代音</span>  透母    東鍾韻    平聲陽    同小空；<span class="z_ts3">中古音</span>  定母    東韻    平聲    同小韻    徒紅切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：定母    東部   ；王力系统：定母    東部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/同">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/同">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/同">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/同">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/同">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/同">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/同">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/同">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/同">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/同">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/同">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/同">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">同</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/同"><img data-original="//img.zdic.net/zy/jiaguwen/42_F390.svg" class="lazy ypic"><span>「同」 後2.10.2</span><span>合24118</span></a></td><td><a href="/zd/zx/jw/同"><img data-original="//img.zdic.net/zy/jinwen/32_F668.svg" class="lazy ypic"><span>「同」 沈子它簋蓋</span><span>西周早期</span><span>集成4330</span></a></td><td><a href="/zd/zx/cx/同"><img data-original="//img.zdic.net/zy/chuwenzi/52_F172.svg" class="lazy ypic"><span>「同」 包2.126</span></a></td><td><a href="/zd/zx/xz/同"><img data-original="//img.zdic.net/zy/xiaozhuan/27_540C.svg" class="lazy ypic"><span>「同」 說文‧𠔼部</span></a></td><td><a href="/zd/zx/qx/同"><img data-original="//img.zdic.net/zy/qinwenzi/71_E859.svg" class="lazy ypic"><span>「同」 睡.秦151</span></a></td><td><a href="/hans/衕" target="_blank"><img data-original="//img.zdic.net/kai/tw/8855.svg" class="lazy ypic"><span>「衕」</span></a> </td><td><a href="/hans/同" target="_blank"><img data-original="//img.zdic.net/kai/tw/540C.svg" class="lazy ypic"><span>「同」</span></a></td><td style="display:none"><a href="/hans/同" target="_blank"><img data-original="//img.zdic.net/kai/tw/540C.svg" class="lazy ypic"><span>「同」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/同"><img data-original="//img.zdic.net/zy/jinwen/32_F676.svg" class="lazy ypic"><span>「同」 同𠂤簋</span><span>西周中期</span><span>集成3703</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td><a href="/zd/zx/jw/同"><img data-original="//img.zdic.net/zy/jinwen/32_F672.svg" class="lazy ypic"><span>「同」 元年師兌簋</span><span>西周晚期</span><span>集成4274</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/同">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/同">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/同">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/同">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/同">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/同">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/540C.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/540C.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/540C.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/540C.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/540C.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/仝' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4EDD.svg'><span>仝</span></a></div> <div class='zx'><a href='/hans/詷' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/8A77.svg'><span>詷</span></a></div> <div class='zx'><a href='/hans/𧇌' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/271CC.svg'><span>𧇌</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1549" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6978">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/佟">佟(tong2)</a></li><li><a href="/hans/詷">詷(tong2)</a></li><li><a href="/hans/浵">浵(tong2)</a></li><li><a href="/hans/㠽">㠽(tong2)</a></li><li><a href="/hans/僮">僮(tong2)</a></li><li><a href="/hans/膧">膧(tong2)</a></li><li><a href="/hans/䴀">䴀(tong2)</a></li><li><a href="/hans/䂈">䂈(tong2)</a></li><li><a href="/hans/鉵">鉵(tong2)</a></li><li><a href="/hans/茼">茼(tong2)</a></li><li><a href="/hans/砼">砼(tong2)</a></li><li><a href="/hans/痌">痌(tong2)</a></li><li><a href="/hans/慟">慟(tong4)</a></li><li><a href="/hans/痛">痛(tong4)</a></li><li><a href="/hans/憅">憅(tong4)</a></li><li><a href="/hans/衕">衕(tong4)</a></li><li><a href="/hans/恸">恸(tong4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/吊">吊</a></li><li><a href="/hans/哖">哖</a></li><li><a href="/hans/喂">喂</a></li><li><a href="/hans/唾">唾</a></li><li><a href="/hans/唎">唎</a></li><li><a href="/hans/啨">啨</a></li><li><a href="/hans/吣">吣</a></li><li><a href="/hans/吴">吴</a></li><li><a href="/hans/台">台</a></li><li><a href="/hans/嚺">嚺</a></li><li><a href="/hans/呷">呷</a></li><li><a href="/hans/㖫">㖫</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/众">众</a></li><li><a href="/hans/仿">仿</a></li><li><a href="/hans/米">米</a></li><li><a href="/hans/吒">吒</a></li><li><a href="/hans/㚥">㚥</a></li><li><a href="/hans/𠓡">𠓡</a></li><li><a href="/hans/异">异</a></li><li><a href="/hans/甪">甪</a></li><li><a href="/hans/圶">圶</a></li><li><a href="/hans/㢩">㢩</a></li><li><a href="/hans/羽">羽</a></li><li><a href="/hans/西">西</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">毕竟西湖六月中，风光不与四时<span>同</span>。</div><div class="gscdr">宋·杨万里 《晓出净慈寺送林子方》</div><div class="gscdl">横看成岭侧成峰，远近高低各不<span>同</span>。</div><div class="gscdr">宋·苏轼 《题西林壁》</div><div class="gscdl">如今直上银河去，<span>同</span>到牵牛织女家。</div><div class="gscdr">唐·刘禹锡 《浪淘沙》</div><div class="gscdl">本自<span>同</span>根生，相煎何太急？</div><div class="gscdr">曹植 【朝代】三国·魏《七步诗》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">出门看火伴，火伴皆惊忙：<span>同</span>行十二年，不知木兰是女郎。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">莲之爱，<span>同</span>予者何人？牡丹之爱，宜乎众矣！</div><div class="gscdr">宋·周敦颐 《爱莲说》</div><div class="gscdl"><span>同</span>游者：吴武陵，龚古，余弟宗玄。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div><div class="gscdl">与君离别意，<span>同</span>是宦游人。</div><div class="gscdr">唐·王勃 《送杜少府之任蜀州》</div><div class="gscdl">是故谋闭而不兴，盗窃乱贼而不作，故外户而不闭，是谓大<span>同</span></div><div class="gscdr">先秦·礼记 《大道之行也》</div><div class="gscdl">朝而往，暮而归，四时之景不<span>同</span>，而乐亦无穷也。</div><div class="gscdr">宋·欧阳修 《醉翁亭记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=1549"></script>
+</body>
+</html>

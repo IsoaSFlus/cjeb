@@ -1,0 +1,654 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>背的解释|背的意思|汉典“背”字的基本解释</title>
+<meta name="title" content="背的解释|背的意思|汉典“背”字的基本解释">
+<meta name="keywords" content="上：北，下：月。 " /><meta property="og:title" content="“背”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“背”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“背”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/背" />
+<link rel="canonical" href="//www.zdic.net/hans/背" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/背" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/背" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/背" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/背">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/背">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/80CC.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/80CC.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">bèi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bèi.mp3"></a></span></span></p><p><span class="z_d song">bēi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bēi.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄅㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄟˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄅㄟ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄟ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=月" target="_blank">  月</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_ytz2"><a href='/hans/倍' target=_blank>倍</a> <a href='/hans/偝' target=_blank>偝</a> <a href='/hans/北' target=_blank>北</a> <a href='/hans/揹' target=_blank>揹</a> <a href='/hans/𧶙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/27D99.svg'><span class='ytz_txt'>𧶙</span> <a href='/hans/褙' target=_blank>褙</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+80CC</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>211352511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>uxef</p></td>                            <td class="dsk_2_1"><p>lpb</p></td>                            <td class="dsk_2_1"><p>tirq</p></td>                            <td class="dsk_2_1"><p>12227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">bèi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bèi.mp3"></a></span></span> <span class="z_d song">bēi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bēi.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄅㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄟˋ.mp3"></a></span></span> <span class="z_d song">ㄅㄟ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“背”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄟ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=月" target="_blank">月</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 80CC<span class="z_ts2">笔顺</span> 211352511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="80CC_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=13005" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>背</strong></p>
+<p><span class="dicpy">b&egrave;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&egrave;i.mp3"></a></span>  ㄅㄟˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>人体后面从肩到腰的部分：～脊。～包。～影。</li>
+	<li>物体的后面或反面：～面。刀～。～后。～景。</li>
+	<li>用背部对着，与&ldquo;<span class="diczx3">向</span>&rdquo;相对：～光。人心向～。</li>
+	<li>向相反的方向：～地性（植物向上生长的性质）。～道而驰。</li>
+	<li>避开，离开：～地。～井离乡。</li>
+	<li>凭记忆读出：～书。～诵。～台词。</li>
+	<li>违反：违～。～离。～信弃义。</li>
+	<li>不顺：～运。～兴（<span class="dicpy">x&igrave;ng </span>）。</li>
+	<li>偏僻：～静。</li>
+	<li>听觉不灵：耳～。</li>
+</ol>
+<p>● <strong>背</strong></p>
+<p><span class="dicpy">bēi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bēi.mp3"></a></span>  ㄅㄟˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>人用背驮（<span class="dicpy">tu&oacute;</span>）东西，引申为负担：～负。～包。～黑锅（喻受冤枉代人受过）。～包袱（喻有沉重的思想负担或经济负担）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> back; back side; behind; betray</p><p><span class="z_ts2">德语</span> auf dem Rücken , der Schulter tragen, beladen sein ,Rücken, Rückseite e. Körpers oder Gegenstandes  (S)​,auswendig lernen, aus dem Gedächtnis wiedergeben  (V)​,etwas verbergen  (V)</p><p><span class="z_ts2">法语</span> porter sur le dos,assumer,dos,tourner le dos,dissimuler,apprendre par coeur,réciter par coeur</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>背</strong></p>
+<p>揹 <span class="dicpy">bēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bēi.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 人用脊背驮 <span class="encs">[东西]</span> <span class="encs">[have on one&#39;s shoulder]</span></p>
+<p><span class="diczx1">早背胡霜过戍楼，又随寒日下汀州。&mdash;&mdash;</span><span class="diczx2">罗邺</span><span class="smcs">《雁》</span></p>
+<p><span class="diczx3">又如:背粮食;背头(男子头发由鬓角起都向后梳的发式);背锅(方言。驼背)</span></p>
+<p><span class="cino">(2)</span> 负担;承受 <span class="encs">[bear]</span>。</p>
+<p><span class="diczx3">如:背了一身债;背利(负担很重的或长期的利息);背罪(承担罪责)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">b&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&egrave;i.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/背榜">背榜</a></span><span class="crefe"><a href="/hans/背包袱">背包袱</a></span><span class="crefe"><a href="/hans/背带">背带</a></span><span class="crefe"><a href="/hans/背带裤">背带裤</a></span><span class="crefe"><a href="/hans/背负">背负</a></span><span class="crefe"><a href="/hans/背黑锅">背黑锅</a></span><span class="crefe"><a href="/hans/背饥荒">背饥荒</a></span><span class="crefe"><a href="/hans/背筐">背筐</a></span><span class="crefe"><a href="/hans/背篓">背篓</a></span><span class="crefe"><a href="/hans/背物">背物</a></span><span class="crefe"><a href="/hans/背债">背债</a></span><span class="crefe"><a href="/hans/背子">背子</a></span></div>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>背</strong> <span class="dicpy">b&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&egrave;i.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从肉，北声。本义:脊背)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[back of the body]</span></p>
+<p><span class="diczx1">背，脊也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">背者，胸中之府。&mdash;&mdash;<span class="smcs">《素问&middot;脉要精微论》</span></span></p>
+<p><span class="diczx1">牛足出背上。&mdash;&mdash;<span class="smcs">《史记&middot;梁孝王世家》</span></span></p>
+<p><span class="diczx1">然徒步则汗出浃背。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">左手抚</span><span class="diczx2">鲁</span>直背。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx1">不呼则杖其背。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p>
+<p><span class="diczx3">又如:芒刺在背;背袋(背在背上的口袋);背花(旧时刑罚，即用木棒打背脊，伤破处称背花);背子(半袖上衣)</span></p>
+<p><span class="cino">(3)</span> 事物的后面或反面 <span class="encs">[back of an object]</span></p>
+<p><span class="diczx1">其船背稍夷。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx1">即以斧破其背，得剑。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span></p>
+<p><span class="diczx1">剑在其背</span></p>
+<p><span class="diczx3">又如:乘在浪背上前进;刀背;锯背;斧背</span></p>
+<p><span class="cino">(4)</span> 正北堂屋 <span class="encs">[north hall]</span></p>
+<p><span class="diczx1">焉得谖草(萱草)，言树(种)之背。&mdash;&mdash;<span class="smcs">《诗&middot;卫风&middot;伯兮》</span></span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>背</strong> <span class="dicpy">b&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&egrave;i.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 背部对着或后部靠着 <span class="encs">[with the back towards]</span></p>
+<p><span class="diczx1">背山而面野。&mdash;&mdash;〔英〕</span><span class="diczx2">赫胥黎</span>著&middot; <span class="diczx2">严复</span>译<span class="smcs">《天演论》</span></p>
+<p><span class="diczx1">以缚背刃。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《童区寄传》</span></p>
+<p><span class="diczx3">又如:背山起楼;背水战;背依(背靠屏风);背城(背靠自己的城墙);背流(背源而流)</span></p>
+<p><span class="cino">(2)</span> 转过身;背过<span class="encs">[脸]</span> <span class="encs">[face about;turn round]</span></p>
+<p><span class="diczx1">背而走，比至其家，失气而死。&mdash;&mdash;<span class="smcs">《荀子&middot;解蔽》</span></span></p>
+<p><span class="diczx3">又如:背画(向后指画)</span></p>
+<p><span class="cino">(3)</span> 反叛;背弃;违背 <span class="encs">[act contrary to;violate;break]</span></p>
+<p><span class="diczx1">言</span><span class="diczx2">沛公</span>不敢背 <span class="diczx2">项王</span>也。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本记》</span></p>
+<p><span class="diczx1">不顾恩义，畔主背亲。&mdash;&mdash;<span class="smcs">《汉书&middot;李广苏建传》</span></span></p>
+<p><span class="diczx1">皆背</span><span class="diczx2">晋</span>以归 <span class="diczx2">梁</span>。&mdash;&mdash; <span class="diczx2">宋</span>&middot;欧阳修<span class="smcs">《新五代史&middot;伶官传&middot;序》</span></p>
+<p><span class="diczx3">又如:背反(背离叛变);背国(背叛国家);背本(背弃根本)</span></p>
+<p><span class="cino">(4)</span> 背诵，凭记忆念出 <span class="encs">[recite from memory]</span>。</p>
+<p><span class="diczx3">如:他能背全部课文;背书</span></p>
+<p><span class="cino">(5)</span> 离开 <span class="encs">[leave]</span></p>
+<p><span class="diczx1">生孩六月，慈父见背。(见背:离开了我，指死去。)&mdash;&mdash;</span><span class="diczx2">李密</span><span class="smcs">《陈情表》</span></p>
+<p><span class="diczx1">背井离乡，卧雪眠霜。&mdash;&mdash;</span><span class="diczx2">马致远</span><span class="smcs">《汉宫秋》</span></p>
+<p><span class="cino">(6)</span> 避开，不让别人知道 <span class="encs">[hide sth.from view;do sth.behind sb.&rsquo;s back]</span></p>
+<p><span class="diczx1">好面誉人者，亦好背而毁之。&mdash;&mdash;<span class="smcs">《庄子&middot;盗跖》</span></span></p>
+<p><span class="diczx3">又如:我没有什么背人的事;背人(避开别人)</span></p>
+<p><span class="cino">(7)</span> 把双臂放在背后或捆在背后 <span class="encs">[clasp one&#39;s hands behind his back]</span>。</p>
+<p><span class="diczx3">如:背着手</span></p>
+<p>◎ <strong>背</strong> <span class="dicpy">b&egrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&egrave;i.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 办事总遇不上好机运，不顺利 <span class="encs">[unlucky]</span>。</p>
+<p><span class="diczx3">如:背时鬼(倒霉的人);背霉(倒霉)</span></p>
+<p><span class="cino">(2)</span> 偏僻 <span class="encs">[back]</span>。</p>
+<p><span class="diczx3">如:背路(偏僻小路);背街;背旮旯儿(偏僻的角落)</span></p>
+<p><span class="cino">(3)</span> 听觉不灵 <span class="encs">[hard of hearing]</span>。</p>
+<p><span class="diczx3">如:耳朵有点儿背;背晦(胡涂;昏聩)</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">bēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bēi.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/背包">背包</a></span><span class="crefe"><a href="/hans/背本就末">背本就末</a></span><span class="crefe"><a href="/hans/背不住">背不住</a></span><span class="crefe"><a href="/hans/背部">背部</a></span><span class="crefe"><a href="/hans/背场儿">背场儿</a></span><span class="crefe"><a href="/hans/背城借一">背城借一</a></span><span class="crefe"><a href="/hans/背驰">背驰</a></span><span class="crefe"><a href="/hans/背搭子">背搭子</a></span><span class="crefe"><a href="/hans/背褡">背褡</a></span><span class="crefe"><a href="/hans/背道儿">背道儿</a></span><span class="crefe"><a href="/hans/背道而驰">背道而驰</a></span><span class="crefe"><a href="/hans/背地里">背地里</a></span><span class="crefe"><a href="/hans/背篼">背篼</a></span><span class="crefe"><a href="/hans/背恩忘义">背恩忘义</a></span><span class="crefe"><a href="/hans/背风">背风</a></span><span class="crefe"><a href="/hans/背风港">背风港</a></span><span class="crefe"><a href="/hans/背风面">背风面</a></span><span class="crefe"><a href="/hans/背旮旯儿">背旮旯儿</a></span><span class="crefe"><a href="/hans/背光">背光</a></span><span class="crefe"><a href="/hans/背后">背后</a></span><span class="crefe"><a href="/hans/背脊">背脊</a></span><span class="crefe"><a href="/hans/背井离乡">背井离乡</a></span><span class="crefe"><a href="/hans/背景">背景</a></span><span class="crefe"><a href="/hans/背静">背静</a></span><span class="crefe"><a href="/hans/背靠">背靠</a></span><span class="crefe"><a href="/hans/背靠背">背靠背</a></span><span class="crefe"><a href="/hans/背离">背离</a></span><span class="crefe"><a href="/hans/背理">背理</a></span><span class="crefe"><a href="/hans/背篓">背篓</a></span><span class="crefe"><a href="/hans/背面">背面</a></span><span class="crefe"><a href="/hans/背谬">背谬</a></span><span class="crefe"><a href="/hans/背叛">背叛</a></span><span class="crefe"><a href="/hans/背气">背气</a></span><span class="crefe"><a href="/hans/背弃">背弃</a></span><span class="crefe"><a href="/hans/背人">背人</a></span><span class="crefe"><a href="/hans/背山起楼">背山起楼</a></span><span class="crefe"><a href="/hans/背生芒刺">背生芒刺</a></span><span class="crefe"><a href="/hans/背时">背时</a></span><span class="crefe"><a href="/hans/背书">背书</a></span><span class="crefe"><a href="/hans/背熟">背熟</a></span><span class="crefe"><a href="/hans/背水一战">背水一战</a></span><span class="crefe"><a href="/hans/背水阵">背水阵</a></span><span class="crefe"><a href="/hans/背诵">背诵</a></span><span class="crefe"><a href="/hans/背向">背向</a></span><span class="crefe"><a href="/hans/背心">背心</a></span><span class="crefe"><a href="/hans/背信">背信</a></span><span class="crefe"><a href="/hans/背信弃义">背信弃义</a></span><span class="crefe"><a href="/hans/背兴">背兴</a></span><span class="crefe"><a href="/hans/背眼">背眼</a></span><span class="crefe"><a href="/hans/背阴儿">背阴儿</a></span><span class="crefe"><a href="/hans/背影儿">背影儿</a></span><span class="crefe"><a href="/hans/背约">背约</a></span><span class="crefe"><a href="/hans/背运">背运</a></span><span class="crefe"><a href="/hans/背着手">背着手</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>背</rb></rbc><rtc><rt>ㄅㄟˋ</rt></rtc><rtc><rt>b&egrave;i <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0080.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">胸部的後面，從後腰以上到頸下的部位。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">物體的反面或後面。</span><span class="gc_lz">如：「山<b>背</b>」、「刀<b>背</b>」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">用背部對著。</span><span class="gc_lz">如：「<b>背</b>著太陽」、「<b>背</b>山面海」、「背水一戰」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">離開、拋棄。</span><span class="gc_lz">如：「離鄉背井」。</span><span class="gc_yy">《商君書&middot;君臣》：「今世君不然，釋法而以知，<b>背</b>功而以譽。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">違反。</span><span class="gc_lz">如：「背約」、「棄理背義」、「背信忘義」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">死亡、去世。</span><span class="gc_yy">《文選&middot;李密&middot;陳情表》：「生孩六月，慈父見<b>背</b>。」</span><span class="gc_yy">《晉書&middot;卷七九&middot;謝安傳》：「（玄）​上延亡叔臣安、亡兄臣靖，數月之間，相係殂<b>背</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">躲避、瞞著。</span><span class="gc_lz">如：「你是不是<b>背</b>著我幹了什麼壞事？」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">記憶。</span><span class="gc_lz">如：「<b>背</b>臺詞」。</span><span class="gc_yy">《儒林外史&middot;第一三回》：「或一天遇著那小子書<b>背</b>不熟，小姐就要督責他念到天亮。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">裝潢字畫或書冊，即裱褙。</span><span class="gc_yy">宋&middot;范公偁《過庭錄》：「然絹地朽爛為數十片，無能修之者。李因薦一匠者，酬傭直四十千，就書室<b>背</b>之。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">運氣不好。</span><span class="gc_lz">如：「走背運」、「手氣<b>背</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">聽力不好。</span><span class="gc_lz">如：「耳<b>背</b>」、「背聽」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">僻靜的。</span><span class="gc_lz">如：「<b>背</b>街小巷」。</span><span class="gc_yy">元&middot;宮大用《范張雞黍&middot;第一折》：「既然賢弟要去，其路也不<b>背</b>，同往赴會去便了。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>背</rb></rbc><rtc><rt>ㄅㄟ</rt></rtc><rtc><rt>bēi <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0074.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">負荷。</span><span class="gc_lz">如：「背負重任」、「<b>背</b>小孩」。</span><span class="gc_yy">《紅樓夢&middot;第四七回》：「你老人家嫌乏，我<b>背</b>了你老人家去。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="80CC_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=未集下" target="_blank">未集下</a>】【<a href="/zd/kx/?zm=未集下&amp;bs=肉" target="_blank">肉</a>】
+                              背·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=未集下" target="_blank">未集下</a>】【<a href="/zd/kx/?zm=未集下&amp;bs=肉" target="_blank">肉</a>】
+                              背·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/80CC.svg">						  <p>【唐韻】【韻會】補妹切【正韻】邦昧切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音輩。【說文】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/267DD.svg"><span class="k_txt">𦟝</span>也。从肉北聲。【韻會】身北曰背。【玉篇】背脊。【正字通】身之隂也。【釋名】背，倍也，在後稱也。【易&middot;艮卦】艮其背。【註】背者，無見之物也。</p>
+<p>又手背。【周禮&middot;冬官考工記&middot;弓人】合灂若背手文。</p>
+<p>又壽也。【爾雅&middot;釋詁】背，壽也。【詩&middot;大雅】黃耉台背。</p>
+<p>又【魯頌】黃髮台背。【傳】台背，皆壽徵也。</p>
+<p>又日旁氣也。【前漢&middot;天文志】暈適背穴。【註】孟康曰：皆日旁氣也。背形如背字也。如淳曰：凡氣向日爲抱，向外爲背。</p>
+<p>又【玉篇】堂北曰背。【詩&middot;衞風】焉得諼草，言樹之背。【傳】背，北堂也，又人名。【穀梁傳&middot;成十年】衞侯之弟黑背，帥師侵鄭。</p>
+<p>又【廣韻】【集韻】蒲昧切【正韻】步昧切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音旆。【廣韻】弃背。【集韻】違也。【正韻】棄也，孤負也，反面也。【詩&middot;小雅】噂沓背憎。【書&middot;太甲】旣往背師保之訓。【前漢&middot;高帝紀】君爲秦吏，今欲背之。</p>
+<p>又【五音集韻】奴對切，音內。義同。</p>
+<p>又【韻補】叶音必。【詩&middot;大雅】民之罔極，職涼善背。叶下克力。　【正韻】亦作偝倍。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="80CC_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=肉">肉</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=肉">肉</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/80CC.svg">                          <p><img class="lazy k_img" data-original="//img.zdic.net/song/cn/267DD.svg"><span class="k_txt">𦟝</span>也。从肉北聲。補妹切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/80CC_5240.svg" /><span class="swbf">(背)</span><span class="ywyy">脊也。</span><span class="swdz"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/209AC.svg"><span class="k_txt">𠦬</span>部曰：脊，背吕也。然則脊者，背之一端，背不止於脊，如髀者股外，股不止於髀也。云背脊也，股髀也，文法正同。周易：艮其背。不獲其身。</span><span class="ywyy">从肉北聲。</span><span class="swdz">補妹切。古音在一部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="80CC_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  pei˥˧; pei˥ <span class="z_ts4">唐代读音</span>  *bə̀i<span class="z_ts4">日语读音</span>  SE SOMUKU SEI<span class="z_ts4">韩语罗马</span>  PAY PHAY<span class="z_ts4">现代韩语</span>  배<span class="z_ts3">越南语</span>  bối</p>						<p><span class="z_ts3">客家话</span>  [台湾四县腔] boi5 poi5 (ba2) [陆丰腔] boi5 [沙头角腔] boi5 poi5 [宝安腔] boi5 | poi3 [海陆腔] boi5 poi6 (ba2) [客英字典] boi5 poi5 [梅县腔] poe.3 poe.5 bi5 [客语拼音字汇] ba2 boi4 poi4 [东莞腔] boi5 poi3<span class="z_ts2">粤语</span>  bui3 bui6</p>						<p><span class="z_ts3">近代音</span>  幫母    齊微韻    去聲    背小空；<span class="z_ts3">中古音</span>  並母    隊韻    去聲    佩小韻    蒲昧切    一等    合口；幫母    隊韻    去聲    背小韻    補妹切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：幫母    德部   ；並母    德部   ；王力系统：幫母    職部   ；並母    職部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/背">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/背">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/背">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/背">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/背">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/背">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/背">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/背">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/背">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/背">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/背">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/背">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">背</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/背"><img data-original="//img.zdic.net/zy/xiaozhuan/27_80CC.svg" class="lazy ypic"><span>「背」 說文‧肉部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/背" target="_blank"><img data-original="//img.zdic.net/kai/tw/80CC.svg" class="lazy ypic"><span>「背」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/背">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/背">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/背">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/80CC.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/80CC.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/80CC.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/80CC.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/80CC.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/倍' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/500D.svg'><span>倍</span></a></div> <div class='zx'><a href='/hans/偝' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/505D.svg'><span>偝</span></a></div> <div class='zx'><a href='/hans/北' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5317.svg'><span>北</span></a></div> <div class='zx'><a href='/hans/揹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/63F9.svg'><span>揹</span></a></div> <div class='zx'><a href='/hans/𧶙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/27D99.svg'><span>𧶙</span></a></div> <div class='zx'><a href='/hans/褙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8919.svg'><span>褙</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="13005" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4353">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/輩">輩(bei4)</a></li><li><a href="/hans/狈">狈(bei4)</a></li><li><a href="/hans/䟺">䟺(bei4)</a></li><li><a href="/hans/㣁">㣁(bei4)</a></li><li><a href="/hans/梖">梖(bei4)</a></li><li><a href="/hans/憊">憊(bei4)</a></li><li><a href="/hans/禙">禙(bei4)</a></li><li><a href="/hans/㶔">㶔(bei4)</a></li><li><a href="/hans/軰">軰(bei4)</a></li><li><a href="/hans/苝">苝(bei4)</a></li><li><a href="/hans/㓈">㓈(bei4)</a></li><li><a href="/hans/邶">邶(bei4)</a></li><li><a href="/hans/㽡">㽡(bei1)</a></li><li><a href="/hans/𠕩">𠕩(bei1)</a></li><li><a href="/hans/鵯">鵯(bei1)</a></li><li><a href="/hans/椑">椑(bei1)</a></li><li><a href="/hans/䎬">䎬(bei1)</a></li><li><a href="/hans/棓">棓(bei1)</a></li><li><a href="/hans/鞞">鞞(bei1)</a></li><li><a href="/hans/盃">盃(bei1)</a></li><li><a href="/hans/杯">杯(bei1)</a></li><li><a href="/hans/桮">桮(bei1)</a></li><li><a href="/hans/揹">揹(bei1)</a></li><li><a href="/hans/箄">箄(bei1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/朦">朦</a></li><li><a href="/hans/䏟">䏟</a></li><li><a href="/hans/䐳">䐳</a></li><li><a href="/hans/肿">肿</a></li><li><a href="/hans/胖">胖</a></li><li><a href="/hans/䏘">䏘</a></li><li><a href="/hans/脌">脌</a></li><li><a href="/hans/䐱">䐱</a></li><li><a href="/hans/䏓">䏓</a></li><li><a href="/hans/臚">臚</a></li><li><a href="/hans/䐻">䐻</a></li><li><a href="/hans/肺">肺</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/狲">狲</a></li><li><a href="/hans/冟">冟</a></li><li><a href="/hans/㼟">㼟</a></li><li><a href="/hans/恦">恦</a></li><li><a href="/hans/亯">亯</a></li><li><a href="/hans/追">追</a></li><li><a href="/hans/𠗏">𠗏</a></li><li><a href="/hans/珇">珇</a></li><li><a href="/hans/帞">帞</a></li><li><a href="/hans/㟄">㟄</a></li><li><a href="/hans/俜">俜</a></li><li><a href="/hans/㸰">㸰</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">东坡右手执卷端，左手抚鲁直<span>背</span>。</div><div class="gscdr">明·魏学洢 《核舟记》</div><div class="gscdl">其船<span>背</span>稍夷，则题名其上，文曰“天启壬戌秋日，虞山王毅叔远甫刻”。</div><div class="gscdr">明·魏学洢 《核舟记》</div><div class="gscdl">鹏之<span>背</span>，不知其几千里也；怒而飞，其翼若垂天之云。</div><div class="gscdr">先秦·庄周  庄子《北冥有鱼》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=13005"></script>
+</body>
+</html>

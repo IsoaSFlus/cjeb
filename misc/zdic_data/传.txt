@@ -1,0 +1,615 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>传的解释|传的意思|汉典“传”字的基本解释</title>
+<meta name="title" content="传的解释|传的意思|汉典“传”字的基本解释">
+<meta name="keywords" content="左：亻，右：专。" /><meta property="og:title" content="“传”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“传”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“传”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/传" />
+<link rel="canonical" href="//www.zdic.net/hans/传" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/传" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/传" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/传" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/传">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/传">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4F20.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4F20.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">chuán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chuán.mp3"></a></span></span></p><p><span class="z_d song">zhuàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuàn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄔㄨㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄨㄢˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄓㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄢˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亻" target="_blank">  亻</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/傳' target=_blank>傳</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/傳' target=_blank>傳</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4F20</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>321154</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>wfny</p></td>                            <td class="dsk_2_1"><p>oqni</p></td>                            <td class="dsk_2_1"><p>nbzs</p></td>                            <td class="dsk_2_1"><p>25232</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">chuán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chuán.mp3"></a></span></span> <span class="z_d song">zhuàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuàn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄔㄨㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄨㄢˊ.mp3"></a></span></span> <span class="z_d song">ㄓㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“传”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄢˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亻" target="_blank">亻</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 4F20<span class="z_ts2">笔顺</span> 321154                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4F20_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=289" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">传</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>传</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">傳</span>）</strong></p>
+<p><span class="dicpy">chu&aacute;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chu&aacute;n.mp3"></a></span> ㄔㄨㄢˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>转（<span class="dicpy">zhuǎn </span>）授，递：～递。～输。～戒。～统。言～身教。</li>
+	<li>推广，散布：宣～。流～。～名。～奇（➊中国唐代兴起的短篇小说；➋中国明、清两代盛行的长篇戏曲；➌指情节离奇或人物行为超乎寻常的故事）。</li>
+</ol>
+<p>● <strong>传</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">傳</span>）</strong></p>
+<p><span class="dicpy">zhu&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> ㄓㄨㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>解说经义的文字：经～。《左～》。</li>
+	<li>记载某人一生事迹的文字：小～。自～。纪～。～记。～略。树碑立～。</li>
+	<li>以演述历史和人物故事为中心的文学作品：《水浒～》。</li>
+	<li>古代设于驿站的房舍，亦指驿站上所备的马车：～舍（供来往行人居住的旅舍）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> summon; propagate, transmit</p><p><span class="z_ts2">德语</span> weitergeben, übermitteln  (V)​,Biographie, Lebenslauf (S)</p><p><span class="z_ts2">法语</span> biographie,livre classique,passer,transmettre,communiquer,enseigner,répandre,propager,contaminer</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">传</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>传</strong></p>
+<p>傳 <span class="dicpy">chu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chu&aacute;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 传递;传送 <span class="encs">[transfer;deliver]</span></p>
+<p><span class="diczx1">速于置郵而传命。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑上》</span></span></p>
+<p><span class="diczx1">传以示美人及左右。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></span></p>
+<p><span class="diczx3">又如:传家(传于后代子弟);传衣(继承衣钵);传首(传送首级);传运(传递运输);传演(传递演变)</span></p>
+<p><span class="cino">(2)</span> 传授 <span class="encs">[teach;impart to]</span></p>
+<p><span class="diczx1">师者，所以传道授业解惑也。&mdash;&mdash;</span><span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx3">又如:传度(传授);传派(传授的流派);传旨(传授意旨);传书(传授书籍)</span></p>
+<p><span class="cino">(3)</span> 让位;传代 <span class="encs">[abdicate]</span></p>
+<p><span class="diczx1">不传于贤而传于子。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx3">又如:传位(传授帝王权位);传政(传授政权)</span></p>
+<p><span class="cino">(4)</span> 留传 <span class="encs">[hand down]</span></p>
+<p><span class="diczx1">功如丘山，名传后时。&mdash;&mdash;<span class="smcs">《盐铁论&middot;非鞅》</span></span></p>
+<p><span class="diczx1">此世所以不传也。&mdash;&mdash;</span><span class="diczx2">苏轼</span><span class="smcs">《石钟山记》</span></p>
+<p><span class="diczx1">居第当传子孙。&mdash;&mdash;</span><span class="diczx2">司马光</span><span class="smcs">《训俭示康》</span></p>
+<p><span class="diczx3">又如:传世(后传到后世);传灯(传留佛法);传祚(流传后世);家传秘方</span></p>
+<p><span class="cino">(5)</span> 充分或确切地表明;表达 <span class="encs">[express]</span></p>
+<p><span class="diczx1">传神写照。&mdash;&mdash;<span class="smcs">《世说新语&middot;巧艺》</span></span></p>
+<p><span class="diczx3">又如:传真(画肖像)</span></p>
+<p><span class="cino">(6)</span> 召，叫来。发出命令叫人来 <span class="encs">[summon]</span></p>
+<p><span class="diczx1">老太太那里传晚饭了。&mdash;&mdash;<span class="smcs">《红楼梦》</span></span></p>
+<p><span class="diczx3">又如:传嘴(传话);传会(传呼);传答(传达);传证人</span></p>
+<p><span class="cino">(7)</span> 另见 <span class="dicpy">zhu&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/传帮带">传帮带</a></span><span class="crefe"><a href="/hans/传播">传播</a></span><span class="crefe"><a href="/hans/传布">传布</a></span><span class="crefe"><a href="/hans/传抄">传抄</a></span><span class="crefe"><a href="/hans/传达">传达</a></span><span class="crefe"><a href="/hans/传达，传达员">传达，传达员</a></span><span class="crefe"><a href="/hans/传代">传代</a></span><span class="crefe"><a href="/hans/传单">传单</a></span><span class="crefe"><a href="/hans/传导">传导</a></span><span class="crefe"><a href="/hans/传道">传道</a></span><span class="crefe"><a href="/hans/传递">传递</a></span><span class="crefe"><a href="/hans/传动">传动</a></span><span class="crefe"><a href="/hans/传粉">传粉</a></span><span class="crefe"><a href="/hans/传感">传感</a></span><span class="crefe"><a href="/hans/传告">传告</a></span><span class="crefe"><a href="/hans/传呼">传呼</a></span><span class="crefe"><a href="/hans/传呼电话">传呼电话</a></span><span class="crefe"><a href="/hans/传话">传话</a></span><span class="crefe"><a href="/hans/传唤">传唤</a></span><span class="crefe"><a href="/hans/传教">传教</a></span><span class="crefe"><a href="/hans/传经">传经</a></span><span class="crefe"><a href="/hans/传令">传令</a></span><span class="crefe"><a href="/hans/传令兵">传令兵</a></span><span class="crefe"><a href="/hans/传名">传名</a></span><span class="crefe"><a href="/hans/传媒">传媒</a></span><span class="crefe"><a href="/hans/传票">传票</a></span><span class="crefe"><a href="/hans/传奇">传奇</a></span><span class="crefe"><a href="/hans/传情">传情</a></span><span class="crefe"><a href="/hans/传球">传球</a></span><span class="crefe"><a href="/hans/传染">传染</a></span><span class="crefe"><a href="/hans/传热">传热</a></span><span class="crefe"><a href="/hans/传人">传人</a></span><span class="crefe"><a href="/hans/传人">传人</a></span><span class="crefe"><a href="/hans/传三过四">传三过四</a></span><span class="crefe"><a href="/hans/传神">传神</a></span><span class="crefe"><a href="/hans/传声">传声</a></span><span class="crefe"><a href="/hans/传世">传世</a></span><span class="crefe"><a href="/hans/传授">传授</a></span><span class="crefe"><a href="/hans/传输">传输</a></span><span class="crefe"><a href="/hans/传说">传说</a></span><span class="crefe"><a href="/hans/传说">传说</a></span><span class="crefe"><a href="/hans/传送">传送</a></span><span class="crefe"><a href="/hans/传颂">传颂</a></span><span class="crefe"><a href="/hans/传诵">传诵</a></span><span class="crefe"><a href="/hans/传统">传统</a></span><span class="crefe"><a href="/hans/传统词类">传统词类</a></span><span class="crefe"><a href="/hans/传闻">传闻</a></span><span class="crefe"><a href="/hans/传习">传习</a></span><span class="crefe"><a href="/hans/传写">传写</a></span><span class="crefe"><a href="/hans/传心术">传心术</a></span><span class="crefe"><a href="/hans/传讯">传讯</a></span><span class="crefe"><a href="/hans/传言">传言</a></span><span class="crefe"><a href="/hans/传扬">传扬</a></span><span class="crefe"><a href="/hans/传谣">传谣</a></span><span class="crefe"><a href="/hans/传阅">传阅</a></span><span class="crefe"><a href="/hans/传真">传真</a></span><span class="crefe"><a href="/hans/传种">传种</a></span><span class="crefe"><a href="/hans/传宗接代">传宗接代</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>传</strong></p>
+<p>傳 <span class="dicpy">zhu&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 驿站所备的车 <span class="encs">[post-chaise;stagecoach]</span></p>
+<p><span class="diczx2">晋侯</span>以传召 <span class="diczx2">伯宗</span>。&mdash;&mdash;<span class="smcs">《左传&middot;成公五年》</span></p>
+<p><span class="diczx2">周公旦</span>从鲁闻之，发急传而问之。(急传:特快的驿车)&mdash;&mdash;<span class="smcs">《韩非子&middot;外储说右上》</span></p>
+<p><span class="diczx1">非传非遽(驿马)，载奇皮革，罪死不赦。&mdash;&mdash;<span class="smcs">《韩非子&middot;爱臣》</span></span></p>
+<p><span class="cino">(2)</span> 驿站;驿舍 <span class="encs">[post]</span></p>
+<p><span class="diczx1">昔者</span><span class="diczx2">赵氏</span>袭 <span class="diczx2">卫</span>，车舍人不休传。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策五》</span></p>
+<p><span class="diczx1">发人修道，缮理亭传。&mdash;&mdash;<span class="smcs">《后汉书&middot;陈忠传》</span></span></p>
+<p><span class="diczx3">又如:传车(古代驿站的专用车辆);传吏(驿舍的官吏);传马(驿站所用的马);传乘(驿站的车马);传宰(管理驿站的小官)</span></p>
+<p><span class="cino">(3)</span> 符信 <span class="encs">[letter]</span></p>
+<p><span class="diczx1">凡所达货贿者，则以节传出之。&mdash;&mdash;<span class="smcs">《周礼》</span></span></p>
+<p><span class="diczx1">诈刻传出关归家。&mdash;&mdash;<span class="smcs">《汉书&middot;宁成传》</span></span></p>
+<p><span class="cino">(4)</span> 传记 <span class="encs">[biography]</span></p>
+<p><span class="diczx1">吾已作传。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx1">善传游侠。&mdash;&mdash;</span><span class="diczx2">孙文</span><span class="smcs">《&lt;黄花冈七十二烈士事略&gt;序》</span></p>
+<p><span class="diczx1">为五百人立传。</span></p>
+<p><span class="diczx3">又如:自传;外传;别传;传状(传记行状);传叙(人物传记);传诔(传记和诔文)</span></p>
+<p><span class="cino">(5)</span> 指以描述人物故事为中心的文学作品<span class="encs">[novel or story written in historical style]</span>。</p>
+<p><span class="diczx3">如:<span class="smcs">《水浒传》</span>;<span class="smcs">《儿女英雄传》</span></span></p>
+<p><span class="cino">(6)</span> 注释或阐述经义的文字 <span class="encs">[commentaries on classics]</span></p>
+<p><span class="diczx1">六艺经传。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx3">又如:传注(解释经籍的文字);传诂(解释经籍的文字);传疏(诠释经义的文字);传笺(谓<span class="smcs">《诗经》</span>的注解)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>传</strong></p>
+<p>傳 <span class="dicpy">zhu&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 作传;记载 <span class="encs">[write biography]</span></p>
+<p><span class="diczx2">汉</span>史既传其事，而后世工画者又图其迹。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《送杨少尹序》</span></p>
+<p><span class="diczx3">又如:前半部传的是傅仪</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">chu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chu&aacute;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/传记">传记</a></span><span class="crefe"><a href="/hans/传略">传略</a></span><span class="crefe"><a href="/hans/传赞">传赞</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4F20_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              傳·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">傳</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“传”字头，请参考“<a href="/hans/傳">傳</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              傳·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：11</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/50B3.svg">						  <p>【廣韻】直攣切【集韻】【韻會】【正韻】重緣切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音椽。轉也。【左傳&middot;莊九年】公喪戎路，傳乗而歸。【註】戎路，兵車。傳乗，乗他車。【釋文】傳，直專反。</p>
+<p>又丁戀反。</p>
+<p>又【正韻】授也，續也，布也。【周禮&middot;夏官&middot;訓方氏】誦四方之傳道。【註】傳說往古之事也。讀平聲。</p>
+<p>又【禮&middot;曲禮】七十曰老而傳。【註】倦勤，傳家事于子也。</p>
+<p>又【禮&middot;內則】父母，舅姑之衣衾，簟席枕几不傳。【註】移也。</p>
+<p>又【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>株戀切，專去聲。傳舍。【釋名】傳，轉也。人所止息，去者復來。轉，相傳無常主也。【史記&middot;酈食其傳註】高陽傳舍。</p>
+<p>又【說文】遽也，驛遞曰傳。【禮&middot;玉藻】士曰傳遽之臣。【註】驛傳車馬，所以供急遽之令，士賤而給役使，故自稱如此。</p>
+<p>又古者以車駕馬，乗詣京師，謂之傳車。後又置驛騎，用單馬乗之，若今之遞馬。凡四馬高足爲置傳，四馬中足爲馳傳，四馬下足爲乗傳，一馬二馬爲軺傳。漢律，諸當乗傳及發駕置傳者，皆持尺五寸木傳信，封以御史大夫印章，其乗傳參封之。參，三也。有期會絫封兩端，端各兩封，凡四封。乗置馳傳五封之，兩端各二，中央一軺，傳兩馬再封之，一馬一封，以馬駕軺車而乗傳，曰一封軺傳。</p>
+<p>又關傳。【周禮&middot;地官&middot;司關】凡所達貨賄，則以節傳出之。《前漢&middot;文帝紀》【註】張晏曰：信也，若今過所也。如淳曰：兩行書繒帛，分持其一，出入關，合之乃得過，謂之傳。師古曰：今或用棨刻木爲合符。【後漢&middot;<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>蕃傳】投傳而去。【註】符也。丁戀切。【釋名】傳，轉也。轉移所在，執以爲信也。</p>
+<p>又【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>柱戀切，音瑑。訓也。賢人之書曰傳。</p>
+<p>又紀載事迹以傳於世亦曰傳，諸史列傳是也。【釋名】傳，傳也。以傳示後人也。</p>
+<p>又續也。【孟子】傳食於諸侯。</p>
+<p>又叶重倫切，音<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>。【前漢&middot;敘傳】帝庸親親，厥國五分，德不堪寵，四支不傳。◎按諸字書傳本有直攣、知戀、直戀三切，《廣韻》分析極細，《正韻》因之。然歷考經史註疏，驛傳之傳，平、去二音可以互讀，至傳道、傳聞、傳授之傳，乃一定之平聲，紀載之傳，一定之去聲。此音之分動靜，不可易者也。《正字通》專闢動靜字音之說，每於此等處，爲渾同之說以亂之，此斷斷不可从者。</p>
+<p>又按《廣韻》二仙，傳，直攣切，音椽，又持戀，丁戀二切。三十三線，傳，直戀切，卽持戀切。知戀切，卽丁戀切。丁戀切蓋用交互門法，不如用音和知戀切爲安也。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4F20_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=人">人</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">傳</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“传”字头，请参考“<a href="/hans/傳">傳</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=人">人</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/50B3.svg">                          <p>遽也。从人專聲。直戀切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/50B3_293.svg" /><span class="swbf">(傳)</span><span class="ywyy">遽也。</span><span class="swdz">辵部曰：遽，傳也。與此爲互訓，此二篆之本義也。周禮行夫：掌邦國傳遽。注云：傳遽，若今時乗傳騎驛而使者也。玉藻：士曰傳遽之臣。注云：傳遽，以車馬給使者也。左傳、國語皆曰：以傳召伯宗。注皆云：傳，驛也。漢有置傳、馳傳、乗傳之不同。按傳者，如今之驛馬。驛必有舍，故曰傳舍。又文書亦謂之傳。司關注云：傳如今移過所文書是也。引伸傳遽之義。則凡展轉引伸之偁皆曰傳，而傳注、流傳皆是也。後儒分別爲知戀、直戀、直攣三切，實一語之轉。</span><span class="ywyy">从人專聲。</span><span class="swdz">直戀切。十四部。按廣韵：傳注直戀切，郵馬知戀切。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4F20_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">传</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʰuan˧˥; tʂuan˥˧ </p>						<p><span class="z_ts2">粤语</span>  cyun4<span class="z_ts3">潮州话</span>  〖tuang5(thûang)[潮州]tuêng5〗 〖deng7 [揭阳、潮阳]duang7〗</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/传">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/传">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/传">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/传">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/传">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/传">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/传">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/传">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/传">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/传">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/传">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/传">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">传</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「傳」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/传"><img data-original="//img.zdic.net/zy/jiaguwen/42_F506.svg" class="lazy ypic"><span>「傳」 佚728</span><span>合8383</span></a></td><td><a href="/zd/zx/jw/传"><img data-original="//img.zdic.net/zy/jinwen/32_F805.svg" class="lazy ypic"><span>「傳」 傳作父戊尊</span><span>西周早期</span><span>集成5925</span></a></td><td><a href="/zd/zx/cx/传"><img data-original="//img.zdic.net/zy/chuwenzi/52_F3E9.svg" class="lazy ypic"><span>「傳」 包2.120</span></a></td><td><a href="/zd/zx/xz/传"><img data-original="//img.zdic.net/zy/xiaozhuan/27_50B3.svg" class="lazy ypic"><span>「傳」 說文‧人部</span></a></td><td><a href="/zd/zx/qx/传"><img data-original="//img.zdic.net/zy/qinwenzi/71_E8C6.svg" class="lazy ypic"><span>「傳」 睡.語8</span></a></td><td><a href="/hans/傳" target="_blank"><img data-original="//img.zdic.net/kai/tw/50B3.svg" class="lazy ypic"><span>「傳」</span></a> </td><td><a href="/hans/传" target="_blank"><img data-original="//img.zdic.net/kai/tw/4F20.svg" class="lazy ypic"><span>「传」</span></a></td><td style="display:none"><a href="/hans/传" target="_blank"><img data-original="//img.zdic.net/kai/tw/4F20.svg" class="lazy ypic"><span>「传」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/传"><img data-original="//img.zdic.net/zy/jinwen/32_F809.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/8_E2EB.svg" class="ykai">」 傳尊</span><span>西周早期</span><span>集成5864</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td><a href="/zd/zx/jw/传"><img data-original="//img.zdic.net/zy/jinwen/32_F807.svg" class="lazy ypic"><span>「傳」 散氏盤</span><span>西周晚期</span><span>集成10176</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/传">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/传">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/传">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/传">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/传">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/传">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4F20.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4F20.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4F20.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/傳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/50B3.svg'><span>傳</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="289" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4627">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/圌">圌(chuan2)</a></li><li><a href="/hans/遄">遄(chuan2)</a></li><li><a href="/hans/舡">舡(chuan2)</a></li><li><a href="/hans/剶">剶(chuan2)</a></li><li><a href="/hans/歂">歂(chuan2)</a></li><li><a href="/hans/舩">舩(chuan2)</a></li><li><a href="/hans/傳">傳(chuan2)</a></li><li><a href="/hans/㯌">㯌(chuan2)</a></li><li><a href="/hans/䁣">䁣(chuan2)</a></li><li><a href="/hans/㼷">㼷(chuan2)</a></li><li><a href="/hans/暷">暷(chuan2)</a></li><li><a href="/hans/篅">篅(chuan2)</a></li><li><a href="/hans/簨">簨(zhuan4)</a></li><li><a href="/hans/譔">譔(zhuan4)</a></li><li><a href="/hans/撰">撰(zhuan4)</a></li><li><a href="/hans/囀">囀(zhuan4)</a></li><li><a href="/hans/灷">灷(zhuan4)</a></li><li><a href="/hans/蒃">蒃(zhuan4)</a></li><li><a href="/hans/襈">襈(zhuan4)</a></li><li><a href="/hans/饌">饌(zhuan4)</a></li><li><a href="/hans/縳">縳(zhuan4)</a></li><li><a href="/hans/賺">賺(zhuan4)</a></li><li><a href="/hans/䚈">䚈(zhuan4)</a></li><li><a href="/hans/䉵">䉵(zhuan4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/僙">僙</a></li><li><a href="/hans/𠎯">𠎯</a></li><li><a href="/hans/𠌘">𠌘</a></li><li><a href="/hans/㒂">㒂</a></li><li><a href="/hans/𠎻">𠎻</a></li><li><a href="/hans/偳">偳</a></li><li><a href="/hans/仅">仅</a></li><li><a href="/hans/佢">佢</a></li><li><a href="/hans/𠍮">𠍮</a></li><li><a href="/hans/𠑒">𠑒</a></li><li><a href="/hans/侥">侥</a></li><li><a href="/hans/𠈪">𠈪</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/芨">芨</a></li><li><a href="/hans/羊">羊</a></li><li><a href="/hans/䒗">䒗</a></li><li><a href="/hans/劥">劥</a></li><li><a href="/hans/纤">纤</a></li><li><a href="/hans/防">防</a></li><li><a href="/hans/㒲">㒲</a></li><li><a href="/hans/汜">汜</a></li><li><a href="/hans/㺨">㺨</a></li><li><a href="/hans/𠂂">𠂂</a></li><li><a href="/hans/𠕿">𠕿</a></li><li><a href="/hans/㘟">㘟</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">剑外忽<span>传</span>收蓟北，初闻涕泪满衣裳。</div><div class="gscdr">唐·杜甫 《闻官军收河南河北》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">——《学而》曾子曰：“吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？<span>传</span>不习乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">有闻而<span>传</span>之者：“丁氏穿井得一人。”</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">朔气<span>传</span>金柝，寒光照铁衣。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">马上相逢无纸笔，凭君<span>传</span>语报平安。</div><div class="gscdr">唐·岑参 《逢入京使》</div><div class="gscdl">每至晴初霜旦，林寒涧肃，常有高猿长啸，属引凄异，空谷<span>传</span>响，哀转久绝。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">于是上乃使使持节诏将军：“吾欲入劳军。”亚夫乃<span>传</span>言开壁门。</div><div class="gscdr">汉·司马迁 史记. 绛侯周勃世家《周亚夫军细柳》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=289"></script>
+</body>
+</html>

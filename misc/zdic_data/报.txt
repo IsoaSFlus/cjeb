@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>报的解释|报的意思|汉典“报”字的基本解释</title>
+<meta name="title" content="报的解释|报的意思|汉典“报”字的基本解释">
+<meta name="keywords" content="左：扌，右：𠬝。" /><meta property="og:title" content="“报”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“报”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“报”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/报" />
+<link rel="canonical" href="//www.zdic.net/hans/报" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/报" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/报" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/报" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/报">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/报">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/62A5.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/62A5.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">bào<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“报”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bào.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄅㄠˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“报”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄠˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">  扌</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/報' target=_blank>報</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/報' target=_blank>報</a> <a href='/hans/𡙈' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21648.svg'><span class='ytz_txt'>𡙈</span> <a href='/hans/𨖦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/285A6.svg'><span class='ytz_txt'>𨖦</span> <a href='/hans/𨖪' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/285AA.svg'><span class='ytz_txt'>𨖪</span> <a href='/hans/𢭮' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22B6E.svg'><span class='ytz_txt'>𢭮</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+62A5</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>1215254</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>rbcy</p></td>                            <td class="dsk_2_1"><p>qsle</p></td>                            <td class="dsk_2_1"><p>dyxs</p></td>                            <td class="dsk_2_1"><p>57047</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">bào<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“报”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bào.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄅㄠˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“报”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄠˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">扌</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 62A5<span class="z_ts2">笔顺</span> 1215254                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="62A5_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=5286" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">报</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>报</strong></p>
+<p><strong>（<span class="diczx3">報</span>）</strong></p>
+<p><span class="dicpy">b&agrave;o  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&agrave;o.mp3"></a></span> ㄅㄠˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>传达，告知：～告。～喜。～捷。～考。～请（用书面报告向上级请示）。～废。</li>
+	<li>传达消息和言论的文件、信号或出版物：简～（文字较短、内容简略的书面报告，印发给有关部门）。电～。情～。晚～。画～。～端。</li>
+	<li>回答：～答。～恩。～仇。～国（报效祖国）。～酬。</li>
+	<li>由于做了坏事而受到惩罚：～应。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> report, tell, announce</p><p><span class="z_ts2">德语</span> melden  (V)</p><p><span class="z_ts2">法语</span> journal,périodique,rapport,déclarer,annoncer,informer,récompenser,venger</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">报</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>报</strong></p>
+<p>報 <span class="dicpy">b&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&agrave;o.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从帇，从阜，金文字形，左边象刑具形，即&ldquo;帇( <span class="dicpy">ni&egrave;</span>)&rdquo;。右象手按人使之跽跪意，即&ldquo;阜&rdquo;，读 <span class="dicpy">fǔ</span>。组合在一起表示治人罪之意。本义:断狱，判决罪人)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[judge]</span></p>
+<p><span class="diczx1">辟报故不穷审。&mdash;&mdash;<span class="smcs">《汉书&middot;胡建传》</span></span></p>
+<p><span class="diczx1">报囚。&mdash;&mdash;<span class="smcs">《后汉书&middot;鲁恭传》</span>。注:&ldquo;谓奏请报决也。&rdquo;</span></p>
+<p><span class="diczx1">报而罪之。&mdash;&mdash;<span class="smcs">《韩非子&middot;五蠹》</span></span></p>
+<p><span class="diczx1">闻死刑之报，君为流涕。</span></p>
+<p><span class="diczx3">又如:报囚(判决囚犯);报当(判罪)</span></p>
+<p><span class="cino">(3)</span> 报答，报酬 <span class="encs">[recompense;repay]</span></p>
+<p><span class="diczx1">欲报之于陛下也。&mdash;&mdash;</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p>
+<p><span class="diczx1">欲略上报。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《答司马谏议书》</span></p>
+<p><span class="diczx3">又如:报本(报答;回报);报称(报答恩德);报命(报答恩情;执行命令);报捐(捐钱买官);报塞(报答;报效);报谢(报答;答谢)</span></p>
+<p><span class="cino">(4)</span> 报告，答复 <span class="encs">[report]</span></p>
+<p><span class="diczx2">列子</span>行泣报 <span class="diczx2">壶子</span>。&mdash;&mdash;<span class="smcs">《淮南子&middot;精神》</span></p>
+<p><span class="diczx2">荀息</span>操璧牵马而报。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;权勋》</span></p>
+<p><span class="diczx1">阙然久不报，幸勿为过!&mdash;&mdash;</span><span class="diczx2">司马迁</span><span class="smcs">《报任少卿书》</span></p>
+<p><span class="diczx1">请为</span><span class="diczx2">张唐</span>先报 <span class="diczx2">赵</span>。&mdash;&mdash;<span class="smcs">《战国策&middot;秦策五》</span></p>
+<p><span class="diczx1">求人可使报</span><span class="diczx2">秦</span>者。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></p>
+<p><span class="diczx1">一日晌午，谍报敌骑至。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">具以</span><span class="diczx2">沛公</span>言报 <span class="diczx2">项王</span>。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本记》</span></p>
+<p><span class="diczx3">又如:报录人(专门向升了官或考中了科的人家里送喜报的人);报辜(报案状子);报喜;报数;报春(报告春天的到来)</span></p>
+<p><span class="cino">(5)</span> 祭祀 <span class="encs">[sacrifice]</span>。</p>
+<p><span class="diczx3">如:报岁(每年收获后祭神);报赛(祭祀神灵，答谢保佑)</span></p>
+<p><span class="cino">(6)</span> 报复 <span class="encs">[avenge]</span></p>
+<p><span class="diczx1">睚眦之怨必报。&mdash;&mdash;<span class="smcs">《史记&middot;范雎传》</span></span></p>
+<p><span class="diczx1">日夜思欲报</span><span class="diczx2">楚王</span>。&mdash;&mdash; <span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span></p>
+<p><span class="diczx1">欲求报其父仇。&mdash;&mdash;<span class="smcs">《史记&middot;魏公子列传》</span></span></p>
+<p><span class="diczx1">士不敢弯弓而报怨。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx3">又如:报恨(报仇雪恨);报雪(报仇雪恨);报怨(埋怨;抱怨)</span></p>
+<p><span class="cino">(7)</span> 详细申报 <span class="encs">[需要纳税的财产]</span> <span class="encs">[declare]</span>。</p>
+<p><span class="diczx3">如:报税;报关</span></p>
+<p><span class="cino">(8)</span> 批复 <span class="encs">[give an official，written reply to a subordinate body]</span>。</p>
+<p><span class="diczx3">如:报可，报允(批复照准;许可)</span></p>
+<p><span class="cino">(9)</span> 通&ldquo;赴&rdquo;( <span class="dicpy">f&ugrave;</span>)。奔赴 <span class="encs">[go to]</span></p>
+<p><span class="diczx1">毋拔来，毋报往。&mdash;&mdash;<span class="smcs">《礼记&middot;少仪》</span></span></p>
+<p><span class="diczx1">报葬者报虞。&mdash;&mdash;<span class="smcs">《礼记&middot;丧服小记》</span></span></p>
+<p><span class="diczx1">卿但暂还家，吾今且报府。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="cino">(10)</span> 报应 <span class="encs">[nemesis]</span></p>
+<p><span class="diczx1">夫造物者之报人也，不报其人而报其人之天。&mdash;&mdash;<span class="smcs">《庄子&middot;列御寇》</span></span></p>
+<p><span class="diczx1">前后造业后人报，如是我闻佛亦狂。&mdash;&mdash;</span><span class="diczx2">董必武</span><span class="smcs">《和叶参谋长过五台山》</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>报</strong></p>
+<p>報 <span class="dicpy">b&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&agrave;o.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 报纸 <span class="encs">[newspaper]</span>。</p>
+<p><span class="diczx3">如:报房(发送邸报、书信的处所);报丁(卖报的人);报差(送报的人);晨报;晚报;日报</span></p>
+<p><span class="cino">(2)</span> 文字报道或墙报 <span class="encs">[bulletin;report]</span>。</p>
+<p><span class="diczx3">如:战报;海报;黑板报;大字报;喜报</span></p>
+<p><span class="cino">(3)</span> 刊物 <span class="encs">[periodical;journal]</span>。</p>
+<p><span class="diczx3">如:学报;科学通报</span></p>
+<p><span class="cino">(4)</span> 电报 <span class="encs">[telegram]</span>。</p>
+<p><span class="diczx3">如:发报;送报员;发报机</span></p>
+<p><span class="cino">(5)</span> 传达消息的文件或信号 <span class="encs">[information;report]</span></p>
+<p><span class="diczx1">而抄捕南海馆之报(消息)忽至。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx3">又如:情报;警报</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/报案">报案</a></span><span class="crefe"><a href="/hans/报本反始">报本反始</a></span><span class="crefe"><a href="/hans/报表">报表</a></span><span class="crefe"><a href="/hans/报偿">报偿</a></span><span class="crefe"><a href="/hans/报仇">报仇</a></span><span class="crefe"><a href="/hans/报仇雪恨">报仇雪恨</a></span><span class="crefe"><a href="/hans/报酬">报酬</a></span><span class="crefe"><a href="/hans/报春花">报春花</a></span><span class="crefe"><a href="/hans/报单">报单</a></span><span class="crefe"><a href="/hans/报到">报到</a></span><span class="crefe"><a href="/hans/报道">报道</a></span><span class="crefe"><a href="/hans/报道">报道</a></span><span class="crefe"><a href="/hans/报德">报德</a></span><span class="crefe"><a href="/hans/报端">报端</a></span><span class="crefe"><a href="/hans/报恩">报恩</a></span><span class="crefe"><a href="/hans/报废">报废</a></span><span class="crefe"><a href="/hans/报复">报复</a></span><span class="crefe"><a href="/hans/报复">报复</a></span><span class="crefe"><a href="/hans/报告">报告</a></span><span class="crefe"><a href="/hans/报告">报告</a></span><span class="crefe"><a href="/hans/报告文学">报告文学</a></span><span class="crefe"><a href="/hans/报关">报关</a></span><span class="crefe"><a href="/hans/报馆">报馆</a></span><span class="crefe"><a href="/hans/报国">报国</a></span><span class="crefe"><a href="/hans/报户口">报户口</a></span><span class="crefe"><a href="/hans/报话机">报话机</a></span><span class="crefe"><a href="/hans/报价">报价</a></span><span class="crefe"><a href="/hans/报捷">报捷</a></span><span class="crefe"><a href="/hans/报界">报界</a></span><span class="crefe"><a href="/hans/报警">报警</a></span><span class="crefe"><a href="/hans/报刊">报刊</a></span><span class="crefe"><a href="/hans/报考">报考</a></span><span class="crefe"><a href="/hans/报录">报录</a></span><span class="crefe"><a href="/hans/报录人">报录人</a></span><span class="crefe"><a href="/hans/报马">报马</a></span><span class="crefe"><a href="/hans/报名">报名</a></span><span class="crefe"><a href="/hans/报名">报名</a></span><span class="crefe"><a href="/hans/报幕">报幕</a></span><span class="crefe"><a href="/hans/报批">报批</a></span><span class="crefe"><a href="/hans/报请">报请</a></span><span class="crefe"><a href="/hans/报人">报人</a></span><span class="crefe"><a href="/hans/报丧">报丧</a></span><span class="crefe"><a href="/hans/报社">报社</a></span><span class="crefe"><a href="/hans/报审">报审</a></span><span class="crefe"><a href="/hans/报失">报失</a></span><span class="crefe"><a href="/hans/报时">报时</a></span><span class="crefe"><a href="/hans/报税">报税</a></span><span class="crefe"><a href="/hans/报摊">报摊</a></span><span class="crefe"><a href="/hans/报帖">报帖</a></span><span class="crefe"><a href="/hans/报亭">报亭</a></span><span class="crefe"><a href="/hans/报童">报童</a></span><span class="crefe"><a href="/hans/报头">报头</a></span><span class="crefe"><a href="/hans/报务员">报务员</a></span><span class="crefe"><a href="/hans/报喜">报喜</a></span><span class="crefe"><a href="/hans/报喜不报忧">报喜不报忧</a></span><span class="crefe"><a href="/hans/报销">报销</a></span><span class="crefe"><a href="/hans/报晓">报晓</a></span><span class="crefe"><a href="/hans/报效">报效</a></span><span class="crefe"><a href="/hans/报信">报信</a></span><span class="crefe"><a href="/hans/报应">报应</a></span><span class="crefe"><a href="/hans/报忧">报忧</a></span><span class="crefe"><a href="/hans/报怨">报怨</a></span><span class="crefe"><a href="/hans/报章">报章</a></span><span class="crefe"><a href="/hans/报账">报账</a></span><span class="crefe"><a href="/hans/报纸">报纸</a></span><span class="crefe"><a href="/hans/报子">报子</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="62A5_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集中" target="_blank">丑集中</a>】【<a href="/zd/kx/?zm=丑集中&amp;bs=土" target="_blank">土</a>】
+                              報·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：9</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">報</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“报”字头，请参考“<a href="/hans/報">報</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=丑集中" target="_blank">丑集中</a>】【<a href="/zd/kx/?zm=丑集中&amp;bs=土" target="_blank">土</a>】
+                              報·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：9</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5831.svg">						  <p>【唐韻】博耗切【集韻】【韻會】博號切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>保去聲。復也，酬也，答也。【詩&middot;鄭風】投我以木瓜，報之以瓊琚。【禮&middot;郊特牲】報本反始。【註】謝其恩之謂報，歸其功之謂反。【史記&middot;范睢傳】睚睚之怨必報。</p>
+<p>又告也。【前漢&middot;吳王傳】無文書，口報。【天寶遺事】新進士及第，以泥金書帖子，附家書中，用報登科之喜。</p>
+<p>又猶合也。【禮&middot;喪服小記】下殤小功帶澡麻，不絕本，詘而反以報之。</p>
+<p>又論囚曰報。【前漢&middot;張湯傳】爰書論訊鞫報。</p>
+<p>又下婬上曰報。【左傳&middot;宣三年】鄭文公報鄭子之妃曰<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>嬀。【註】鄭子，文公叔父子儀也。【漢律】婬季父之妻曰報。</p>
+<p>又與赴通。【禮&middot;喪服小記】報葬者報虞。【註】報，讀爲赴，急疾之義。虞以安神，不可緩也。　本作<img class='lazy k_img' data-original='//img.zdic.net/song/cn/21648.svg'><span class='k_txt'>𡙈</span>。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="62A5_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=幸">幸</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">報</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“报”字头，请参考“<a href="/hans/報">報</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=幸">幸</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5831.svg">                          <p>當罪人也。从幸从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20B1D.svg'><span class='k_txt'>𠬝</span>。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20B1D.svg'><span class='k_txt'>𠬝</span>，服罪也。博号切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5831_1072.svg" /><span class="swbf">(報)</span><span class="ywyy">當辠人也。</span><span class="swdz">司馬彪百官志曰：廷尉掌平獄，奏當所應。凡郡國讞疑罪，皆處當以報。史記張釋之列傳曰：廷尉奏當，一人犯蹕，當罰金。又曰：廷尉當。是也。又路溫舒上書曰：奏當之成。司馬貞引崔浩云：當謂處其罪也。按當者，漢人語。報，亦漢人語。漢書張湯傳曰：訊鞫論報。蘇林注蘇建傳曰：報，論也。斷獄爲報，是則處分其罪以上聞曰奏當，亦曰報也。引申爲報白，爲報復。又叚爲赴疾之赴。見少儀、喪服小記。今俗云急報是也。</span><span class="ywyy">从㚔从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20B1D.svg'><span class='k_txt'>𠬝</span>。</span><span class="swdz">㑹意。博号切。古音在三部。今隷作報。</span><span class="ywyy"><img class='lazy k_img' data-original='//img.zdic.net/song/cn/20B1D.svg'><span class='k_txt'>𠬝</span>，服辠也。</span><span class="swdz"><img class='lazy k_img' data-original='//img.zdic.net/song/cn/20B1D.svg'><span class='k_txt'>𠬝</span>見又部，音服，治也。小徐作㞋，音展，誤甚。此説从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20B1D.svg'><span class='k_txt'>𠬝</span>之意。以今字今言通之也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="62A5_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">报</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  pɑu˥˧ </p>						<p><span class="z_ts2">粤语</span>  bou3<span class="z_ts3">潮州话</span>  bo3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/报">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/报">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/报">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/报">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/报">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/报">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/报">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/报">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/报">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/报">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/报">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/报">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">报</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「報」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/报"><img data-original="//img.zdic.net/zy/jinwen/33_EAC5.svg" class="lazy ypic"><span>「報」 作冊夨令簋</span><span>西周早期</span><span>集成4300</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/报"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5831.svg" class="lazy ypic"><span>「報」 說文‧㚔部</span></a></td><td><a href="/zd/zx/qx/报"><img data-original="//img.zdic.net/zy/qinwenzi/71_EB31.svg" class="lazy ypic"><span>「報」 睡.封7</span></a></td><td><a href="/hans/報" target="_blank"><img data-original="//img.zdic.net/kai/tw/5831.svg" class="lazy ypic"><span>「報」</span></a> </td><td><a href="/hans/报" target="_blank"><img data-original="//img.zdic.net/kai/tw/62A5.svg" class="lazy ypic"><span>「报」</span></a></td><td style="display:none"><a href="/hans/报" target="_blank"><img data-original="//img.zdic.net/kai/tw/62A5.svg" class="lazy ypic"><span>「报」</span></a></td></tr><tr><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/报">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/报">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/报">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/报">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/62A5.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/62A5.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/62A5.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/報' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5831.svg'><span>報</span></a></div> <div class='zx'><a href='/hans/𡙈' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21648.svg'><span>𡙈</span></a></div> <div class='zx'><a href='/hans/𨖦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/285A6.svg'><span>𨖦</span></a></div> <div class='zx'><a href='/hans/𨖪' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/285AA.svg'><span>𨖪</span></a></div> <div class='zx'><a href='/hans/𢭮' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22B6E.svg'><span>𢭮</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="5286" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4342">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䤖">䤖(bao4)</a></li><li><a href="/hans/犦">犦(bao4)</a></li><li><a href="/hans/虣">虣(bao4)</a></li><li><a href="/hans/怉">怉(bao4)</a></li><li><a href="/hans/鑤">鑤(bao4)</a></li><li><a href="/hans/瀑">瀑(bao4)</a></li><li><a href="/hans/㫧">㫧(bao4)</a></li><li><a href="/hans/儤">儤(bao4)</a></li><li><a href="/hans/铇">铇(bao4)</a></li><li><a href="/hans/報">報(bao4)</a></li><li><a href="/hans/鲍">鲍(bao4)</a></li><li><a href="/hans/蚫">蚫(bao4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㧴">㧴</a></li><li><a href="/hans/㩛">㩛</a></li><li><a href="/hans/㩢">㩢</a></li><li><a href="/hans/㧶">㧶</a></li><li><a href="/hans/抄">抄</a></li><li><a href="/hans/㨒">㨒</a></li><li><a href="/hans/抻">抻</a></li><li><a href="/hans/掿">掿</a></li><li><a href="/hans/捻">捻</a></li><li><a href="/hans/㧊">㧊</a></li><li><a href="/hans/撈">撈</a></li><li><a href="/hans/㨭">㨭</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠇨">𠇨</a></li><li><a href="/hans/扴">扴</a></li><li><a href="/hans/兎">兎</a></li><li><a href="/hans/牠">牠</a></li><li><a href="/hans/㕯">㕯</a></li><li><a href="/hans/弟">弟</a></li><li><a href="/hans/佃">佃</a></li><li><a href="/hans/㕶">㕶</a></li><li><a href="/hans/岚">岚</a></li><li><a href="/hans/呖">呖</a></li><li><a href="/hans/岄">岄</a></li><li><a href="/hans/帉">帉</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">马上相逢无纸笔，凭君传语<span>报</span>平安。</div><div class="gscdr">唐·岑参 《逢入京使》</div><div class="gscdl"><span>报</span>君黄金台上意，提携玉龙为君死。</div><div class="gscdr">唐·李贺 《雁门太守行》</div><div class="gscdl">我<span>报</span>路长嗟日暮，学诗谩有惊人句。九万里风鹏正举。</div><div class="gscdr">宋·李清照 《渔家傲》</div><div class="gscdl">为<span>报</span>倾城随太守，亲射虎，看孙郎。酒酣胸胆尚开张。</div><div class="gscdr">宋·苏轼 《江城子·密州出猎》</div><div class="gscdl">然侍卫之臣不懈于内，忠志之士忘身于外者，盖追先帝之殊遇，欲<span>报</span>之于陛下也。</div><div class="gscdr">三国·诸葛亮 《出师表》</div><div class="gscdl">此臣所以<span>报</span>先帝而忠陛下之职分也。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=5286"></script>
+</body>
+</html>

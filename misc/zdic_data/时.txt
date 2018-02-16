@@ -1,0 +1,709 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>时的解释|时的意思|汉典“时”字的基本解释</title>
+<meta name="title" content="时的解释|时的意思|汉典“时”字的基本解释">
+<meta name="keywords" content="左：日，右：寸。  " /><meta property="og:title" content="“时”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“时”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“时”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/时" />
+<link rel="canonical" href="//www.zdic.net/hans/时" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/时" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/时" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/时" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/时">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/时">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/65F6.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/65F6.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shí<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“时”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shí.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“时”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">  日</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/時' target=_blank>時</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/時' target=_blank>時</a> <a href='/hans/旹' target=_blank>旹</a> <a href='/hans/峕' target=_blank>峕</a> <a href='/hans/㫑' target=_blank>㫑</a> <a href='/hans/𡺈' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21E88.svg'><span class='ytz_txt'>𡺈</span> <a href='/hans/𡺞' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21E9E.svg'><span class='ytz_txt'>𡺞</span> <a href='/hans/𣅱' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23171.svg'><span class='ytz_txt'>𣅱</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+65F6</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>2511124</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>jfy</p></td>                            <td class="dsk_2_1"><p>adi</p></td>                            <td class="dsk_2_1"><p>kds</p></td>                            <td class="dsk_2_1"><p>64000</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shí<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“时”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shí.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“时”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">日</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 65F6<span class="z_ts2">笔顺</span> 2511124                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="65F6_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6135" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">时</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>时</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">時</span>）</strong></p>
+<p><span class="dicpy">sh&iacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&iacute;.mp3"></a></span>  ㄕˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>一切事物不断发展变化所经历的过程：～间。～不我与。</li>
+	<li>较长的时间：～代。古～。</li>
+	<li>泛指一段时间：～光。～令。～分。</li>
+	<li>现在的，当前的：当～。～下。～务。～宜。</li>
+	<li>常常：～常。学而～习之。</li>
+	<li>一年中的一季：～序。四～如春。</li>
+	<li>旧时的记时单位，一昼夜十二分之一为一&ldquo;时辰&rdquo;，深夜十一点至次日凌晨一点为&ldquo;子时&rdquo;，中午十一点至一点为&ldquo;午时&rdquo;。</li>
+	<li>现在的记时单位，一昼夜的二十四分之一：～钟。～差（<span class="dicpy">chā</span>）。</li>
+	<li>某一时刻：按～上班。</li>
+	<li>不定时，有时候：～而。～阴～晴。</li>
+	<li>机会：～机。待～而动。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> time, season; era, age, period</p><p><span class="z_ts2">德语</span> Jahreszeit, Periode, Stunde, Uhr, Zeit  (S, Sprachw)</p><p><span class="z_ts2">法语</span> temps,heure,souvent,actuel,courant,occasion</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">时</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>时</strong></p>
+<p>時、旹 <span class="dicpy">sh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&iacute;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从日，寺声。从&ldquo;日&rdquo;与时间有关。本义:季度;季节)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[quarter (of a year);season]</span></p>
+<p><span class="diczx1">时，四时也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">四时，四方各一时，时，期也。&mdash;&mdash;<span class="smcs">《释名》</span></span></p>
+<p><span class="diczx1">谓其三时不害。&mdash;&mdash;<span class="smcs">《左传&middot;桓公六年》</span>。注:&ldquo;春夏秋也。&rdquo;</span></p>
+<p><span class="diczx1">三时者，成岁之要时。又，天时不如地利。&mdash;&mdash;<span class="smcs">《孟子&middot;篇叙》</span>。注:&ldquo;谓时曰支干五行相孤虚之属也。&rdquo;</span></p>
+<p><span class="diczx1">斧斤以时入山林。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">时事之征也。&mdash;&mdash;<span class="smcs">《左传&middot;闵公二年》</span></span></p>
+<p><span class="diczx1">时者，所以记岁也。&mdash;&mdash;<span class="smcs">《管子&middot;山权数》</span></span></p>
+<p><span class="diczx1">四时者，天之吏也。&mdash;&mdash;<span class="smcs">《淮南子&middot;天文》</span></span></p>
+<p><span class="diczx1">四时和谓之宝烛。&mdash;&mdash;<span class="smcs">《尔雅&middot;释天》</span>。注:&ldquo;道光照也。&rdquo;</span></p>
+<p><span class="diczx1">敬授人时。&mdash;&mdash;<span class="smcs">《书&middot;尧典》</span>。</span><span class="diczx2">马</span>注:&ldquo;羲和四子掌四时。&rdquo;</p>
+<p><span class="diczx1">四时之景不同，而乐亦无穷也。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《醉翁亭记》</span></p>
+<p><span class="diczx1">谓其三时(指春夏秋)不害，而民和年丰也。&mdash;&mdash;<span class="smcs">《左传&middot;桓公六年》</span></span></p>
+<p><span class="diczx3">又如:时气(时令，气候);时若(四时和顺);时食(四季应时的食品);时耕(春耕);时夏(夏季);时暑(夏天的炎热);时景(春景);时禽(随节候而出现的鸟);时享(宗庙四时的祭祀);时序(季节的顺序，时间的先后);时祀(按四季所举行的祭祀);时田(四时田猎。指古代帝王、贵族四时到野外打猎，并行军事训练);时令病(在一定季节流行的疾病);时衣(四时的衣服);时芳(应季节而开放的花)</span></p>
+<p><span class="cino">(3)</span> 时辰 <span class="encs">[one of the 12two-hour periods into which the day was traditionally divided]</span>，计时单位，一昼夜的十二分之一(古时一昼夜分为十二时)</p>
+<p><span class="diczx1">时，时辰也。十二时也。&mdash;&mdash;<span class="smcs">《韵会》</span></span></p>
+<p><span class="diczx1">觯俟时而酌。&mdash;&mdash;<span class="smcs">《仪礼&middot;既夕记》</span>。注:&ldquo;朝兮也。&rdquo;</span></p>
+<p><span class="diczx1">以时启闭。&mdash;&mdash;<span class="smcs">《周礼&middot;阍人》</span></span></p>
+<p><span class="diczx1">时数辞违。&mdash;&mdash;<span class="smcs">《太玄&middot;玄数》</span></span></p>
+<p><span class="diczx1">一日思亲十二时。&mdash;&mdash;</span><span class="diczx2">黄庭坚</span><span class="smcs">《思亲汝州作》</span></p>
+<p><span class="diczx1">时已过午，奴辈适至。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="diczx1">从已时直杀到未时，</span><span class="diczx2">周瑜</span>虽得利，只恐寡不敌众，遂下令鸣金收住船只。&mdash;&mdash;<span class="smcs">《三国演义》</span></p>
+<p><span class="diczx3">又如:报时;此日此时;时辰钟(时钟，钟表);晡时(下午四时左右);午时(白天11点至1点);子时(夜间11点至1点)</span></p>
+<p><span class="cino">(4)</span> 时间;时候 <span class="encs">[time]</span></p>
+<p><span class="diczx1">始臣之解牛之时，所见无非全牛者。&mdash;&mdash;<span class="smcs">《庄子&middot;养生主》</span></span></p>
+<p><span class="diczx1">生之有时而用之亡度，则物力心屈。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《论积贮疏》</span></p>
+<p><span class="diczx1">自谓少时用心于学甚劳。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p>
+<p><span class="diczx1">女时昔作儿，生小出野里。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:费时(耗费时间);多时(很长时间);时晌(时饷。时间);时子(时候);时目(时下的眼光);时出(得其时而出)</span></p>
+<p><span class="cino">(5)</span> 时尚，时俗 <span class="encs">[fashion]</span></p>
+<p><span class="diczx2">李氏</span>子 <span class="diczx2">蟠</span>，年十七，好古文，六艺经传皆通习之，不拘于时，学于余。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="cino">(6)</span> 时运;命运 <span class="encs">[fortune]</span></p>
+<p><span class="diczx1">死之短长，时也。&mdash;&mdash;<span class="smcs">《左传》</span></span></p>
+<p><span class="diczx1">杀身有地初非惜，报国无时未免愁。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">陆游</span><span class="smcs">《登慧照寺小阁》</span></p>
+<p><span class="diczx3">又如:时衰(时运衰落);时道(时运;机会);时蹇(时运不佳)</span></p>
+<p><span class="cino">(7)</span> 时机;机会 <span class="encs">[opportunity]</span></p>
+<p><span class="diczx1">长风破浪会有时，直挂云帆济沧海。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《行路难》</span></p>
+<p><span class="diczx1">鸡豚狗彘之畜，无失其时。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx3">又如:失时;时乖运蹇</span></p>
+<p><span class="cino">(8)</span> 动词的时态 <span class="encs">[tense]</span>。</p>
+<p><span class="diczx3">如:过去时;将来时</span></p>
+<p><span class="cino">(9)</span> 钟点 <span class="encs">[o&rsquo;clock]</span>。</p>
+<p><span class="diczx3">如:三时三十分十五秒</span></p>
+<p><span class="cino">(10)</span> 片刻，一会儿或瞬间 <span class="encs">[moment]</span>。</p>
+<p><span class="diczx3">如:一时找不到;时暂(短暂时间);时霎(片刻，很短的时间);时复间(一时间，暂时)</span></p>
+<p><span class="cino">(11)</span> 岁月，光阴 <span class="encs">[days]</span></p>
+<p><span class="diczx1">时不久留。&mdash;&mdash;<span class="smcs">《吕氏春秋》</span></span></p>
+<p><span class="cino">(12)</span> 指时势或时局 <span class="encs">[current situation]</span></p>
+<p><span class="diczx1">救时应仗出群才。&mdash;&mdash;</span><span class="diczx2">秋瑾</span><span class="smcs">《黄海舟中》</span></p>
+<p><span class="diczx3">又如:时化(时势的变化);时艰(时局的艰难困苦)</span></p>
+<p><span class="cino">(13)</span> 代，朝 <span class="encs">[dynasty]</span></p>
+<p><span class="diczx1">自云先世避</span><span class="diczx2">秦</span>时乱。&mdash;&mdash; <span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">世易时移，变法宜矣。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;察今》</span></span></p>
+<p><span class="diczx1">变法者因时而他。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;察今》</span></span></p>
+<p><span class="diczx3">又如:时世(时代，时局);时年(时代)</span></p>
+<p><span class="cino">(14)</span> 气候 <span class="encs">[climate]</span></p>
+<p><span class="diczx1">天时不如地利，地利不如人和。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑下》</span></span></p>
+<p><span class="diczx1">今天时顺正，死者尚稀。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="cino">(15)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>时</strong></p>
+<p>時 <span class="dicpy">sh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&iacute;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 合时宜的，适时的 <span class="encs">[fashionable]</span></p>
+<p><span class="diczx1">时雨降矣。&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="diczx3">又如:时豪(穿着入时;时髦);时谚;时文;时服(当时通行的服装;时兴的服装)</span></p>
+<p><span class="cino">(2)</span> 当时的 <span class="encs">[current;present]</span></p>
+<p><span class="diczx1">每自比于</span><span class="diczx2">管仲</span><span class="diczx2">乐毅</span>，时人莫之许也。&mdash;&mdash;<span class="smcs">《三国志&middot;诸葛亮传》</span></p>
+<p><span class="diczx3">又如:时忌(当时的忌讳);时辈(当时的名流、贤达);时彦(当时的英才);时人(当时的人);时势;时语(当时的口语);时豪(当时的豪强);时俊(当代或当时的贤俊)</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;是&rdquo;。善，好 <span class="encs">[good]</span></p>
+<p><span class="diczx1">尔酒既旨，尔殽既时。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;怡弁》</span></span></p>
+<p>◎ <strong>时</strong></p>
+<p>時 <span class="dicpy">sh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&iacute;.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 相当于&ldquo;常常&rdquo;、&ldquo;经常&rdquo; <span class="encs">[now and then]</span></p>
+<p><span class="diczx1">时与出游猎。&mdash;&mdash;<span class="smcs">《史记&middot;吕太后本纪》</span></span></p>
+<p><span class="diczx1">策扶老以流憩，时矫首而遐。&mdash;&mdash;</span><span class="diczx2">陶潜</span><span class="smcs">《归去来兮辞》</span></p>
+<p><span class="diczx1">庭阶寂寂，小鸟时来啄食，人至不去。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx1">数千里外，得长者时赐一书，以慰长想，即亦甚幸矣。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">宗臣</span><span class="smcs">《报刘一丈书》</span></p>
+<p><span class="diczx3">又如:时闻(常常聆听);时常(常常;经常);时形(经常出现)</span></p>
+<p><span class="cino">(2)</span> 相当于&ldquo;有时&rdquo;、&ldquo;偶尔&rdquo; <span class="encs">[sometimes]</span></p>
+<p><span class="diczx1">下盼诸峰，时出为碧峤，时没为银海。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">徐宏祖</span><span class="smcs">《游黄山记》</span></p>
+<p><span class="diczx1">故家大姓时有被诬负屈者。&mdash;&mdash;<span class="smcs">《明史&middot;海瑞传》</span></span></p>
+<p><span class="cino">(3)</span> 按时，到时候 <span class="encs">[according to the fixed period]</span></p>
+<p><span class="diczx1">谨食之，时而献焉。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx1">学而时习之，不亦说乎?&mdash;&mdash;<span class="smcs">《论语&middot;学而》</span></span></p>
+<p><span class="cino">(4)</span> 叠用，表示时而这样，时而那样;一会儿这样，一会儿那样 <span class="encs">[now&hellip;now&hellip;;sometimes&hellip;sometimes&hellip;]</span>。</p>
+<p><span class="diczx3">如:时冷时热</span></p>
+<p><span class="cino">(5)</span> 当时，这时，那时 <span class="encs">[then;at that time]</span></p>
+<p><span class="diczx1">时</span><span class="diczx2">秦昭王</span>与楚婚。&mdash;&mdash;<span class="smcs">《史记》</span></p>
+<p><span class="diczx1">时天下承平日久，自王侯以下莫不逾侈。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx1">时大风雪。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p>◎ <strong>时</strong></p>
+<p>時 <span class="dicpy">sh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&iacute;.mp3"></a></span> </p>
+<p>〈代〉</p>
+<p>表示近指，相当于&ldquo;此&rdquo;、这&rdquo; <span class="encs">[this]</span></p>
+<p><span class="diczx1">时，是也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">黎民于变时雍。&mdash;&mdash;<span class="smcs">《书&middot;尧典》</span>。传:&ldquo;是也。&rdquo;</span></p>
+<p><span class="diczx1">孝友时格。&mdash;&mdash;<span class="smcs">《仪礼&middot;士冠礼》</span></span></p>
+<p><span class="diczx1">率时农夫，播厥百谷。&mdash;&mdash;<span class="smcs">《诗&middot;周颂&middot;噫嘻》</span></span></p>
+<p><span class="diczx1">匪上帝不时，殷不用旧。&mdash;&mdash;<span class="smcs">《荀子&middot;非十二子》</span></span></p>
+<p><span class="diczx1">奉时辰牡，辰牡孔硕。&mdash;&mdash;<span class="smcs">《诗&middot;秦风&middot;驷》</span></span></p>
+<p><span class="diczx1">时大风雪，旌旗裂，人马冻死者相望。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></span></p>
+<p>◎ <strong>时</strong></p>
+<p>時 <span class="dicpy">sh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&iacute;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 适时;合于时宜 <span class="encs">[at the right moment;in good time;timely]</span></p>
+<p><span class="diczx1">风雨之不时。&mdash;&mdash;<span class="smcs">《荀子》</span></span></p>
+<p><span class="diczx3">又如:时菊(应时开的菊);时雪(应时的雪);时味(应时的美味);时果(应时的水果);时物(应时的作物);时花(应时开的花);时鸟(应时而鸣的鸟);时材(应时的才能);时风(应时的风);时馐(应时的美味);时稼(应时的作物)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;伺&rdquo;。伺候;等待 <span class="encs">[wait]</span></p>
+<p><span class="diczx2">孔子</span>时其亡无而往拜之。&mdash;&mdash;<span class="smcs">《论语&middot;阳货》</span></p>
+<p><span class="diczx1">时其饥饱，达其怒心。&mdash;&mdash;<span class="smcs">《庄子&middot;人间世》</span></span></p>
+<p><span class="diczx1">来丹遂执剑从黑卵，时黑卵之醉偃于牖下，自颈至腰三斩之。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx3">又如:时行(等待时机而行;及时而作);少时(稍等)</span></p>
+<p><span class="cino">(3)</span> 处，处于 <span class="encs">[find oneself in]</span></p>
+<p><span class="diczx1">宜于时通，利以处穷。&mdash;&mdash;<span class="smcs">《荀子》</span></span></p>
+<p><span class="cino">(4)</span> 承，承受 <span class="encs">[bear]</span></p>
+<p><span class="diczx1">纳于百揆，百揆时叙。&mdash;&mdash;<span class="smcs">《书&middot;舜典》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/时辈">时辈</a></span><span class="crefe"><a href="/hans/时弊">时弊</a></span><span class="crefe"><a href="/hans/时不可失">时不可失</a></span><span class="crefe"><a href="/hans/时不时">时不时</a></span><span class="crefe"><a href="/hans/时不我待">时不我待</a></span><span class="crefe"><a href="/hans/时差">时差</a></span><span class="crefe"><a href="/hans/时常">时常</a></span><span class="crefe"><a href="/hans/时辰">时辰</a></span><span class="crefe"><a href="/hans/时代">时代</a></span><span class="crefe"><a href="/hans/时而">时而</a></span><span class="crefe"><a href="/hans/时乖命蹇">时乖命蹇</a></span><span class="crefe"><a href="/hans/时光">时光</a></span><span class="crefe"><a href="/hans/时过境迁">时过境迁</a></span><span class="crefe"><a href="/hans/时候">时候</a></span><span class="crefe"><a href="/hans/时或">时或</a></span><span class="crefe"><a href="/hans/时机">时机</a></span><span class="crefe"><a href="/hans/时价">时价</a></span><span class="crefe"><a href="/hans/时间">时间</a></span><span class="crefe"><a href="/hans/时节">时节</a></span><span class="crefe"><a href="/hans/时局">时局</a></span><span class="crefe"><a href="/hans/时刻">时刻</a></span><span class="crefe"><a href="/hans/时空">时空</a></span><span class="crefe"><a href="/hans/时来运转">时来运转</a></span><span class="crefe"><a href="/hans/时令">时令</a></span><span class="crefe"><a href="/hans/时髦">时髦</a></span><span class="crefe"><a href="/hans/时期">时期</a></span><span class="crefe"><a href="/hans/时气">时气</a></span><span class="crefe"><a href="/hans/时区">时区</a></span><span class="crefe"><a href="/hans/时日">时日</a></span><span class="crefe"><a href="/hans/时尚">时尚</a></span><span class="crefe"><a href="/hans/时时刻刻">时时刻刻</a></span><span class="crefe"><a href="/hans/时事">时事</a></span><span class="crefe"><a href="/hans/时势">时势</a></span><span class="crefe"><a href="/hans/时势造英雄">时势造英雄</a></span><span class="crefe"><a href="/hans/时俗">时俗</a></span><span class="crefe"><a href="/hans/时速">时速</a></span><span class="crefe"><a href="/hans/时态">时态</a></span><span class="crefe"><a href="/hans/时望所归">时望所归</a></span><span class="crefe"><a href="/hans/时文">时文</a></span><span class="crefe"><a href="/hans/时务">时务</a></span><span class="crefe"><a href="/hans/时下">时下</a></span><span class="crefe"><a href="/hans/时鲜">时鲜</a></span><span class="crefe"><a href="/hans/时贤">时贤</a></span><span class="crefe"><a href="/hans/时限">时限</a></span><span class="crefe"><a href="/hans/时效">时效</a></span><span class="crefe"><a href="/hans/时新">时新</a></span><span class="crefe"><a href="/hans/时行">时行</a></span><span class="crefe"><a href="/hans/时兴">时兴</a></span><span class="crefe"><a href="/hans/时序">时序</a></span><span class="crefe"><a href="/hans/时彦">时彦</a></span><span class="crefe"><a href="/hans/时谚">时谚</a></span><span class="crefe"><a href="/hans/时样">时样</a></span><span class="crefe"><a href="/hans/时宜">时宜</a></span><span class="crefe"><a href="/hans/时移势迁">时移势迁</a></span><span class="crefe"><a href="/hans/时誉">时誉</a></span><span class="crefe"><a href="/hans/时运">时运</a></span><span class="crefe"><a href="/hans/时运亨通">时运亨通</a></span><span class="crefe"><a href="/hans/时针">时针</a></span><span class="crefe"><a href="/hans/时钟">时钟</a></span><span class="crefe"><a href="/hans/时转">时转</a></span><span class="crefe"><a href="/hans/时装">时装</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="65F6_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              時·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">時</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“时”字头，请参考“<a href="/hans/時">時</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              時·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：6</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6642.svg">						  <p>〔古文〕旹【唐韻】【集韻】【韻會】市之切【正韻】辰之切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音蒔。【說文】四時也。【釋名】四時，四方各一時。時，期也，物之生死各應節期而至也。【書&middot;堯典】敬授人時。【傳】敬記天時以授人也。【又】朞三百有六旬有六日，以閏月定四時成歲。【禮&middot;孔子閒居】天有四時，春秋冬夏。【淮南子&middot;天文訓】隂陽之專精爲四時。【又】三月而爲一時。</p>
+<p>又【韻會】辰也，十二時也。</p>
+<p>又【廣韻】是也。【書&middot;堯典】黎民於變時雍。【傳】時，是也。【詩&middot;大雅】曰止曰時，築室于兹。【朱傳】可以止于是，而築室矣。</p>
+<p>又【博雅】伺也。【論語】孔子時其亡也，而往拜之。【疏】謂伺虎不在家時而往謝之。</p>
+<p>又【博雅】善也。【廣韻】中也。</p>
+<p>又地名。【左傳&middot;莊九年】戰于乾時。【註】乾時，齊地。時水在樂安界，岐流旱則竭涸，故曰乾時。</p>
+<p>又姓。【廣韻】良吏傳有時苗。《何氏姓苑》云：今鉅鹿人。</p>
+<p>又與塒同。【詩&middot;王風】雞棲于塒。【釋文】塒，本亦作時。</p>
+<p>又【韻補】叶上紙切。【王粲&middot;七釋】不以志易道，不以身後時。進德修業，與世同理。</p>
+<p>又叶側吏切。【屈原&middot;離騷】忳鬰邑余侘傺兮，吾獨窮苦乎此時也。叶下態，態音替。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="65F6_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=日">日</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">時</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“时”字头，请参考“<a href="/hans/時">時</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=日">日</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6642.svg">                          <p>四時也。从日寺聲。旹，古文時从之日。市之切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6642_2552.svg" /><span class="swbf">(時)</span><span class="ywyy">四時也。</span><span class="swdz">本春秋冬夏之稱，引伸之爲凡歲月日刻之用。釋詁曰：時，是也。此時之本義，言時則無有不是者也。廣雅曰：時，伺也。此引伸之義，如不能辰夜，遠猶辰告傳皆云辰時也是也。</span><span class="ywyy">从日寺聲。</span><span class="swdz">市之切。一部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6642_2553.svg" /><span class="swbf">(旹)</span><span class="ywyy">古文時，从日㞢作。</span><span class="swdz">之聲也。小篆从寺，寺亦之聲也。漢隷亦有用旹者。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="65F6_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">时</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂʅ˧˥ </p>						<p><span class="z_ts3">客家话</span>  [客英字典] shi2<span class="z_ts2">粤语</span>  si4<span class="z_ts3">潮州话</span>  si5</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/时">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/时">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/时">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/时">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/时">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/时">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/时">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/时">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/时">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/时">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/时">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/时">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">时</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「時」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/时"><img data-original="//img.zdic.net/zy/jinwen/32_EEA0.svg" class="lazy ypic"><span>「時」 中山王昔壺</span><span>戰國晚期</span><span>集成9735</span></a></td><td><a href="/zd/zx/cx/时"><img data-original="//img.zdic.net/zy/chuwenzi/56_EF4E.svg" class="lazy ypic"><span>「時」 上(2).容.48</span></a></td><td><a href="/zd/zx/xz/时"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E596.svg" class="lazy ypic"><span>「時」 說文古文</span></a></td><td><a href="/zd/zx/qx/时"><img data-original="//img.zdic.net/zy/qinwenzi/71_E6F3.svg" class="lazy ypic"><span>「時」 睡.雜42</span></a></td><td><a href="/hans/時" target="_blank"><img data-original="//img.zdic.net/kai/tw/6642.svg" class="lazy ypic"><span>「時」</span></a> </td><td><a href="/hans/时" target="_blank"><img data-original="//img.zdic.net/kai/tw/65F6.svg" class="lazy ypic"><span>「时」</span></a></td><td style="display:none"><a href="/hans/时" target="_blank"><img data-original="//img.zdic.net/kai/tw/65F6.svg" class="lazy ypic"><span>「时」</span></a></td></tr><tr><td style="display:none"></td><td></td><td><a href="/zd/zx/cx/时"><img data-original="//img.zdic.net/zy/chuwenzi/56_EF55.svg" class="lazy ypic"><span>「時」 郭.五.27</span></a></td><td><a href="/zd/zx/xz/时"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6642.svg" class="lazy ypic"><span>「時」 說文‧日部</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td></td><td><a href="/zd/zx/cx/时"><img data-original="//img.zdic.net/zy/chuwenzi/52_ED2B.svg" class="lazy ypic"><span>「時」 包2.137反</span></a></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/时">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/时">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/时">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/时">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/时">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/65F6.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/65F6.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/65F6.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/時' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6642.svg'><span>時</span></a></div> <div class='zx'><a href='/hans/旹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/65F9.svg'><span>旹</span></a></div> <div class='zx'><a href='/hans/峕' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5CD5.svg'><span>峕</span></a></div> <div class='zx'><a href='/hans/㫑' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3AD1.svg'><span>㫑</span></a></div> <div class='zx'><a href='/hans/𡺈' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21E88.svg'><span>𡺈</span></a></div> <div class='zx'><a href='/hans/𡺞' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21E9E.svg'><span>𡺞</span></a></div> <div class='zx'><a href='/hans/𣅱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23171.svg'><span>𣅱</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6135" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6701">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䶡">䶡(shi2)</a></li><li><a href="/hans/飠">飠(shi2)</a></li><li><a href="/hans/旹">旹(shi2)</a></li><li><a href="/hans/蝕">蝕(shi2)</a></li><li><a href="/hans/峕">峕(shi2)</a></li><li><a href="/hans/碩">碩(shi2)</a></li><li><a href="/hans/識">識(shi2)</a></li><li><a href="/hans/㫅">㫅(shi2)</a></li><li><a href="/hans/饣">饣(shi2)</a></li><li><a href="/hans/实">实(shi2)</a></li><li><a href="/hans/䦹">䦹(shi2)</a></li><li><a href="/hans/實">實(shi2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/曣">曣</a></li><li><a href="/hans/旹">旹</a></li><li><a href="/hans/㫚">㫚</a></li><li><a href="/hans/旭">旭</a></li><li><a href="/hans/暠">暠</a></li><li><a href="/hans/㬝">㬝</a></li><li><a href="/hans/㬉">㬉</a></li><li><a href="/hans/晐">晐</a></li><li><a href="/hans/昷">昷</a></li><li><a href="/hans/昣">昣</a></li><li><a href="/hans/昐">昐</a></li><li><a href="/hans/㬄">㬄</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/抖">抖</a></li><li><a href="/hans/吪">吪</a></li><li><a href="/hans/杖">杖</a></li><li><a href="/hans/闱">闱</a></li><li><a href="/hans/㠻">㠻</a></li><li><a href="/hans/纰">纰</a></li><li><a href="/hans/杊">杊</a></li><li><a href="/hans/芷">芷</a></li><li><a href="/hans/㺯">㺯</a></li><li><a href="/hans/饩">饩</a></li><li><a href="/hans/扮">扮</a></li><li><a href="/hans/囥">囥</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">小<span>时</span>不识月，呼作白玉盘。</div><div class="gscdr">《古朗月行》（节选）</div><div class="gscdl">毕竟西湖六月中，风光不与四<span>时</span>同。</div><div class="gscdr">宋·杨万里 《晓出净慈寺送林子方》</div><div class="gscdl">一年好景君须记，正是橙黄橘绿<span>时</span>。</div><div class="gscdr">宋·苏轼 《赠刘景文》</div><div class="gscdl">蒌蒿满地芦芽短，正是河豚欲上<span>时</span>。</div><div class="gscdr">宋·苏轼 《惠崇春江晚景》</div><div class="gscdl">梅子黄<span>时</span>日日晴，小溪泛尽却山行。</div><div class="gscdr">宋·曾几 《三衢道中》</div><div class="gscdl">绿阴不减来<span>时</span>路，添得黄鹂四五声。</div><div class="gscdr">宋·曾几 《三衢道中》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">元方<span>时</span>年七岁，门外戏。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">子曰：“学而<span>时</span>习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">正是江南好风景，落花<span>时</span>节又逢君。</div><div class="gscdr">唐·杜甫 《江南逢李龟年》</div><div class="gscdl">年与<span>时</span>驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">少<span>时</span>，一狼径去，其一犬坐于前。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">何当共剪西窗烛，却话巴山夜雨<span>时</span>。</div><div class="gscdr">唐·李商隐 《夜雨寄北》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6135"></script>
+</body>
+</html>

@@ -1,0 +1,687 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>归的解释|归的意思|汉典“归”字的基本解释</title>
+<meta name="title" content="归的解释|归的意思|汉典“归”字的基本解释">
+<meta name="keywords" content="|⿰⿰丨丿彐|" /><meta property="og:title" content="“归”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“归”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“归”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/归" />
+<link rel="canonical" href="//www.zdic.net/hans/归" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/归" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/归" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/归" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/归">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/归">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5F52.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5F52.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">guī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“归”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄍㄨㄟ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“归”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄨㄟ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彐" target="_blank">  彐</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/歸' target=_blank>歸</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/歸' target=_blank>歸</a> <a href='/hans/帰' target=_blank>帰</a> <a href='/hans/㱕' target=_blank>㱕</a> <a href='/hans/䢜' target=_blank>䢜</a> <a href='/hans/𡚖' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21696.svg'><span class='ytz_txt'>𡚖</span> <a href='/hans/𡹙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21E59.svg'><span class='ytz_txt'>𡹙</span> <a href='/hans/𢅦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22166.svg'><span class='ytz_txt'>𢅦</span> <a href='/hans/𣦨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/239A8.svg'><span class='ytz_txt'>𣦨</span> <a href='/hans/𤾤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24FA4.svg'><span class='ytz_txt'>𤾤</span> <a href='/hans/𥇳' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/251F3.svg'><span class='ytz_txt'>𥇳</span> <a href='/hans/𨓼' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/284FC.svg'><span class='ytz_txt'>𨓼</span> <a href='/hans/𨺔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28E94.svg'><span class='ytz_txt'>𨺔</span> <a href='/hans/𨺜' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28E9C.svg'><span class='ytz_txt'>𨺜</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5F52</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>23511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>jvg</p></td>                            <td class="dsk_2_1"><p>llsm</p></td>                            <td class="dsk_2_1"><p>kdxb</p></td>                            <td class="dsk_2_1"><p>27070</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">guī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“归”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄍㄨㄟ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“归”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄨㄟ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彐" target="_blank">彐</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 5F52<span class="z_ts2">笔顺</span> 23511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5F52_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4435" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">归</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>归</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">歸</span>）</strong></p>
+<p><span class="dicpy">guī  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span>  ㄍㄨㄟˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>返回，回到本处：～国。～程。～侨。～宁（回娘家看望父母）。～省（<span class="dicpy">xǐng </span>）（回家探亲）。～真反璞。</li>
+	<li>还给：～还。物～原主。</li>
+	<li>趋向，去往：～附。众望所～。</li>
+	<li>合并，或集中于一类，或集中于一地：～并。～功。～咎。</li>
+	<li>由，属于：这事～我办。～属。</li>
+	<li>结局：～宿（<span class="dicpy">s&ugrave;</span>）。</li>
+	<li>珠算中一位除数的除法：九～。</li>
+	<li>古代称女子出嫁：&ldquo;之子于～，宣其室家&rdquo;。</li>
+	<li>自首。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> return; return to, revert to</p><p><span class="z_ts2">德语</span> für etw. verantwortlich sein, gehören  (V)​,zurückgehen, zurückreichen, zurückgeben  (V)​,zurückkehren  (V)​,zurücklaufen  (V)​,Gui  (Eig, Fam)</p><p><span class="z_ts2">法语</span> retourner,rentrer,rendre,appartenir,vers</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">归</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>归</strong></p>
+<p>歸 <span class="dicpy">guī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从止，从婦省。本义:女子出嫁)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[(of a woman) get married]</span></p>
+<p><span class="diczx1">归，女嫁也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">帝乙归妹。&mdash;&mdash;<span class="smcs">《易&middot;泰》</span></span></p>
+<p><span class="diczx1">桃之夭夭，灼灼其华。之子于归，宜其室家。&mdash;&mdash;<span class="smcs">《诗&middot;周南&middot;桃夭》</span>(之子:这个女子)</span></p>
+<p><span class="diczx1">女有归。&mdash;&mdash;<span class="smcs">《礼记&middot;礼运》</span></span></p>
+<p><span class="diczx1">妇人谓嫁曰归。&mdash;&mdash;<span class="smcs">《公羊传&middot;隐公二年》</span></span></p>
+<p><span class="diczx1">生女有所归，鸡狗亦得将。&mdash;&mdash;</span><span class="diczx2">杜甫</span><span class="smcs">《新婚别》</span></p>
+<p><span class="diczx1">后五年，吾妻来归，时至轩中，从余问古事。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx3">又如:归适(出嫁);归女(嫁女);归妹(嫁妹)。又指出嫁女儿返回娘家</span></p>
+<p><span class="diczx1">害瀚害否，归宁父母。&mdash;&mdash;<span class="smcs">《诗&middot;周南&middot;葛覃》</span></span></p>
+<p><span class="diczx1">凡诸侯之女归宁曰来，出曰来归。&mdash;&mdash;<span class="smcs">《左传&middot;庄公二十八年》</span></span></p>
+<p><span class="diczx1">大归曰来归。&mdash;&mdash;<span class="smcs">《公羊传》</span></span></p>
+<p><span class="diczx3">又如:归安(旧时谓出嫁的女子回娘家省视父母);归宗(出嫁女子回归娘家)。又特指女子被婆家休弃回家</span></p>
+<p><span class="diczx1">阿母大拊掌:&ldquo;不图子自归!&rdquo;</span></p>
+<p><span class="cino">(3)</span> 返回，回来 <span class="encs">[go back;return]</span></p>
+<p><span class="diczx1">归，返也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">明公归自王。&mdash;&mdash;</span><span class="diczx2">西周</span><span class="diczx2">金文</span><span class="smcs">《矢( <span class="dicpy">zh&eacute;</span>)令彝》</span></p>
+<p><span class="diczx1">分兵断其归津。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">冠者五六人，童子六七人，浴乎沂，风乎舞雩，咏而归。&mdash;&mdash;<span class="smcs">《论语&middot;先进》</span></span></p>
+<p><span class="diczx1">归来见天子，天子坐明堂。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">大风起兮云飞扬，威加海内兮归故乡。&mdash;&mdash;<span class="smcs">《史记&middot;高祖本纪》</span></span></p>
+<p><span class="diczx1">主人忘归客不发。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx3">又如:归槽(回家);归升(回归天界);归朝(回朝);归本(返回农耕);归沐(回家洗沐)</span></p>
+<p><span class="cino">(4)</span> 归还 <span class="encs">[return sth. to;give sth. back to;restore sth. to]</span></p>
+<p><span class="diczx1">久假而不归。&mdash;&mdash;<span class="smcs">《孟子&middot;尽心上》</span></span></p>
+<p><span class="diczx1">臣请完璧归</span><span class="diczx2">赵</span>。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></p>
+<p><span class="diczx1">则其读书也必专，而其归书也必速。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="diczx3">又如:归事(交还政权);归元(归还人头);归俗(还俗);归业(回复原来的正业)</span></p>
+<p><span class="cino">(5)</span> 辞官回家 <span class="encs">[resign]</span></p>
+<p><span class="diczx1">开荒田野际，守拙归园田。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《归园田居》</span></p>
+<p><span class="diczx3">又如:归耕(辞官归里);归老(辞官返回故里养老);归休(辞官退休);归卧(归林。辞官还乡);归道(辞谢师职)</span></p>
+<p><span class="cino">(6)</span> 死 <span class="encs">[pass away]</span></p>
+<p><span class="diczx1">汝生于浙而葬于斯，离吾乡七百里矣，当时虽觭梦幻想，宁知此为归骨所耶?&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx3">又如:归道山(死亡);归阴(死);归土(埋死人于土中);归休(死去);归神(归天。旧指离开人世，回归神位)</span></p>
+<p><span class="cino">(7)</span> 投案自首 <span class="encs">[surrender]</span>。</p>
+<p><span class="diczx3">如:归诚(归服投诚);归首(归降，自首投案);归命(归顺，顺从);归奉王朔(归顺朝廷)</span></p>
+<p><span class="cino">(8)</span> 合并;归依;归属;归到一处 <span class="encs">[put together]</span></p>
+<p><span class="diczx1">微斯人，吾谁与归?&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx2">樊将军</span>以贫困来归 <span class="diczx2">丹</span>， <span class="diczx2">丹</span>不忍以己之私，而伤长者之意。&mdash;&mdash;<span class="smcs">《战国策&middot;燕策》</span></p>
+<p><span class="diczx1">我以天下之利尽归于己，以天下之害尽归于人，亦无不可。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《原君》</span></p>
+<p><span class="diczx3">又如:归注(汇合)</span></p>
+<p><span class="cino">(9)</span> 趋向;归向 <span class="encs">[tend]</span></p>
+<p><span class="diczx1">况</span><span class="diczx2">刘豫州</span>王室之胄，英才盖世，众士慕仰，若水之归海。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx1">今殴民而归之农，皆著于本。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《论积贮疏》</span></p>
+<p><span class="diczx3">又如:归止(归着，归宿);归一(一样);归市(涌向集市);殊途同归</span></p>
+<p><span class="cino">(10)</span> 用在重叠动词间，表示不相干或无结果。如:玩笑归玩笑，事情可得认真去办</p>
+<p><span class="cino">(11)</span> 结算 <span class="encs">[settle accounts]</span></p>
+<p><span class="diczx1">到晚，</span><span class="diczx2">牛浦</span>回家，问着他，总归不出一个清账。&mdash;&mdash;<span class="smcs">《儒林外史》</span></p>
+<p><span class="cino">(12)</span> 通&ldquo;馈&rdquo;( <span class="dicpy">ku&igrave;</span>)。饷，赠送 <span class="encs">[give as a gift]</span></p>
+<p><span class="diczx1">归公乘马，祭服五称。&mdash;&mdash;<span class="smcs">《左传&middot;闵公二年》</span></span></p>
+<p><span class="diczx3">又如:归衣(赠送衣服)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>归</strong></p>
+<p>歸 <span class="dicpy">guī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p>珠算中称一位除数的除法 <span class="encs">[division on the abacus with a one-digit divisor]</span>。</p>
+<p><span class="diczx3">如:九归</span></p>
+<p>◎ <strong>归</strong></p>
+<p>歸 <span class="dicpy">guī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p>羞惭 <span class="encs">[ashamed;abashed]</span></p>
+<p><span class="diczx1">面目犂黑，状有归色。&mdash;&mdash;<span class="smcs">《战国策&middot;秦策》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/归案">归案</a></span><span class="crefe"><a href="/hans/归并">归并</a></span><span class="crefe"><a href="/hans/归程">归程</a></span><span class="crefe"><a href="/hans/归除">归除</a></span><span class="crefe"><a href="/hans/归档">归档</a></span><span class="crefe"><a href="/hans/归队">归队</a></span><span class="crefe"><a href="/hans/归服">归服</a></span><span class="crefe"><a href="/hans/归附">归附</a></span><span class="crefe"><a href="/hans/归根">归根</a></span><span class="crefe"><a href="/hans/归根结蒂">归根结蒂</a></span><span class="crefe"><a href="/hans/归公">归公</a></span><span class="crefe"><a href="/hans/归国">归国</a></span><span class="crefe"><a href="/hans/归航">归航</a></span><span class="crefe"><a href="/hans/归化">归化</a></span><span class="crefe"><a href="/hans/归还">归还</a></span><span class="crefe"><a href="/hans/归回">归回</a></span><span class="crefe"><a href="/hans/归结">归结</a></span><span class="crefe"><a href="/hans/归结">归结</a></span><span class="crefe"><a href="/hans/归咎于">归咎于</a></span><span class="crefe"><a href="/hans/归口">归口</a></span><span class="crefe"><a href="/hans/归来">归来</a></span><span class="crefe"><a href="/hans/归类">归类</a></span><span class="crefe"><a href="/hans/归理">归理</a></span><span class="crefe"><a href="/hans/归里包堆">归里包堆</a></span><span class="crefe"><a href="/hans/归拢">归拢</a></span><span class="crefe"><a href="/hans/归路">归路</a></span><span class="crefe"><a href="/hans/归谬法">归谬法</a></span><span class="crefe"><a href="/hans/归纳">归纳</a></span><span class="crefe"><a href="/hans/归纳">归纳</a></span><span class="crefe"><a href="/hans/归宁">归宁</a></span><span class="crefe"><a href="/hans/归期">归期</a></span><span class="crefe"><a href="/hans/归齐">归齐</a></span><span class="crefe"><a href="/hans/归侨">归侨</a></span><span class="crefe"><a href="/hans/归去">归去</a></span><span class="crefe"><a href="/hans/归趣">归趣</a></span><span class="crefe"><a href="/hans/归人">归人</a></span><span class="crefe"><a href="/hans/归山">归山</a></span><span class="crefe"><a href="/hans/归属">归属</a></span><span class="crefe"><a href="/hans/归顺">归顺</a></span><span class="crefe"><a href="/hans/归思">归思</a></span><span class="crefe"><a href="/hans/归宿">归宿</a></span><span class="crefe"><a href="/hans/归天">归天</a></span><span class="crefe"><a href="/hans/归田">归田</a></span><span class="crefe"><a href="/hans/归途">归途</a></span><span class="crefe"><a href="/hans/归西">归西</a></span><span class="crefe"><a href="/hans/归降">归降</a></span><span class="crefe"><a href="/hans/归向">归向</a></span><span class="crefe"><a href="/hans/归心">归心</a></span><span class="crefe"><a href="/hans/归心如箭">归心如箭</a></span><span class="crefe"><a href="/hans/归省">归省</a></span><span class="crefe"><a href="/hans/归依">归依</a></span><span class="crefe"><a href="/hans/归依">归依</a></span><span class="crefe"><a href="/hans/归因于">归因于</a></span><span class="crefe"><a href="/hans/归隐">归隐</a></span><span class="crefe"><a href="/hans/归于">归于</a></span><span class="crefe"><a href="/hans/归葬">归葬</a></span><span class="crefe"><a href="/hans/归赵">归赵</a></span><span class="crefe"><a href="/hans/归着">归着</a></span><span class="crefe"><a href="/hans/归真返璞">归真返璞</a></span><span class="crefe"><a href="/hans/归整">归整</a></span><span class="crefe"><a href="/hans/归置">归置</a></span><span class="crefe"><a href="/hans/归终">归终</a></span><span class="crefe"><a href="/hans/归舟">归舟</a></span><span class="crefe"><a href="/hans/归总">归总</a></span><span class="crefe"><a href="/hans/归罪">归罪</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>归</strong></p>
+<p>歸 <span class="dicpy">ku&igrave;</span></p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 通&ldquo;馈&rdquo;。赠送 <span class="encs">[present]</span>。</p>
+<p><span class="diczx3">如:归示(赠送嘉示);归赈(赠送祭社稷或祭宗庙所用的生肉)</span></p>
+<p><span class="cino">(2)</span> 惭愧 <span class="encs">[feel ashamed]</span>。</p>
+<p><span class="diczx3">如:归色(愧色)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">guī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guī.mp3"></a></span> </p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5F52_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集下" target="_blank">辰集下</a>】【<a href="/zd/kx/?zm=辰集下&amp;bs=止" target="_blank">止</a>】
+                              歸·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：14</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">歸</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“归”字头，请参考“<a href="/hans/歸">歸</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集下" target="_blank">辰集下</a>】【<a href="/zd/kx/?zm=辰集下&amp;bs=止" target="_blank">止</a>】
+                              歸·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：14</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6B78.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24FA4.svg"><span class="k_txt">𤾤</span>【唐韻】舉韋切【集韻】居韋切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音騩。還也，入也。【詩&middot;小雅】薄音旋歸。</p>
+<p>又還所取之物亦曰歸。【春秋&middot;定十年】齊人來歸鄆、讙、龜隂田。</p>
+<p>又【禮&middot;祭義】父母全而生之，予全而歸之。【孟子】久假而不歸。皆還復之義。</p>
+<p>又【春秋&middot;隱元年】歸惠公仲子之賵。【杜註】歸者，不反之辭。【桓七年】突歸于鄭。【穀梁傳】歸，易辭也。</p>
+<p>又依歸也。【詩&middot;曹風】于我歸處。【毛傳】歸，依歸也。</p>
+<p>又歸附也。【穀梁傳&middot;莊二年】王者，民之所歸往也。【詩&middot;大雅】豈弟君子，民之攸歸。</p>
+<p>又【說文】女嫁也。【詩&middot;周南】之子于歸。【禮&middot;禮運】男有分，女有歸。</p>
+<p>又【穀梁傳&middot;隱二年】婦人謂嫁曰歸，反曰來歸。【註】嫁而曰歸，明外屬也。反曰來歸，明從外至也。【左傳&middot;莊二十七年】凡諸侯之女歸寧曰來，出曰來歸。夫人歸寧曰如某，出曰歸于某。</p>
+<p>又投也，委也。【左傳&middot;襄三年】請歸死于司敗。</p>
+<p>又【前漢&middot;申屠嘉傳】鼂錯恐自歸景帝。【註】師古曰：自首于天子。</p>
+<p>又與也，許也。【論語】天下歸仁焉。</p>
+<p>又合也。【禮&middot;緇衣】私惠不歸德。【註】謂不合於德義。</p>
+<p>又終也。【左傳&middot;宣十一年】以討召諸侯，而以貪歸之。</p>
+<p>又歸妹，卦名。</p>
+<p>又三歸，臺名。【史記註】三歸，取三姓女也。</p>
+<p>又指趨曰歸。【易&middot;繫辭】殊途而同歸。【史記&middot;李斯傳】覩指而識歸。</p>
+<p>又道家有八歸。【參同契】九還、七返、八歸、六居。【註】八歸者，天三生木，地八成汞，戊己一合，木汞之眞，歸煉鼎中，故曰八歸。</p>
+<p>又【謝察微&middot;算經】有歸法，歸已入之數也。</p>
+<p>又歸藏，黃帝《易》名。一曰殷《易》。【周禮&middot;春官】大卜掌三《易》之灋，二曰歸藏。【註】歸藏者，萬物莫不歸而藏之于中。此《易》以純坤爲首，故名。</p>
+<p>又【爾雅&middot;釋親】女子謂晜弟之子爲姪，謂姪之子爲歸孫。</p>
+<p>又饋也。【論語】歸孔子豚。【晉語】不腆敝邑之禮，敢歸諸下執政。</p>
+<p>又山名。【山海經】太行之山，其首曰歸山，其上有金玉，其下有碧。</p>
+<p>又州名。【廣韻】本春秋夔子國，武德初，割夔州之秭歸巴東二縣，置州，取歸國爲名也。【廣輿記】今屬荆州府。</p>
+<p>又姓。</p>
+<p>又歸邪，星氣名。【前漢&middot;天文志】如星非星，如雲非雲，名曰歸邪。歸邪出，必有歸國者，邪音虵。</p>
+<p>又忘歸，矢名，見【公孫子】。</p>
+<p>又姊歸，鳥名。當歸，藥名。</p>
+<p>又【集韻】求位切，音匱。同饋。【說文】餉也。亦讀如字。義見上。　籀省作㱕。漢<img class="lazy k_img" data-original="//img.zdic.net/song/cn/254D3.svg"><span class="k_txt">𥓓</span>作歸。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5F52_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=止">止</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">歸</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“归”字头，请参考“<a href="/hans/歸">歸</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=止">止</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6B78.svg">                          <p>女嫁也。从止，从婦省，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/200A4.svg"><span class="k_txt">𠂤</span>聲。㱕，籒文省。舉韋切〖注〗<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24FA4.svg"><span class="k_txt">𤾤</span>，古文歸。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6B78_3115.svg" /><span class="swbf">(歸)</span><span class="ywyy">女嫁也。</span><span class="swdz">公羊傳、毛傳皆云：婦人謂嫁歸。此非婦人假歸名，乃凡還家者假婦嫁之名也。</span><span class="ywyy">从止婦省。</span><span class="swdz">當云从婦止，婦省。寫者奪之。婦止者，婦止於是也。</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/200A4.svg"><span class="k_txt">𠂤</span>聲。</span><span class="swdz">舉韋切。十五部。林罕妄改爲追省聲。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6B78_3116.svg" /><span class="swbf">(㱕)</span><span class="ywyy">籒文省。</span><span class="swdz">會意。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5F52_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">归</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  kuei˥ </p>						<p><span class="z_ts3">客家话</span>  [客英字典] kwui1<span class="z_ts2">粤语</span>  gwai1</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/归">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/归">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/归">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/归">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/归">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/归">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/归">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/归">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/归">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/归">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/归">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/归">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">归</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「歸」。</p>
+<table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td>楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E771.svg" /><span>「歸」 甲3342</span><span>合4268</span></a></td>
+			<td><a href="/zd/zx/jw/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E714.svg" /><span>「歸」 夨令方尊</span><span>西周早期</span><span>集成6016</span></a></td>
+			<td><a href="/zd/zx/cx/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E86C.svg" /><span>「歸」 天卜</span></a></td>
+			<td><a href="/zd/zx/xz/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E14D.svg" /><span>「歸」 說文籀文</span></a></td>
+			<td><a href="/zd/zx/qx/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E123.svg" /><span>「歸」 睡.秦46</span></a></td>
+			<td><a href="/hans/歸" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/6B78.svg" /><span>「歸」</span></a></td>
+			<td><a href="/hans/归" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/5F52.svg" /><span>「归」</span></a></td>
+			<td style="display:none"><a href="/hans/归" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5F52.svg" /><span>「归」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E777.svg" /><span>「歸」 鐵81.3</span><span>合6923</span></a></td>
+			<td><a href="/zd/zx/jw/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E718.svg" /><span>「歸」 貉子卣</span><span>西周早期</span><span>集成5409</span></a></td>
+			<td><a href="/zd/zx/cx/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E854.svg" /><span>「歸」 包2.43</span></a></td>
+			<td><a href="/zd/zx/xz/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_6B78.svg" /><span>「歸」 說文‧止部</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E717.svg" /><span>「歸」 伯歸夆簋</span><span>西周中期</span><span>集成4331</span></a></td>
+			<td><a href="/zd/zx/cx/归"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E85C.svg" /><span>「歸」 包2.131</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/归">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/归">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/归">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/归">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/归">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/归">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5F52.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5F52.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5F52.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/歸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6B78.svg'><span>歸</span></a></div> <div class='zx'><a href='/hans/帰' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5E30.svg'><span>帰</span></a></div> <div class='zx'><a href='/hans/㱕' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3C55.svg'><span>㱕</span></a></div> <div class='zx'><a href='/hans/䢜' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/489C.svg'><span>䢜</span></a></div> <div class='zx'><a href='/hans/𡚖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21696.svg'><span>𡚖</span></a></div> <div class='zx'><a href='/hans/𡹙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21E59.svg'><span>𡹙</span></a></div> <div class='zx'><a href='/hans/𢅦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22166.svg'><span>𢅦</span></a></div> <div class='zx'><a href='/hans/𣦨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/239A8.svg'><span>𣦨</span></a></div> <div class='zx'><a href='/hans/𤾤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24FA4.svg'><span>𤾤</span></a></div> <div class='zx'><a href='/hans/𥇳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/251F3.svg'><span>𥇳</span></a></div> <div class='zx'><a href='/hans/𨓼' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/284FC.svg'><span>𨓼</span></a></div> <div class='zx'><a href='/hans/𨺔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28E94.svg'><span>𨺔</span></a></div> <div class='zx'><a href='/hans/𨺜' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28E9C.svg'><span>𨺜</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4435" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5159">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/胿">胿(gui1)</a></li><li><a href="/hans/璝">璝(gui1)</a></li><li><a href="/hans/䲅">䲅(gui1)</a></li><li><a href="/hans/瑰">瑰(gui1)</a></li><li><a href="/hans/槣">槣(gui1)</a></li><li><a href="/hans/嫢">嫢(gui1)</a></li><li><a href="/hans/規">規(gui1)</a></li><li><a href="/hans/珪">珪(gui1)</a></li><li><a href="/hans/櫰">櫰(gui1)</a></li><li><a href="/hans/傀">傀(gui1)</a></li><li><a href="/hans/廆">廆(gui1)</a></li><li><a href="/hans/瞡">瞡(gui1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/彗">彗</a></li><li><a href="/hans/彠">彠</a></li><li><a href="/hans/彟">彟</a></li><li><a href="/hans/彚">彚</a></li><li><a href="/hans/录">录</a></li><li><a href="/hans/彐">彐</a></li><li><a href="/hans/当">当</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/玍">玍</a></li><li><a href="/hans/仨">仨</a></li><li><a href="/hans/瓜">瓜</a></li><li><a href="/hans/厉">厉</a></li><li><a href="/hans/㐀">㐀</a></li><li><a href="/hans/汈">汈</a></li><li><a href="/hans/讪">讪</a></li><li><a href="/hans/立">立</a></li><li><a href="/hans/𠁥">𠁥</a></li><li><a href="/hans/孕">孕</a></li><li><a href="/hans/㞥">㞥</a></li><li><a href="/hans/𠕅">𠕅</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">儿童散学<span>归</span>来早，忙趁东风放纸鸢。</div><div class="gscdr">清·高鼎 《村居》</div><div class="gscdl">青箬笠，绿蓑衣，斜风细雨不须<span>归</span>。</div><div class="gscdr">唐·张志和 《渔歌子》</div><div class="gscdl"><span>归</span>来饱饭黄昏后，不脱蓑衣卧月明。</div><div class="gscdr">唐·吕岩 《牧童》</div><div class="gscdl">才始送春<span>归</span>，又送君<span>归</span>去。</div><div class="gscdr">宋·王观 《卜算子·送鲍浩然之浙东》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">乡书何处达？<span>归</span>雁洛阳边。</div><div class="gscdr">唐·王湾 《次北固山下》</div><div class="gscdl">一屠晚<span>归</span>，担中肉尽，止有剩骨。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">君问<span>归</span>期未有期，巴山夜雨涨秋池。</div><div class="gscdr">唐·李商隐 《夜雨寄北》</div><div class="gscdl">将军百战死，壮士十年<span>归</span>。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl"><span>归</span>来见天子，天子坐明堂。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">草树知春不久<span>归</span>，百般红紫斗芳菲。</div><div class="gscdr">唐·韩愈 《晚春》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4435"></script>
+</body>
+</html>

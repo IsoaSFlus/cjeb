@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>秉的解释|秉的意思|汉典“秉”字的基本解释</title>
+<meta name="title" content="秉的解释|秉的意思|汉典“秉”字的基本解释">
+<meta property="og:title" content="“秉”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“秉”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“秉”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/秉" />
+<link rel="canonical" href="//www.zdic.net/hans/秉" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/秉" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/秉" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/秉" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/秉">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/秉">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/79C9.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/79C9.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">bǐng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“秉”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bǐng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄅㄧㄥˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“秉”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄧㄥˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=禾" target="_blank">  禾</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_ytz2"><a href='/hans/柄' target=_blank>柄</a>  <a href='/hans/㨀' target=_blank>㨀</a>  <a href='/hans/抦' target=_blank>抦</a>  <a href='/hans/𣏲' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/233F2.svg'><span class='ytz_txt'>𣏲</span></a>  <a href='/hans/𥝐' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/25750.svg'><span class='ytz_txt'>𥝐</span></a>  <a href='/hans/𦱮' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26C6E.svg'><span class='ytz_txt'>𦱮</span></a>  <a href='/hans/𥟱' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/257F1.svg'><span class='ytz_txt'>𥟱</span></a>  <a href='/hans/棅' target=_blank>棅</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+79C9</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>31511234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tgvi|tvd</p></td>                            <td class="dsk_2_1"><p>hdl</p></td>                            <td class="dsk_2_1"><p>mfxb</p></td>                            <td class="dsk_2_1"><p>20907</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">bǐng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“秉”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bǐng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄅㄧㄥˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“秉”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄧㄥˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=禾" target="_blank">禾</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">统一码</span> 79C9<span class="z_ts2">笔顺</span> 31511234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="79C9_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=11210" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>秉</strong></p><p><span class="dicpy">bǐng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bǐng.mp3"></a></span> ㄅㄧㄥˇ</span></p><ol><li>拿着，持：～烛。</li><li>掌握、主持：～正。～公。</li><li>古代容量单位，一秉合十六斛。</li><li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> grasp, hold; bundle; authority</p><p><span class="z_ts2">法语</span> tenir,maintenir,empoigner,maîtriser,posséder</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>秉</strong> <span class="dicpy">bǐng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bǐng.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (会意。从又，从禾，表示以手持禾。<span class="yhcs">“又”</span>篆体象一只手。本义:禾把，禾束)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[a handful of crops]</span></p><p><span class="diczx1">秉，禾束也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">彼有遗秉。——<span class="smcs">《诗·小雅·大田》</span></span></p><p><span class="diczx1">或取一秉秆焉。——<span class="smcs">《左传·昭公二十七年》</span></span></p><p><span class="cino">(3)</span> 又如:秉穗(收稻时遗留在田中的禾把与禾实);秉握(一握稻把。言数量少)</p><p><span class="cino">(4)</span> 量词。十六斛。如:秉刍(十庾数量的草把)</p><p><span class="cino">(5)</span> 通<span class="yhcs">“柄”</span>。权力，权柄 <span class="encs">[power and authority]</span></p><p><span class="diczx1">治国不失秉。——<span class="smcs">《管子·小匡》</span></span></p><p><span class="diczx1">国子实执</span><span class="diczx2">齐</span>秉。——<span class="smcs">《左传·哀公十七年》</span></p><p><strong>词性变化</strong></p><p>◎ <strong>秉</strong> <span class="dicpy">bǐng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bǐng.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 手拿着，手持(是一只手从旁边拿着小物) <span class="encs">[grasp;hold]</span></p><p><span class="diczx1">秉，执也。——<span class="smcs">《尔雅》</span></span></p><p><span class="diczx2">武王</span>载旆，有虔秉钺。——<span class="smcs">《诗·商颂·长发》</span></p><p><span class="diczx1">右手秉遗穗，左臂悬敝筐。——</span><span class="diczx2">白居易</span><span class="smcs">《观刈麦》</span></p><p><span class="cino">(2)</span> 又如:秉圭(持着玉圭);秉烛云长(即云长秉烛，指三国关云长执灯夜读的事);秉笔(执笔;握笔);秉烛达旦(指关云长在护送两位皇嫂途中，秉烛达旦事);秉节(持节。节，古代使臣所持的符节;保持节操，守节);秉牍(手执简牍)</p><p><span class="cino">(3)</span> 引申为主持，掌握 <span class="encs">[preside over]</span></p><p><span class="diczx2">光</span>秉政前后二十年。——<span class="smcs">《汉书·霍光传》</span></p><p><span class="diczx1">共秉朝政。——<span class="smcs">《三国志·吕布传》</span></span></p><p><span class="cino">(4)</span> 又如:秉公灭私(主持公道，灭除私念);秉正无私(主持正义，没有私念);秉教伽持(佛教语。指执行佛法、施加佛力于众生，以保护扶持之)</p><p><span class="cino">(5)</span> 保持;坚持 <span class="encs">[keep;persist in;persevere in]</span></p><p><span class="diczx1">民之秉彝。——<span class="smcs">《诗·大雅·丞民》</span></span></p><p><span class="diczx1">君子秉心。——<span class="smcs">《诗·小雅·小弁》</span></span></p><p><span class="cino">(6)</span> 又如:秉彝(坚持道理);秉心(居心;用心;持心);秉志(持志)</p><p><span class="cino">(7)</span> 通<span class="yhcs">“禀”</span>。承受 <span class="encs">[bear]</span>。如:秉谢(禀受并回报);秉质(受于自然的资质)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/秉笔">秉笔</a></span><span class="crefe"><a href="/hans/秉承">秉承</a></span><span class="crefe"><a href="/hans/秉持">秉持</a></span><span class="crefe"><a href="/hans/秉赋">秉赋</a></span><span class="crefe"><a href="/hans/秉公">秉公</a></span><span class="crefe"><a href="/hans/秉国">秉国</a></span><span class="crefe"><a href="/hans/秉性">秉性</a></span><span class="crefe"><a href="/hans/秉政">秉政</a></span><span class="crefe"><a href="/hans/秉直">秉直</a></span><span class="crefe"><a href="/hans/秉烛夜游">秉烛夜游</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>秉</rb></rbc><rtc><rt>ㄅㄧㄥˇ</rt></rtc><rtc><rt>bǐng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0270.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">成把、成束的谷物。</span><span class="gc_yy">《说文解字·又部》：「<b>秉</b>，禾束也。」</span><span class="gc_yy">《诗经·小雅·甫田》：「彼有遗<b>秉</b>，此有滞穗。」</span><span class="gc_yy">梁·范缜〈神灭论〉：「岂不以僧有多稌之期，友无遗<b>秉</b>之报？」</span></p></li><li><p class="def"><span class="gc_sy">量词。古代计算容量的单位。十六斛为「一<b><b>秉</b></b>」。</span><span class="gc_yy">《集韵·上声·梗韵》：「<b>秉</b>，或曰粟十六斛为<b>秉</b>。」</span><span class="gc_yy">《论语·雍也》：「冉子与之粟五<b>秉</b>。」</span></p></li><li><p class="def"><span class="gc_sy">权柄。</span><span class="gc_yy">《管子·小匡》：「治国不失<b>秉</b>，臣不如也。」</span><span class="gc_yy">《史记·卷七九·范 睢蔡泽传》：「吾闻先生相李兑，曰『百日之内持国<b>秉</b>』，有之乎？」</span><span class="gc_yx">通「柄」。</span></p></li><li><p class="def"><span class="gc_sy">姓。如汉代有<b><b>秉</b></b>宽。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">用手执握。</span><span class="gc_yy">《文选·古诗十九首·生年不满百》：「昼短苦夜长，何不秉烛游！」</span></p></li><li><p class="def"><span class="gc_sy">保持、坚持。</span><span class="gc_yy">唐·皇甫冉〈太常魏博士远出贼庭江外相逢因叙其事〉诗：「<b>秉</b>节身常苦，求仁志不违。」</span><span class="gc_yy">元·刘时中〈端正好·众生灵遭魔障套·三煞〉：「这相公主见宏深，秉心仁恕。」</span></p></li><li><p class="def"><span class="gc_sy">主持、掌握。</span><span class="gc_yy">《诗经·小雅·节南山》：「秉国之均，四方是维。」</span><span class="gc_yy">《新唐书·卷八四·李密传》：「（王儒信）​劝让自为大冢宰，总<b>秉</b>众务，收密权。」</span></p></li><li><p class="def"><span class="gc_sy">根据、依循。</span><span class="gc_lz">如：「秉公处理」。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="79C9_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集下" target="_blank">午集下</a>】【<a href="/zd/kx/?zm=午集下&amp;bs=禾" target="_blank">禾</a>】
+                              秉·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=午集下" target="_blank">午集下</a>】【<a href="/zd/kx/?zm=午集下&amp;bs=禾" target="_blank">禾</a>】
+                              秉·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：3</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/79C9.svg">						  <p>【唐韻】兵永切【集韻】【韻會】【正韻】補永切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音丙。禾盈把也。【詩·小雅】彼有遺秉。【疏】秉，把也。【禮·聘禮】四秉曰筥。【註】此秉謂刈禾盈手之秉，筥穧名，今萊易閒刈稻聚把有名爲筥者。</p><p>又米數。【禮·聘禮】十斗曰斛，十六斗曰籔，十籔曰秉。</p><p>又【小爾雅】鐘二謂之秉，秉十六斛。○按《儀禮》禾米之秉，字同<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22FD8.svg'><span class='k_txt'>𢿘</span>異。惟徐氏《韻譜》二石爲秉，又是一說。蓋石卽斛也。冉子與粟五秉。據《儀禮》爲八十石，據徐氏止十石，多寡迥別，俟考正。</p><p>又執持也。【禮·禮運】天秉陽垂日，星地秉隂竅於山川。【詩·大雅】民之秉彝。【書·君奭】秉德明恤。</p><p>又去聲，陂病切。與柄同。【史記·天官書】二十八舍主十二州，斗秉兼之。【絳侯世家】許負相周亞夫曰：君後三歲而侯，侯八歲爲將相，持國秉。</p><p>又姓。○按《說文》秉，从又持禾，《正字通》兼載鐘鼎文<img class='lazy k_img' data-original='//img.zdic.net/song/cn/25750.svg'><span class='k_txt'>𥝐</span>字重出。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22FD8.svg'><span class='k_txt'>𢿘</span>字原从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/21764.svg'><span class='k_txt'>𡝤</span>从殳。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="79C9_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=又">又</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=又">又</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/79C9.svg">                          <p>禾束也。从又持禾。兵永切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/79C9_4493.svg"  /><span class="swbf">(秉)</span><span class="ywyy">禾束也。</span><span class="swdz">小雅。彼有遺秉。毛云。秉、把也。聘禮記四秉曰筥注。此秉謂刈禾盈手之秉也。左傳。或取一秉秆焉。按經傳假秉爲柄字。</span><span class="ywyy">从又持禾。</span><span class="swdz">兵永切。古音在十部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="79C9_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  piŋ˨˩˦ <span class="z_ts4">唐代读音</span>  biæ̌ng<span class="z_ts4">日语读音</span>  TORU<span class="z_ts4">韩语罗马</span>  PYENG<span class="z_ts4">现代韩语</span>  병<span class="z_ts3">越南语</span>  bảnh</p>						<p><span class="z_ts3">客家话</span>  [东莞腔] biang3 [沙头角腔] bin3 [客英字典] bin3 [海陆腔] bin3 [梅县腔] biang1 bin3 [台湾四县腔] bin3 [宝安腔] bin3 [陆丰腔] bin3 [客语拼音字汇] bin3<span class="z_ts2">粤语</span>  bing2</p>						<p><span class="z_ts3">近代音</span>  幫母    庚青韻    上聲    丙小空；<span class="z_ts3">中古音</span>  幫母    梗韻    上聲    丙小韻    兵永切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：幫母    唐部   ；王力系统：幫母    陽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/秉">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/秉">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/秉">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/秉">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/秉">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/秉">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/秉">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/秉">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/秉">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/秉">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/秉">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/秉">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">秉</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/秉"><img data-original="//img.zdic.net/zy/jiaguwen/41_EF71.svg" class="lazy ypic"><span>「秉」 珠572</span><span>合18157</span></a></td><td><a href="/zd/zx/jw/秉"><img data-original="//img.zdic.net/zy/jinwen/31_EFC1.svg" class="lazy ypic"><span>「秉」 秉觚</span><span>商代晚期</span><span>集成6606</span></a></td><td><a href="/zd/zx/cx/秉"><img data-original="//img.zdic.net/zy/chuwenzi/51_F0ED.svg" class="lazy ypic"><span>「秉」 曾48</span></a></td><td><a href="/zd/zx/xz/秉"><img data-original="//img.zdic.net/zy/xiaozhuan/27_79C9.svg" class="lazy ypic"><span>「秉」 說文‧又部</span></a></td><td><a href="/zd/zx/qx/秉"><img data-original="//img.zdic.net/zy/qinwenzi/71_E2E5.svg" class="lazy ypic"><span>「秉」 睡.日甲36背</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/秉" target="_blank"><img data-original="//img.zdic.net/kai/tw/79C9.svg" class="lazy ypic"><span>「秉」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/秉"><img data-original="//img.zdic.net/zy/jinwen/31_EFC3.svg" class="lazy ypic"><span>「秉」 秉冊毌父乙簋</span><span>商代晚期</span><span>集成3421</span></a></td><td><a href="/zd/zx/cx/秉"><img data-original="//img.zdic.net/zy/chuwenzi/55_F204.svg" class="lazy ypic"><span>「秉」 郭.緇.9</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/秉"><img data-original="//img.zdic.net/zy/jinwen/31_EFC8.svg" class="lazy ypic"><span>「秉」 丼人𡚬鐘</span><span>西周晚期</span><span>集成109</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/秉">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/秉">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/秉">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/秉">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/秉">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/秉">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/79C9.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/79C9.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/79C9.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/79C9.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/79C9.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/柄' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/67C4.svg'><span>柄</span></a></div> <div class='zx'><a href='/hans/㨀' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/3A00.svg'><span>㨀</span></a></div> <div class='zx'><a href='/hans/抦' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/62A6.svg'><span>抦</span></a></div> <div class='zx'><a href='/hans/𣏲' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/233F2.svg'><span>𣏲</span></a></div>  <div class='zx'><a href='/hans/𥝐' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/25750.svg'><span>𥝐</span></a></div>  <div class='zx'><a href='/hans/𦱮' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26C6E.svg'><span>𦱮</span></a></div>  <div class='zx'><a href='/hans/𥟱' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/257F1.svg'><span>𥟱</span></a></div>  <div class='zx'><a href='/hans/棅' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/68C5.svg'><span>棅</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="11210" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4426">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/丙">丙(bing3)</a></li><li><a href="/hans/㨀">㨀(bing3)</a></li><li><a href="/hans/昞">昞(bing3)</a></li><li><a href="/hans/餅">餅(bing3)</a></li><li><a href="/hans/䋑">䋑(bing3)</a></li><li><a href="/hans/寎">寎(bing3)</a></li><li><a href="/hans/鉼">鉼(bing3)</a></li><li><a href="/hans/䴵">䴵(bing3)</a></li><li><a href="/hans/偋">偋(bing3)</a></li><li><a href="/hans/陃">陃(bing3)</a></li><li><a href="/hans/鈵">鈵(bing3)</a></li><li><a href="/hans/屏">屏(bing3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/穩">穩</a></li><li><a href="/hans/稣">稣</a></li><li><a href="/hans/稻">稻</a></li><li><a href="/hans/䆎">䆎</a></li><li><a href="/hans/穊">穊</a></li><li><a href="/hans/䅫">䅫</a></li><li><a href="/hans/穒">穒</a></li><li><a href="/hans/䄲">䄲</a></li><li><a href="/hans/稨">稨</a></li><li><a href="/hans/穃">穃</a></li><li><a href="/hans/䅜">䅜</a></li><li><a href="/hans/穗">穗</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/视">视</a></li><li><a href="/hans/庚">庚</a></li><li><a href="/hans/炅">炅</a></li><li><a href="/hans/牦">牦</a></li><li><a href="/hans/䏛">䏛</a></li><li><a href="/hans/购">购</a></li><li><a href="/hans/臽">臽</a></li><li><a href="/hans/䧄">䧄</a></li><li><a href="/hans/庝">庝</a></li><li><a href="/hans/乴">乴</a></li><li><a href="/hans/拉">拉</a></li><li><a href="/hans/苧">苧</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=11210"></script>
+</body>
+</html>

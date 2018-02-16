@@ -1,0 +1,641 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>小的解释|小的意思|汉典“小”字的基本解释</title>
+<meta name="title" content="小的解释|小的意思|汉典“小”字的基本解释">
+<meta name="keywords" content="|小|" /><meta property="og:title" content="“小”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“小”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“小”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/小" />
+<link rel="canonical" href="//www.zdic.net/hans/小" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/小" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/小" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/小" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/小">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/小">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5C0F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5C0F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">xiǎo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“小”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄒㄧㄠˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“小”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄠˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=小" target="_blank">  小</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_ytz2"><a href='/hans/𠁼' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2007C.svg'><span class='ytz_txt'>𠁼</span> <a href='/hans/𡭔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21B54.svg'><span class='ytz_txt'>𡭔</span> <a href='/hans/𡮐' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21B90.svg'><span class='ytz_txt'>𡮐</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5C0F</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ihty</p></td>                            <td class="dsk_2_1"><p>nc</p></td>                            <td class="dsk_2_1"><p>ko</p></td>                            <td class="dsk_2_1"><p>90000</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">xiǎo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“小”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄒㄧㄠˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“小”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄠˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=小" target="_blank">小</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 5C0F<span class="z_ts2">笔顺</span> 234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5C0F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=3600" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>小</strong></p>
+<p><span class="dicpy">xiǎo  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span>  ㄒㄧㄠˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>指面积、体积、容量、数量、强度、力量不及一般或不及所比较的对象，与&ldquo;<span class="diczx3">大</span>&rdquo;相对：～雨。矮～。短～精悍。</li>
+	<li>范围窄，程度浅，性质不重要：～事。～节。～题大作。～打～闹。</li>
+	<li>时间短：～坐。～住。</li>
+	<li>年幼小，排行最末：～孩。</li>
+	<li>谦辞：～弟。～可。～人（①谦称自己，指地位低；②指人格卑鄙的人；③指子女；④小孩儿）。</li>
+	<li>妾：～房。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> small, tiny, insignificant</p><p><span class="z_ts2">德语</span> klein (Adj)​,jung (Adj)​,Radikal Nr. 42 = klein (S, Sprachw)</p><p><span class="z_ts2">法语</span> petit,jeune</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>小</strong> <span class="dicpy">xiǎo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (象形。据甲骨文，象沙粒形。小篆析为会意。从八，从|。本义:细;微。与&ldquo;大&rdquo;相对)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[small;little;minor]</span>。形容事物在体积、面积、数量、力量、强度等方面不及一般的或不及比较的对象</p>
+<p><span class="diczx1">小，物之微也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">小往大来。&mdash;&mdash;<span class="smcs">《易&middot;泰》</span>。疏:&ldquo;阴生消耗，故称小。&rdquo;</span></p>
+<p><span class="diczx1">彼所小言尽人毒也。&mdash;&mdash;<span class="smcs">《庄子&middot;列御寇》</span>。注:&ldquo;细巧入人为小言。&rdquo;?</span></p>
+<p><span class="diczx1">嘒彼小星。&mdash;&mdash;<span class="smcs">《诗&middot;召南&middot;小星》</span></span></p>
+<p><span class="diczx1">受小球大球。&mdash;&mdash;<span class="smcs">《诗&middot;商颂&middot;长发》</span></span></p>
+<p><span class="diczx1">怨不在大，亦不在小。&mdash;&mdash;<span class="smcs">《书&middot;康诰》</span></span></p>
+<p><span class="diczx3">又如:小鹿儿(喻指因紧张而剧烈跳动的心脏);小录(新科进士的题名录);小伙伙(小巧，娇小);小话(短小的故事或寓言);小单拱儿(手推车);小唱(由乐器协奏的歌曲)</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;少&rdquo;。年幼 <span class="encs">[young]</span></p>
+<p><span class="diczx1">朝廷之事，小者不毁。&mdash;&mdash;<span class="smcs">《韩非子&middot;饬令》</span></span></p>
+<p><span class="diczx1">小妹语曰。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx1">龙君小女。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李朝威</span><span class="smcs">《柳毅传》</span></p>
+<p><span class="diczx3">又如:小孽障(小孩子);小猴子(小孩);小堂名(旧时为婚丧喜庆雇用的由小孩组成的乐队);小娘子(侍女;侍儿);小娘儿(妓女);小鬼头(小孩子);小妮子(婢女;女孩子)</span></p>
+<p><span class="cino">(4)</span> 稍，略 <span class="encs">[slightly;a little]</span></p>
+<p><span class="diczx1">汔可小康。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;民劳》</span></span></p>
+<p><span class="diczx1">汔可小安。</span></p>
+<p><span class="diczx1">汔可小休。</span></p>
+<p><span class="diczx1">小不如意。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx3">又如:小傲怄儿(带有一点玩笑意味的抬杠);小节不足(不顺心;不能称心如意);小厮扑(徒手对打);小意儿(小殷勤);小有(稍有一些)</span></p>
+<p><span class="cino">(5)</span> 将近 <span class="encs">[nearly]</span></p>
+<p><span class="diczx1">归了包堆花了小一百，还剩四百来块。&mdash;&mdash;</span><span class="diczx2">老舍</span><span class="smcs">《骆驼祥子》</span></p>
+<p><span class="diczx3">又如:小日中(将近中午的时候);我今年小(奔)六十了</span></p>
+<p><span class="cino">(6)</span> 用在姓、名、排行等之前，表示爱称 <span class="encs">[young brother]</span>。</p>
+<p><span class="diczx3">如:小冤家(年轻情人之间的昵称)</span></p>
+<p><span class="cino">(7)</span> 狭隘;低窄 <span class="encs">[narrow-minded;narrow]</span></p>
+<p><span class="diczx1">好问则裕，自用则小。&mdash;&mdash;<span class="smcs">《书&middot;仲虺之诰》</span></span></p>
+<p><span class="diczx3">又如:小狭(狭窄);小国(地狭人少之国);小榻(狭小的卧具)</span></p>
+<p><span class="cino">(8)</span> 低微 <span class="encs">[humble]</span></p>
+<p><span class="diczx1">不辞小官。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx3">又如:小喽罗(对绿林兵卒的称呼);小道儿(不正当的途径;邪门歪道)</span></p>
+<p><span class="cino">(9)</span> 指邪恶卑鄙 <span class="encs">[bad]</span>。</p>
+<p><span class="diczx3">如:小利(即&ldquo;小李&rdquo;。扒手);小佞(才智低下而卑谄善辩者)</span></p>
+<p><span class="cino">(10)</span> 短暂;暂时 <span class="encs">[for a short time]</span>。</p>
+<p><span class="diczx3">如:小别(暂别;暂时居住);小眠(小憩;暂眠);小留(暂时挽留;暂时留止)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>小</strong> <span class="dicpy">xiǎo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 年幼的人。引申为小辈 <span class="encs">[young]</span></p>
+<p><span class="diczx1">无小无大。&mdash;&mdash;<span class="smcs">《诗&middot;鲁颂&middot;泮水》</span></span></p>
+<p><span class="diczx1">小大稽首。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;楚茨》</span></span></p>
+<p><span class="diczx3">又如:妻小;上有老，下有小</span></p>
+<p><span class="cino">(2)</span> 妾，小老婆 <span class="encs">[concubine]</span></p>
+<p><span class="diczx1">要送你到</span><span class="diczx2">冯</span>家去，给 <span class="diczx2">冯</span>老太爷做小。&mdash;&mdash; <span class="diczx2">巴金</span><span class="smcs">《家》</span></p>
+<p><span class="diczx3">又如:小老母(妾;姨太太);小星(妾);小娘(妾);小家婆(小老婆);小浑家(小老婆)</span></p>
+<p><span class="cino">(3)</span> 微细的事物 <span class="encs">[small matters]</span></p>
+<p><span class="diczx1">小不忍则乱大谋。&mdash;&mdash;<span class="smcs">《论语&middot;卫灵公》</span></span></p>
+<p><span class="diczx3">又如:小关头目(无关紧要的事);小隙(小矛盾;小怨)</span></p>
+<p><span class="cino">(4)</span> 小人，品质不高的人 <span class="encs">[mean man]</span></p>
+<p><span class="diczx1">愠于群小。&mdash;&mdash;<span class="smcs">《诗&middot;邶风&middot;柏舟》</span></span></p>
+<p><span class="diczx1">见群小满屋，都无相避意。&mdash;&mdash;<span class="smcs">《世说新语&middot;容止》</span></span></p>
+<p><span class="diczx3">又如:小人(指强盗)</span></p>
+<p>◎ <strong>小</strong> <span class="dicpy">xiǎo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span> </p>
+<p>〈代〉</p>
+<p><span class="diczx1">自称的谦词 <span class="encs">[I]</span>。</span></p>
+<p><span class="diczx3">如:小子(对自己的谦称;话本或旧小说作者的自称谦辞);小东儿(小小东道;请客的主人)</span></p>
+<p>◎ <strong>小</strong> <span class="dicpy">xiǎo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎo.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="diczx1">轻视，小看 <span class="encs">[look down upon]</span></span></p>
+<p><span class="diczx1">文人相轻，自古而然。</span><span class="diczx2">傅毅</span>之于 <span class="diczx2">班固</span>，伯仲之间耳，而 <span class="diczx2">固</span>小之。&mdash;&mdash; <span class="diczx2">曹丕</span><span class="smcs">《典论》</span></p>
+<p>又如:小不起(不能小看);小瞧(犹小看，轻视)</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/小把戏">小把戏</a></span><span class="crefe"><a href="/hans/小白菜">小白菜</a></span><span class="crefe"><a href="/hans/小白脸儿">小白脸儿</a></span><span class="crefe"><a href="/hans/小百货">小百货</a></span><span class="crefe"><a href="/hans/小班">小班</a></span><span class="crefe"><a href="/hans/小半">小半</a></span><span class="crefe"><a href="/hans/小半活">小半活</a></span><span class="crefe"><a href="/hans/小报">小报</a></span><span class="crefe"><a href="/hans/小报告">小报告</a></span><span class="crefe"><a href="/hans/小杯">小杯</a></span><span class="crefe"><a href="/hans/小辈">小辈</a></span><span class="crefe"><a href="/hans/小本经营">小本经营</a></span><span class="crefe"><a href="/hans/小便">小便</a></span><span class="crefe"><a href="/hans/小便池">小便池</a></span><span class="crefe"><a href="/hans/小辫儿">小辫儿</a></span><span class="crefe"><a href="/hans/小辫子">小辫子</a></span><span class="crefe"><a href="/hans/小不点儿">小不点儿</a></span><span class="crefe"><a href="/hans/小菜">小菜</a></span><span class="crefe"><a href="/hans/小餐馆">小餐馆</a></span><span class="crefe"><a href="/hans/小舱">小舱</a></span><span class="crefe"><a href="/hans/小册子">小册子</a></span><span class="crefe"><a href="/hans/小差">小差</a></span><span class="crefe"><a href="/hans/小产">小产</a></span><span class="crefe"><a href="/hans/小肠">小肠</a></span><span class="crefe"><a href="/hans/小抄儿">小抄儿</a></span><span class="crefe"><a href="/hans/小潮">小潮</a></span><span class="crefe"><a href="/hans/小车">小车</a></span><span class="crefe"><a href="/hans/小乘">小乘</a></span><span class="crefe"><a href="/hans/小吃">小吃</a></span><span class="crefe"><a href="/hans/小吃部">小吃部</a></span><span class="crefe"><a href="/hans/小齿">小齿</a></span><span class="crefe"><a href="/hans/小翅">小翅</a></span><span class="crefe"><a href="/hans/小丑">小丑</a></span><span class="crefe"><a href="/hans/小船">小船</a></span><span class="crefe"><a href="/hans/小窗">小窗</a></span><span class="crefe"><a href="/hans/小春">小春</a></span><span class="crefe"><a href="/hans/小葱拌豆腐">小葱拌豆腐</a></span><span class="crefe"><a href="/hans/小聪明">小聪明</a></span><span class="crefe"><a href="/hans/小错">小错</a></span><span class="crefe"><a href="/hans/小打小闹">小打小闹</a></span><span class="crefe"><a href="/hans/小打扮儿">小打扮儿</a></span><span class="crefe"><a href="/hans/小大人儿">小大人儿</a></span><span class="crefe"><a href="/hans/小袋">小袋</a></span><span class="crefe"><a href="/hans/小旦">小旦</a></span><span class="crefe"><a href="/hans/小刀">小刀</a></span><span class="crefe"><a href="/hans/小刀会起义">小刀会起义</a></span><span class="crefe"><a href="/hans/小道">小道</a></span><span class="crefe"><a href="/hans/小道消息">小道消息</a></span><span class="crefe"><a href="/hans/小弟">小弟</a></span><span class="crefe"><a href="/hans/小点">小点</a></span><span class="crefe"><a href="/hans/小调">小调</a></span><span class="crefe"><a href="/hans/小东西">小东西</a></span><span class="crefe"><a href="/hans/小动作">小动作</a></span><span class="crefe"><a href="/hans/小肚鸡肠">小肚鸡肠</a></span><span class="crefe"><a href="/hans/小肚子">小肚子</a></span><span class="crefe"><a href="/hans/小队">小队</a></span><span class="crefe"><a href="/hans/小恩小惠">小恩小惠</a></span><span class="crefe"><a href="/hans/小儿">小儿</a></span><span class="crefe"><a href="/hans/小儿科">小儿科</a></span><span class="crefe"><a href="/hans/小贩">小贩</a></span><span class="crefe"><a href="/hans/小房">小房</a></span><span class="crefe"><a href="/hans/小纺">小纺</a></span><span class="crefe"><a href="/hans/小费">小费</a></span><span class="crefe"><a href="/hans/小分队">小分队</a></span><span class="crefe"><a href="/hans/小妇人">小妇人</a></span><span class="crefe"><a href="/hans/小腹">小腹</a></span><span class="crefe"><a href="/hans/小钢炮">小钢炮</a></span><span class="crefe"><a href="/hans/小格">小格</a></span><span class="crefe"><a href="/hans/小工">小工</a></span><span class="crefe"><a href="/hans/小恭">小恭</a></span><span class="crefe"><a href="/hans/小姑">小姑</a></span><span class="crefe"><a href="/hans/小姑子">小姑子</a></span><span class="crefe"><a href="/hans/小广播">小广播</a></span><span class="crefe"><a href="/hans/小鬼">小鬼</a></span><span class="crefe"><a href="/hans/小孩儿">小孩儿</a></span><span class="crefe"><a href="/hans/小寒">小寒</a></span><span class="crefe"><a href="/hans/小号">小号</a></span><span class="crefe"><a href="/hans/小合唱">小合唱</a></span><span class="crefe"><a href="/hans/小花脸">小花脸</a></span><span class="crefe"><a href="/hans/小话儿">小话儿</a></span><span class="crefe"><a href="/hans/小汇报">小汇报</a></span><span class="crefe"><a href="/hans/小惠">小惠</a></span><span class="crefe"><a href="/hans/小活儿">小活儿</a></span><span class="crefe"><a href="/hans/小伙子">小伙子</a></span><span class="crefe"><a href="/hans/小集团">小集团</a></span><span class="crefe"><a href="/hans/小家碧玉">小家碧玉</a></span><span class="crefe"><a href="/hans/小家庭">小家庭</a></span><span class="crefe"><a href="/hans/小家子">小家子</a></span><span class="crefe"><a href="/hans/小家子气">小家子气</a></span><span class="crefe"><a href="/hans/小建">小建</a></span><span class="crefe"><a href="/hans/小将">小将</a></span><span class="crefe"><a href="/hans/小角">小角</a></span><span class="crefe"><a href="/hans/小脚">小脚</a></span><span class="crefe"><a href="/hans/小脚女人">小脚女人</a></span><span class="crefe"><a href="/hans/小轿车">小轿车</a></span><span class="crefe"><a href="/hans/小节">小节</a></span><span class="crefe"><a href="/hans/小结">小结</a></span><span class="crefe"><a href="/hans/小姐">小姐</a></span><span class="crefe"><a href="/hans/小解">小解</a></span><span class="crefe"><a href="/hans/小金库">小金库</a></span><span class="crefe"><a href="/hans/小襟">小襟</a></span><span class="crefe"><a href="/hans/小径">小径</a></span><span class="crefe"><a href="/hans/小九九">小九九</a></span><span class="crefe"><a href="/hans/小舅子">小舅子</a></span><span class="crefe"><a href="/hans/小句">小句</a></span><span class="crefe"><a href="/hans/小开">小开</a></span><span class="crefe"><a href="/hans/小楷">小楷</a></span><span class="crefe"><a href="/hans/小看">小看</a></span><span class="crefe"><a href="/hans/小康">小康</a></span><span class="crefe"><a href="/hans/小康">小康</a></span><span class="crefe"><a href="/hans/小考">小考</a></span><span class="crefe"><a href="/hans/小可">小可</a></span><span class="crefe"><a href="/hans/小客车">小客车</a></span><span class="crefe"><a href="/hans/小坑">小坑</a></span><span class="crefe"><a href="/hans/小筐">小筐</a></span><span class="crefe"><a href="/hans/小来小去">小来小去</a></span><span class="crefe"><a href="/hans/小老虎">小老虎</a></span><span class="crefe"><a href="/hans/小老婆">小老婆</a></span><span class="crefe"><a href="/hans/小礼">小礼</a></span><span class="crefe"><a href="/hans/小吏">小吏</a></span><span class="crefe"><a href="/hans/小两口">小两口</a></span><span class="crefe"><a href="/hans/小量">小量</a></span><span class="crefe"><a href="/hans/小令">小令</a></span><span class="crefe"><a href="/hans/小流氓">小流氓</a></span><span class="crefe"><a href="/hans/小瘤">小瘤</a></span><span class="crefe"><a href="/hans/小绺">小绺</a></span><span class="crefe"><a href="/hans/小龙">小龙</a></span><span class="crefe"><a href="/hans/小炉">小炉</a></span><span class="crefe"><a href="/hans/小炉儿匠">小炉儿匠</a></span><span class="crefe"><a href="/hans/小路">小路</a></span><span class="crefe"><a href="/hans/小旅馆">小旅馆</a></span><span class="crefe"><a href="/hans/小轮">小轮</a></span><span class="crefe"><a href="/hans/小萝卜头">小萝卜头</a></span><span class="crefe"><a href="/hans/小麦">小麦</a></span><span class="crefe"><a href="/hans/小卖">小卖</a></span><span class="crefe"><a href="/hans/小卖部">小卖部</a></span><span class="crefe"><a href="/hans/小满">小满</a></span><span class="crefe"><a href="/hans/小毛">小毛</a></span><span class="crefe"><a href="/hans/小毛头">小毛头</a></span><span class="crefe"><a href="/hans/小帽">小帽</a></span><span class="crefe"><a href="/hans/小米">小米</a></span><span class="crefe"><a href="/hans/小米面">小米面</a></span><span class="crefe"><a href="/hans/小绵羊">小绵羊</a></span><span class="crefe"><a href="/hans/小民">小民</a></span><span class="crefe"><a href="/hans/小名 ［儿］">小名 ［儿］</a></span><span class="crefe"><a href="/hans/小命儿">小命儿</a></span><span class="crefe"><a href="/hans/小拇指">小拇指</a></span><span class="crefe"><a href="/hans/小脑">小脑</a></span><span class="crefe"><a href="/hans/小妮子">小妮子</a></span><span class="crefe"><a href="/hans/小年">小年</a></span><span class="crefe"><a href="/hans/小娘">小娘</a></span><span class="crefe"><a href="/hans/小娘子">小娘子</a></span><span class="crefe"><a href="/hans/小妞儿">小妞儿</a></span><span class="crefe"><a href="/hans/小农">小农</a></span><span class="crefe"><a href="/hans/小农经济">小农经济</a></span><span class="crefe"><a href="/hans/小女子">小女子</a></span><span class="crefe"><a href="/hans/小爬虫">小爬虫</a></span><span class="crefe"><a href="/hans/小派别">小派别</a></span><span class="crefe"><a href="/hans/小跑">小跑</a></span><span class="crefe"><a href="/hans/小朋友">小朋友</a></span><span class="crefe"><a href="/hans/小品">小品</a></span><span class="crefe"><a href="/hans/小品文">小品文</a></span><span class="crefe"><a href="/hans/小气">小气</a></span><span class="crefe"><a href="/hans/小气鬼">小气鬼</a></span><span class="crefe"><a href="/hans/小气候">小气候</a></span><span class="crefe"><a href="/hans/小器">小器</a></span><span class="crefe"><a href="/hans/小器">小器</a></span><span class="crefe"><a href="/hans/小前提">小前提</a></span><span class="crefe"><a href="/hans/小钱">小钱</a></span><span class="crefe"><a href="/hans/小瞧">小瞧</a></span><span class="crefe"><a href="/hans/小巧">小巧</a></span><span class="crefe"><a href="/hans/小巧玲珑">小巧玲珑</a></span><span class="crefe"><a href="/hans/小青年">小青年</a></span><span class="crefe"><a href="/hans/小秋">小秋</a></span><span class="crefe"><a href="/hans/小秋收">小秋收</a></span><span class="crefe"><a href="/hans/小区">小区</a></span><span class="crefe"><a href="/hans/小曲">小曲</a></span><span class="crefe"><a href="/hans/小曲儿">小曲儿</a></span><span class="crefe"><a href="/hans/小圈子">小圈子</a></span><span class="crefe"><a href="/hans/小犬">小犬</a></span><span class="crefe"><a href="/hans/小人">小人</a></span><span class="crefe"><a href="/hans/小人">小人</a></span><span class="crefe"><a href="/hans/小人书">小人书</a></span><span class="crefe"><a href="/hans/小人物">小人物</a></span><span class="crefe"><a href="/hans/小日子">小日子</a></span><span class="crefe"><a href="/hans/小儒">小儒</a></span><span class="crefe"><a href="/hans/小商贩">小商贩</a></span><span class="crefe"><a href="/hans/小商品">小商品</a></span><span class="crefe"><a href="/hans/小生">小生</a></span><span class="crefe"><a href="/hans/小生产">小生产</a></span><span class="crefe"><a href="/hans/小时">小时</a></span><span class="crefe"><a href="/hans/小时候">小时候</a></span><span class="crefe"><a href="/hans/小食">小食</a></span><span class="crefe"><a href="/hans/小市民">小市民</a></span><span class="crefe"><a href="/hans/小世界">小世界</a></span><span class="crefe"><a href="/hans/小事">小事</a></span><span class="crefe"><a href="/hans/小叔子">小叔子</a></span><span class="crefe"><a href="/hans/小暑">小暑</a></span><span class="crefe"><a href="/hans/小竖子">小竖子</a></span><span class="crefe"><a href="/hans/小数">小数</a></span><span class="crefe"><a href="/hans/小数点">小数点</a></span><span class="crefe"><a href="/hans/小说">小说</a></span><span class="crefe"><a href="/hans/小说家">小说家</a></span><span class="crefe"><a href="/hans/小睡">小睡</a></span><span class="crefe"><a href="/hans/小厮">小厮</a></span><span class="crefe"><a href="/hans/小苏打">小苏打</a></span><span class="crefe"><a href="/hans/小溲">小溲</a></span><span class="crefe"><a href="/hans/小算盘">小算盘</a></span><span class="crefe"><a href="/hans/小提琴">小提琴</a></span><span class="crefe"><a href="/hans/小题大作">小题大作</a></span><span class="crefe"><a href="/hans/小天地">小天地</a></span><span class="crefe"><a href="/hans/小天使">小天使</a></span><span class="crefe"><a href="/hans/小帖儿">小帖儿</a></span><span class="crefe"><a href="/hans/小艇">小艇</a></span><span class="crefe"><a href="/hans/小童">小童</a></span><span class="crefe"><a href="/hans/小偷">小偷</a></span><span class="crefe"><a href="/hans/小偷小摸">小偷小摸</a></span><span class="crefe"><a href="/hans/小偷小摸">小偷小摸</a></span><span class="crefe"><a href="/hans/小头目">小头目</a></span><span class="crefe"><a href="/hans/小头小脑">小头小脑</a></span><span class="crefe"><a href="/hans/小腿">小腿</a></span><span class="crefe"><a href="/hans/小玩意儿">小玩意儿</a></span><span class="crefe"><a href="/hans/小王子">小王子</a></span><span class="crefe"><a href="/hans/小我">小我</a></span><span class="crefe"><a href="/hans/小巫见大巫">小巫见大巫</a></span><span class="crefe"><a href="/hans/小五金">小五金</a></span><span class="crefe"><a href="/hans/小息">小息</a></span><span class="crefe"><a href="/hans/小媳妇">小媳妇</a></span><span class="crefe"><a href="/hans/小戏">小戏</a></span><span class="crefe"><a href="/hans/小虾">小虾</a></span><span class="crefe"><a href="/hans/小先生">小先生</a></span><span class="crefe"><a href="/hans/小相">小相</a></span><span class="crefe"><a href="/hans/小小不然">小小不然</a></span><span class="crefe"><a href="/hans/小小不言">小小不言</a></span><span class="crefe"><a href="/hans/小小说">小小说</a></span><span class="crefe"><a href="/hans/小小子">小小子</a></span><span class="crefe"><a href="/hans/小鞋">小鞋</a></span><span class="crefe"><a href="/hans/小写">小写</a></span><span class="crefe"><a href="/hans/小心">小心</a></span><span class="crefe"><a href="/hans/小心">小心</a></span><span class="crefe"><a href="/hans/小心谨慎">小心谨慎</a></span><span class="crefe"><a href="/hans/小心眼儿">小心眼儿</a></span><span class="crefe"><a href="/hans/小心翼翼">小心翼翼</a></span><span class="crefe"><a href="/hans/小信未孚">小信未孚</a></span><span class="crefe"><a href="/hans/小行星">小行星</a></span><span class="crefe"><a href="/hans/小型">小型</a></span><span class="crefe"><a href="/hans/小性儿">小性儿</a></span><span class="crefe"><a href="/hans/小兄弟">小兄弟</a></span><span class="crefe"><a href="/hans/小修">小修</a></span><span class="crefe"><a href="/hans/小婿">小婿</a></span><span class="crefe"><a href="/hans/小学">小学</a></span><span class="crefe"><a href="/hans/小学而大遗">小学而大遗</a></span><span class="crefe"><a href="/hans/小学生">小学生</a></span><span class="crefe"><a href="/hans/小雪">小雪</a></span><span class="crefe"><a href="/hans/小阳春">小阳春</a></span><span class="crefe"><a href="/hans/小样">小样</a></span><span class="crefe"><a href="/hans/小妖精">小妖精</a></span><span class="crefe"><a href="/hans/小咬">小咬</a></span><span class="crefe"><a href="/hans/小业主">小业主</a></span><span class="crefe"><a href="/hans/小夜曲">小夜曲</a></span><span class="crefe"><a href="/hans/小衣">小衣</a></span><span class="crefe"><a href="/hans/小姨儿">小姨儿</a></span><span class="crefe"><a href="/hans/小姨子">小姨子</a></span><span class="crefe"><a href="/hans/小意思">小意思</a></span><span class="crefe"><a href="/hans/小意思">小意思</a></span><span class="crefe"><a href="/hans/小引">小引</a></span><span class="crefe"><a href="/hans/小鱼">小鱼</a></span><span class="crefe"><a href="/hans/小雨">小雨</a></span><span class="crefe"><a href="/hans/小月">小月</a></span><span class="crefe"><a href="/hans/小月">小月</a></span><span class="crefe"><a href="/hans/小灶 ［儿］">小灶 ［儿］</a></span><span class="crefe"><a href="/hans/小站">小站</a></span><span class="crefe"><a href="/hans/小照">小照</a></span><span class="crefe"><a href="/hans/小镇">小镇</a></span><span class="crefe"><a href="/hans/小指">小指</a></span><span class="crefe"><a href="/hans/小注">小注</a></span><span class="crefe"><a href="/hans/小传">小传</a></span><span class="crefe"><a href="/hans/小篆">小篆</a></span><span class="crefe"><a href="/hans/小资产阶级">小资产阶级</a></span><span class="crefe"><a href="/hans/小子">小子</a></span><span class="crefe"><a href="/hans/小字">小字</a></span><span class="crefe"><a href="/hans/小字辈">小字辈</a></span><span class="crefe"><a href="/hans/小卒">小卒</a></span><span class="crefe"><a href="/hans/小组">小组</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>小</rb></rbc><rtc><rt>ㄒㄧㄠˇ</rt></rtc><rtc><rt>xiǎo <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3963.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">與「大」相對：➊ ​體積、數量、力量等方面不大的。如：「小城」、「小人物」。《荀子&middot;勸學》：「不積小流，無以成江海。」唐&middot;韓愈〈原道〉：「坐井而觀天，曰：『天小者，非天小也。』」➋ ​ 年輕、幼稚的。如：「年紀小」、「小伙子」。《晉書&middot;九二&middot;文苑傳&middot;趙至傳》：「我小，未能榮養。」➌ ​ 排行最後或地位較低的。如：「小官」、「這兩位是我二弟和小妹。」、「小妹！請你把帳單拿過來。」➍ ​對自己或與自己有關的人事物的謙稱。如：「恕小民直言。」、「小的不敢！」、「小店」、「小兒」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">邪惡的人、壞人。</span><span class="gc_yy">《漢書&middot;卷八九&middot;循吏傳&middot;龔遂傳》：「今大王親近群<b>小</b>，漸漬邪惡所習。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">小孩、年幼者。如：「一家老小」。《詩經&middot;小雅&middot;楚茨》：「既醉既飽，小大稽首」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">妾。</span><span class="gc_lz">如：「嫁給人家當小的。」</span><span class="gc_yy">明&middot;湯顯祖《牡丹亭&middot;第二五齣》：「你可知老相公年來因少男兒，常有娶<b>小</b>之意。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">輕視。</span><span class="gc_yy">《左傳&middot;桓公十三年》：「將自用也，必<b>小</b>羅。」</span><span class="gc_yy">唐&middot;李白〈送長沙陳太守〉詩二首之二：「莫<b>小</b>二千石，當安遠俗人。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">稍微。表示程度不深。</span><span class="gc_lz">如：「牛刀小試」、「不無小補」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">助</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">詞頭，表對年紀輕者的暱稱。</span><span class="gc_lz">如：「<b>小</b>王」、「小老弟」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5C0F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=小" target="_blank">小</a>】
+                              小·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=小" target="_blank">小</a>】
+                              小·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5C0F.svg">						  <p>【唐韻】【集韻】【韻會】私兆切【正韻】先了切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>蕭上聲。【說文】物之微也。从八从亅。見而分之。【徐曰】亅，始見也。八，分也。始可分別也。【玉篇】細也。【易&middot;繫辭】其稱名也小，其取類也大。【左傳&middot;襄三十一年】君子務知大者遠者，小人務知小者近者。</p>
+<p>又【周禮&middot;天官】有小卿，副貳，大卿，卽小宰等也。</p>
+<p>又狹隘也。【書&middot;仲虺之誥】好問則裕，自用則小。</p>
+<p>又輕之也。【左傳&middot;桓十三年】莫敖狃於蒲騷之役，將自用也，必小羅。</p>
+<p>又【詩&middot;邶風】慍于羣小。【註】小，衆妾也。</p>
+<p>又【韻輯】白小，魚名。</p>
+<p>又叶蘇計切，音細。【白居易&middot;懺悔偈】無始劫來，所造諸罪。若輕若重，無大無小。了不可得，是名懺悔。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5C0F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=小">小</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=小">小</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5C0F.svg">                          <p>物之微也。从八，丨見而分之。凡小之屬皆从小。私兆切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5C0F_1523.svg" /><span class="swbf">(小)</span><span class="ywyy">物之微也。从八，丨見而八分之。</span><span class="swdz">八，別也。象分別之形，故解从八爲分之。丨才見而輒分之，會意也。凡㮯物分之則小。私兆切。二部。</span><span class="ywyy">凡小之屬皆从小。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5C0F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ɕiɑu˨˩˦ <span class="z_ts4">唐代读音</span>  *siɛ̌u<span class="z_ts4">日语读音</span>  CHIISAI KO O<span class="z_ts4">韩语罗马</span>  SO<span class="z_ts4">现代韩语</span>  소<span class="z_ts3">越南语</span>  tiểu</p>						<p><span class="z_ts3">客家话</span>  [客英字典] siau3 [台湾四县腔] seu3 [梅县腔] siau3 [海陆腔] siau3 [沙头角腔] siau3 [客语拼音字汇] seu3 xiau3 [宝安腔] siau3 [陆丰腔] siau3 [东莞腔] siau3<span class="z_ts2">粤语</span>  siu2</p>						<p><span class="z_ts3">近代音</span>  心母    蕭豪韻    上聲    小小空；<span class="z_ts3">中古音</span>  心母    小韻    上聲    小小韻    私兆切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：心母    豪部   ；王力系统：心母    宵部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/小">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/小">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/小">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/小">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/小">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/小">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/小">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/小">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/小">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/小">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/小">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/小">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/小">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">小</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/小"><img data-original="//img.zdic.net/zy/jiaguwen/41_E35E.svg" class="lazy ypic"><span>「小」 甲630</span><span>合32640</span></a></td><td><a href="/zd/zx/jw/小"><img data-original="//img.zdic.net/zy/jinwen/31_E359.svg" class="lazy ypic"><span>「小」 大盂鼎</span><span>西周早期</span><span>集成2837</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/小"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5C0F.svg" class="lazy ypic"><span>「小」 說文‧小部</span></a></td><td><a href="/zd/zx/qx/小"><img data-original="//img.zdic.net/zy/qinwenzi/71_E0A1.svg" class="lazy ypic"><span>「小」 睡.秦94</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/小" target="_blank"><img data-original="//img.zdic.net/kai/tw/5C0F.svg" class="lazy ypic"><span>「小」</span></a></td></tr><tr><td><a href="/zd/zx/jg/小"><img data-original="//img.zdic.net/zy/jiaguwen/41_E366.svg" class="lazy ypic"><span>「小」 後2.9.13</span><span>合23713</span></a></td><td><a href="/zd/zx/jw/小"><img data-original="//img.zdic.net/zy/jinwen/31_E36A.svg" class="lazy ypic"><span>「小」 散氏盤</span><span>西周晚期</span><span>集成10176</span></a></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/小"><img data-original="//img.zdic.net/zy/jiaguwen/41_E36B.svg" class="lazy ypic"><span>「小」 林1.26.4</span><span>合4788</span></a></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/小">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/小">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/小">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/小">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/小">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5C0F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5C0F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5C0F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5C0F.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5C0F.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𠁼' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2007C.svg'><span>𠁼</span></a></div> <div class='zx'><a href='/hans/𡭔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21B54.svg'><span>𡭔</span></a></div> <div class='zx'><a href='/hans/𡮐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21B90.svg'><span>𡮐</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="3600" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7249">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/筱">筱(xiao3)</a></li><li><a href="/hans/筿">筿(xiao3)</a></li><li><a href="/hans/謏">謏(xiao3)</a></li><li><a href="/hans/皢">皢(xiao3)</a></li><li><a href="/hans/䒕">䒕(xiao3)</a></li><li><a href="/hans/篠">篠(xiao3)</a></li><li><a href="/hans/晓">晓(xiao3)</a></li><li><a href="/hans/䥵">䥵(xiao3)</a></li><li><a href="/hans/曉">曉(xiao3)</a></li><li><a href="/hans/暁">暁(xiao3)</a></li><li><a href="/hans/皛">皛(xiao3)</a></li><li><a href="/hans/㕾">㕾(xiao3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㝻">㝻</a></li><li><a href="/hans/尜">尜</a></li><li><a href="/hans/㝸">㝸</a></li><li><a href="/hans/龸">龸</a></li><li><a href="/hans/尛">尛</a></li><li><a href="/hans/㝹">㝹</a></li><li><a href="/hans/尓">尓</a></li><li><a href="/hans/尙">尙</a></li><li><a href="/hans/忝">忝</a></li><li><a href="/hans/尘">尘</a></li><li><a href="/hans/尒">尒</a></li><li><a href="/hans/尔">尔</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/乡">乡</a></li><li><a href="/hans/𠁽">𠁽</a></li><li><a href="/hans/纟">纟</a></li><li><a href="/hans/卫">卫</a></li><li><a href="/hans/口">口</a></li><li><a href="/hans/氵">氵</a></li><li><a href="/hans/卄">卄</a></li><li><a href="/hans/刃">刃</a></li><li><a href="/hans/凢">凢</a></li><li><a href="/hans/𠂌">𠂌</a></li><li><a href="/hans/乇">乇</a></li><li><a href="/hans/丬">丬</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>小</span>时不识月，呼作白玉盘。</div><div class="gscdr">《古朗月行》（节选）</div><div class="gscdl"><span>小</span>娃撑<span>小</span>艇，偷采白莲回。</div><div class="gscdr">唐·白居易 《池上》</div><div class="gscdl"><span>小</span>荷才露尖尖角，早有蜻蜓立上头。</div><div class="gscdr">宋·杨万里 《小池》</div><div class="gscdl">梅子黄时日日晴，<span>小</span>溪泛尽却山行。</div><div class="gscdr">宋·曾几 《三衢道中》</div><div class="gscdl">一叶渔船两<span>小</span>童，收篙停棹坐船中。</div><div class="gscdr">宋·杨万里 《舟过安仁》</div><div class="gscdl">茅檐低<span>小</span>，溪上青青草。</div><div class="gscdr">宋·辛弃疾 《清平乐·村居》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">枯藤老树昏鸦，<span>小</span>桥流水人家，古道西风瘦马。</div><div class="gscdr">元·马致远 《天净沙·秋思》</div><div class="gscdl">爷娘闻女来，出郭相扶将；阿姊闻妹来，当户理红妆；<span>小</span>弟闻姊来，磨刀霍霍向猪羊。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">会当凌绝顶，一览众山<span>小</span></div><div class="gscdr">唐·杜甫 《望岳》</div><div class="gscdl">以为顺流下矣，棹数<span>小</span>舟，曳铁钯，寻十余里，无迹。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">夕阳西下几时回？无可奈何花落去，似曾相识燕归来。<span>小</span>园香径独徘徊。</div><div class="gscdr">宋·晏殊 《浣溪沙·一向年光有限身》</div><div class="gscdl">林尽水源，便得一山，山有<span>小</span>口，仿佛若有光。便舍船，从口入。初极狭，才通人。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=3600"></script>
+</body>
+</html>

@@ -1,0 +1,694 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>王的解释|王的意思|汉典“王”字的基本解释</title>
+<meta name="title" content="王的解释|王的意思|汉典“王”字的基本解释">
+<meta name="keywords" content="上：一，下：土。 " /><meta property="og:title" content="“王”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“王”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“王”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/王" />
+<link rel="canonical" href="//www.zdic.net/hans/王" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/王" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/王" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/王" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/王">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/王">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/738B.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/738B.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">wáng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wáng.mp3"></a></span></span></p><p><span class="z_d song">wàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wàng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄨㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄤˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄨㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄤˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=王" target="_blank">  王</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_ytz2"><a href='/hans/玉' target=_blank>玉</a> <a href='/hans/𠙻' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2067B.svg'><span class='ytz_txt'>𠙻</span> <a href='/hans/𠰶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20C36.svg'><span class='ytz_txt'>𠰶</span> <a href='/hans/𡭤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21B64.svg'><span class='ytz_txt'>𡭤</span> <a href='/hans/𥝍' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2574D.svg'><span class='ytz_txt'>𥝍</span> <a href='/hans/𤤇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24907.svg'><span class='ytz_txt'>𤤇</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+738B</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>1121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gggg</p></td>                            <td class="dsk_2_1"><p>mg</p></td>                            <td class="dsk_2_1"><p>ca</p></td>                            <td class="dsk_2_1"><p>10104</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">wáng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wáng.mp3"></a></span></span> <span class="z_d song">wàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wàng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄨㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄤˊ.mp3"></a></span></span> <span class="z_d song">ㄨㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“王”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄤˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=王" target="_blank">王</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 738B<span class="z_ts2">笔顺</span> 1121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="738B_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=9612" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>王</strong></p>
+<p><span class="dicpy">w&aacute;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&aacute;ng.mp3"></a></span> ㄨㄤˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>古代一国君主的称号，现代有些国家仍用这种称号：～国。～法。公子～孙。～朝（<span class="dicpy">ch&aacute;o </span>）。</li>
+	<li>中国古代皇帝以下的最高爵位：～公。～侯。</li>
+	<li>一族或一类中的首领：山大～。蜂～。～牌（桥牌中最大的牌；喻最有力的人物或手段）。</li>
+	<li>大：～父（祖父）。～母（祖母）。</li>
+	<li>姓。</li>
+</ol>
+<p>● <strong>王</strong></p>
+<p><span class="dicpy">w&agrave;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&agrave;ng.mp3"></a></span> ㄨㄤˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>古代指统治者谓以仁义取得天下：～天下。～此大邦。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> king, ruler; royal; surname</p><p><span class="z_ts2">德语</span> Radikal Nr. 96 ,König  (S)</p><p><span class="z_ts2">法语</span> roi,prince,(nom de famille)​,régner sur</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>王</strong> <span class="dicpy">w&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&aacute;ng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (象形字。王字的甲骨文为斧钺之形，斧钺为礼器，象征王者之权威。本义:天子、君主)</p>
+<p><span class="cino">(2)</span> 殷周时代对帝王的称呼 <span class="encs">[emperor;monarch]</span></p>
+<p><span class="diczx1">溥天之下，莫非王土。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;北土》</span></span></p>
+<p><span class="diczx2">厉王</span>虐，国人谤王。&mdash;&mdash;<span class="smcs">《国语&middot;周语上》</span></p>
+<p><span class="diczx1">王，天下所归往也。</span><span class="diczx2">董仲舒</span>曰:&ldquo;古之造文者，三画而连其中谓之王。三者，天、地、人也;而参通之者，王也。&rdquo;&mdash;&mdash;<span class="smcs">《说文》</span></p>
+<p><span class="diczx1">王，天子也。&mdash;&mdash;<span class="smcs">《释名》</span></span></p>
+<p><span class="diczx1">王，有天下曰王。帝与王一也。</span><span class="diczx2">周</span>衰，列国皆僭号自王。 <span class="diczx2">秦</span>有天下，遂自尊为皇帝。 <span class="diczx2">汉</span>有天下，因 <span class="diczx2">秦</span>制称帝，封同姓为王，名始乱矣。&mdash;&mdash;<span class="smcs">《六书故》</span></p>
+<p><span class="diczx1">故百王之法不同。&mdash;&mdash;<span class="smcs">《荀子&middot;王霸》</span></span></p>
+<p><span class="diczx1">制其守宰，不制其侯王。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《封建论》</span></p>
+<p><span class="diczx1">以王命聚之。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx3">又如:王公(天子与诸侯;泛指达官贵人);王土(天子的土地);王士(天子的士民);王宇(天子的宫殿);王志(天子的意向);王车(王之车乘)</span></p>
+<p><span class="cino">(3)</span> 春秋时，楚、吴、越等诸侯国国君也开始称&ldquo;王&rdquo;，战国时各诸侯国国君普遍称&ldquo;王&rdquo; <span class="encs">[king]</span></p>
+<p><span class="diczx1">越王</span><span class="diczx2">勾践</span>栖于 <span class="diczx2">会稽</span>之上。&mdash;&mdash;<span class="smcs">《国语&middot;越语上》</span></p>
+<p><span class="diczx1">请</span><span class="diczx2">勾践</span>女女于王。</p>
+<p><span class="diczx1">王好战，请以战喻。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx3">又如:王人(国君);王女(古时封王者之女);王吏(天子或国君的官吏);王使(天子或王侯的使者);王政(国君的政令);王妃(侯王、太子之配偶;帝王之妾，位次于皇后)</span></p>
+<p><span class="cino">(4)</span> 从秦代开始，天子改称&ldquo;皇帝&rdquo;，&ldquo;王&rdquo;便成了对贵族或功臣的最高封爵，即诸侯王 <span class="encs">[prince]</span></p>
+<p><span class="diczx1">赐号称王。&mdash;&mdash;<span class="smcs">《汉书&middot;李广苏建传》</span></span></p>
+<p><span class="diczx1">王侯以下。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx3">又如:西汉初，刘濞被封为吴王;韩信先被封为齐王，后改为楚王</span></p>
+<p><span class="cino">(5)</span> 朝廷 <span class="encs">[court]</span>。</p>
+<p><span class="diczx3">如:王庭，王廷(朝廷);王役，王徭(朝廷的徭役);王务(朝廷的公事);王机(朝廷的政事);王体(朝廷的大政方针)</span></p>
+<p><span class="cino">(6)</span> 王朝 <span class="encs">[dynasty]</span>。</p>
+<p><span class="diczx3">如:王轨(王朝的秩序、制度);王制(王朝的制度);王灵(王朝的威德)</span></p>
+<p><span class="cino">(7)</span> 首领;同类中最突出者 <span class="encs">[chief]</span></p>
+<p><span class="diczx1">王久不至。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李朝威</span><span class="smcs">《柳毅传》</span></p>
+<p><span class="diczx3">又如:擒贼先擒王;乐器之王;拜他为王</span></p>
+<p><span class="cino">(8)</span> 中国古代对祖父母的尊称 <span class="encs">[grandfather，grandmother]</span></p>
+<p><span class="diczx1">父之考为王父，父之妣为王母，王父之考为曾祖王父，王父之妣为曾祖王母，曾祖王父之考，为高祖王父&hellip;。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="cino">(9)</span> 统治者，主宰者 <span class="encs">[ruler]</span>。</p>
+<p><span class="diczx3">如:王化(以仁义治天下的教化);王官(宗藩王府的小职官)</span></p>
+<p><span class="cino">(10)</span> 冠军 <span class="encs">[champion]</span>。</p>
+<p><span class="diczx3">如:拳王</span></p>
+<p><span class="cino">(11)</span> 姓</p>
+<p><span class="cino">(12)</span> 另见 <span class="dicpy">w&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&agrave;ng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/王八">王八</a></span><span class="crefe"><a href="/hans/王霸">王霸</a></span><span class="crefe"><a href="/hans/王朝">王朝</a></span><span class="crefe"><a href="/hans/王储">王储</a></span><span class="crefe"><a href="/hans/王道">王道</a></span><span class="crefe"><a href="/hans/王法">王法</a></span><span class="crefe"><a href="/hans/王府">王府</a></span><span class="crefe"><a href="/hans/王公">王公</a></span><span class="crefe"><a href="/hans/王宫">王宫</a></span><span class="crefe"><a href="/hans/王冠">王冠</a></span><span class="crefe"><a href="/hans/王国">王国</a></span><span class="crefe"><a href="/hans/王侯">王侯</a></span><span class="crefe"><a href="/hans/王后">王后</a></span><span class="crefe"><a href="/hans/王浆">王浆</a></span><span class="crefe"><a href="/hans/王老五">王老五</a></span><span class="crefe"><a href="/hans/王母娘娘">王母娘娘</a></span><span class="crefe"><a href="/hans/王牌">王牌</a></span><span class="crefe"><a href="/hans/王权">王权</a></span><span class="crefe"><a href="/hans/王实甫">王实甫</a></span><span class="crefe"><a href="/hans/王室">王室</a></span><span class="crefe"><a href="/hans/王孙">王孙</a></span><span class="crefe"><a href="/hans/王太后">王太后</a></span><span class="crefe"><a href="/hans/王维">王维</a></span><span class="crefe"><a href="/hans/王位">王位</a></span><span class="crefe"><a href="/hans/王子">王子</a></span><span class="crefe"><a href="/hans/王族">王族</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>王</strong> <span class="dicpy">w&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&agrave;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 统治、领有一国或一地 <span class="encs">[rule]</span></p>
+<p><span class="diczx1">王此大邦，克顺克比。&mdash;&mdash;<span class="smcs">《诗&middot;大雅》</span></span></p>
+<p><span class="diczx1">欲王关中。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></span></p>
+<p><span class="diczx2">秦</span>地可尽王。</p>
+<p><span class="diczx2">沛公</span>为 <span class="diczx2">汉</span>王，王 <span class="diczx2">巴</span>、 <span class="diczx2">蜀</span>。&mdash;&mdash;<span class="smcs">《史记&middot;留侯世家》</span></p>
+<p><span class="cino">(2)</span> 作皇帝，称王 <span class="encs">[be emperor]</span></p>
+<p><span class="diczx1">然而不王者，未之有也。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">行仁政而王，莫之能御也。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑上》</span></span></p>
+<p><span class="diczx2">周</span>不法 <span class="diczx2">商</span>， <span class="diczx2">夏</span>不法 <span class="diczx2">虞</span>，三代异势，而皆可以王。&mdash;&mdash;<span class="smcs">《商君书》</span></p>
+<p><span class="cino">(3)</span> 胜过 <span class="encs">[surpass]</span></p>
+<p><span class="diczx2">常季</span>曰:&ldquo;彼兀者也，而王先生，其与庸亦远矣。&rdquo;&mdash;&mdash;<span class="smcs">《庄子》</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">w&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&aacute;ng.mp3"></a></span> </p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>王</rb></rbc><rtc><rt>ㄨㄤˊ</rt></rtc><rtc><rt>w&aacute;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6405.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">古代稱統治天下的君主。</span><span class="gc_lz">如：「君<b>王</b>」、「帝<b>王</b>」、「國<b>王</b>」。</span><span class="gc_yy">《書經&middot;洪範》：「天子作民父母，以為天下<b>王</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">古代封建社會中地位在公侯之上的爵位。秦漢以後，天子的伯叔兄弟及異姓藩王均稱為「王」。</span><span class="gc_lz">如：「淮南<b>王</b>」。</span><span class="gc_yy">《漢書&middot;卷一九&middot;百官公卿表上》：「諸侯<b>王</b>，高帝初置，金璽盭綬，掌治其國。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">泛稱同類中的首領。</span><span class="gc_lz">如：「萬獸之<b>王</b>」。</span><span class="gc_yy">唐&middot;杜甫〈前出塞〉詩九首之六：「射人先射馬，擒賊先擒<b>王</b>。」</span><span class="gc_yy">《西遊記&middot;第一回》：「那一個有本事的，鑽進去尋個源頭出來，不傷身體者，我等即拜他為<b>王</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">技藝超群的人。</span><span class="gc_lz">如：「歌<b>王</b>」、「拳<b>王</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">古代對祖父母輩的尊稱。參見「王父」、「王母」等條。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如宋代有王安石。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">古代諸侯朝見天子。</span><span class="gc_yy">《詩經&middot;商頌&middot;殷武》：「莫敢不來享，莫敢不來<b>王</b>。」</span><span class="gc_yy">《史記&middot;卷四&middot;周本紀》：「要服者貢，荒服者<b>王</b>。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">大。參見「王虺」、「王鮪」等條。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>王</rb></rbc><rtc><rt>ㄩˋ</rt></rtc><rtc><rt>y&ugrave;</rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_yy">《廣韻&middot;入聲&middot;燭韻》：「玉，說文本作<b>王</b>，隸加點以別<b>王</b>字。」</span><span class="gc_yx">同「<a href='/hans/玉' target=_blank>玉</a> 」。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>王</rb></rbc><rtc><rt>ㄨㄤˋ</rt></rtc><rtc><rt>w&agrave;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6413.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">統治天下、稱王。</span><span class="gc_yy">《詩經&middot;大雅&middot;皇矣》：「<b>王</b>此大邦，克順克比。」</span><span class="gc_yy">《史記&middot;卷七&middot;項羽本紀》：「懷<b>王</b>與諸將約曰：『先破秦入咸陽者<b>王</b>之』。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">興盛、旺盛。</span><span class="gc_yy">《莊子&middot;養生主》：「澤雉十步一啄，百步一飲，不蘄畜乎樊中，神雖<b>王</b>，不善也。」</span><span class="gc_yy">唐&middot;李白〈贈張相鎬〉詩二首之二：「英烈遺厥孫，百代神猶<b>王</b>。」</span><span class="gc_yx">通「旺」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="738B_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=玉" target="_blank">玉</a>】
+                              王·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=玉" target="_blank">玉</a>】
+                              王·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/738B.svg">						  <p>【廣韻】【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>雨方切，音徨。【廣韻】大也，君也，天下所法。【正韻】主也，天下歸往謂之王。【易&middot;坤卦】或從王事。</p>
+<p>又【隨卦】王用享于西山。【書&middot;洪範】無偏無黨，王道蕩蕩。【詩&middot;小雅】宜君宜王。【註】君，諸侯也。王，天子也。◎按秦漢以下，凡諸侯皆稱王，天子伯叔兄弟分封于外者亦曰王。</p>
+<p>又諸侯世見曰王。【詩&middot;商頌】莫敢不來王。【箋】世見曰王。</p>
+<p>又凡尊稱亦曰王。【爾雅&middot;釋親】父之考爲王父，父之妣爲王母。</p>
+<p>又法王，象王，皆佛號。【華嚴偈】象王行處落花紅。【岑參詩】况値廬山遠，抽簪禮法王。【註】法王，佛尊號也。</p>
+<p>又姓。</p>
+<p>又【諡法】仁義所往曰王。</p>
+<p>又王屋，山名。【書&middot;禹貢】至于王屋。【疏】正義曰：王屋在河東垣縣東北。</p>
+<p>又弓名。【周禮&middot;冬官考工記】弓人，往體寡，來體多，謂之王弓之屬。</p>
+<p>又王連，遠志也。見【博雅】夫王，芏草也。見【爾雅&middot;釋草疏】。</p>
+<p>又王鴡，鳥名。【爾雅&middot;釋鳥】鴡鳩，王鴡。【註】鵰類，今江東呼之爲鶚。</p>
+<p>又王鮪，魚名。【周禮&middot;天官&middot;人】春獻王鮪。【註】王鮪，鮪之大者。</p>
+<p>又蛇名。【爾雅&middot;釋魚】蟒，王蛇。【註】蟒，蛇最大者，故曰王蛇。</p>
+<p>又蟲名。【爾雅&middot;釋蟲】王蛈蜴。註：卽螲蟷，似䵹鼄，在穴中，有蓋。今河北人呼蛈蜴。《博雅》虎，王蝟也。</p>
+<p>又【廣韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>于放切，音旺。霸王也。【正韻】凡有天下者，人稱之曰王，則平聲。據其身臨天下而言曰王，則去聲。【詩&middot;大雅】王此大邦。【箋】王，君也。【釋文】王，于况反。【前漢&middot;高帝紀】項羽背約而王君王於南鄭。【師古註】上王字，于放反。</p>
+<p>又【廣韻】盛也。【莊子&middot;養生主】神雖王，不善也。【註】謂心神長王。【釋文】王，于况反。</p>
+<p>又音往。【詩&middot;大雅】昊天曰明，及爾出王。【傳】王，往也。【朱註】音往。〇按王本古文玉字。註詳部首。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="738B_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=王">王</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=王">王</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/738B.svg">                          <p>天下所歸往也。董仲舒曰：&ldquo;古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者王也。&rdquo;孔子曰：&ldquo;一貫三爲王。&rdquo;凡王之屬皆从王。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2067B.svg"><span class="k_txt">𠙻</span>，古文王。李陽冰曰：&ldquo;中畫近上。王者，則天之義。&rdquo;雨方切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/738B_3892.svg" /><span class="swbf">(王)</span><span class="ywyy">天下所歸往也。</span><span class="swdz">見白虎通。王、往曡韵。</span><span class="ywyy">董仲舒曰：古之造文者。三畫而連其中謂之王。三者，天、地、人也。而參通之者，王也。</span><span class="swdz">見春秋䋣露。引之說字形也。韋昭注國語曰：參，三也。</span><span class="ywyy">孔子曰：一貫三爲王。</span><span class="swdz">又引孔子語證董說。</span><span class="ywyy">凡王之屬皆从王。</span><span class="swdz">雨方切。十部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/738B_3893.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2067B.svg"><span class="k_txt">𠙻</span>)</span><span class="ywyy">古文王。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="738B_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  wɑŋ˧˥; wɑŋ˥˧ <span class="z_ts4">唐代读音</span>  *hiuɑng hiuɑ̀ng<span class="z_ts4">日语读音</span>  KIMI<span class="z_ts4">韩语罗马</span>  WANG<span class="z_ts4">现代韩语</span>  왕<span class="z_ts3">越南语</span>  vương</p>						<p><span class="z_ts3">客家话</span>  [陆丰腔] wong3 [客英字典] vong2 [海陆腔] wong2 [宝安腔] wong2 [台湾四县腔] wong2 [梅县腔] wong2 wong5 [沙头角腔] wong2 [东莞腔] wong2 [客语拼音字汇] ong2 vong2<span class="z_ts2">粤语</span>  wong4 wong6<span class="z_ts3">潮州话</span>  uang5(uâng) <姓>hêng5(hêng) </p>						<p><span class="z_ts3">近代音</span>  影母    江陽韻    平聲陽    王小空；影母    江陽韻    去聲    旺小空；<span class="z_ts3">中古音</span>  喻云母    陽韻    平聲    王小韻    雨方切    三等    合口；喻云母    漾韻    去聲    迋小韻    于放切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：匣母    唐部   ；匣母    唐部   ；王力系统：匣母    陽部   ；匣母    陽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/王">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/王">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/王">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/王">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/王">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/王">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/王">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/王">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/王">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/王">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/王">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/王">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/王">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">王</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>秦系簡牘</td>
+			<td>說文</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E1F1.svg" /><span>「王」 乙7795</span><span>合6834</span></a></td>
+			<td><a href="/zd/zx/jw/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E17D.svg" /><span>「王」 小臣卣</span><span>商代晚期</span><span>集成5378</span></a></td>
+			<td><a href="/zd/zx/cx/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E2BD.svg" /><span>「王」 包2.2</span></a></td>
+			<td><a href="/zd/zx/qx/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E031.svg" /><span>「王」 睡.日乙183</span></a></td>
+			<td><a href="/zd/zx/xz/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E016.svg" /><span>「王」 說文古文</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/王" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/738B.svg" /><span>「王」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E1F5.svg" /><span>「王」 菁2.1</span><span>合6057</span></a></td>
+			<td><a href="/zd/zx/jw/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E17E.svg" /><span>「王」 天亡簋</span><span>西周早期</span><span>集成4261</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/xz/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_738B.svg" /><span>「王」 說文‧王部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E215.svg" /><span>「王」 佚427</span></a></td>
+			<td><a href="/zd/zx/jw/王"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E181.svg" /><span>「王」 大盂鼎</span><span>西周早期</span><span>集成2837</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/王">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/王">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/王">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/王">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/王">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/王">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/738B.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/738B.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/738B.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/738B.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/738B.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/玉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7389.svg'><span>玉</span></a></div> <div class='zx'><a href='/hans/𠙻' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2067B.svg'><span>𠙻</span></a></div> <div class='zx'><a href='/hans/𠰶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20C36.svg'><span>𠰶</span></a></div> <div class='zx'><a href='/hans/𡭤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21B64.svg'><span>𡭤</span></a></div> <div class='zx'><a href='/hans/𥝍' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2574D.svg'><span>𥝍</span></a></div> <div class='zx'><a href='/hans/𤤇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24907.svg'><span>𤤇</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="9612" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7051">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/莣">莣(wang2)</a></li><li><a href="/hans/朚">朚(wang2)</a></li><li><a href="/hans/亾">亾(wang2)</a></li><li><a href="/hans/仼">仼(wang2)</a></li><li><a href="/hans/兦">兦(wang2)</a></li><li><a href="/hans/亡">亡(wang2)</a></li><li><a href="/hans/蚟">蚟(wang2)</a></li><li><a href="/hans/旺">旺(wang4)</a></li><li><a href="/hans/暀">暀(wang4)</a></li><li><a href="/hans/妄">妄(wang4)</a></li><li><a href="/hans/䛃">䛃(wang4)</a></li><li><a href="/hans/望">望(wang4)</a></li><li><a href="/hans/盳">盳(wang4)</a></li><li><a href="/hans/忘">忘(wang4)</a></li><li><a href="/hans/䤑">䤑(wang4)</a></li><li><a href="/hans/徍">徍(wang4)</a></li><li><a href="/hans/朢">朢(wang4)</a></li><li><a href="/hans/迋">迋(wang4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/瓑">瓑</a></li><li><a href="/hans/琻">琻</a></li><li><a href="/hans/瑧">瑧</a></li><li><a href="/hans/璞">璞</a></li><li><a href="/hans/玟">玟</a></li><li><a href="/hans/瑉">瑉</a></li><li><a href="/hans/琫">琫</a></li><li><a href="/hans/瑻">瑻</a></li><li><a href="/hans/珨">珨</a></li><li><a href="/hans/璨">璨</a></li><li><a href="/hans/瑸">瑸</a></li><li><a href="/hans/瑡">瑡</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠙷">𠙷</a></li><li><a href="/hans/匂">匂</a></li><li><a href="/hans/巴">巴</a></li><li><a href="/hans/丑">丑</a></li><li><a href="/hans/历">历</a></li><li><a href="/hans/𠀉">𠀉</a></li><li><a href="/hans/𠀋">𠀋</a></li><li><a href="/hans/文">文</a></li><li><a href="/hans/㔹">㔹</a></li><li><a href="/hans/仌">仌</a></li><li><a href="/hans/韦">韦</a></li><li><a href="/hans/𠙶">𠙶</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">即公大兄无奕女，左将军<span>王</span>凝之妻也</div><div class="gscdr">南北朝·刘义庆   世说新语《咏雪》</div><div class="gscdl">岐<span>王</span>宅里寻常见，崔九堂前几度闻。</div><div class="gscdr">唐·杜甫 《江南逢李龟年》</div><div class="gscdl">或<span>王</span>命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">太行、<span>王</span>屋二山，方七百里，高万仞，本在冀州之南，河阳之北。</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl">其妻献疑曰：“以君之力，曾不能损魁父之丘，如太行、<span>王</span>屋何？且焉置土石？”</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl">明有奇巧人曰<span>王</span>叔远，能以径寸之木，为宫室、器皿、人物，以至鸟兽、木石，罔不因势象形，各具情态。</div><div class="gscdr">明·魏学洢 《核舟记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=9612"></script>
+</body>
+</html>

@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>杜的解释|杜的意思|汉典“杜”字的基本解释</title>
+<meta name="title" content="杜的解释|杜的意思|汉典“杜”字的基本解释">
+<meta property="og:title" content="“杜”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“杜”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“杜”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/杜" />
+<link rel="canonical" href="//www.zdic.net/hans/杜" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/杜" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/杜" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/杜" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/杜">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/杜">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/675C.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/675C.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">dù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杜”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dù.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杜”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄨˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">  木</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_ytz2"><a href='/hans/𡍨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21368.svg'><span class='ytz_txt'>𡍨</span></a>  <a href='/hans/𢾅' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22F85.svg'><span class='ytz_txt'>𢾅</span></a>  <a href='/hans/𥀁' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/25001.svg'><span class='ytz_txt'>𥀁</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+675C</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>1234121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>sfg</p></td>                            <td class="dsk_2_1"><p>dg</p></td>                            <td class="dsk_2_1"><p>fbvv</p></td>                            <td class="dsk_2_1"><p>44910</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">dù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杜”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dù.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杜”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄨˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">木</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">统一码</span> 675C<span class="z_ts2">笔顺</span> 1234121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="675C_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6493" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>杜</strong></p><p><span class="dicpy">dù  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dù.mp3"></a></span>  ㄉㄨˋ</span></p><ol><li>落叶乔木，果实圆而小，味涩可食，俗称“杜梨”，亦称“甘棠”、“棠梨”。木材可做扁担或刻图章。</li><li>阻塞（<span class="dicpy">sè</span>），堵塞（<span class="dicpy">sè</span>）：～绝。～塞（<span class="dicpy">sè</span>）。～门谢客，防微～渐。</li><li>〔～撰〕凭自己的意思没有根据地编造。</li><li>姓：～康（相传最早发明酿酒的人，文学作品中借指酒）。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> stop, prevent; restrict; surname</p><p><span class="z_ts2">法语</span> boucher,barrer</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>杜</strong> <span class="dicpy">dù</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dù.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。从木，土声。本义:杜梨，棠梨，一种木本植物)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[birch-leaf pear]</span></p><p><span class="diczx1">杜，甘棠也。——<span class="smcs">《说文》</span>。按:<span class="yhcs">“牡曰棠，牝曰杜。”</span></span></p><p><span class="diczx1">杜树大者插五枝。——<span class="smcs">《齐民要术》</span></span></p><p><span class="cino">(3)</span> 姓</p><p><strong>词性变化</strong></p><p>◎ <strong>杜</strong> <span class="dicpy">dù</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dù.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 堵塞 <span class="encs">[stop]</span></p><p><span class="diczx1">杜，塞也。——<span class="smcs">《小尔雅·广诂》</span></span></p><p><span class="diczx1">犯令陵政则杜之。——<span class="smcs">《周礼·大司马》</span>。注:<span class="yhcs">“杜塞使不得与邻国交通。”</span></span></p><p><span class="cino">(2)</span> 又如:杜耳恶闻(塞住耳朵不愿听);杜隔(阻塞隔离);杜闭(堵塞，关闭);杜禁(堵塞)</p><p><span class="cino">(3)</span> 关门，封闭 <span class="encs">[close]</span>。</p><p><span class="diczx1">杜乃护王。——<span class="smcs">《书·费誓》</span>。注:<span class="yhcs">“闭也。”</span></span></p><p><span class="diczx1">犯令陵政则杜之。——<span class="smcs">《周礼·夏官·大司马》</span></span></p><p><span class="diczx1">强公室，杜私门。——<span class="smcs">《史记·李斯列传》</span></span></p><p><span class="diczx2">陵</span>怒，谢病免，杜门竟不朝请。——<span class="smcs">《汉书·王陵传》</span>。 <span class="diczx2">颜师古</span>注:杜，塞也，闭塞其门也。</p><p><span class="diczx1">塞隘杜津。——<span class="smcs">《汉书·叙传》</span></span></p><p><span class="cino">(4)</span> 又如:杜口(闭口不说);杜门却扫(关闭大门，不再打扫庭院路径);杜门晦(屏)迹(关闭大门，隐匿自己的踪迹)</p><p><span class="cino">(5)</span> 杜绝，制止 <span class="encs">[break off]</span>。如:杜心(绝望);杜谏(谏止;制止);杜弊(杜绝作弊);杜弃(拒绝，屏弃);杜遏(禁绝，阻止)</p><p><span class="cino">(6)</span> 冲击 <span class="encs">[impact]</span></p><p><span class="diczx1">水之性，行至曲必留退，满则后推前，地下则平行，地高即控，杜曲则捣毁，杜曲激则跃。——<span class="smcs">《管子·度地》</span></span></p><p><span class="cino">(7)</span> 拒绝<span class="encs">[refuse]</span>。如:杜黜(排斥，黜退)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/杜弊清源">杜弊清源</a></span><span class="crefe"><a href="/hans/杜甫">杜甫</a></span><span class="crefe"><a href="/hans/杜甫草堂">杜甫草堂</a></span><span class="crefe"><a href="/hans/杜渐防萌">杜渐防萌</a></span><span class="crefe"><a href="/hans/杜渐防微">杜渐防微</a></span><span class="crefe"><a href="/hans/杜鹃">杜鹃</a></span><span class="crefe"><a href="/hans/杜鹃啼血">杜鹃啼血</a></span><span class="crefe"><a href="/hans/杜绝">杜绝</a></span><span class="crefe"><a href="/hans/杜康">杜康</a></span><span class="crefe"><a href="/hans/杜口裹足">杜口裹足</a></span><span class="crefe"><a href="/hans/杜口结舌">杜口结舌</a></span><span class="crefe"><a href="/hans/杜门">杜门</a></span><span class="crefe"><a href="/hans/杜门不出">杜门不出</a></span><span class="crefe"><a href="/hans/杜门谢客">杜门谢客</a></span><span class="crefe"><a href="/hans/杜牧">杜牧</a></span><span class="crefe"><a href="/hans/杜塞">杜塞</a></span><span class="crefe"><a href="/hans/杜宇">杜宇</a></span><span class="crefe"><a href="/hans/杜仲">杜仲</a></span><span class="crefe"><a href="/hans/杜撰">杜撰</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>杜</rb></rbc><rtc><rt>ㄉㄨˋ</rt></rtc><rtc><rt>dù <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/1248.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">植物名。松科冷杉属，常绿大乔木。侧枝轮生，表面著生显著之叶枕。树皮暗灰色。叶深绿，线形，互生，基部粗大，状如吸盘。种子有翅。木材质轻而软，可供用材及造纸原料。</span></p></li><li><p class="def"><span class="gc_sy">姓。如唐代有杜甫、杜牧。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">堵塞、阻绝。</span><span class="gc_lz">如：「杜塞」、「杜绝」。</span><span class="gc_yy">《战国策·秦策一》：「<b>杜</b>左右之口，天下莫之能伉。」</span><span class="gc_yy">《史记·卷六八·商君传》：「公子虔杜门不出已八年矣，君又杀祝懽而黥公孙贾。」</span></p></li><li><p class="def"><span class="gc_sy">排斥、拒绝。</span><span class="gc_yy">《后汉书·卷七四上·袁绍传》：「今赏加无劳，以携有德；<b>杜</b>黜忠功，以疑众望。」</span><span class="gc_yy">《南史·卷五·齐废帝郁林王本纪》：「依违杜谏，乃止。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="675C_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集中" target="_blank">辰集中</a>】【<a href="/zd/kx/?zm=辰集中&amp;bs=木" target="_blank">木</a>】
+                              杜·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=辰集中" target="_blank">辰集中</a>】【<a href="/zd/kx/?zm=辰集中&amp;bs=木" target="_blank">木</a>】
+                              杜·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：3</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/675C.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>動五切，音<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22F96.svg'><span class='k_txt'>𢾖</span>。【說文】甘棠也。牡曰棠，牝曰杜。樊光曰：赤者爲杜，白者爲棠。【陸璣·草木疏】赤棠，子澀而酢，無味。木理韌，可作弓幹。與《說文》不同。</p><p>又塞也。【書·費誓】杜乃擭。【周禮·夏官·大司馬】犯令凌政則杜之。</p><p>又【爾雅·釋草】杜榮。【註】似茅，皮可爲索。</p><p>又香草名。【屈原·九歌】采芳洲兮杜若。</p><p>又繚之兮杜蘅。</p><p>又【方言】東齊謂根爲杜。</p><p>又澀也。</p><p>又【本草】杜仲，藥名。</p><p>又【博雅·釋蟲】杜伯，蠍也。</p><p>又姓。【廣韻】本帝堯劉累之後。出京兆、濮陽、襄陽三望。</p><p>又【集韻】董五切，音睹。姓也。楚有杜敖。</p><p>又【類篇】同都切，音徒。亦姓也。晉有杜蒯。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="675C_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=木">木</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=木">木</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/675C.svg">                          <p>甘棠也。从木土聲。徒古切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/675C_2666.svg"  /><span class="swbf">(杜)</span><span class="ywyy">甘棠也。</span><span class="swdz">召南。蔽芾甘棠。毛曰。甘棠、杜也。釋木曰。杜、甘棠。本無不合。棠不實。杜實而可食。則謂之甘棠。凡實者皆得謂之杜。則皆得謂之甘棠也。牡棠牝杜、析言之也。杜得偁甘棠、互言之也。釋木又曰。杜、赤棠。白者棠。魏風傳用之。此以其木色之異異其名。與杜甘棠說異。卽與分牡牝說異。爲許所不取。戴先生曰。爾雅謂杜甘曰棠。毛公失其句讀。葢依陸璣疏白棠卽甘棠、子美。赤棠卽杜、子澀。爲此說耳。非許意。亦非爾雅意也。先生又曰。棃山樆。謂棃山生曰樆。榆白枌。謂榆之白者曰枌。今按毛傳云。枌白榆也。誠當於白爲讀。漢書音義云。離山棃也。是爾雅當同音義乙其字矣。</span><span class="ywyy">从木。土聲。</span><span class="swdz">徒古切。五部。借以爲杜塞之杜。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="675C_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tu˥˧ <span class="z_ts4">唐代读音</span>  *dhǒ<span class="z_ts4">日语读音</span>  YAMANASHI FUSAGU MORI<span class="z_ts4">韩语罗马</span>  TWU<span class="z_ts4">现代韩语</span>  두<span class="z_ts3">越南语</span>  đỗ</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] tu5 [海陆腔] tu6 [客英字典] tu5 [陆丰腔] tu6 [客语拼音字汇] tu4 [台湾四县腔] tu5 [东莞腔] tu5 [宝安腔] tu5<span class="z_ts2">粤语</span>  dou6</p>						<p><span class="z_ts3">近代音</span>  端母    魚模韻    去聲    杜小空；<span class="z_ts3">中古音</span>  定母    姥韻    上聲    杜小韻    徒古切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：定母    模部   ；王力系统：定母    魚部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/杜">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/杜">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/杜">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/杜">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/杜">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/杜">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/杜">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/杜">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/杜">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/杜">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/杜">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/杜">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">杜</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/杜"><img data-original="//img.zdic.net/zy/jiaguwen/42_EA7B.svg" class="lazy ypic"><span>「杜」 七P67</span><span>合40749</span></a></td><td><a href="/zd/zx/jw/杜"><img data-original="//img.zdic.net/zy/jinwen/32_E936.svg" class="lazy ypic"><span>「杜」 師虎簋</span><span>西周中期</span><span>集成4316</span></a></td><td><a href="/zd/zx/cx/杜"><img data-original="//img.zdic.net/zy/chuwenzi/56_EA78.svg" class="lazy ypic"><span>「杜」 上(1).孔.18</span></a></td><td><a href="/zd/zx/xz/杜"><img data-original="//img.zdic.net/zy/xiaozhuan/27_675C.svg" class="lazy ypic"><span>「杜」 說文‧木部</span></a></td><td><a href="/zd/zx/qx/杜"><img data-original="//img.zdic.net/zy/qinwenzi/71_E5C7.svg" class="lazy ypic"><span>「杜」 睡.日甲149背</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/杜" target="_blank"><img data-original="//img.zdic.net/kai/tw/675C.svg" class="lazy ypic"><span>「杜」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/杜"><img data-original="//img.zdic.net/zy/jinwen/32_E93C.svg" class="lazy ypic"><span>「杜」 杜伯盨</span><span>西周晚期</span><span>集成4449</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/杜">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/杜">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/杜">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/杜">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/杜">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/杜">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/675C.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/675C.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/675C.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/675C.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/675C.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𡍨' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/21368.svg'><span>𡍨</span></a></div>  <div class='zx'><a href='/hans/𢾅' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/22F85.svg'><span>𢾅</span></a></div>  <div class='zx'><a href='/hans/𥀁' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/25001.svg'><span>𥀁</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6493" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4841">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䲧">䲧(du4)</a></li><li><a href="/hans/䟻">䟻(du4)</a></li><li><a href="/hans/芏">芏(du4)</a></li><li><a href="/hans/妒">妒(du4)</a></li><li><a href="/hans/殬">殬(du4)</a></li><li><a href="/hans/䄍">䄍(du4)</a></li><li><a href="/hans/蠹">蠹(du4)</a></li><li><a href="/hans/荰">荰(du4)</a></li><li><a href="/hans/螙">螙(du4)</a></li><li><a href="/hans/妬">妬(du4)</a></li><li><a href="/hans/㡯">㡯(du4)</a></li><li><a href="/hans/姤">姤(du4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/槟">槟</a></li><li><a href="/hans/松">松</a></li><li><a href="/hans/橭">橭</a></li><li><a href="/hans/棞">棞</a></li><li><a href="/hans/梞">梞</a></li><li><a href="/hans/朽">朽</a></li><li><a href="/hans/㮉">㮉</a></li><li><a href="/hans/榩">榩</a></li><li><a href="/hans/㭲">㭲</a></li><li><a href="/hans/枊">枊</a></li><li><a href="/hans/櫶">櫶</a></li><li><a href="/hans/栠">栠</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/声">声</a></li><li><a href="/hans/孚">孚</a></li><li><a href="/hans/完">完</a></li><li><a href="/hans/苋">苋</a></li><li><a href="/hans/帎">帎</a></li><li><a href="/hans/远">远</a></li><li><a href="/hans/㕽">㕽</a></li><li><a href="/hans/努">努</a></li><li><a href="/hans/䏎">䏎</a></li><li><a href="/hans/卵">卵</a></li><li><a href="/hans/岇">岇</a></li><li><a href="/hans/抠">抠</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">因思<span>杜</span>陵梦，凫雁满回塘。</div><div class="gscdr">唐·温庭筠 《商山早行》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6493"></script>
+</body>
+</html>

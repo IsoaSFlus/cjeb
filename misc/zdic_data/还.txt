@@ -1,0 +1,679 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>还的解释|还的意思|汉典“还”字的基本解释</title>
+<meta name="title" content="还的解释|还的意思|汉典“还”字的基本解释">
+<meta name="keywords" content="左下：辶，右上：不。" /><meta property="og:title" content="“还”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“还”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“还”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/还" />
+<link rel="canonical" href="//www.zdic.net/hans/还" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/还" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/还" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/还" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/还">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/还">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8FD8.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8FD8.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">huán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/huán.mp3"></a></span></span></p><p><span class="z_d song">hái<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hái.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄏㄨㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨㄢˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄏㄞˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄞˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=辶" target="_blank">  辶</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/還' target=_blank>還</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/還' target=_blank>還</a> <a href='/hans/𢕼' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2257C.svg'><span class='ytz_txt'>𢕼</span></a> <a href='/hans/𨕔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28554.svg'><span class='ytz_txt'>𨕔</span></a> <a href='/hans/𨖞' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2859E.svg'><span class='ytz_txt'>𨖞</span></a> <a href='/hans/𨘣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28623.svg'><span class='ytz_txt'>𨘣</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8FD8</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>1324454</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gipi|dhpi</p></td>                            <td class="dsk_2_1"><p>ymf</p></td>                            <td class="dsk_2_1"><p>giw</p></td>                            <td class="dsk_2_1"><p>31309</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">huán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/huán.mp3"></a></span></span> <span class="z_d song">hái<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hái.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄏㄨㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨㄢˊ.mp3"></a></span></span> <span class="z_d song">ㄏㄞˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“还”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄞˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=辶" target="_blank">辶</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 8FD8<span class="z_ts2">笔顺</span> 1324454                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8FD8_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=16857" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">还</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>还</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">還</span>）</strong></p><p><span class="dicpy">hu&aacute;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&aacute;n.mp3"></a></span> ㄏㄨㄢˊ</span></p><hr class="dichr" /><ol>	<li>回到原处或恢复原状：～乡。～俗。衣锦～乡。返老～童。</li>	<li>回报别人对自己的行动。～手。～击。以眼～眼。以牙～牙。</li>	<li>偿付：归～。偿～。～本。原物奉～。</li>	<li>同&ldquo;<a href="/hans/环">环</a>&rdquo;，环绕。</li>	<li>姓。</li></ol><p>● <strong>还</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">還</span>）</strong></p><p><span class="dicpy">h&aacute;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&aacute;i.mp3"></a></span> ㄏㄞˊ</span></p><hr class="dichr" /><ol>	<li>依然，仍然：这本书～没有看完。</li>	<li>更加：今天比昨天～冷。</li>	<li>再，又：锻炼身体，～要注意休息。</li>	<li>尚，勉强过得去：身体～好。</li>	<li>尚且：他～搬不动，何况我呢？</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> still, yet, also, besides</p><p><span class="z_ts2">德语</span> auch ,zurückgeben, zurückkehren, zurückkommen  (V)</p><p><span class="z_ts2">法语</span> retourner,regagner,rétablir,rendre,rembourser,encore,encore plus,plutôt,de plus,également</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">还</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>还</strong></p>
+<p>還 <span class="dicpy">h&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> &mdash;&mdash;表示某些语气，有时兼有连接前后分句的作用。&ldquo;还&rdquo;表示的语气大体上可以分成平、扬、抑三类</p>
+<p><span class="cino">(2)</span> 表示平的语气，不含轻重抑扬的意思</p>
+<p><span class="cino">(3)</span> 表示行为动作或状况不变，跟&ldquo;仍旧、依然&rdquo;相当 <span class="encs">[still;yet]</span></p>
+<p><span class="diczx1">白头还戍边。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《兵车行》</span></p>
+<p><span class="diczx1">取酒还独倾。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx3">又如:还在原位;我的脚还痛</span></p>
+<p><span class="cino">(4)</span> 跟&ldquo;虽然、尽管&rdquo;等连用，表示行为状况不因别的条件改变而改变。如:虽然已经宣布散会，人们还在继续争论(表示行为重复，有&ldquo;重新、再&rdquo;的意思。如:京剧团明天还演一场)</p>
+<p><span class="cino">(5)</span> 表示扬的语气，把事情往大里、高里、重里说</p>
+<p><span class="cino">(6)</span> 更加 <span class="encs">[even more]</span>。</p>
+<p><span class="diczx3">如: 二勇比他哥哥大勇还壮</span></p>
+<p><span class="cino">(7)</span> 表示项目、数量增加，范围扩大 <span class="encs">[as well]</span>。</p>
+<p><span class="diczx3">如:除了他们三个以外，小组里还有我</span></p>
+<p><span class="cino">(8)</span> 不但(不仅，不光)&hellip;还&hellip; <span class="encs">[also]</span>。</p>
+<p><span class="diczx3">如:小伙子不仅会开拖拉机，还会修理电器</span></p>
+<p><span class="cino">(9)</span> 表示抑的语气，把事情往小里、低里、轻里说</p>
+<p><span class="cino">(10)</span> 表示勉强过得去 <span class="encs">[fairly]</span>。</p>
+<p><span class="diczx3">如:这根绳子还较结实;还算不错，电话最后打通了</span></p>
+<p><span class="cino">(11)</span> 表示数量小，时间不到，等等 <span class="encs">[still]</span>。</p>
+<p><span class="diczx3">如:人还太少，编不成队</span></p>
+<p><span class="cino">(12)</span> 还&hellip;就&hellip; <span class="encs">[only]</span>。</p>
+<p><span class="diczx3">如:还不过五点钟，他就已经起床了</span></p>
+<p><span class="cino">(13)</span> 还+没(不到)&hellip;就&hellip; <span class="encs">[yet]</span>。</p>
+<p><span class="diczx3">如:我还没说话，他就说&ldquo;知道了&rdquo;</span></p>
+<p><span class="cino">(14)</span> 尚且 <span class="encs">[even]</span>。</p>
+<p><span class="diczx3">如:小车还通不过，更别提大车了</span></p>
+<p><span class="cino">(15)</span> 表示感情为主，意思有的可以用前面三项来解释，但那是次要的</p>
+<p><span class="cino">(16)</span> 表示超出预料，有赞叹的语气 <span class="encs">[notwithstanding]</span>。</p>
+<p><span class="diczx3">如:下这么大雨，没想到你还真准时到了</span></p>
+<p><span class="cino">(17)</span> 表示应该怎样而不怎样，名不副实，有责备或讥讽的语气 <span class="encs">[unworth of]</span>。</p>
+<p><span class="diczx3">如:亏你还是大哥哥呢，也不让着点妹妹!</span></p>
+<p><span class="cino">(18)</span> 用于反问 <span class="encs">[why]</span>。</p>
+<p><span class="diczx3">如:都十二点了，你还说早!</span></p>
+<p><span class="cino">(19)</span> 另见 <span class="dicpy">hu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&aacute;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/还差">还差</a></span><span class="crefe"><a href="/hans/还好">还好</a></span><span class="crefe"><a href="/hans/还好">还好</a></span><span class="crefe"><a href="/hans/还是">还是</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>还</strong></p>
+<p>還 <span class="dicpy">hu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&aacute;n.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (形声。从辵( <span class="dicpy">chu&oacute;</span>，表示与行走有关)，瞏( <span class="dicpy">hu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&aacute;n.mp3"></a></span> )声。本义:返回)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[come back;go back;return]</span></p>
+<p><span class="diczx1">还，復也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">还，返也。&mdash;&mdash;<span class="smcs">《尔雅&middot;释言》</span></span></p>
+<p><span class="diczx1">还而不入。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;何人斯》</span></span></p>
+<p><span class="diczx1">吾其还也。&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十年》</span></span></p>
+<p><span class="diczx1">势还不远，可先为起第。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">既罢，还内。</span></p>
+<p><span class="diczx1">还部白府君。(回到府里报告太守。府君，太守。)&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">送儿还故乡。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">便要还家。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">复还终业。&mdash;&mdash;<span class="smcs">《后汉书&middot;列女传》</span></span></p>
+<p><span class="diczx1">自南海还。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx3">又如:还首(自动回来请罪);还云(飘回的云朵;指回信);还函(回信);还转(回转，返回);还复(返回)</span></p>
+<p><span class="cino">(3)</span> 回头;回顾 <span class="encs">[turn around;turn round]</span></p>
+<p><span class="diczx2">羽</span>还叱之。&mdash;&mdash;<span class="smcs">《汉书&middot;项籍传》</span></p>
+<p><span class="diczx1">视无还。&mdash;&mdash;<span class="smcs">《国语&middot;周语》</span></span></p>
+<p><span class="diczx3">又如:还顾(回顾;回头看);还睇(回头看);还视(回头看)</span></p>
+<p><span class="cino">(4)</span> 通&ldquo;环&rdquo;。环绕 <span class="encs">[surround]</span></p>
+<p><span class="diczx1">左还授师。&mdash;&mdash;<span class="smcs">《礼记&middot;内则》</span></span></p>
+<p><span class="diczx1">还辟再拜稽首。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">将还玩</span><span class="diczx2">吴国</span>于股掌之上。&mdash;&mdash;<span class="smcs">《国语&middot;吴语》</span>。注:&ldquo;还，转也。&rdquo;</p>
+<p><span class="diczx1">引车右还。&mdash;&mdash;<span class="smcs">《楚辞&middot;招魂》</span></span></p>
+<p><span class="diczx1">道还公宫。&mdash;&mdash;<span class="smcs">《左传&middot;哀公三年》</span></span></p>
+<p><span class="diczx1">诸侯之师，还</span><span class="diczx2">郑</span>而来。&mdash;&mdash;<span class="smcs">《左传&middot;襄公十年》</span></p>
+<p><span class="diczx1">还庐树桑，菜茹有畦。&mdash;&mdash;<span class="smcs">《汉书&middot;食货志上》</span></span></p>
+<p><span class="diczx1">三人还射。&mdash;&mdash;<span class="smcs">《史记&middot;李将军传》</span></span></p>
+<p><span class="diczx1">还柱而走。&mdash;&mdash;<span class="smcs">《战国策&middot;燕策》</span></span></p>
+<p><span class="diczx1">方还柱走。</span></p>
+<p><span class="diczx1">以地还之也。&mdash;&mdash;<span class="smcs">《公羊传&middot;庄公十年》</span></span></p>
+<p><span class="diczx1">水潦所还，埒丘。&mdash;&mdash;<span class="smcs">《尔雅&middot;释丘》</span></span></p>
+<p><span class="diczx3">又如:还绕(环绕);还会(交互缠绕的样子);还旋(环绕)</span></p>
+<p><span class="cino">(5)</span> 恢复;还原 <span class="encs">[recover;restore]</span></p>
+<p><span class="diczx1">吏以过误罢者还其职。&mdash;&mdash;<span class="smcs">《明史&middot;太祖本纪》</span></span></p>
+<p><span class="diczx3">又如:还惺(歇息一会而恢复精力);还质(恢复丽质);还睦(恢复和睦);还童(恢复青春);还级(恢复到原等级)</span></p>
+<p><span class="cino">(6)</span> 来，到来 <span class="encs">[come;arrive]</span></p>
+<p><span class="diczx2">舜</span><span class="diczx2">禹</span>还至，王业还起。&mdash;&mdash;<span class="smcs">《荀子&middot;王霸》</span></p>
+<p><span class="diczx3">又如:春还(春天到来;春天来了);时还(时来运转)</span></p>
+<p><span class="cino">(7)</span> 交还;归还 <span class="encs">[give back;return]</span></p>
+<p><span class="diczx1">当奉还土地民人。&mdash;&mdash;<span class="smcs">《三国志&middot;吴主传》</span></span></p>
+<p><span class="diczx1">还矢先王。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《新五代史&middot;伶官传》</span></p>
+<p><span class="diczx1">率夺还之。&mdash;&mdash;<span class="smcs">《明史》</span></span></p>
+<p><span class="diczx3">又如:还璧(归还玉璧;归还原物或辞谢馈赠之物);还珠(物归原地与原主);还归(归还)</span></p>
+<p><span class="cino">(8)</span> 偿还;交付 <span class="encs">[give sth. in return;repay]</span></p>
+<p><span class="diczx1">割慈忍爱还租庸。&mdash;&mdash;</span><span class="diczx2">杜甫</span><span class="smcs">《岁晏行》</span></p>
+<p><span class="diczx3">又如:还付(归还交付);还偿(偿还);还款(归还所欠的债款或偿付所欠的贷款);还直(偿还价值)</span></p>
+<p><span class="cino">(9)</span> 回报;回击 <span class="encs">[repay;fight back]</span>。</p>
+<p><span class="diczx3">如:还报(还手，报复;报应;报答);还兵(用兵器还击);还骂(挨骂者回骂对方)</span></p>
+<p><span class="cino">(10)</span> 后退 <span class="encs">[draw back;fall back]</span></p>
+<p><span class="diczx1">主人答拜还。&mdash;&mdash;<span class="smcs">《仪礼&middot;乡饮酒礼》</span></span></p>
+<p><span class="diczx3">又如:还走(返身后退而走);还流(回流;回旋或倒流之水)</span></p>
+<p><span class="cino">(11)</span> 罢歇;止息 <span class="encs">[pause;stop]</span>。</p>
+<p><span class="diczx3">如:雨还(雨止);流弊不还(流弊不止息)</span></p>
+<p><span class="cino">(12)</span> 包;保证 <span class="encs">[guarantee]</span>。</p>
+<p><span class="diczx3">如:还你名实兼收(包你名利双收);还有雨下(保证有雨下)</span></p>
+<p><span class="cino">(13)</span> 通&ldquo;营&rdquo;</p>
+<p><span class="cino">(14)</span> 经营;谋画 <span class="encs">[administer;manage;plan;scheme]</span></p>
+<p><span class="diczx1">内则大夫自还而不尽忠，外则诸侯连朋合舆。&mdash;&mdash;<span class="smcs">《管子&middot;山至数》</span></span></p>
+<p><span class="diczx3">又如:还秩(谋求私利);还私(谋私)</span></p>
+<p><span class="cino">(15)</span> 惑乱 <span class="encs">[in disorder]</span></p>
+<p><span class="diczx1">国多私，比周还主党与施。&mdash;&mdash;<span class="smcs">《荀子&middot;成相》</span></span></p>
+<p><span class="diczx1">周环中规，折还中矩。&mdash;&mdash;<span class="smcs">《礼记&middot;玉藻》</span></span></p>
+<p><span class="diczx3">又如:还主(惑乱君主)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>还</strong></p>
+<p>還 <span class="dicpy">hu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hu&aacute;n.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 仍然;重复 <span class="encs">[still;yet;again]</span></p>
+<p><span class="diczx1">子孙日以长，世世还复然。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《田家》</span></p>
+<p><span class="cino">(2)</span> 反而 <span class="encs">[on the contrary;instead;but]</span></p>
+<p><span class="diczx1">譬画虎不成，还为狗者也。&mdash;&mdash;<span class="smcs">《三国志&middot;陈思王植传》</span></span><span class="diczx2">裴松之</span>注引<span class="smcs">《典略》</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;旋( <span class="dicpy">xu&aacute;n</span>)&rdquo;。迅速 <span class="encs">[fast;swift]</span></p>
+<p><span class="diczx1">法立而还废之，令出而后反之。&mdash;&mdash;<span class="smcs">《管子&middot;任法》</span></span></p>
+<p><span class="diczx1">食骏马之肉，而不还饮酒，余恐其伤女也。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;爱士》</span></span></p>
+<p><span class="diczx1">鬼魅不能自还兮，半长途而下颠。&mdash;&mdash;<span class="smcs">《汉书&middot;扬雄传上》</span></span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">h&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&aacute;i.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/还本">还本</a></span><span class="crefe"><a href="/hans/还魂">还魂</a></span><span class="crefe"><a href="/hans/还击">还击</a></span><span class="crefe"><a href="/hans/还价">还价</a></span><span class="crefe"><a href="/hans/还口">还口</a></span><span class="crefe"><a href="/hans/还礼">还礼</a></span><span class="crefe"><a href="/hans/还清">还清</a></span><span class="crefe"><a href="/hans/还手">还手</a></span><span class="crefe"><a href="/hans/还俗">还俗</a></span><span class="crefe"><a href="/hans/还席">还席</a></span><span class="crefe"><a href="/hans/还原">还原</a></span><span class="crefe"><a href="/hans/还原">还原</a></span><span class="crefe"><a href="/hans/还愿">还愿</a></span><span class="crefe"><a href="/hans/还债">还债</a></span><span class="crefe"><a href="/hans/还账">还账</a></span><span class="crefe"><a href="/hans/还嘴">还嘴</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8FD8_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=備考·酉集" target="_blank">備考·酉集</a>】【<a href="/zd/kx/?zm=備考·酉集&amp;bs=辵" target="_blank">辵</a>】
+                              还·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：4</span>
+                                                          </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">还</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=備考·酉集" target="_blank">備考·酉集</a>】【<a href="/zd/kx/?zm=備考·酉集&amp;bs=辵" target="_blank">辵</a>】
+                              还·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8FD8.svg">						  <p>【篇海類編】音浮。</p><p>又音否。俗作還字，非。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8FD8_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=辵">辵</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">還</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“还”字头，请参考“<a href="/hans/還">還</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=辵">辵</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/9084.svg">                          <p>復也。从辵瞏聲。戶關切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/9084_6874.svg" /><span class="swbf">(還)</span><span class="ywyy">復也。</span><span class="swdz">釋言：還，復返也。今人還繞字用環。古經傳衹用還字。</span><span class="ywyy">从辵睘聲。</span><span class="swdz">戶關切。十四部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8FD8_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">还</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  xuan˧˥; xĄi˧˥ </p>						<p><span class="z_ts2">粤语</span>  waan4</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/还">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/还">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/还">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/还">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/还">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/还">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/还">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/还">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/还">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/还">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/还">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/还">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">还</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「還」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/还"><img data-original="//img.zdic.net/zy/jinwen/31_E85B.svg" class="lazy ypic"><span>「還」 免簠</span><span>西周中期</span><span>集成4626</span></a></td><td><a href="/zd/zx/cx/还"><img data-original="//img.zdic.net/zy/chuwenzi/51_E9EE.svg" class="lazy ypic"><span>「還」 包2.10</span></a></td><td><a href="/zd/zx/xz/还"><img data-original="//img.zdic.net/zy/xiaozhuan/27_9084.svg" class="lazy ypic"><span>「還」 說文‧辵部</span></a></td><td style="display:none"></td><td><a href="/hans/還" target="_blank"><img data-original="//img.zdic.net/kai/tw/9084.svg" class="lazy ypic"><span>「還」</span></a> </td><td><a href="/hans/还" target="_blank"><img data-original="//img.zdic.net/kai/tw/8FD8.svg" class="lazy ypic"><span>「还」</span></a></td><td style="display:none"><a href="/hans/还" target="_blank"><img data-original="//img.zdic.net/kai/tw/8FD8.svg" class="lazy ypic"><span>「还」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/还"><img data-original="//img.zdic.net/zy/jinwen/31_E85D.svg" class="lazy ypic"><span>「還」 散氏盤</span><span>西周晚期</span><span>集成10176</span></a></td><td><a href="/zd/zx/cx/还"><img data-original="//img.zdic.net/zy/chuwenzi/51_E9EF.svg" class="lazy ypic"><span>「還」 包2.92</span></a></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/还"><img data-original="//img.zdic.net/zy/jinwen/31_E85E.svg" class="lazy ypic"><span>「還」 鄂侯鼎</span><span>西周晚期</span><span>集成2810</span></a></td><td></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/还">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/还">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/还">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/还">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/还">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8FD8.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8FD8.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8FD8.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/還' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9084.svg'><span>還</span></a></div> <div class='zx'><a href='/hans/𢕼' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2257C.svg'><span>𢕼</span></a></div> <div class='zx'><a href='/hans/𨕔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28554.svg'><span>𨕔</span></a></div> <div class='zx'><a href='/hans/𨖞' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2859E.svg'><span>𨖞</span></a></div> <div class='zx'><a href='/hans/𨘣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28623.svg'><span>𨘣</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="16857" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5299">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/雈">雈(huan2)</a></li><li><a href="/hans/鹮">鹮(huan2)</a></li><li><a href="/hans/㢰">㢰(huan2)</a></li><li><a href="/hans/繯">繯(huan2)</a></li><li><a href="/hans/镮">镮(huan2)</a></li><li><a href="/hans/獂">獂(huan2)</a></li><li><a href="/hans/鍰">鍰(huan2)</a></li><li><a href="/hans/闤">闤(huan2)</a></li><li><a href="/hans/狟">狟(huan2)</a></li><li><a href="/hans/䮝">䮝(huan2)</a></li><li><a href="/hans/圜">圜(huan2)</a></li><li><a href="/hans/嬛">嬛(huan2)</a></li><li><a href="/hans/孩">孩(hai2)</a></li><li><a href="/hans/嚡">嚡(hai2)</a></li><li><a href="/hans/㜾">㜾(hai2)</a></li><li><a href="/hans/骸">骸(hai2)</a></li><li><a href="/hans/䱺">䱺(hai2)</a></li><li><a href="/hans/䠽">䠽(hai2)</a></li><li><a href="/hans/䂤">䂤(hai2)</a></li><li><a href="/hans/䯐">䯐(hai2)</a></li><li><a href="/hans/䠹">䠹(hai2)</a></li><li><a href="/hans/郂">郂(hai2)</a></li><li><a href="/hans/還">還(hai2)</a></li><li><a href="/hans/㨟">㨟(hai2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/遌">遌</a></li><li><a href="/hans/遯">遯</a></li><li><a href="/hans/遷">遷</a></li><li><a href="/hans/遡">遡</a></li><li><a href="/hans/遁">遁</a></li><li><a href="/hans/䢤">䢤</a></li><li><a href="/hans/逸">逸</a></li><li><a href="/hans/迦">迦</a></li><li><a href="/hans/迆">迆</a></li><li><a href="/hans/迱">迱</a></li><li><a href="/hans/遪">遪</a></li><li><a href="/hans/逹">逹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㤉">㤉</a></li><li><a href="/hans/灶">灶</a></li><li><a href="/hans/沛">沛</a></li><li><a href="/hans/夋">夋</a></li><li><a href="/hans/㧍">㧍</a></li><li><a href="/hans/罕">罕</a></li><li><a href="/hans/㲾">㲾</a></li><li><a href="/hans/氙">氙</a></li><li><a href="/hans/牠">牠</a></li><li><a href="/hans/妔">妔</a></li><li><a href="/hans/佁">佁</a></li><li><a href="/hans/孝">孝</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">春去花<span>还</span>在，人来鸟不惊。</div><div class="gscdr">唐·王维 《画》</div><div class="gscdl">待到重阳日，<span>还</span>来就菊花。</div><div class="gscdr">唐·孟浩然 《过故人庄》</div><div class="gscdl">春风又绿江南岸，明月何时照我<span>还</span>？</div><div class="gscdr">宋·王安石 《泊船瓜洲》</div><div class="gscdl">千磨万击<span>还</span>坚劲，任尔东西南北风。</div><div class="gscdr">清·郑燮 《竹石》</div><div class="gscdl">白日放歌须纵酒，青春作伴好<span>还</span>乡。</div><div class="gscdr">唐·杜甫 《闻官军收河南河北》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">可汗问所欲，木兰不用尚书郎，愿驰千里足，送儿<span>还</span>故乡。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">山气日夕佳，飞鸟相与<span>还</span>。</div><div class="gscdr">《饮酒》（其五）</div><div class="gscdl">便要<span>还</span>家，设酒杀鸡作食。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">而今识尽愁滋味，欲说<span>还</span>休。欲说<span>还</span>休。却道天凉好个秋。</div><div class="gscdr">宋·辛弃疾 《丑奴儿》</div><div class="gscdl">余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以<span>还</span>。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div><div class="gscdl">今南方已定，兵甲已足，当奖率三军，北定中原，庶竭驽钝，攘除奸凶，兴复汉室，<span>还</span>于旧都。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=16857"></script>
+</body>
+</html>

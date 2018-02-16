@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>问的解释|问的意思|汉典“问”字的基本解释</title>
+<meta name="title" content="问的解释|问的意思|汉典“问”字的基本解释">
+<meta name="keywords" content="左、右、上：门，中間：口。  " /><meta property="og:title" content="“问”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“问”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“问”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/问" />
+<link rel="canonical" href="//www.zdic.net/hans/问" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/问" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/问" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/问" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.1" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/问">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/问">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/95EE.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/95EE.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">wèn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“问”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wèn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄨㄣˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“问”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄣˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=门" target="_blank">  门</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/問' target=_blank>問</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/問' target=_blank>問</a> <a href='/hans/𠳅' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20CC5.svg'><span class='ytz_txt'>𠳅</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+95EE</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>425251</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ukd</p></td>                            <td class="dsk_2_1"><p>lsr</p></td>                            <td class="dsk_2_1"><p>tlj</p></td>                            <td class="dsk_2_1"><p>37601</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">wèn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“问”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wèn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄨㄣˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“问”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄣˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=门" target="_blank">门</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 95EE<span class="z_ts2">笔顺</span> 425251                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="95EE_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=18415" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">问</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>问</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">問</span>）</strong></p>
+<p><span class="dicpy">w&egrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;n.mp3"></a></span> ㄨㄣˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>有不知道或不明白的事请人解答：询～。～答。～题。～鼎（指图谋夺取政权）。～津。质～。过～。</li>
+	<li>为表关切而询问：慰～。～候。～长～短。</li>
+	<li>审讯，追究：审～。～案。唯你是～。</li>
+	<li>管，干预：概不过～。</li>
+	<li>向某人或某方面要东西：我～他借几本书。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> ask about, inquire after</p><p><span class="z_ts2">德语</span> fragen, befragen  (V)​,jd. verhören, jd vernehmen  (V)​,sich nach etwas erkundigen  (V)​,jd. zur Rechenschaft ziehen  (V)</p><p><span class="z_ts2">法语</span> demander,se renseigner,questionner,interroger</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">问</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>问</strong></p>
+<p>問 <span class="dicpy">w&egrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (形声。从口，门声。本义:问，询问)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[ask about]</span></p>
+<p><span class="diczx1">问，讯也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">皇帝请问下民。&mdash;&mdash;<span class="smcs">《书&middot;吕刑》</span></span></p>
+<p><span class="diczx1">时聘曰问。&mdash;&mdash;<span class="smcs">《周礼&middot;大宗伯》</span></span></p>
+<p><span class="diczx1">小聘曰问。&mdash;&mdash;<span class="smcs">《仪礼&middot;聘礼》</span></span></p>
+<p><span class="diczx1">问人于他邦。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">善问者如攻坚木。&mdash;&mdash;<span class="smcs">《礼记&middot;学记》</span></span></p>
+<p><span class="diczx1">问女何所思，问女何所忆。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">问其故。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx1">跪问其故。&mdash;&mdash;<span class="smcs">《后汉书&middot;列女传》</span></span></p>
+<p><span class="diczx2">景公</span>问政 <span class="diczx2">孔子</span>。&mdash;&mdash;<span class="smcs">《史记&middot;孔子世家》</span></p>
+<p><span class="diczx2">豹</span>往到 <span class="diczx2">邺</span>，会 <span class="diczx2">长老</span>，问之民所疾苦。&mdash;&mdash;<span class="smcs">《史记&middot;滑稽列传》</span></p>
+<p><span class="diczx1">既克，公问其故。&mdash;&mdash;<span class="smcs">《左传&middot;庄公十年》</span></span></p>
+<p><span class="diczx1">笑问客从何处来。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">贺知章</span><span class="smcs">《回乡偶书》</span></p>
+<p><span class="diczx2">康肃</span>问曰。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《归田录》</span></p>
+<p><span class="diczx1">公问不至。&mdash;&mdash;<span class="smcs">《左传&middot;庄公八年》</span></span></p>
+<p><span class="diczx3">又如:到食堂问一下开饭的时间;问途(打听路径);问信(打听消息);问官答花(答非所问);不耻下问;查问;发问;讯问;追问;自问;不懂就问;问字(称从人受学或请教为问字);问岁(询问年岁的丰歉);问禁(初入他国，问其政教上的禁令);问遂(问路。遂，水中可涉的径路);问对(问，发问);问知(向有学问的人请教);问俗(查访风俗);问卦(以卜得的卦象来探求吉凶);问经(学习或请教有关经书的问题);问龟(占卜);问课(请教课业)</span></p>
+<p><span class="cino">(3)</span> 访问 <span class="encs">[visit]</span></p>
+<p><span class="diczx1">问士以璧。&mdash;&mdash;<span class="smcs">《荀子&middot;大略》</span>。注:&ldquo;谓访其国事。&rdquo;</span></p>
+<p><span class="diczx1">天王使</span><span class="diczx2">南季</span>来聘。&mdash;&mdash;<span class="smcs">《春秋&middot;隐公九年》</span>。<span class="smcs">《谷梁传》</span>解释说:&ldquo;聘，问也。&rdquo;</p>
+<p><span class="cino">(4)</span> 责问 <span class="encs">[ask reprovingly]</span></p>
+<p><span class="diczx2">昭王</span>南征而不复，寡人是问。&mdash;&mdash;<span class="smcs">《左传&middot;僖公四年》</span></p>
+<p><span class="diczx3">又如:质问;诘问</span></p>
+<p><span class="cino">(5)</span> 问候;慰问 <span class="encs">[ask after]</span></p>
+<p><span class="diczx2">伯牛</span>有病， <span class="diczx2">子</span>问之。&mdash;&mdash;<span class="smcs">《论语&middot;雍也》</span></p>
+<p><span class="diczx2">齐王</span>使使者问 <span class="diczx2">赵威后</span>。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策》</span></p>
+<p><span class="diczx1">周游城中，家家致问。&mdash;&mdash;<span class="smcs">《三国志&middot;吕蒙传》</span></span></p>
+<p><span class="diczx3">又如:问牛(形容官吏关怀民间疾苦);问疾(探视病情);问慰(慰问);问省(问侯尊长的起居);问宁(问安);问劳(问候慰劳)</span></p>
+<p><span class="cino">(6)</span> 过问 <span class="encs">[take an interest in]</span></p>
+<p><span class="diczx1">不问之秋。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">王勃</span><span class="smcs">《杜少府之任蜀州》</span></p>
+<p><span class="diczx1">今不问农蚕，而但以饱暖相矜耀。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">章学诚</span><span class="smcs">《文史通义》</span></p>
+<p><span class="cino">(7)</span> 审案，审讯 <span class="encs">[罪犯]</span> <span class="encs">[try]</span></p>
+<p><span class="diczx1">每得降卒，必亲引问委曲。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:审问;拷问;问头(对罪犯的起诉文书);问拟(审问罪犯);问结(审问结案);问断(经过审问判了罪)</span></p>
+<p><span class="cino">(8)</span> 引申为&ldquo;判决&rdquo; <span class="encs">[sentence]</span>。</p><p><span class="diczx3">如:问绞(判绞刑);问发(判发配)</span></p>
+<p><span class="cino">(9)</span> 追究 <span class="encs">[look into]</span></p>
+<p><span class="diczx1">引问委曲。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></span></p>
+<p><span class="diczx1">按问其家。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">张溥</span><span class="smcs">《五人墓碑记》</span></p>
+<p><span class="diczx1">是不必问。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">全祖望</span><span class="smcs">《梅花岭记》</span></p>
+<p><span class="diczx1">不问罪之有无。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:问革(问罪罢官);问遣(问罪发配)</span></p>
+<p><span class="cino">(10)</span> 寻访 <span class="encs">[look for]</span></p>
+<p><span class="diczx1">后遂无问津者。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶潜</span><span class="smcs">《桃花源诗并记》</span></p>
+<p><span class="cino">(11)</span> 通&ldquo;闻&rdquo;。告诉 <span class="encs">[tell]</span></p>
+<p><span class="diczx1">或以问</span><span class="diczx2">孟尝君</span>。&mdash;&mdash;<span class="smcs">《战国策》</span></p>
+<p><span class="cino">(12)</span> 管;有责任(可能被要求作回答) <span class="encs">[hold responsibility]</span>。</p><p><span class="diczx3">如:出了事唯你是问;不管不问;过问</span></p>
+<p><span class="cino">(13)</span> 聘问;旧时订婚，男方向女方下聘礼。源于古&ldquo;纳采&rdquo;、&ldquo;问名&rdquo;的礼节 <span class="encs">[bride-price]</span>。</p><p><span class="diczx3">如:问亲(求亲);问聘(行聘;订亲);问肯(求亲)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>问</strong></p>
+<p>問 <span class="dicpy">w&egrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 周代诸侯国间的一种相互访问的礼节 <span class="encs">[visit]</span></p>
+<p><span class="diczx1">凡诸侯之邦交，岁相问也，殷相聘也，世相朝也。&mdash;&mdash;<span class="smcs">《周礼》</span></span></p>
+<p><span class="cino">(2)</span> 指书信 <span class="encs">[letter]</span></p>
+<p><span class="diczx1">既而羁寓京师，久无家问。&mdash;&mdash;<span class="smcs">《晋书&middot;陆机传》</span></span></p>
+<p><span class="diczx3">又如:久无家问</span></p>
+<p><span class="cino">(3)</span> 权威性的命令，常由上级向下级发布 <span class="encs">[order]</span></p>
+<p><span class="diczx2">公</span>问不至。&mdash;&mdash;<span class="smcs">《左传》</span></p>
+<p><span class="cino">(4)</span> 通&ldquo;闻&rdquo;。声誉 <span class="encs">[repute]</span></p>
+<p><span class="diczx1">肆不殄厥愠，亦不陨厥问。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;緜》</span></span></p>
+<p><span class="diczx1">遂得光誉令问于天下。&mdash;&mdash;<span class="smcs">《墨子&middot;非命下》</span></span></p>
+<p><span class="diczx1">因失吾问。&mdash;&mdash;<span class="smcs">《庄子&middot;庚桑楚》</span></span></p>
+<p><span class="diczx1">问丧于夫子乎?&mdash;&mdash;<span class="smcs">《礼记&middot;檀弓上》</span></span></p>
+<p><span class="diczx1">淑问扬乎疆外。&mdash;&mdash;<span class="smcs">《汉书&middot;匡衡传》</span>。</span><span class="diczx2">颜师古</span>云:问，名也。</p>
+<p>◎ <strong>问</strong></p>
+<p>問 <span class="dicpy">w&egrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&egrave;n.mp3"></a></span> </p>
+<p>〈介〉</p>
+<p>表示方向、对象，相当于&ldquo;向&rdquo; <span class="encs">[to]</span>。</p><p><span class="diczx3">如:问你买酒</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/问安">问安</a></span><span class="crefe"><a href="/hans/问案">问案</a></span><span class="crefe"><a href="/hans/问卜">问卜</a></span><span class="crefe"><a href="/hans/问长问短">问长问短</a></span><span class="crefe"><a href="/hans/问答">问答</a></span><span class="crefe"><a href="/hans/问道于盲">问道于盲</a></span><span class="crefe"><a href="/hans/问鼎">问鼎</a></span><span class="crefe"><a href="/hans/问寒问暖">问寒问暖</a></span><span class="crefe"><a href="/hans/问好">问好</a></span><span class="crefe"><a href="/hans/问号">问号</a></span><span class="crefe"><a href="/hans/问候">问候</a></span><span class="crefe"><a href="/hans/问话">问话</a></span><span class="crefe"><a href="/hans/问津">问津</a></span><span class="crefe"><a href="/hans/问柳寻花">问柳寻花</a></span><span class="crefe"><a href="/hans/问名">问名</a></span><span class="crefe"><a href="/hans/问难">问难</a></span><span class="crefe"><a href="/hans/问世">问世</a></span><span class="crefe"><a href="/hans/问事">问事</a></span><span class="crefe"><a href="/hans/问题">问题</a></span><span class="crefe"><a href="/hans/问心">问心</a></span><span class="crefe"><a href="/hans/问心无愧">问心无愧</a></span><span class="crefe"><a href="/hans/问询">问询</a></span><span class="crefe"><a href="/hans/问讯">问讯</a></span><span class="crefe"><a href="/hans/问斩">问斩</a></span><span class="crefe"><a href="/hans/问字">问字</a></span><span class="crefe"><a href="/hans/问罪">问罪</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="95EE_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              問·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">問</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“问”字头，请参考“<a href="/hans/問">問</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              問·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/554F.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20CC5.svg"><span class="k_txt">𠳅</span>【唐韻】亡運切【集韻】【韻會】【正韻】文運切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>聞去聲。【說文】訊也。【書&middot;仲虺之誥】好問則裕。【詩&middot;邶風】問我諸姑，遂及伯姊。</p>
+<p>又【爾雅&middot;釋言】聘問也。【儀禮&middot;聘禮】小聘曰問。【周禮&middot;春官&middot;大宗伯】時聘曰問。</p>
+<p>又【秋官&middot;大行人】閒問以諭諸侯之志。【又】凡諸侯之邦交，歲相問也。</p>
+<p>又【正字通】古謂遺曰問。【詩&middot;鄭風】雜佩以問之。【傳】問，遺也。【禮&middot;曲禮】凡以苞苴簞笥問人者。【左傳&middot;哀二十六年】衛侯使以弓問子貢。</p>
+<p>又訊罪曰問。【詩&middot;魯頌】淑問如臯陶。【註】淑，善。問，訊囚也。</p>
+<p>又命也。【左傳&middot;莊八年】期戍，公問不至。【註】問，命也。</p>
+<p>又姓。【廣韻】今襄州有之。【正字通】明問智，成化貢士。</p>
+<p>又【正韻】與聞同，聲問也。【詩&middot;大雅】宣昭義問。【又】亦不隕厥問。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="95EE_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=口">口</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">問</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“问”字头，请参考“<a href="/hans/問">問</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=口">口</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/554F.svg">                          <p>訊也。从口門聲。亡運切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/554F_834.svg" /><span class="swbf">(問)</span><span class="ywyy">訊也。</span><span class="swdz">言部曰：訊，問也。引伸爲禮之聘問。</span><span class="ywyy">从口門聲。</span><span class="swdz">亾運切。十三部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="95EE_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">问</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  wən˥˧ </p>						<p><span class="z_ts2">粤语</span>  man6</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/问">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/问">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/问">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/问">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/问">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/问">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/问">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/问">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/问">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/问">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/问">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/问">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">问</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「問」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/问"><img data-original="//img.zdic.net/zy/jiaguwen/41_E568.svg" class="lazy ypic"><span>「問」 後2.9.10</span><span>合16419</span></a></td><td><a href="/zd/zx/jw/问"><img data-original="//img.zdic.net/zy/jinwen/31_E537.svg" class="lazy ypic"><span>「聞」 陳侯因敦</span><span>戰國中期</span><span>集成4649</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/问"><img data-original="//img.zdic.net/zy/xiaozhuan/27_554F.svg" class="lazy ypic"><span>「問」 說文‧口部</span></a></td><td><a href="/zd/zx/qx/问"><img data-original="//img.zdic.net/zy/qinwenzi/71_E0E7.svg" class="lazy ypic"><span>「問」 睡.法122</span></a></td><td><a href="/hans/問" target="_blank"><img data-original="//img.zdic.net/kai/tw/554F.svg" class="lazy ypic"><span>「問」</span></a> </td><td><a href="/hans/问" target="_blank"><img data-original="//img.zdic.net/kai/tw/95EE.svg" class="lazy ypic"><span>「问」</span></a></td><td style="display:none"><a href="/hans/问" target="_blank"><img data-original="//img.zdic.net/kai/tw/95EE.svg" class="lazy ypic"><span>「问」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/问"><img data-original="//img.zdic.net/zy/jinwen/35_E60B.svg" class="lazy ypic"><span>「問」 四年咎奴蓸令戈</span><span>戰國晚期</span><span>集成11341</span></a></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/问">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/问">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/问">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/问">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/问">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/95EE.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/95EE.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/95EE.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/問' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/554F.svg'><span>問</span></a></div> <div class='zx'><a href='/hans/𠳅' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20CC5.svg'><span>𠳅</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="18415" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7102">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/揾">揾(wen4)</a></li><li><a href="/hans/妏">妏(wen4)</a></li><li><a href="/hans/渂">渂(wen4)</a></li><li><a href="/hans/莬">莬(wen4)</a></li><li><a href="/hans/䎽">䎽(wen4)</a></li><li><a href="/hans/䭡">䭡(wen4)</a></li><li><a href="/hans/紋">紋(wen4)</a></li><li><a href="/hans/搵">搵(wen4)</a></li><li><a href="/hans/顐">顐(wen4)</a></li><li><a href="/hans/㡈">㡈(wen4)</a></li><li><a href="/hans/䘇">䘇(wen4)</a></li><li><a href="/hans/纹">纹(wen4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/阗">阗</a></li><li><a href="/hans/阈">阈</a></li><li><a href="/hans/闼">闼</a></li><li><a href="/hans/阀">阀</a></li><li><a href="/hans/阃">阃</a></li><li><a href="/hans/阙">阙</a></li><li><a href="/hans/闽">闽</a></li><li><a href="/hans/闹">闹</a></li><li><a href="/hans/间">间</a></li><li><a href="/hans/阕">阕</a></li><li><a href="/hans/闵">闵</a></li><li><a href="/hans/闩">闩</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/肋">肋</a></li><li><a href="/hans/池">池</a></li><li><a href="/hans/劥">劥</a></li><li><a href="/hans/夹">夹</a></li><li><a href="/hans/农">农</a></li><li><a href="/hans/汆">汆</a></li><li><a href="/hans/扠">扠</a></li><li><a href="/hans/𠕋">𠕋</a></li><li><a href="/hans/𠖳">𠖳</a></li><li><a href="/hans/纣">纣</a></li><li><a href="/hans/𠚼">𠚼</a></li><li><a href="/hans/汝">汝</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">松下<span>问</span>童子，言师采药去。</div><div class="gscdr">唐·贾岛 《寻隐者不遇》</div><div class="gscdl">路人借<span>问</span>遥招手，怕得鱼惊不应人。</div><div class="gscdr">唐·胡令能 《小儿垂钓》</div><div class="gscdl">借<span>问</span>酒家何处有？牧童遥指杏花村</div><div class="gscdr">唐·杜牧 《清明》</div><div class="gscdl">孔子东游，见两小儿辩斗，<span>问</span>其故。</div><div class="gscdr">先秦·列御寇 《两小儿辩日 / 两小儿辩斗》</div><div class="gscdl">洛阳亲友如相<span>问</span>，一片冰心在玉壶。</div><div class="gscdr">唐·王昌龄 《芙蓉楼送辛渐》</div><div class="gscdl">欲<span>问</span>行人去那边？眉眼盈盈处。</div><div class="gscdr">宋·王观 《卜算子·送鲍浩然之浙东》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">客<span>问</span>元方：“尊君在不？”</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">——《子罕》子夏曰：“博学而笃志，切<span>问</span>而近思，仁在其中矣。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">宋君令人<span>问</span>之于丁氏。</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">君<span>问</span>归期未有期，巴山夜雨涨秋池。</div><div class="gscdr">唐·李商隐 《夜雨寄北》</div><div class="gscdl"><span>问</span>女何所思，<span>问</span>女何所忆。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">可汗<span>问</span>所欲，木兰不用尚书郎，愿驰千里足，送儿还故乡。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=18415"></script>
+</body>
+</html>

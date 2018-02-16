@@ -1,0 +1,598 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>互的解释|互的意思|汉典“互”字的基本解释</title>
+<meta name="title" content="互的解释|互的意思|汉典“互”字的基本解释">
+<meta name="keywords" content="上：一，下：彑。 " /><meta property="og:title" content="“互”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“互”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“互”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/互" />
+<link rel="canonical" href="//www.zdic.net/hans/互" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/互" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/互" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/互" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/互">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/互">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E92.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E92.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">hù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“互”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hù.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄏㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“互”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=二" target="_blank">  二</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_ytz2"><a href='/hans/䇘' target=_blank>䇘</a> <a href='/hans/㸦' target=_blank>㸦</a> <a href='/hans/𠀕' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20015.svg'><span class='ytz_txt'>𠀕</span></a> <a href='/hans/枑' target=_blank>枑</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E92</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>1551</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gxgd|gxd</p></td>                            <td class="dsk_2_1"><p>mvnm</p></td>                            <td class="dsk_2_1"><p>bdzm</p></td>                            <td class="dsk_2_1"><p>10102</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">hù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“互”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hù.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄏㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“互”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄨˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=二" target="_blank">二</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 4E92<span class="z_ts2">笔顺</span> 1551                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E92_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=147" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">互</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>互</strong></p><p><span class="dicpy">h&ugrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ugrave;.mp3"></a></span> ㄏㄨˋ</span></p><hr class="dichr" /><ol>	<li>副詞。彼此：～相。～助。～利。～生。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> mutually, reciprocally</p><p><span class="z_ts2">德语</span> einander, gegenseitig, wechselseitig  (Adj)</p><p><span class="z_ts2">法语</span> mutuel,réciproque,mutuellement,réciproquement,l'un l'autre</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">互</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>互</strong> <span class="dicpy">h&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (象形。是一种绞绳用的工具。本义:绞绳用的工具)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[a implement that use to wind up cord]</span></p>
+<p><span class="diczx2">段玉裁</span>注:&ldquo;今绞绳者尚有此器。从竹，象形，谓其物象工字;中象人手推握也。&rdquo;</p>
+<p><span class="cino">(3)</span> 差错 <span class="encs">[error;mistake]</span></p>
+<p><span class="diczx1">各有乘互。&mdash;&mdash;</span><span class="diczx2">陆法言</span><span class="smcs">《切韵序》</span></p>
+<p><span class="cino">(4)</span> 古代挂肉的木架 <span class="encs">[meatrack]</span></p>
+<p><span class="diczx1">共其牛牲之互。&mdash;&mdash;<span class="smcs">《周礼&middot;牛人》</span>。</span><span class="diczx2">郑玄</span>注:&ldquo;互，若今屠家县肉格。&rdquo;</p>
+<p><span class="diczx1">置互摆牲。&mdash;&mdash;<span class="smcs">《文选&middot;张衡&middot;西京赋》</span></span></p>
+<p><span class="cino">(5)</span> 门，巷门 <span class="encs">[gate]</span>。</p>
+<p><span class="diczx3">如:闾互(闾里巷门)</span></p>
+<p><span class="cino">(6)</span> 甲壳动物的总称 <span class="encs">[crustancean]</span>。</p>
+<p><span class="diczx3">如:互物(指有甲壳动物的总称)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>互</strong> <span class="dicpy">h&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 交替;相互 <span class="encs">[mutually;each other]</span></p>
+<p><span class="diczx1">互，交互。&mdash;&mdash;<span class="smcs">《字汇》</span></span></p>
+<p><span class="diczx1">胡笳互动。&mdash;&mdash;</span><span class="diczx2">李陵</span><span class="smcs">《答苏武书》</span></p>
+<p><span class="diczx1">以参互考日成。&mdash;&mdash;<span class="smcs">《周礼&middot;司会》</span></span></p>
+<p><span class="diczx1">宗族盘互。&mdash;&mdash;<span class="smcs">《汉书&middot;刘向传》</span></span></p>
+<p><span class="diczx1">渔歌互答。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx1">互芬齿颊。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄&middot;种植部》</span></p>
+<p><span class="diczx1">体面互见。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="diczx1">更互用之。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈&middot;活板》</span></p>
+<p><span class="diczx3">又如:互易(法律名词。即当事人双方约定互相移转金钱以外财产权的契约。古代以物易物，便是互易);互保(互相保证);互训(两个同义词彼此互相解释);互结(人民对官署，须具两个人或两家以上的店铺互相保证的信约)</span></p>
+<p>◎ <strong>互</strong> <span class="dicpy">h&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p>交接 <span class="encs">[join;connect;hand over and take over]</span></p>
+<p><span class="diczx1">春夏相与交，秋冬相与互。&mdash;&mdash;<span class="smcs">《书&middot;尧典》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/互补">互补</a></span><span class="crefe"><a href="/hans/互不侵犯条约">互不侵犯条约</a></span><span class="crefe"><a href="/hans/互不相容">互不相容</a></span><span class="crefe"><a href="/hans/互插">互插</a></span><span class="crefe"><a href="/hans/互斥">互斥</a></span><span class="crefe"><a href="/hans/互斥">互斥</a></span><span class="crefe"><a href="/hans/互导">互导</a></span><span class="crefe"><a href="/hans/互感">互感</a></span><span class="crefe"><a href="/hans/互换">互换</a></span><span class="crefe"><a href="/hans/互惠">互惠</a></span><span class="crefe"><a href="/hans/互济">互济</a></span><span class="crefe"><a href="/hans/互见">互见</a></span><span class="crefe"><a href="/hans/互利">互利</a></span><span class="crefe"><a href="/hans/互让">互让</a></span><span class="crefe"><a href="/hans/互丧">互丧</a></span><span class="crefe"><a href="/hans/互生">互生</a></span><span class="crefe"><a href="/hans/互施恩惠">互施恩惠</a></span><span class="crefe"><a href="/hans/互通">互通</a></span><span class="crefe"><a href="/hans/互通有无">互通有无</a></span><span class="crefe"><a href="/hans/互为因果">互为因果</a></span><span class="crefe"><a href="/hans/互相">互相</a></span><span class="crefe"><a href="/hans/互相">互相</a></span><span class="crefe"><a href="/hans/互质">互质</a></span><span class="crefe"><a href="/hans/互助">互助</a></span><span class="crefe"><a href="/hans/互助会">互助会</a></span><span class="crefe"><a href="/hans/互助组">互助组</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">互</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>互</rb></rbc><rtc><rt>ㄏㄨˋ</rt></rtc><rtc><rt>h&ugrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/2832.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">彼此、相互。</span><span class="gc_lz">如：「<b>互</b>敬<b>互</b>愛」、「互助合作」、「互通有無」、「<b>互</b>不退讓」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">交錯的。</span><span class="gc_yy">《文選&middot;嵇康&middot;琴賦》：「<b>互</b>嶺巉巖，岝崿嶇崟。」</span><span class="gc_yy">唐&middot;杜甫〈宿花石戍〉詩：「四序本平分，氣候何迴<b>互</b>。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E92_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=二" target="_blank">二</a>】
+                              互·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：2</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">互</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=二" target="_blank">二</a>】
+                              互·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：2</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E92.svg">						  <p>【廣韻】胡誤切【韻會】【正韻】胡故切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音護。差也。</p><p>又交互。【周禮&middot;天官】司會以參互考日成。【又】鼈人掌取互物。【註】龜，鼈，蜃，蚌，甲㱿交合也。</p><p>又【周禮&middot;地官】牛人凡祭祀，供其牛牲之互。【註】互者，楅衡之屬，若今屠家縣肉格。</p><p>又【周禮&middot;秋官】野廬氏，凡道路之舟車轚互者，敘而行之。【疏】謂水陸之道，舟車往來，狹隘之所，更互如轚。</p><p>又【周禮&middot;秋官】修閭氏掌比國中宿互<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237C4.svg"><span class="k_txt">𣟄</span>者。【註】宿，宿衞也。互謂行馬，所以障互禁止人也。</p><p>又【前漢&middot;劉向傳】向上封事言，兄弟據重，宗族磐互。</p><p>又【左思&middot;吳都賦】長干延屬，飛甍舛互。【註】棟宇交互也。</p><p>又【後漢&middot;蔡邕傳】初朝議，以州郡相黨，乃制婚姻之家，及兩州人士，不得對相監臨，至是復有三互法。【註】三互，謂婚姻之家及兩州人不得交互爲官。　別作㸦。【北史&middot;文苑傳序】彼此好尚㸦有異同，互、㸦形相近，故變作㸦，从互爲正。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E92_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=竹">竹</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">䇘</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“互”字头，请参考“<a href="/hans/䇘">䇘</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=竹">竹</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/41D8.svg">                          <p>可以收繩也。从竹象形，中象人手所推握也。<img class="swtimg" src="//img.zdic.net/swxz/41D8_1.svg" />互，䇘或省。胡誤切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/41D8_8676.svg" /><span class="swbf">(䇘)</span><span class="ywyy">可㠯收繩者也。</span><span class="swdz">者字今補。收當作糾，聲之誤也。糾，絞也。今絞繩者尙有此器。</span><span class="ywyy">从竹象形。</span><span class="swdz">謂其物像工字。</span><span class="ywyy">中象人手所推握也。</span><span class="swdz">謂<img class="lazy" data-original="//img.zdic.net/xz/swdz/41D8_1.png" src="//img.zdic.net/xz/swdz/41D8_1.png">像人手推之持之。胡誤切。五部。</span></p><hr class="swhr" /><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/41D8_8677.svg" /><span class="swbf">(互)</span><span class="ywyy">䇘或省。</span><span class="swdz">或字當作古文二字，故枑以爲聲。唐玄度云：䇘古文互，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23729.svg"><span class="k_txt">𣜩</span>省。誤也。周禮：牛牲之互。注云：縣肉格也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E92_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">互</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  xu˥˧ <span class="z_ts4">唐代读音</span>  hò<span class="z_ts4">日语读音</span>  TAGAI<span class="z_ts4">韩语罗马</span>  HO<span class="z_ts4">现代韩语</span>  호<span class="z_ts3">越南语</span>  hỗ</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] fu1 [东莞腔] fu5 [客英字典] fu1 [海陆腔] fu5 fu1 [客语拼音字汇] fu4 [台湾四县腔] fu5 fu1 [沙头角腔] fu1 [宝安腔] fu1<span class="z_ts2">粤语</span>  wu6<span class="z_ts3">潮州话</span>  hu5 hu6 (hû hũ)</p>						<p><span class="z_ts3">近代音</span>  曉母    魚模韻    去聲    戶小空；<span class="z_ts3">中古音</span>  匣母    暮韻    去聲    護小韻    胡誤切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：匣母    模部   ；王力系统：匣母    魚部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/互">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/互">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/互">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/互">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/互">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/互">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/互">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/互">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/互">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/互">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/互">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/互">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">互</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/互"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F0FA.svg" class="lazy ypic"><span>「䇘」 說文‧竹部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/互" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E92.svg" class="lazy ypic"><span>「互」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/互"><img data-original="//img.zdic.net/zy/xiaozhuan/27_4E92.svg" class="lazy ypic"><span>「互」 說文或體</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/互">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/互">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E92.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E92.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E92.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E92.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4E92.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/䇘' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/41D8.svg'><span>䇘</span></a></div> <div class='zx'><a href='/hans/㸦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3E26.svg'><span>㸦</span></a></div> <div class='zx'><a href='/hans/𠀕' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20015.svg'><span>𠀕</span></a></div> <div class='zx'><a href='/hans/枑' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6791.svg'><span>枑</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="147" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5279">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/戶">戶(hu4)</a></li><li><a href="/hans/熩">熩(hu4)</a></li><li><a href="/hans/㺉">㺉(hu4)</a></li><li><a href="/hans/鹱">鹱(hu4)</a></li><li><a href="/hans/綔">綔(hu4)</a></li><li><a href="/hans/戸">戸(hu4)</a></li><li><a href="/hans/雽">雽(hu4)</a></li><li><a href="/hans/怘">怘(hu4)</a></li><li><a href="/hans/弖">弖(hu4)</a></li><li><a href="/hans/摢">摢(hu4)</a></li><li><a href="/hans/㦿">㦿(hu4)</a></li><li><a href="/hans/觷">觷(hu4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠄩">𠄩</a></li><li><a href="/hans/𠄢">𠄢</a></li><li><a href="/hans/𠄤">𠄤</a></li><li><a href="/hans/㐮">㐮</a></li><li><a href="/hans/𠄡">𠄡</a></li><li><a href="/hans/𠄴">𠄴</a></li><li><a href="/hans/亚">亚</a></li><li><a href="/hans/亞">亞</a></li><li><a href="/hans/㐩">㐩</a></li><li><a href="/hans/五">五</a></li><li><a href="/hans/𠄯">𠄯</a></li><li><a href="/hans/𠄹">𠄹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/闩">闩</a></li><li><a href="/hans/刅">刅</a></li><li><a href="/hans/㕚">㕚</a></li><li><a href="/hans/龵">龵</a></li><li><a href="/hans/太">太</a></li><li><a href="/hans/𠖭">𠖭</a></li><li><a href="/hans/𠓜">𠓜</a></li><li><a href="/hans/切">切</a></li><li><a href="/hans/乢">乢</a></li><li><a href="/hans/𠕀">𠕀</a></li><li><a href="/hans/𠅁">𠅁</a></li><li><a href="/hans/孔">孔</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">夹岸高山，皆生寒树，负势竞上，<span>互</span>相轩邈，争高直指，千百成峰。</div><div class="gscdr">南北朝·吴均 《与朱元思书》</div><div class="gscdl">其岸势犬牙差<span>互</span>，不可知其源。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div><div class="gscdl">而或长烟一空，皓月千里，浮光跃金，静影沉璧，渔歌<span>互</span>答，此乐何极！登斯楼也，则有心旷神怡，宠辱偕忘，把酒临风，其喜洋洋者矣。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=147"></script>
+</body>
+</html>

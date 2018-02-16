@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>杂的解释|杂的意思|汉典“杂”字的基本解释</title>
+<meta name="title" content="杂的解释|杂的意思|汉典“杂”字的基本解释">
+<meta property="og:title" content="“杂”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“杂”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“杂”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/杂" />
+<link rel="canonical" href="//www.zdic.net/hans/杂" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/杂" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/杂" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/杂" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/杂">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/杂">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6742.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6742.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zá<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杂”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄗㄚˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杂”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄗㄚˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">  木</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/雜' target=_blank>雜</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/朵' target=_blank>朵</a>  <a href='/hans/雜' target=_blank>雜</a>  <a href='/hans/雑' target=_blank>雑</a>  <a href='/hans/襍' target=_blank>襍</a>  <a href='/hans/𣛜' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/236DC.svg'><span class='ytz_txt'>𣛜</span></a>  <a href='/hans/𣜫' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2372B.svg'><span class='ytz_txt'>𣜫</span></a>  <a href='/hans/𣠛' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2381B.svg'><span class='ytz_txt'>𣠛</span></a>  <a href='/hans/𨿼' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28FFC.svg'><span class='ytz_txt'>𨿼</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6742</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>351234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>vsu</p></td>                            <td class="dsk_2_1"><p>knd</p></td>                            <td class="dsk_2_1"><p>qyf</p></td>                            <td class="dsk_2_1"><p>40904</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zá<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杂”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄗㄚˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“杂”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄗㄚˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">木</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">统一码</span> 6742<span class="z_ts2">笔顺</span> 351234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6742_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6467" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">杂</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>杂</strong></p><p><strong>（<span class="diczx3">雜</span>）</strong></p><p><span class="dicpy">zá  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span>  ㄗㄚˊ</span></p><ol><li>多种多样的，不单纯的：～乱。～沓。～感。～志。～货。～居。～务。～品。错综复～。私心～念。</li><li>混合：夹～。混～。～交。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> mixed, blended; mix, mingle</p><p><span class="z_ts2">德语</span> vermischt</p><p><span class="z_ts2">法语</span> divers,varié,mélangé</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">杂</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>杂</strong></p><p>雜、襍 <span class="dicpy">zá</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (形声。从衣，集声。本义:五彩相合)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[multicoloured]</span></p><p><span class="diczx1">画绘之事，杂五色。——<span class="smcs">《周礼·考工记》</span></span></p><p><span class="cino">(3)</span> 混合;搀杂 <span class="encs">[mix; mingle]</span></p><p><span class="diczx1">故先王以土与金木水火杂，以成百物。——<span class="smcs">《国语·郑语》</span></span></p><p><span class="diczx1">彼此错杂。——</span><span class="diczx2">清</span>· <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞·战事类》</span></p><p><span class="cino">(4)</span> 又如:杂烩菜(将各种剩菜合并在一起的菜淆);夹杂(搀杂);杂就(参杂而成);混杂(混合搀杂)</p><p><span class="cino">(5)</span> 聚会;聚集 <span class="encs">[get together; assemble]</span></p><p><span class="diczx1">杂，聚也。——<span class="smcs">《广雅》</span></span></p><p><span class="diczx1">四方来杂，远乡皆至。——<span class="smcs">《吕氏春秋》</span></span></p><p><span class="cino">(6)</span> 又如:杂物(聚集事物)</p><p><strong>词性变化</strong></p><p>◎ <strong>杂</strong></p><p>雜 <span class="dicpy">zá</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 驳杂不纯 <span class="encs">[heterogeneous;mixed]</span></p><p><span class="diczx1">夹岸数百步，中无杂树。——</span><span class="diczx2">晋</span>· <span class="diczx2">陶潜</span><span class="smcs">《桃花源记》</span></p><p><span class="cino">(2)</span> 又如:杂面(杂合面粉作的面条)</p><p><span class="diczx1">杂彩三百匹。——<span class="smcs">《玉台新咏·古诗为焦仲卿妻作》</span></span></p><p><span class="diczx1">杂花生树。——</span><span class="diczx2">南朝</span><span class="diczx2">梁</span>· <span class="diczx2">丘迟</span><span class="smcs">《与陈伯之书》</span></p><p><span class="diczx1">昧没而杂。——</span><span class="diczx2">唐</span>· <span class="diczx2">柳宗元</span><span class="smcs">《柳河东集》</span></p><p><span class="diczx1">杂然而前陈。——</span><span class="diczx2">宋</span>· <span class="diczx2">欧阳修</span><span class="smcs">《醉翁亭记》</span></p><p><span class="diczx1">少杂树。——</span><span class="diczx2">清</span>· <span class="diczx2">姚鼐</span><span class="smcs">《登泰山记》</span></p><p><span class="cino">(3)</span> 又如:杂裳(前黑后黄的下衣)</p><p><span class="cino">(4)</span> 紊乱 <span class="encs">[disorderly;chaotic]</span>。如:杂错(交错混杂);嘈杂(声音杂乱;喧闹);庞杂(多而杂乱)</p><p><span class="cino">(5)</span> 繁琐;细碎 <span class="encs">[(of writings and speech) many and miscellaneous with trifles]</span>。如:杂冗(零杂事务;公务繁忙的谦辞);杂言(不主一家而杂采众家的言论);杂说(博采众家的学说) </p><p><span class="cino">(6)</span> 众多 <span class="encs">[of population multitudinous;numerous]</span></p><p><span class="diczx1">杂然相许。——<span class="smcs">《列子·汤问》</span></span></p><p><span class="cino">(7)</span> 又如:杂沓(众多而纷杂的样子);杂袭(众多的样子);杂玩(各种玩物)</p><p><span class="cino">(8)</span> 各种 <span class="encs">[various]</span>。如:杂趁(多种非正式职业;做零活);杂服(各种服制);杂帛(各种细绢的通称)</p><p><span class="cino">(9)</span> 正项以外 <span class="encs">[extra;other than]</span>。如:杂学旁收(指不去攻读八股文，而喜好诗词、曲赋、小说等其他门类的学问)</p><p><span class="cino">(10)</span> 交错，交会 <span class="encs">[crisscross]</span></p><p><span class="diczx1">嘈嘈切切错杂弹。——</span><span class="diczx2">唐</span>· <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span>诗</p><p><span class="diczx1">杂植兰桂竹木。——</span><span class="diczx2">明</span>· <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p><p>◎ <strong>杂</strong></p><p>雜 <span class="dicpy">zá</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span> </p><p>〈副〉</p><p>都;共同 <span class="encs">[together; jointly; common]</span></p><p><span class="diczx1">杂曰:<span class="yhcs">“投诸渤海之尾，隐土之北。”</span>——<span class="smcs">《列子·汤问》</span></span></p><p>◎ <strong>杂</strong></p><p>雜 <span class="dicpy">zá</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zá.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> 旧时等外的小官为杂职，如清代九品未入流之类或统称为佐杂 <span class="encs">[minor official]</span></p><p><span class="diczx1">听我将、弁、参、杂管领。——</span><span class="diczx2">清</span>· <span class="diczx2">严如熤</span><span class="smcs">《苗防备览要略》</span></p><p><span class="cino">(2)</span> 传统戏曲角色名。元杂剧、明清传奇以至京剧里的<span class="yhcs">“杂”</span>，一般扮演杂差、百姓等人物 <span class="encs">[a part of traditional opera]</span></p><p><span class="diczx1">杂绯衣扮</span><span class="diczx2">秦国</span>引院子 <span class="diczx2">梅香</span>各乘车行上。——<span class="smcs">《长生殿》</span></p><p><span class="cino">(3)</span> <span class="encs">[量]</span>通<span class="yhcs">“匝”</span>( <span class="dicpy">zā</span>)。圈 <span class="encs">[circle]</span></p><p><span class="diczx1">守宫三杂，外环，隅为之楼。——<span class="smcs">《墨子》</span></span></p><p><span class="diczx1">并行而杂，是礼之中流也。——<span class="smcs">《荀子·礼论》</span></span></p><p><span class="diczx1">以数杂之寿。——<span class="smcs">《淮南子·诠言》</span></span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/杂拌儿">杂拌儿</a></span><span class="crefe"><a href="/hans/杂草">杂草</a></span><span class="crefe"><a href="/hans/杂凑">杂凑</a></span><span class="crefe"><a href="/hans/杂感">杂感</a></span><span class="crefe"><a href="/hans/杂工">杂工</a></span><span class="crefe"><a href="/hans/杂环">杂环</a></span><span class="crefe"><a href="/hans/杂烩">杂烩</a></span><span class="crefe"><a href="/hans/杂婚">杂婚</a></span><span class="crefe"><a href="/hans/杂货">杂货</a></span><span class="crefe"><a href="/hans/杂货店">杂货店</a></span><span class="crefe"><a href="/hans/杂记">杂记</a></span><span class="crefe"><a href="/hans/杂技">杂技</a></span><span class="crefe"><a href="/hans/杂家">杂家</a></span><span class="crefe"><a href="/hans/杂件，杂件儿">杂件，杂件儿</a></span><span class="crefe"><a href="/hans/杂交">杂交</a></span><span class="crefe"><a href="/hans/杂居">杂居</a></span><span class="crefe"><a href="/hans/杂剧">杂剧</a></span><span class="crefe"><a href="/hans/杂粮">杂粮</a></span><span class="crefe"><a href="/hans/杂流">杂流</a></span><span class="crefe"><a href="/hans/杂录">杂录</a></span><span class="crefe"><a href="/hans/杂乱">杂乱</a></span><span class="crefe"><a href="/hans/杂乱无章">杂乱无章</a></span><span class="crefe"><a href="/hans/杂牌，杂牌儿">杂牌，杂牌儿</a></span><span class="crefe"><a href="/hans/杂七杂八">杂七杂八</a></span><span class="crefe"><a href="/hans/杂糅">杂糅</a></span><span class="crefe"><a href="/hans/杂色">杂色</a></span><span class="crefe"><a href="/hans/杂食">杂食</a></span><span class="crefe"><a href="/hans/杂耍">杂耍</a></span><span class="crefe"><a href="/hans/杂税">杂税</a></span><span class="crefe"><a href="/hans/杂说">杂说</a></span><span class="crefe"><a href="/hans/杂碎">杂碎</a></span><span class="crefe"><a href="/hans/杂遝">杂遝</a></span><span class="crefe"><a href="/hans/杂谈">杂谈</a></span><span class="crefe"><a href="/hans/杂务">杂务</a></span><span class="crefe"><a href="/hans/杂物">杂物</a></span><span class="crefe"><a href="/hans/杂项">杂项</a></span><span class="crefe"><a href="/hans/杂役">杂役</a></span><span class="crefe"><a href="/hans/杂音">杂音</a></span><span class="crefe"><a href="/hans/杂志">杂志</a></span><span class="crefe"><a href="/hans/杂质">杂质</a></span><span class="crefe"><a href="/hans/杂种">杂种</a></span><span class="crefe"><a href="/hans/杂字">杂字</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6742_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=戌集中" target="_blank">戌集中</a>】【<a href="/zd/kx/?zm=戌集中&amp;bs=隹" target="_blank">隹</a>】
+                              雜·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：10</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">雜</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“杂”字头，请参考“雜”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=戌集中" target="_blank">戌集中</a>】【<a href="/zd/kx/?zm=戌集中&amp;bs=隹" target="_blank">隹</a>】
+                              雜·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：10</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/96DC.svg">						  <p>【廣韻】徂合切【集韻】【韻會】昨合切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音䕹。【說文】五彩相合也。【玉篇】糅也。【易·坤卦】夫<img class='lazy k_img' data-original='//img.zdic.net/song/cn/248E5.svg'><span class='k_txt'>𤣥</span>黃者，天地之雜也。【周禮·冬官考工記】畫繢之事雜五色。</p><p>又【禮·玉藻·雜帶註】雜，猶飾也，卽上之韠也。</p><p>又【玉篇】同也。【廣韻】集也。【易·繫辭】雜物撰德。【疏】言雜聚天下之物。</p><p>又【揚子·方言】碎也。【易·繫辭】其稱名也，雜而不越。【疏】辭理雜碎，各有倫序，而不相乖越。</p><p>又【玉篇】厠也。</p><p>又最也。</p><p>又【廣韻】帀也。</p><p>又穿也。</p><p>又鳥名。【爾雅·釋鳥】爰居，雜縣。【疏】爰居，海鳥也，一名雜縣。</p><p>又【集韻】七盍切【韻會】【正韻】七合切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音囃。【公羊傳·成十五年】諸大夫皆雜然曰：仲氏也，其然乎。【釋文】雜，七合反，又如字。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6742_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=衣">衣</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">雜</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“杂”字头，请参考“雜”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=衣">衣</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/96DC.svg">                          <p>五彩相會。从衣集聲。徂合切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <span class="jieshi">五采相合也。</span>與？字義略同。所謂五采彰施於五色作服也。引伸爲凡參錯之偁。亦借爲聚集字。詩言襍佩。謂集玉與石爲佩也。漢書凡言襍治之。猶今云會審也。<span class="jieshi">从衣。集聲。</span>此篆葢本从衣雧。故篆者以木移左衣下作？。久之改雥爲佳。而仍作雜也。組合切。七部。                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6742_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">杂</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tsɑ˧˥ </p>						<p><span class="z_ts2">粤语</span>  zaap6</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/杂">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/杂">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/杂">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/杂">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/杂">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/杂">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/杂">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/杂">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/杂">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/杂">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/杂">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/杂">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/杂">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">杂</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「雜」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/杂"><img data-original="//img.zdic.net/zy/xiaozhuan/27_96DC.svg" class="lazy ypic"><span>「雜」 說文‧衣部</span></a></td><td><a href="/zd/zx/qx/杂"><img data-original="//img.zdic.net/zy/qinwenzi/71_E946.svg" class="lazy ypic"><span>「雜」 睡.秦23</span></a></td><td><a href="/hans/雜" target="_blank"><img data-original="//img.zdic.net/kai/tw/96DC.svg" class="lazy ypic"><span>「雜」</span></a> </td><td><a href="/hans/杂" target="_blank"><img data-original="//img.zdic.net/kai/tw/6742.svg" class="lazy ypic"><span>「杂」</span></a></td><td style="display:none"><a href="/hans/杂" target="_blank"><img data-original="//img.zdic.net/kai/tw/6742.svg" class="lazy ypic"><span>「杂」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td><a href="/zd/zx/qx/杂"><img data-original="//img.zdic.net/zy/qinwenzi/71_E949.svg" class="lazy ypic"><span>「雜」 睡.秦198</span></a></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/杂">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/杂">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/杂">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6742.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6742.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6742.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/朵' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/6735.svg'><span>朵</span></a></div> <div class='zx'><a href='/hans/雜' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/96DC.svg'><span>雜</span></a></div> <div class='zx'><a href='/hans/雑' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/96D1.svg'><span>雑</span></a></div> <div class='zx'><a href='/hans/襍' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/894D.svg'><span>襍</span></a></div> <div class='zx'><a href='/hans/𣛜' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/236DC.svg'><span>𣛜</span></a></div>  <div class='zx'><a href='/hans/𣜫' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2372B.svg'><span>𣜫</span></a></div>  <div class='zx'><a href='/hans/𣠛' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2381B.svg'><span>𣠛</span></a></div>  <div class='zx'><a href='/hans/𨿼' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/28FFC.svg'><span>𨿼</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6467" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7675">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䕹">䕹(za2)</a></li><li><a href="/hans/㳨">㳨(za2)</a></li><li><a href="/hans/襍">襍(za2)</a></li><li><a href="/hans/咱">咱(za2)</a></li><li><a href="/hans/䨿">䨿(za2)</a></li><li><a href="/hans/囐">囐(za2)</a></li><li><a href="/hans/沯">沯(za2)</a></li><li><a href="/hans/囃">囃(za2)</a></li><li><a href="/hans/䪞">䪞(za2)</a></li><li><a href="/hans/偺">偺(za2)</a></li><li><a href="/hans/囋">囋(za2)</a></li><li><a href="/hans/韴">韴(za2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/棆">棆</a></li><li><a href="/hans/榎">榎</a></li><li><a href="/hans/欈">欈</a></li><li><a href="/hans/栔">栔</a></li><li><a href="/hans/㯁">㯁</a></li><li><a href="/hans/柘">柘</a></li><li><a href="/hans/欍">欍</a></li><li><a href="/hans/查">查</a></li><li><a href="/hans/㭃">㭃</a></li><li><a href="/hans/棽">棽</a></li><li><a href="/hans/栣">栣</a></li><li><a href="/hans/枹">枹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/汣">汣</a></li><li><a href="/hans/圪">圪</a></li><li><a href="/hans/邤">邤</a></li><li><a href="/hans/后">后</a></li><li><a href="/hans/扪">扪</a></li><li><a href="/hans/兲">兲</a></li><li><a href="/hans/㚫">㚫</a></li><li><a href="/hans/𠑹">𠑹</a></li><li><a href="/hans/仸">仸</a></li><li><a href="/hans/羊">羊</a></li><li><a href="/hans/忚">忚</a></li><li><a href="/hans/犳">犳</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">既壮周旋<span>杂</span>痴黠，童心来复梦中身。</div><div class="gscdr">清·龚自珍 《已亥杂诗》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">惩山北之塞，出入之迂也，聚室而谋曰：“吾与汝毕力平险，指通豫南，达于汉阴，可乎？”<span>杂</span>然相许。</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl"><span>杂</span>曰：“投诸渤海之尾，隐土之北。”</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl">忽逢桃花林，夹岸数百步，中无<span>杂</span>树，芳草鲜美，落英缤纷，渔人甚异之，复前行，欲穷其林。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">酿泉为酒，泉香而酒洌；山肴野蔌，<span>杂</span>然而前陈者，太守宴也。</div><div class="gscdr">宋·欧阳修 《醉翁亭记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6467"></script>
+</body>
+</html>

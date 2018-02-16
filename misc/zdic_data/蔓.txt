@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>蔓的解释|蔓的意思|汉典“蔓”字的基本解释</title>
+<meta name="title" content="蔓的解释|蔓的意思|汉典“蔓”字的基本解释">
+<meta property="og:title" content="“蔓”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“蔓”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“蔓”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/蔓" />
+<link rel="canonical" href="//www.zdic.net/hans/蔓" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/蔓" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/蔓" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/蔓" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/蔓">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/蔓">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8513.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8513.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">màn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/màn.mp3"></a></span></span></p><p><span class="z_d song">wàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wàn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄇㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄢˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄢˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">  艹</a></p>
+                              <p><span class="z_ts2">部外</span>  11</p>
+                              <p><span class="z_ts3">总笔画</span>  14</p></td>                                                        <td class="z_ytz2"><a href='/hans/𦽦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26F66.svg'><span class='ytz_txt'>𦽦</span></a>  <a href='/hans/曼' target=_blank>曼</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8513</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>12225112522154</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ajlc</p></td>                            <td class="dsk_2_1"><p>tawe</p></td>                            <td class="dsk_2_1"><p>eklx</p></td>                            <td class="dsk_2_1"><p>44407</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">màn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/màn.mp3"></a></span></span> <span class="z_d song">wàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wàn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄇㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄢˋ.mp3"></a></span></span> <span class="z_d song">ㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蔓”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄢˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">艹</a> <span class="z_ts2">部外</span> 11<span class="z_ts3">总笔画</span> 14</p>                    <p><span class="z_ts3">统一码</span> 8513<span class="z_ts2">笔顺</span> 12225112522154                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8513_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=14100" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>蔓</strong></p><p><span class="dicpy">màn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/màn.mp3"></a></span> ㄇㄢˋ</span></p><ol><p>　◎ 同“蔓～”，多用于合成词，如蔓草、蔓延等。[蔓延]形容像蔓草一样扩展滋生。</p></ol><p><strong>其它字义</strong></p><hr class="dichr" /><p>● <strong>蔓</strong></p><p><span class="dicpy">wàn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wàn.mp3"></a></span> ㄨㄢˋ</span></p><ol><p>　◎ 细长能缠绕的茎：瓜～儿，扁豆爬～儿了。</p></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> creeping plants, tendrils, vines</p><p><span class="z_ts2">德语</span> auftragen, ausbreiten ,Kriecher  (S)​,Ranke  (S)</p><p><span class="z_ts2">法语</span> navet,tige rampante</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>蔓</strong> <span class="dicpy">mán</span></p><p>另见 <span class="dicpy">màn;wàn</span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蔓菁">蔓菁</a></span></div>　<p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>蔓</strong> <span class="dicpy">màn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/màn.mp3"></a></span> </p><p>〈名〉</p><p>(形声。从艸，曼声。本义:藤蔓，草本蔓生植物的枝茎) 同本义 <span class="encs">[vine]</span></p><p><span class="diczx1">蔓，葛属。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">青树翠蔓。——</span><span class="diczx2">唐</span>· <span class="diczx2">柳宗元</span><span class="smcs">《至小丘西小石潭记》</span></p><p><span class="diczx1">丹藤翠蔓。——</span><span class="diczx2">宋</span>· <span class="diczx2">陆游</span><span class="smcs">《过小孤山大孤山》</span></p><p><span class="diczx1">蔓广则歧多，歧多则饶子。——<span class="smcs">《齐民要术·种瓜》</span></span></p><p><span class="diczx1">兔丝附蓬麻，引蔓故不长。——</span><span class="diczx2">杜甫</span><span class="smcs">《新婚别》</span></p><p><strong>词性变化</strong><hr class="dichr" /></p><p>◎ <strong>蔓</strong> <span class="dicpy">màn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/màn.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 蔓延;滋长 <span class="encs">[creep]</span></p><p><span class="diczx1">野有蔓草。——<span class="smcs">《诗·郑风·野有蔓草》</span>。传:<span class="yhcs">“延也。”</span></span></p><p><span class="diczx1">敛蔓于野。——<span class="smcs">《诗·唐风·葛生》</span></span></p><p><span class="diczx1">不蔓不枝。——</span><span class="diczx2">宋</span>· <span class="diczx2">周敦颐</span><span class="smcs">《爱莲说》</span></p><p><span class="diczx1">无使滋蔓，蔓，难图也。——<span class="smcs">《左传·隐公元年》</span></span></p><p><span class="cino">(2)</span> 又如:蔓生(蔓延生长);蔓衍(扩展延伸);蔓草(蔓延滋生的草);蔓连(延伸串联);蔓蔓(滋长延伸的样子)</p><p><span class="cino">(3)</span> 攀引，缠绕 <span class="encs">[twine]</span>。如:蔓引(如瓜蔓相互的牵连);蔓蔓(纠缠难察的样子)</p><p>◎ <strong>蔓</strong> <span class="dicpy">màn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/màn.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 杂乱 <span class="encs">[mixed and disorderly]</span>。如:蔓说(杂乱没有系统的言论);蔓悴(衰颓杂乱);蔓辞(杂乱繁琐的文字)</p><p><span class="cino">(2)</span> 另见 <span class="dicpy">mán;wàn</span></p><p><strong>常用词组</strong><hr class="dichr" /></p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蔓草">蔓草</a></span><span class="crefe"><a href="/hans/蔓生">蔓生</a></span><span class="crefe"><a href="/hans/蔓生植物">蔓生植物</a></span><span class="crefe"><a href="/hans/蔓延">蔓延</a></span></div>　<p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>蔓</strong> <span class="dicpy">wàn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wàn.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> <span class="encs">[口]</span>∶蔓生植物的细长不能直立的枝茎 <span class="encs">[a tendrilled vine]</span>。如:这棵黄瓜爬蔓了;瓜蔓;压蔓</p><p><span class="cino">(2)</span> 另见 <span class="dicpy">mán;màn</span></p>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>蔓</rb></rbc><rtc><rt>ㄇㄢˋ</rt></rtc><rtc><rt>màn <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0655.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">植物细长而能攀绕他物的茎。</span><span class="gc_lz">如：「藤<b>蔓</b>」。</span><span class="gc_yy">唐·孟郊〈乱离〉诗：「直松摧高柯，弱<b>蔓</b>将何依？」</span><span class="gc_yy">唐·柳宗元〈至小邱西小石潭记〉：「青树翠<b>蔓</b>，蒙络摇缀。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">延伸、滋长。</span><span class="gc_lz">如：「蔓延」。</span><span class="gc_yy">《左传·隐公元年》：「无使滋<b>蔓</b>，<b>蔓</b>，难图也。」</span></p></li></ol></div></div><div class="gycd"><div class="pz"><ruby><rbc><rb>蔓</rb></rbc><rtc><rt>ㄇㄢˊ</rt></rtc><rtc><rt>mán <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0641.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><ol><li><p class="def"><span class="gc_sy">参见「<a href='/hans/蔓菁' target=_blank>蔓菁</a> 」条。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8513_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蔓·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蔓·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：11</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8513.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>無販切，音萬。【說文】葛屬。【詩·鄭風】野有蔓草。【傳】蔓，延也。【前漢·禮樂志】蔓蔓曰茂。【註】蔓蔓言其長久。</p><p>又【廣韻】瓜蔓。</p><p>又姓。【左傳】蔓成然。【通志·氏族略】楚有鬬成然，食采于蔓，曰蔓成然，其後以邑爲氏。</p><p>又【集韻】謨官切，音謾。蔓靑，菜也。</p><p>又【類篇】莫半切。枝長也。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8513_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/8513.svg">                          <p>葛屬。从艸曼聲。無販切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/8513_5686.svg"  /><span class="swbf">(蔓)</span><span class="ywyy">葛屬也。</span><span class="swdz">此專謂葛屬、則知滋蔓字古衹作曼。正如蔓延字多作莚。</span><span class="ywyy">从艸。曼聲。</span><span class="swdz">無販切。十四部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8513_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  mĄn˥˧; wĄn˥˧ <span class="z_ts4">唐代读音</span>  *miæ̀n<span class="z_ts4">日语读音</span>  TSURU<span class="z_ts4">韩语罗马</span>  MAN<span class="z_ts4">现代韩语</span>  만<span class="z_ts3">越南语</span>  mơn</p>						<p><span class="z_ts3">客家话</span>  [台湾四县腔] man5 wan5 [东莞腔] man3 [海陆腔] man6 wan6 [客英字典] man5 van5 man2 [宝安腔] man3 [梅县腔] man5 [客语拼音字汇] man4<span class="z_ts2">粤语</span>  maan4 maan6<span class="z_ts3">潮州话</span>  无冤6 [饶平、揭阳、潮阳]毛冤6 ，bhuang6(buăng) [潮州]bhuêng6(buĕng) [饶平、揭阳、潮阳]muang6(nuăng) </p>						<p><span class="z_ts3">近代音</span>  微母    寒山韻    去聲    萬小空；<span class="z_ts3">中古音</span>  明母    桓韻    平聲    瞞小韻    母官切    一等    合口；微母    願韻    去聲    万小韻    無販切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：明母    寒部   ；明母    寒部   ；王力系统：明母    元部   ；明母    元部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/蔓">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/蔓">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/蔓">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/蔓">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/蔓">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/蔓">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/蔓">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/蔓">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/蔓">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/蔓">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/蔓">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/蔓">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">蔓</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/蔓"><img data-original="//img.zdic.net/zy/xiaozhuan/27_8513.svg" class="lazy ypic"><span>「蔓」 說文‧艸部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/蔓" target="_blank"><img data-original="//img.zdic.net/kai/tw/8513.svg" class="lazy ypic"><span>「蔓」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/蔓">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/蔓">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/蔓">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/蔓">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/蔓">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/蔓">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8513.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8513.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8513.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/8513.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/8513.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𦽦' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26F66.svg'><span>𦽦</span></a></div>  <div class='zx'><a href='/hans/曼' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/66FC.svg'><span>曼</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="14100" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6023">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/漫">漫(man4)</a></li><li><a href="/hans/鄤">鄤(man4)</a></li><li><a href="/hans/幔">幔(man4)</a></li><li><a href="/hans/澷">澷(man4)</a></li><li><a href="/hans/㬅">㬅(man4)</a></li><li><a href="/hans/熳">熳(man4)</a></li><li><a href="/hans/澫">澫(man4)</a></li><li><a href="/hans/縵">縵(man4)</a></li><li><a href="/hans/蔄">蔄(man4)</a></li><li><a href="/hans/槾">槾(man4)</a></li><li><a href="/hans/镘">镘(man4)</a></li><li><a href="/hans/㗈">㗈(man4)</a></li><li><a href="/hans/槾">槾(wan4)</a></li><li><a href="/hans/絻">絻(wan4)</a></li><li><a href="/hans/鿏">鿏(wan4)</a></li><li><a href="/hans/㸘">㸘(wan4)</a></li><li><a href="/hans/掔">掔(wan4)</a></li><li><a href="/hans/澫">澫(wan4)</a></li><li><a href="/hans/瞣">瞣(wan4)</a></li><li><a href="/hans/萬">萬(wan4)</a></li><li><a href="/hans/䥑">䥑(wan4)</a></li><li><a href="/hans/腕">腕(wan4)</a></li><li><a href="/hans/輐">輐(wan4)</a></li><li><a href="/hans/卍">卍(wan4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/蕿">蕿</a></li><li><a href="/hans/虅">虅</a></li><li><a href="/hans/若">若</a></li><li><a href="/hans/萄">萄</a></li><li><a href="/hans/䒻">䒻</a></li><li><a href="/hans/䒟">䒟</a></li><li><a href="/hans/䕒">䕒</a></li><li><a href="/hans/茮">茮</a></li><li><a href="/hans/藵">藵</a></li><li><a href="/hans/蓽">蓽</a></li><li><a href="/hans/萛">萛</a></li><li><a href="/hans/䔮">䔮</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/皸">皸</a></li><li><a href="/hans/鹖">鹖</a></li><li><a href="/hans/趖">趖</a></li><li><a href="/hans/鄭">鄭</a></li><li><a href="/hans/㮼">㮼</a></li><li><a href="/hans/䡙">䡙</a></li><li><a href="/hans/䍳">䍳</a></li><li><a href="/hans/養">養</a></li><li><a href="/hans/嫹">嫹</a></li><li><a href="/hans/銇">銇</a></li><li><a href="/hans/䪺">䪺</a></li><li><a href="/hans/㗤">㗤</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不<span>蔓</span>不枝，香远益清，亭亭净植，可远观而不可亵玩焉。</div><div class="gscdr">宋·周敦颐 《爱莲说》</div><div class="gscdl">青树翠<span>蔓</span>，蒙络摇缀，参差披拂。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=14100"></script>
+</body>
+</html>

@@ -1,0 +1,683 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>微的解释|微的意思|汉典“微”字的基本解释</title>
+<meta name="title" content="微的解释|微的意思|汉典“微”字的基本解释">
+<meta name="keywords" content="|⿰彳𢼸|⿰彳𣁋|" /><meta property="og:title" content="“微”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“微”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“微”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/微" />
+<link rel="canonical" href="//www.zdic.net/hans/微" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/微" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/微" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/微" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/微">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/微">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5FAE.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5FAE.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">wēi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“微”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄨㄟ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“微”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄟ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彳" target="_blank">  彳</a></p>
+                              <p><span class="z_ts2">部外</span>  10</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/𧗬' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/275EC.svg'><span class='ytz_txt'>𧗬</span> <a href='/hans/𢼸' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22F38.svg'><span class='ytz_txt'>𢼸</span> <a href='/hans/𢕧' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22567.svg'><span class='ytz_txt'>𢕧</span> <a href='/hans/𢕄' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22544.svg'><span class='ytz_txt'>𢕄</span> <a href='/hans/𠌝' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2031D.svg'><span class='ytz_txt'>𠌝</span> <a href='/hans/㣲' target=_blank>㣲</a> <a href='/hans/𣁋' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2304B.svg'><span class='ytz_txt'>𣁋</span> <a href='/hans/𦘇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26607.svg'><span class='ytz_txt'>𦘇</span> <a href='/hans/𩌪' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2932A.svg'><span class='ytz_txt'>𩌪</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5FAE</p></td>
+                            <td class="dsk_2_1">左中右结构</td>                            <td align="center" class="z_bis2"><p>3322521353134</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tmgt</p></td>                            <td class="dsk_2_1"><p>hounk</p></td>                            <td class="dsk_2_1"><p>oiqm</p></td>                            <td class="dsk_2_1"><p>28240</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">wēi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“微”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄨㄟ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“微”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨㄟ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彳" target="_blank">彳</a> <span class="z_ts2">部外</span> 10<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">基本区</span> 5FAE<span class="z_ts2">笔顺</span> 3322521353134                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5FAE_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4527" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>微</strong></p>
+<p><span class="dicpy">wēi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span>  ㄨㄟˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>小，细小：细～。轻～。～小。～型。～观。～雕。～积分。～电脑。～量元素。谨小慎～。～乎其～。</li>
+	<li>少；稍：稍～。～笑。～调（<span class="dicpy">ti&aacute;o </span>）。</li>
+	<li>衰落；低下：卑～。～贱。</li>
+	<li>精深；精妙：～妙。精～。～言大义。</li>
+	<li>隐约；不明：～茫。～词（隐晦的批评）。</li>
+	<li>隐匿：&ldquo;白公奔山而缢，其徒～亡&rdquo;。</li>
+	<li>暗中察访：～行。</li>
+	<li>无，非：&ldquo;～斯人，吾谁与归&rdquo;。</li>
+	<li>与某一物理量的单位连用时，表示该量的百万分之一：～米（公制长度单位，&ldquo;<span class="diczx3">米</span>&rdquo;的百万分之一）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> small, prefix micro-, trifling</p><p><span class="z_ts2">德语</span> Kleinst-</p><p><span class="z_ts2">法语</span> de peu de valeur,subtil,minuscule,minime,micro-,obscur,ne pas</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>微</strong> <span class="dicpy">wēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从彳( <span class="dicpy">ch&igrave;</span>);𢼸( <span class="dicpy">wēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span> )声。本义:隐秘地行走)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[walk clandestinely]</span></p>
+<p><span class="diczx1">微，隐行也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx2">崔杼</span>微逆光。&mdash;&mdash;<span class="smcs">《左传&middot;襄公十九年》</span></p>
+<p><span class="diczx3">又如:微行(便装出行，不想让人知其尊贵的身分)</span></p>
+<p><span class="cino">(3)</span> 藏匿，隐蔽 <span class="encs">[hide]</span></p>
+<p><span class="diczx1">其徒微之。&mdash;&mdash;<span class="smcs">《左传&middot;哀公十六年》</span></span></p>
+<p><span class="diczx1">微而臧。&mdash;&mdash;<span class="smcs">《礼记&middot;学记》</span></span></p>
+<p><span class="diczx3">又如:微没(隐没);微奸(隐藏的邪恶);微阵(隐蔽的兵力);微情(隐藏而不显露的感情);微意(隐藏之意);微道(隐蔽或偏僻的小路)</span></p>
+<p><span class="cino">(4)</span> 伺察，侦察 <span class="encs">[spy]</span>。</p>
+<p><span class="diczx3">如:微捕(伺察捕获)</span></p>
+<p><span class="cino">(5)</span> 衰微，衰落 <span class="encs">[decline]</span></p>
+<p><span class="diczx1">固以微矣。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx3">又如:微缺(衰败残缺);微灭(衰败灭绝)</span></p>
+<p><span class="cino">(6)</span> 无，没有 <span class="encs">[have not]</span>。</p>
+<p><span class="diczx3">如:微时(尚未出名的时候)</span></p>
+<p><span class="cino">(7)</span> 非，不是 <span class="encs">[no，not]</span></p>
+<p><span class="diczx1">虽微</span><span class="diczx2">晋</span>而已。&mdash;&mdash;<span class="smcs">《礼记&middot;檀弓下》</span></p>
+<p><span class="diczx1">微我无酒，以敖以游。&mdash;&mdash;<span class="smcs">《诗&middot;邶风&middot;柏舟》</span></span></p>
+<p><span class="diczx1">微夫人之力不及此。&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十年》</span></span></p>
+<p><span class="diczx2">神农</span><span class="diczx2">黄帝</span>，犹有可非，微独 <span class="diczx2">舜</span><span class="diczx2">汤</span>。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;离俗》</span></p>
+<p><span class="diczx3">又如:微与(不应该这样);微独(不单是，不仅仅)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>微</strong> <span class="dicpy">wēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 微小;轻微 <span class="encs">[minute;tiny]</span></p>
+<p><span class="diczx1">微，小也。&mdash;&mdash;<span class="smcs">《广雅&middot;释诂二》</span></span></p>
+<p><span class="diczx2">叶公子</span><span class="diczx2">高</span>微小短瘠。&mdash;&mdash;<span class="smcs">《荀子&middot;非相》</span>。注:&ldquo;微，细也&rdquo;。</p>
+<p><span class="diczx1">名微而众寡。&mdash;&mdash;<span class="smcs">《三国志&middot;诸葛亮传》</span></span></p>
+<p><span class="diczx1">微风鼓浪。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2"> 苏</span>轼<span class="smcs">《石钟山记》</span></p>
+<p><span class="diczx1">微波入焉。</span></p>
+<p><span class="diczx1">岭峤微草。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p>又如:微恙(小病);微行(小径;便装出行);微雨(细雨);微蔑(指极微小的东西);微仪(谦辞。微不足道的礼物);微忱(一点儿诚意;些须诚心);微词(隐约的讥喻);微力(微小的力量);微功(细小的功劳)</p>
+<p><span class="cino">(2)</span> 卑贱 <span class="encs">[humble]</span></p>
+<p><span class="diczx2">虞</span><span class="diczx2">舜</span>侧微。&mdash;&mdash;<span class="smcs">《书&middot;序》</span></p>
+<p><span class="diczx1">刍荛之微。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">刘开</span><span class="smcs">《问说》</span></p>
+<p>又如:微时(尚未出名的时候);微介(卑贱而耿直);微名(微贱之名);微门(卑微的门第)</p>
+<p><span class="cino">(3)</span> 不明;昏暗 <span class="encs">[dim]</span>。</p>
+<p><span class="diczx3">如:微光(微弱的光线);微明(微弱的光亮);微眇(眼瞎);微灯(暗淡的灯光)</span></p>
+<p><span class="cino">(4)</span> 日月亏缺的 <span class="encs">[wane]</span></p>
+<p><span class="diczx1">日居月诸，胡迭而微。&mdash;&mdash;<span class="smcs">《诗&middot;邶风&middot;柏舟》</span></span></p>
+<p><span class="cino">(5)</span> 精妙 <span class="encs">[elegant;exquisite]</span></p>
+<p><span class="diczx1">口多微辞。&mdash;&mdash;<span class="smcs">《登徒子&middot;好色赋》</span></span></p>
+<p><span class="diczx1">诸侯有能微妙以节。&mdash;&mdash;<span class="smcs">《荀子&middot;议兵》</span></span></p>
+<p><span class="diczx1">其辞微。&mdash;&mdash;<span class="smcs">《史记&middot;屈原贾生列传》</span></span></p>
+<p>◎ <strong>微</strong> <span class="dicpy">wēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span> </p>
+<p>〈副&gt;</p>
+<p><span class="cino">(1)</span> 秘密，偷偷 <span class="encs">[clandestinely]</span></p>
+<p><span class="diczx1">微视其睡。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《童区寄传》</span></p>
+<p><span class="diczx1">于此微缺。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx1">微闻有鼠。&mdash;&mdash;<span class="smcs">《虞初新志&middot;秋声诗自序》</span></span></p>
+<p>又如:微伺(暗中伺察);微攻(暗中侵害);微逆(暗中迎回);微知(暗中探悉);微随(暗中跟随);微察(暗中侦察 );微谋(密谋);微讽(暗中讽喻);微验(暗中侦察);微扣(暗中询问)</p>
+<p><span class="cino">(2)</span> 稍微，稍稍 <span class="encs">[slightly]</span></p>
+<p><span class="diczx1">但微颔之。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《归田录》</span></p>
+<p><span class="diczx1">土膏微润。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">微笑默叹。&mdash;&mdash;<span class="smcs">《虞初新志&middot;秋声诗自序》</span></span></p>
+<p><span class="diczx1">婉贞微叹。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p>又如:微闻(隐约听到);微露(微微显露)</p>
+<p><span class="cino">(3)</span> 要没有，要不是 <span class="encs">[but for;if it were not for]</span></p>
+<p><span class="diczx1">微斯人，吾谁与归。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p>◎ <strong>微</strong> <span class="dicpy">wēi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/wēi.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 古单位名 <span class="encs">[wei，measure unit]</span></p>
+<p><span class="cino">(2)</span> 古代极小的量度单位。一寸的百分之一，或一两的百万分之一</p>
+<p><span class="diczx1">忽，十微。微，十纤。&mdash;&mdash;<span class="smcs">《察微算经》</span></span></p>
+<p><span class="cino">(3)</span> 角度、弧度的单位，一秒的六十分之一</p>
+<p><span class="cino">(4)</span> 秘密之事 <span class="encs">[secret]</span></p>
+<p><span class="diczx1">夫田子将有大事，而我示之知微，我必危矣。&mdash;&mdash;<span class="smcs">《韩非子》</span></span></p>
+<p><span class="cino">(5)</span> 古诸侯国名 <span class="encs">[Wei state]</span></p>
+<p><span class="cino">(6)</span> 殷代畿内之封地</p>
+<p><span class="diczx2">帝乙</span>长子曰 <span class="diczx2">微子启</span>。&mdash;&mdash;<span class="smcs">《史记》</span></p>
+<p><span class="cino">(7)</span> 殷周时西南夷之国</p>
+<p><span class="diczx1">及</span><span class="diczx2">庸</span>、&hellip; <span class="diczx2">微</span>、&hellip;人。&mdash;&mdash;<span class="smcs">《书&middot;牧誓》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"> <span class="crefe"><a href="/hans/微安">微安</a></span><span class="crefe"><a href="/hans/微波">微波</a></span><span class="crefe"><a href="/hans/微波炉">微波炉</a></span><span class="crefe"><a href="/hans/微薄">微薄</a></span><span class="crefe"><a href="/hans/微不足道">微不足道</a></span><span class="crefe"><a href="/hans/微潮">微潮</a></span><span class="crefe"><a href="/hans/微辞">微辞</a></span><span class="crefe"><a href="/hans/微电脑">微电脑</a></span><span class="crefe"><a href="/hans/微雕">微雕</a></span><span class="crefe"><a href="/hans/微动">微动</a></span><span class="crefe"><a href="/hans/微独">微独</a></span><span class="crefe"><a href="/hans/微分">微分</a></span><span class="crefe"><a href="/hans/微服">微服</a></span><span class="crefe"><a href="/hans/微观">微观</a></span><span class="crefe"><a href="/hans/微积分">微积分</a></span><span class="crefe"><a href="/hans/微贱">微贱</a></span><span class="crefe"><a href="/hans/微晶">微晶</a></span><span class="crefe"><a href="/hans/微孔">微孔</a></span><span class="crefe"><a href="/hans/微粒">微粒</a></span><span class="crefe"><a href="/hans/微茫">微茫</a></span><span class="crefe"><a href="/hans/微妙">微妙</a></span><span class="crefe"><a href="/hans/微末">微末</a></span><span class="crefe"><a href="/hans/微漠">微漠</a></span><span class="crefe"><a href="/hans/微气象学">微气象学</a></span><span class="crefe"><a href="/hans/微弱">微弱</a></span><span class="crefe"><a href="/hans/微生物">微生物</a></span><span class="crefe"><a href="/hans/微微">微微</a></span><span class="crefe"><a href="/hans/微熹">微熹</a></span><span class="crefe"><a href="/hans/微细">微细</a></span><span class="crefe"><a href="/hans/微小">微小</a></span><span class="crefe"><a href="/hans/微笑">微笑</a></span><span class="crefe"><a href="/hans/微行">微行</a></span><span class="crefe"><a href="/hans/微型">微型</a></span><span class="crefe"><a href="/hans/微言">微言</a></span><span class="crefe"><a href="/hans/微言大义">微言大义</a></span><span class="crefe"><a href="/hans/微恙">微恙</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>微</rb></rbc><rtc><rt>ㄨㄟˊ</rt></rtc><rtc><rt>w&eacute;i <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6320.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">隱匿。</span><span class="gc_yy">《說文解字&middot;彳部》：「<b>微</b>，隱行也。」</span><span class="gc_yy">《左傳&middot;哀公十六年》：「白公奔山而縊，其徒<b>微</b>之。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">無、沒。</span><span class="gc_yy">《論語&middot;憲問》：「<b>微</b>管仲，吾其被髮左衽矣。」</span><span class="gc_yy">《史記&middot;卷八七&middot;李斯傳》：「<b>微</b>趙君，幾為丞相所賣。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">非、不是。</span><span class="gc_yy">《詩經&middot;邶風&middot;柏舟》：「<b>微</b>我無酒，以敖以遊。」</span><span class="gc_yy">《呂氏春秋&middot;離俗覽&middot;離俗》：「然而以理義斲削，神農黃帝猶有可非，微獨舜湯。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">精妙幽深。</span><span class="gc_yy">《書經&middot;大禹謨》：「人心惟危，道心惟<b>微</b>，惟精惟一，允執厥中。」</span><span class="gc_yy">《禮記&middot;學記》：「其言也，約而達，<b>微</b>而臧。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">細小。</span><span class="gc_lz">如：「細<b>微</b>」、「具體而<b>微</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">卑賤。</span><span class="gc_lz">如：「人微言輕」、「出身寒<b>微</b>」。</span><span class="gc_yy">《史記&middot;卷九&middot;呂太后本紀》：「呂太后者，高祖微時妃也。」</span><span class="gc_yy">《聊齋志異&middot;卷一○&middot;臙脂》：「而又念其出身<b>微</b>，且日登公堂，為千人所窺指。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">衰落。</span><span class="gc_lz">如：「衰<b>微</b>」。</span><span class="gc_yy">《詩經&middot;邶風&middot;式<b>微</b>》：「式<b>微</b>式<b>微</b>，胡不歸？」</span><span class="gc_yy">《史記&middot;卷三二&middot;齊太公世家》：「是時周室<b>微</b>，唯齊、楚、秦、晉為彊。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">少。</span><span class="gc_yy">《禮記&middot;祭義》：「雖有奇邪而不治者，則<b>微</b>矣。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">昏暗不明。</span><span class="gc_yy">《詩經&middot;小雅&middot;十月之交》：「彼月而<b>微</b>，此日而<b>微</b>。」</span><span class="gc_yy">《文選&middot;謝靈運&middot;石壁精舍還湖中作詩》：「出谷日尚早，入舟陽已<b>微</b>。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">暗中、祕密。</span><span class="gc_lz">如：「微行」。</span><span class="gc_yy">《漢書&middot;卷四五&middot;伍被傳》：「淮南王陰有邪謀，被數<b>微</b>諫。」</span><span class="gc_yy">唐&middot;柳宗元〈童區寄傳〉：「童<b>微</b>伺其睡，以縳背刃，力上下得絕。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">伺探。</span><span class="gc_yy">《史記&middot;卷一二&middot;孝武本紀》：「使人<b>微</b>得趙綰等姦利事，召案綰、臧，綰臧自殺。」</span><span class="gc_yy">《漢書&middot;卷九二&middot;游俠傳&middot;郭解傳》：「解使人<b>微</b>知賊處。賊窘自歸，具以實告解。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">稍、略。</span><span class="gc_lz">如：「稍<b>微</b>」、「略<b>微</b>」。</span><span class="gc_yy">《漢書&middot;卷九九&middot;王莽傳上》：「莽色厲而言方，欲有所為，<b>微</b>見風采，黨與承其指意而顯奏之。」</span><span class="gc_yy">《文選&middot;宋玉&middot;登徒子好色賦》：「含喜微笑，竊視流眄。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如春秋時魯國有微虎。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>微</rb></rbc><rtc><rt>ㄨㄟ</rt></rtc><rtc><rt>​wēi</rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">（一）​之又音。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5FAE_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=彳" target="_blank">彳</a>】
+                              微·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：10</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=彳" target="_blank">彳</a>】
+                              微·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：10</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5FAE.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>無非切，音薇。【爾雅&middot;釋詁】幽微也。【易&middot;繫辭】知微知彰。【書&middot;大禹謨】道心惟微。</p>
+<p>又【廣韻】微，妙也。【禮&middot;禮運】德產之致也精微。</p>
+<p>又【說文】隱行也。【史記&middot;秦始皇紀】微行咸陽。</p>
+<p>又【廣韻】細也。【孟子】乃孔子，則欲以微罪行。</p>
+<p>又【玉篇】不明也。【詩&middot;小雅】彼月而微，此日而微。</p>
+<p>又【韻會】衰也。【詩&middot;小雅】式微式微。【箋】微乎微者也。【史記&middot;杞世家】杞小微。</p>
+<p>又【韻會】賤也。【尚書序】虞舜側微。</p>
+<p>又【爾雅&middot;釋詁】匿微也。【註】微謂逃藏也。【左傳&middot;哀十六年】白公奔山而縊，其徒微之。【註】微，匿也。</p>
+<p>又【爾雅&middot;釋詁】蔽，微也。【晉語】公子重耳過曹，曹共公聞其駢脅，諜其將浴，設微薄而觀之。【註】微，蔽也。</p>
+<p>又殺也。【禮&middot;檀弓】禮有微情者。【疏】微，殺也，言賢者喪親，必致滅性，故制使三日而食，哭踊有數，以殺其內情。</p>
+<p>又伺察也。【前漢&middot;郭解傳】使人微知賊處。【註】微，伺問之也。</p>
+<p>又【爾雅&middot;釋訓】骭瘍爲微。【註】骭，脚脛。瘍，瘡也。【詩&middot;小雅】旣微且尰。</p>
+<p>又【韻會】非也。【詩&middot;邶風】微我無酒。</p>
+<p>又【韻會】無也。【禮&middot;檀弓】齊餓者，不食嗟來之食。曾子曰：微與。【註】微，猶無也。</p>
+<p>又國名。【書&middot;牧誓】微盧彭濮。【傳】微在巴蜀。</p>
+<p>又【爾雅&middot;釋山】未及上翠微。【疏】未及頂上，在旁陂陀之處，山氣靑縹色，故曰翠微也。</p>
+<p>又紫微，太微，少微，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>星名。【晉書&middot;天文志】紫微垣十五星在北斗。北一曰紫微，天帝之座也，天子之常居也。太微，天子庭也。五帝之座也，十二諸侯府也。少微，在太微西，士大夫之位也，明大而黃，則賢士舉也。</p>
+<p>又三微。【後漢&middot;章帝紀】春秋於春每月書王者，重三正，愼三微也。【註】三微者，三正之始，萬物皆微，物色不同，故王者取法焉。十一月，時陽氣始施於黃泉之下，色皆赤，赤者陽氣，故周爲天正，色尚赤。十二月，萬物始牙而色白，白者隂氣，故殷爲地正，色尚白。十三月，萬物莩甲而出，其色皆黑，人得加功展業，故夏爲人正，色尚黑。</p>
+<p>又姓。【左傳&middot;哀八年】微虎。【註】魯大夫。</p>
+<p>又微生，複姓。【論語】微生高。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5FAE_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=彳">彳</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=彳">彳</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5FAE.svg">                          <p>隱行也。从彳<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22F38.svg"><span class="k_txt">𢼸</span>聲。《春秋傳》曰：&ldquo;白公其徒微之。&rdquo;無非切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5FAE_1857.svg" /><span class="swbf">(微)</span><span class="ywyy">隱行也。</span><span class="swdz"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/22F38.svg"><span class="k_txt">𢼸</span>訓眇。微从彳，訓隱行。叚借通用微而<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22F38.svg"><span class="k_txt">𢼸</span>不行。邶風：微我無酒。又假微爲非。</span><span class="ywyy">从彳<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22F38.svg"><span class="k_txt">𢼸</span>聲。</span><span class="swdz">無非切。十五部。</span><span class="ywyy">春秋傳曰：白公其徒微之。</span><span class="swdz">左傳哀十六年文。杜曰：微，匿也。與釋詁匿，微也互訓，皆言隱，不言行，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22F38.svg"><span class="k_txt">𢼸</span>之叚借字也。此偁傳說叚借。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5FAE_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  wei˥ <span class="z_ts4">唐代读音</span>  *miəi<span class="z_ts4">日语读音</span>  KASUKA NAI<span class="z_ts4">韩语罗马</span>  MI<span class="z_ts4">现代韩语</span>  미<span class="z_ts3">越南语</span>  vi</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] mi2 [海陆腔] mi2 [客英字典] mi2 [东莞腔] mi2 [客语拼音字汇] mi2 [陆丰腔] mi3 [宝安腔] mi2 [沙头角腔] mi2 [台湾四县腔] mi2<span class="z_ts2">粤语</span>  mei4</p>						<p><span class="z_ts3">近代音</span>  微母    齊微韻    平聲陽    微小空；<span class="z_ts3">中古音</span>  微母    微韻    平聲    微小韻    無非切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：明母    灰部   ；明母    灰部   ；王力系统：明母    微部   ；明母    微部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/微">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/微">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/微">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/微">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/微">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/微">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/微">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/微">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/微">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/微">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/微">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/微">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">微</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/微"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5FAE.svg" class="lazy ypic"><span>「微」 說文‧彳部</span></a></td><td><a href="/zd/zx/qx/微"><img data-original="//img.zdic.net/zy/qinwenzi/71_E1A5.svg" class="lazy ypic"><span>「微」 睡.為5</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/微" target="_blank"><img data-original="//img.zdic.net/kai/tw/5FAE.svg" class="lazy ypic"><span>「微」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/微">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/微">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/微">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5FAE.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5FAE.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5FAE.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5FAE.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5FAE.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𧗬' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/275EC.svg'><span>𧗬</span></a></div> <div class='zx'><a href='/hans/𢼸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22F38.svg'><span>𢼸</span></a></div> <div class='zx'><a href='/hans/𢕧' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22567.svg'><span>𢕧</span></a></div> <div class='zx'><a href='/hans/𢕄' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22544.svg'><span>𢕄</span></a></div> <div class='zx'><a href='/hans/𠌝' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2031D.svg'><span>𠌝</span></a></div> <div class='zx'><a href='/hans/㣲' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/38F2.svg'><span>㣲</span></a></div> <div class='zx'><a href='/hans/𣁋' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2304B.svg'><span>𣁋</span></a></div> <div class='zx'><a href='/hans/𦘇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26607.svg'><span>𦘇</span></a></div> <div class='zx'><a href='/hans/𩌪' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2932A.svg'><span>𩌪</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4527" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7062">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/鰄">鰄(wei1)</a></li><li><a href="/hans/縅">縅(wei1)</a></li><li><a href="/hans/葨">葨(wei1)</a></li><li><a href="/hans/揻">揻(wei1)</a></li><li><a href="/hans/崴">崴(wei1)</a></li><li><a href="/hans/燰">燰(wei1)</a></li><li><a href="/hans/巍">巍(wei1)</a></li><li><a href="/hans/委">委(wei1)</a></li><li><a href="/hans/薇">薇(wei1)</a></li><li><a href="/hans/蜲">蜲(wei1)</a></li><li><a href="/hans/媙">媙(wei1)</a></li><li><a href="/hans/葳">葳(wei1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㣹">㣹</a></li><li><a href="/hans/㣚">㣚</a></li><li><a href="/hans/徑">徑</a></li><li><a href="/hans/㣪">㣪</a></li><li><a href="/hans/㣭">㣭</a></li><li><a href="/hans/彽">彽</a></li><li><a href="/hans/徟">徟</a></li><li><a href="/hans/㣝">㣝</a></li><li><a href="/hans/役">役</a></li><li><a href="/hans/鿈">鿈</a></li><li><a href="/hans/従">従</a></li><li><a href="/hans/彴">彴</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/瘀">瘀</a></li><li><a href="/hans/㴨">㴨</a></li><li><a href="/hans/麂">麂</a></li><li><a href="/hans/䓿">䓿</a></li><li><a href="/hans/甃">甃</a></li><li><a href="/hans/愆">愆</a></li><li><a href="/hans/䪩">䪩</a></li><li><a href="/hans/嵵">嵵</a></li><li><a href="/hans/幋">幋</a></li><li><a href="/hans/榘">榘</a></li><li><a href="/hans/搢">搢</a></li><li><a href="/hans/漷">漷</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>微</span><span>微</span>风簇浪，散作满河星。</div><div class="gscdr">清·查慎行 《舟夜书所见》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">见其发矢十中八九，但<span>微</span>颔之。康肃问曰：</div><div class="gscdr">宋·欧阳修 《卖油翁》</div><div class="gscdl">无风水面琉璃滑，不觉船移，<span>微</span>动涟漪，惊起沙禽掠岸飞。</div><div class="gscdr">宋·欧阳修 《采桑子》</div><div class="gscdl">东坡现右足，鲁直现左足，各<span>微</span>侧，其两膝相比者，各隐卷底衣褶中。</div><div class="gscdr">明·魏学洢 《核舟记》</div><div class="gscdl">式<span>微</span>，式<span>微</span>，胡不归？<span>微</span>君之故，胡为乎中露？式<span>微</span>，式<span>微</span>，胡不归？<span>微</span>君之躬，胡为乎泥中？</div><div class="gscdr">先秦·《诗经·邶风》 《式微》</div><div class="gscdl">噫！<span>微</span>斯人，吾谁与归？时六年九月十五日。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div><div class="gscdl">鬓<span>微</span>霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。</div><div class="gscdr">宋·苏轼 《江城子·密州出猎》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4527"></script>
+</body>
+</html>

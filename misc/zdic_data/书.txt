@@ -1,0 +1,611 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>书的解释|书的意思|汉典“书”字的基本解释</title>
+<meta name="title" content="书的解释|书的意思|汉典“书”字的基本解释">
+<meta name="keywords" content="|书|" /><meta property="og:title" content="“书”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“书”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“书”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/书" />
+<link rel="canonical" href="//www.zdic.net/hans/书" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/书" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/书" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/书" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/书">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/书">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E66.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E66.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shū<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“书”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shū.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕㄨ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“书”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=乙" target="_blank">  乙</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/書' target=_blank>書</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/書' target=_blank>書</a> <a href='/hans/𦘠' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26620.svg'><span class='ytz_txt'>𦘠</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E66</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>5524</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>nnhy</p></td>                            <td class="dsk_2_1"><p>ids</p></td>                            <td class="dsk_2_1"><p>xyis</p></td>                            <td class="dsk_2_1"><p>53027</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shū<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“书”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shū.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕㄨ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“书”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=乙" target="_blank">乙</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 4E66<span class="z_ts2">笔顺</span> 5524                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E66_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=103" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">书</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>书</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">書</span>）</strong></p>
+<p><span class="dicpy">shū  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shū.mp3"></a></span> ㄕㄨˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>成本的著作：～籍。～刊。～稿。～香。～卷气（指在说话、作文、写字、画画等方面表现出来的读书人的风格）。～生气（指读书人脱离实际的习气）。</li>
+	<li>信：～信。～札。～简。～函。</li>
+	<li>文件：证～。说明～。</li>
+	<li>写字或写的字：～法。～写。～桌。～案。～画。</li>
+	<li>写文章：大～特～。罄竹难～。</li>
+	<li>字体：草～。隶～。楷～。</li>
+	<li>古书名，《尚书》的简称（亦称&ldquo;书经&rdquo;）。</li>
+	<li>某些曲艺形式的通称：说～。听～。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> <p>book, letter, document; writings</p></p><p><span class="z_ts2">德语</span> Buch, Geschriebenes (S)</p><p><span class="z_ts2">法语</span> livre,bouquin,document,lettre,calligraphie,écrire,calligraphier</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">书</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>书</strong></p>
+<p>書 <span class="dicpy">shū</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shū.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (形声。从聿，者声。聿( <span class="dicpy">y&ugrave;</span>)，即笔。隶书省&ldquo;者&rdquo;成&ldquo;曰&rdquo;。<span class="smcs">《说文》</span>:&ldquo;书，箸也。&rdquo;箸(著)即显明。合起来表示用笔使文字显明，&ldquo;者、箸&rdquo;音近，故&ldquo;者&rdquo;有表意作用。本义:书写，记录，记载)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[write;take notes]</span></p>
+<p><span class="diczx1">書，著也。&mdash;&mdash;<span class="smcs">《说文》</span>。按说文序云:&ldquo;著于竹帛谓之书。&rdquo;</span></p>
+<p><span class="diczx1">五曰六书。&mdash;&mdash;<span class="smcs">《周礼&middot;保氏》</span></span></p>
+<p><span class="diczx1">作书。上古以刀录于竹若木，中古以漆画于帛，后世以墨写于纸。&mdash;&mdash;</span><span class="diczx2">朱骏声</span><span class="smcs">《说文通训定声》</span></p>
+<p><span class="diczx1">易之以书契。&mdash;&mdash;<span class="smcs">《易&middot;系辞》</span></span></p>
+<p><span class="diczx1">书者，以笔画记之辞。&mdash;&mdash;<span class="smcs">《尚书序》</span>疏</span></p>
+<p><span class="diczx2">子张</span>书诸绅。&mdash;&mdash;<span class="smcs">《论语&middot;卫灵公》</span></p>
+<p><span class="diczx1">乃丹书帛曰:&ldquo;</span><span class="diczx2">陈胜王</span>&rdquo;，置人所罾鱼腹中。&mdash;&mdash;<span class="smcs">《史记&middot;陈涉世家》</span></p>
+<p><span class="diczx1">大书一&ldquo;屈&rdquo;字，以两竿夹揭之，走诉行御史台。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p>
+<p><span class="diczx1">众言同，于是乎书。&mdash;&mdash;</span><span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:书候(写信问候);书孽(记载罪恶);书记手(担任抄写文书等的书吏);书画卯酉(上下班);书文(撰文并书写);书抄(指手抄本);书具(书写工具，文具);书券(书写契约);书砚(砚台);书狱(书写狱词);书命(书写诏书、命令);书格(一种文具，书写时用以支臂，使腕压着纸，以防墨污);书帖(书写简贴)</span></p>
+<p><span class="cino">(3)</span> 画 <span class="encs">[draw]</span></p>
+<p><span class="diczx1">今大将军问事，但令我书可邪?&mdash;&mdash;<span class="smcs">《资治通鉴》</span>。</span><span class="diczx2">胡三省</span>注:&ldquo;书可，画可也。&rdquo;</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>书</strong></p>
+<p>書 <span class="dicpy">shū</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shū.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 书籍，装订成册的著作 <span class="encs">[book]</span></p>
+<p><span class="diczx1">书，凡载籍谓之书。&mdash;&mdash;<span class="smcs">《正字通》</span></span></p>
+<p><span class="diczx2">申子</span>、 <span class="diczx2">韩子</span>皆著书。&mdash;&mdash;<span class="smcs">《史记&middot;韩非列传》</span></p>
+<p><span class="diczx1">何必读书，然后为学?&mdash;&mdash;<span class="smcs">《论语&middot;先进》</span></span></p>
+<p><span class="diczx1">书者，五经六籍总名也。&mdash;&mdash;<span class="smcs">《史记&middot;礼书》</span>李隐</span></p>
+<p><span class="diczx2">黄生</span><span class="diczx2">允修</span>借书。 <span class="diczx2">随园主人</span>授之书而告之曰。&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="diczx1">家贫，无从致书以观，每假借于藏书之家。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p>
+<p><span class="diczx3">又如:史书(历史书);图书(图和书。泛指书籍);书客(卖书籍、文具的商贩);书香之族(世代读书的家庭);书香一脉(知书达理的家风);书包翻身(指穷读书人发迹);书谜儿(将书中的话作成的谜语);书帕(礼金。明代官场习惯用书籍、手帕作礼物，称书帕);书剑(书和剑。古代文人随身携带之物。后亦指文人生涯);书笈(小书箱);书仪(托名买书而馈赠的礼金);书腐(蛀书虫。喻指迂腐的文人);书心儿(一部书中最精采的章节);书劫(书籍的劫难);书会(宋元时戏曲作者、说话人共同组织的社团);书呆(只知啃书本的人);书城(书籍环列如城，言其多);书脑(书籍装订时打眼穿线的部分);书阁(收藏书籍的地方);书录(图书目录);书囊(盛书籍的袋子)</span></p>
+<p><span class="cino">(2)</span> 信件，信函 <span class="encs">[letter]</span></p>
+<p><span class="diczx1">烽火连三月，家书抵万金。&mdash;&mdash;</span><span class="diczx2">杜甫</span><span class="smcs">《春望》</span></p>
+<p><span class="diczx1">一男附书至，二男新战死。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《石壕吏》</span></p>
+<p><span class="diczx1">诸人徒见</span><span class="diczx2">操</span>书言水步八十万而各恐慑，不复料其虚实，便开此议，甚无谓也。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx3">又如:书介(传达书信的使人);书尾(书信、信函的末尾);书呈(亦作&ldquo;书程&rdquo;。给上司或长辈写的信，信函);书字(书信);书办(管办文书的官吏);书启师爷(管文书的幕友);书役(管理文书的小吏);书尺(尺牍，书信);书素(书信);书筒(古代盛书信的筒。亦指书信);书题(指书信);书缄(书信)</span></p>
+<p><span class="cino">(3)</span> 奏章;文书，文件 <span class="encs">[document]</span></p>
+<p><span class="diczx1">上书谏寡人者，受中赏。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策》</span></span></p>
+<p><span class="diczx1">先生有所陈奏，则著之于所进呈书之中而已。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx1">军书十二卷，卷卷有爷名。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx3">又如:证书;保证书;说明书;书可(批阅公文，书字认可);书禀(文书);书文(文书);书府(收藏文书图籍的府库);书佐(主办文书的佐吏);书办(管办文书的属吏)</span></p>
+<p><span class="cino">(4)</span> 字体，字形 <span class="encs">[form of a written or printed character;script]</span>。</p>
+<p><span class="diczx3">如:书空(用手指在空中虚划字形)</span></p>
+<p><span class="cino">(5)</span> 书法 <span class="encs">[calligraphy]</span></p>
+<p><span class="diczx1">悦亲戚之情话，乐琴书以消忧。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《归去来兮辞》</span></p>
+<p><span class="diczx1">学书费纸，犹胜饮酒费钱。&mdash;&mdash;</span><span class="diczx2">欧阳修</span><span class="smcs">《学书费纸》</span></p>
+<p><span class="diczx3">又如:楷书;隶书;书判(判别书法与文章的优劣);书圣(指造诣最高的书法家);书意(书法的神髓);书品(评论书法优劣的书;书法的风格造诣);书格(书法的风格)</span></p>
+<p><span class="cino">(6)</span> <span class="smcs">《尚书》</span>的简称 <span class="encs">[an ancient government post in charge of secretarial duties]</span></p>
+<p><span class="diczx1"><span class="smcs">《书》</span>不云乎?&ldquo;好问则裕。&rdquo;&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">刘开</span><span class="smcs">《问说》</span></p>
+<p><span class="diczx1"><span class="smcs">《书》</span>曰:&ldquo;满招损，谦得益。&rdquo;&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《新五代史&middot;伶官传&middot;序》</span></p>
+<p><span class="diczx2">庞涓</span>果夜至斫木下，见白书。&mdash;&mdash;<span class="smcs">《史记&middot;孙子吴起列传》</span></p>
+<p><span class="diczx1">吾妻来归，时至轩中，从余问古事，或凭几学书。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="cino">(7)</span> 文字 <span class="encs">[characters]</span></p>
+<p><span class="diczx1">怀中一方板，板上数行书。&mdash;&mdash;</span><span class="diczx2">李贺</span><span class="smcs">《感讽》</span></p>
+<p><span class="cino">(8)</span> 又如：书理(即文理。文辞之义理与脉络);书士(从事文字、文书工作的人员);书轨(指国中所用文字与车轨);书计(文字与筹算)</p>
+<p><span class="cino">(9)</span> 指&ldquo;六书&rdquo;，即中国古代分析文字的理论 <span class="encs">[Six-Books]</span></p>
+<p><span class="diczx1">十年，出就外傅，居宿于外，学书计。&mdash;&mdash;<span class="smcs">《礼记》</span>。</span><span class="diczx2">孙希旦</span>集解:书、计，即六艺中六书、九数之学也。</p>
+<p><span class="cino">(10)</span> 古代皇帝的诏书 <span class="encs">[imperial edict]</span></p>
+<p><span class="diczx1">今以一郡一国之众，对无应书者，是王道往往而绝也。&mdash;&mdash;<span class="smcs">《汉书》</span></span></p>
+<p><span class="cino">(11)</span> 说书，曲艺的一种 <span class="encs">[storytelling]</span>。</p>
+<p><span class="diczx3">如:书寓;听书</span></p>
+<p><span class="cino">(12)</span> 文体名，先秦时&ldquo;书&rdquo;为书信的总名 <span class="encs">[letter]</span>，臣下向国君进言陈词，亲朋之间来往的信件，都称为&ldquo;书&rdquo;。如:<span class="smcs">《乐毅报燕惠王书》</span>、<span class="smcs">《谏逐客书》</span>、<span class="smcs">《报刘一丈书》</span>、<span class="smcs">《与朱元思书》</span>、<span class="smcs">《与妻书》</span></p>
+<p><span class="cino">(13)</span> 姓</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/书案">书案</a></span><span class="crefe"><a href="/hans/书包">书包</a></span><span class="crefe"><a href="/hans/书报">书报</a></span><span class="crefe"><a href="/hans/书本">书本</a></span><span class="crefe"><a href="/hans/书不尽言">书不尽言</a></span><span class="crefe"><a href="/hans/书册">书册</a></span><span class="crefe"><a href="/hans/书痴">书痴</a></span><span class="crefe"><a href="/hans/书厨，书橱">书厨，书橱</a></span><span class="crefe"><a href="/hans/书呆子">书呆子</a></span><span class="crefe"><a href="/hans/书丹">书丹</a></span><span class="crefe"><a href="/hans/书档">书档</a></span><span class="crefe"><a href="/hans/书典">书典</a></span><span class="crefe"><a href="/hans/书店">书店</a></span><span class="crefe"><a href="/hans/书牍">书牍</a></span><span class="crefe"><a href="/hans/书蠹">书蠹</a></span><span class="crefe"><a href="/hans/书法">书法</a></span><span class="crefe"><a href="/hans/书房">书房</a></span><span class="crefe"><a href="/hans/书扉">书扉</a></span><span class="crefe"><a href="/hans/书肺">书肺</a></span><span class="crefe"><a href="/hans/书稿">书稿</a></span><span class="crefe"><a href="/hans/书馆儿">书馆儿</a></span><span class="crefe"><a href="/hans/书函">书函</a></span><span class="crefe"><a href="/hans/书号">书号</a></span><span class="crefe"><a href="/hans/书画">书画</a></span><span class="crefe"><a href="/hans/书籍">书籍</a></span><span class="crefe"><a href="/hans/书记">书记</a></span><span class="crefe"><a href="/hans/书简">书简</a></span><span class="crefe"><a href="/hans/书具">书具</a></span><span class="crefe"><a href="/hans/书卷">书卷</a></span><span class="crefe"><a href="/hans/书刊">书刊</a></span><span class="crefe"><a href="/hans/书口">书口</a></span><span class="crefe"><a href="/hans/书库">书库</a></span><span class="crefe"><a href="/hans/书林">书林</a></span><span class="crefe"><a href="/hans/书眉">书眉</a></span><span class="crefe"><a href="/hans/书迷">书迷</a></span><span class="crefe"><a href="/hans/书面">书面</a></span><span class="crefe"><a href="/hans/书面语">书面语</a></span><span class="crefe"><a href="/hans/书名号">书名号</a></span><span class="crefe"><a href="/hans/书目">书目</a></span><span class="crefe"><a href="/hans/书脑">书脑</a></span><span class="crefe"><a href="/hans/书皮">书皮</a></span><span class="crefe"><a href="/hans/书评">书评</a></span><span class="crefe"><a href="/hans/书启">书启</a></span><span class="crefe"><a href="/hans/书契">书契</a></span><span class="crefe"><a href="/hans/书签">书签</a></span><span class="crefe"><a href="/hans/书社">书社</a></span><span class="crefe"><a href="/hans/书生">书生</a></span><span class="crefe"><a href="/hans/书生气">书生气</a></span><span class="crefe"><a href="/hans/书生之见">书生之见</a></span><span class="crefe"><a href="/hans/书塾">书塾</a></span><span class="crefe"><a href="/hans/书肆">书肆</a></span><span class="crefe"><a href="/hans/书坛">书坛</a></span><span class="crefe"><a href="/hans/书套">书套</a></span><span class="crefe"><a href="/hans/书亭">书亭</a></span><span class="crefe"><a href="/hans/书童">书童</a></span><span class="crefe"><a href="/hans/书屋">书屋</a></span><span class="crefe"><a href="/hans/书香">书香</a></span><span class="crefe"><a href="/hans/书香门第">书香门第</a></span><span class="crefe"><a href="/hans/书写">书写</a></span><span class="crefe"><a href="/hans/书写笔">书写笔</a></span><span class="crefe"><a href="/hans/书信">书信</a></span><span class="crefe"><a href="/hans/书信体">书信体</a></span><span class="crefe"><a href="/hans/书院">书院</a></span><span class="crefe"><a href="/hans/书札">书札</a></span><span class="crefe"><a href="/hans/书斋">书斋</a></span><span class="crefe"><a href="/hans/书证">书证</a></span><span class="crefe"><a href="/hans/书桌">书桌</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E66_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=曰" target="_blank">曰</a>】
+                              書·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">書</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“书”字头，请参考“<a href="/hans/書">書</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=曰" target="_blank">曰</a>】
+                              書·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：6</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/66F8.svg">						  <p>【廣韻】傷魚切【集韻】【韻會】【正韻】商居切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音舒。【說文】作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26620.svg"><span class="k_txt">𦘠</span>，著也。从聿从者。隷省作書。【易&middot;繫辭】上古結繩而治，後世聖人易之以書契。【註】書契，所以決斷萬事也。【周禮&middot;地官&middot;大司徒】六藝：禮、樂、射、御、書、數。【註】書，六書之品。</p>
+<p>又【地官&middot;保氏】乃敎之六藝，五曰六書。【註】六書：象形、會意、轉注、處事、假借、諧聲。【許愼&middot;說文序】黃帝之史倉頡初造書契，依類象形，故謂之文，其後形聲相益，卽謂之字。著於竹帛謂之書。書者，如也。</p>
+<p>又書有六體。【前漢&middot;藝文志】六體者，古文、奇字、篆書、隷書、繆篆、蟲書。</p>
+<p>又【說文】書有八體：一曰大篆，二曰小篆，三曰刻符，四曰蟲書，五曰摹印，六曰署書，七曰殳書，八曰隷書。</p>
+<p>又【尙書序疏】諸經史因物立名，物有本形，形從事著，聖賢闡敎，事顯於言，言愜羣心，書而示法，旣書有法，因號曰書。故百氏六經總曰書也。【史記&middot;禮書註】書者，五經六籍總名也。【釋名】書，庶也。紀庶物也。</p>
+<p>又【詩&middot;小雅】畏此<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>書。【傳】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>書，戒命也。【疏】古者無紙，有事書之於<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>，故曰<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25CD1.svg"><span class="k_txt">𥳑</span>書。</p>
+<p>又【周禮&middot;天官&middot;司書註】主計會之簿書。</p>
+<p>又【左傳&middot;昭六年】鄭人鑄<img class="lazy k_img" data-original="//img.zdic.net/song/cn/206EC.svg"><span class="k_txt">𠛬</span>書。【註】鑄<img class="lazy k_img" data-original="//img.zdic.net/song/cn/206EC.svg"><span class="k_txt">𠛬</span>書於鼎。</p>
+<p>又【左傳&middot;昭六年】叔向使詒子產書。○按卽書牘也。</p>
+<p>又【前漢&middot;董仲舒傳】對亡應書者。【註】書，謂詔書也。</p>
+<p>又官名。【前漢&middot;成帝紀】初置尙書，員五人。</p>
+<p>又【百官公卿表】中書謁者。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E66_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=聿">聿</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">書</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“书”字头，请参考“<a href="/hans/書">書</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=聿">聿</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/66F8.svg">                          <p>箸也。从聿者聲。商魚切文四</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/66F8_2610.svg" /><span class="swbf">(書)</span><span class="ywyy">箸也。</span><span class="swdz">此琴禁、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/21537.svg"><span class="k_txt">𡔷</span>郭之例，以曡韵釋之也。敘目曰：箸於竹帛謂之書。書者，如也。箸於竹帛，非筆末由矣。</span><span class="ywyy">从聿者聲。</span><span class="swdz">商魚切。五部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E66_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">书</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂu˥ </p>						<p><span class="z_ts2">粤语</span>  syu1</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/书">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/书">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/书">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/书">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/书">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/书">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/书">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/书">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/书">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/书">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/书">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/书">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/书">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">书</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「書」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/书"><img data-original="//img.zdic.net/zy/jinwen/31_F117.svg" class="lazy ypic"><span>「書」 倗生簋</span><span>西周中期</span><span>集成4264</span></a></td><td><a href="/zd/zx/cx/书"><img data-original="//img.zdic.net/zy/chuwenzi/51_F14F.svg" class="lazy ypic"><span>「書」 曾1正</span></a></td><td><a href="/zd/zx/xz/书"><img data-original="//img.zdic.net/zy/xiaozhuan/27_66F8.svg" class="lazy ypic"><span>「書」 說文‧聿部</span></a></td><td><a href="/zd/zx/qx/书"><img data-original="//img.zdic.net/zy/qinwenzi/71_E304.svg" class="lazy ypic"><span>「書」 睡.日乙14</span></a></td><td><a href="/hans/書" target="_blank"><img data-original="//img.zdic.net/kai/tw/66F8.svg" class="lazy ypic"><span>「書」</span></a> </td><td><a href="/hans/书" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E66.svg" class="lazy ypic"><span>「书」</span></a></td><td style="display:none"><a href="/hans/书" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E66.svg" class="lazy ypic"><span>「书」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/书"><img data-original="//img.zdic.net/zy/jinwen/31_F110.svg" class="lazy ypic"><span>「書」 頌簋</span><span>西周晚期</span><span>集成4333</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/书"><img data-original="//img.zdic.net/zy/jinwen/31_F11C.svg" class="lazy ypic"><span>「書」 欒書缶</span><span>春秋</span><span>集成10008</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/书">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/书">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/书">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/书">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/书">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E66.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E66.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E66.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/書' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/66F8.svg'><span>書</span></a></div> <div class='zx'><a href='/hans/𦘠' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26620.svg'><span>𦘠</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="103" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6757">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/瑹">瑹(shu1)</a></li><li><a href="/hans/叔">叔(shu1)</a></li><li><a href="/hans/㡏">㡏(shu1)</a></li><li><a href="/hans/抒">抒(shu1)</a></li><li><a href="/hans/梳">梳(shu1)</a></li><li><a href="/hans/输">输(shu1)</a></li><li><a href="/hans/書">書(shu1)</a></li><li><a href="/hans/枢">枢(shu1)</a></li><li><a href="/hans/摅">摅(shu1)</a></li><li><a href="/hans/忬">忬(shu1)</a></li><li><a href="/hans/軗">軗(shu1)</a></li><li><a href="/hans/陎">陎(shu1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠃣">𠃣</a></li><li><a href="/hans/乬">乬</a></li><li><a href="/hans/𠃿">𠃿</a></li><li><a href="/hans/㐍">㐍</a></li><li><a href="/hans/乶">乶</a></li><li><a href="/hans/乸">乸</a></li><li><a href="/hans/了">了</a></li><li><a href="/hans/𠃖">𠃖</a></li><li><a href="/hans/𠃥">𠃥</a></li><li><a href="/hans/𠄛">𠄛</a></li><li><a href="/hans/乩">乩</a></li><li><a href="/hans/乡">乡</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/什">什</a></li><li><a href="/hans/巨">巨</a></li><li><a href="/hans/卝">卝</a></li><li><a href="/hans/㣺">㣺</a></li><li><a href="/hans/以">以</a></li><li><a href="/hans/王">王</a></li><li><a href="/hans/月">月</a></li><li><a href="/hans/认">认</a></li><li><a href="/hans/无">无</a></li><li><a href="/hans/方">方</a></li><li><a href="/hans/𠀍">𠀍</a></li><li><a href="/hans/𠃖">𠃖</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">洛阳城里见秋风，欲作家<span>书</span>意万重。</div><div class="gscdr">唐·张籍 《秋思》</div><div class="gscdl">却看妻子愁何在，漫卷诗<span>书</span>喜欲狂。</div><div class="gscdr">唐·杜甫 《闻官军收河南河北》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">乡<span>书</span>何处达？归雁洛阳边。</div><div class="gscdr">唐·王湾 《次北固山下》</div><div class="gscdl">“卿言多务，孰若孤？孤常读<span>书</span>，自以为大有所益。”蒙乃始就学。</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">昨夜见军帖，可汗大点兵，军<span>书</span>十二卷，卷卷有爷名。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">可汗问所欲，木兰不用尚<span>书</span>郎，愿驰千里足，送儿还故乡。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">烽火连三月，家<span>书</span>抵万金。</div><div class="gscdr">唐·杜甫 《春望》</div><div class="gscdl">手把文<span>书</span>口称敕，回车叱牛牵向北。</div><div class="gscdr">唐·白居易 《卖炭翁》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=103"></script>
+</body>
+</html>

@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>边的解释|边的意思|汉典“边”字的基本解释</title>
+<meta name="title" content="边的解释|边的意思|汉典“边”字的基本解释">
+<meta name="keywords" content="左下：辶，右上：力。 " /><meta property="og:title" content="“边”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“边”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“边”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/边" />
+<link rel="canonical" href="//www.zdic.net/hans/边" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/边" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/边" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/边" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/边">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/边">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8FB9.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8FB9.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">biān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“边”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/biān.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄅㄧㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“边”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄧㄢ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=辶" target="_blank">  辶</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/邊' target=_blank>邊</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/邉' target=_blank>邉</a> <a href='/hans/邊' target=_blank>邊</a> <a href='/hans/𦍇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26347.svg'><span class='ytz_txt'>𦍇</span> <a href='/hans/𨕙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28559.svg'><span class='ytz_txt'>𨕙</span> <a href='/hans/𨖂' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28582.svg'><span class='ytz_txt'>𨖂</span> <a href='/hans/𨑶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28476.svg'><span class='ytz_txt'>𨑶</span> <a href='/hans/𨓉' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/284C9.svg'><span class='ytz_txt'>𨓉</span> <a href='/hans/𨓙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/284D9.svg'><span class='ytz_txt'>𨓙</span> <a href='/hans/𨘢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28622.svg'><span class='ytz_txt'>𨘢</span> <a href='/hans/𨘳' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28633.svg'><span class='ytz_txt'>𨘳</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8FB9</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>53454</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>lpv|epe</p></td>                            <td class="dsk_2_1"><p>yks</p></td>                            <td class="dsk_2_1"><p>wym</p></td>                            <td class="dsk_2_1"><p>34302</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">biān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“边”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/biān.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄅㄧㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“边”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄧㄢ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=辶" target="_blank">辶</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 8FB9<span class="z_ts2">笔顺</span> 53454                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8FB9_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=16826" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">边</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>边</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">邊</span>）</strong></p>
+<p><span class="dicpy">biān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/biān.mp3"></a></span> ㄅㄧㄢˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>物体的周围部分，外缘：～缘。～沿。</li>
+	<li>国家或地区交界处：～疆。～界。～防。～境。～陲（边境）。</li>
+	<li>几何学上指夹成角或围成多角形的直线：等～三角形。</li>
+	<li>旁侧，近旁：身～。～锋。</li>
+	<li>方面：～干（<span class="dicpy">g&agrave;n </span>）～学。</li>
+	<li>表示方位：上～。外～。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> edge, margin, side, border</p><p><span class="z_ts2">德语</span> Grenze, Grenzgebiet, Schranke  (S)​,Schranke, Grenze  (S)​,Seite  (S)​,Seitenrand, Rand, Kante  (S)​,an, nahe bei, neben, voneinander  (Präp)​,Bian  (Eig, Fam)</p><p><span class="z_ts2">法语</span> côté,bord,marge,frontière,en même temps,simultanément,(suffixe locatif)​</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">边</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>边</strong></p>
+<p>邊 <span class="dicpy">biān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/biān.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从辵( <span class="dicpy">chu&ograve;</span>)，臱( <span class="dicpy">mi&aacute;n</span>)声。本义:山崖的边缘)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[margin;edge;brim]</span></p>
+<p><span class="diczx1">边，行垂崖也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">边，垂也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx2">白帝城</span>边足风波， <span class="diczx2">瞿塘</span>五月谁敢过。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《荆州歌》</span></p>
+<p><span class="diczx3">又如:崖边;岸边;水池边;边侧(边沿，旁侧);边涯(边际;边缘)</span></p>
+<p><span class="cino">(3)</span> 边境 <span class="encs">[border;frontier]</span></p>
+<p><span class="diczx1">其在边邑。&mdash;&mdash;<span class="smcs">《礼记&middot;玉藻》</span>。注:&ldquo;九洲之外。&rdquo;</span></p>
+<p><span class="diczx1">顿颡于边。&mdash;&mdash;<span class="smcs">《国语&middot;吴语》</span>。注:&ldquo;边，边境也。&rdquo;</span></p>
+<p><span class="diczx1">臣闻五大不在边，五细不在庭。(五大:一种大人物。)&mdash;&mdash;<span class="smcs">《左传&middot;昭公十一年》</span></span></p>
+<p><span class="diczx1">思念北边之末安。&mdash;&mdash;<span class="smcs">《盐铁论&middot;利议》</span></span></p>
+<p><span class="diczx1">归来头白还戍边。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《兵车行》</span>诗</p>
+<p><span class="diczx3">又如:边人(边境的人);边民(边境的人民);边缺(边远地区官职的空缺);边任(驻守边远地区的重要职位);边庭(边疆);边夷(泛指边疆的少数民族);边功(在边境抗敌所建立的功劳)</span></p>
+<p><span class="cino">(4)</span> 旁边 <span class="encs">[side]</span></p>
+<p><span class="diczx1">边，方也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">续衽钩边。&mdash;&mdash;<span class="smcs">《礼记&middot;深衣》</span></span></p>
+<p><span class="diczx1">齐衰不以边坐。&mdash;&mdash;<span class="smcs">《礼记&middot;檀弓》</span></span></p>
+<p><span class="diczx1">鸟宿池边树。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">胡仔</span><span class="smcs">《苕溪渔隐丛话》</span></p>
+<p><span class="diczx3">又如:左边;右边;边厢(旁边);边邦(邻邦);边近(旁边，附近)</span></p>
+<p><span class="cino">(5)</span> 尽头 <span class="encs">[limit]</span></p>
+<p><span class="diczx1">无边落木萧萧下，不尽长江滚滚来。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《登高》</span></p>
+<p><span class="diczx3">又如:无边;无边无际;边梢(树枝的末梢)</span></p>
+<p><span class="cino">(6)</span> 边区的省称 <span class="encs">[border area]</span>。</p><p><span class="diczx3">如:边府(边区政府);边币</span></p>
+<p><span class="cino">(7)</span> 方位词的后缀</p>
+<p><span class="diczx1">故垒西边。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《念奴娇&middot;赤壁怀古》</span></p>
+<p><span class="diczx3">又如:东边;西边;后边;前边</span></p>
+<p><span class="cino">(8)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>边</strong></p>
+<p>邊 <span class="dicpy">biān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/biān.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p> 靠近 <span class="encs">[be close to]</span></p>
+<p><span class="diczx2">齐</span>边 <span class="diczx2">楚</span>。&mdash;&mdash;<span class="smcs">《史记&middot;高祖本纪》</span>。集解:&ldquo;近也。&rdquo;</p>
+<p><span class="diczx3">又如:边鄙(靠近边界的地方);边海(靠海，临海;海边);边带(邻接，毗连)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/边鄙">边鄙</a></span><span class="crefe"><a href="/hans/边币">边币</a></span><span class="crefe"><a href="/hans/边材">边材</a></span><span class="crefe"><a href="/hans/边城">边城</a></span><span class="crefe"><a href="/hans/边窗">边窗</a></span><span class="crefe"><a href="/hans/边陲">边陲</a></span><span class="crefe"><a href="/hans/边地">边地</a></span><span class="crefe"><a href="/hans/边防">边防</a></span><span class="crefe"><a href="/hans/边防军">边防军</a></span><span class="crefe"><a href="/hans/边防站">边防站</a></span><span class="crefe"><a href="/hans/边幅">边幅</a></span><span class="crefe"><a href="/hans/边关">边关</a></span><span class="crefe"><a href="/hans/边患">边患</a></span><span class="crefe"><a href="/hans/边际">边际</a></span><span class="crefe"><a href="/hans/边疆">边疆</a></span><span class="crefe"><a href="/hans/边角料">边角料</a></span><span class="crefe"><a href="/hans/边界">边界</a></span><span class="crefe"><a href="/hans/边境">边境</a></span><span class="crefe"><a href="/hans/边框">边框</a></span><span class="crefe"><a href="/hans/边门">边门</a></span><span class="crefe"><a href="/hans/边民">边民</a></span><span class="crefe"><a href="/hans/边卡">边卡</a></span><span class="crefe"><a href="/hans/边区">边区</a></span><span class="crefe"><a href="/hans/边塞">边塞</a></span><span class="crefe"><a href="/hans/边声">边声</a></span><span class="crefe"><a href="/hans/边庭">边庭</a></span><span class="crefe"><a href="/hans/边头">边头</a></span><span class="crefe"><a href="/hans/边线">边线</a></span><span class="crefe"><a href="/hans/边厢">边厢</a></span><span class="crefe"><a href="/hans/边衅">边衅</a></span><span class="crefe"><a href="/hans/边沿">边沿</a></span><span class="crefe"><a href="/hans/边裔">边裔</a></span><span class="crefe"><a href="/hans/边缘">边缘</a></span><span class="crefe"><a href="/hans/边远">边远</a></span><span class="crefe"><a href="/hans/边寨">边寨</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">边</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>边</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/邊' target=_blank>邊</a> 」的異體字。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8FB9_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=酉集下" target="_blank">酉集下</a>】【<a href="/zd/kx/?zm=酉集下&amp;bs=辵" target="_blank">辵</a>】
+                              邊·康熙筆画：<a href="/zd/kx/bh/?bh=22" target="_blank">22</a>　·部外筆画：15</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">邊</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“边”字头，请参考“<a href="/hans/邊">邊</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=酉集下" target="_blank">酉集下</a>】【<a href="/zd/kx/?zm=酉集下&amp;bs=辵" target="_blank">辵</a>】
+                              邊·康熙筆画：<a href="/zd/kx/bh/?bh=22" target="_blank">22</a>　·部外筆画：15</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/908A.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26347.svg"><span class="k_txt">𦍇</span>【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/24C1E.svg"><span class="k_txt">𤰞</span>眠切，音編。【玉篇】畔也，邊境也。【禮&middot;玉藻】其在邊邑。【註】邊邑，九州邊鄙之邑。【左傳&middot;成十三年】蕩搖我邊疆。</p>
+<p>又【正韻】旁近也。【前漢&middot;高帝紀】齊邊楚。</p>
+<p>又側也。【禮&middot;檀弓】齊衰不以邊坐。【疏】喪服宜敬，起坐宜正，不可著齊衰而偏坐也。</p>
+<p>又邊璋，半文飾也。【周禮&middot;冬官考工記】邊璋七寸。</p>
+<p>又姓。周大夫邊伯之後。南唐有邊鎬。《說文》作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28622.svg"><span class="k_txt">𨘢</span>。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8FB9_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=辵">辵</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">𨘢</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“边”字头，请参考“<a href="/hans/𨘢"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/28622.svg"><span class="k_txt">𨘢</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=辵">辵</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/28622.svg">                          <p>行垂崖也。从辵<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2691D.svg"><span class="k_txt">𦤝</span>聲。布賢切〖注〗<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26347.svg"><span class="k_txt">𦍇</span>，古文邊。&nbsp;文一百一十八　重三十一（三十）&nbsp;</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/28622_10091.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28622.svg"><span class="k_txt">𨘢</span>)</span><span class="ywyy">行垂崖也。</span><span class="swdz">釋詁曰：邊，垂也。土部曰：垂，遠邊也。厂部曰：厓，山邊也。屵部曰：崖，高邊也。行於垂崖曰邊，因而垂崖謂之邊，然則邊不當廁於此。</span><span class="ywyy">从辵<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2691D.svg"><span class="k_txt">𦤝</span>聲。</span><span class="swdz">布賢切。十二部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8FB9_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">边</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  piæn˥ <span class="z_ts4">日语读音</span>  ATARI BE HOTORI<span class="z_ts4">韩语罗马</span>  PYEN</p>						<p><span class="z_ts2">粤语</span>  bin1<span class="z_ts3">潮州话</span>  biang1(piang)[潮州]biêng1 , bin1(piⁿ) </p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/边">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/边">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/边">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/边">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/边">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/边">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/边">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/边">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/边">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/边">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/边">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/边">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">边</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「邊」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/边"><img data-original="//img.zdic.net/zy/jiaguwen/41_F560.svg" class="lazy ypic"><span>「邊」 後2.22.16</span><span>合28058</span></a></td><td><a href="/zd/zx/jw/边"><img data-original="//img.zdic.net/zy/jinwen/31_E8EA.svg" class="lazy ypic"><span>「邊」 大盂鼎</span><span>西周早期</span><span>集成2837</span></a></td><td><a href="/zd/zx/cx/边"><img data-original="//img.zdic.net/zy/chuwenzi/51_EA4A.svg" class="lazy ypic"><span>「邊」 曾172</span></a></td><td><a href="/zd/zx/xz/边"><img data-original="//img.zdic.net/zy/xiaozhuan/27_908A.svg" class="lazy ypic"><span>「邊」 說文‧辵部</span></a></td><td style="display:none"></td><td><a href="/hans/邊" target="_blank"><img data-original="//img.zdic.net/kai/tw/908A.svg" class="lazy ypic"><span>「邊」</span></a> </td><td><a href="/hans/边" target="_blank"><img data-original="//img.zdic.net/kai/tw/8FB9.svg" class="lazy ypic"><span>「边」</span></a></td><td style="display:none"><a href="/hans/边" target="_blank"><img data-original="//img.zdic.net/kai/tw/8FB9.svg" class="lazy ypic"><span>「边」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/边"><img data-original="//img.zdic.net/zy/jinwen/31_E8EB.svg" class="lazy ypic"><span>「邊」 散氏盤</span><span>西周晚期</span><span>集成10176</span></a></td><td></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td></td><td></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/边">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/边">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/边">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/边">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/边">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/边">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8FB9.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8FB9.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8FB9.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/邉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9089.svg'><span>邉</span></a></div> <div class='zx'><a href='/hans/邊' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/908A.svg'><span>邊</span></a></div> <div class='zx'><a href='/hans/𦍇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26347.svg'><span>𦍇</span></a></div> <div class='zx'><a href='/hans/𨕙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28559.svg'><span>𨕙</span></a></div> <div class='zx'><a href='/hans/𨖂' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28582.svg'><span>𨖂</span></a></div> <div class='zx'><a href='/hans/𨑶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28476.svg'><span>𨑶</span></a></div> <div class='zx'><a href='/hans/𨓉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/284C9.svg'><span>𨓉</span></a></div> <div class='zx'><a href='/hans/𨓙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/284D9.svg'><span>𨓙</span></a></div> <div class='zx'><a href='/hans/𨘢' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28622.svg'><span>𨘢</span></a></div> <div class='zx'><a href='/hans/𨘳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28633.svg'><span>𨘳</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="16826" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4397">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/編">編(bian1)</a></li><li><a href="/hans/鍽">鍽(bian1)</a></li><li><a href="/hans/甂">甂(bian1)</a></li><li><a href="/hans/獱">獱(bian1)</a></li><li><a href="/hans/猵">猵(bian1)</a></li><li><a href="/hans/萹">萹(bian1)</a></li><li><a href="/hans/臱">臱(bian1)</a></li><li><a href="/hans/箯">箯(bian1)</a></li><li><a href="/hans/砭">砭(bian1)</a></li><li><a href="/hans/编">编(bian1)</a></li><li><a href="/hans/蝙">蝙(bian1)</a></li><li><a href="/hans/鳊">鳊(bian1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/逌">逌</a></li><li><a href="/hans/連">連</a></li><li><a href="/hans/迴">迴</a></li><li><a href="/hans/遃">遃</a></li><li><a href="/hans/遝">遝</a></li><li><a href="/hans/遭">遭</a></li><li><a href="/hans/過">過</a></li><li><a href="/hans/迧">迧</a></li><li><a href="/hans/逸">逸</a></li><li><a href="/hans/邂">邂</a></li><li><a href="/hans/連">連</a></li><li><a href="/hans/䢋">䢋</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/旦">旦</a></li><li><a href="/hans/驭">驭</a></li><li><a href="/hans/目">目</a></li><li><a href="/hans/𠖯">𠖯</a></li><li><a href="/hans/𠆰">𠆰</a></li><li><a href="/hans/用">用</a></li><li><a href="/hans/奶">奶</a></li><li><a href="/hans/叨">叨</a></li><li><a href="/hans/穴">穴</a></li><li><a href="/hans/仫">仫</a></li><li><a href="/hans/㧄">㧄</a></li><li><a href="/hans/北">北</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">两岸青山相对出，孤帆一片日<span>边</span>来。</div><div class="gscdr">唐·李白 《望天门山》</div><div class="gscdl">荷叶罗裙一色裁，芙蓉向脸两<span>边</span>开。</div><div class="gscdr">唐·王昌龄 《采莲曲》</div><div class="gscdl">绿树村<span>边</span>合，青山郭外斜。</div><div class="gscdr">唐·孟浩然 《过故人庄》</div><div class="gscdl">七八个星天外，两三点雨山前。旧时茅店社林<span>边</span>。路转溪桥忽见。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div><div class="gscdl">欲问行人去那<span>边</span>？眉眼盈盈处。</div><div class="gscdr">宋·王观 《卜算子·送鲍浩然之浙东》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">乡书何处达？归雁洛阳<span>边</span>。</div><div class="gscdr">唐·王湾 《次北固山下》</div><div class="gscdl">旦辞爷娘去，暮宿黄河<span>边</span>，不闻爷娘唤女声，但闻黄河流水鸣溅溅。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">单车欲问<span>边</span>，属国过居延。</div><div class="gscdr">唐·王维 《使至塞上》</div><div class="gscdl">剧哉<span>边</span>海民，寄身于草野。</div><div class="gscdr">魏晋·曹植 《梁甫行》</div><div class="gscdl">文帝之后六年，匈奴大入<span>边</span>。</div><div class="gscdr">汉·司马迁 史记. 绛侯周勃世家《周亚夫军细柳》</div><div class="gscdl">闲来垂钓碧溪上，忽复乘舟梦日<span>边</span>。</div><div class="gscdr">《行路难》（其一）</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=16826"></script>
+</body>
+</html>

@@ -1,0 +1,673 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>去的解释|去的意思|汉典“去”字的基本解释</title>
+<meta name="title" content="去的解释|去的意思|汉典“去”字的基本解释">
+<meta name="keywords" content="上：土，下：厶。 " /><meta property="og:title" content="“去”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“去”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“去”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/去" />
+<link rel="canonical" href="//www.zdic.net/hans/去" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/去" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/去" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/去" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/去">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/去">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/53BB.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/53BB.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">qù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“去”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/qù.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄑㄩˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“去”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄑㄩˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=土" target="_blank">  土</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_ytz2"><a href='/hans/㚎' target=_blank>㚎</a> <a href='/hans/厺' target=_blank>厺</a> <a href='/hans/𠫟' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20ADF.svg'><span class='ytz_txt'>𠫟</span></a> <a href='/hans/𠫥' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AE5.svg'><span class='ytz_txt'>𠫥</span></a> <a href='/hans/𠬑' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20B11.svg'><span class='ytz_txt'>𠬑</span></a> <a href='/hans/弆' target=_blank>弆</a> <a href='/hans/𠇯' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/201EF.svg'><span class='ytz_txt'>𠇯</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+53BB</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>12154</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>fcu</p></td>                            <td class="dsk_2_1"><p>gi</p></td>                            <td class="dsk_2_1"><p>bzs</p></td>                            <td class="dsk_2_1"><p>40732</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">qù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“去”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/qù.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄑㄩˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“去”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄑㄩˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=土" target="_blank">土</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 53BB<span class="z_ts2">笔顺</span> 12154                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="53BB_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1468" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>去</strong></p><p><span class="dicpy">q&ugrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/q&ugrave;.mp3"></a></span>  ㄑㄩˋ</span></p><hr class="dichr" /><ol>	<li>离开所在的地方到别处；由自己一方到另一方，与&ldquo;<span class="diczx3">来</span>&rdquo;相对：～处。～路。～国。</li>	<li>距离，差别：相～不远。</li>	<li>已过的，特指刚过去的一年：～年。～冬今春。</li>	<li>除掉，减掉：～掉。～皮。～势（①阉割；②动作或事情终了时的气势）。</li>	<li>扮演戏曲中的角色：他～男主角。</li>	<li>用在动词后，表示趋向：上～。进～。</li>	<li>用在动词后，表示持续：信步走～。</li>	<li>汉语四声之一：～声（①古汉语四声的第三声；②普通话字调中的第四声）。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> go away, leave, depart</p><p><span class="z_ts2">德语</span> gehen, fortgehen, weggehen  (V)​,verlassen  (V)</p><p><span class="z_ts2">法语</span> aller,quitter,enlever,(placé après un verbe pour marquer la direction ou la destination)​ vers,dans la direction de,pour</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>去</strong> <span class="dicpy">q&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/q&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (会意兼形声。甲骨文字形。上面是人(大)，下面是口(或作&ldquo;凵&rdquo;)，表示人离开洞口或坑坎而去。<span class="smcs">《说文》</span>:&ldquo;从大，凵声。&rdquo;凵( <span class="dicpy">qū</span>)。本义:离开)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[go away;leave]</span></p>
+<p><span class="diczx1">去，人相违也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">逝将去女，适彼乐土。&mdash;&mdash;<span class="smcs">《诗&middot;魏风&middot;硕鼠》</span></span></p>
+<p><span class="diczx1">纪侯大去其国。&mdash;&mdash;<span class="smcs">《春秋&middot;庄公四年》</span></span></p>
+<p><span class="diczx1">大去者，不遗一人之辞也。&mdash;&mdash;<span class="smcs">《谷梁传》</span></span></p>
+<p><span class="diczx2">武子</span>去所。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十年》</span></p>
+<p><span class="diczx1">不能相去。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策》</span></span></p>
+<p><span class="diczx1">乃去。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx1">久而不去。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《归田录》</span></p>
+<p><span class="diczx1">一狼径去。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;狼三则》</span></span></p>
+<p><span class="diczx1">东向驰去。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p>
+<p><span class="diczx3">又如:去离(分离;离开);去任(因故离开职位);去住无门(进退两难);去来(离去;往来);去位(离开官位)</span></p>
+<p><span class="cino">(3)</span> 除去;去掉 <span class="encs">[remove;wipe off]</span></p>
+<p><span class="diczx1">去死肌，杀三虫。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx1">明日去。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="diczx1">俸去书来。</span></p>
+<p><span class="diczx3">又如:去绝根株(斩草除根);去疾(除去疾病);去皮;去邪归正(去掉邪恶，归于正道)</span></p>
+<p><span class="cino">(4)</span> 相距，远离 <span class="encs">[be apart from;be at a distance of]</span></p>
+<p><span class="diczx1">连峰去天不盈尺。&mdash;&mdash;<span class="smcs">《蜀道难》</span></span></p>
+<p><span class="diczx1">日始出时去人近。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx2">西蜀</span>之去 <span class="diczx2">南海</span>。&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx1">去村四里。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx3">又如:两地相去50里</span></p>
+<p><span class="cino">(5)</span> 前往，到别处，跟&ldquo;来&rdquo;相反 <span class="encs">[go]</span></p>
+<p><span class="diczx1">大江东去，浪淘尽，千古风流人物。&mdash;&mdash;</span><span class="diczx2">苏轼</span><span class="smcs">《念奴娇&middot;赤壁怀古》</span>词</p>
+<p><span class="diczx1">公然抱茅入竹去。&mdash;&mdash;</span><span class="diczx2">杜甫</span><span class="smcs">《茅屋为秋风所破歌》</span></p>
+<p><span class="diczx1">汝可去应之。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:去住无门(进退两难);去紧(走得快;迅疾);去处(所去的地方);去学校;谁去都一样</span></p>
+<p><span class="cino">(6)</span> 失掉; 失去 <span class="encs">[lose]</span></p>
+<p><span class="diczx1">大事去矣，可痛惜哉。&mdash;&mdash;<span class="smcs">《三国演义》</span></span></p>
+<p><span class="diczx3">又如:去失(丢失)</span></p>
+<p><span class="cino">(7)</span> 扮演 <span class="encs">[戏曲里的角色]</span> <span class="encs">[play the part of]</span>。</p>
+<p><span class="diczx3">如:去主角的那位长得并不美</span></p>
+<p><span class="cino">(8)</span> 赶走;打发走 <span class="encs">[drive]</span></p>
+<p><span class="diczx1">夫汇上之处女，有家贫而无烛者，处女相与语，欲去之。&mdash;&mdash;<span class="smcs">《战国策》</span></span></p>
+<p><span class="cino">(9)</span> 抛弃，舍弃 <span class="encs">[throw away]</span></p>
+<p><span class="diczx1">是君臣、父子、兄弟尽去仁义，怀利以相接，然而不亡者，未之有也。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx3">又如:去心(心里丢开;放心);去势(舍弃权势)</span></p>
+<p><span class="cino">(10)</span> 去世，死亡 <span class="encs">[die]</span></p>
+<p><span class="diczx1">日月还复周，我去不再阳。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《杂诗》</span></p>
+<p><span class="diczx3">又如:去世(死亡)</span></p>
+<p><span class="cino">(11)</span> 用在谓词或谓词结构后表示趋向或持续 <span class="encs">[used after a verb or a V&mdash;O construction to indicate that an action is to take place or continue]</span></p>
+<p><span class="diczx1">上去下来船不定，自飞自语燕争忙。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">梅尧臣</span><span class="smcs">《绝句》</span></p>
+<p><span class="diczx1">归去来兮。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《归去来兮辞》</span></p>
+<p><span class="diczx1">一鸣辄跃去。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx1">跃去尺有咫。</span></p>
+<p><span class="diczx3">又如:我去考虑考虑;明年回乡下去;船向前慢慢开去;把东西给他送去</span></p>
+<p><span class="cino">(12)</span> 逃离，逃亡 <span class="encs">[go into exile;flee from home]</span></p>
+<p><span class="diczx1">委而去之。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑下》</span></span></p>
+<p><span class="diczx1">小敌去。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">纺焉以度而去之。&mdash;&mdash;<span class="smcs">《左传&middot;昭公十九年》</span></span></p>
+<p><span class="cino">(13)</span> 通&ldquo;驱&rdquo;。驱逐 <span class="encs">[drive out;expel]</span></p>
+<p><span class="diczx1">千乘三去。&mdash;&mdash;<span class="smcs">《左传&middot;僖公十五年》</span></span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>去</strong> <span class="dicpy">q&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/q&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 过去了的 <span class="encs">[of last year;past]</span>。</p>
+<p><span class="diczx3">如:去岁(去年，上一年);去事(往事);去日(过去的岁月)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;怯&rdquo;。胆小，畏缩 <span class="encs">[cowardly;timid]</span></p>
+<p>◎ <strong>去</strong> <span class="dicpy">q&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/q&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">介</span></p>
+<p>在。表示时间或处所 <span class="encs">[in;at]</span></p>
+<p><span class="diczx1">去里面一字儿摆着三只大酒缸。&mdash;&mdash;<span class="smcs">《水浒传》</span></span></p>
+<p>◎ <strong>去</strong> <span class="dicpy">q&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/q&ugrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p>去声。汉语四声之一 <span class="encs">[falling tone，one of the four tones in classical Chinese and the fourth tone in modern standard Chinese pronunciation]</span></p>
+<p><span class="diczx1">古人以&ldquo;平&rdquo;&ldquo;上&rdquo;&ldquo;去&rdquo;&ldquo;入&rdquo;四字各为一声的代表字，于是这四个字就成了四声的名称。&mdash;&mdash;</span><span class="diczx2">王力</span><span class="smcs">《汉语音韵学》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/去除">去除</a></span><span class="crefe"><a href="/hans/去处">去处</a></span><span class="crefe"><a href="/hans/去粗取精">去粗取精</a></span><span class="crefe"><a href="/hans/去掉">去掉</a></span><span class="crefe"><a href="/hans/去垢">去垢</a></span><span class="crefe"><a href="/hans/去官">去官</a></span><span class="crefe"><a href="/hans/去国">去国</a></span><span class="crefe"><a href="/hans/去火">去火</a></span><span class="crefe"><a href="/hans/去甲">去甲</a></span><span class="crefe"><a href="/hans/去就">去就</a></span><span class="crefe"><a href="/hans/去鳞">去鳞</a></span><span class="crefe"><a href="/hans/去留">去留</a></span><span class="crefe"><a href="/hans/去路">去路</a></span><span class="crefe"><a href="/hans/去年">去年</a></span><span class="crefe"><a href="/hans/去耦">去耦</a></span><span class="crefe"><a href="/hans/去取">去取</a></span><span class="crefe"><a href="/hans/去去">去去</a></span><span class="crefe"><a href="/hans/去任">去任</a></span><span class="crefe"><a href="/hans/去日">去日</a></span><span class="crefe"><a href="/hans/去声">去声</a></span><span class="crefe"><a href="/hans/去时">去时</a></span><span class="crefe"><a href="/hans/去世">去世</a></span><span class="crefe"><a href="/hans/去势">去势</a></span><span class="crefe"><a href="/hans/去暑">去暑</a></span><span class="crefe"><a href="/hans/去岁">去岁</a></span><span class="crefe"><a href="/hans/去痛">去痛</a></span><span class="crefe"><a href="/hans/去伪存真">去伪存真</a></span><span class="crefe"><a href="/hans/去污">去污</a></span><span class="crefe"><a href="/hans/去污粉">去污粉</a></span><span class="crefe"><a href="/hans/去向">去向</a></span><span class="crefe"><a href="/hans/去邪">去邪</a></span><span class="crefe"><a href="/hans/去雄">去雄</a></span><span class="crefe"><a href="/hans/去职">去职</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>去</rb></rbc><rtc><rt>ㄑㄩˋ</rt></rtc><rtc><rt>q&ugrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3770.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">往、到。與「來」相對。</span><span class="gc_lz">如：「<b>去</b>學校」、「<b>去</b>郊遊」、「<b>去</b>餐館吃飯」。</span><span class="gc_yy">唐&middot;李白〈贈韋祕書子春〉詩二首之二：「終與安社稷，功成<b>去</b>五湖。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">離開。</span><span class="gc_lz">如：「去職」。</span><span class="gc_yy">《漢書&middot;卷八五&middot;何武傳》：「去後常見思。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">死亡。</span><span class="gc_yy">明&middot;湯顯祖《牡丹亭&middot;第二七齣》：「杜衙小姐<b>去</b>三年，待與招魂上九天。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">距離。</span><span class="gc_lz">如：「<b>去</b>古已遠。」</span><span class="gc_yy">唐&middot;李白〈蜀道難〉：「連峰<b>去</b>天不盈尺，枯松倒挂倚絕壁。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">送、發出。</span><span class="gc_lz">如：「<b>去</b>信」、「<b>去</b>電報」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">除掉。</span><span class="gc_lz">如：「<b>去</b>一層皮。」</span><span class="gc_yy">宋&middot;沈括《夢溪筆談&middot;卷三&middot;辯證一》：「不求<b>去</b>礙，而欲見不顛倒，難矣哉！」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">放棄。</span><span class="gc_yy">《莊子&middot;大宗師》：「離形<b>去</b>知。」</span><span class="gc_yy">《漢書&middot;卷九四&middot;匈奴傳上》：「得漢食物皆<b>去</b>之，以視不如重酪之便美也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">失掉。</span><span class="gc_lz">如：「大勢已<b>去</b>」。</span><span class="gc_yy">《史記&middot;卷八七&middot;李斯傳》：「胥人者，<b>去</b>其幾也。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">過去的。</span><span class="gc_lz">如：「去年」。</span><span class="gc_yy">《文選&middot;曹操&middot;短歌行》：「譬如朝露，去日苦多。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">助</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表示事情的進行。相當於「啊」、「了」。</span><span class="gc_lz">如：「他睡覺<b>去</b>了。」、「他上班<b>去</b>了。」</span><span class="gc_yy">唐&middot;李賀〈沙路曲〉：「斷燼遺香褭翠煙，燭騎啼烏上天<b>去</b>。」</span><span class="gc_yy">宋&middot;蘇軾〈海棠〉詩：「只恐夜深花睡<b>去</b>，故燒高燭照紅妝。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">平上去入四聲之一。參見「<a href='/hans/去聲' target=_blank>去聲</a> 」條。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如漢代有去卑。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="53BB_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=厶" target="_blank">厶</a>】
+                              去·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=厶" target="_blank">厶</a>】
+                              去·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：3</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/53BB.svg">						  <p>【唐韻】【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>丘據切，墟去聲。【說文】人相違也。【廣韻】離也。【增韻】來去，離去，去就之去。【玉篇】行也。【史記&middot;莊助傳】汲黯招之不來，麾之不去。</p><p>又棄也。【後漢&middot;申屠剛傳】愚聞人所歸者，天所與。人所畔者，天所去也。</p><p>又【唐韻】羌舉切【集韻】【韻會】口舉切【正韻】丘舉切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>墟上聲。【集韻】徹也。</p><p>又藏也。【前漢&middot;蘇武傳】掘野鼠，去草實而食之。【註】去，收藏也。</p><p>又【集韻】或作弆。【前漢&middot;<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>遵傳】遵善書，與人尺牘，皆藏弆以爲榮。【註】弆，亦藏也。</p><p>又【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>丘於切，音墟。疾走。【正字通】同驅。【詩&middot;小雅】鳥鼠攸去，君子攸芋。【左傳&middot;僖十五年】秦伯伐晉。卜之，曰：千乘三去，三去之餘，獲其雄狐。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="53BB_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=去">去</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=去">去</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/53BB.svg">                          <p>人相違也。从大<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20674.svg"><span class="k_txt">𠙴</span>聲。凡去之屬皆从去。丘據切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/53BB_661.svg" /><span class="swbf">(去)</span><span class="ywyy">人相違也。</span><span class="swdz">違，離也。人離故从大。大者，人也。</span><span class="ywyy">从大<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20674.svg"><span class="k_txt">𠙴</span>聲。</span><span class="swdz">丘據切。五部。</span><span class="ywyy">凡去之屬皆从去。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="53BB_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕʰy˥˧ <span class="z_ts4">唐代读音</span>  *kiù<span class="z_ts4">日语读音</span>  SARU<span class="z_ts4">韩语罗马</span>  KE<span class="z_ts4">现代韩语</span>  거<span class="z_ts3">越南语</span>  khứ</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] hi5 ki5 [沙头角腔] hi5 ki5 [客英字典] hi5 ki5 [海陆腔] hi5 ki5 [宝安腔] hi5 [东莞腔] hi5 [台湾四县腔] hi5 ki5 [客语拼音字汇] hi4 ki4 [陆丰腔] ki3 ki5 hi5<span class="z_ts2">粤语</span>  heoi2 heoi3</p>						<p><span class="z_ts3">近代音</span>  溪母    魚模韻    上聲    傴小空；溪母    魚模韻    去聲    去小空；<span class="z_ts3">中古音</span>  溪母    語韻    上聲    去小韻    羌舉切    三等    合口；溪母    御韻    去聲    㰦小韻    （近）〔丘〕倨切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：溪母    模部   ；溪母    模部   ；溪母    模部   ；王力系统：溪母    魚部   ；溪母    魚部   ；溪母    魚部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/去">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/去">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/去">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/去">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/去">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/去">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/去">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/去">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/去">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/去">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">去</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/去"><img data-original="//img.zdic.net/zy/jiaguwen/42_E669.svg" class="lazy ypic"><span>「去」 前7.9.3</span><span>合7148</span></a></td><td><a href="/zd/zx/jw/去"><img data-original="//img.zdic.net/zy/jinwen/32_E5CD.svg" class="lazy ypic"><span>「去」 哀成叔鼎</span><span>春秋晚期</span><span>集成2782</span></a></td><td><a href="/zd/zx/cx/去"><img data-original="//img.zdic.net/zy/chuwenzi/52_E235.svg" class="lazy ypic"><span>「迲」 天卜</span></a></td><td><a href="/zd/zx/xz/去"><img data-original="//img.zdic.net/zy/xiaozhuan/27_53BB.svg" class="lazy ypic"><span>「去」 說文‧去部</span></a></td><td><a href="/zd/zx/qx/去"><img data-original="//img.zdic.net/zy/qinwenzi/71_E50A.svg" class="lazy ypic"><span>「去」 睡.日乙43</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/去" target="_blank"><img data-original="//img.zdic.net/kai/tw/53BB.svg" class="lazy ypic"><span>「去」</span></a></td></tr><tr><td><a href="/zd/zx/jg/去"><img data-original="//img.zdic.net/zy/jiaguwen/42_E664.svg" class="lazy ypic"><span>「去」 甲3073</span><span>合7063</span></a></td><td><a href="/zd/zx/jw/去"><img data-original="//img.zdic.net/zy/jinwen/32_E5CE.svg" class="lazy ypic"><span>「去」 中山王昔鼎</span><span>戰國晚期</span><span>集成2840</span></a></td><td><a href="/zd/zx/cx/去"><img data-original="//img.zdic.net/zy/chuwenzi/56_E82A.svg" class="lazy ypic"><span>「去」 郭.老甲.18</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/去"><img data-original="//img.zdic.net/zy/jiaguwen/42_E662.svg" class="lazy ypic"><span>「去」 甲764</span><span>合30177</span></a></td><td><a href="/zd/zx/jw/去"><img data-original="//img.zdic.net/zy/jinwen/32_E5CF.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/8_E635.svg" class="ykai">」 妾子𧊒壺</span><span>戰國晚期</span><span>集成9734</span></a></td><td><a href="/zd/zx/cx/去"><img data-original="//img.zdic.net/zy/chuwenzi/56_E82D.svg" class="lazy ypic"><span>「去」 郭.語3.4</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/去">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/去">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/去">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/去">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/去">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/去">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/53BB.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/53BB.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/53BB.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/53BB.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/53BB.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㚎' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/368E.svg'><span>㚎</span></a></div> <div class='zx'><a href='/hans/厺' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/53BA.svg'><span>厺</span></a></div> <div class='zx'><a href='/hans/𠫟' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20ADF.svg'><span>𠫟</span></a></div> <div class='zx'><a href='/hans/𠫥' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AE5.svg'><span>𠫥</span></a></div> <div class='zx'><a href='/hans/𠬑' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20B11.svg'><span>𠬑</span></a></div> <div class='zx'><a href='/hans/弆' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5F06.svg'><span>弆</span></a></div> <div class='zx'><a href='/hans/𠇯' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/201EF.svg'><span>𠇯</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1468" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6501">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/麮">麮(qu4)</a></li><li><a href="/hans/刞">刞(qu4)</a></li><li><a href="/hans/䠓">䠓(qu4)</a></li><li><a href="/hans/觑">觑(qu4)</a></li><li><a href="/hans/䒧">䒧(qu4)</a></li><li><a href="/hans/鼁">鼁(qu4)</a></li><li><a href="/hans/䁦">䁦(qu4)</a></li><li><a href="/hans/㫢">㫢(qu4)</a></li><li><a href="/hans/趣">趣(qu4)</a></li><li><a href="/hans/㧁">㧁(qu4)</a></li><li><a href="/hans/䠐">䠐(qu4)</a></li><li><a href="/hans/㰦">㰦(qu4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/垟">垟</a></li><li><a href="/hans/堁">堁</a></li><li><a href="/hans/塉">塉</a></li><li><a href="/hans/埋">埋</a></li><li><a href="/hans/墐">墐</a></li><li><a href="/hans/垾">垾</a></li><li><a href="/hans/垔">垔</a></li><li><a href="/hans/坾">坾</a></li><li><a href="/hans/垘">垘</a></li><li><a href="/hans/堎">堎</a></li><li><a href="/hans/墱">墱</a></li><li><a href="/hans/㙈">㙈</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠂕">𠂕</a></li><li><a href="/hans/平">平</a></li><li><a href="/hans/仭">仭</a></li><li><a href="/hans/矛">矛</a></li><li><a href="/hans/邛">邛</a></li><li><a href="/hans/末">末</a></li><li><a href="/hans/印">印</a></li><li><a href="/hans/䦻">䦻</a></li><li><a href="/hans/田">田</a></li><li><a href="/hans/幼">幼</a></li><li><a href="/hans/仪">仪</a></li><li><a href="/hans/㧃">㧃</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">春<span>去</span>花还在，人来鸟不惊。</div><div class="gscdr">唐·王维 《画》</div><div class="gscdl">松下问童子，言师采药<span>去</span>。</div><div class="gscdr">唐·贾岛 《寻隐者不遇》</div><div class="gscdl">众鸟高飞尽，孤云独<span>去</span>闲。</div><div class="gscdr">唐·李白 《独坐敬亭山》</div><div class="gscdl">如今直上银河<span>去</span>，同到牵牛织女家。</div><div class="gscdr">唐·刘禹锡 《浪淘沙》</div><div class="gscdl">一儿曰：“我以日始出时<span>去</span>人近，而日中时远也。”</div><div class="gscdr">先秦·列御寇 《两小儿辩日 / 两小儿辩斗》</div><div class="gscdl">世人若被明日累，春<span>去</span>秋来老将至。</div><div class="gscdr">明·钱福 《明日歌》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">过中不至，太丘舍<span>去</span>，<span>去</span>后乃至。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">答曰：“待君久不至，已<span>去</span>。”</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">友人便怒：“非人哉！与人期行，相委而<span>去</span>。”</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">强欲登高<span>去</span>，无人送酒来。</div><div class="gscdr">唐·岑参 《行军九日思长安故园》</div><div class="gscdl">年与时驰，意与日<span>去</span>，遂成枯落，多不接世，悲守穷庐，将复何及</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">少时，一狼径<span>去</span>，其一犬坐于前。</div><div class="gscdr">蒲松龄《狼三则·其二》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=1468"></script>
+</body>
+</html>

@@ -1,0 +1,658 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>冲的解释|冲的意思|汉典“冲”字的基本解释</title>
+<meta name="title" content="冲的解释|冲的意思|汉典“冲”字的基本解释">
+<meta name="keywords" content="左：冫，右：中。" /><meta property="og:title" content="“冲”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“冲”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“冲”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/冲" />
+<link rel="canonical" href="//www.zdic.net/hans/冲" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/冲" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/冲" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/冲" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/冲">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/冲">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/51B2.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/51B2.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">chōng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span></span></p><p><span class="z_d song">chòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chòng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄔㄨㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄨㄥ.mp3"></a></span></span></p><p><span class="z_d song">ㄔㄨㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄨㄥˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=冫" target="_blank">  冫</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/沖' target=_blank>沖</a>  <a href='/hans/衝' target=_blank>衝</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/沖' target=_blank>沖</a> <a href='/hans/衝' target=_blank>衝</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+51B2</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>412512</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ukhh</p></td>                            <td class="dsk_2_1"><p>iml</p></td>                            <td class="dsk_2_1"><p>tdji</p></td>                            <td class="dsk_2_1"><p>35106</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">chōng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span></span> <span class="z_d song">chòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chòng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄔㄨㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄨㄥ.mp3"></a></span></span> <span class="z_d song">ㄔㄨㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“冲”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄨㄥˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=冫" target="_blank">冫</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 51B2<span class="z_ts2">笔顺</span> 412512                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="51B2_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=947" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">冲</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>冲</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">衝；<img class="jbjs_ico" src="/images/yico_yt.svg" title="异体字">沖）</strong></p><p><span class="dicpy">chōng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span> ㄔㄨㄥˉ</span></p><hr class="dichr" /><ol>	<li>用水或酒浇注，水撞击：～茶。～剂。～洗。～荡。</li>	<li>向上钻，直上：～腾。～入云霄。</li>	<li>破解不祥：～喜。</li>	<li>空虚，谦虚：&ldquo;大盈若～，其用不穷&rdquo;。～挹（<span class="dicpy">y&igrave;</span>）。谦～。</li>	<li>幼小：～昧。～弱。～龄。</li>	<li>方言，山区的平地：韶山～。</li>	<li>通行的大路，重要的地方：要～。首当其～。</li>	<li>不顾一切，一直向前：～锋。横～直撞。</li>	<li>猛烈地撞击：～力。～突。</li>	<li>收支账目互相抵销：～账。</li>	<li>情感强烈：～动。兴（<span class="dicpy">x&igrave;ng</span>）～～。</li>	<li>太阳系中，除水星和金星外，其余的某一个行星进行到与地球、太阳成一条直线而地球正处在这个行星与太阳之间的位置时称&ldquo;冲&rdquo;。</li></ol><p>● <strong>冲</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">衝）</strong></p><p><span class="dicpy">ch&ograve;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&ograve;ng.mp3"></a></span> ㄔㄨㄥˋ</span></p><hr class="dichr" /><ol>	<li>对着，向着：～着太阳。</li>	<li>凭，根据：～你这么好学，一定能有成就。</li>	<li>猛烈；强烈：～劲。这酒真～。</li>	<li>一种使金属板成形或在金属板上打孔的专用设备称&ldquo;冲床&rdquo;。</li>	<li>在冲床上加工金属工件：～压。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> soar; pour boiling water over</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">冲</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>冲</strong> <span class="dicpy">chōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (形声。从水，中声。本义:向上涌流)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[surge up]</span></p>
+<p><span class="diczx1">冲溶沅瀁。&mdash;&mdash;</span><span class="diczx2">木华</span><span class="smcs">《海赋》</span></p>
+<p><span class="cino">(3)</span> 直上 <span class="encs">[shoot up]</span></p>
+<p><span class="diczx3">又如:冲天(直上天空);冲汉(直上霄汉)</span></p>
+<p><span class="cino">(4)</span> 以水、酒等浇注调制 <span class="encs">[pour boiling water]</span>。</p>
+<p><span class="diczx3">如:冲鸡蛋;用酒冲服;冲茶</span></p>
+<p><span class="cino">(5)</span> <span class="encs">[会计]</span>收支账目互相抵消，或两户应支付的款项互相抵消 <span class="encs">[cancel out]</span></p>
+<p><span class="diczx1">幸而后手里渐渐翻过来了，除了冲账的，反赢了好些&mdash;&mdash;<span class="smcs">《红楼梦》</span></span></p>
+<p><span class="diczx3">又如:红字冲销</span></p>
+<p><span class="cino">(6)</span> 使曝光过的照相材料显影 <span class="encs">[develop]</span>。</p>
+<p><span class="diczx3">如:冲胶卷</span></p>
+<p><span class="cino">(7)</span> 用水或其他液体冲洗 <span class="encs">[rinse]</span>。</p>
+<p><span class="diczx3">如:把盘子冲一冲;冲厕所;秧苗给大水冲了</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>冲</strong> <span class="dicpy">chōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 深远 <span class="encs">[deep]</span>。</p>
+<p><span class="diczx3">如:冲迈(高远);冲音(精深玄妙之言)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;盅&rdquo;。空虚 <span class="encs">[empty]</span></p>
+<p><span class="diczx3">又如:冲室(虚室，空室);冲寞(虚寂恬静)</span></p>
+<p><span class="cino">(3)</span> 平和;谦虚 <span class="encs">[humble]</span></p>
+<p><span class="diczx3">又如:冲融(融和充实);冲和(性情谦虚和平)</span></p>
+<p><span class="cino">(4)</span> 淡泊 <span class="encs">[without worldly desires]</span>。</p>
+<p><span class="diczx3">如:冲虚(淡泊虚静);冲衿(谦和淡泊的胸襟);冲静(恬静淡泊)</span></p>
+<p><span class="cino">(5)</span> 通&ldquo;僮(童)&rdquo;。幼小 <span class="encs">[inmature]</span></p>
+<p><span class="diczx3">又如:冲弱(年幼，幼稚);冲年(幼年);冲幼(年幼);冲眇(幼小)</span></p>
+<p>◎ <strong>冲</strong></p>
+<hr class="dichr" />
+<p>衝 <span class="dicpy">chōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从行，重声。&ldquo;行&rdquo;，意思是路。本义:交通要道)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[thoroughfare]</span></p>
+<p><span class="diczx1">及冲，以戈击之。&mdash;&mdash;<span class="smcs">《左传&middot;昭公元年》</span>。注:&ldquo;要道。&rdquo;</span></p>
+<p><span class="diczx1">冲风起兮水横波。&mdash;&mdash;<span class="smcs">《楚辞&middot;河伯》</span>。注:&ldquo;隧也。&rdquo;</span></p>
+<p><span class="diczx1">太冲绝。&mdash;&mdash;<span class="smcs">《素问&middot;至真要论》</span>。注;&ldquo;肝脉气也。&rdquo;</span></p>
+<p><span class="diczx3">又如:冲衢(交通要道);冲途(要道;大路);冲境(冲要之地;交通发达地区)</span></p>
+<p><span class="cino">(3)</span> 古战车名。用以攻城 <span class="encs">[a kind of war carriage]</span></p>
+<p><span class="diczx1">与尔临冲。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;皇矣》</span></span></p>
+<p><span class="diczx1">主人焚冲。&mdash;&mdash;<span class="smcs">《左传&middot;定公八年》</span></span></p>
+<p><span class="diczx1">折冲万里。&mdash;&mdash;<span class="smcs">《淮南子&middot;说山》</span></span></p>
+<p><span class="diczx1">隆冲以攻。&mdash;&mdash;<span class="smcs">《淮南子&middot;泛论》</span></span></p>
+<p><span class="diczx3">又如:冲车(古兵车名。用以冲城攻坚);冲隆(古兵车)</span></p>
+<p><span class="cino">(4)</span> 山区的平地 <span class="encs">[flatland]</span>。</p>
+<p><span class="diczx3">如:翻过山有一个很大的冲</span></p>
+<p><span class="cino">(5)</span> <span class="encs">[天文]</span>∶一个天体与另一个天体在天空中的相反方向或距角等于180度的一种行星动态 <span class="encs">[opposition]</span>。</p>
+<p><span class="diczx3">如:大冲;冲日(外行星运行到与地球太阳成一直线且与太阳距角等于180&deg;)</span></p>
+<p>◎ <strong>冲</strong></p>
+<hr class="dichr" />
+<p>衝 <span class="dicpy">chōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 冲击;冲撞 <span class="encs">[charge;assault]</span></p>
+<p><span class="diczx1">稍近，益狎，荡倚冲冒。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《黔之驴》</span></p>
+<p><span class="diczx1">怒发上冲冠。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></span></p>
+<p><span class="diczx3">又如:冲激(冒犯);冲打(冲击攻打);冲阵(冲击敌方战阵)</span></p>
+<p><span class="cino">(2)</span> 直朝某一方向而去 <span class="encs">[dash onward]</span>。</p>
+<p><span class="diczx3">如:冲蒙(奔驰于草丛);冲斥(犹充斥)</span></p>
+<p><span class="cino">(3)</span> 破除;毁坏 <span class="encs">[break]</span>。</p>
+<p><span class="diczx3">如:冲波(冲破波浪);冲溢(溃决泛滥)</span></p>
+<p><span class="cino">(4)</span> 冒。多指不顾危险或恶劣环境而向前行进 <span class="encs">[give offense]</span>。</p>
+<p><span class="diczx3">如:冲雨(冒雨);冲炎(冒着炎热)</span></p>
+<p><span class="cino">(5)</span> 动 <span class="encs">[touch]</span>。</p>
+<p><span class="diczx3">如:冲心(触动心境;动心);冲心钱(数目足以引人动心的钱)</span></p>
+<p><span class="cino">(6)</span> 冲刷;灌注 <span class="encs">[wash out]</span>。</p>
+<p><span class="diczx3">如:冲注(水流冲击)</span></p>
+<p><span class="cino">(7)</span> 另见 <span class="dicpy">ch&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&ograve;ng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/冲冲">冲冲</a></span><span class="crefe"><a href="/hans/冲刺">冲刺</a></span><span class="crefe"><a href="/hans/冲打">冲打</a></span><span class="crefe"><a href="/hans/冲淡">冲淡</a></span><span class="crefe"><a href="/hans/冲荡">冲荡</a></span><span class="crefe"><a href="/hans/冲动">冲动</a></span><span class="crefe"><a href="/hans/冲犯">冲犯</a></span><span class="crefe"><a href="/hans/冲锋">冲锋</a></span><span class="crefe"><a href="/hans/冲锋陷阵">冲锋陷阵</a></span><span class="crefe"><a href="/hans/冲服">冲服</a></span><span class="crefe"><a href="/hans/冲昏头脑">冲昏头脑</a></span><span class="crefe"><a href="/hans/冲击">冲击</a></span><span class="crefe"><a href="/hans/冲击波">冲击波</a></span><span class="crefe"><a href="/hans/冲积">冲积</a></span><span class="crefe"><a href="/hans/冲剂">冲剂</a></span><span class="crefe"><a href="/hans/冲决">冲决</a></span><span class="crefe"><a href="/hans/冲克">冲克</a></span><span class="crefe"><a href="/hans/冲口">冲口</a></span><span class="crefe"><a href="/hans/冲扩">冲扩</a></span><span class="crefe"><a href="/hans/冲浪板">冲浪板</a></span><span class="crefe"><a href="/hans/冲力">冲力</a></span><span class="crefe"><a href="/hans/冲凉">冲凉</a></span><span class="crefe"><a href="/hans/冲破">冲破</a></span><span class="crefe"><a href="/hans/冲散">冲散</a></span><span class="crefe"><a href="/hans/冲杀">冲杀</a></span><span class="crefe"><a href="/hans/冲刷">冲刷</a></span><span class="crefe"><a href="/hans/冲塌">冲塌</a></span><span class="crefe"><a href="/hans/冲腾">冲腾</a></span><span class="crefe"><a href="/hans/冲天">冲天</a></span><span class="crefe"><a href="/hans/冲突">冲突</a></span><span class="crefe"><a href="/hans/冲洗">冲洗</a></span><span class="crefe"><a href="/hans/冲喜">冲喜</a></span><span class="crefe"><a href="/hans/冲陷">冲陷</a></span><span class="crefe"><a href="/hans/冲销">冲销</a></span><span class="crefe"><a href="/hans/冲霄">冲霄</a></span><span class="crefe"><a href="/hans/冲淹">冲淹</a></span><span class="crefe"><a href="/hans/冲要">冲要</a></span><span class="crefe"><a href="/hans/冲账">冲账</a></span><span class="crefe"><a href="/hans/冲撞">冲撞</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>冲</strong></p>
+<p>衝 <span class="dicpy">ch&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&ograve;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 猛劲大 <span class="encs">[full of vigour and drive]</span>。</p>
+<p><span class="diczx3">如:有股冲劲儿;水流得真冲</span></p>
+<p><span class="cino">(2)</span> 气味浓烈刺鼻 <span class="encs">[(of smell) strong;irritating the nose]</span>。</p>
+<p><span class="diczx3">如:酒味儿冲</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>冲</strong></p>
+<p>衝 <span class="dicpy">ch&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&ograve;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p>用冲床进行金属加工 <span class="encs">[punch]</span>。</p>
+<p><span class="diczx3">如:冲床;冲模</span></p>
+<p>◎ <strong>冲</strong></p>
+<p>衝 <span class="dicpy">ch&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&ograve;ng.mp3"></a></span> </p>
+<p><span class="xx_cx">介</span></p>
+<p><span class="cino">(1)</span> 对着;向 <span class="encs">[face to;towards]</span>。</p>
+<p><span class="diczx3">如:冲着(对着，向着);大门冲北开</span></p>
+<p><span class="cino">(2)</span> 凭;根据 <span class="encs">[according to]</span>。</p>
+<p><span class="diczx3">如:就冲着他，我也不得不出面解围</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">chōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chōng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/冲床">冲床</a></span><span class="crefe"><a href="/hans/冲盹儿">冲盹儿</a></span><span class="crefe"><a href="/hans/冲劲儿">冲劲儿</a></span><span class="crefe"><a href="/hans/冲孔">冲孔</a></span><span class="crefe"><a href="/hans/冲压">冲压</a></span><span class="crefe"><a href="/hans/冲子">冲子</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">冲</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>冲</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/沖' target=_blank>沖</a> 」的異體字。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="51B2_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=冫" target="_blank">冫</a>】
+                              冲·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：4</span>
+                                                          </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">冲</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=冫" target="_blank">冫</a>】
+                              冲·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/51B2.svg">						  <p>【正韻】昌中切，音充。同沖。【韻會】沖或省作冲。和也，深也。</p><p>又稚也。【書&middot;金滕】昔公勤勞王家，惟予冲人弗及知。【註】冲，幼也。</p><p>又諡法，幼小在位曰冲。</p><p>又鑿冰聲。【詩&middot;豳風】鑿冰冲冲。</p><p>又垂貌。【詩&middot;小雅】鞗革冲冲。又【韻補】叶仲良切，音長。【道藏歌】鬱鬱對啓明，圓華煥三沖。飆粲麗九天，天綠繞丹房。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="51B2_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=水">水</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">沖</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“冲”字头，请参考“<a href="/hans/沖">沖</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=水">水</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6C96.svg">                          <p>涌搖也。从水中。讀若動。直弓切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6C96_3244.svg" /><span class="swbf">(沖)</span><span class="ywyy">涌繇也。</span><span class="swdz">繇、搖古今字。涌，上涌也。搖，旁搖也。小雅曰：攸革沖沖。毛云：沖沖，垂飾貌。此涌搖之義。豳風傳曰：沖沖，鑿冰之意。義亦相近。召南傳曰：忡忡，猶衝衝也。忡與沖聲義皆略同也。凡用沖虛字者，皆盅之假借。老子：道盅而用之。今本作沖是也。尚書沖人，亦空虛無所知之意。</span><span class="ywyy">从水中聲。讀若動。</span><span class="swdz">直弓切。九部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="51B2_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">冲</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʰuŋ˥; tʂʰuŋ˥˧ <span class="z_ts4">日语读音</span>  OKI WAKU<span class="z_ts4">韩语罗马</span>  CHWUNG<span class="z_ts4">现代韩语</span>  충</p>						<p><span class="z_ts2">粤语</span>  cung1<span class="z_ts3">潮州话</span>  cong1 (tshong)</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/冲">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/冲">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/冲">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/冲">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/冲">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/冲">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/冲">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/冲">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/冲">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/冲">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/冲">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/冲">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">冲</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「沖」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/冲"><img data-original="//img.zdic.net/zy/jiaguwen/43_E85D.svg" class="lazy ypic"><span>「沖」 明藏520</span></a></td><td><a href="/zd/zx/jw/冲"><img data-original="//img.zdic.net/zy/jinwen/33_EC3E.svg" class="lazy ypic"><span>「沖」 沖子鼎</span><span>戰國早期</span><span>集成2229</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/冲"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6C96.svg" class="lazy ypic"><span>「沖」 說文‧水部</span></a></td><td style="display:none"></td><td><a href="/hans/沖" target="_blank"><img data-original="//img.zdic.net/kai/tw/6C96.svg" class="lazy ypic"><span>「沖」</span></a> </td><td><a href="/hans/冲" target="_blank"><img data-original="//img.zdic.net/kai/tw/51B2.svg" class="lazy ypic"><span>「冲」</span></a></td><td style="display:none"><a href="/hans/冲" target="_blank"><img data-original="//img.zdic.net/kai/tw/51B2.svg" class="lazy ypic"><span>「冲」</span></a></td></tr><tr><td><a href="/zd/zx/jg/冲"><img data-original="//img.zdic.net/zy/jiaguwen/43_E85E.svg" class="lazy ypic"><span>「沖」 後2.36.6</span><span>合32906</span></a></td><td></td><td style="display:none"></td><td></td><td style="display:none"></td><td><a href="/hans/衝" target="_blank"><img data-original="//img.zdic.net/kai/tw/885D.svg" class="lazy ypic"><span>「衝」</span></a> </td><td></td><td style="display:none"></td></tr><tr><td></td><td></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/冲">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/冲">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/冲">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/冲">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/51B2.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/51B2.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/51B2.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/51B2.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/沖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6C96.svg'><span>沖</span></a></div> <div class='zx'><a href='/hans/衝' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/885D.svg'><span>衝</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="947" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4591">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/沖">沖(chong1)</a></li><li><a href="/hans/艟">艟(chong1)</a></li><li><a href="/hans/㳘">㳘(chong1)</a></li><li><a href="/hans/罿">罿(chong1)</a></li><li><a href="/hans/𠑽">𠑽(chong1)</a></li><li><a href="/hans/涌">涌(chong1)</a></li><li><a href="/hans/舂">舂(chong1)</a></li><li><a href="/hans/摏">摏(chong1)</a></li><li><a href="/hans/翀">翀(chong1)</a></li><li><a href="/hans/忡">忡(chong1)</a></li><li><a href="/hans/憃">憃(chong1)</a></li><li><a href="/hans/充">充(chong1)</a></li><li><a href="/hans/㧤">㧤(chong4)</a></li><li><a href="/hans/銃">銃(chong4)</a></li><li><a href="/hans/㓼">㓼(chong4)</a></li><li><a href="/hans/揰">揰(chong4)</a></li><li><a href="/hans/铳">铳(chong4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠘡">𠘡</a></li><li><a href="/hans/𠘒">𠘒</a></li><li><a href="/hans/𠘃">𠘃</a></li><li><a href="/hans/㓋">㓋</a></li><li><a href="/hans/𠘄">𠘄</a></li><li><a href="/hans/冮">冮</a></li><li><a href="/hans/𠘏">𠘏</a></li><li><a href="/hans/凙">凙</a></li><li><a href="/hans/决">决</a></li><li><a href="/hans/𠗱">𠗱</a></li><li><a href="/hans/凈">凈</a></li><li><a href="/hans/冻">冻</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/杀">杀</a></li><li><a href="/hans/戍">戍</a></li><li><a href="/hans/伈">伈</a></li><li><a href="/hans/㐆">㐆</a></li><li><a href="/hans/䒙">䒙</a></li><li><a href="/hans/江">江</a></li><li><a href="/hans/㣕">㣕</a></li><li><a href="/hans/会">会</a></li><li><a href="/hans/𠇊">𠇊</a></li><li><a href="/hans/纩">纩</a></li><li><a href="/hans/𠘶">𠘶</a></li><li><a href="/hans/𠚹">𠚹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">盖石性坚重，沙性松浮，水不能<span>冲</span>石，其反激之力，必于石下迎水处啮沙为坎穴，渐激渐深，至石之半，石必倒掷坎穴中。</div><div class="gscdr">清·纪昀 《河中石兽》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=947"></script>
+</body>
+</html>

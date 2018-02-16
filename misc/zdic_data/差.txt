@@ -1,0 +1,754 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>差的解释|差的意思|汉典“差”字的基本解释</title>
+<meta name="title" content="差的解释|差的意思|汉典“差”字的基本解释">
+<meta name="keywords" content="上：羊，下：工。 " /><meta property="og:title" content="“差”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“差”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“差”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/差" />
+<link rel="canonical" href="//www.zdic.net/hans/差" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/差" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/差" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/差" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/差">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/差">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5DEE.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5DEE.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">chà<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chà.mp3"></a></span></span></p><p><span class="z_d song">chā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chā.mp3"></a></span></span></p><p><span class="z_d song">chāi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chāi.mp3"></a></span></span></p><p><span class="z_d song">cī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cī.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄔㄚˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄚˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄔㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄚ.mp3"></a></span></span></p><p><span class="z_d song">ㄔㄞ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄞ.mp3"></a></span></span></p><p><span class="z_d song">ㄘ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=工" target="_blank">  工</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_ytz2"><a href='/hans/荖' target=_blank>荖</a> <a href='/hans/𢀞' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2201E.svg'><span class='ytz_txt'>𢀞</span> <a href='/hans/𢀠' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22020.svg'><span class='ytz_txt'>𢀠</span> <a href='/hans/𢀩' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22029.svg'><span class='ytz_txt'>𢀩</span> <a href='/hans/嗟' target=_blank>嗟</a> <a href='/hans/瘥' target=_blank>瘥</a> <a href='/hans/蹉' target=_blank>蹉</a> <a href='/hans/䁟' target=_blank>䁟</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5DEE</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>431113121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>udaf|uaf</p></td>                            <td class="dsk_2_1"><p>tqm</p></td>                            <td class="dsk_2_1"><p>ucbi</p></td>                            <td class="dsk_2_1"><p>80102</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">chà<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chà.mp3"></a></span></span> <span class="z_d song">chā<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chā.mp3"></a></span></span> <span class="z_d song">chāi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chāi.mp3"></a></span></span> <span class="z_d song">cī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cī.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄔㄚˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄚˋ.mp3"></a></span></span> <span class="z_d song">ㄔㄚ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄚ.mp3"></a></span></span> <span class="z_d song">ㄔㄞ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄞ.mp3"></a></span></span> <span class="z_d song">ㄘ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“差”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=工" target="_blank">工</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 5DEE<span class="z_ts2">笔顺</span> 431113121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5DEE_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4079" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>差</strong></p>
+<p><span class="dicpy">ch&agrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&agrave;.mp3"></a></span> ㄔㄚˋ</span></p>
+<ol>
+	<li>错误：话说～了。</li>
+	<li>不相当，不相合：～不多。</li>
+	<li>缺欠：还～十元钱。</li>
+	<li>不好，不够标准：～等。成绩～。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>差</strong></p>
+<p><span class="dicpy">chā  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chā.mp3"></a></span> ㄔㄚˉ</span></p>
+<ol>
+	<li>不同，不同之点：～别。～距。～额。～价。</li>
+	<li>大致还可以：～可。</li>
+	<li>错误：～错。偏～。～池。</li>
+	<li>数学上指减法运算中的得数：～数。四减二的～是二。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>差</strong></p>
+<p><span class="dicpy">chāi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chāi.mp3"></a></span> ㄔㄞˉ</span></p>
+<ol>
+	<li>派遣去做事：～遣。</li>
+	<li>旧时称被派遣的人：～人。解～。</li>
+	<li>被派遣去做的事：～事。公～。出～。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>差</strong></p>
+<p><span class="dicpy">cī  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/cī.mp3"></a></span> ㄘˉ</span></p>
+<p>　◎ 〔参（<span class="dicpy">cēn</span>）～〕见&ldquo;<span class="diczx3">参</span>&rdquo;。</p>
+<ol>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> to differ; different, wrong; nearly, almost; an officer</p><p><span class="z_ts2">德语</span> fehlen, ermangeln  (V)​,nicht gleichen, nicht übereinstimmen, sich mit etwas nicht decken, mit etwas nicht identisch sein  (V)​,falsch, irrig  (Adj)​,schlecht, ungenügend, unbefriedigend  (Adj)​,fehlend, geringer als, kurz vor  (Adv)​,Posten, Amt, Anstellung  (S)​,jdm befehlen, etwas zu tun  (V)​,jdn mit etw beauftragen  (V)​,jdn schicken, etwas zu machen  (V)</p><p><span class="z_ts2">法语</span> inégal,différence,écart,faute,erreur,se tromper,faire une erreur,différer de,en deçà de,moins de,inférieur,faire partir en mission,commission,service</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>差</strong> <span class="dicpy">chā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chā.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p>(会意。小篆，从左(手)。本义:失当;错;相差) 同本义 <span class="encs">[mistake]</span></p>
+<p><span class="diczx1">差，贰也，差不相值也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">乱生其差。&mdash;&mdash;<span class="smcs">《荀子&middot;天论》</span>。注:&ldquo;谬也。&rdquo;</span></p>
+<p><span class="diczx1">称轻重而不差。&mdash;&mdash;<span class="smcs">《楚辞&middot;严忌哀时命》</span></span></p>
+<p><span class="diczx1">毋有差贷。&mdash;&mdash;<span class="smcs">《礼记&middot;月令仲冬》</span></span></p>
+<p><span class="diczx1">差若毫厘，谬以千里，其此之谓乎?&mdash;&mdash;<span class="smcs">《魏书&middot;张普惠传》</span></span></p>
+<p><span class="diczx3">又如:说差啦;认差了</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>差</strong> <span class="dicpy">chā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chā.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 区别 <span class="encs">[difference]</span></p>
+<p><span class="diczx1">何必更以多寡为差。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:差别(区别，分别);差异(不同)</span></p>
+<p><span class="cino">(2)</span> 两数相减的结果 <span class="encs">[difference]</span>。</p>
+<p><span class="diczx3">如:时差;岁差;剪刀差;顺差，逆差</span></p>
+<p>◎ <strong>差</strong> <span class="dicpy">chā</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chā.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 略微，比较 <span class="encs">[rather]</span>。</p>
+<p><span class="diczx3">如:差可(略可，尚可);差违(略违，稍违)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">ch&agrave;;chāi;ch&agrave;i;cī</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/差别">差别</a></span><span class="crefe"><a href="/hans/差池">差池</a></span><span class="crefe"><a href="/hans/差错">差错</a></span><span class="crefe"><a href="/hans/差讹">差讹</a></span><span class="crefe"><a href="/hans/差额">差额</a></span><span class="crefe"><a href="/hans/差价">差价</a></span><span class="crefe"><a href="/hans/差距">差距</a></span><span class="crefe"><a href="/hans/差强人意">差强人意</a></span><span class="crefe"><a href="/hans/差失">差失</a></span><span class="crefe"><a href="/hans/差误">差误</a></span><span class="crefe"><a href="/hans/差异">差异</a></span><span class="crefe"><a href="/hans/差之毫厘，谬以千里">差之毫厘，谬以千里</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>差</strong> <span class="dicpy">ch&agrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&agrave;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 短缺，不足以达到标准 <span class="encs">[fall short of]</span>。</p>
+<p><span class="diczx3">如:我们离父母的希望还差很远</span></p>
+<p><span class="cino">(2)</span> 欠 <span class="encs">[owe]</span>。</p>
+<p><span class="diczx3">如:我还差你五元钱</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>差</strong> <span class="dicpy">ch&agrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&agrave;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 异;奇异 <span class="encs">[strange]</span>。</p>
+<p><span class="diczx3">如:差人(奇异的人)</span></p>
+<p><span class="cino">(2)</span> 低;次;不好 <span class="encs">[poor;bad]</span>。</p>
+<p><span class="diczx3">如:差池(差劲，不行)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">chā;chāi;ch&agrave;i;cī</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/差不多">差不多</a></span><span class="crefe"><a href="/hans/差不离">差不离</a></span><span class="crefe"><a href="/hans/差点">差点</a></span><span class="crefe"><a href="/hans/差劲">差劲</a></span><span class="crefe"><a href="/hans/差生">差生</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>差</strong> <span class="dicpy">chāi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chāi.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 指派;派遣 <span class="encs">[assign;dispatch;send on an errand]</span></p>
+<p><span class="diczx1">一面差人到</span><span class="diczx2">吴侯</span>处报捷。&mdash;&mdash;<span class="smcs">《三国演义》</span></p>
+<p><span class="diczx3">又如:差人(派遣仆隶);差委(委派;派遣)</span></p>
+<p><span class="cino">(2)</span> 选择 <span class="encs">[select]</span></p>
+<p><span class="diczx1">差时择日。&mdash;&mdash;</span><span class="diczx2">宋玉</span><span class="smcs">《高唐赋》</span></p>
+<p><span class="diczx3">又如:差择(选择);差选(挑选，选择)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>差</strong> <span class="dicpy">chāi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/chāi.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 旧时指临时性的官职 <span class="encs">[billet;official position]</span>。</p>
+<p><span class="diczx3">如:差官(朝廷临时派遣的官员;听候高官差遣的小官吏);差尉(太平天国低级军官)</span></p>
+<p><span class="cino">(2)</span> 徭役 <span class="encs">[corvee]</span>。</p>
+<p><span class="diczx3">如:差徭(公务劳役);差役(徭役)</span></p>
+<p><span class="cino">(3)</span> 旧时官府中供差遣的人 <span class="encs">[messenger]</span>。</p>
+<p><span class="diczx3">如:当差(做小官或当仆人);差门(听候差遗的门子)</span></p>
+<p><span class="cino">(4)</span> 被派遣去做的事 <span class="encs">[errand]</span>。</p>
+<p><span class="diczx3">如:兼差</span></p>
+<p><span class="cino">(5)</span> 另见 <span class="dicpy">chā;ch&agrave;;cī;ch&agrave;i</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/差拨">差拨</a></span><span class="crefe"><a href="/hans/差夫">差夫</a></span><span class="crefe"><a href="/hans/差遣">差遣</a></span><span class="crefe"><a href="/hans/差使">差使</a></span><span class="crefe"><a href="/hans/差事">差事</a></span><span class="crefe"><a href="/hans/差役">差役</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>差</strong> <span class="dicpy">ch&agrave;i</span></p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 病愈。后作&ldquo;瘥&rdquo; <span class="encs">[be recovered]</span></p>
+<p><span class="diczx1">后虽小差，犹尚殗殜，无所遣娱。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx3">又如:大病差后</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">chā;ch&agrave;;chāi;cī</span></p>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>差</strong> <span class="dicpy">cī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/cī.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 次第;等级 <span class="encs">[grade;rank]</span>。</p>
+<p><span class="diczx3">如:差序(等级);差等(等级;区别)</span></p>
+<p><span class="cino">(2)</span> 限度;界限 <span class="encs">[limit]</span></p>
+<p><span class="diczx1">轻用人力，缮修宫宇，出入无节，喜怒过差。&mdash;&mdash;<span class="smcs">《后汉书》</span></span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>差</strong> <span class="dicpy">cī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/cī.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p>分别等级;依次排列 <span class="encs">[grade]</span>。</p>
+<p><span class="diczx3">如:差次(分别等级次序);差降(按等第递降)</span></p>
+<p>◎ <strong>差</strong> <span class="dicpy">cī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/cī.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 参差不齐 <span class="encs">[uneven]</span>。</p>
+<p><span class="diczx3">如:差池(犹参差。不齐貌);差差(犹参差。不齐貌)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">chā;ch&agrave;;chāi</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/差互">差互</a></span><span class="crefe"><a href="/hans/差肩">差肩</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>差</rb></rbc><rtc><rt>ㄔㄚ</rt></rtc><rtc><rt>chā <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4655.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">缺失、錯誤。</span><span class="gc_lz">如：「誤差」、「出差錯」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">區別、不同。</span><span class="gc_yy">《荀子&middot;榮辱》：「故先王案為之制禮義以分之，使有貴賤之等，長幼之差，智愚能不能之分。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">數學上指兩數相減所得的數。</span><span class="gc_lz">如：「三減一的差是二。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">失誤、不當。</span><span class="gc_yy">《明史&middot;卷二五一&middot;徐光啟傳》：「臣聞曆久必差，宜及時修正。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">因比較而產生區別。</span><span class="gc_lz">如：「他們彼此的說法差異很大。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">尚、略、還。</span><span class="gc_lz">如：「差強人意」。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>差</rb></rbc><rtc><rt>ㄔㄞ</rt></rtc><rtc><rt>chāi <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4677.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">派遣。</span><span class="gc_yy">唐&middot;元稹〈和李校書新題樂府&middot;縛戎人〉：「邊頭大將差健卒，入抄禽生快於鶻。」</span><span class="gc_yy">《水滸傳&middot;第五五回》：「出師之日，我自差官來點視。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">選擇。</span><span class="gc_yy">《詩經&middot;小雅&middot;吉日》：「吉日庚午，既差我馬？」</span><span class="gc_yy">《文選&middot;宋玉&middot;高唐賦》：「王將欲往見，必先齋戒，差時擇日。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">受派遣去做事的人。</span><span class="gc_lz">如：「欽差」、「信差」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">被派遣去做的事。</span><span class="gc_lz">如：「公差」。</span><span class="gc_yy">《紅樓夢&middot;第六○回》：「寶玉房中的丫鬟差輕人多。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>差</rb></rbc><rtc><rt>ㄔㄚˋ</rt></rtc><rtc><rt>ch&agrave;</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">不好。</span><span class="gc_lz">如：「成績差」、「他的文章太差了。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">欠缺、短少。</span><span class="gc_lz">如：「差十分就八點鐘了。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">（一）​之語音。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>差</rb></rbc><rtc><rt>ㄘ</rt></rtc><rtc><rt>cī <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5422.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">不整齊、不齊一。</span><span class="gc_lz">如：「參差」、「差互」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">分別、區分。</span><span class="gc_yy">《荀子&middot;大略》：「列官職，差爵祿，非以尊大夫而已。」</span><span class="gc_yy">《元史&middot;卷七二&middot;呂思誠傳》：「差民戶為三等，均其徭役。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">等級。</span><span class="gc_yy">《孟子&middot;滕文公上》：「愛無差等，施由親始。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>差</rb></rbc><rtc><rt>ㄘㄨㄛ</rt></rtc><rtc><rt>cuō <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5505.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">搓磨、搓洗。</span><span class="gc_yy">《禮記&middot;喪大記》：「御者差沐于堂上。」</span><span class="gc_yy">漢&middot;鄭玄&middot;注：「差，淅也。」</span><span class="gc_yy">唐&middot;孔穎達&middot;正義：「差是差摩，故云淅。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>差</rb></rbc><rtc><rt>ㄔㄞˋ</rt></rtc><rtc><rt>ch&agrave;i</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">病癒。</span><span class="gc_yy">《後漢書&middot;卷八二&middot;方術傳&middot;華佗傳》：「操積苦頭風眩，佗針，隨手而差。」</span><span class="gc_yy">唐&middot;元稹〈蟆子詩&middot;序〉：「故齧人成瘡，秋夏不愈，膏楸葉而傅之，則差。」</span><span class="gc_yx">通「瘥」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5DEE_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集中" target="_blank">寅集中</a>】【<a href="/zd/kx/?zm=寅集中&amp;bs=工" target="_blank">工</a>】
+                              差·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集中" target="_blank">寅集中</a>】【<a href="/zd/kx/?zm=寅集中&amp;bs=工" target="_blank">工</a>】
+                              差·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：7</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5DEE.svg">						  <p>〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22029.svg'><span class='k_txt'>𢀩</span>【唐韻】【集韻】【韻會】初牙切【正韻】初加切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音杈。【說文】貳也，不相値也。【徐鍇曰】左于事，是不當値也。【廣韻】舛也。【韻會】差錯之義。【書&bull;呂<img class='lazy k_img' data-original='//img.zdic.net/song/cn/206EC.svg'><span class='k_txt'>𠛬</span>】察辭于差。【前漢&bull;東方朔傳】失之毫釐，差以千里。</p>
+<p>又【爾雅&bull;釋詁】擇也。【釋文】差音㐅。【詩&bull;小雅】旣差我馬。</p>
+<p>又【廣韻】楚宜切【集韻】【韻會】叉宜切【正韻】叉茲切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音縒。【廣韻】次也，不齊等也。【后漢荀爽傳】天子娶十二，諸侯以下各有等差。</p>
+<p>又【玉篇】參差，不齊也。【韻會】參差，亂絲貌。參相參爲參，兩相參爲差。【詩&bull;周南】參差荇菜。【風俗通】舜作簫韶九成，鳳凰來儀，其形參差，象鳳翼。</p>
+<p>又【韻會】參差，洞簫也。【楚辭&bull;九歌】吹參差兮誰思。</p>
+<p>又【韻會】差池，燕飛也。【詩&bull;邶風】燕燕于飛，差池其羽。</p>
+<p>又【唐韻】楚佳切。【集韻】【韻會】【正韻】初佳切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音釵。【韻會】差使也。【唐宣宗詔】凡役事委令輪差。</p>
+<p>又擇也。【廣韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/25CD1.svg'><span class='k_txt'>𥳑</span>也。【詩&bull;<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>風】穀旦于差。【釋文】差，鄭初佳反。王音嗟。徐七何反。</p>
+<p>又【廣韻】差殊，亦不齊。【禮&bull;王制】庶人在官者，其祿以是爲差。【釋文】差，初佳反。徐，初宜反。</p>
+<p>又僭差。【周禮&bull;春官&bull;大宗伯】以軍禮同邦國。【註】同謂威其不協僭差者。【釋文】差，初佳反。</p>
+<p>又【韻會】夫差，吳王名。</p>
+<p>又差分，算法。【周禮&bull;地官&bull;九數註】有差分，今有重差。</p>
+<p>又【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>倉何切，音磋。【集韻】淅也。【禮&bull;喪大記】御者差沐于堂上。【註】差，淅也。淅飯米取其潘爲沐也。</p>
+<p>又【韻補】差，過也。【屈原&bull;離騷】湯禹儼而祗敬兮，周論道而莫差。</p>
+<p>又【韻會】景差，楚人名。</p>
+<p>又【廣韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>楚懈切，釵去聲。【廣韻】病除也。【集韻】瘉也。【魏志&bull;張遼傳】疾小差。</p>
+<p>又【韻會】差，較也。【左傳&bull;宣十二年註】拔旗投衡使不帆，風差輕。【釋文】差，初賣反。</p>
+<p>又【集韻】楚嫁切，杈去聲。差異也。【韓愈&bull;瀧吏詩】颶風有時作，掀簸眞差事。</p>
+<p>又與磋通。【韻會】磋或作差。</p>
+<p>又【集韻】古與嗟通。註詳口部十畫。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5DEE_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=左">左</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=左">左</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5DEE.svg">                          <p>貳也。差不相值也。从左从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200B9.svg'><span class='k_txt'>𠂹</span>。初牙切〖注〗徐鍇曰：&ldquo;左於事，是不當值也。&rdquo;〔<img class='lazy k_img' data-original='//img.zdic.net/song/cn/21D24.svg'><span class='k_txt'>𡴤</span>下二〕，籒文差从二。楚佳切〖注〗<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22029.svg'><span class='k_txt'>𢀩</span>。文二　重一</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5DEE_1638.svg" /><span class="swbf">(差)</span><span class="ywyy"><img class='lazy k_img' data-original='//img.zdic.net/song/cn/27D2E.svg'><span class='k_txt'>𧴮</span>也。左不相值也。</span><span class="swdz"><img class='lazy k_img' data-original='//img.zdic.net/song/cn/27D2E.svg'><span class='k_txt'>𧴮</span>，各本作貳。左，各本作差。今正。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/27D2E.svg'><span class='k_txt'>𧴮</span>者，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2260B.svg'><span class='k_txt'>𢘋</span>之假借字。心部曰：<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2260B.svg'><span class='k_txt'>𢘋</span>，失當也。失當卽所謂不相值也。釋言曰：<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24564.svg'><span class='k_txt'>𤕤</span>，差也。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24564.svg'><span class='k_txt'>𤕤</span>，忒也。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2260B.svg'><span class='k_txt'>𢘋</span>與<img class='lazy k_img' data-original='//img.zdic.net/song/cn/225BC.svg'><span class='k_txt'>𢖼</span>葢本一字。尙書二衍忒，宋世家作貣。易四時不忒，京房作貣。管子全書皆以貣爲忒。貣與貳形易相誤。月令宿離不貸。釋文貸，他得切。徐音二。無有差貸。釋文貸，音二，又他得反。緇衣其儀不忒。釋文忒，他得反。又作貳，音二。漢費鳳碑貸與則德韵，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/21794.svg'><span class='k_txt'>𡞔</span>氏釋作貳。皆貣之誤爲貳者也。貳與貣忒音旣脂之迥别，義則貳訓副也。副貳之解，何得同於差<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2260B.svg'><span class='k_txt'>𢘋</span>乎。左氏傳其卜貳圉。杜注貳，代也。按外傳作以代圉，謂用世次當立之圉。左傳作貳圉，謂副貳之圉。坊記注引之。此則當各依文爲釋。杜注左云：貳，代也。似爲牽合。此云<img class='lazy k_img' data-original='//img.zdic.net/song/cn/27D2E.svg'><span class='k_txt'>𧴮</span>也者，用漢人常用字，故不作<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2260B.svg'><span class='k_txt'>𢘋</span>也。云左不相值也者，左之而不相當則<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22029.svg'><span class='k_txt'>𢀩</span>矣，今俗語所謂左也。故其字从左从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200B9.svg'><span class='k_txt'>𠂹</span>。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200B9.svg'><span class='k_txt'>𠂹</span>者，乖也。</span><span class="ywyy">从左<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200B9.svg'><span class='k_txt'>𠂹</span>。</span><span class="swdz">韵會作<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200B9.svg'><span class='k_txt'>𠂹</span>省聲。疑是傘省聲之誤。初牙切。十七部。在支韵則楚宜切。在佳、卦韵則楚佳、楚懈切。說文竹部曰篸差，木部曰槮差，糸部曰參縒。吉日左傳曰：差，擇也。其引伸之義也。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5DEE_1639.svg" /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22029.svg'><span class='k_txt'>𢀩</span>)</span><span class="ywyy">籒文<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22029.svg'><span class='k_txt'>𢀩</span>，从二。</span><span class="swdz">从二者，岐出乖異之意。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5DEE_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʰɑ˥˧; tʂʰɑ˥; tʂʰĄi˥; tsʰɿ˥ <span class="z_ts4">唐代读音</span>  *chriɛ<span class="z_ts4">日语读音</span>  SASU TAGAU TAGAI<span class="z_ts4">韩语罗马</span>  CHA CHI<span class="z_ts4">现代韩语</span>  차<span class="z_ts3">越南语</span>  sai</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] ca1 cai1 [陆丰腔] cai1 ca1 [客英字典] cai1 ca1 [东莞腔] ca1 cai1 [客语拼音字汇] ca1 ca4 cai1 ci1 qi1 [沙头角腔] cai1 [台湾四县腔] ca1 cai1 [海陆腔] ca1 cai1 [宝安腔] ca1 | cai1 | ci1 [梅县腔] ca1<span class="z_ts2">粤语</span>  caa1 caai1 ci1<span class="z_ts3">潮州话</span>  ca1(tsha),cê1(chhe),ci1(chhi)</p>						<p><span class="z_ts3">近代音</span>  穿母    支思韻    平聲陰    眵小空；穿母    皆來韻    平聲陰    釵小空；穿母    家麻韻    平聲陰    叉小空；<span class="z_ts3">中古音</span>  穿初母    支韻    平聲    差小韻    楚宜切    三等    開口；穿初母    佳韻    平聲    釵小韻    楚佳切    二等    開口；穿初母    皆韻    平聲    差小韻    楚皆切    二等    開口；穿初母    麻韻    平聲    叉小韻    初牙切    二等    開口；穿初母    卦韻    去聲    差小韻    楚懈切    二等    開口；<span class="z_ts3">上古音</span>  黄侃系统：清母    歌部   ；清母    歌部   ；清母    歌部   ；清母    歌部   ；王力系统：初母    歌部   ；初母    歌部   ；初母    歌部   ；初母    歌部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/差">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/差">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/差">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/差">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/差">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/差">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/差">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/差">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/差">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/差">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/差">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/差">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">差</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/差"><img data-original="//img.zdic.net/zy/jinwen/32_E271.svg" class="lazy ypic"><span>「差」 王子午鼎</span><span>春秋晚期</span><span>集成2811</span></a></td><td><a href="/zd/zx/cx/差"><img data-original="//img.zdic.net/zy/chuwenzi/52_E0FE.svg" class="lazy ypic"><span>「差」 曾120</span></a></td><td><a href="/zd/zx/xz/差"><img data-original="//img.zdic.net/zy/xiaozhuan/27_EC4D.svg" class="lazy ypic"><span>「差」 說文籀文</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/差" target="_blank"><img data-original="//img.zdic.net/kai/tw/5DEE.svg" class="lazy ypic"><span>「差」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/差"><img data-original="//img.zdic.net/zy/jinwen/32_E275.svg" class="lazy ypic"><span>「差」 攻敔王夫差劍</span><span>春秋晚期</span><span>集成11637</span></a></td><td><a href="/zd/zx/cx/差"><img data-original="//img.zdic.net/zy/chuwenzi/52_E0FD.svg" class="lazy ypic"><span>「差」 曾7</span></a></td><td><a href="/zd/zx/xz/差"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5DEE.svg" class="lazy ypic"><span>「差」 說文‧左部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/差"><img data-original="//img.zdic.net/zy/jinwen/32_E278.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/8_E218.svg" class="ykai">」 蔡侯紐鐘</span><span>春秋晚期</span><span>集成210</span></a></td><td><a href="/zd/zx/cx/差"><img data-original="//img.zdic.net/zy/chuwenzi/52_E0F3.svg" class="lazy ypic"><span>「差」 包2.51</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/差">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/差">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/差">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/差">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5DEE.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5DEE.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5DEE.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5DEE.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5DEE.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/荖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8356.svg'><span>荖</span></a></div> <div class='zx'><a href='/hans/𢀞' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2201E.svg'><span>𢀞</span></a></div> <div class='zx'><a href='/hans/𢀠' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22020.svg'><span>𢀠</span></a></div> <div class='zx'><a href='/hans/𢀩' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22029.svg'><span>𢀩</span></a></div> <div class='zx'><a href='/hans/嗟' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/55DF.svg'><span>嗟</span></a></div> <div class='zx'><a href='/hans/瘥' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7625.svg'><span>瘥</span></a></div> <div class='zx'><a href='/hans/蹉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8E49.svg'><span>蹉</span></a></div> <div class='zx'><a href='/hans/䁟' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/405F.svg'><span>䁟</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4079" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4506">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/汊">汊(cha4)</a></li><li><a href="/hans/㤞">㤞(cha4)</a></li><li><a href="/hans/㣾">㣾(cha4)</a></li><li><a href="/hans/岔">岔(cha4)</a></li><li><a href="/hans/姹">姹(cha4)</a></li><li><a href="/hans/紁">紁(cha4)</a></li><li><a href="/hans/㛳">㛳(cha4)</a></li><li><a href="/hans/䒲">䒲(cha4)</a></li><li><a href="/hans/䊬">䊬(cha4)</a></li><li><a href="/hans/奼">奼(cha4)</a></li><li><a href="/hans/䟕">䟕(cha4)</a></li><li><a href="/hans/刹">刹(cha4)</a></li><li><a href="/hans/揷">揷(cha1)</a></li><li><a href="/hans/艖">艖(cha1)</a></li><li><a href="/hans/扱">扱(cha1)</a></li><li><a href="/hans/馇">馇(cha1)</a></li><li><a href="/hans/鎈">鎈(cha1)</a></li><li><a href="/hans/叉">叉(cha1)</a></li><li><a href="/hans/碴">碴(cha1)</a></li><li><a href="/hans/偛">偛(cha1)</a></li><li><a href="/hans/喳">喳(cha1)</a></li><li><a href="/hans/餷">餷(cha1)</a></li><li><a href="/hans/插">插(cha1)</a></li><li><a href="/hans/嚓">嚓(cha1)</a></li><li><a href="/hans/肞">肞(chai1)</a></li><li><a href="/hans/釵">釵(chai1)</a></li><li><a href="/hans/㼮">㼮(chai1)</a></li><li><a href="/hans/芆">芆(chai1)</a></li><li><a href="/hans/钗">钗(chai1)</a></li><li><a href="/hans/拆">拆(chai1)</a></li><li><a href="/hans/呲">呲(ci1)</a></li><li><a href="/hans/刺">刺(ci1)</a></li><li><a href="/hans/蠀">蠀(ci1)</a></li><li><a href="/hans/髊">髊(ci1)</a></li><li><a href="/hans/呰">呰(ci1)</a></li><li><a href="/hans/骴">骴(ci1)</a></li><li><a href="/hans/齹">齹(ci1)</a></li><li><a href="/hans/疵">疵(ci1)</a></li><li><a href="/hans/偨">偨(ci1)</a></li><li><a href="/hans/玼">玼(ci1)</a></li><li><a href="/hans/縒">縒(ci1)</a></li><li><a href="/hans/跐">跐(ci1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㠭">㠭</a></li><li><a href="/hans/㠬">㠬</a></li><li><a href="/hans/巧">巧</a></li><li><a href="/hans/巬">巬</a></li><li><a href="/hans/巩">巩</a></li><li><a href="/hans/㠫">㠫</a></li><li><a href="/hans/巨">巨</a></li><li><a href="/hans/巫">巫</a></li><li><a href="/hans/巭">巭</a></li><li><a href="/hans/巯">巯</a></li><li><a href="/hans/㠮">㠮</a></li><li><a href="/hans/㠪">㠪</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/娄">娄</a></li><li><a href="/hans/㘼">㘼</a></li><li><a href="/hans/洞">洞</a></li><li><a href="/hans/祐">祐</a></li><li><a href="/hans/括">括</a></li><li><a href="/hans/尮">尮</a></li><li><a href="/hans/𠁮">𠁮</a></li><li><a href="/hans/䥻">䥻</a></li><li><a href="/hans/总">总</a></li><li><a href="/hans/茡">茡</a></li><li><a href="/hans/䢕">䢕</a></li><li><a href="/hans/甮">甮</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">兄子胡儿曰：“撒盐空中<span>差</span>可拟。”</div><div class="gscdr">南北朝·刘义庆   世说新语《咏雪》</div><div class="gscdl">青树翠蔓，蒙络摇缀，参<span>差</span>披拂。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div><div class="gscdl">其岸势犬牙<span>差</span>互，不可知其源。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div><div class="gscdl">参<span>差</span>荇菜，左右流之。</div><div class="gscdr">先秦·无名氏  诗经《关雎》</div><div class="gscdl">参<span>差</span>荇菜，左右采之。</div><div class="gscdr">先秦·无名氏  诗经《关雎》</div><div class="gscdl">参<span>差</span>荇菜，左右芼之。</div><div class="gscdr">先秦·无名氏  诗经《关雎》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4079"></script>
+</body>
+</html>

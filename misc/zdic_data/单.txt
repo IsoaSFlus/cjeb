@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>单的解释|单的意思|汉典“单”字的基本解释</title>
+<meta name="title" content="单的解释|单的意思|汉典“单”字的基本解释">
+<meta name="keywords" content="|⿱丷⿻甲一|" /><meta property="og:title" content="“单”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“单”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“单”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/单" />
+<link rel="canonical" href="//www.zdic.net/hans/单" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/单" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/单" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/单" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/单">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/单">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5355.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5355.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">dān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span></span></p><p><span class="z_d song">shàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shàn.mp3"></a></span></span></p><p><span class="z_d song">chán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chán.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄢ.mp3"></a></span></span></p><p><span class="z_d song">ㄕㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄢˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄔㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄢˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=十" target="_blank">  十</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/單' target=_blank>單</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/單' target=_blank>單</a> <a href='/hans/単' target=_blank>単</a> <a href='/hans/𠦤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/209A4.svg'><span class='ytz_txt'>𠦤</span> <a href='/hans/𠫹' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AF9.svg'><span class='ytz_txt'>𠫹</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5355</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>43251112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ujfj</p></td>                            <td class="dsk_2_1"><p>cwj</p></td>                            <td class="dsk_2_1"><p>udke</p></td>                            <td class="dsk_2_1"><p>80506</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">dān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span></span> <span class="z_d song">shàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shàn.mp3"></a></span></span> <span class="z_d song">chán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/chán.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄢ.mp3"></a></span></span> <span class="z_d song">ㄕㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄢˋ.mp3"></a></span></span> <span class="z_d song">ㄔㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“单”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄢˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=十" target="_blank">十</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">基本区</span> 5355<span class="z_ts2">笔顺</span> 43251112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5355_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1366" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">单</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>单</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">單</span>）</strong></p>
+<p><span class="dicpy">dān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span> ㄉㄢˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>不复杂：～纯。简～。～调（<span class="dicpy">di&agrave;o</span>）。</li>
+	<li>独一：～独。～一。～词。</li>
+	<li>只，仅：做事～靠热情不够。</li>
+	<li>奇（jī）数的：～日。～号。</li>
+	<li>薄，弱：～薄。</li>
+	<li>衣服被褥只有一层的：～裤。～衣。</li>
+	<li>覆盖用的布：被～。床～。</li>
+	<li>记载事物用的纸片：～据。传～。名～。</li>
+	<li>和尚称禅堂的坐床。</li>
+</ol>
+<p>● <strong>单</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">單</span>）</strong></p>
+<p><span class="dicpy">sh&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&agrave;n.mp3"></a></span> ㄕㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>姓。</li>
+</ol>
+<p>● <strong>单</strong></p>
+<p><strong>（<span class="diczx3">單</span>）</strong></p>
+<p><span class="dicpy">ch&aacute;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;n.mp3"></a></span> ㄔㄢˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>〔～于〕中国古代匈奴君主的称号。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> single, individual, only; lone</p><p><span class="z_ts2">德语</span> allein ,einzeln ,Formular  (S)​,Schan: Familienname  (S, Fam)​,Häuptling  (S)​,Schan: Titel eines Hunnenhäuptlings</p><p><span class="z_ts2">法语</span> liste,formulaire,seul,unique,impair (nombre)​,drap,(nom de famille)​,chef</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">单</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>单</strong></p>
+<p>單 <span class="dicpy">dān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (本义:大)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[great]</span></p>
+<p><span class="diczx1">單，大也。&mdash;&mdash;<span class="smcs">《说文》</span>。</span><span class="diczx2">段</span>注:&ldquo;当为大言也，浅人删言字。如誣加言也，浅人亦删言字。&rdquo;</p>
+<p><span class="diczx1">明清于单辞。&mdash;&mdash;<span class="smcs">《书&middot;吕刑》</span>。按，夸诞之辞。</span></p>
+<p><span class="diczx1">夏禹能单平水土。&mdash;&mdash;<span class="smcs">《国语&middot;郑语》</span></span></p>
+<p><span class="diczx1">王之威亦单矣。&mdash;&mdash;<span class="smcs">《史记&middot;春申君传》</span></span></p>
+<p><span class="diczx1">单埢垣兮。&mdash;&mdash;</span><span class="diczx2">扬雄</span><span class="smcs">《甘泉赋》</span>。注:&ldquo;大貌。&rdquo;</p>
+<p><span class="cino">(3)</span> 单独 <span class="encs">[single]</span></p>
+<p><span class="diczx1">单足以喻则单。&mdash;&mdash;<span class="smcs">《荀子&middot;正名》</span>。注:单，物之单名也。&rdquo;</span></p>
+<p><span class="diczx3">又如:单幅门(独扇的门);单跪(弯屈一膝，行半跪之礼。也叫&ldquo;打千&rdquo;);单绪(只有一个儿子传宗接代。即单传)</span></p>
+<p><span class="cino">(4)</span> 一个 <span class="encs">[one]</span></p>
+<p><span class="diczx1">单，一也。&mdash;&mdash;<span class="smcs">《汉书&middot;枚乘传》</span>注</span></p>
+<p><span class="diczx1">今单车来代之。&mdash;&mdash;<span class="smcs">《史记&middot;魏公子列传》</span></span></p>
+<p><span class="diczx3">又如:单介(一人;一个);单味(一味菜肴);单民(只身);单幅(单条;条幅)</span></p>
+<p><span class="cino">(5)</span> 孤独;孤立 <span class="encs">[solitary;isolated]</span></p>
+<p><span class="diczx1">令母在后单。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:孤单(单身无靠;感到寂寞);单孑(只身;个人);单己(只身;个人);单老(孤独无依的老人);单然(孤单的样子);单雄(孤单的雄鸟)</span></p>
+<p><span class="cino">(6)</span> 衣物等单层 <span class="encs">[unlined]</span></p>
+<p><span class="diczx1">庶人单衣。&mdash;&mdash;<span class="smcs">《礼记&middot;儒行》</span>注</span></p>
+<p><span class="diczx1">晚成单罗衫。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:单绞(苍黄色的单衣);单账(单层的账子);单席(一重坐席)</span></p>
+<p><span class="cino">(7)</span> 衣物单薄 <span class="encs">[thin]</span></p>
+<p><span class="diczx1">可怜身上衣正单，心忧炭贱愿天寒。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《卖炭翁》</span></p>
+<p><span class="diczx3">又如:单复(单薄的衣服和厚重的衣服);单虚(单薄空虚);单衾(薄被);单轻(单薄)</span></p>
+<p><span class="cino">(8)</span> 衰弱 <span class="encs">[weak]</span>。</p>
+<p><span class="diczx3">如:单慧(小有才慧);单寒(身体瘦弱;因衣单而受寒);势单力薄</span></p>
+<p><span class="cino">(9)</span> 简单;单纯 <span class="encs">[simple]</span>。</p>
+<p><span class="diczx3">如:单陋(简陋);单议(简单的议论);单调</span></p>
+<p><span class="cino">(10)</span> 奇数<span class="encs">[odd]</span>。</p>
+<p><span class="diczx3">如:单日;单只袜子;单号;单牌(标志五里数的路牌)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>单</strong></p>
+<p>單 <span class="dicpy">dān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 记事纸条 <span class="encs">[bill]</span>。</p>
+<p><span class="diczx3">如:菜单;清单</span></p>
+<p><span class="cino">(2)</span> 名册 <span class="encs">[list]</span>。</p>
+<p><span class="diczx3">如:名单</span></p>
+<p><span class="cino">(3)</span> 一大块布，通常是长方形或椭圆形的棉布或麻布，作为床上用品使用 <span class="encs">[sheet]</span>。</p>
+<p><span class="diczx3">如:床单</span></p>
+<p><span class="cino">(4)</span> 打横格的、上面记载关于某项交易的记录、保证或指示的条子、散页或卡片<span class="encs">[ticket]</span>。</p>
+<p><span class="diczx3">如:某种设备的保修单</span></p>
+<p>◎ <strong>单</strong></p>
+<p>單 <span class="dicpy">dān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p>仅，仅仅 <span class="encs">[only]</span>。</p>
+<p><span class="diczx3">如:单则(只;而);不单</span></p>
+<p>◎ <strong>单</strong></p>
+<p>單 <span class="dicpy">dān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/dān.mp3"></a></span> </p>
+<p>&lt;连&gt;</p>
+<p><span class="cino">(1)</span> 放在两个数量中间，表示较大的量下附有较小的量，用同&ldquo;零&rdquo; <span class="encs">[and]</span>。</p>
+<p><span class="diczx3">如:一百单八将;二百单九年</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">ch&aacute;n;sh&agrave;n</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/单摆">单摆</a></span><span class="crefe"><a href="/hans/单帮">单帮</a></span><span class="crefe"><a href="/hans/单比">单比</a></span><span class="crefe"><a href="/hans/单比例">单比例</a></span><span class="crefe"><a href="/hans/单兵">单兵</a></span><span class="crefe"><a href="/hans/单薄">单薄</a></span><span class="crefe"><a href="/hans/单产">单产</a></span><span class="crefe"><a href="/hans/单车">单车</a></span><span class="crefe"><a href="/hans/单称判断">单称判断</a></span><span class="crefe"><a href="/hans/单程">单程</a></span><span class="crefe"><a href="/hans/单传">单传</a></span><span class="crefe"><a href="/hans/单纯">单纯</a></span><span class="crefe"><a href="/hans/单纯词">单纯词</a></span><span class="crefe"><a href="/hans/单词">单词</a></span><span class="crefe"><a href="/hans/单打">单打</a></span><span class="crefe"><a href="/hans/单打一">单打一</a></span><span class="crefe"><a href="/hans/单单">单单</a></span><span class="crefe"><a href="/hans/单刀">单刀</a></span><span class="crefe"><a href="/hans/单刀直入">单刀直入</a></span><span class="crefe"><a href="/hans/单丁">单丁</a></span><span class="crefe"><a href="/hans/单调">单调</a></span><span class="crefe"><a href="/hans/单独">单独</a></span><span class="crefe"><a href="/hans/单发">单发</a></span><span class="crefe"><a href="/hans/单方">单方</a></span><span class="crefe"><a href="/hans/单方面">单方面</a></span><span class="crefe"><a href="/hans/单干">单干</a></span><span class="crefe"><a href="/hans/单干户">单干户</a></span><span class="crefe"><a href="/hans/单杠">单杠</a></span><span class="crefe"><a href="/hans/单个儿">单个儿</a></span><span class="crefe"><a href="/hans/单挂号">单挂号</a></span><span class="crefe"><a href="/hans/单轨">单轨</a></span><span class="crefe"><a href="/hans/单寒">单寒</a></span><span class="crefe"><a href="/hans/单簧管">单簧管</a></span><span class="crefe"><a href="/hans/单机">单机</a></span><span class="crefe"><a href="/hans/单机">单机</a></span><span class="crefe"><a href="/hans/单季稻">单季稻</a></span><span class="crefe"><a href="/hans/单价">单价</a></span><span class="crefe"><a href="/hans/单缣">单缣</a></span><span class="crefe"><a href="/hans/单间儿">单间儿</a></span><span class="crefe"><a href="/hans/单晶硅">单晶硅</a></span><span class="crefe"><a href="/hans/单居">单居</a></span><span class="crefe"><a href="/hans/单句">单句</a></span><span class="crefe"><a href="/hans/单据">单据</a></span><span class="crefe"><a href="/hans/单口">单口</a></span><span class="crefe"><a href="/hans/单口相声">单口相声</a></span><span class="crefe"><a href="/hans/单恋">单恋</a></span><span class="crefe"><a href="/hans/单列">单列</a></span><span class="crefe"><a href="/hans/单门独户">单门独户</a></span><span class="crefe"><a href="/hans/单篇">单篇</a></span><span class="crefe"><a href="/hans/单枪匹马">单枪匹马</a></span><span class="crefe"><a href="/hans/单人独马">单人独马</a></span><span class="crefe"><a href="/hans/单人舞">单人舞</a></span><span class="crefe"><a href="/hans/单人锣鼓">单人锣鼓</a></span><span class="crefe"><a href="/hans/单弱">单弱</a></span><span class="crefe"><a href="/hans/单衫，单衫儿">单衫，单衫儿</a></span><span class="crefe"><a href="/hans/单身">单身</a></span><span class="crefe"><a href="/hans/单身汉">单身汉</a></span><span class="crefe"><a href="/hans/单数">单数</a></span><span class="crefe"><a href="/hans/单糖">单糖</a></span><span class="crefe"><a href="/hans/单位">单位</a></span><span class="crefe"><a href="/hans/单弦儿">单弦儿</a></span><span class="crefe"><a href="/hans/单线">单线</a></span><span class="crefe"><a href="/hans/单相思">单相思</a></span><span class="crefe"><a href="/hans/单向">单向</a></span><span class="crefe"><a href="/hans/单行">单行</a></span><span class="crefe"><a href="/hans/单行本">单行本</a></span><span class="crefe"><a href="/hans/单行线">单行线</a></span><span class="crefe"><a href="/hans/单姓">单姓</a></span><span class="crefe"><a href="/hans/单眼皮">单眼皮</a></span><span class="crefe"><a href="/hans/单衣">单衣</a></span><span class="crefe"><a href="/hans/单一">单一</a></span><span class="crefe"><a href="/hans/单音词">单音词</a></span><span class="crefe"><a href="/hans/单元">单元</a></span><span class="crefe"><a href="/hans/单韵母">单韵母</a></span><span class="crefe"><a href="/hans/单只">单只</a></span><span class="crefe"><a href="/hans/单字">单字</a></span><span class="crefe"><a href="/hans/单子">单子</a></span><span class="crefe"><a href="/hans/单作">单作</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>单</strong></p>
+<p><span class="cino">(1)</span> 單 <span class="dicpy">ch&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;n.mp3"></a></span> </p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">dān;sh&agrave;n</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/单于">单于</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>单</strong></p>
+<p>單 <span class="dicpy">Sh&agrave;n</span></p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 地名。单县 <span class="encs">[Shan county]</span>，在山东省西南部</p>
+<p><span class="cino">(2)</span> 姓(春秋有单豹)</p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">ch&aacute;n;dān</span></p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5355_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              單·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：9</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">單</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“单”字头，请参考“<a href="/hans/單">單</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              單·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：9</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/55AE.svg">						  <p>【唐韻】都寒切【集韻】【韻會】多寒切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音丹。【說文】大也。</p>
+<p>又【書&middot;洛誥】乃單文祖德。【傳】單，盡也。【詩&middot;小雅】俾爾單厚。【箋】單，盡也。【禮&middot;郊特牲】惟爲社事單出里。【鄭語】夏禹能單平水土。【晉語】單善而內辱之。</p>
+<p>又【揚雄&middot;甘泉賦】單埢垣兮。【註】單，周也。</p>
+<p>又縣名。【前漢&middot;地理志】牂牁郡母單縣。</p>
+<p>又【廣韻】單複也。【正字通】單者，複之對也。【杜甫詩】歲暮衣裳單。</p>
+<p>又【玉篇】一也，隻也。【詩&middot;大雅】其軍三單。【箋】大國之制，三軍以其餘卒爲羨，單者無羨卒也。【禮&middot;禮器】鬼神之祭單席。【史記&middot;信陵君傳】今單車來代之。【後漢&middot;耿恭傳】以單兵固守孤城。</p>
+<p>又【高彪傳】家傳單寒。</p>
+<p>又姓。【廣韻】可單氏，後攺爲單氏。</p>
+<p>又【集韻】唐干切，音壇。亦姓也。鄭有櫟邑大夫單伯。通作檀。</p>
+<p>又【廣韻】市連切【集韻】【韻會】時連切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音蟬。【廣韻】單于。【前漢&middot;匈奴傳】單于者，廣大之貌也。言其象天，單于然也。</p>
+<p>又【爾雅&middot;釋天】太歲在卯曰單閼。【釋文】單音蟬，又音丹，或音善。</p>
+<p>又【廣韻】【韻會】常演切【集韻】【正韻】上演切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音善。【玉篇】大也。</p>
+<p>又縣名。【前漢&middot;地理志】山陽郡單父縣。【註】師古曰：音善甫。</p>
+<p>又姓。【廣韻】單襄公之後。【史記&middot;儒林傳】桓生單次。【註】單音善，單姓，次名。</p>
+<p>又人名。【書序】咎單作明居。【傳】咎單，臣名，主土地之官。【註】單音善。</p>
+<p>又【集韻】齒善切，音闡。與嘽同。詳後嘽字註。</p>
+<p>又【集韻】黨旱切【正韻】多簡切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音狚。【集韻】本作亶，多穀也。一曰誠也，厚也。【書&middot;洛誥】乃單文祖德。【釋文】單音丹，又丁但反，信也。【詩&middot;小雅】俾爾單厚。【傳】單，信也，或曰厚也。【釋文】單，毛音都但反，鄭音丹。</p>
+<p>又【周頌】單厥心。【傳】單，厚也。【釋文】都但反。</p>
+<p>又通亶。【史記&middot;歷書】端蒙單閼二年。【註】單閼，一作亶安。</p>
+<p>又【集韻】徒案切，音憚。與<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22838.svg"><span class="k_txt">𢠸</span>同，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22838.svg"><span class="k_txt">𢠸</span>狐，邑名。</p>
+<p>又【集韻】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>之膳切，音戰。單至，輕發之貌。</p>
+<p>又【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>時戰切，音繕。單父，邑名。　亦姓。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5355_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=吅">吅</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">單</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“单”字头，请参考“<a href="/hans/單">單</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=吅">吅</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/55AE.svg">                          <p>大也。从吅<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20986.svg"><span class="k_txt">𠦆</span>，吅亦聲。闕。都寒切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/55AE_864.svg" /><span class="swbf">(單)</span><span class="ywyy">大也。</span><span class="swdz">當爲大言也，淺人刪言字。如誣加言也，淺人亦刪言字。爾雅、廣雅說大皆無單。引伸爲雙之反對。大雅：其軍三單。毛云：三單，相襲也。鄭云：丁夫適滿三軍之數，無羨卒也。</span><span class="ywyy">从吅<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20986.svg"><span class="k_txt">𠦆</span>。</span><span class="swdz">大言故从吅。</span><span class="ywyy">吅亦聲。</span><span class="swdz">都寒切。十四部。</span><span class="ywyy">闕。</span><span class="swdz">當云<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20986.svg"><span class="k_txt">𠦆</span>闕。謂<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20986.svg"><span class="k_txt">𠦆</span>形未聞也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5355_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">单</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tĄn˥; ʂĄn˥˧; tʂʰĄn˧˥ <span class="z_ts4">日语读音</span>  HITOE<span class="z_ts4">韩语罗马</span>  TAN SEN</p>						<p><span class="z_ts2">粤语</span>  daan1<span class="z_ts3">潮州话</span>  duan1(tuaⁿ)； siang6(siăng) [潮州]siêng6(siĕng)；siang5(siâng) [潮州]siêng5(siêng) </p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/单">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/单">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/单">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/单">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/单">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/单">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/单">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/单">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/单">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/单">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/单">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/单">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">单</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「單」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/单"><img data-original="//img.zdic.net/zy/jiaguwen/41_E711.svg" class="lazy ypic"><span>「單」 乙4680反</span><span>合10615反</span></a></td><td><a href="/zd/zx/jw/单"><img data-original="//img.zdic.net/zy/jinwen/31_E6A5.svg" class="lazy ypic"><span>「單」 小臣單觶</span><span>西周早期</span><span>集成6512</span></a></td><td><a href="/zd/zx/cx/单"><img data-original="//img.zdic.net/zy/chuwenzi/55_E7AE.svg" class="lazy ypic"><span>「單」 郭.六.16</span></a></td><td><a href="/zd/zx/xz/单"><img data-original="//img.zdic.net/zy/xiaozhuan/27_55AE.svg" class="lazy ypic"><span>「單」 說文‧吅部</span></a></td><td style="display:none"></td><td><a href="/hans/單" target="_blank"><img data-original="//img.zdic.net/kai/tw/55AE.svg" class="lazy ypic"><span>「單」</span></a> </td><td><a href="/hans/单" target="_blank"><img data-original="//img.zdic.net/kai/tw/5355.svg" class="lazy ypic"><span>「单」</span></a></td><td style="display:none"><a href="/hans/单" target="_blank"><img data-original="//img.zdic.net/kai/tw/5355.svg" class="lazy ypic"><span>「单」</span></a></td></tr><tr><td><a href="/zd/zx/jg/单"><img data-original="//img.zdic.net/zy/jiaguwen/41_E70F.svg" class="lazy ypic"><span>「單」 乙1049</span><span>合21729</span></a></td><td><a href="/zd/zx/jw/单"><img data-original="//img.zdic.net/zy/jinwen/31_E6AE.svg" class="lazy ypic"><span>「單」 蔡侯匜</span><span>西周晚期</span><span>集成10195</span></a></td><td><a href="/zd/zx/cx/单"><img data-original="//img.zdic.net/zy/chuwenzi/55_E7AF.svg" class="lazy ypic"><span>「單」 郭.成.22</span></a></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td><a href="/zd/zx/jg/单"><img data-original="//img.zdic.net/zy/jiaguwen/41_E712.svg" class="lazy ypic"><span>「單」 前7.26.4</span></a></td><td><a href="/zd/zx/jw/单"><img data-original="//img.zdic.net/zy/jinwen/31_E6A7.svg" class="lazy ypic"><span>「單」 單伯豕父鬲</span><span>春秋早期</span><span>集成737</span></a></td><td></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/单">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/单">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/单">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/单">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/单">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/单">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5355.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5355.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5355.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/單' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/55AE.svg'><span>單</span></a></div> <div class='zx'><a href='/hans/単' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5358.svg'><span>単</span></a></div> <div class='zx'><a href='/hans/𠦤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/209A4.svg'><span>𠦤</span></a></div> <div class='zx'><a href='/hans/𠫹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AF9.svg'><span>𠫹</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1366" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4715">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/耽">耽(dan1)</a></li><li><a href="/hans/耼">耼(dan1)</a></li><li><a href="/hans/單">單(dan1)</a></li><li><a href="/hans/簞">簞(dan1)</a></li><li><a href="/hans/郸">郸(dan1)</a></li><li><a href="/hans/鄲">鄲(dan1)</a></li><li><a href="/hans/匰">匰(dan1)</a></li><li><a href="/hans/褝">褝(dan1)</a></li><li><a href="/hans/甔">甔(dan1)</a></li><li><a href="/hans/躭">躭(dan1)</a></li><li><a href="/hans/丹">丹(dan1)</a></li><li><a href="/hans/襌">襌(dan1)</a></li><li><a href="/hans/钐">钐(shan4)</a></li><li><a href="/hans/善">善(shan4)</a></li><li><a href="/hans/灗">灗(shan4)</a></li><li><a href="/hans/椫">椫(shan4)</a></li><li><a href="/hans/掞">掞(shan4)</a></li><li><a href="/hans/鱔">鱔(shan4)</a></li><li><a href="/hans/嶦">嶦(shan4)</a></li><li><a href="/hans/㪨">㪨(shan4)</a></li><li><a href="/hans/苫">苫(shan4)</a></li><li><a href="/hans/繕">繕(shan4)</a></li><li><a href="/hans/缮">缮(shan4)</a></li><li><a href="/hans/䠾">䠾(shan4)</a></li><li><a href="/hans/潺">潺(chan2)</a></li><li><a href="/hans/嚵">嚵(chan2)</a></li><li><a href="/hans/嬋">嬋(chan2)</a></li><li><a href="/hans/鑱">鑱(chan2)</a></li><li><a href="/hans/㢆">㢆(chan2)</a></li><li><a href="/hans/谗">谗(chan2)</a></li><li><a href="/hans/誗">誗(chan2)</a></li><li><a href="/hans/䣑">䣑(chan2)</a></li><li><a href="/hans/纒">纒(chan2)</a></li><li><a href="/hans/毚">毚(chan2)</a></li><li><a href="/hans/巉">巉(chan2)</a></li><li><a href="/hans/繟">繟(chan2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/博">博</a></li><li><a href="/hans/午">午</a></li><li><a href="/hans/卅">卅</a></li><li><a href="/hans/卍">卍</a></li><li><a href="/hans/協">協</a></li><li><a href="/hans/卑">卑</a></li><li><a href="/hans/卖">卖</a></li><li><a href="/hans/卙">卙</a></li><li><a href="/hans/克">克</a></li><li><a href="/hans/卆">卆</a></li><li><a href="/hans/卄">卄</a></li><li><a href="/hans/卒">卒</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㺲">㺲</a></li><li><a href="/hans/盳">盳</a></li><li><a href="/hans/牀">牀</a></li><li><a href="/hans/殀">殀</a></li><li><a href="/hans/𠈈">𠈈</a></li><li><a href="/hans/㪴">㪴</a></li><li><a href="/hans/怙">怙</a></li><li><a href="/hans/拑">拑</a></li><li><a href="/hans/刷">刷</a></li><li><a href="/hans/𠈞">𠈞</a></li><li><a href="/hans/䆒">䆒</a></li><li><a href="/hans/郘">郘</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>单</span>车欲问边，属国过居延。</div><div class="gscdr">唐·王维 《使至塞上》</div><div class="gscdl">可怜身上衣正<span>单</span>，心忧炭贱愿天寒。</div><div class="gscdr">唐·白居易 《卖炭翁》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=1366"></script>
+</body>
+</html>

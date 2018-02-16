@@ -1,0 +1,552 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>源的解释|源的意思|汉典“源”字的基本解释</title>
+<meta name="title" content="源的解释|源的意思|汉典“源”字的基本解释">
+<meta name="keywords" content="左：氵，右：原。  " /><meta property="og:title" content="“源”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“源”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“源”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/源" />
+<link rel="canonical" href="//www.zdic.net/hans/源" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/源" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/源" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/源" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/源">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/源">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6E90.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6E90.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yuán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“源”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yuán.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄩㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“源”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩㄢˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=氵" target="_blank">  氵</a></p>
+                              <p><span class="z_ts2">部外</span>  10</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/厵' target=_blank>厵</a> <a href='/hans/𠫐' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AD0.svg'><span class='ytz_txt'>𠫐</span> <a href='/hans/𠫒' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AD2.svg'><span class='ytz_txt'>𠫒</span> <a href='/hans/𡇋' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/211CB.svg'><span class='ytz_txt'>𡇋</span> <a href='/hans/𨻣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28EE3.svg'><span class='ytz_txt'>𨻣</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6E90</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>4411332511234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>idri</p></td>                            <td class="dsk_2_1"><p>emhf</p></td>                            <td class="dsk_2_1"><p>vgnk</p></td>                            <td class="dsk_2_1"><p>31196</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yuán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“源”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yuán.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄩㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“源”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩㄢˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=氵" target="_blank">氵</a> <span class="z_ts2">部外</span> 10<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">基本区</span> 6E90<span class="z_ts2">笔顺</span> 4411332511234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6E90_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=8337" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">源</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>源</strong></p>
+<p><span class="dicpy">yu&aacute;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yu&aacute;n.mp3"></a></span>  ㄩㄢˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>水流所从出的地方：河～。泉～。发～。～远流长。～头。</li>
+	<li>事物的根由：来～。资～。渊～。能～。起～。策～地。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> spring; source, head; surname</p><p><span class="z_ts2">德语</span> Quelle, Ursprung eines Flusses  (S, Geol)​,Ursprung, Ursache, Grund, Quelle  (S)​,Yuan  (Eig, Fam)​,Ursprung</p><p><span class="z_ts2">法语</span> source</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">源</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>源</strong> <span class="dicpy">yu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yu&aacute;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从水，原声。&ldquo;原&rdquo;有表义作用，指水源。本义:水源，源泉。字本作&ldquo;原&rdquo;)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[fountain head;source of a river]</span></p>
+<p><span class="diczx1">或源也，或委也。&mdash;&mdash;<span class="smcs">《礼记&middot;学记》</span></span></p>
+<p><span class="diczx1">祈祀山川百源。&mdash;&mdash;<span class="smcs">《礼记&middot;月令》</span></span></p>
+<p><span class="diczx1">犹浊其源而求其清流。&mdash;&mdash;<span class="smcs">《礼记&middot;礼乐志》</span></span></p>
+<p><span class="diczx1">岸势犬牙差互，不可知其源。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《至小丘西小石潭记》</span></p>
+<p><span class="diczx3">又如:源委(指水的发源和归宿。引申为事情的本末和底细);源理(水的本源和支流)</span></p>
+<p><span class="cino">(3)</span> 来源;根源 <span class="encs">[origin;source;cause]</span></p>
+<p><span class="diczx1">启生人之耳目，穷法度之本源。&mdash;&mdash;<span class="smcs">《旧唐书&middot;儒学传序》</span></span></p>
+<p><span class="diczx3">又如:源本(根本);源由(根由);源起(事物发生的根源)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/源地">源地</a></span><span class="crefe"><a href="/hans/源流">源流</a></span><span class="crefe"><a href="/hans/源泉">源泉</a></span><span class="crefe"><a href="/hans/源头">源头</a></span><span class="crefe"><a href="/hans/源委">源委</a></span><span class="crefe"><a href="/hans/源源">源源</a></span><span class="crefe"><a href="/hans/源远流长">源远流长</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">源</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>源</rb></rbc><rtc><rt>ㄩㄢˊ</rt></rtc><rtc><rt>yu&aacute;n <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6552.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">水流的出處。</span><span class="gc_lz">如：「水源」、「泉源」、「飲水思源」。</span><span class="gc_yy">《國語&middot;晉語一》：「伐木不自其本，必復生；塞水不自其源，必復流。」</span><span class="gc_yy">唐&middot;李嶠〈河〉詩：「源出崑崙中，長波接漢空。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">根本、由來。</span><span class="gc_yy">《韓非子&middot;主道》：「是以明君守始以知萬物之源，治紀以知善敗之端。」</span><span class="gc_yy">《文選&middot;班固&middot;東都賦》：「嗜欲之源滅，廉恥之心生。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如唐代有源乾曜。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6E90_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=巳集上" target="_blank">巳集上</a>】【<a href="/zd/kx/?zm=巳集上&amp;bs=水" target="_blank">水</a>】
+                              源·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：10</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">源</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=巳集上" target="_blank">巳集上</a>】【<a href="/zd/kx/?zm=巳集上&amp;bs=水" target="_blank">水</a>】
+                              源·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：10</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6E90.svg">						  <p>【廣韻】【集韻】【韻會】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>愚袁切，音元。【說文】水泉本也。【禮&middot;月令】爲民祈祀山川百源。【註】衆水始出爲百源。</p>
+<p>又水名。【水經注】沁水東與丹水合，水出上黨高都縣故城東北阜下，俗謂之源源水。</p>
+<p>又姓。【北魏書&middot;源賀傳】禿髮傉檀之子賀入後魏，魏大武謂之曰：與卿同源，可爲源氏。　【韻會】本作厵，篆省作原。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6E90_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=灥">灥</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">𠫐</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“源”字头，请参考“<a href="/hans/𠫐"><img class='lazy k_img' data-original='//img.zdic.net/song/cn/20AD0.svg'><span class='k_txt'>𠫐</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=灥">灥</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/20AD0.svg">                          <p>水泉夲也。从灥出厂下。</p>
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/swxz/20AD0_1.svg" />原，篆文从泉。愚袁切〖注〗臣鉉等曰：今別作源，非是。文二　重一</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/20AD0_9237.svg" /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20AD0.svg'><span class='k_txt'>𠫐</span>)</span><span class="ywyy">水本也。</span><span class="swdz">各本作水泉本也，今<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20702.svg'><span class='k_txt'>𠜂</span>正。月令百源注曰：衆水始所出爲百源。單<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2799D.svg'><span class='k_txt'>𧦝</span>曰原。絫<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2799D.svg'><span class='k_txt'>𧦝</span>曰原泉，孟子原泉混混是也。</span><span class="ywyy">从灥出厂下。</span><span class="swdz">厂者，山石之厓巖。會意。愚袁切。十四部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/20AD0_9238.svg" /><span class="swbf">(厡)</span><span class="ywyy">篆文从泉。</span><span class="swdz">此亦先二後上之例。以小篆作厡，知<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20AD0.svg'><span class='k_txt'>𠫐</span>乃古文、籒文也。後人以厡代高平曰邍之邍，而别製源字爲本厡之厡，積非成是久矣。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6E90_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">源</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  juan˧˥ <span class="z_ts4">唐代读音</span>  *ngiuæn<span class="z_ts4">日语读音</span>  MINAMOTO<span class="z_ts4">韩语罗马</span>  WEN<span class="z_ts4">现代韩语</span>  원<span class="z_ts3">越南语</span>  nguồn</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] nien2 [梅县腔] ngian2 [台湾四县腔] ngien2 [宝安腔] ngien2 [海陆腔] ngien2 [客语拼音字汇] ngian2 [陆丰腔] gnian3 [东莞腔] ngen2 [客英字典] ngien2<span class="z_ts2">粤语</span>  jyun4<span class="z_ts3">潮州话</span>  nguang5 (ngûang) 「潮州」nguêng5 (ngûeng 旧时：ngûen)</p>						<p><span class="z_ts3">近代音</span>  影母    先天韻    平聲陽    元小空；<span class="z_ts3">中古音</span>  疑母    元韻    平聲    元小韻    愚𡋡切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：疑母    寒部   ；王力系统：疑母    元部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/源">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/源">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/源">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/源">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/源">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/源">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/源">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/源">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/源">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/源">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/源">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/源">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">源</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/源">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6E90.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6E90.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6E90.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6E90.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/6E90.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/厵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/53B5.svg'><span>厵</span></a></div> <div class='zx'><a href='/hans/𠫐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AD0.svg'><span>𠫐</span></a></div> <div class='zx'><a href='/hans/𠫒' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AD2.svg'><span>𠫒</span></a></div> <div class='zx'><a href='/hans/𡇋' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/211CB.svg'><span>𡇋</span></a></div> <div class='zx'><a href='/hans/𨻣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28EE3.svg'><span>𨻣</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="8337" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7644">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/鶰">鶰(yuan2)</a></li><li><a href="/hans/橼">橼(yuan2)</a></li><li><a href="/hans/溒">溒(yuan2)</a></li><li><a href="/hans/邍">邍(yuan2)</a></li><li><a href="/hans/螈">螈(yuan2)</a></li><li><a href="/hans/㟲">㟲(yuan2)</a></li><li><a href="/hans/媛">媛(yuan2)</a></li><li><a href="/hans/鶢">鶢(yuan2)</a></li><li><a href="/hans/员">员(yuan2)</a></li><li><a href="/hans/㛪">㛪(yuan2)</a></li><li><a href="/hans/原">原(yuan2)</a></li><li><a href="/hans/䖠">䖠(yuan2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/泅">泅</a></li><li><a href="/hans/淛">淛</a></li><li><a href="/hans/㶎">㶎</a></li><li><a href="/hans/㲿">㲿</a></li><li><a href="/hans/澤">澤</a></li><li><a href="/hans/㵌">㵌</a></li><li><a href="/hans/浃">浃</a></li><li><a href="/hans/湭">湭</a></li><li><a href="/hans/湠">湠</a></li><li><a href="/hans/涘">涘</a></li><li><a href="/hans/涂">涂</a></li><li><a href="/hans/淳">淳</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/嗂">嗂</a></li><li><a href="/hans/椼">椼</a></li><li><a href="/hans/滫">滫</a></li><li><a href="/hans/幎">幎</a></li><li><a href="/hans/電">電</a></li><li><a href="/hans/歲">歲</a></li><li><a href="/hans/摸">摸</a></li><li><a href="/hans/稢">稢</a></li><li><a href="/hans/㬁">㬁</a></li><li><a href="/hans/摁">摁</a></li><li><a href="/hans/靖">靖</a></li><li><a href="/hans/㺋">㺋</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">林尽水<span>源</span>，便得一山，山有小口，仿佛若有光。便舍船，从口入。初极狭，才通人。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">其岸势犬牙差互，不可知其<span>源</span>。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=8337"></script>
+</body>
+</html>

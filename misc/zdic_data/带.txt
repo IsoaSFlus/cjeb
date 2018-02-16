@@ -1,0 +1,580 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>带的解释|带的意思|汉典“带”字的基本解释</title>
+<meta name="title" content="带的解释|带的意思|汉典“带”字的基本解释">
+<meta name="keywords" content="|⿳卅冖巾|" /><meta property="og:title" content="“带”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“带”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“带”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/带" />
+<link rel="canonical" href="//www.zdic.net/hans/带" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/带" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/带" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/带" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/带">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/带">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5E26.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5E26.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">dài<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“带”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dài.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄞˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“带”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄞˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=巾" target="_blank">  巾</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/帶' target=_blank>帶</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/帶' target=_blank>帶</a> <a href='/hans/㡖' target=_blank>㡖</a> <a href='/hans/𢂸' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/220B8.svg'><span class='ytz_txt'>𢂸</span> <a href='/hans/𢃄' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/220C4.svg'><span class='ytz_txt'>𢃄</span> <a href='/hans/𢄔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22114.svg'><span class='ytz_txt'>𢄔</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5E26</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>122245252</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gkph</p></td>                            <td class="dsk_2_1"><p>tjblb</p></td>                            <td class="dsk_2_1"><p>ewli</p></td>                            <td class="dsk_2_1"><p>44227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">dài<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“带”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/dài.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄞˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“带”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄞˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=巾" target="_blank">巾</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 5E26<span class="z_ts2">笔顺</span> 122245252                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5E26_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4135" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">带</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>带</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">帶</span>）</strong></p>
+<p><span class="dicpy">d&agrave;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&agrave;i.mp3"></a></span> ㄉㄞˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>用皮、布或线等做成的长条物：～子。皮～。领～。一衣～水。</li>
+	<li>像带子的长条物：～钢。～鱼。声～。</li>
+	<li>车轮胎：车～。外～。</li>
+	<li>区域：地～。温～。</li>
+	<li>佩戴，披挂：～孝。～剑。</li>
+	<li>随身拿着：携～。～挈。～着钱。</li>
+	<li>捎，连着，顺便做：连～。～职。～累（<span class="dicpy">lěi </span>）（连累）。话中～刺。</li>
+	<li>含有，呈现：～电。～伤。</li>
+	<li>率领，引导：～领。～头。～动。以点～面。</li>
+	<li>女子阴道分泌的白色黏液：白～。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> belt, girdle, band, strap, zone</p><p><span class="z_ts2">德语</span>  (<a href="./照管">照管</a>)​ großziehen, aufziehen ,mitnehmen, mitbringen, tragen  (V)</p><p><span class="z_ts2">法语</span> ceinture,bande,ruban,pneu,zone,apporter,emporter,mener,porter,guider,(classificateur pour régions, lieux, espaces)​</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">带</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>带</strong></p>
+<p>帶 <span class="dicpy">d&agrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&agrave;i.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (象形。小篆字形，上面表示束在腰间的一根带子和用带的两端打成的结。下面象垂下的须子，有装饰作用。本义:大带，束衣的腰带)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[broad belt]</span></p>
+<p><span class="diczx1">带，绅也。上象系佩之形。佩必有巾，从重巾。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">不说带。&mdash;&mdash;<span class="smcs">《仪礼&middot;士虞礼记》</span></span></p>
+<p><span class="diczx1">之子无带。&mdash;&mdash;<span class="smcs">《诗&middot;卫风&middot;有狐》</span></span></p>
+<p><span class="diczx1">带裳幅舄。&mdash;&mdash;<span class="smcs">《左传&middot;桓公二年》</span></span></p>
+<p><span class="diczx1">王遂披襟解带，留连不能已。&mdash;&mdash;<span class="smcs">《世说新语&middot;文学》</span></span></p>
+<p><span class="diczx1">子</span><span class="diczx2">墨子</span>解带围城。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></p>
+<p><span class="diczx3">又如:带冕(大带和冠冕);带围(腰围，腰带);带钩(皮革腰带上的金属钩。形状一端曲直，另一端为圆钮以承钩。有动物形的，也有铸花纹的);带头(旧时衣袍外腰带上的扣头，常镶以金、玉等装饰物)</span></p>
+<p><span class="cino">(3)</span> 泛指狭长形条状物 <span class="encs">[belt]</span></p>
+<p><span class="diczx1">而半山居雾若带然。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">姚鼐</span><span class="smcs">《登泰山记》</span></p>
+<p><span class="diczx3">又如:裤带;鞋带</span></p>
+<p><span class="cino">(4)</span> 根据纬度和温度把地球表面分为5个大带的任一带 <span class="encs">[zone]</span>。</p><p><span class="diczx3">如:温带</span></p>
+<p><span class="cino">(5)</span> 生物地理区的典型带状区。如:海洋滨岸带;南方生物带</p>
+<p><span class="cino">(6)</span> 以某种特殊性质、作用或成分为特征的地球物质(如岩石)的分带、分层或层系。如:饱和带</p>
+<p><span class="cino">(7)</span> 轮胎 <span class="encs">[car tire]</span>。</p><p><span class="diczx3">如:车带;里带;外带</span></p>
+<p><span class="cino">(8)</span> 妇科病名 <span class="encs">[gyrecological disease]</span>。</p><p><span class="diczx3">如:白带;赤带</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>带</strong></p>
+<p>帶 <span class="dicpy">d&agrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&agrave;i.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 佩带 <span class="encs">[wear]</span></p>
+<p><span class="diczx2">哙</span>即带剑拥盾入军门。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></p>
+<p><span class="diczx1">带刀升座。&mdash;&mdash;<span class="smcs">《隋书&middot;礼仪志》</span></span></p>
+<p><span class="diczx1">带长铗之陆离兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;屈原&middot;涉江》</span></span></p>
+<p><span class="diczx3">又如:带甲(披戴盔甲的将士;又比喻战乱);带剑;带刀</span></p>
+<p><span class="cino">(2)</span> 携带 <span class="encs">[bring]</span></p>
+<p><span class="diczx2">遗</span>已聚敛得数斗焦饭，未展归家，遂带以从军。&mdash;&mdash;<span class="smcs">《世说新语&middot;德行》</span></p>
+<p><span class="diczx2">应元</span>带刀鞬出，跃马大呼于市曰。&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">邵长蘅</span><span class="smcs">《青门剩稿》</span></p>
+<p><span class="diczx3">又如:带了两本笨重的法律书去审判。又指具有&hellip;作为属性或特征。如:他把他的老习惯带进了新生活</span></p>
+<p><span class="cino">(3)</span> 抚养 <span class="encs">[bring up]</span>。</p><p><span class="diczx3">如:他是由一位农民大娘带大的</span></p>
+<p><span class="cino">(4)</span> 引导某人或某物 <span class="encs">[lead]</span>。</p><p><span class="diczx3">如:带将(带，领);你带路，我们跟你走</span></p>
+<p><span class="cino">(5)</span> 兼管 <span class="encs">[also;be concurrently in charge of;look after]</span></p>
+<p><span class="diczx2">谢</span>为太傅长史被弹， <span class="diczx2">王</span>即取作长史，带 <span class="diczx2">晋陵郡</span>。&mdash;&mdash;<span class="smcs">《世说新语&middot;言语》</span></p>
+<p><span class="cino">(8)</span> 具有某种标志或特征 <span class="encs">[have]</span>。</p><p><span class="diczx3">如:带叶子的橘子</span></p>
+<p>◎ <strong>带</strong></p>
+<p>帶 <span class="dicpy">d&agrave;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/d&agrave;i.mp3"></a></span> </p>
+<p>&lt;连&gt;</p>
+<p><span class="cino">(1)</span> 表示两个动作同时进行，相当于&ldquo;又&rdquo; <span class="encs">[also]</span>。</p><p><span class="diczx3">如:<span class="encs">[他]</span>连说带比划的，就交上朋友了;带口(随口)</span></p>
+<p><span class="cino">(2)</span> 表示附有较小的数量 <span class="encs">[and little]</span></p>
+<p><span class="diczx1">你不是常常说，你才三十带点，日子还很长么?&mdash;&mdash;</span><span class="diczx2">沙汀</span><span class="smcs">《困兽记》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/带班">带班</a></span><span class="crefe"><a href="/hans/带兵">带兵</a></span><span class="crefe"><a href="/hans/带彩">带彩</a></span><span class="crefe"><a href="/hans/带操">带操</a></span><span class="crefe"><a href="/hans/带刺儿">带刺儿</a></span><span class="crefe"><a href="/hans/带答不理">带答不理</a></span><span class="crefe"><a href="/hans/带电">带电</a></span><span class="crefe"><a href="/hans/带动">带动</a></span><span class="crefe"><a href="/hans/带钢">带钢</a></span><span class="crefe"><a href="/hans/带好儿">带好儿</a></span><span class="crefe"><a href="/hans/带花">带花</a></span><span class="crefe"><a href="/hans/带劲">带劲</a></span><span class="crefe"><a href="/hans/带菌">带菌</a></span><span class="crefe"><a href="/hans/带菌者">带菌者</a></span><span class="crefe"><a href="/hans/带宽">带宽</a></span><span class="crefe"><a href="/hans/带累">带累</a></span><span class="crefe"><a href="/hans/带领">带领</a></span><span class="crefe"><a href="/hans/带路">带路</a></span><span class="crefe"><a href="/hans/带路人">带路人</a></span><span class="crefe"><a href="/hans/带挈">带挈</a></span><span class="crefe"><a href="/hans/带速">带速</a></span><span class="crefe"><a href="/hans/带头">带头</a></span><span class="crefe"><a href="/hans/带徒弟">带徒弟</a></span><span class="crefe"><a href="/hans/带孝">带孝</a></span><span class="crefe"><a href="/hans/带引">带引</a></span><span class="crefe"><a href="/hans/带鱼">带鱼</a></span><span class="crefe"><a href="/hans/带职">带职</a></span><span class="crefe"><a href="/hans/带罪立功">带罪立功</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5E26_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集中" target="_blank">寅集中</a>】【<a href="/zd/kx/?zm=寅集中&amp;bs=巾" target="_blank">巾</a>】
+                              帶·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">帶</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“带”字头，请参考“<a href="/hans/帶">帶</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集中" target="_blank">寅集中</a>】【<a href="/zd/kx/?zm=寅集中&amp;bs=巾" target="_blank">巾</a>】
+                              帶·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5E36.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>當蓋切，音㯂。【說文】紳也。男子搫帶，婦人帶絲，象繫佩之形。佩必有巾，故帶从巾。【徐鉉曰】卌，其帶上連屬固結處。【釋名】帶，蔕也。著於衣，如物之繫蔕也。【易&middot;訟卦】或錫之鞶帶。【疏】鞶帶大帶也。【禮&middot;玉藻】凡帶有率，無箴功。【疏】謂其帶旣襌，亦以箴緶緝其側，但繂襵之，無別裨飾之箴功。</p>
+<p>又【揚子&middot;方言】厲謂之帶。【註】小爾雅，帶之垂者曰厲。【詩&middot;小雅】垂帶而厲。</p>
+<p>又佩也。【禮&middot;月令】帶以弓䪅。</p>
+<p>又【揚子&middot;方言】行也。【註】隨人行也。</p>
+<p>又蟲名。【莊子&middot;齊物論】螂蛆甘帶。</p>
+<p>又書帶，草名。【三齊記】鄭康成山下生草，大如䪥，葉長一尺餘，土人名康成書帶草。</p>
+<p>又姓。【賈誼&middot;過秦論】帶佗。</p>
+<p>又叶音蒂。【楚辭&middot;九歌】荷衣兮蕙帶，儵而來兮忽而逝。夕宿兮帝鄉，誰須兮雲之際。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5E26_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=巾">巾</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">帶</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“带”字头，请参考“<a href="/hans/帶">帶</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=巾">巾</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5E36.svg">                          <p>紳也。男子鞶帶，婦人帶絲。象繫佩之形。佩必有巾，从巾。當蓋切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5E36_1678.svg" /><span class="swbf">(帶)</span><span class="ywyy">紳也。</span><span class="swdz">糸部曰：紳，大帶也。</span><span class="ywyy">男子鞶帶，婦人帶絲。</span><span class="swdz">古本皆如此。毛本依小徐，誤。內則曰：男鞶革，女鞶絲。革部鞶下云：大帶也。男子帶鞶，婦人帶絲。按古有大帶，有革帶。革帶以繫佩韍而後加之大帶，則革帶統於大帶，故許於紳、於鞶皆曰大帶，實則內則之鞶專謂革帶。此偁內則者，謂鞶統於紳，佩繫於鞶也。</span><span class="ywyy">象繫佩之形。</span><span class="swdz">謂卌也。</span><span class="ywyy">佩必有巾，从重巾。</span><span class="swdz">謂凧也。當葢切。十五部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5E26_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">带</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tĄi˥˧ <span class="z_ts4">日语读音</span>  OBI OBIRU<span class="z_ts4">韩语罗马</span>  TAY</p>						<p><span class="z_ts2">粤语</span>  daai2 daai3<span class="z_ts3">潮州话</span>  dua3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/带">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/带">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/带">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/带">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/带">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/带">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/带">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/带">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/带">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/带">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/带">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/带">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">带</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「帶」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/带"><img data-original="//img.zdic.net/zy/jiaguwen/45_EB37.svg" class="lazy ypic"><span>「帶」 粹1243</span><span>合13935</span></a></td><td><a href="/zd/zx/jw/带"><img data-original="//img.zdic.net/zy/jinwen/37_E726.svg" class="lazy ypic"><span>「帶」 㝨盤</span><span>西周晚期</span><span>集成10172</span></a></td><td><a href="/zd/zx/cx/带"><img data-original="//img.zdic.net/zy/chuwenzi/52_F1ED.svg" class="lazy ypic"><span>「𦄂」 信2.02</span></a></td><td><a href="/zd/zx/xz/带"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5E36.svg" class="lazy ypic"><span>「帶」 說文‧巾部</span></a></td><td><a href="/zd/zx/qx/带"><img data-original="//img.zdic.net/zy/qinwenzi/71_E879.svg" class="lazy ypic"><span>「帶」 睡.日甲13</span></a></td><td><a href="/hans/帶" target="_blank"><img data-original="//img.zdic.net/kai/tw/5E36.svg" class="lazy ypic"><span>「帶」</span></a> </td><td><a href="/hans/带" target="_blank"><img data-original="//img.zdic.net/kai/tw/5E26.svg" class="lazy ypic"><span>「带」</span></a></td><td style="display:none"><a href="/hans/带" target="_blank"><img data-original="//img.zdic.net/kai/tw/5E26.svg" class="lazy ypic"><span>「带」</span></a></td></tr><tr><td><a href="/zd/zx/jg/带"><img data-original="//img.zdic.net/zy/jiaguwen/45_EB38.svg" class="lazy ypic"><span>「帶」 寧滬1.508</span><span>合28035</span></a></td><td><a href="/zd/zx/jw/带"><img data-original="//img.zdic.net/zy/jinwen/37_E727.svg" class="lazy ypic"><span>「帶」 子犯鐘</span><span>春秋中期</span><span>故宮文物月刊13卷1期</span></a></td><td><a href="/zd/zx/cx/带"><img data-original="//img.zdic.net/zy/chuwenzi/52_F1EE.svg" class="lazy ypic"><span>「𦄂」 仰25.14</span></a></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td><a href="/zd/zx/jg/带"><img data-original="//img.zdic.net/zy/jiaguwen/45_EB39.svg" class="lazy ypic"><span>「帶」 庫1231</span><span>合20502</span></a></td><td><a href="/zd/zx/jw/带"><img data-original="//img.zdic.net/zy/jinwen/37_E729.svg" class="lazy ypic"><span>「帶」 春成侯盉</span><span>戰國晚期</span><span>上博八</span></a></td><td><a href="/zd/zx/cx/带"><img data-original="//img.zdic.net/zy/chuwenzi/52_F1EF.svg" class="lazy ypic"><span>「𦄂」 仰25.24</span></a></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/带">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/带">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/带">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/带">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/带">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/带">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5E26.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5E26.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5E26.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/帶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5E36.svg'><span>帶</span></a></div> <div class='zx'><a href='/hans/㡖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3856.svg'><span>㡖</span></a></div> <div class='zx'><a href='/hans/𢂸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/220B8.svg'><span>𢂸</span></a></div> <div class='zx'><a href='/hans/𢃄' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/220C4.svg'><span>𢃄</span></a></div> <div class='zx'><a href='/hans/𢄔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22114.svg'><span>𢄔</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4135" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4704">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/瀻">瀻(dai4)</a></li><li><a href="/hans/㐲">㐲(dai4)</a></li><li><a href="/hans/柋">柋(dai4)</a></li><li><a href="/hans/㶡">㶡(dai4)</a></li><li><a href="/hans/玳">玳(dai4)</a></li><li><a href="/hans/釱">釱(dai4)</a></li><li><a href="/hans/緿">緿(dai4)</a></li><li><a href="/hans/㿃">㿃(dai4)</a></li><li><a href="/hans/㫹">㫹(dai4)</a></li><li><a href="/hans/蝳">蝳(dai4)</a></li><li><a href="/hans/軚">軚(dai4)</a></li><li><a href="/hans/甙">甙(dai4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/巾">巾</a></li><li><a href="/hans/帣">帣</a></li><li><a href="/hans/帧">帧</a></li><li><a href="/hans/幠">幠</a></li><li><a href="/hans/㠳">㠳</a></li><li><a href="/hans/㠵">㠵</a></li><li><a href="/hans/幒">幒</a></li><li><a href="/hans/㡄">㡄</a></li><li><a href="/hans/㡧">㡧</a></li><li><a href="/hans/帲">帲</a></li><li><a href="/hans/㡈">㡈</a></li><li><a href="/hans/㡚">㡚</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/陝">陝</a></li><li><a href="/hans/祖">祖</a></li><li><a href="/hans/𠄰">𠄰</a></li><li><a href="/hans/柄">柄</a></li><li><a href="/hans/窂">窂</a></li><li><a href="/hans/庠">庠</a></li><li><a href="/hans/㳘">㳘</a></li><li><a href="/hans/凁">凁</a></li><li><a href="/hans/盾">盾</a></li><li><a href="/hans/洣">洣</a></li><li><a href="/hans/牵">牵</a></li><li><a href="/hans/柾">柾</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">牧人驱犊返，猎马<span>带</span>禽归。</div><div class="gscdr">唐·王绩 《野望》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4135"></script>
+</body>
+</html>

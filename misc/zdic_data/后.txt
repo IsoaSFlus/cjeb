@@ -1,0 +1,710 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>后的解释|后的意思|汉典“后”字的基本解释</title>
+<meta name="title" content="后的解释|后的意思|汉典“后”字的基本解释">
+<meta name="keywords" content="左上：𠂋，右下：口。 " /><meta property="og:title" content="“后”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“后”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“后”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/后" />
+<link rel="canonical" href="//www.zdic.net/hans/后" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/后" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/后" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/后" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/后">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/后">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/540E.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/540E.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">hòu<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“后”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hòu.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄏㄡˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“后”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄡˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=口" target="_blank">  口</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/後' target=_blank>後</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/後' target=_blank>後</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+540E</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>331251</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>rgkd</p></td>                            <td class="dsk_2_1"><p>hmr</p></td>                            <td class="dsk_2_1"><p>pdaj</p></td>                            <td class="dsk_2_1"><p>72261</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">hòu<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“后”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hòu.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄏㄡˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“后”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄡˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=口" target="_blank">口</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 540E<span class="z_ts2">笔顺</span> 331251                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="540E_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1551" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>后</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">➍-➑<span class="diczx3">後</span>）</strong></p><p><span class="dicpy">h&ograve;u  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ograve;u.mp3"></a></span> ㄏㄡˋ</span></p><hr class="dichr" /><ol>	<li>君主；帝王：商之先～（先王）。</li>	<li>帝王的正妻：皇～。太～。</li>	<li>诸候。《書&bull;舜典》：&ldquo;肆覲東后。&rdquo;</li>	<li>指空间在背面，反面的，与&ldquo;<span class="diczx3">前</span>&rdquo;相对：～窗户。～面。～学。～缀。～进。</li>	<li>时间较晚，与&ldquo;<span class="diczx3">先</span>&rdquo;相对：日～。～福。～期。</li>	<li>指次序，与&ldquo;<span class="diczx3">前</span>&rdquo;相对：～排。～十名。</li>	<li>子孙：～辈。～嗣。～裔。～昆。无～（没有子孙）。</li>	<li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> queen, empress, sovereign</p><p><span class="z_ts2">德语</span> Kaiserin (S)</p><p><span class="z_ts2">法语</span> arrière,descendant,descendance,génération future,reine,derrière,après,ensuite</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>后</strong> <span class="dicpy">h&ograve;u</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ograve;u.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (会意。象人之形，施令以告四方，古之，从一口，发号者君后也。按从坐人，从口，与君同意。本义:君主，帝王)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[sovereign]</span></p>
+<p><span class="diczx1">后，继体君也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">班瑞于群后。&mdash;&mdash;<span class="smcs">《书&middot;舜典》</span></span></p>
+<p><span class="diczx1">允王维后。&mdash;&mdash;<span class="smcs">《诗&middot;周颂&middot;时迈》</span></span></p>
+<p><span class="diczx1">后王命冢宰。&mdash;&mdash;<span class="smcs">《礼记&middot;内则》</span></span></p>
+<p><span class="diczx1">昔我先世后稷。&mdash;&mdash;<span class="smcs">《国语&middot;周语》</span></span></p>
+<p><span class="diczx1">皇皇后帝。&mdash;&mdash;<span class="smcs">《左传&middot;文公二年》</span></span></p>
+<p><span class="diczx2">夏</span>后 <span class="diczx2">皋</span>之墓也。&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十二年》</span></p>
+<p><span class="diczx3">又如:后王(君王;天子);后帝(天帝;上帝);后夷(上古有穷国的国君);后辟(君主;帝王)</span></p>
+<p><span class="cino">(3)</span> 帝王的妻子 <span class="encs">[empress;queen]</span></p>
+<p><span class="diczx1">天子之妃曰后。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">帝嫡妃曰皇后，帝母曰皇太后，帝祖母曰太皇太后。&mdash;&mdash;<span class="smcs">《独断下》</span></span></p>
+<p><span class="diczx3">又如:后族(皇后的亲族);后党(清末慈禧一派;皇后、太后的亲族或与皇后、太后利害关系一致的人所结成的政治集团)</span></p>
+<p><span class="cino">(4)</span> 古代指列国诸侯 <span class="encs">[dukes or princes under an emperor]</span></p>
+<p><span class="diczx1">肆觐东后。&mdash;&mdash;<span class="smcs">《书&middot;舜典》</span>。</span><span class="diczx2">郑玄</span>注:&ldquo;东后，东方之诸侯也。&rdquo;</p>
+<p><span class="cino">(5)</span> 古代对长官、郡守或将领的尊称 <span class="encs">[high official]</span></p>
+<p><span class="diczx1">赫赫明后，柔嘉维则。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">李翕</span><span class="smcs">《西狭颂》</span></p>
+<p><span class="diczx1">岂知吾后意，忧此</span><span class="diczx2">毗陵</span>最。&mdash;&mdash; <span class="diczx2">前蜀</span>&middot; <span class="diczx2">贯休</span><span class="smcs">《上孙使君》</span>诗</p>
+<p><span class="cino">(6)</span> 指后土。对大地的尊称 <span class="encs">[the earth]</span></p>
+<p><span class="diczx1">王大封，则先告后土。&mdash;&mdash;<span class="smcs">《周礼&middot;大宗伯》</span></span></p>
+<p><span class="diczx3">又如:后皇(后土与皇天);后缗(地神)</span></p>
+<p><span class="cino">(7)</span> 姓。如:后缗(夏少康的母亲)</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>后</strong></p>
+<p>後 <span class="dicpy">h&ograve;u</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ograve;u.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (会意。金文，从&ldquo;彳&rdquo;( <span class="dicpy">ch&igrave;</span>)，表示与走路有关，从&ldquo;幺&rdquo;( <span class="dicpy">yāo</span>，小)，从&ldquo;攵&rdquo;( <span class="dicpy">suī</span>)，是&ldquo;足&rdquo;的反写，有&ldquo;行路迟缓&rdquo;的意思)。 <span class="diczx2">段玉裁</span><span class="smcs">《说文解字注》</span>:&ldquo;幺者小也，小而行迟，后可知矣。&rdquo;本义:迟到，走在后</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[be(or come，arrive)late]</span></p>
+<p><span class="diczx1">後，迟也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">非敢後也，马不进也。&mdash;&mdash;<span class="smcs">《论语&middot;雍也》</span></span></p>
+<p><span class="diczx2">子路</span>从而後。&mdash;&mdash;<span class="smcs">《论语&middot;微子》</span></p>
+<p><span class="diczx1">兄弟之後生者。&mdash;&mdash;<span class="smcs">《仪礼&middot;有司後》</span></span></p>
+<p><span class="diczx1">臣闻命後。&mdash;&mdash;<span class="smcs">《左传&middot;定公八年》</span>。注:&ldquo;晚也。&rdquo;</span></p>
+<p><span class="diczx1">收气乃後。&mdash;&mdash;<span class="smcs">《素问&middot;五常政大论》</span>。注:&ldquo;後，不及时也。&rdquo;</span></p>
+<p><span class="diczx1">知古则可知後。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;长见》</span>。注:&ldquo;来也。&rdquo;</span></p>
+<p><span class="diczx3">又如:随后就来;落后;殿后(行军走在最后)</span></p>
+<p><span class="cino">(3)</span> 承继 <span class="encs">[inherit]</span></p>
+<p><span class="diczx1">陷队之士知疾斗，不得斩首队五人，则陷队之士，人赐爵一级，死则一人后。&mdash;&mdash;<span class="smcs">《商君书》</span></span></p>
+<p>◎ <strong>后</strong></p>
+<p>後 <span class="dicpy">h&ograve;u</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ograve;u.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 后代，子孙 <span class="encs">[male offspring]</span></p>
+<p><span class="diczx1">式救尔後。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;瞻卬》</span></span></p>
+<p><span class="diczx1">为人後者为之子也。&mdash;&mdash;<span class="smcs">《礼记&middot;杂记》</span></span></p>
+<p><span class="diczx1">天下初发难时，假立诸侯，後以代</span><span class="diczx2">秦</span>。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></p>
+<p><span class="diczx1">求太监后。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">崔铣</span><span class="smcs">《记王忠肃公翱三事》</span></p>
+<p><span class="diczx3">又如:无后;绝后;后叶(后代);后胤(子孙，后裔);后戒(后人的鉴戒);后哲(后代的哲人);后绝(没有后代)</span></p>
+<p><span class="cino">(2)</span> 后世 <span class="encs">[posterity]</span>。</p>
+<p><span class="diczx3">如:后镜(后世的借镜);后后烈(流传后世的业绩);后叶(后世);后报(来世受报应)</span></p>
+<p><span class="cino">(3)</span> 次序在后 <span class="encs">[later]</span></p>
+<p><span class="diczx1">子路从而后。&mdash;&mdash;<span class="smcs">《论语&middot;微子》</span></span></p>
+<p><span class="diczx1">后岁余。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx1">从诸君子之后。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx1">惟恐或后。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="cino">(5)</span> 指肛门 <span class="encs">[anus]</span>。</p>
+<p><span class="diczx3">如:后庭(肛门);后窍(肛门)</span></p>
+<p>◎ <strong>后</strong></p>
+<p>後 <span class="dicpy">h&ograve;u</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/h&ograve;u.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 时间较迟或较晚。与&ldquo;先&rdquo;相对 <span class="encs">[later;after]</span></p>
+<p><span class="diczx1">君还而后退。&mdash;&mdash;<span class="smcs">《仪礼&middot;聘礼》</span></span></p>
+<p><span class="diczx1">然后国之良士，亦将可得而众也。&mdash;&mdash;<span class="smcs">《墨子&middot;尚贤上》</span></span></p>
+<p><span class="diczx1">知止而后有定，定而后能静。&mdash;&mdash;<span class="smcs">《礼记&middot;大学》</span></span></p>
+<p><span class="diczx1">以五戒先後刑罚。&mdash;&mdash;<span class="smcs">《周礼&middot;士师》</span></span></p>
+<p><span class="diczx1">事至而後虑者谓之後。&mdash;&mdash;<span class="smcs">《荀子&middot;大略》</span></span></p>
+<p><span class="diczx1">后遂无问津者。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">后遂不复至。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p>
+<p><span class="diczx1">花朝节后。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">其后为之者较少。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="diczx3">又如:后时(后来;以后);后次(下次;下回);后儿(后天);后番(下次;下回)</span></p>
+<p><span class="cino">(2)</span> 后面，位置在后 <span class="encs">[behind;back]</span></p>
+<p><span class="diczx1">事成而後。&mdash;&mdash;<span class="smcs">《礼记&middot;乐记》</span>。注:&ldquo;谓位在下也。&rdquo;</span></p>
+<p><span class="diczx1">以後路与冕服。&mdash;&mdash;<span class="smcs">《礼记&middot;杂记》</span></span></p>
+<p><span class="diczx1">近出前后。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx1">后狼止。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;狼三则》</span></span></p>
+<p><span class="diczx1">恐前后受其敌。</span></p>
+<p><span class="diczx1">转视积薪后。</span></p>
+<p><span class="diczx1">以攻其后。</span></p>
+<p><span class="diczx3">又如:后山(后面的山);后应(居后作接应 的部队);后廷(后宫);后户(后门);后言(背后的议论);后阁(在后面 的殿阁);先斩后奏</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/后摆">后摆</a></span><span class="crefe"><a href="/hans/后半">后半</a></span><span class="crefe"><a href="/hans/后半晌，后半晌儿">后半晌，后半晌儿</a></span><span class="crefe"><a href="/hans/后半生">后半生</a></span><span class="crefe"><a href="/hans/后半夜">后半夜</a></span><span class="crefe"><a href="/hans/后备">后备</a></span><span class="crefe"><a href="/hans/后备军">后备军</a></span><span class="crefe"><a href="/hans/后辈">后辈</a></span><span class="crefe"><a href="/hans/后步">后步</a></span><span class="crefe"><a href="/hans/后部">后部</a></span><span class="crefe"><a href="/hans/后场">后场</a></span><span class="crefe"><a href="/hans/后车之戒">后车之戒</a></span><span class="crefe"><a href="/hans/后撤">后撤</a></span><span class="crefe"><a href="/hans/后尘">后尘</a></span><span class="crefe"><a href="/hans/后此">后此</a></span><span class="crefe"><a href="/hans/后代">后代</a></span><span class="crefe"><a href="/hans/后灯">后灯</a></span><span class="crefe"><a href="/hans/后堤">后堤</a></span><span class="crefe"><a href="/hans/后爹">后爹</a></span><span class="crefe"><a href="/hans/后盾">后盾</a></span><span class="crefe"><a href="/hans/后发制人">后发制人</a></span><span class="crefe"><a href="/hans/后方">后方</a></span><span class="crefe"><a href="/hans/后防">后防</a></span><span class="crefe"><a href="/hans/后妃">后妃</a></span><span class="crefe"><a href="/hans/后夫">后夫</a></span><span class="crefe"><a href="/hans/后福">后福</a></span><span class="crefe"><a href="/hans/后父">后父</a></span><span class="crefe"><a href="/hans/后跟">后跟</a></span><span class="crefe"><a href="/hans/后宫">后宫</a></span><span class="crefe"><a href="/hans/后顾">后顾</a></span><span class="crefe"><a href="/hans/后顾之忧">后顾之忧</a></span><span class="crefe"><a href="/hans/后滚翻">后滚翻</a></span><span class="crefe"><a href="/hans/后果">后果</a></span><span class="crefe"><a href="/hans/后汉">后汉</a></span><span class="crefe"><a href="/hans/后汉书">后汉书</a></span><span class="crefe"><a href="/hans/后话">后话</a></span><span class="crefe"><a href="/hans/后患">后患</a></span><span class="crefe"><a href="/hans/后悔">后悔</a></span><span class="crefe"><a href="/hans/后悔无及">后悔无及</a></span><span class="crefe"><a href="/hans/后会有期">后会有期</a></span><span class="crefe"><a href="/hans/后婚">后婚</a></span><span class="crefe"><a href="/hans/后记">后记</a></span><span class="crefe"><a href="/hans/后继">后继</a></span><span class="crefe"><a href="/hans/后继有人">后继有人</a></span><span class="crefe"><a href="/hans/后脚">后脚</a></span><span class="crefe"><a href="/hans/后襟">后襟</a></span><span class="crefe"><a href="/hans/后进">后进</a></span><span class="crefe"><a href="/hans/后晋">后晋</a></span><span class="crefe"><a href="/hans/后劲">后劲</a></span><span class="crefe"><a href="/hans/后来">后来</a></span><span class="crefe"><a href="/hans/后来">后来</a></span><span class="crefe"><a href="/hans/后来居上">后来居上</a></span><span class="crefe"><a href="/hans/后浪推前浪">后浪推前浪</a></span><span class="crefe"><a href="/hans/后脸儿">后脸儿</a></span><span class="crefe"><a href="/hans/后路">后路</a></span><span class="crefe"><a href="/hans/后妈">后妈</a></span><span class="crefe"><a href="/hans/后门">后门</a></span><span class="crefe"><a href="/hans/后面">后面</a></span><span class="crefe"><a href="/hans/后母">后母</a></span><span class="crefe"><a href="/hans/后脑勺子">后脑勺子</a></span><span class="crefe"><a href="/hans/后年">后年</a></span><span class="crefe"><a href="/hans/后娘">后娘</a></span><span class="crefe"><a href="/hans/后怕">后怕</a></span><span class="crefe"><a href="/hans/后排">后排</a></span><span class="crefe"><a href="/hans/后妻">后妻</a></span><span class="crefe"><a href="/hans/后期">后期</a></span><span class="crefe"><a href="/hans/后起之秀">后起之秀</a></span><span class="crefe"><a href="/hans/后勤">后勤</a></span><span class="crefe"><a href="/hans/后儿">后儿</a></span><span class="crefe"><a href="/hans/后人">后人</a></span><span class="crefe"><a href="/hans/后任">后任</a></span><span class="crefe"><a href="/hans/后日">后日</a></span><span class="crefe"><a href="/hans/后晌">后晌</a></span><span class="crefe"><a href="/hans/后身">后身</a></span><span class="crefe"><a href="/hans/后生">后生</a></span><span class="crefe"><a href="/hans/后生可畏">后生可畏</a></span><span class="crefe"><a href="/hans/后生晚学">后生晚学</a></span><span class="crefe"><a href="/hans/后生小子">后生小子</a></span><span class="crefe"><a href="/hans/后生子">后生子</a></span><span class="crefe"><a href="/hans/后世">后世</a></span><span class="crefe"><a href="/hans/后事">后事</a></span><span class="crefe"><a href="/hans/后室">后室</a></span><span class="crefe"><a href="/hans/后手">后手</a></span><span class="crefe"><a href="/hans/后手不接">后手不接</a></span><span class="crefe"><a href="/hans/后嗣">后嗣</a></span><span class="crefe"><a href="/hans/后台">后台</a></span><span class="crefe"><a href="/hans/后台老板">后台老板</a></span><span class="crefe"><a href="/hans/后天">后天</a></span><span class="crefe"><a href="/hans/后厅">后厅</a></span><span class="crefe"><a href="/hans/后头">后头</a></span><span class="crefe"><a href="/hans/后土">后土</a></span><span class="crefe"><a href="/hans/后退">后退</a></span><span class="crefe"><a href="/hans/后臀">后臀</a></span><span class="crefe"><a href="/hans/后卫">后卫</a></span><span class="crefe"><a href="/hans/后味">后味</a></span><span class="crefe"><a href="/hans/后先">后先</a></span><span class="crefe"><a href="/hans/后效">后效</a></span><span class="crefe"><a href="/hans/后心">后心</a></span><span class="crefe"><a href="/hans/后续">后续</a></span><span class="crefe"><a href="/hans/后学">后学</a></span><span class="crefe"><a href="/hans/后腰">后腰</a></span><span class="crefe"><a href="/hans/后遗症">后遗症</a></span><span class="crefe"><a href="/hans/后裔">后裔</a></span><span class="crefe"><a href="/hans/后羿">后羿</a></span><span class="crefe"><a href="/hans/后影">后影</a></span><span class="crefe"><a href="/hans/后援">后援</a></span><span class="crefe"><a href="/hans/后缘">后缘</a></span><span class="crefe"><a href="/hans/后院">后院</a></span><span class="crefe"><a href="/hans/后院起火">后院起火</a></span><span class="crefe"><a href="/hans/后账">后账</a></span><span class="crefe"><a href="/hans/后者">后者</a></span><span class="crefe"><a href="/hans/后肢">后肢</a></span><span class="crefe"><a href="/hans/后置">后置</a></span><span class="crefe"><a href="/hans/后置">后置</a></span><span class="crefe"><a href="/hans/后置词">后置词</a></span><span class="crefe"><a href="/hans/后缀">后缀</a></span><span class="crefe"><a href="/hans/后坐">后坐</a></span><span class="crefe"><a href="/hans/后坐力">后坐力</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>后</rb></rbc><rtc><rt>ㄏㄡˋ</rt></rtc><rtc><rt>h&ograve;u <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/2743.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">君王。</span><span class="gc_yy">《詩經&middot;商頌&middot;玄鳥》：「商之先<b>后</b>，受命不殆，在武丁孫子。」</span><span class="gc_yy">《左傳&middot;僖公三 十二年》：「其南陵，夏<b>后</b>皋之墓也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">諸侯。</span><span class="gc_yy">《書經&middot;舜典》：「班瑞于群<b>后</b>。」</span><span class="gc_yy">唐&middot;柳宗元〈封建論〉：「周有天下，裂土田而瓜分之，設五等，邦群<b>后</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">君王的嫡妻。</span><span class="gc_lz">如：「王<b>后</b>」、「皇<b>后</b>」。</span><span class="gc_yy">《漢書&middot;卷五&middot;景帝紀》：「朕親耕，<b>后</b>親桑，以奉宗廟粢盛祭服，為天下先。」</span><span class="gc_yy">清&middot;陸次雲〈費宮人傳〉：「<b>后</b>自縊，袁貴妃亦自縊。帝拔劍刃嬪妃數人。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如春秋時齊國有孔子的弟子后處，漢代有后蒼。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">時間上較晚的。與「先」、「前」相對。</span><span class="gc_yy">《禮記&middot;大學》：「知止而<b>后</b>有定。」</span><span class="gc_yx">通「後」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="540E_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              后·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=丑集上" target="_blank">丑集上</a>】【<a href="/zd/kx/?zm=丑集上&amp;bs=口" target="_blank">口</a>】
+                              后·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/540E.svg">						  <p>【唐韻】【集韻】【正韻】胡口切【韻會】很口切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音後。【說文】繼體君也，象人之形。施令以告四方，故<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20086.svg"><span class="k_txt">𠂆</span>之从一，口。發號者，君后也。【書&middot;仲虺之誥】徯我后。【易&middot;泰卦】后以財成天地之道。【禮&middot;檀弓】夏后氏堲周。【疏】夏言后者，白虎通云以揖讓受于君，故稱后。</p><p>又【禮&middot;曲禮】天子有后。【疏】后，後也。言其後于天子，亦以廣後胤也。【白虎通】商以前皆曰妃，周始立后。正嫡曰王后，秦漢曰皇后，漢祖母稱太皇太后，母稱皇太后。</p><p>又諸侯亦稱后。【書&middot;舜典】班瑞于羣后。</p><p>又古者君稱臣亦曰后。【書&middot;舜典】汝后稷，播時百穀。【疏】國語云：稷爲天官，單名爲稷，尊而君之，稱爲后稷。</p><p>又【畢命】三后協心。【註】謂周公君<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>畢公也。</p><p>又【書&middot;武成】告于皇天后土。【傳】后土，社也。【左傳&middot;昭二十九年】土正曰后土。【註】土爲羣物主，故稱后也。其祀句龍焉，在家則祀中霤，在野則爲社。【正韻】后土，亦取厚載之義。</p><p>又姓。【史記&middot;仲尼弟子傳】后處字子里。【前漢&middot;儒林傳】后倉字近君。</p><p>又與後通。【禮&middot;曲禮】再拜稽首，而后對。</p><p>又【廣韻】胡遘切【集韻】下遘切【韻會】【正韻】胡茂切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音<img class="lazy k_img" data-original="//img.zdic.net/song/cn/202EB.svg"><span class="k_txt">𠋫</span>。義同。</p><p>又叶後五切，音戸。【蔡邕&middot;胡黃二公頌】允兹漢室，誕育二后。曰胡曰黃，方軌齊武。【陸雲&middot;漢高盛德頌】咸陽克殄，旣係秦后。峩峩阿房，乃淸帝宇。○按詩本音云：《周頌》宣哲維人，文武維后，燕及皇天，克昌厥後。后後俱音戸，後人誤入四十五厚韻，故於《唐韻》正中歷引經集証之。然自《玉篇》以後，后在厚韻相沿已久，不得不以後五切爲叶音矣。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="540E_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=后">后</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=后">后</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/540E.svg">                          <p>繼體君也。象人之形。施令以告四方，故厂之。从一口。發號者，君后也。凡后之屬皆从后。胡口切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/540E_720.svg" /><span class="swbf">(后)</span><span class="ywyy">繼體君也。</span><span class="swdz">釋詁、毛傳皆曰：后，君也。許知爲繼體君者，后之言後也。開<img class="lazy k_img" data-original="//img.zdic.net/song/cn/206DD.svg"><span class="k_txt">𠛝</span>之君在先，繼體之君在後也。析言之如是，渾言之則不别矣。易象下傳曰：后以施命誥四方。虞云：后繼體之君也。此許說也。葢同用孟易，經傳多假后爲後。大射注引孝經說曰：后者，後也。此謂后卽後之假借。</span><span class="ywyy">象人之形。</span><span class="swdz">謂上體<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2008B.svg"><span class="k_txt">𠂋</span>也。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2008B.svg"><span class="k_txt">𠂋</span>葢入字横寫，不曰从入。而曰象人形者，以非立人也。下文卮解亦曰象人。</span><span class="ywyy">从口，</span><span class="swdz">胡口切。四部。</span><span class="ywyy">易曰。后㠯施令告四方。</span><span class="swdz">此用遘象傳說从口之意。傳曰：天下有風，遘，后以施命誥四方。鄭作詰。許作吿。按此條各本作象人之形，施令以吿四方，故厂之从一口，發號者君后也。淺人所竄，不成文理。上體既旣象人，又何得云从余制切之厂，且从一乎，今以下卮字解文法更定，則宜有易曰審矣。</span><span class="ywyy">凡后之屬皆从后。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="540E_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  xou˥˧ <span class="z_ts4">日语读音</span>  KIMI KISAKI<span class="z_ts4">韩语罗马</span>  HWU<span class="z_ts4">现代韩语</span>  후<span class="z_ts3">越南语</span>  hậu</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] heu5 [海陆腔] heu6 [客语拼音字汇] heu4 [台湾四县腔] heu5 [客英字典] heu5 [宝安腔] hiu3 [沙头角腔] heu5 [东莞腔] heu3 [陆丰腔] heu6<span class="z_ts2">粤语</span>  hau6<span class="z_ts3">潮州话</span>  hou6(hõu) ao6(ãu)</p>						<p><span class="z_ts3">近代音</span>  曉母    尤侯韻    去聲    后小空；<span class="z_ts3">中古音</span>  匣母    候韻    去聲    𠋫小韻    胡遘切    一等    開口；匣母    厚韻    上聲    厚小韻    胡口切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：匣母    侯部   ；王力系统：匣母    侯部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/后">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/后">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/后">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/后">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/后">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/后">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/后">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/后">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/后">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/后">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/后">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/后">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">后</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/43_F7C1.svg" /><span>「毓」 甲414</span><span>合32632</span></a></td>
+			<td><a href="/zd/zx/jw/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E5F6.svg" /><span>「后」 吳王光鑑</span><span>春秋晚期</span><span>集成10298</span></a></td>
+			<td><a href="/zd/zx/cx/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/56_F80F.svg" /><span>「后」 郭.唐.10</span></a></td>
+			<td><a href="/zd/zx/xz/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_540E.svg" /><span>「后」 說文‧后部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none"><a href="/hans/後" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5F8C.svg" /><span>「後」</span></a></td>
+			<td><a href="/hans/后" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/540E.svg" /><span>「后」</span></a></td>
+			<td style="display:none"><a href="/hans/后" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/540E.svg" /><span>「后」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/43_F7DD.svg" /><span>「毓」 前1.30.5</span><span>合24951</span></a></td>
+			<td><a href="/zd/zx/jw/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E5F7.svg" /><span>「后」 兆域圖銅版</span><span>戰國晚期</span><span>集成10478</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/后"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/43_F7E0.svg" /><span>「毓」 甲2502</span><span>合27321</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/后">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/后">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/后">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/后">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/后">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/后">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/540E.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/540E.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/540E.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/540E.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/540E.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/後' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5F8C.svg'><span>後</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1551" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5263">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㰯">㰯(hou4)</a></li><li><a href="/hans/豞">豞(hou4)</a></li><li><a href="/hans/洉">洉(hou4)</a></li><li><a href="/hans/郈">郈(hou4)</a></li><li><a href="/hans/䡩">䡩(hou4)</a></li><li><a href="/hans/鲘">鲘(hou4)</a></li><li><a href="/hans/㤧">㤧(hou4)</a></li><li><a href="/hans/茩">茩(hou4)</a></li><li><a href="/hans/堠">堠(hou4)</a></li><li><a href="/hans/䞀">䞀(hou4)</a></li><li><a href="/hans/𠊱">𠊱(hou4)</a></li><li><a href="/hans/䞧">䞧(hou4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/喟">喟</a></li><li><a href="/hans/嗊">嗊</a></li><li><a href="/hans/嚝">嚝</a></li><li><a href="/hans/嚒">嚒</a></li><li><a href="/hans/㗫">㗫</a></li><li><a href="/hans/咆">咆</a></li><li><a href="/hans/唜">唜</a></li><li><a href="/hans/咾">咾</a></li><li><a href="/hans/呓">呓</a></li><li><a href="/hans/㗚">㗚</a></li><li><a href="/hans/啂">啂</a></li><li><a href="/hans/嘅">嘅</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/戌">戌</a></li><li><a href="/hans/叿">叿</a></li><li><a href="/hans/毕">毕</a></li><li><a href="/hans/𠂣">𠂣</a></li><li><a href="/hans/扬">扬</a></li><li><a href="/hans/汚">汚</a></li><li><a href="/hans/䢊">䢊</a></li><li><a href="/hans/州">州</a></li><li><a href="/hans/迁">迁</a></li><li><a href="/hans/忓">忓</a></li><li><a href="/hans/夸">夸</a></li><li><a href="/hans/攷">攷</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">归来饱饭黄昏<span>后</span>，不脱蓑衣卧月明。</div><div class="gscdr">唐·吕岩 《牧童》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">过中不至，太丘舍去，去<span>后</span>乃至。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">复投之，<span>后</span>狼止而前狼又至。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">屠大窘，恐前<span>后</span>受其敌。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">方欲行，转视积薪<span>后</span>，一狼洞其中，意将隧入以攻其<span>后</span>也。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">屠自<span>后</span>断其股，亦毙之。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">噫！菊之爱，陶<span>后</span>鲜有闻。</div><div class="gscdr">宋·周敦颐 《爱莲说》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=1551"></script>
+</body>
+</html>

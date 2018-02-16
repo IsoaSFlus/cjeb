@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>瑞的解释|瑞的意思|汉典“瑞”字的基本解释</title>
+<meta name="title" content="瑞的解释|瑞的意思|汉典“瑞”字的基本解释">
+<meta property="og:title" content="“瑞”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“瑞”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“瑞”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/瑞" />
+<link rel="canonical" href="//www.zdic.net/hans/瑞" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/瑞" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/瑞" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/瑞" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/瑞">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/瑞">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/745E.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/745E.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                                                  </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">ruì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“瑞”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/ruì.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄖㄨㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“瑞”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄖㄨㄟˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=王" target="_blank">  王</a></p>
+                              <p><span class="z_ts2">部外</span>  9</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                                                  </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+745E</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>1121252132522</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gmdj</p></td>                            <td class="dsk_2_1"><p>mgumb</p></td>                            <td class="dsk_2_1"><p>clgl</p></td>                            <td class="dsk_2_1"><p>12127</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">ruì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“瑞”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/ruì.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄖㄨㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“瑞”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄖㄨㄟˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=王" target="_blank">王</a> <span class="z_ts2">部外</span> 9<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">统一码</span> 745E<span class="z_ts2">笔顺</span> 1121252132522                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="745E_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=9823" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>瑞</strong></p><p><span class="dicpy">ruì  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ruì.mp3"></a></span> ㄖㄨㄟˋ</span></p><ol><li>古代作为凭信的玉器：～玉（诸侯朝见帝王时所执玉器的统称）。～节。～符。</li><li>吉详，好预兆：～气。～芝。～签。～雨。祥～。</li><li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> felicitous omen; auspicious</p><p><span class="z_ts2">德语</span> glücksverheißend, günstig ,Rui  (Eig, Fam)</p><p><span class="z_ts2">法语</span> propice,favorable,chanceux</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>瑞</strong> <span class="dicpy">ruì</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ruì.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。从玉，耑( <span class="dicpy">zhuān</span>)声。本义:玉制的符信，作凭证用)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[jade used as tally]</span></p><p><span class="diczx1">瑞，以玉为信也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">掌玉瑞器之藏。——<span class="smcs">《周礼·典瑞》</span>。注;<span class="yhcs">“符信也，人执以见曰瑞。”</span></span></p><p><span class="diczx1">成六瑞益王所用镇圭也。——<span class="smcs">《周礼·小行人》</span></span></p><p><span class="diczx1">以圭为瑞。——<span class="smcs">《礼记·礼器》</span></span></p><p><span class="diczx2">司马</span>请瑞。——<span class="smcs">《左传·哀公十四年》</span></p><p><span class="cino">(3)</span> 又如:瑞珪(天子赐的作为凭信的圭玉);瑞节(玉节;瑞与节);瑞令(符命);瑞玉(玉制信物)</p><p><span class="cino">(4)</span> 吉祥的事物 <span class="encs">[auspicious thing]</span></p><p><span class="diczx1">世间谓之圣王之瑞，为圣母来矣。——<span class="smcs">《论衡·指瑞》</span></span></p><p><span class="cino">(5)</span> 又如:瑞桢(吉祥)</p><p><span class="cino">(6)</span> 征兆 <span class="encs">[omen]</span></p><p><span class="diczx2">禹</span>亲把天之瑞令，以征有苗。——<span class="smcs">《墨子·非攻下》</span></p><p><span class="cino">(7)</span> 又如:祥瑞</p><p><span class="cino">(8)</span> 古州名 <span class="encs">[Rui prefecture]</span></p><p><span class="cino">(9)</span> 唐州名。故治在今辽宁省绥中县北</p><p><span class="cino">(10)</span> 宋州名。故治在今江西省高安县</p><p><span class="cino">(11)</span> 姓</p><p><strong>词性变化</strong></p><p>◎ <strong>瑞</strong> <span class="dicpy">ruì</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ruì.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 吉祥，吉利 <span class="encs">[auspicious;lucky;propitious]</span></p><p><span class="diczx1">日月星辰瑞历，是</span><span class="diczx2">禹</span><span class="diczx2">桀</span>之所同也。——<span class="smcs">《荀子·天论》</span></p><p><span class="cino">(2)</span> 又如:瑞雪霏霏;瑞应(祥瑞的感应);瑞星(吉祥之星);瑞相(吉祥的征兆);瑞物(吉祥之物);瑞光(吉祥之光);瑞日，瑞月(象征吉祥的日、月);瑞兽(象征吉祥之兽);瑞露(象征吉祥之露)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/瑞霭">瑞霭</a></span><span class="crefe"><a href="/hans/瑞金">瑞金</a></span><span class="crefe"><a href="/hans/瑞气">瑞气</a></span><span class="crefe"><a href="/hans/瑞签">瑞签</a></span><span class="crefe"><a href="/hans/瑞霞">瑞霞</a></span><span class="crefe"><a href="/hans/瑞香">瑞香</a></span><span class="crefe"><a href="/hans/瑞雪">瑞雪</a></span><span class="crefe"><a href="/hans/瑞雪霏霏">瑞雪霏霏</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>瑞</rb></rbc><rtc><rt>ㄖㄨㄟˋ</rt></rtc><rtc><rt>ruì <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5251.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">古代用玉做成的信物，诸侯持以朝祭或作为符节。</span><span class="gc_yy">《说文解字·玉部》：「<b>瑞</b>，以玉为信也。」</span></p></li><li><p class="def"><span class="gc_sy">吉祥的征兆。</span><span class="gc_yy">《镜花缘·第八三回》：「野人昼见蟢子者，……以为有喜乐之<b>瑞</b>。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">形</span><ol><li><p class="def"><span class="gc_sy">吉祥的。</span><span class="gc_lz">如：「瑞兆」、「瑞云」。</span><span class="gc_yy">唐·杜甫〈凤凰台〉诗：「自天衔<b>瑞</b>图，飞下十二楼。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="745E_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=玉" target="_blank">玉</a>】
+                              瑞·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：9</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=玉" target="_blank">玉</a>】
+                              瑞·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：9</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/745E.svg">						  <p>【唐韻】是僞切【集韻】【韻會】樹僞切【正韻】殊僞切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音倕。【說文】以玉爲信也。【玉篇】信節也。諸侯之珪也。【書·舜典】輯五瑞。【釋文】信也。【周禮·春官】以玉作六瑞，以等邦國。【註】玉，公侯伯子男所執圭璧。</p><p>又【典瑞】掌玉瑞玉器之藏。【註】人執以見曰瑞。瑞，符信也。</p><p>又【韻會】祥瑞也。天以人君有德符，將錫之以歷年，錫之以五福，先出此，以與之爲信也。【春秋·左傳杜序】麟鳳五靈，王者之嘉瑞也。【唐書·百官志】禮部郎中員外郎掌圖書祥瑞，景星慶云爲大瑞，其名物六十四。白猿赤兔爲上瑞，其名物二十八。蒼鳥赤雁爲中瑞，其名物三十有二。嘉禾芝草木連理爲下瑞，其名物十二。</p><p>又州名。本唐筠州，以土產篁竹名。宋改瑞州。</p><p>又姓。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="745E_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=玉">玉</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=玉">玉</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/745E.svg">                          <p>以玉爲信也。从玉耑。是僞切〖注〗徐鍇曰：“耑，諦也。會意。”</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/745E_3966.svg"  /><span class="swbf">(瑞)</span><span class="ywyy">以玉爲信也。</span><span class="swdz">典瑞。掌玉瑞玉器之藏。注云。人執以見曰瑞。禮神曰器。又云。瑞、節信也。說文卪下云。瑞信也。是瑞卪二字爲轉注。禮神之器亦瑞也。瑞爲圭璧璋琮之總偁。自璧至瑁十五字皆瑞也。故總言之。引伸爲祥瑞者、亦謂感召若符節也。</span><span class="ywyy">从王。耑聲。</span><span class="swdz">耑聲在十四部。而瑞揣圌字音轉入十五部。唐韻是僞切。又入十六部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="745E_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʐuei˥˧ <span class="z_ts4">日语读音</span>  SHIRUSHI MIZU<span class="z_ts4">韩语罗马</span>  SE<span class="z_ts4">现代韩语</span>  서</p>						<p><span class="z_ts3">客家话</span>  [海陆腔] sui5 sui5 [客语拼音字汇] sui4 [陆丰腔] sui6 [东莞腔] sui3 [台湾四县腔] sui5 [客英字典] sui5 sui5 [宝安腔] sui5 [梅县腔] shui5 [沙头角腔] sui5<span class="z_ts2">粤语</span>  seoi6</p>						<p><span class="z_ts3">近代音</span>  審母    齊微韻    去聲    誰小空；<span class="z_ts3">中古音</span>  禪母    寘韻    去聲    睡小韻    是僞切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：定母    歌部   ；王力系统：禪母    歌部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/瑞">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/瑞">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/瑞">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/瑞">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/瑞">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/瑞">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/瑞">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/瑞">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/瑞">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/瑞">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/瑞">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/瑞">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">瑞</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/cx/瑞"><img data-original="//img.zdic.net/zy/chuwenzi/51_E331.svg" class="lazy ypic"><span>「瑞」 包2.22</span></a></td><td><a href="/zd/zx/xz/瑞"><img data-original="//img.zdic.net/zy/xiaozhuan/27_745E.svg" class="lazy ypic"><span>「瑞」 說文‧玉部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/瑞" target="_blank"><img data-original="//img.zdic.net/kai/tw/745E.svg" class="lazy ypic"><span>「瑞」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/瑞">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/瑞">說文小篆</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/745E.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/745E.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/745E.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/745E.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/745E.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                             
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="9823" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6576">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㓹">㓹(rui4)</a></li><li><a href="/hans/蚋">蚋(rui4)</a></li><li><a href="/hans/䳠">䳠(rui4)</a></li><li><a href="/hans/㲊">㲊(rui4)</a></li><li><a href="/hans/兌">兌(rui4)</a></li><li><a href="/hans/㨅">㨅(rui4)</a></li><li><a href="/hans/䌼">䌼(rui4)</a></li><li><a href="/hans/䦌">䦌(rui4)</a></li><li><a href="/hans/鋭">鋭(rui4)</a></li><li><a href="/hans/㪫">㪫(rui4)</a></li><li><a href="/hans/叡">叡(rui4)</a></li><li><a href="/hans/兑">兑(rui4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/珎">珎</a></li><li><a href="/hans/琄">琄</a></li><li><a href="/hans/玓">玓</a></li><li><a href="/hans/玠">玠</a></li><li><a href="/hans/㻲">㻲</a></li><li><a href="/hans/㺯">㺯</a></li><li><a href="/hans/瑝">瑝</a></li><li><a href="/hans/球">球</a></li><li><a href="/hans/㻭">㻭</a></li><li><a href="/hans/瓎">瓎</a></li><li><a href="/hans/璒">璒</a></li><li><a href="/hans/珜">珜</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/楍">楍</a></li><li><a href="/hans/詬">詬</a></li><li><a href="/hans/稥">稥</a></li><li><a href="/hans/豢">豢</a></li><li><a href="/hans/馵">馵</a></li><li><a href="/hans/勤">勤</a></li><li><a href="/hans/僉">僉</a></li><li><a href="/hans/湬">湬</a></li><li><a href="/hans/䬳">䬳</a></li><li><a href="/hans/觥">觥</a></li><li><a href="/hans/㡗">㡗</a></li><li><a href="/hans/壾">壾</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=9823"></script>
+</body>
+</html>

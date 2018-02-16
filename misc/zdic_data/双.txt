@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>双的解释|双的意思|汉典“双”字的基本解释</title>
+<meta name="title" content="双的解释|双的意思|汉典“双”字的基本解释">
+<meta name="keywords" content="左：又，右：又。  " /><meta property="og:title" content="“双”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“双”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“双”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/双" />
+<link rel="canonical" href="//www.zdic.net/hans/双" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/双" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/双" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/双" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/双">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/双">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/53CC.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/53CC.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shuāng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“双”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕㄨㄤ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“双”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨㄤ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=又" target="_blank">  又</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/雙' target=_blank>雙</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/友' target=_blank>友</a> <a href='/hans/雙' target=_blank>雙</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+53CC</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>5454</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ccy</p></td>                            <td class="dsk_2_1"><p>xee</p></td>                            <td class="dsk_2_1"><p>xsxs</p></td>                            <td class="dsk_2_1"><p>77440</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shuāng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“双”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕㄨㄤ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“双”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨㄤ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=又" target="_blank">又</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 53CC<span class="z_ts2">笔顺</span> 5454                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="53CC_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1485" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">双</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>双</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">雙</span>）</strong></p><p><span class="dicpy">shuāng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span> ㄕㄨㄤˉ</span></p><hr class="dichr" /><ol>	<li>两个，一对：一～鞋。～杠。～重（<span class="dicpy">chǒng </span>）。～方。～管齐下。～豆塞聪（耳被堵塞，一无所闻）。～瞳剪水（形容眼珠的清澈）。智勇～全。盖世无～。</li>	<li>偶，与&ldquo;<span class="diczx3">单</span>&rdquo;相对：～数。～号。</li>	<li>加倍的：～料。～份。</li>	<li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> set of two, pair, couple; both</p><p><span class="z_ts2">德语</span> ZEW für paarige Gegenstände (ein Paar)​  (Zähl)​,zwei..., beide, doppelt  (Adj)​,gerade (Zahl)​</p><p><span class="z_ts2">法语</span> paire,couple,deux,double</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">双</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>双</strong></p>
+<p>雙 <span class="dicpy">shuāng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (会意。从雔，从又，持之。雔( <span class="dicpy">ch&oacute;u</span>)，两只鸟。又，手。本义:一对)</p>
+<p><span class="cino">(2)</span> 禽鸟二只 <span class="encs">[two birds]</span></p>
+<p><span class="diczx1">雙，隹二枚也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">飞鸟曰双。&mdash;&mdash;<span class="smcs">《方言六》</span></span></p>
+<p><span class="diczx1">其诸为其双双而俱至者与。&mdash;&mdash;<span class="smcs">《公羊传&middot;宣公五年》</span>。正义:&ldquo;双双之鸟，一身二首尾，有雌雄，随便而偶，常不离散。&rdquo;</span></p>
+<p><span class="diczx1">中有双飞鸟，自名为鸳鸯。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="cino">(3)</span> 云南等地少数民族计算田亩的单位 <span class="encs">[acre]</span>。田广二亩、四亩、五亩都可称双，各从方俗;无定制</p>
+<p><span class="diczx1">官为田，四十双为二百亩。&mdash;&mdash;<span class="smcs">《唐书》</span></span></p>
+<p><span class="cino">(4)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>双</strong></p>
+<p>雙 <span class="dicpy">shuāng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 成双的，一对 <span class="encs">[two;both;double;twin;dual]</span></p>
+<p><span class="diczx1">云有第三郎，窈窕世无双。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">厅旁一室，为吾与汝双栖之所。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">林觉民</span><span class="smcs">《与妻书》</span></p>
+<p><span class="diczx3">又如:双人舞;举世无双;双红(双红帖。比单帖大一倍，从中折合，用红纸，故名);双林(即沙罗双树，佛祖示寂(死亡)的地方);双阙(古代宫殿、宗庙与陵墓前左右各一个的高台楼观);双套飞车(两头牲口拉的快车);双骞(双飞);双七(指农历七月七日);双丸(指日和月);双角(两角);双杵(古人捣衣，对立执杵如舂米，故名双杵);双枚(屋内的重檐);双关儿透(很透彻);双栖(指禽鸟雌雄同栖息。借喻夫妻形影不离);双靥(脸的两颊);双向沟通(指让意见沟通的双方均能有公平的机会，坦然地表达讯息的意义)</span></p>
+<p><span class="cino">(2)</span> 偶，与&ldquo;单&rdquo;相对 <span class="encs">[even]</span></p>
+<p><span class="diczx1">唐朝故事，只日视事，双日不坐。&mdash;&mdash;<span class="smcs">《宋史&middot;礼志》</span></span></p>
+<p><span class="diczx3">又如:单日不着双日着(迟早有一天总会遇上)</span></p>
+<p>◎ <strong>双</strong></p>
+<p>雙 <span class="dicpy">shuāng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span> </p>
+<p><span class="xx_cx">量</span></p>
+<p><span class="cino">(1)</span> 两个，一对 <span class="encs">[pair]</span></p>
+<p><span class="diczx1">凡献，执一双。&mdash;&mdash;<span class="smcs">《仪礼&middot;聘礼》</span></span></p>
+<p><span class="diczx1">客从远方来，遗我双鲤鱼。&mdash;&mdash;古乐府<span class="smcs">《饮马长城窟行》</span></span></p>
+<p><span class="diczx3">又如:一双鞋;一双短袜;三双手套;还要一双筷子;有一双灵丽的眼睛;一双脚</span></p>
+<p>◎ <strong>双</strong></p>
+<p>雙 <span class="dicpy">shuāng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shuāng.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 追随，跟从 <span class="encs">[follow]</span></p>
+<p><span class="diczx1">恶少爱众，天下双。&mdash;&mdash;<span class="smcs">《文子&middot;符言》</span></span></p>
+<p><span class="cino">(2)</span> 匹敌 <span class="encs">[match]</span></p>
+<p><span class="diczx1">至如信者，天下无双。&mdash;&mdash;<span class="smcs">《史记&middot;淮阴侯列传》</span></span></p>
+<p><span class="diczx3">又如:双珠(兄弟俱美之称);双凤(兄弟俱美，才智出众)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/双百方针">双百方针</a></span><span class="crefe"><a href="/hans/双胞胎">双胞胎</a></span><span class="crefe"><a href="/hans/双边">双边</a></span><span class="crefe"><a href="/hans/双宾语">双宾语</a></span><span class="crefe"><a href="/hans/双重">双重</a></span><span class="crefe"><a href="/hans/双重国籍">双重国籍</a></span><span class="crefe"><a href="/hans/双重人格">双重人格</a></span><span class="crefe"><a href="/hans/双打">双打</a></span><span class="crefe"><a href="/hans/双档">双档</a></span><span class="crefe"><a href="/hans/双方">双方</a></span><span class="crefe"><a href="/hans/双峰驼">双峰驼</a></span><span class="crefe"><a href="/hans/双幅">双幅</a></span><span class="crefe"><a href="/hans/双杠">双杠</a></span><span class="crefe"><a href="/hans/双挂号">双挂号</a></span><span class="crefe"><a href="/hans/双关">双关</a></span><span class="crefe"><a href="/hans/双关语">双关语</a></span><span class="crefe"><a href="/hans/双管齐下">双管齐下</a></span><span class="crefe"><a href="/hans/双轨">双轨</a></span><span class="crefe"><a href="/hans/双轨铁路">双轨铁路</a></span><span class="crefe"><a href="/hans/双轨制">双轨制</a></span><span class="crefe"><a href="/hans/双铧犁">双铧犁</a></span><span class="crefe"><a href="/hans/双簧">双簧</a></span><span class="crefe"><a href="/hans/双交">双交</a></span><span class="crefe"><a href="/hans/双料">双料</a></span><span class="crefe"><a href="/hans/双流">双流</a></span><span class="crefe"><a href="/hans/双陆">双陆</a></span><span class="crefe"><a href="/hans/双抢">双抢</a></span><span class="crefe"><a href="/hans/双亲">双亲</a></span><span class="crefe"><a href="/hans/双曲线">双曲线</a></span><span class="crefe"><a href="/hans/双全">双全</a></span><span class="crefe"><a href="/hans/双人床">双人床</a></span><span class="crefe"><a href="/hans/双生">双生</a></span><span class="crefe"><a href="/hans/双声">双声</a></span><span class="crefe"><a href="/hans/双胎">双胎</a></span><span class="crefe"><a href="/hans/双瞳剪水">双瞳剪水</a></span><span class="crefe"><a href="/hans/双响">双响</a></span><span class="crefe"><a href="/hans/双薪">双薪</a></span><span class="crefe"><a href="/hans/双星">双星</a></span><span class="crefe"><a href="/hans/双姓">双姓</a></span><span class="crefe"><a href="/hans/双元音">双元音</a></span><span class="crefe"><a href="/hans/双月">双月</a></span><span class="crefe"><a href="/hans/双月刊">双月刊</a></span><span class="crefe"><a href="/hans/双职工">双职工</a></span><span class="crefe"><a href="/hans/双周刊">双周刊</a></span><span class="crefe"><a href="/hans/双柱">双柱</a></span><span class="crefe"><a href="/hans/双作">双作</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="53CC_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=又" target="_blank">又</a>】
+                              双·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：2</span>
+                                                          </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">双</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=又" target="_blank">又</a>】
+                              双·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：2</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/53CC.svg">						  <p>【韻會】雙，俗作双，非。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="53CC_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=又">又</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">友</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“双”字头，请参考“<a href="/hans/友">友</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=又">又</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/53CB.svg">                          <p>同<img class="lazy k_img" data-original="//img.zdic.net/song/cn/225BD.svg"><span class="k_txt">𢖽</span>爲友。从二又。相交友也。<img class="swtimg" src="//img.zdic.net/swxz/53CB_1.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/26AF9.svg"><span class="k_txt">𦫹</span>，古文友。<img class="swtimg" src="//img.zdic.net/swxz/53CB_2.svg" />習，亦古文友。云久切〖注〗<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20B3A.svg"><span class="k_txt">𠬺</span>，古文友。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/53CB_672.svg" /><span class="swbf">(友)</span><span class="ywyy">同志爲友。</span><span class="swdz">周禮注曰：同師曰朋，同志曰友。</span><span class="ywyy">从二又相交。</span><span class="swdz">二又，二人也。善兄弟曰友，亦取二人而如左右手也。云久切。三部。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/53CB_673.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26AF9.svg"><span class="k_txt">𦫹</span>)</span><span class="ywyy">古文友。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/53CB_674.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2642E.svg"><span class="k_txt">𦐮</span>)</span><span class="ywyy">亦古文友。</span><span class="swdz">未詳。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="53CC_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">双</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂuɑŋ˥ <span class="z_ts4">日语读音</span>  FUTATSU NARABU TAGUI<span class="z_ts4">韩语罗马</span>  SSANG<span class="z_ts3">越南语</span>  song</p>						<p><span class="z_ts2">粤语</span>  soeng1</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/双">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/双">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/双">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/双">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/双">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/双">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/双">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/双">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/双">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/双">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/双">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/双">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/双">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">双</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「友」。</p>
+<table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/友"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_EFF3.svg" /><span>「友」 菁1.1</span><span>合6057</span></a></td>
+			<td><a href="/zd/zx/jw/友"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_F007.svg" /><span>「友」 麥方鼎</span><span>西周早期</span><span>集成2706</span></a></td>
+			<td><a href="/zd/zx/cx/友"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_F238.svg" /><span>「友」 郭.語3.62</span></a></td>
+			<td><a href="/zd/zx/xz/友"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E296.svg" /><span>「友」 說文古文</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/双" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/53CC.svg" /><span>「友」</span></a></td>
+		</tr>
+	</tbody>
+</table>					 
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/53CC.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/53CC.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/53CC.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/53CC.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/友' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/53CB.svg'><span>友</span></a></div> <div class='zx'><a href='/hans/雙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/96D9.svg'><span>雙</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1485" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6789">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/騻">騻(shuang1)</a></li><li><a href="/hans/欆">欆(shuang1)</a></li><li><a href="/hans/孇">孇(shuang1)</a></li><li><a href="/hans/鹴">鹴(shuang1)</a></li><li><a href="/hans/泷">泷(shuang1)</a></li><li><a href="/hans/瀧">瀧(shuang1)</a></li><li><a href="/hans/艭">艭(shuang1)</a></li><li><a href="/hans/孀">孀(shuang1)</a></li><li><a href="/hans/骦">骦(shuang1)</a></li><li><a href="/hans/礵">礵(shuang1)</a></li><li><a href="/hans/鸘">鸘(shuang1)</a></li><li><a href="/hans/鷞">鷞(shuang1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/収">収</a></li><li><a href="/hans/又">又</a></li><li><a href="/hans/叝">叝</a></li><li><a href="/hans/叕">叕</a></li><li><a href="/hans/㕞">㕞</a></li><li><a href="/hans/发">发</a></li><li><a href="/hans/㕝">㕝</a></li><li><a href="/hans/友">友</a></li><li><a href="/hans/㕟">㕟</a></li><li><a href="/hans/叒">叒</a></li><li><a href="/hans/㕚">㕚</a></li><li><a href="/hans/取">取</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/仌">仌</a></li><li><a href="/hans/戸">戸</a></li><li><a href="/hans/㕕">㕕</a></li><li><a href="/hans/支">支</a></li><li><a href="/hans/计">计</a></li><li><a href="/hans/厅">厅</a></li><li><a href="/hans/𠂓">𠂓</a></li><li><a href="/hans/乏">乏</a></li><li><a href="/hans/仁">仁</a></li><li><a href="/hans/斤">斤</a></li><li><a href="/hans/井">井</a></li><li><a href="/hans/𠃚">𠃚</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">雄兔脚扑朔，雌兔眼迷离；<span>双</span>兔傍地走，安能辨我是雄雌？</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">陈康肃公善射，当世无<span>双</span>，公亦以此自矜。</div><div class="gscdr">宋·欧阳修 《卖油翁》</div><div class="gscdl">故园东望路漫漫，<span>双</span>袖龙钟泪不干。</div><div class="gscdr">唐·岑参 《逢入京使》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=1485"></script>
+</body>
+</html>

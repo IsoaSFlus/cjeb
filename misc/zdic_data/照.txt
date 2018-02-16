@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>照的解释|照的意思|汉典“照”字的基本解释</title>
+<meta name="title" content="照的解释|照的意思|汉典“照”字的基本解释">
+<meta name="keywords" content="上：昭，下：灬。 " /><meta property="og:title" content="“照”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“照”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“照”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/照" />
+<link rel="canonical" href="//www.zdic.net/hans/照" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/照" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/照" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/照" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/照">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/照">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/7167.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/7167.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhào<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“照”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhào.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄠˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“照”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄠˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=灬" target="_blank">  灬</a></p>
+                              <p><span class="z_ts2">部外</span>  9</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/㷖' target=_blank>㷖</a> <a href='/hans/昭' target=_blank>昭</a> <a href='/hans/曌' target=_blank>曌</a> <a href='/hans/炤' target=_blank>炤</a> <a href='/hans/燳' target=_blank>燳</a> <a href='/hans/瞾' target=_blank>瞾</a> <a href='/hans/𢢤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/228A4.svg'><span class='ytz_txt'>𢢤</span></a> <a href='/hans/𣉬' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2326C.svg'><span class='ytz_txt'>𣉬</span></a> <a href='/hans/𣊕' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23295.svg'><span class='ytz_txt'>𣊕</span></a> <a href='/hans/𣊧' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/232A7.svg'><span class='ytz_txt'>𣊧</span></a> <a href='/hans/𤋜' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/242DC.svg'><span class='ytz_txt'>𤋜</span></a> <a href='/hans/𥊐' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/25290.svg'><span class='ytz_txt'>𥊐</span></a> <a href='/hans/𥋫' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/252EB.svg'><span class='ytz_txt'>𥋫</span></a> <a href='/hans/𢡰' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22870.svg'><span class='ytz_txt'>𢡰</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7167</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>2511532514444</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>jvko</p></td>                            <td class="dsk_2_1"><p>arf</p></td>                            <td class="dsk_2_1"><p>kyju</p></td>                            <td class="dsk_2_1"><p>67336</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhào<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“照”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhào.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄠˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“照”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄠˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=灬" target="_blank">灬</a> <span class="z_ts2">部外</span> 9<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">基本区</span> 7167<span class="z_ts2">笔顺</span> 2511532514444                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7167_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=9064" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>照</strong></p><p><span class="dicpy">zh&agrave;o  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&agrave;o.mp3"></a></span>  ㄓㄠˋ</span></p><hr class="dichr" /><ol>	<li>光线射在物体上：日～。～耀。～射。</li>	<li>对着镜子或其他反光的东西看自己或其他人物的影像：～镜子。</li>	<li>摄影：～相。拍～。</li>	<li>画像或相片：小～。写～。</li>	<li>看顾：～管。～顾。</li>	<li>按着，依着：依～。遵～。～搬。～本宣科。</li>	<li>凭证：护～。牌～。执～。</li>	<li>知晓：心～不宣。肝胆相～。</li>	<li>通知，通告：知～。～会。</li>	<li>对着，向着：～壁。～敌人开枪。</li>	<li>查对：对～。查～。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> shine, illumine, reflect</p><p><span class="z_ts2">德语</span> scheinen, leuchten; sich spiegeln; fotografieren; in Übereinstimmung mit</p><p><span class="z_ts2">法语</span> selon,suivant,photo,licence,éclairer,illuminer,se refléter,se mirer,photographier,comprendre</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>照</strong></p>
+<p>炤 <span class="dicpy">zh&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&agrave;o.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> (形声。从火，昭声，字亦作炤。本义:明亮;光明) 同本义 <span class="encs">[bright]</span></p>
+<p><span class="diczx1">照，明也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">亦孔之炤。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;正月》</span></span></p>
+<p><span class="diczx1">月出照兮。&mdash;&mdash;<span class="smcs">《诗&middot;陈风&middot;月出》</span></span></p>
+<p><span class="diczx1">昔者十日并出，万物皆照。&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="diczx1">远近照闻。&mdash;&mdash;<span class="smcs">《郯令景君阙铭》</span></span></p>
+<p><span class="diczx1">盛德炤明。&mdash;&mdash;<span class="smcs">《谯敏碑》</span></span></p>
+<p><span class="diczx1">炤之以祸灾。&mdash;&mdash;<span class="smcs">《荀子&middot;修身》</span></span></p>
+<p><span class="diczx3">又如:照彻(透明晶莹 );照澄(明朗清爽)&ldquo;炤&rdquo;</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">zhāo</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>照</strong> <span class="dicpy">zh&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&agrave;o.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 照射，照耀 <span class="encs">[shine;illuminate;light up]</span></p>
+<p><span class="diczx1">照耀煇煌。&mdash;&mdash;<span class="smcs">《淮南子&middot;本经》</span></span></p>
+<p><span class="diczx1">日月递炤。&mdash;&mdash;<span class="smcs">《荀子&middot;天论》</span>。注:&ldquo;炤与照同。&rdquo;</span></p>
+<p><span class="diczx1">指日月使延照兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;灵怀》</span>。注:&ldquo;知也。&rdquo;</span></p>
+<p><span class="diczx1">照我</span><span class="diczx2">秦</span>氏楼。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;陌上桑》</span></p>
+<p><span class="diczx1">寒光照铁衣。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">留取丹心照汗青。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">文天祥</span><span class="smcs">《过零丁洋》</span></p>
+<p><span class="diczx1">星光照旷野。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p>
+<p><span class="diczx1">日照城郭。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">姚鼐</span><span class="smcs">《登泰山记》</span></p>
+<p><span class="diczx3">又如:回光反照;照烂(犹灿烂);照覆(日照天覆。喻帝王之明睿恩威);照焕(辉耀);照夜(光耀黑夜中);照灼(光芒四射;闪耀)</span></p>
+<p><span class="cino">(2)</span> 映照;反射影像 <span class="encs">[reflect]</span></p>
+<p><span class="diczx1">湖月照我影。&mdash;&mdash;</span><span class="diczx2">李白</span><span class="smcs">《梦游天姥吟留别》</span></p>
+<p><span class="diczx1">满园深浅色，照在绿波中。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">王维</span><span class="smcs">《游春曲二首》</span></p>
+<p><span class="diczx1">照花前后镜，花面交相映。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">温庭筠</span><span class="smcs">《菩萨蛮》</span></p>
+<p><span class="diczx3">又如:照镜子;照见(以光照或反光物中映见);照夜(光耀黑夜中);照面(照见容颜)</span></p>
+<p><span class="cino">(3)</span> 照顾;照料 <span class="encs">[take care of]</span></p>
+<p><span class="diczx1">虽则是平分天道，高头偏俺照。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">汤显祖</span><span class="smcs">《牡丹亭&middot;虏谍》</span></p>
+<p><span class="diczx3">又如:照觑(照顾;照料);照庇(照应保护);照呼(方言。照顾)</span></p>
+<p><span class="cino">(4)</span> 拍摄 <span class="encs">[take (a picture)]</span>。</p>
+<p><span class="diczx3">如:给你照一张像</span></p>
+<p><span class="cino">(5)</span> 察知;明白 <span class="encs">[understand]</span></p>
+<p><span class="diczx1">心照神交，惟我与子。&mdash;&mdash;</span><span class="diczx2">潘岳</span><span class="smcs">《夏侯常侍诛》</span></p>
+<p><span class="diczx3">又如:照了(彻见;洞晓);照知(明察);照察 (明察，照见);照燎(明察);照览(明察);照鉴(明察);查照;照奸(察知奸邪);照微(察见隐微);照得(查察而得)</span></p>
+<p><span class="cino">(6)</span> 通&ldquo;昭&rdquo;( <span class="dicpy">zh&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&agrave;o.mp3"></a></span> )。显示<span class="encs">[show]</span></p>
+<p><span class="diczx1">照乎知万物。&mdash;&mdash;<span class="smcs">《管子&middot;内业》</span></span></p>
+<p><span class="diczx1">不可以照期。&mdash;&mdash;<span class="smcs">《文子缵义&middot;精诚》</span></span></p>
+<p><span class="diczx1">彼日月之照明兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;九辩》</span></span></p>
+<p>◎ <strong>照</strong> <span class="dicpy">zh&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&agrave;o.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 日光 <span class="encs">[sunlight]</span></p>
+<p><span class="diczx1">远岸秋沙白，连山晚照红。&mdash;&mdash;</span><span class="diczx2">杜甫</span><span class="smcs">《秋野》</span></p>
+<p><span class="cino">(2)</span> 图像;相片 <span class="encs">[photograph]</span>。</p>
+<p><span class="diczx3">如:剧照;玉照</span></p>
+<p><span class="cino">(3)</span> 凭据;证明 <span class="encs">[license]</span></p>
+<p><span class="diczx1">钱却有，何以为照。&mdash;&mdash;<span class="smcs">《喻世明言》</span></span></p>
+<p><span class="diczx3">又如:无照行车;照提(凭据)</span></p>
+<p>◎ <strong>照</strong> <span class="dicpy">zh&agrave;o</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&agrave;o.mp3"></a></span> </p>
+<p><span class="xx_cx">介</span></p>
+<p><span class="cino">(1)</span> 表示方向，可加助词&ldquo;着&rdquo;，相当于&ldquo;对&rdquo;、&ldquo;向&rdquo; <span class="encs">[to;towards;in the direction of; etc.]</span></p>
+<p><span class="diczx1">过了一个小石桥，照着那极窄的石磴走上去，又是一座大庙。&mdash;&mdash;<span class="smcs">《儒林外史》</span></span></p>
+<p><span class="diczx3">又如:照着(对着;朝着)</span></p>
+<p><span class="cino">(2)</span> 按，依。按原样或某种标准做 <span class="encs">[according to]</span></p>
+<p><span class="diczx1">凡分田，照人口，不论男妇。&mdash;&mdash;</span><span class="diczx2">太平天国</span><span class="smcs">《天朝田亩制度》</span></p>
+<p><span class="diczx3">如:照式(照样，按原样);照例;照数(依照一定的数量)</span></p>
+<p><span class="cino">(3)</span> 表示比较，相当于&ldquo;比&rdquo; <span class="encs">[than]</span>。</p>
+<p><span class="diczx3">如:他打听了他们两口子的感情，近来照往常好些，从来不顶嘴</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/照搬">照搬</a></span><span class="crefe"><a href="/hans/照办">照办</a></span><span class="crefe"><a href="/hans/照本宣科">照本宣科</a></span><span class="crefe"><a href="/hans/照壁">照壁</a></span><span class="crefe"><a href="/hans/照常">照常</a></span><span class="crefe"><a href="/hans/照抄">照抄</a></span><span class="crefe"><a href="/hans/照度">照度</a></span><span class="crefe"><a href="/hans/照登">照登</a></span><span class="crefe"><a href="/hans/照发">照发</a></span><span class="crefe"><a href="/hans/照顾">照顾</a></span><span class="crefe"><a href="/hans/照管">照管</a></span><span class="crefe"><a href="/hans/照会">照会</a></span><span class="crefe"><a href="/hans/照旧">照旧</a></span><span class="crefe"><a href="/hans/照看">照看</a></span><span class="crefe"><a href="/hans/照理">照理</a></span><span class="crefe"><a href="/hans/照例">照例</a></span><span class="crefe"><a href="/hans/照亮">照亮</a></span><span class="crefe"><a href="/hans/照料">照料</a></span><span class="crefe"><a href="/hans/照猫画虎">照猫画虎</a></span><span class="crefe"><a href="/hans/照明">照明</a></span><span class="crefe"><a href="/hans/照明弹">照明弹</a></span><span class="crefe"><a href="/hans/照片">照片</a></span><span class="crefe"><a href="/hans/照片子">照片子</a></span><span class="crefe"><a href="/hans/照射">照射</a></span><span class="crefe"><a href="/hans/照说">照说</a></span><span class="crefe"><a href="/hans/照相">照相</a></span><span class="crefe"><a href="/hans/照相机">照相机</a></span><span class="crefe"><a href="/hans/照眼">照眼</a></span><span class="crefe"><a href="/hans/照样">照样</a></span><span class="crefe"><a href="/hans/照妖镜">照妖镜</a></span><span class="crefe"><a href="/hans/照耀">照耀</a></span><span class="crefe"><a href="/hans/照应">照应</a></span><span class="crefe"><a href="/hans/照映">照映</a></span><span class="crefe"><a href="/hans/照章">照章</a></span><span class="crefe"><a href="/hans/照直">照直</a></span><span class="crefe"><a href="/hans/照准">照准</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>照</rb></rbc><rtc><rt>ㄓㄠˋ</rt></rtc><rtc><rt>zh&agrave;o <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4362.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">映射。</span><span class="gc_lz">如：「照耀」、「陽光<b>照</b>在窗戶上。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">投映。</span><span class="gc_lz">如：「照鏡子」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">比擬、依據。</span><span class="gc_lz">如：「仿<b>照</b>」、「照貓畫虎」、「比<b>照</b>辦理」、「照本宣科」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">比對、核對。</span><span class="gc_lz">如：「對<b>照</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">通知。</span><span class="gc_lz">如：「照會」、「關<b>照</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">向著、對著。</span><span class="gc_lz">如：「<b>照</b>頭一棍」、「<b>照</b>著敵人開槍」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">看、顧。</span><span class="gc_lz">如：「照顧」、「照應」、「照料」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">知曉。</span><span class="gc_lz">如：「心照不宣」。</span><span class="gc_yy">《三國志&middot;卷一九&middot;魏書&middot;陳思王植傳》：「臣聞騏驥長鳴，則伯樂<b>照</b>其能；盧狗悲號，則韓國知其才。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">攝取影像。</span><span class="gc_lz">如：「照相」、「這張像片是新<b>照</b>的。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">日光。</span><span class="gc_lz">如：「夕<b>照</b>」、「殘<b>照</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">像片。</span><span class="gc_lz">如：「近<b>照</b>」、「玉<b>照</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">憑證。</span><span class="gc_lz">如：「執<b>照</b>」、「護<b>照</b>」。</span><span class="gc_yy">《喻世明言&middot;卷三三&middot;張古老種瓜娶文女》：「申公道：『錢卻有，何以為<b>照</b>？』」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7167_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=巳集中" target="_blank">巳集中</a>】【<a href="/zd/kx/?zm=巳集中&amp;bs=火" target="_blank">火</a>】
+                              照·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：9</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=巳集中" target="_blank">巳集中</a>】【<a href="/zd/kx/?zm=巳集中&amp;bs=火" target="_blank">火</a>】
+                              照·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：9</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7167.svg">						  <p>【唐韻】之少切【集韻】【韻會】【正韻】之笑切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音詔。【說文】本作㷖。【增韻】明所燭也。【易&middot;離卦】大人以繼明照于四方。【書&middot;泰誓】若日月之照臨。</p><p>又【正字通】北齊劉縚兄弟，父名照，一生不作照字，惟依火旁作炤。【廣韻】同炤。【集韻】或省作昭。唐武后作曌。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7167_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=火">火</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=火">火</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7167.svg">                          <p>明也。从火昭聲。之少切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7167_3708.svg" /><span class="swbf">(照)</span><span class="ywyy">朙也。</span><span class="swdz">與昭音義同。</span><span class="ywyy">从火昭聲。</span><span class="swdz">之少切。二部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7167_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂɑu˥˧ <span class="z_ts4">唐代读音</span>  *jiɛ̀u<span class="z_ts4">日语读音</span>  TERU TERASU TERI<span class="z_ts4">韩语罗马</span>  CO<span class="z_ts4">现代韩语</span>  조<span class="z_ts3">越南语</span>  chiếu</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] zau5 [客语拼音字汇] zau4 zeu4 [台湾四县腔] zeu5 zau5 [梅县腔] zhau5 [陆丰腔] zhau5 [东莞腔] zau5 [海陆腔] zhau5 [客英字典] zhau5 [宝安腔] zau5<span class="z_ts2">粤语</span>  ziu3</p>						<p><span class="z_ts3">近代音</span>  照母    蕭豪韻    去聲    趙小空；<span class="z_ts3">中古音</span>  照章母    笑韻    去聲    照小韻    之少切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：端母    豪部   ；王力系统：章母    宵部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/照">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/照">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/照">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/照">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/照">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/照">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/照">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/照">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/照">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/照">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/照">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/照">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">照</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td>金文</td>
+			<td style="display:none">楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/jw/照"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E97B.svg" /><span>「<img class="ykai" data-original="//img.zdic.net/zy/kai/8_E33E.svg" />」 史墻盤</span><span>西周中期</span><span>集成10175</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/照"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_7167.svg" /><span>「照」 說文‧火部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/照" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/7167.svg" /><span>「照」</span></a></td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/照">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/照">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/照">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7167.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7167.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7167.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7167.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/7167.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㷖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3DD6.svg'><span>㷖</span></a></div> <div class='zx'><a href='/hans/昭' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/662D.svg'><span>昭</span></a></div> <div class='zx'><a href='/hans/曌' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/66CC.svg'><span>曌</span></a></div> <div class='zx'><a href='/hans/炤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/70A4.svg'><span>炤</span></a></div> <div class='zx'><a href='/hans/燳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/71F3.svg'><span>燳</span></a></div> <div class='zx'><a href='/hans/瞾' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/77BE.svg'><span>瞾</span></a></div> <div class='zx'><a href='/hans/𢢤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/228A4.svg'><span>𢢤</span></a></div> <div class='zx'><a href='/hans/𣉬' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2326C.svg'><span>𣉬</span></a></div> <div class='zx'><a href='/hans/𣊕' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23295.svg'><span>𣊕</span></a></div> <div class='zx'><a href='/hans/𣊧' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/232A7.svg'><span>𣊧</span></a></div> <div class='zx'><a href='/hans/𤋜' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/242DC.svg'><span>𤋜</span></a></div> <div class='zx'><a href='/hans/𥊐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/25290.svg'><span>𥊐</span></a></div> <div class='zx'><a href='/hans/𥋫' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/252EB.svg'><span>𥋫</span></a></div> <div class='zx'><a href='/hans/𢡰' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22870.svg'><span>𢡰</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="9064" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7771">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䖺">䖺(zhao4)</a></li><li><a href="/hans/笊">笊(zhao4)</a></li><li><a href="/hans/炤">炤(zhao4)</a></li><li><a href="/hans/肇">肇(zhao4)</a></li><li><a href="/hans/瞾">瞾(zhao4)</a></li><li><a href="/hans/曌">曌(zhao4)</a></li><li><a href="/hans/㐒">㐒(zhao4)</a></li><li><a href="/hans/㑿">㑿(zhao4)</a></li><li><a href="/hans/棹">棹(zhao4)</a></li><li><a href="/hans/㹿">㹿(zhao4)</a></li><li><a href="/hans/鮡">鮡(zhao4)</a></li><li><a href="/hans/䃍">䃍(zhao4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/焦">焦</a></li><li><a href="/hans/煞">煞</a></li><li><a href="/hans/為">為</a></li><li><a href="/hans/熟">熟</a></li><li><a href="/hans/炁">炁</a></li><li><a href="/hans/烈">烈</a></li><li><a href="/hans/燕">燕</a></li><li><a href="/hans/羔">羔</a></li><li><a href="/hans/烋">烋</a></li><li><a href="/hans/煭">煭</a></li><li><a href="/hans/然">然</a></li><li><a href="/hans/熙">熙</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/痹">痹</a></li><li><a href="/hans/殟">殟</a></li><li><a href="/hans/䋣">䋣</a></li><li><a href="/hans/跢">跢</a></li><li><a href="/hans/戥">戥</a></li><li><a href="/hans/跦">跦</a></li><li><a href="/hans/䈀">䈀</a></li><li><a href="/hans/酬">酬</a></li><li><a href="/hans/滥">滥</a></li><li><a href="/hans/䖹">䖹</a></li><li><a href="/hans/䋢">䋢</a></li><li><a href="/hans/瑰">瑰</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">泉眼无声惜细流，树阴<span>照</span>水爱晴柔。</div><div class="gscdr">宋·杨万里 《小池》</div><div class="gscdl">日<span>照</span>香炉生紫烟，遥看瀑布挂前川。</div><div class="gscdr">唐·李白 《望庐山瀑布》</div><div class="gscdl">春风又绿江南岸，明月何时<span>照</span>我还？</div><div class="gscdr">宋·王安石 《泊船瓜洲》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">朔气传金柝，寒光<span>照</span>铁衣。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">深林人不知，明月来相<span>照</span>。</div><div class="gscdr">唐·王维 《竹里馆》</div><div class="gscdl">清晨入古寺，初日<span>照</span>高林。</div><div class="gscdr">唐·常建 《题破山寺后禅院》</div><div class="gscdl">转朱阁，低绮户，<span>照</span>无眠。</div><div class="gscdr">宋·苏轼 《水调歌头》</div><div class="gscdl">料峭春风吹酒醒，微冷，山头斜<span>照</span>却相迎。</div><div class="gscdr">宋·苏轼 《定风波》</div><div class="gscdl">人生自古谁无死？留取丹心<span>照</span>汗青。</div><div class="gscdr">宋·文天祥 《过零丁洋》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=9064"></script>
+</body>
+</html>

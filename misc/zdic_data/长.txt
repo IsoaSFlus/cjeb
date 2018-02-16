@@ -1,0 +1,691 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>长的解释|长的意思|汉典“长”字的基本解释</title>
+<meta name="title" content="长的解释|长的意思|汉典“长”字的基本解释">
+<meta name="keywords" content="|长|" /><meta property="og:title" content="“长”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“长”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“长”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/长" />
+<link rel="canonical" href="//www.zdic.net/hans/长" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/长" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/长" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/长" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/长">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/长">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/957F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/957F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">cháng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cháng.mp3"></a></span></span></p><p><span class="z_d song">zhǎng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhǎng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄔㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄤˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄓㄤˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄤˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=长" target="_blank">  长</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/長' target=_blank>長</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/長' target=_blank>長</a> <a href='/hans/仧' target=_blank>仧</a> <a href='/hans/兏' target=_blank>兏</a> <a href='/hans/仩' target=_blank>仩</a> <a href='/hans/𠑷' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20477.svg'><span class='ytz_txt'>𠑷</span> <a href='/hans/𠑻' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2047B.svg'><span class='ytz_txt'>𠑻</span> <a href='/hans/𠑿' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2047F.svg'><span class='ytz_txt'>𠑿</span> <a href='/hans/𠔊' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2050A.svg'><span class='ytz_txt'>𠔊</span> <a href='/hans/𠙁' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20641.svg'><span class='ytz_txt'>𠙁</span> <a href='/hans/𠤐' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20910.svg'><span class='ytz_txt'>𠤐</span> <a href='/hans/𡕣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21563.svg'><span class='ytz_txt'>𡕣</span> <a href='/hans/𦁢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26062.svg'><span class='ytz_txt'>𦁢</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+957F</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>3154</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tayi</p></td>                            <td class="dsk_2_1"><p>po</p></td>                            <td class="dsk_2_1"><p>ch</p></td>                            <td class="dsk_2_1"><p>42730</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">cháng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cháng.mp3"></a></span></span> <span class="z_d song">zhǎng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhǎng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄔㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄔㄤˊ.mp3"></a></span></span> <span class="z_d song">ㄓㄤˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“长”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄤˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=长" target="_blank">长</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 957F<span class="z_ts2">笔顺</span> 3154                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="957F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=18304" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">长</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>长</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">長</span>）</strong></p>
+<p><span class="dicpy">ch&aacute;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> ㄔㄤˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>两端的距离：～度。</li>
+	<li>长度大，与&ldquo;<span class="diczx3">短</span>&rdquo;相对，指空间，亦指时间：～短。～空。～短句（词的别名）。～夜（➊漫长的黑夜；➋喻黑暗的日子）。～风破浪（喻志趣远大）。～歌代哭（以歌代哭）。</li>
+	<li>优点，专精的技能：特～。专～。各有所～。</li>
+	<li>对某事做得特别好：他～于写作。</li>
+</ol>
+<p>● <strong>长</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">長</span>）</strong></p>
+<p><span class="dicpy">zhǎng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhǎng.mp3"></a></span> ㄓㄤˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>生长，成长：～疮。</li>
+	<li>增加：～知识。</li>
+	<li>排行第一的：～子。～兄。～孙。</li>
+	<li>辈分高或年纪大：～辈。～者。家～。</li>
+	<li>领导人；负责人：部～。校～。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> long; length; excel in; leader</p><p><span class="z_ts2">德语</span> Länge  (S)​,lang  (Adj)​,Älteste(r)​  (S)​,Leiter, Chef  (S)​,älter  (Adj)</p><p><span class="z_ts2">法语</span> long,longueur,durable,chef,tête,aîné,grandir,développer,accroître,renforcer</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">长</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>长</strong></p>
+<p>長 <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (象形。甲骨文字形，象人披长发之形，以具体表抽象，表示长短的&ldquo;长&rdquo;。本义:两点距离大)</p>
+<p><span class="cino">(2)</span> 同本义。与&ldquo;短&rdquo;相对 <span class="encs">[be long in space]</span></p>
+<p><span class="diczx1">巽为长，为高。&mdash;&mdash;<span class="smcs">《易&middot;说卦》</span></span></p>
+<p><span class="diczx1">顺彼长道。&mdash;&mdash;<span class="smcs">《诗&middot;鲁颂&middot;泮水》</span></span></p>
+<p><span class="diczx1">道阻且长。&mdash;&mdash;<span class="smcs">《诗&middot;秦风&middot;蒹葭》</span></span></p>
+<p><span class="diczx1">长毂九百。&mdash;&mdash;<span class="smcs">《左传&middot;昭公五年》</span></span></p>
+<p><span class="diczx1">布帛长短同。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">长三尺。&mdash;&mdash;<span class="smcs">《仪礼&middot;士冠礼》</span></span></p>
+<p><span class="diczx1">长丈二尺。&mdash;&mdash;<span class="smcs">《周礼&middot;凌人》</span>注</span></p>
+<p><span class="diczx1">长一身有半。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">白发三千丈，缘愁似个长。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《秋浦歌》</span></p>
+<p><span class="diczx3">又如:狭长(窄而长);长铗(剑的一种。刀身剑锋长的叫长铗，短的叫短铗)</span></p>
+<p><span class="cino">(3)</span> 时间久 <span class="encs">[of long duration;lasting]</span></p>
+<p><span class="diczx1">长，久也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">未尝闻社稷之长利。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策》</span></span></p>
+<p><span class="diczx1">义有长短大小。&mdash;&mdash;<span class="smcs">《礼记&middot;表记》</span></span></p>
+<p><span class="diczx1">举手长劳劳，二情同依依。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:长宵(漫长的夜);长律(长的音律)</span></p>
+<p><span class="cino">(4)</span> 遥远 <span class="encs">[distant]</span></p>
+<p><span class="diczx1">溯洄从之，道阻且长。&mdash;&mdash;<span class="smcs">《诗&middot;秦风&middot;蒹葭》</span></span></p>
+<p><span class="diczx1">酒困路长惟欲睡。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《浣溪沙》</span></p>
+<p><span class="diczx3">又如:长解(远距离解送犯人;押解犯人发配远方的公差)</span></p>
+<p><span class="cino">(5)</span> 高;高大 <span class="encs">[tall]</span></p>
+<p><span class="diczx1">今日被驱遣，小姑如我长。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:长林(高大的树林);长壮(高大而强壮)</span></p>
+<p><span class="cino">(6)</span> 优;是;正确 <span class="encs">[fine;good;right]</span>。</p>
+<p><span class="diczx3">如:长才(突出的才能);长技(专长;特长);长材(优良的木材。也指才能优越的人)</span></p>
+<p><span class="cino">(7)</span> 深长 <span class="encs">[profound]</span>。</p>
+<p><span class="diczx3">如:气味长</span></p>
+<p><span class="cino">(8)</span> 深厚 <span class="encs">[deep]</span>。</p>
+<p><span class="diczx3">如:恩情长</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>长</strong></p>
+<p>長 <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 长度 <span class="encs">[length]</span></p>
+<p><span class="diczx1">舟首尾长约八分有奇。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx3">又如:身长;桥长 1000米;波长</span></p>
+<p><span class="cino">(2)</span> 长处 <span class="encs">[strong points]</span></p>
+<p><span class="diczx1">蒹百花之长而各去其短。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄&middot;种植部》</span></p>
+<p><span class="diczx3">又如:取长补短;扬长避短;一技之长，学有所长;特长</span></p>
+<p><span class="cino">(3)</span> 姓</p>
+<p>◎ <strong>长</strong></p>
+<p>長 <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 长久;永远 <span class="encs">[permanent]</span></p>
+<p><span class="diczx1">我欲与君相知，长命无绝衰。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;上邪》</span></span></p>
+<p><span class="diczx1">存者且偷生，死者长已矣!&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《石壕吏》</span></p>
+<p><span class="diczx3">又如:长川(经常;长久);长流(长久，永远)</span></p>
+<p><span class="cino">(2)</span> 长长地 <span class="encs">[very long]</span></p>
+<p><span class="diczx1">长太息以掩涕兮，哀民生之多艰。&mdash;&mdash;</span><span class="diczx2">屈原</span><span class="smcs">《离骚》</span></p>
+<p><span class="cino">(3)</span> 经常 <span class="encs">[constantly;frequently]</span></p>
+<p><span class="diczx1">茅檐长扫净无苔。&mdash;&mdash;</span><span class="diczx2">王安石</span><span class="smcs">《题湖阴先生壁》</span></p>
+<p><span class="cino">(4)</span> 直直地 <span class="encs">[be perfectly straight]</span></p>
+<p><span class="diczx1">府吏长跪告。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="cino">(5)</span> 顺利迅速地 <span class="encs">[smoothly and quickly]</span></p>
+<p><span class="diczx1">未有长驱径入敌围者也。&mdash;&mdash;</span><span class="diczx2">陈寿</span><span class="smcs">《三国志》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/长安">长安</a></span><span class="crefe"><a href="/hans/长白山">长白山</a></span><span class="crefe"><a href="/hans/长班">长班</a></span><span class="crefe"><a href="/hans/长波">长波</a></span><span class="crefe"><a href="/hans/长策">长策</a></span><span class="crefe"><a href="/hans/长城">长城</a></span><span class="crefe"><a href="/hans/长虫">长虫</a></span><span class="crefe"><a href="/hans/长川">长川</a></span><span class="crefe"><a href="/hans/长春">长春</a></span><span class="crefe"><a href="/hans/长处">长处</a></span><span class="crefe"><a href="/hans/长此以往">长此以往</a></span><span class="crefe"><a href="/hans/长存">长存</a></span><span class="crefe"><a href="/hans/长大">长大</a></span><span class="crefe"><a href="/hans/长笛">长笛</a></span><span class="crefe"><a href="/hans/长调">长调</a></span><span class="crefe"><a href="/hans/长度">长度</a></span><span class="crefe"><a href="/hans/长短">长短</a></span><span class="crefe"><a href="/hans/长短">长短</a></span><span class="crefe"><a href="/hans/长短句">长短句</a></span><span class="crefe"><a href="/hans/长队">长队</a></span><span class="crefe"><a href="/hans/长法">长法</a></span><span class="crefe"><a href="/hans/长方体">长方体</a></span><span class="crefe"><a href="/hans/长方形">长方形</a></span><span class="crefe"><a href="/hans/长风破浪">长风破浪</a></span><span class="crefe"><a href="/hans/长歌当哭">长歌当哭</a></span><span class="crefe"><a href="/hans/长庚">长庚</a></span><span class="crefe"><a href="/hans/长工">长工</a></span><span class="crefe"><a href="/hans/长鼓">长鼓</a></span><span class="crefe"><a href="/hans/长跪">长跪</a></span><span class="crefe"><a href="/hans/长河">长河</a></span><span class="crefe"><a href="/hans/长虹">长虹</a></span><span class="crefe"><a href="/hans/长话短说">长话短说</a></span><span class="crefe"><a href="/hans/长铗">长铗</a></span><span class="crefe"><a href="/hans/长假">长假</a></span><span class="crefe"><a href="/hans/长江">长江</a></span><span class="crefe"><a href="/hans/长江三角洲">长江三角洲</a></span><span class="crefe"><a href="/hans/长江三峡">长江三峡</a></span><span class="crefe"><a href="/hans/长久">长久</a></span><span class="crefe"><a href="/hans/长句">长句</a></span><span class="crefe"><a href="/hans/长局">长局</a></span><span class="crefe"><a href="/hans/长空">长空</a></span><span class="crefe"><a href="/hans/长裤">长裤</a></span><span class="crefe"><a href="/hans/长廊">长廊</a></span><span class="crefe"><a href="/hans/长龙">长龙</a></span><span class="crefe"><a href="/hans/长毛">长毛</a></span><span class="crefe"><a href="/hans/长矛">长矛</a></span><span class="crefe"><a href="/hans/长眠">长眠</a></span><span class="crefe"><a href="/hans/长明灯">长明灯</a></span><span class="crefe"><a href="/hans/长年">长年</a></span><span class="crefe"><a href="/hans/长年累月">长年累月</a></span><span class="crefe"><a href="/hans/长跑">长跑</a></span><span class="crefe"><a href="/hans/长篇">长篇</a></span><span class="crefe"><a href="/hans/长篇大论">长篇大论</a></span><span class="crefe"><a href="/hans/长篇小说">长篇小说</a></span><span class="crefe"><a href="/hans/长期">长期</a></span><span class="crefe"><a href="/hans/长枪">长枪</a></span><span class="crefe"><a href="/hans/长驱">长驱</a></span><span class="crefe"><a href="/hans/长驱直入">长驱直入</a></span><span class="crefe"><a href="/hans/长沙">长沙</a></span><span class="crefe"><a href="/hans/长铩">长铩</a></span><span class="crefe"><a href="/hans/长衫">长衫</a></span><span class="crefe"><a href="/hans/长舌">长舌</a></span><span class="crefe"><a href="/hans/长舌妇">长舌妇</a></span><span class="crefe"><a href="/hans/长蛇阵">长蛇阵</a></span><span class="crefe"><a href="/hans/长生不老">长生不老</a></span><span class="crefe"><a href="/hans/长生果">长生果</a></span><span class="crefe"><a href="/hans/长诗">长诗</a></span><span class="crefe"><a href="/hans/长逝">长逝</a></span><span class="crefe"><a href="/hans/长寿">长寿</a></span><span class="crefe"><a href="/hans/长叹">长叹</a></span><span class="crefe"><a href="/hans/长亭">长亭</a></span><span class="crefe"><a href="/hans/长统靴">长统靴</a></span><span class="crefe"><a href="/hans/长途">长途</a></span><span class="crefe"><a href="/hans/长途跋涉">长途跋涉</a></span><span class="crefe"><a href="/hans/长物">长物</a></span><span class="crefe"><a href="/hans/长袖善舞">长袖善舞</a></span><span class="crefe"><a href="/hans/长吁短叹">长吁短叹</a></span><span class="crefe"><a href="/hans/长烟">长烟</a></span><span class="crefe"><a href="/hans/长夜">长夜</a></span><span class="crefe"><a href="/hans/长揖">长揖</a></span><span class="crefe"><a href="/hans/长音">长音</a></span><span class="crefe"><a href="/hans/长吟">长吟</a></span><span class="crefe"><a href="/hans/长缨">长缨</a></span><span class="crefe"><a href="/hans/长于">长于</a></span><span class="crefe"><a href="/hans/长圆">长圆</a></span><span class="crefe"><a href="/hans/长远">长远</a></span><span class="crefe"><a href="/hans/长斋">长斋</a></span><span class="crefe"><a href="/hans/长征">长征</a></span><span class="crefe"><a href="/hans/长治久安">长治久安</a></span><span class="crefe"><a href="/hans/长足">长足</a></span></div>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>长</strong></p>
+<p>長 <span class="dicpy">zhǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhǎng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 老，年高 <span class="encs">[old]</span></p>
+<p><span class="diczx1">长，老也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">不挟长。&mdash;&mdash;<span class="smcs">《孟子》</span>。注:&ldquo;年长也。&rdquo;</span></p>
+<p><span class="diczx1">子之年长矣，而色若孺子，何也?&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="diczx1">长者虽有问，役夫敢申恨?&mdash;&mdash;</span><span class="diczx2">杜甫</span><span class="smcs">《兵车行》</span></p>
+<p><span class="diczx2">齐侯</span>长矣。&mdash;&mdash;<span class="smcs">《国语》</span></p>
+<p><span class="diczx3">又如:长艾(老年);长没(年老而死)</span></p>
+<p><span class="cino">(2)</span> 年长，年龄较大 <span class="encs">[elder;older]</span></p>
+<p><span class="diczx1">长</span><span class="diczx2">子灿</span>七岁。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p>
+<p><span class="diczx1">弟辈衣食自足，不消兄长挂念。&mdash;&mdash;<span class="smcs">《醒世恒言》</span></span></p>
+<p><span class="diczx3">又如:长君(年长的君主);长德(年长而有德);长贤(年长而贤明);长主(年长的君主);长宾(年长的宾客);长年(年龄较大);长郎(尊称他人的长子)</span></p>
+<p><span class="cino">(3)</span> 成年的，幼之反，成人曰长 <span class="encs">[grown-up]</span></p>
+<p><span class="diczx1">问国君之年，长，曰能从宗庙社稷之事矣;幼，曰未能从宗庙社稷之事也。&mdash;&mdash;<span class="smcs">《礼记》</span></span></p>
+<p><span class="diczx3">又如:长殇(古代男子未冠，女子未而死都称殇)</span></p>
+<p><span class="cino">(4)</span> 排行第一 <span class="encs">[eldest]</span></p>
+<p><span class="diczx1">阿爷无大儿，</span><span class="diczx2">木兰</span>无长兄。&mdash;&mdash;<span class="smcs">《木兰诗》</span></p>
+<p><span class="diczx2">始皇</span>有二十八子，长子 <span class="diczx2">扶苏</span>以数直谏上，上使监兵 <span class="diczx2">上郡</span>。&mdash;&mdash;<span class="smcs">《史记&middot;李斯列传》</span></p>
+<p><span class="diczx3">又如:长弟(先后。先生为长，后生为弟);长庶(庶长子。妾生的长子);长嫡(正妻所生的长子或长女);长杰(超群出众);长妾(妾中先有子者);长公主(皇帝的姊妹或皇女尊崇者的封号)</span></p>
+<p><span class="cino">(5)</span> 辈分大;居高位者 <span class="encs">[senior]</span></p>
+<p><span class="diczx1">万夫之长。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;谕大》</span></span></p>
+<p><span class="diczx1">吏六百石以上，皆长吏也。&mdash;&mdash;<span class="smcs">《汉书&middot;景帝纪》</span></span></p>
+<p><span class="diczx3">又如:长吏(官吏中俸禄高、职位尊的人);长雄(领袖人物。即&ldquo;雄长&rdquo;);长爵(高的爵位)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>长</strong></p>
+<p>長 <span class="dicpy">zhǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhǎng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 生长;成长 <span class="encs">[begin to grow;develop;form]</span></p>
+<p><span class="diczx1">草木遂长。&mdash;&mdash;<span class="smcs">《庄子&middot;马蹄》</span></span></p>
+<p><span class="diczx1">暮春三月，江南草长，杂花生树。&mdash;&mdash;</span><span class="diczx2">南朝</span><span class="diczx2">梁</span>&middot; <span class="diczx2">丘迟</span><span class="smcs">《与陈伯之书》</span></p>
+<p><span class="diczx1">求木之长者。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">魏征</span><span class="smcs">《谏太宗十思疏》</span></p>
+<p><span class="diczx1">初长足时。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx1">一旦长成。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx3">又如:长俊(长进;进步);长成(长大成人);长立(长大自立);长牙;长毛;长肉;长胖</span></p>
+<p><span class="cino">(2)</span> 抚育;使&hellip;成长 <span class="encs">[nourish]</span></p>
+<p><span class="diczx1">父兮生我，母兮鞠我，拊我畜我，长我育我。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;蓼莪》</span></span></p>
+<p><span class="diczx3">又如:长养(抚育培养);长育(养育)</span></p>
+<p><span class="cino">(3)</span> 滋长，助长，增长 <span class="encs">[increase]</span></p>
+<p><span class="diczx1">而长寇仇。&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十三年》</span></span></p>
+<p><span class="diczx1">废奢长俭。&mdash;&mdash;<span class="smcs">《汉书&middot;杜钦传》</span></span></p>
+<p><span class="diczx1">日日以长。&mdash;&mdash;<span class="smcs">《世说新语&middot;自新》</span></span></p>
+<p><span class="diczx3">又如:长托(滋补身体);长美(增长美德);长傲(滋长傲气);长益(促进，增益);长消(消长，盛衰);长知识;此风不可长</span></p>
+<p><span class="cino">(4)</span> 崇尚 <span class="encs">[uphold]</span></p>
+<p><span class="diczx1">今</span><span class="diczx2">汉</span>家承 <span class="diczx2">周</span><span class="diczx2">秦</span>之敝，宜抑文尚质，废奢长俭，表实去伪。&mdash;&mdash;<span class="smcs">《汉书&middot;杜钦传》</span></p>
+<p><span class="cino">(5)</span> 做长官;为首领 <span class="encs">[be a leader]</span></p>
+<p><span class="diczx1">子无敢食我也。天地使我长百兽，今子食我，是逆天帝命也。&mdash;&mdash;<span class="smcs">《战国策》</span></span></p>
+<p><span class="cino">(6)</span> 升高(多指水位或物价)。后作&ldquo;涨&rdquo; <span class="encs">[go up]</span>。</p>
+<p><span class="diczx3">如:长成(小孩长得高);长价;水长船高</span></p>
+<p>◎ <strong>长</strong></p>
+<p>長 <span class="dicpy">zhǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhǎng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 首领;君长;领袖;各种组织的位高者 <span class="encs">[chief;head]</span></p>
+<p><span class="diczx1">世为长侯，守</span><span class="diczx2">殷</span>常祀。&mdash;&mdash;<span class="smcs">《吕氏春秋》</span></p>
+<p><span class="diczx3">又如:科长;处长;长夫(码头搬运工的工头);长家(一家之长);长卿(六卿之长);长侯(诸侯之长)</span></p>
+<p><span class="cino">(3)</span> 年纪较大的人 <span class="encs">[elder]</span></p>
+<p><span class="diczx1">长先而少从。&mdash;&mdash;<span class="smcs">《庄子》</span></span></p>
+<p><span class="diczx3">又如:长少(年长者与年少者)</span></p>
+<p><span class="cino">(5)</span> 姓</p>
+<p><span class="cino">(6)</span> 另见 <span class="dicpy">ch&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ch&aacute;ng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/长辈">长辈</a></span><span class="crefe"><a href="/hans/长膘">长膘</a></span><span class="crefe"><a href="/hans/长大">长大</a></span><span class="crefe"><a href="/hans/长房">长房</a></span><span class="crefe"><a href="/hans/长官">长官</a></span><span class="crefe"><a href="/hans/长厚者">长厚者</a></span><span class="crefe"><a href="/hans/长进">长进</a></span><span class="crefe"><a href="/hans/长君">长君</a></span><span class="crefe"><a href="/hans/长老">长老</a></span><span class="crefe"><a href="/hans/长老派">长老派</a></span><span class="crefe"><a href="/hans/长吏">长吏</a></span><span class="crefe"><a href="/hans/长年">长年</a></span><span class="crefe"><a href="/hans/长亲">长亲</a></span><span class="crefe"><a href="/hans/长上">长上</a></span><span class="crefe"><a href="/hans/长史">长史</a></span><span class="crefe"><a href="/hans/长势">长势</a></span><span class="crefe"><a href="/hans/长孙">长孙</a></span><span class="crefe"><a href="/hans/长相">长相</a></span><span class="crefe"><a href="/hans/长者">长者</a></span><span class="crefe"><a href="/hans/长子">长子</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="957F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=戌集上" target="_blank">戌集上</a>】【<a href="/zd/kx/?zm=戌集上&amp;bs=長" target="_blank">長</a>】
+                              長·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">長</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“长”字头，请参考“<a href="/hans/長">長</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=戌集上" target="_blank">戌集上</a>】【<a href="/zd/kx/?zm=戌集上&amp;bs=長" target="_blank">長</a>】
+                              長·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/9577.svg">						  <p>〔古文〕镸<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28C57.svg"><span class="k_txt">𨱗</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20910.svg"><span class="k_txt">𠤐</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20477.svg"><span class="k_txt">𠑷</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2050A.svg"><span class="k_txt">𠔊</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2047B.svg"><span class="k_txt">𠑻</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2047F.svg"><span class="k_txt">𠑿</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/21563.svg"><span class="k_txt">𡕣</span>【唐韻】【集韻】直良切【正韻】仲良切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音場。【增韻】短之對也。【孟子】今交九尺四寸以長。【前漢&middot;田橫傳】尺有所短，寸有所長。</p>
+<p>又久也。【詩&middot;商頌】濬哲維商，長發其祥。【箋】長，猶久也。【老子&middot;道德經】天地所以能長且久者，以其不自生，故能長生。</p>
+<p>又遠也。【詩&middot;魯頌】順彼長道，屈此羣醜。【箋】長，遠也。【古詩】道路阻且長。</p>
+<p>又常也。【陶潛&middot;歸去來辭】門雖設而長關。【李商隱詩】風雲長爲護儲胥。</p>
+<p>又大也。【世說新語補】願乗長風，破萬里浪。</p>
+<p>又善也。【晉書&middot;樂廣傳】論人必先稱其所長。【唐書&middot;韓琬傳】文藝優長。</p>
+<p>又【博雅】長，挾也。</p>
+<p>又【吳語】孤敢不順從君命，長弟許諾。【註】長弟，猶云先後也。</p>
+<p>又星名。【博雅】太白謂之長庚。【詩&middot;小雅】東有啓明，西有長庚。【傳】日旦出，謂明星爲啓明。日旣入，謂明星爲長庚。</p>
+<p>又宮名。【班固&middot;西都賦】北彌明光而亙長樂。【謝朓&middot;怨情詩】掖庭聘絕國，長門失歡宴。【註】長門，漢<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>皇后所居。</p>
+<p>又地名。【玉海】長安，本關中地，西漢建都于此，後因謂天子所都爲長安。</p>
+<p>又山名。【說林】公見東陽長山，曰：何其坦迤。【金史&middot;禮志】有司言，長白山在興王之地，禮合尊崇。</p>
+<p>又國名。【山海經】有鹽長之國。</p>
+<p>又獸名。【山海經】有獸焉，其狀如禺，而四耳，其名長右。</p>
+<p>又草名。【爾雅&middot;釋草】長楚，銚芅。【疏】長楚，一名銚芅。</p>
+<p>又姓。【左傳&middot;僖二十八年】甯子先長牂守門。【註】長牂，衞大夫。</p>
+<p>又仲長，複姓。</p>
+<p>又長乗，神名。【山海經&middot;郭璞贊】九德之氣，是生長乗。人狀犳尾，其神則凝。妙物自潛，世無得稱。</p>
+<p>又【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>展兩切，音掌。孟也。【易&middot;乾卦】元者，善之長也。【疏】元爲施生之宗，故言元者善之長也。【戰國策】君長齊奚以薛爲。【註】長，雄長之長。</p>
+<p>又齒高也。【書&middot;伊訓】立愛惟親，立敬惟長。【禮&middot;曲禮】年長以倍，則父事之。十年以長，則兄事之。五年以長，則肩隨之。</p>
+<p>又位高也。【書&middot;益稷】外薄四海，咸建五長。【傳】言至海諸侯五國，立賢者一人爲方伯，謂之五長，以相統治。【釋文】五長，衆官之長。</p>
+<p>又【周禮&middot;天官&middot;大宰】乃施則于都鄙，而建其長。【註】長謂公卿大夫，王子弟之食采邑者。</p>
+<p>又進也。【易&middot;泰卦】君子道長，小人道消也。</p>
+<p>又生長也。【孟子】苟得其養，無物不長。</p>
+<p>又長養之也。【前漢&middot;董仲舒傳】陽常居大夏，而以生育養長爲事。</p>
+<p>又【詩&middot;大雅】克明克類，克長克君。【箋】敎誨不倦曰長。</p>
+<p>又官名。【左傳&middot;襄十一年】秦庶長鮑庶長武帥師伐晉，以救鄭。【註】庶長，秦爵也。</p>
+<p>又縣名。【左傳&middot;襄十八年】夏，晉人執衞行人石買于長子。【註】長子縣，屬上黨郡。</p>
+<p>又【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>直亮切，音仗。【集韻】度長短曰長。</p>
+<p>又【集韻】餘也。【正韻】多也，宂也，剩也。【論語】長一身有半。【世說新語】平生無長物。【陸機&middot;文賦】故無取乎宂長。</p>
+<p>又【正韻】知亮切，音障。增盛也。【韓愈詩】得時方長王。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="957F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=長">長</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">長</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“长”字头，请参考“<a href="/hans/長">長</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=長">長</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/9577.svg">                          <p>久遠也。从兀从匕。兀者，高遠意也。久則變化。亾聲。　者，倒亾也。凡長之屬皆从長。仧，古文長。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2047F.svg"><span class="k_txt">𠑿</span>，亦古文長。直良切〖注〗臣鉉等曰：倒亡，不亡也。長久之義也。〖注〗镸、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20910.svg"><span class="k_txt">𠤐</span>、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2050A.svg"><span class="k_txt">𠔊</span>、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2047B.svg"><span class="k_txt">𠑻</span>、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28C57.svg"><span class="k_txt">𨱗</span>，古文長。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/9577_7266.svg" /><span class="swbf">(長)</span><span class="ywyy">久遠也。</span><span class="swdz">久者，不暫也。遠者，不近也。引伸之爲滋長，長幼之長。今音知丈切。又爲多餘之長，度長之長皆今音直亮切。兄下曰：長也。是滋長，長幼之長也。</span><span class="ywyy">从兀从匕。</span><span class="swdz">會意。匕呼霸切。</span><span class="ywyy">亾聲。</span><span class="swdz">二字各本在變匕之下，今依韵會正。直良切。十部。</span><span class="ywyy">兀者，高遠意也。</span><span class="swdz">說从兀之意。儿部曰：兀者，高而上平也。</span><span class="ywyy">久則變匕。</span><span class="swdz">匕各本作化。今正。說从匕之意。匕下曰：變也。</span><span class="ywyy"><img class="lazy" data-original="//img.zdic.net/xz/swdz/9577_1.png" src="//img.zdic.net/xz/swdz/9577_1.png">者，到亾也。</span><span class="swdz">到各本作倒。今正。說<img class="lazy" data-original="//img.zdic.net/xz/swdz/9577_1.png" src="//img.zdic.net/xz/swdz/9577_1.png">卽亾字。亾而倒變匕之意。</span><span class="ywyy">凡長之屬皆从長。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/9577_7267.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20477.svg"><span class="k_txt">𠑷</span>)</span><span class="ywyy">古文長。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/9577_7268.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2050A.svg"><span class="k_txt">𠔊</span>)</span><span class="ywyy">亦古文長。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="957F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">长</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʰɑŋ˧˥; tʂɑŋ˨˩˦ </p>						<p><span class="z_ts2">粤语</span>  coeng4 zoeng2<span class="z_ts3">潮州话</span>  ciang5 ziang2 (chhîang chíang)</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/长">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/长">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/长">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/长">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/长">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/长">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/长">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/长">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/长">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/长">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/长">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/长">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">长</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「長」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/长"><img data-original="//img.zdic.net/zy/jiaguwen/43_E212.svg" class="lazy ypic"><span>「長」 林2.26.7</span><span>合28195</span></a></td><td><a href="/zd/zx/jw/长"><img data-original="//img.zdic.net/zy/jinwen/33_E7B6.svg" class="lazy ypic"><span>「長」 昜長方鼎</span><span>西周早期</span><span>集成1968</span></a></td><td><a href="/zd/zx/cx/长"><img data-original="//img.zdic.net/zy/chuwenzi/53_E01B.svg" class="lazy ypic"><span>「長」 包2.54</span></a></td><td><a href="/zd/zx/xz/长"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E804.svg" class="lazy ypic"><span>「長」 說文古文</span></a></td><td><a href="/zd/zx/qx/长"><img data-original="//img.zdic.net/zy/qinwenzi/71_EA5C.svg" class="lazy ypic"><span>「長」 睡.法95</span></a></td><td><a href="/hans/長" target="_blank"><img data-original="//img.zdic.net/kai/tw/9577.svg" class="lazy ypic"><span>「長」</span></a> </td><td><a href="/hans/长" target="_blank"><img data-original="//img.zdic.net/kai/tw/957F.svg" class="lazy ypic"><span>「长」</span></a></td><td style="display:none"><a href="/hans/长" target="_blank"><img data-original="//img.zdic.net/kai/tw/957F.svg" class="lazy ypic"><span>「长」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/长"><img data-original="//img.zdic.net/zy/jinwen/33_E7B8.svg" class="lazy ypic"><span>「長」 作長鼎</span><span>西周早期或中期</span><span>集成2348</span></a></td><td><a href="/zd/zx/cx/长"><img data-original="//img.zdic.net/zy/chuwenzi/53_E01E.svg" class="lazy ypic"><span>「長」 包2.78</span></a></td><td><a href="/zd/zx/xz/长"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E805.svg" class="lazy ypic"><span>「長」 說文古文</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td><a href="/zd/zx/jw/长"><img data-original="//img.zdic.net/zy/jinwen/33_E7BC.svg" class="lazy ypic"><span>「長」 臣諫簋</span><span>西周中期</span><span>集成4237</span></a></td><td><a href="/zd/zx/cx/长"><img data-original="//img.zdic.net/zy/chuwenzi/52_E429.svg" class="lazy ypic"><span>「長」 包2.268</span></a></td><td><a href="/zd/zx/xz/长"><img data-original="//img.zdic.net/zy/xiaozhuan/27_9577.svg" class="lazy ypic"><span>「長」 說文‧長部</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/长">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/长">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/长">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/长">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/长">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/长">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/957F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/957F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/957F.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/長' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9577.svg'><span>長</span></a></div> <div class='zx'><a href='/hans/仧' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4EE7.svg'><span>仧</span></a></div> <div class='zx'><a href='/hans/兏' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/514F.svg'><span>兏</span></a></div> <div class='zx'><a href='/hans/仩' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4EE9.svg'><span>仩</span></a></div> <div class='zx'><a href='/hans/𠑷' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20477.svg'><span>𠑷</span></a></div> <div class='zx'><a href='/hans/𠑻' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2047B.svg'><span>𠑻</span></a></div> <div class='zx'><a href='/hans/𠑿' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2047F.svg'><span>𠑿</span></a></div> <div class='zx'><a href='/hans/𠔊' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2050A.svg'><span>𠔊</span></a></div> <div class='zx'><a href='/hans/𠙁' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20641.svg'><span>𠙁</span></a></div> <div class='zx'><a href='/hans/𠤐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20910.svg'><span>𠤐</span></a></div> <div class='zx'><a href='/hans/𡕣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21563.svg'><span>𡕣</span></a></div> <div class='zx'><a href='/hans/𦁢' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26062.svg'><span>𦁢</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="18304" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4526">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/肠">肠(chang2)</a></li><li><a href="/hans/倘">倘(chang2)</a></li><li><a href="/hans/仩">仩(chang2)</a></li><li><a href="/hans/萇">萇(chang2)</a></li><li><a href="/hans/鱨">鱨(chang2)</a></li><li><a href="/hans/䗅">䗅(chang2)</a></li><li><a href="/hans/龦">龦(chang2)</a></li><li><a href="/hans/瑺">瑺(chang2)</a></li><li><a href="/hans/常">常(chang2)</a></li><li><a href="/hans/尝">尝(chang2)</a></li><li><a href="/hans/場">場(chang2)</a></li><li><a href="/hans/镸">镸(chang2)</a></li><li><a href="/hans/𠑻">𠑻(zhang3)</a></li><li><a href="/hans/漲">漲(zhang3)</a></li><li><a href="/hans/𠑷">𠑷(zhang3)</a></li><li><a href="/hans/礃">礃(zhang3)</a></li><li><a href="/hans/仉">仉(zhang3)</a></li><li><a href="/hans/幥">幥(zhang3)</a></li><li><a href="/hans/涨">涨(zhang3)</a></li><li><a href="/hans/兏">兏(zhang3)</a></li><li><a href="/hans/長">長(zhang3)</a></li><li><a href="/hans/仧">仧(zhang3)</a></li><li><a href="/hans/掌">掌(zhang3)</a></li><li><a href="/hans/鞝">鞝(zhang3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/瓦">瓦</a></li><li><a href="/hans/丯">丯</a></li><li><a href="/hans/爻">爻</a></li><li><a href="/hans/允">允</a></li><li><a href="/hans/𠔃">𠔃</a></li><li><a href="/hans/𠕳">𠕳</a></li><li><a href="/hans/乤">乤</a></li><li><a href="/hans/计">计</a></li><li><a href="/hans/方">方</a></li><li><a href="/hans/仌">仌</a></li><li><a href="/hans/仐">仐</a></li><li><a href="/hans/孔">孔</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">草<span>长</span>莺飞二月天，拂堤杨柳醉春烟。</div><div class="gscdr">清·高鼎 《村居》</div><div class="gscdl">孤帆远影碧空尽，唯见<span>长</span>江天际流。</div><div class="gscdr">唐·李白 《黄鹤楼送孟浩然之广陵》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">阿爷无大儿，木兰无<span>长</span>兄，愿为市鞍马，从此替爷征。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">东市买骏马，西市买鞍鞯，南市买辔头，北市买<span>长</span>鞭。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">独坐幽篁里，弹琴复<span>长</span>啸。</div><div class="gscdr">唐·王维 《竹里馆》</div><div class="gscdl">每至晴初霜旦，林寒涧肃，常有高猿<span>长</span>啸，属引凄异，空谷传响，哀转久绝。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">故渔者歌曰：“巴东三峡巫峡<span>长</span>，猿鸣三声泪沾裳。”</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">相顾无相识，<span>长</span>歌怀采薇。</div><div class="gscdr">唐·王绩 《野望》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=18304"></script>
+</body>
+</html>

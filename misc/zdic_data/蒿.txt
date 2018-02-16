@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>蒿的解释|蒿的意思|汉典“蒿”字的基本解释</title>
+<meta name="title" content="蒿的解释|蒿的意思|汉典“蒿”字的基本解释">
+<meta property="og:title" content="“蒿”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“蒿”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“蒿”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/蒿" />
+<link rel="canonical" href="//www.zdic.net/hans/蒿" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/蒿" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/蒿" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/蒿" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/蒿">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/蒿">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/84BF.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/84BF.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">hāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒿”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hāo.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄏㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒿”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄠ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">  艹</a></p>
+                              <p><span class="z_ts2">部外</span>  10</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/𦿣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26FE3.svg'><span class='ytz_txt'>𦿣</span></a>  <a href='/hans/稾' target=_blank>稾</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+84BF</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>1224125125251</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>aymk</p></td>                            <td class="dsk_2_1"><p>tyrb</p></td>                            <td class="dsk_2_1"><p>esjl</p></td>                            <td class="dsk_2_1"><p>44227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">hāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒿”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/hāo.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄏㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒿”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄏㄠ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">艹</a> <span class="z_ts2">部外</span> 10<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">统一码</span> 84BF<span class="z_ts2">笔顺</span> 1224125125251                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="84BF_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=14016" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>蒿</strong></p><p><span class="dicpy">hāo  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hāo.mp3"></a></span> ㄏㄠˉ</span></p><ol>    <li>二年生草本植物，叶如丝状，有特殊的气味，开黄绿色小花，可入药（亦称“青蒿”、“香蒿”）：～莱（杂草，喻草野百姓）。</li>    <li>气蒸出的样子。</li>    <li>消耗。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> mugwort, artemisia; give off</p><p><span class="z_ts2">德语</span> Wermut  (S)​,Hao  (Eig, Fam)</p><p><span class="z_ts2">法语</span> armoise</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>蒿</strong> <span class="dicpy">hāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hāo.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。从艸，高声。本义:草名。有白蒿、青蒿、牡蒿、臭蒿等多种。特指青蒿)</p><p><span class="cino">(2)</span> 即青蒿 <span class="encs">[celery wormwood]</span></p><p><span class="diczx1">呦呦鹿鸣，食野之蒿。——<span class="smcs">《诗·小雅·鹿鸣》</span></span></p><p><span class="cino">(3)</span> 蒿子 <span class="encs">[wormwood]</span>，蒿属的一种植物。引申为野草的意思。如:蒿艾(即艾蒿。一种野生的草。泛指野草);蒿棘(蒿草与荆棘);蒿藜(蒿和藜。泛指杂草;野草);蒿蓬(蒿草与蓬草)</p><p><strong>词性变化</strong></p><p>◎ <strong>蒿</strong> <span class="dicpy">hāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/hāo.mp3"></a></span> </p><p>〈动〉</p><p><span class="diczx1">今世之仁人，蒿目而忧世之患。——<span class="smcs">《庄子·骈拇》</span></span></p><p><span class="cino">(1)</span> 又如:蒿目时艰(形容对时局忧虑不安)</p><p><span class="cino">(2)</span> 物之精气蒸出的样子 <span class="encs">[vapor]</span>。如:蒿蒸(蒸腾貌);蒿蒿(形容气体浮生的样子)</p><p><span class="cino">(3)</span> 用同<span class="yhcs">“薅”</span> <span class="encs">[pull up;pull out]</span></p><p><span class="diczx1">我把花子腿砸折了，把淫妇鬓毛都蒿净了。——<span class="smcs">《红楼梦》</span></span></p><p><span class="cino">(4)</span> 忧烦;忧虑不安 <span class="encs">[worry]</span>。如:蒿恼(骚扰;打扰;烦恼);蒿目(忧虑不安);蒿然(忧烦;忧虑不安);蒿忧(为世事忧虑)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蒿菜">蒿菜</a></span><span class="crefe"><a href="/hans/蒿子">蒿子</a></span><span class="crefe"><a href="/hans/蒿子秆儿">蒿子秆儿</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>蒿</rb></rbc><rtc><rt>ㄏㄠ</rt></rtc><rtc><rt>hāo <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/2719.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">菊科艾属植物的通称。一年生或二年生草本。有青<b><b>蒿</b></b>、白<b><b>蒿</b></b>等数种。</span><span class="gc_yy">《尔雅·释草》：「蘩之丑，秋为<b>蒿</b>。」</span><span class="gc_yy">晋·郭璞·注：「丑，类也。春秋各有种名，至秋老成，皆通呼为<b>蒿</b>。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">消失、消耗。</span><span class="gc_yy">《国语·楚语上》：「若敛民利以成其私欲，使民<b>蒿</b>焉忘其安乐而有远心，其为恶也甚也。」</span><span class="gc_yy">三国吴·韦昭·注：「<b>蒿</b>，耗也。」</span><span class="gc_yx">通「耗」。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">形</span><ol><li><p class="def"><span class="gc_sy">气体蒸出的样子。</span><span class="gc_yy">《礼记·祭义》：「其气发扬于上为昭明，焄<b>蒿</b>萋怆，此百物之精也，神之著也。」</span><span class="gc_yy">汉·郑玄·注：「<b>蒿</b>，谓气烝出貌也。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="84BF_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蒿·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：10</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蒿·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：10</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/84BF.svg">						  <p>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>呼高切，好平聲。【說文】菣也。【詩·小雅】食野之蒿。【傳】蒿，菣也。【禮·月令註】蒿亦蓬蕭之屬。【爾雅·釋草】蘩之醜，秋爲蒿。【註】春時各有種名，至秋老成，通呼爲蒿。【陸佃·詩疏】蒿，草之高者。</p><p>又焄蒿，氣蒸出貌。【禮·祭義】其氣發揚于上，爲昭明焄蒿悽愴，此百物之精也。</p><p>又耗也。【楚語】使民蒿焉。</p><p>又【莊子·騈拇篇】今之君子蒿目而憂世之患。【註】蒿易棲塵，喩君子眯眼塵中也。</p><p>又地名。【穀梁傳·桓十五年】公會齊侯于蒿。</p><p>又姓。【通志·氏族略】蒿氏。【註】見《姓苑》。</p><p>又【韻會】呼侯切，讀齁。【易林】堅冰黃鳥，常哀悲愁。不見白粒，但見藜蒿。</p><p>又【篇海】與藳同。◎按蒿名類甚多，《正字通》載簍蒿、薌蒿等，今皆刪去。詳蔞、薌等本字註。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="84BF_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/84BF.svg">                          <p>菣也。从艸高聲。呼毛切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/84BF_5653.svg"  /><span class="swbf">(蒿)</span><span class="ywyy">菣也。</span><span class="swdz">釋艸、小雅毛傳同。陸璣曰。靑蒿也。</span><span class="ywyy">从艸。高聲。</span><span class="swdz">呼毛切。二部。籒文作？。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="84BF_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  xɑu˥ <span class="z_ts4">唐代读音</span>  *hɑu<span class="z_ts4">日语读音</span>  YOMOGI<span class="z_ts4">韩语罗马</span>  HO<span class="z_ts4">现代韩语</span>  호</p>						<p><span class="z_ts3">客家话</span>  [宝安腔] hau1 [海陆腔] hau1 gau1 ko1 [客英字典] gau1 hau1 ko1 [台湾四县腔] hau1 gau1 ko1 [东莞腔] gau1 [客语拼音字汇] hau1 ho1 [梅县腔] hau1 gau1<span class="z_ts2">粤语</span>  hou1<span class="z_ts3">潮州话</span>  hau1 o1</p>						<p><span class="z_ts3">近代音</span>  曉母    蕭豪韻    平聲陰    蒿小空；<span class="z_ts3">中古音</span>  曉母    豪韻    平聲    蒿小韻    呼毛切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：曉母    豪部   ；王力系统：曉母    宵部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/蒿">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/蒿">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/蒿">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/蒿">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/蒿">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/蒿">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/蒿">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/蒿">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/蒿">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/蒿">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/蒿">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">蒿</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/蒿"><img data-original="//img.zdic.net/zy/jiaguwen/41_E30D.svg" class="lazy ypic"><span>「蒿」 甲3940</span><span>合36534</span></a></td><td><a href="/zd/zx/jw/蒿"><img data-original="//img.zdic.net/zy/jinwen/31_E336.svg" class="lazy ypic"><span>「蒿」 德方鼎</span><span>西周早期</span><span>集成2661</span></a></td><td><a href="/zd/zx/cx/蒿"><img data-original="//img.zdic.net/zy/chuwenzi/51_E465.svg" class="lazy ypic"><span>「蒿」 包2.211</span></a></td><td><a href="/zd/zx/xz/蒿"><img data-original="//img.zdic.net/zy/xiaozhuan/27_84BF.svg" class="lazy ypic"><span>「蒿」 說文‧艸部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/蒿" target="_blank"><img data-original="//img.zdic.net/kai/tw/84BF.svg" class="lazy ypic"><span>「蒿」</span></a></td></tr><tr><td><a href="/zd/zx/jg/蒿"><img data-original="//img.zdic.net/zy/jiaguwen/41_E30E.svg" class="lazy ypic"><span>「蒿」 菁10.10</span><span>合38152</span></a></td><td><a href="/zd/zx/jw/蒿"><img data-original="//img.zdic.net/zy/jinwen/31_E337.svg" class="lazy ypic"><span>「蒿」 曾姬無卹壺</span><span>戰國早期</span><span>集成9710</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/蒿"><img data-original="//img.zdic.net/zy/jiaguwen/41_E30F.svg" class="lazy ypic"><span>「蒿」 掇2.24</span><span>合29375</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/蒿">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/蒿">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/蒿">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/蒿">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/蒿">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/84BF.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/84BF.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/84BF.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/84BF.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/84BF.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𦿣' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26FE3.svg'><span>𦿣</span></a></div>  <div class='zx'><a href='/hans/稾' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/7A3E.svg'><span>稾</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="14016" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="8544">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䜰">䜰(hao1)</a></li><li><a href="/hans/薅">薅(hao1)</a></li><li><a href="/hans/嚆">嚆(hao1)</a></li><li><a href="/hans/茠">茠(hao1)</a></li><li><a href="/hans/薧">薧(hao1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/茶">茶</a></li><li><a href="/hans/莜">莜</a></li><li><a href="/hans/䕯">䕯</a></li><li><a href="/hans/英">英</a></li><li><a href="/hans/荙">荙</a></li><li><a href="/hans/䓫">䓫</a></li><li><a href="/hans/藿">藿</a></li><li><a href="/hans/蕡">蕡</a></li><li><a href="/hans/䖃">䖃</a></li><li><a href="/hans/蘱">蘱</a></li><li><a href="/hans/芕">芕</a></li><li><a href="/hans/菍">菍</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/徭">徭</a></li><li><a href="/hans/厁">厁</a></li><li><a href="/hans/痼">痼</a></li><li><a href="/hans/鉒">鉒</a></li><li><a href="/hans/暗">暗</a></li><li><a href="/hans/毂">毂</a></li><li><a href="/hans/㱫">㱫</a></li><li><a href="/hans/甝">甝</a></li><li><a href="/hans/園">園</a></li><li><a href="/hans/㹈">㹈</a></li><li><a href="/hans/置">置</a></li><li><a href="/hans/蒡">蒡</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">蒌<span>蒿</span>满地芦芽短，正是河豚欲上时。</div><div class="gscdr">宋·苏轼 《惠崇春江晚景》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=14016"></script>
+</body>
+</html>
