@@ -1,0 +1,707 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>几的解释|几的意思|汉典“几”字的基本解释</title>
+<meta name="title" content="几的解释|几的意思|汉典“几”字的基本解释">
+<meta name="keywords" content="|几|" /><meta property="og:title" content="“几”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“几”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“几”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/几" />
+<link rel="canonical" href="//www.zdic.net/hans/几" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/几" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/几" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/几" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/几">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/几">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/51E0.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/51E0.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">jī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span></span></p><p><span class="z_d song">jǐ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jǐ.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄐㄧ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧ.mp3"></a></span></span></p><p><span class="z_d song">ㄐㄧˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=几" target="_blank">  几</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  2</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/幾' target=_blank>幾</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/𠀃' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20003.svg'><span class='ytz_txt'>𠀃</span></a> <a href='/hans/幾' target=_blank>幾</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+51E0</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>35</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>mtn|wtn</p></td>                            <td class="dsk_2_1"><p>hn</p></td>                            <td class="dsk_2_1"><p>qd</p></td>                            <td class="dsk_2_1"><p>77210</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">jī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span></span> <span class="z_d song">jǐ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jǐ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄐㄧ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧ.mp3"></a></span></span> <span class="z_d song">ㄐㄧˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“几”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=几" target="_blank">几</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 2</p>                    <p><span class="z_ts3">基本区</span> 51E0<span class="z_ts2">笔顺</span> 35                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="51E0_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=993" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>几</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">➋➌幾）</strong></p><p><span class="dicpy">jī  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span>  ㄐㄧˉ</span></p><hr class="dichr" /><ol>	<li>小或矮的桌子：茶～儿。</li>	<li>将近，差一点：～乎。～至。</li>	<li>苗头：知～其神乎。</li></ol><p>● <strong>几</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">幾）</strong></p><p><span class="dicpy">jǐ  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐ.mp3"></a></span>  ㄐㄧˇ</span></p><hr class="dichr" /><ol>	<li>询问数量多少（估计不太大）的疑问词：～个人？～何（①多少，如&ldquo;人生～～？&rdquo;②研究点线面体的性质、关系和计算方法的学科，如&ldquo;平面～～&rdquo;）。</li>	<li>表示不定的数目：～本书。～百人。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> small table</p><p><span class="z_ts2">德语</span> beinahe, fast, annähernd ,kleiner Tisch, Tischchen</p><p><span class="z_ts2">法语</span> petite table</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>几</strong> <span class="dicpy">jī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (象形。本义:古人席地而坐时有靠背的坐具)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[a long narrow table; bench]</span></p>
+<p><span class="diczx1">几，坐所以凭也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">掌五几五席之名物。&mdash;&mdash;<span class="smcs">《周礼&middot;司几筵》</span>。注:&ldquo;五几:左右玉雕彤漆素。&rdquo;</span></p>
+<p><span class="diczx1">室中度以几，堂上度以筵。&mdash;&mdash;<span class="smcs">《考工记&middot;匠人》</span></span></p>
+<p><span class="diczx1">几杖，所以扶助衰也。&mdash;&mdash;<span class="smcs">《白虎通&middot;致仕》</span></span></p>
+<p><span class="diczx1">必操几杖以从之。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">有司以几筵舍奠于墓左。&mdash;&mdash;<span class="smcs">《礼记&middot;檀弓》</span>。疏:&ldquo;依神也。&rdquo;</span></p>
+<p><span class="diczx1">或肆之筵，或授之几。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;行苇》</span></span></p>
+<p><span class="diczx3">又如:几杖(供老人依靠的小桌子和支撑用的手杖。古代赐几杖，表示敬老的礼节);几席(几和席，为古人凭依、坐卧的器具);几榻(靠几与卧榻，常用以泛指日用器具);几簟(几席)</span></p>
+<p><span class="cino">(3)</span> 后专指有光滑平面、由腿或其它支撑物固定起来的小桌子 <span class="encs">[a small table]</span></p>
+<p><span class="diczx1">吾妻来归。时至轩中，从余问古事，或凭几学书。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx1">入其舍，则密室垂帘，帘外设香几。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx3">又如:几案(桌子。因几案用于办公，因以代表公牍文书);几案之才(处理公文的才能);几筵(古代称祭席与灵座;筵席，几席);几上肉(案上的肉，比喻任人宰割)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>几</strong></p>
+<p>幾 <span class="dicpy">jī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 苗头;预兆 <span class="encs">[symptom of a trend;omen]</span></p>
+<p><span class="diczx1">徒有疾恶心，奈何不知几。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">苏涣</span><span class="smcs">《变律》</span></p>
+<p><span class="diczx3">又如:几先(预兆，事先)</span></p>
+<p><span class="cino">(2)</span> 政务。通&ldquo;机&rdquo; <span class="encs">[government affairs]</span></p>
+<p><span class="diczx1">或问为政有几。&mdash;&mdash;<span class="smcs">《法言&middot;先知》</span>。注:&ldquo;要也。&rdquo;</span></p>
+<p><span class="diczx1">心缠几务，而虚述人外。&mdash;&mdash;<span class="smcs">《文心雕龙&middot;情采》</span></span></p>
+<p>◎ <strong>几</strong></p>
+<p>幾 <span class="dicpy">jī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p>表示非常接近，相当于&ldquo;几乎&rdquo;、&ldquo;差不多&rdquo; <span class="encs">[almost;nearly]</span></p>
+<p><span class="diczx2">汉</span>之为 <span class="diczx2">汉</span>，几四十年矣。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《论积贮疏》</span></p>
+<p><span class="diczx1">几死者数矣。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx1">几自刭死。(几，&ldquo;几几乎&rdquo;的省略写法)&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">文天祥</span><span class="smcs">《指南录后序》</span></p>
+<p><span class="diczx1">几为巡徼所陵迫死。(通&ldquo;凌&rdquo;。)&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">文天祥</span><span class="smcs">《指南录后序》</span></p>
+<p><span class="diczx1">几欲先走。&mdash;&mdash;<span class="smcs">《虞初新志&middot;秋声诗自序》</span></span></p>
+<p><span class="diczx1">磴几不可登。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">姚鼐</span><span class="smcs">《登泰山记》</span></p>
+<p><span class="diczx1">几自疑身外即战场。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">有朕位几不保，命</span><span class="diczx2">康</span>与卿及同志速设法筹救之语。&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx3">又如:几有(几乎有;具有);几首(方言。那边);几虚(几乎徒然);几几乎(几几。几乎，差不多)</span></p>
+<p>◎ <strong>几</strong></p>
+<p>幾 <span class="dicpy">jī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> (会意。从戌。戌，兵守也。本义:细微，隐微)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[fine;slight]</span></p>
+<p><span class="diczx1">幾，微也，殆也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">几者，动之微，吉之先见者也。&mdash;&mdash;<span class="smcs">《易&middot;系辞》</span>传</span></p>
+<p><span class="diczx1">一日二日万几。&mdash;&mdash;<span class="smcs">《书&middot;皋陶谟》</span></span></p>
+<p><span class="diczx1">事父母几谏。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">君子见几而作，不俟终日。&mdash;&mdash;<span class="smcs">《易&middot;系辞》</span></span></p>
+<p><span class="cino">(3)</span> 危险 <span class="encs">[dangerous]</span></p>
+<p><span class="diczx1">本不固者末必几。&mdash;&mdash;<span class="smcs">《墨子》</span></span></p>
+<p>◎ <strong>几</strong></p>
+<p>幾 <span class="dicpy">jī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 接近;达到 <span class="encs">[reach; achieve，attain]</span></p>
+<p><span class="diczx1">几，近也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">月几望。&mdash;&mdash;<span class="smcs">《易&middot;小畜》</span></span></p>
+<p><span class="diczx1">知乐则几于礼矣。&mdash;&mdash;<span class="smcs">《礼记&middot;乐记》</span></span></p>
+<p><span class="diczx1">意几乎后言。&mdash;&mdash;<span class="smcs">《庄子&middot;天地》</span></span></p>
+<p><span class="diczx1">学之所以不能几于古者，作此之由乎?&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">刘开</span><span class="smcs">《问说》</span></p>
+<p><span class="diczx1">夫工艺非细事也，西人之神明规矩亦断非一蹴可几也。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">郑应</span><span class="smcs">《盛世危言&middot;技艺》</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">jǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐ.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/几乎">几乎</a></span><span class="crefe"><a href="/hans/几乎不">几乎不</a></span><span class="crefe"><a href="/hans/几谏">几谏</a></span><span class="crefe"><a href="/hans/几率">几率</a></span><span class="crefe"><a href="/hans/几微">几微</a></span><span class="crefe"><a href="/hans/几希">几希</a></span><span class="crefe"><a href="/hans/几至">几至</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>几</strong></p>
+<p>幾 <span class="dicpy">jǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐ.mp3"></a></span> </p>
+<p>［数］</p>
+<p><span class="cino">(1)</span> (会意，本义:微，隐微)</p>
+<p><span class="cino">(2)</span> 表示肯定观念，意思是&ldquo;虽少但仍有一些&rdquo; <span class="encs">[several;some;a few]</span></p>
+<p><span class="diczx1">几家深树里，一火夜渔归。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">项斯</span><span class="smcs">《江村夜归》</span></p>
+<p><span class="diczx1">见哥哥如此分析，以为理之当然，绝无几微不平的意思。&mdash;&mdash;<span class="smcs">《醒世姻缘传》</span></span></p>
+<p><span class="diczx3">又如:添几件衣服;给下一个人留下几朵花;几般儿(好几样，好几种;多么地;何等地);几见(极少见到);几微(一点;些微);几回价(几回家。几次地，多次地)</span></p>
+<p><span class="cino">(3)</span> 表示否定概念意思是&ldquo;不多&rdquo;&ldquo;没有多少&rdquo; <span class="encs">[few]</span></p>
+<p><span class="diczx2">韩子</span>亦无几求。&mdash;&mdash;<span class="smcs">《左传&middot;昭十六年》</span>。注:&ldquo;言所求少。&rdquo;</p>
+<p><span class="diczx3">又如:所剩无几</span></p>
+<p><span class="cino">(4)</span> 表示疑问，用以询问数目的多少 <span class="encs">[how many]</span></p>
+<p><span class="diczx1">几为之笑而不陵我?&mdash;&mdash;<span class="smcs">《左传&middot;昭公十六年》</span></span></p>
+<p><span class="diczx1">子来几日矣?&mdash;&mdash;<span class="smcs">《孟子&middot;离娄上》</span></span></p>
+<p><span class="diczx2">崔九</span>堂前几度闻。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《江南逢李龟年》</span></p>
+<p><span class="diczx1">几处早莺争暖树。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《钱塘湖春行》</span></p>
+<p><span class="diczx1">其几千里。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx1">读书者有几。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="diczx1">几世几年，剽掠其人。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜牧</span><span class="smcs">《阿房宫赋》</span></p>
+<p><span class="diczx1">未几，敌兵果舁炮至。(未几，没有多久，一会儿。)&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">禽兽之变诈几何哉。(禽兽的欺骗手段能有多少啊。变诈作假，欺骗。几何，多少。)&mdash;&mdash;<span class="smcs">《聊斋志异&middot;狼三则》</span></span></p>
+<p><span class="diczx3">又如:几里路;几天;几何(多少;若干);几化(方言。多少);几多(多少);几许(多少，若干);几数(多少)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>几</strong></p>
+<p>幾 <span class="dicpy">jǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">代</span></p>
+<p><span class="cino">(1)</span> 表示疑问，相当于&ldquo;何&rdquo;、&ldquo;什么&rdquo; <span class="encs">[what]</span>。</p>
+<p><span class="diczx3">如:不知征马几时归;几样(怎样地，多么地)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">jī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jī.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/几笔">几笔</a></span><span class="crefe"><a href="/hans/几曾">几曾</a></span><span class="crefe"><a href="/hans/几多">几多</a></span><span class="crefe"><a href="/hans/几分">几分</a></span><span class="crefe"><a href="/hans/几个">几个</a></span><span class="crefe"><a href="/hans/几个">几个</a></span><span class="crefe"><a href="/hans/几何">几何</a></span><span class="crefe"><a href="/hans/几经">几经</a></span><span class="crefe"><a href="/hans/几率">几率</a></span><span class="crefe"><a href="/hans/几起几落">几起几落</a></span><span class="crefe"><a href="/hans/几腔">几腔</a></span><span class="crefe"><a href="/hans/几儿">几儿</a></span><span class="crefe"><a href="/hans/几时">几时</a></span><span class="crefe"><a href="/hans/几许">几许</a></span><span class="crefe"><a href="/hans/几种">几种</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>几</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/幾' target=_blank>幾</a> 」的異體字。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>几</rb></rbc><rtc><rt>ㄐㄧˇ</rt></rtc><rtc><rt>​jǐ</rt></rtc></ruby><small class="youyin">讀音</small></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">小桌子。如：「茶几」、「几案」、「憑几」、「窗明几淨」。&rarr;「幾」的異體字（05411）​</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>几</rb></rbc><rtc><rt>ㄐㄧ</rt></rtc><rtc><rt>​jī</rt></rtc></ruby><small class="youyin">語音</small></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。&rarr;「幾」的異體字（05320）​</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="51E0_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=几" target="_blank">几</a>】
+                              几·康熙筆画：<a href="/zd/kx/bh/?bh=2" target="_blank">2</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=几" target="_blank">几</a>】
+                              几·康熙筆画：<a href="/zd/kx/bh/?bh=2" target="_blank">2</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/51E0.svg">						  <p>【唐韻】居履切【集韻】【韻會】舉履切【正韻】居里切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>寄上聲。【說文】踞几也。【徐曰】人所凭坐也。【詩&middot;大雅】或肆之筵，或授之几。【周禮&middot;春官】五几，玉几，雕几，彤几，漆几，素几。【劉歆&middot;西京雜記】漢制，天子玉几，冬加綈錦其上，謂之綈几。凡公侯皆竹木几，冬則細<img class="lazy k_img" data-original="//img.zdic.net/song/cn/261E7.svg"><span class="k_txt">𦇧</span>爲橐以馮之。【玉篇】案也。亦作机。【左傳&middot;昭五年】設机而不倚。又几几，安重貌。【詩&middot;豳風】赤舄几几。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="51E0_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=几">几</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=几">几</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/51E0.svg">                          <p>踞几也。象形。《周禮》五几：玉几、雕几、彤几、䰍几、素几。凡几之屬皆从几。居履切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/51E0_432.svg" /><span class="swbf">(几)</span><span class="ywyy">凥几也。</span><span class="swdz">凥各本作踞，今正。凥几者，謂人所凥之几也。凥，処也。処，止也。古之凥今悉改爲居，乃改云居几，旣又改爲蹲踞俗字。古人坐而凭几，蹲則未有倚几者也。几俗作机。左傳設机而不倚，周易渙奔其机皆俗字。</span><span class="ywyy">象形。</span><span class="swdz">象其高而上平可倚。下有足。居履切。十五部。</span><span class="ywyy">周禮五几：玉几、彫几、彤几、䰍几、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/260C3.svg"><span class="k_txt">𦃃</span>几。</span><span class="swdz">周禮司几筵職文。䰍几，今周禮作漆几，葢許所據不同。䰍者，桼也。</span><span class="ywyy">凡几之屬皆从几。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="51E0_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕi˥; tɕi˨˩˦ <span class="z_ts4">唐代读音</span>  gyǐ<span class="z_ts4">日语读音</span>  TSUKUE<span class="z_ts4">韩语罗马</span>  KWEY<span class="z_ts4">现代韩语</span>  궤<span class="z_ts3">越南语</span>  kỉ</p>						<p><span class="z_ts3">客家话</span>  [台湾四县腔] ji3 [梅县腔] gi1 [客语拼音字汇] gi1 [客英字典] gi3 gi1 [宝安腔] gi3 [海陆腔] ri3 [陆丰腔] gi1<span class="z_ts2">粤语</span>  gei1 gei2<span class="z_ts3">潮州话</span>  gi2 (kí) gi1 (ki)</p>						<p><span class="z_ts3">近代音</span>  見母    齊微韻    上聲    蟣小空；<span class="z_ts3">中古音</span>  見母    旨韻    上聲    几小韻    居履切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：見母    灰部   ；見母    灰部   ；王力系统：見母    脂部   ；見母    脂部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/几">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/几">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/几">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/几">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/几">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/几">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/几">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/几">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/几">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/几">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/几">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">几</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td style="display:none">金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/cx/几"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/53_F372.svg" /><span>「几」 包2.260</span></a></td>
+			<td><a href="/zd/zx/xz/几"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_51E0.svg" /><span>「几」 說文‧几部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none"><a href="/hans/幾" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5E7E.svg" /><span>「幾」</span></a></td>
+			<td><a href="/hans/几" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/51E0.svg" /><span>「几」</span></a></td>
+			<td style="display:none"><a href="/hans/几" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/51E0.svg" /><span>「几」</span></a></td>
+		</tr>
+	
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/几">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/几">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/几">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/几">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/几">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/51E0.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/51E0.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/51E0.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/51E0.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𠀃' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20003.svg'><span>𠀃</span></a></div> <div class='zx'><a href='/hans/幾' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5E7E.svg'><span>幾</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="993" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5392">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/机">机(ji1)</a></li><li><a href="/hans/赍">赍(ji1)</a></li><li><a href="/hans/緁">緁(ji1)</a></li><li><a href="/hans/期">期(ji1)</a></li><li><a href="/hans/䤠">䤠(ji1)</a></li><li><a href="/hans/羇">羇(ji1)</a></li><li><a href="/hans/𠔋">𠔋(ji1)</a></li><li><a href="/hans/击">击(ji1)</a></li><li><a href="/hans/苙">苙(ji1)</a></li><li><a href="/hans/觭">觭(ji1)</a></li><li><a href="/hans/機">機(ji1)</a></li><li><a href="/hans/嘰">嘰(ji1)</a></li><li><a href="/hans/㞛">㞛(ji3)</a></li><li><a href="/hans/屰">屰(ji3)</a></li><li><a href="/hans/䤒">䤒(ji3)</a></li><li><a href="/hans/㱦">㱦(ji3)</a></li><li><a href="/hans/済">済(ji3)</a></li><li><a href="/hans/魢">魢(ji3)</a></li><li><a href="/hans/䍤">䍤(ji3)</a></li><li><a href="/hans/㦸">㦸(ji3)</a></li><li><a href="/hans/蟣">蟣(ji3)</a></li><li><a href="/hans/幾">幾(ji3)</a></li><li><a href="/hans/脊">脊(ji3)</a></li><li><a href="/hans/鱾">鱾(ji3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠙥">𠙥</a></li><li><a href="/hans/処">処</a></li><li><a href="/hans/𠙲">𠙲</a></li><li><a href="/hans/凴">凴</a></li><li><a href="/hans/𠙃">𠙃</a></li><li><a href="/hans/𠙅">𠙅</a></li><li><a href="/hans/凤">凤</a></li><li><a href="/hans/凲">凲</a></li><li><a href="/hans/𠙇">𠙇</a></li><li><a href="/hans/𠙞">𠙞</a></li><li><a href="/hans/𠘶">𠘶</a></li><li><a href="/hans/凡">凡</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/龴">龴</a></li><li><a href="/hans/九">九</a></li><li><a href="/hans/𠆢">𠆢</a></li><li><a href="/hans/亻">亻</a></li><li><a href="/hans/讠">讠</a></li><li><a href="/hans/了">了</a></li><li><a href="/hans/七">七</a></li><li><a href="/hans/儿">儿</a></li><li><a href="/hans/𠄟">𠄟</a></li><li><a href="/hans/乄">乄</a></li><li><a href="/hans/𠃎">𠃎</a></li><li><a href="/hans/刁">刁</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">百年明日能<span>几</span>何？请君听我明日歌。</div><div class="gscdr">明·钱福 《明日歌》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">岐王宅里寻常见，崔九堂前<span>几</span>度闻。</div><div class="gscdr">唐·杜甫 《江南逢李龟年》</div><div class="gscdl">狼亦黠矣，而顷刻两毙，禽兽之变诈<span>几</span>何哉？止增笑耳。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl"><span>几</span>处早莺争暖树，谁家新燕啄春泥。</div><div class="gscdr">唐·白居易 《钱塘湖春行》</div><div class="gscdl">夕阳西下<span>几</span>时回？无可奈何花落去，似曾相识燕归来。小园香径独徘徊。</div><div class="gscdr">宋·晏殊 《浣溪沙·一向年光有限身》</div><div class="gscdl">中原乱，簪缨散，<span>几</span>时收？试倩悲风吹泪，过扬州。</div><div class="gscdr">宋·朱敦儒 《相见欢》</div><div class="gscdl">鲲之大，不知其<span>几</span>千里也；化而为鸟，其名为鹏。</div><div class="gscdr">先秦·庄周  庄子《北冥有鱼》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=993"></script>
+</body>
+</html>

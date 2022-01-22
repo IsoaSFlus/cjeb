@@ -1,0 +1,585 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>昭的解释|昭的意思|汉典“昭”字的基本解释</title>
+<meta name="title" content="昭的解释|昭的意思|汉典“昭”字的基本解释">
+<meta property="og:title" content="“昭”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“昭”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“昭”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/昭" />
+<link rel="canonical" href="//www.zdic.net/hans/昭" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/昭" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/昭" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/昭" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/昭">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/昭">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/662D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/662D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昭”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhāo.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昭”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄠ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">  日</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_ytz2"><a href='/hans/佋' target=_blank>佋</a>  <a href='/hans/巶' target=_blank>巶</a>  <a href='/hans/炤' target=_blank>炤</a>  <a href='/hans/照' target=_blank>照</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+662D</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>251153251</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>jvkg</p></td>                            <td class="dsk_2_1"><p>ashr</p></td>                            <td class="dsk_2_1"><p>kyj</p></td>                            <td class="dsk_2_1"><p>67062</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昭”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhāo.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昭”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄠ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">日</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 662D<span class="z_ts2">笔顺</span> 251153251                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="662D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6190" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>昭</strong></p>
+<p><span class="dicpy">zhāo  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhāo.mp3"></a></span>  ㄓㄠˉ</span></p>
+<ol>
+	<li>光明：～明。～～（➊明亮的样子，如&ldquo;日月～～&rdquo;；➋明白事理。如&ldquo;贤者以其～～，使人～～&rdquo;）。</li>
+	<li>明显，显著：～著。～彰。～布。～雪（揭明真情，洗清冤枉）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> bright, luminous; illustrious</p><p><span class="z_ts2">德语</span> deutlich  (Adj)</p><p><span class="z_ts2">法语</span> clair,évident</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>昭</strong></p>
+<p>炤 <span class="dicpy">zhāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhāo.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (形声。从日，召声。本义:明亮)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[bright]</span></p>
+<p><span class="diczx1">昭，日明也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">倬彼云汉，昭回于天。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;云汉》</span></span></p>
+<p><span class="diczx1">青春受谢，白日昭只。&mdash;&mdash;<span class="smcs">《楚辞&middot;大招》</span></span></p>
+<p><span class="diczx3">又如:昭式(光明的法度);昭列(光明);昭衍(光明广布);昭亮(明亮);昭美(光明美好)</span></p>
+<p><span class="cino">(3)</span> 彰明，显著 <span class="encs">[clear;obvious]</span></p>
+<p><span class="diczx1">所以昭炯戒。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx3">又如:昭升(显著地升闻);昭名(显著的声名);昭灼(明显;显著);昭明(显明;显著);昭速(明显地招引)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>昭</strong> <span class="dicpy">zhāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhāo.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 光;亮光 <span class="encs">[light]</span></p>
+<p><span class="diczx1">倬彼云汉，昭回于天。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;云汉》</span></span></p>
+<p><span class="diczx3">又如:昭回(晨辰光耀回转);昭耀(光耀);昭晳(光亮)</span></p>
+<p><span class="cino">(2)</span> 古时宗法制度 <span class="encs">[an order in patriarchal clan system]</span>，宗庙次序，始祖居中，二世、四世、六世位于始祖之左方，称&ldquo;昭&rdquo;;三世、五世、七世，位于右方，称&ldquo;穆&rdquo;。又坟地葬位的左右次序也按此规定排列</p>
+<p><span class="cino">(3)</span> 姓</p>
+<p>◎ <strong>昭</strong> <span class="dicpy">zhāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhāo.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 显扬;显示 <span class="encs">[show]</span></p>
+<p><span class="diczx1">昭陛下圣明。&mdash;&mdash;</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p>
+<p><span class="diczx3">又如:昭畅(大大发扬);昭文(显扬文采);昭武(显扬武威)&ldquo;炤&rdquo;</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">zh&agrave;o</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/昭布">昭布</a></span><span class="crefe"><a href="/hans/昭然">昭然</a></span><span class="crefe"><a href="/hans/昭然若揭">昭然若揭</a></span><span class="crefe"><a href="/hans/昭示">昭示</a></span><span class="crefe"><a href="/hans/昭雪">昭雪</a></span><span class="crefe"><a href="/hans/昭彰">昭彰</a></span><span class="crefe"><a href="/hans/昭昭">昭昭</a></span><span class="crefe"><a href="/hans/昭著">昭著</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>昭</rb></rbc><rtc><rt>ㄓㄠ</rt></rtc><rtc><rt>zhāo <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4351.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">明亮、光明。</span><span class="gc_yy">《詩經&middot;大雅&middot;抑》：「昊天孔昭，我生靡樂。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">明顯的。</span><span class="gc_lz">如：「天理昭昭」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">光線。</span><span class="gc_yy">《呂氏春秋&middot;審分覽&middot;任數》：「目之見也藉於昭，心之知也藉於理。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">古代祖先宗廟的排列次序。始祖廟居中，左為昭，右為穆。</span><span class="gc_yy">《左傳&middot;僖公五年》：「大伯、虞仲，大王之昭也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如戰國時楚國有昭奚恤。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">顯揚、使彰明。</span><span class="gc_yy">《左傳&middot;定公四年》：「以昭周公之明德。」</span><span class="gc_yy">《文選&middot;諸葛亮&middot;出師表》：「論其刑賞，以昭陛下平明之理。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="662D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              昭·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              昭·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/662D.svg">						  <p>【唐韻】止遙切【集韻】【韻會】【正韻】之遙切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音招。【說文】日明也。【爾雅&middot;釋詁】昭，見也。【博雅】明也。【玉篇】光也。【廣韻】著也，覿也。【易&middot;晉卦】君子以自昭明德。【書&middot;堯典】百姓昭明。【詩&middot;大雅】於昭于天。</p>
+<p>又【禮&middot;王制】天子七廟，三昭三穆與太祖之廟而七。</p>
+<p>又【祭統】夫祭有昭穆。昭穆者，所以別父子、遠近、長幼、親疏之序而無亂也。【魯語】明者爲昭，次者爲穆。</p>
+<p>又【禮&middot;樂記】蟄蟲昭蘇。【註】昭，曉也。蟄蟲以發生爲曉，更息曰蘇。</p>
+<p>又姓。【戰國策】楚有昭奚恤。【屈原&middot;離騷註】三閭之職，掌王族三姓，曰：昭、屈、景。</p>
+<p>又【集韻】時饒切【正韻】時昭切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音韶。廟中佋穆，或作昭。【佩觽集】說文自有佋穆之字，以佋爲昭，蓋借音耳。李祭酒涪說爲晉諱昭，改音韶，失之也。</p>
+<p>又【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>止少切，音沼。【詩&middot;魯頌】其馬蹻蹻，其音昭昭。【釋文】昭，之繞反。</p>
+<p>又【集韻】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>之笑切。照，或省作昭。</p>
+<p>又【韻補】叶蚩於切。【前漢&middot;敘傳】受命之初，贊功剖符。奕世弘業，爵土乃昭。</p>
+<p>又叶之由切。【楚辭&middot;九章】臨沅湘之<img class='lazy k_img' data-original='//img.zdic.net/song/cn/248E5.svg'><span class='k_txt'>𤣥</span>淵兮，遂自忍而沈流。卒沒身而絕名兮，惜壅君之不昭。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="662D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=日">日</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=日">日</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/662D.svg">                          <p>日明也。从日召聲。止遙切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/662D_2547.svg" /><span class="swbf">(昭)</span><span class="ywyy">日朙也。</span><span class="swdz">引伸爲凡明之偁。廟有昭穆，昭取陽明，穆取陰幽，皆本無正字，叚此二字爲之。自晉避司馬昭諱，不敢正讀，一切讀上饒反。而陸氏乃以入經典釋文，陋矣。又别製佋字，注云：廟昭穆，父爲佋南面，子爲穆北面。从人召聲。此冣爲不通。昭穆乃鬼神之偁，其字當从示，而从人何也。無識者又取以竄入說文人部中，其亂名改作有如此者。今人部删佋。</span><span class="ywyy">从日召聲。</span><span class="swdz">止遙切。二部。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="662D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂɑu˥ <span class="z_ts4">唐代读音</span>  *jiɛu<span class="z_ts4">日语读音</span>  AKIRAKA<span class="z_ts4">韩语罗马</span>  SO CO<span class="z_ts4">现代韩语</span>  소</p>						<p><span class="z_ts3">客家话</span>  [宝安腔] zau1 [客语拼音字汇] zau1 zeu1 [东莞腔] zau1 [客英字典] zhau1 [台湾四县腔] zau1 zeu1 [梅县腔] zhau1 shau1 [海陆腔] zhau1 [陆丰腔] zhau1<span class="z_ts2">粤语</span>  ciu1 ziu1</p>						<p><span class="z_ts3">近代音</span>  照母    蕭豪韻    平聲陰    昭小空；<span class="z_ts3">中古音</span>  照章母    宵韻    平聲    昭小韻    止遥切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：端母    豪部   ；王力系统：章母    宵部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/昭">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/昭">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/昭">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/昭">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/昭">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/昭">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/昭">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/昭">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/昭">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/昭">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/昭">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/昭">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">昭</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/cx/昭"><img data-original="//img.zdic.net/zy/chuwenzi/56_EF6C.svg" class="lazy ypic"><span>「昭」 郭.緇.11</span></a></td><td><a href="/zd/zx/xz/昭"><img data-original="//img.zdic.net/zy/xiaozhuan/27_662D.svg" class="lazy ypic"><span>「昭」 說文‧日部</span></a></td><td><a href="/zd/zx/qx/昭"><img data-original="//img.zdic.net/zy/qinwenzi/71_E6F8.svg" class="lazy ypic"><span>「昭」 睡.為27</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/昭" target="_blank"><img data-original="//img.zdic.net/kai/tw/662D.svg" class="lazy ypic"><span>「昭」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/昭">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/昭">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/昭">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/昭">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/662D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/662D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/662D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/662D.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/662D.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/佋' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4F4B.svg'><span>佋</span></a></div> <div class='zx'><a href='/hans/巶' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/5DF6.svg'><span>巶</span></a></div> <div class='zx'><a href='/hans/炤' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/70A4.svg'><span>炤</span></a></div> <div class='zx'><a href='/hans/照' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/7167.svg'><span>照</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6190" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7767">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/駋">駋(zhao1)</a></li><li><a href="/hans/啁">啁(zhao1)</a></li><li><a href="/hans/釽">釽(zhao1)</a></li><li><a href="/hans/炤">炤(zhao1)</a></li><li><a href="/hans/钊">钊(zhao1)</a></li><li><a href="/hans/朝">朝(zhao1)</a></li><li><a href="/hans/佋">佋(zhao1)</a></li><li><a href="/hans/鍣">鍣(zhao1)</a></li><li><a href="/hans/着">着(zhao1)</a></li><li><a href="/hans/鳭">鳭(zhao1)</a></li><li><a href="/hans/皽">皽(zhao1)</a></li><li><a href="/hans/釗">釗(zhao1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/晅">晅</a></li><li><a href="/hans/旨">旨</a></li><li><a href="/hans/昋">昋</a></li><li><a href="/hans/昹">昹</a></li><li><a href="/hans/时">时</a></li><li><a href="/hans/昜">昜</a></li><li><a href="/hans/㫧">㫧</a></li><li><a href="/hans/晥">晥</a></li><li><a href="/hans/㬥">㬥</a></li><li><a href="/hans/㫡">㫡</a></li><li><a href="/hans/昅">昅</a></li><li><a href="/hans/魯">魯</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/律">律</a></li><li><a href="/hans/䢂">䢂</a></li><li><a href="/hans/㹮">㹮</a></li><li><a href="/hans/舁">舁</a></li><li><a href="/hans/䣅">䣅</a></li><li><a href="/hans/绞">绞</a></li><li><a href="/hans/㧤">㧤</a></li><li><a href="/hans/拯">拯</a></li><li><a href="/hans/㐞">㐞</a></li><li><a href="/hans/冒">冒</a></li><li><a href="/hans/䑡">䑡</a></li><li><a href="/hans/闿">闿</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">若有作奸犯科及为忠善者，宜付有司论其刑赏，以<span>昭</span>陛下平明之理，不宜偏私，使内外异法也。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6190"></script>
+</body>
+</html>

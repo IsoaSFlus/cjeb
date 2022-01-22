@@ -1,0 +1,589 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>住的解释|住的意思|汉典“住”字的基本解释</title>
+<meta name="title" content="住的解释|住的意思|汉典“住”字的基本解释">
+<meta name="keywords" content="左：亻，右：主。 " /><meta property="og:title" content="“住”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“住”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“住”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/住" />
+<link rel="canonical" href="//www.zdic.net/hans/住" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/住" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/住" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/住" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/住">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/住">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4F4F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4F4F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“住”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhù.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“住”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亻" target="_blank">  亻</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_ytz2"><a href='/hans/駐' target=_blank>駐</a> <a href='/hans/𥩣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/25A63.svg'><span class='ytz_txt'>𥩣</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4F4F</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>3241121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>wygg</p></td>                            <td class="dsk_2_1"><p>oyg</p></td>                            <td class="dsk_2_1"><p>nsc</p></td>                            <td class="dsk_2_1"><p>20214</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“住”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhù.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“住”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亻" target="_blank">亻</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 4F4F<span class="z_ts2">笔顺</span> 3241121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4F4F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=336" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">住</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>住</strong></p>
+<p><span class="dicpy">zh&ugrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ugrave;.mp3"></a></span>  ㄓㄨˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>长期居留或短暂歇息：居～。～宿。～房。～户。</li>
+	<li>停，止，歇下：～手。雨～了。</li>
+	<li>动词的补语（➊表示稳当或牢固，如&ldquo;站～&rdquo;；➋表示停顿或静止，如&ldquo;他愣～了&rdquo;。➌与&ldquo;<span class="diczx3">得</span>&rdquo;或&ldquo;<span class="diczx3">不</span>&rdquo;连用，表示力量够得上，如&ldquo;支持不～了&rdquo;）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> reside, live at, dwell, lodge; stop</p><p><span class="z_ts2">德语</span> aufhören, wohnen, Komplement des Anhaltens ,leben, wohnen  (V)</p><p><span class="z_ts2">法语</span> habiter,loger,cesser,arrêter</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">住</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>住</strong> <span class="dicpy">zh&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ugrave;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (形声。从人，主声。本义:停留)</p>
+<p><span class="cino">(2)</span> 同本义(站住) <span class="encs">[stay]</span></p>
+<p><span class="diczx1">见者呼之曰:&ldquo;</span><span class="diczx2">蓟先生</span>小住。&rdquo;&mdash;&mdash;<span class="smcs">《后汉书&middot;蓟子训传》</span></p>
+<p><span class="diczx1">春光已向梅梢住。&mdash;&mdash;<span class="smcs">《后汉书》</span></span></p>
+<p><span class="diczx2">融</span>为中书郎，未有居止，权牵小船于岸上住。&mdash;&mdash;<span class="smcs">《南齐书&middot;张融传》</span></p>
+<p><span class="diczx1">舞余香尚存，歌尽声犹住。&mdash;&mdash;</span><span class="diczx2">萧悫</span><span class="smcs">《春日曲水》</span></p>
+<p><span class="diczx3">又如:住歇(停止，停歇);住滞(停留);住后(留后;殿后);住锡(僧人在某地居留。锡，锡杖)</span></p>
+<p><span class="cino">(3)</span> 停止 <span class="encs">[stop]</span></p>
+<p><span class="diczx2">杜</span>请 <span class="diczx2">裴</span>追之， <span class="diczx2">羊</span>去数里住马，既而俱还 <span class="diczx2">杜</span>许。&mdash;&mdash;<span class="smcs">《世说新语&middot;方正》</span></p>
+<p><span class="diczx1">两岸猿声啼不住，轻舟已过万重山。&mdash;&mdash;</span><span class="diczx2">李白</span><span class="smcs">《早发白帝城》</span></p>
+<p><span class="diczx3">又如:住脚(止步);住罢(停止)</span></p>
+<p><span class="cino">(4)</span> 暂居;居住 <span class="encs">[reside]</span></p>
+<p><span class="diczx1">自言本是京城女，家在虾蟆陵下住。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx1">住近</span><span class="diczx2">湓江</span>。</p>
+<p><span class="diczx1">人道</span><span class="diczx2">寄奴</span>曾住。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">辛弃疾</span><span class="smcs">《永遇乐》</span></p>
+<p><span class="diczx3">又如: 住坐(居住);住室(供人居住的房间)</span></p>
+<p><span class="cino">(5)</span> 住宿;过夜 <span class="encs">[stay;pass the night;put up for the night]</span></p>
+<p><span class="diczx1">行多有病住无粮，万里还乡未到乡。&mdash;&mdash;</span><span class="diczx2">卢纶</span><span class="smcs">《逢病军人》</span></p>
+<p><span class="cino">(6)</span> <span class="encs">[be stationed]</span></p>
+<p><span class="diczx1">家本</span><span class="diczx2">清河</span>住 <span class="diczx2">王城</span>，须凭弓箭得巧各。&mdash;&mdash; <span class="diczx2">令狐楚</span><span class="smcs">《少年行》</span></p>
+<p><span class="cino">(7)</span> 保留 <span class="encs">[keep]</span></p>
+<p><span class="diczx1">应似园中桃李树，花落随风子住枝。&mdash;&mdash;</span><span class="diczx2">白居易</span><span class="smcs">《母别子》</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>住</strong> <span class="dicpy">zh&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ugrave;.mp3"></a></span> </p>
+<p>&lt;动补&gt;</p>
+<p><span class="cino">(1)</span> 做动词的补语</p>
+<p><span class="cino">(2)</span> 表示牢固或稳当</p>
+<p><span class="diczx1">众人向前，一个带住婆子，三四个带住</span><span class="diczx2">唐牛儿</span>，把他横拖倒拽，直推进 <span class="diczx2">郓城县</span>里来。&mdash;&mdash;<span class="smcs">《水浒全传》</span></p>
+<p><span class="diczx2">贾政</span>还欲打时，早被 <span class="diczx2">王夫人</span>抱住板子。&mdash;&mdash;<span class="smcs">《红楼梦》</span></p>
+<p><span class="cino">(3)</span> 表示停止或静上</p>
+<p><span class="diczx1">我给你个好主意，</span><span class="diczx2">虎姑娘</span>立住了，面对面地对他说，&hellip;这个事非我自己办不可。&mdash;&mdash; <span class="diczx2">老舍</span><span class="smcs">《骆驼祥子》</span></p>
+<p><span class="cino">(4)</span> 跟&ldquo;得&rdquo;或&ldquo;不&rdquo;连用。表示能否胜任或能否够得上</p>
+<p><span class="diczx1">那</span><span class="diczx2">祝龙</span>当敌 <span class="diczx2">秦明</span>不住，拍马便走。&mdash;&mdash;<span class="smcs">《水浒全传》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/住持">住持</a></span><span class="crefe"><a href="/hans/住地">住地</a></span><span class="crefe"><a href="/hans/住房">住房</a></span><span class="crefe"><a href="/hans/住户">住户</a></span><span class="crefe"><a href="/hans/住家">住家</a></span><span class="crefe"><a href="/hans/住居">住居</a></span><span class="crefe"><a href="/hans/住口">住口</a></span><span class="crefe"><a href="/hans/住手">住手</a></span><span class="crefe"><a href="/hans/住宿">住宿</a></span><span class="crefe"><a href="/hans/住所">住所</a></span><span class="crefe"><a href="/hans/住校">住校</a></span><span class="crefe"><a href="/hans/住院">住院</a></span><span class="crefe"><a href="/hans/住宅">住宅</a></span><span class="crefe"><a href="/hans/住宅区">住宅区</a></span><span class="crefe"><a href="/hans/住址">住址</a></span><span class="crefe"><a href="/hans/住嘴">住嘴</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">住</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>住</rb></rbc><rtc><rt>ㄓㄨˋ</rt></rtc><rtc><rt>zh&ugrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4526.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">長期居留。</span><span class="gc_lz">如：「我<b>住</b>在臺北市。」</span><span class="gc_yy">唐&middot;崔顥〈長干曲〉四首之一：「君家何處<b>住</b>？妾<b>住</b>在橫塘。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">歇宿。</span><span class="gc_lz">如：「借<b>住</b>一宿」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">停止。</span><span class="gc_lz">如：「住手」、「住口」。</span><span class="gc_yy">《紅樓夢&middot;第七回》：「只見迎春、探春二人，正在窗下圍棋。周瑞家的將花送上，說明緣故。他二人忙<b>住</b>了棋，都欠身道謝。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表示牢固或穩當。</span><span class="gc_lz">如：「記<b>住</b>」、「拿<b>住</b>」、「站<b>住</b>」。</span><span class="gc_yy">《紅樓夢&middot;第三三回》：「賈政還欲打時，早被王夫人抱<b>住</b>板子。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">表示停頓或靜止。</span><span class="gc_lz">如：「愣<b>住</b>了」、「呆<b>住</b>了」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4F4F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              住·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">住</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              住·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4F4F.svg">						  <p>【廣韻】持遇切【集韻】【韻會】厨遇切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音駐。止也，立也，居也。【齊書&middot;張融傳】融爲中書郞，未有居止，權牽船於岸上住。</p>
+<p>又姓。見【姓苑】。</p>
+<p>又與數同。【列子&middot;黃帝篇】漚鳥之至者，百住而不止。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4F4F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=馬">馬</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">駐</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“住”字头，请参考“<a href="/hans/駐">駐</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=馬">馬</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/99D0.svg">                          <p>馬立也。从馬主聲。中句切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/99D0_7730.svg" /><span class="swbf">(駐)</span><span class="ywyy">馬立也。</span><span class="swdz">人立曰侸、俗作住。馬立曰駐。</span><span class="ywyy">从馬。主聲。</span><span class="swdz">中句切。古音在四部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4F4F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">住</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂu˥˧ <span class="z_ts4">唐代读音</span>  *djhiò djhiò<span class="z_ts4">日语读音</span>  SUMU TODOMARU YAMU<span class="z_ts4">韩语罗马</span>  CWU<span class="z_ts4">现代韩语</span>  주<span class="z_ts3">越南语</span>  trú</p>						<p><span class="z_ts3">客家话</span>  [宝安腔] cu3 [梅县腔] chu5 [客语拼音字汇] cu4 [客英字典] chu5 [东莞腔] cu3 [台湾四县腔] cu5 [dai5] [陆丰腔] chu5 [海陆腔] chu6 [dai5] [沙头角腔] cu5<span class="z_ts2">粤语</span>  zyu6</p>						<p><span class="z_ts3">近代音</span>  照母    魚模韻    去聲    注小空；<span class="z_ts3">中古音</span>  澄母    遇韻    去聲    住小韻    持遇切    三等    合口；知母    遇韻    去聲    註小韻    中句切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：端母    侯部   ；王力系统：端母    侯部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/住">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/住">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/住">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/住">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/住">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/住">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/住">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/住">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/住">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/住">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/住">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">住</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/住">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4F4F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4F4F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4F4F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4F4F.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4F4F.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/駐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/99D0.svg'><span>駐</span></a></div> <div class='zx'><a href='/hans/𥩣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/25A63.svg'><span>𥩣</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="336" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7907">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䐢">䐢(zhu4)</a></li><li><a href="/hans/铸">铸(zhu4)</a></li><li><a href="/hans/翥">翥(zhu4)</a></li><li><a href="/hans/麆">麆(zhu4)</a></li><li><a href="/hans/鉒">鉒(zhu4)</a></li><li><a href="/hans/注">注(zhu4)</a></li><li><a href="/hans/澍">澍(zhu4)</a></li><li><a href="/hans/拀">拀(zhu4)</a></li><li><a href="/hans/莇">莇(zhu4)</a></li><li><a href="/hans/贮">贮(zhu4)</a></li><li><a href="/hans/坾">坾(zhu4)</a></li><li><a href="/hans/䍆">䍆(zhu4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/佇">佇</a></li><li><a href="/hans/㑟">㑟</a></li><li><a href="/hans/𠉋">𠉋</a></li><li><a href="/hans/侍">侍</a></li><li><a href="/hans/𠍉">𠍉</a></li><li><a href="/hans/𠆩">𠆩</a></li><li><a href="/hans/價">價</a></li><li><a href="/hans/𠋌">𠋌</a></li><li><a href="/hans/𠉀">𠉀</a></li><li><a href="/hans/僂">僂</a></li><li><a href="/hans/俍">俍</a></li><li><a href="/hans/𠌳">𠌳</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/邮">邮</a></li><li><a href="/hans/㜿">㜿</a></li><li><a href="/hans/䒤">䒤</a></li><li><a href="/hans/钌">钌</a></li><li><a href="/hans/𠖃">𠖃</a></li><li><a href="/hans/坌">坌</a></li><li><a href="/hans/労">労</a></li><li><a href="/hans/犹">犹</a></li><li><a href="/hans/杕">杕</a></li><li><a href="/hans/㤋">㤋</a></li><li><a href="/hans/找">找</a></li><li><a href="/hans/𠇯">𠇯</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">若到江南赶上春，千万和春<span>住</span>。</div><div class="gscdr">宋·王观 《卜算子·送鲍浩然之浙东》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">风休<span>住</span>，蓬舟吹取三山去！</div><div class="gscdr">宋·李清照 《渔家傲》</div><div class="gscdl">崇祯五年十二月，余<span>住</span>西湖。</div><div class="gscdr">明·张岱 《湖心亭看雪》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=336"></script>
+</body>
+</html>

@@ -1,0 +1,758 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>广的解释|广的意思|汉典“广”字的基本解释</title>
+<meta name="title" content="广的解释|广的意思|汉典“广”字的基本解释">
+<meta name="keywords" content="|广|" /><meta property="og:title" content="“广”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“广”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“广”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/广" />
+<link rel="canonical" href="//www.zdic.net/hans/广" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/广" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/广" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/广" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/广">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/广">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5E7F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5E7F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">guǎng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span></span></p><p><span class="z_d song">ān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/ān.mp3"></a></span></span></p><p><span class="z_d song">yǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yǎn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄍㄨㄤˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄨㄤˇ.mp3"></a></span></span></p><p><span class="z_d song">ㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄢ.mp3"></a></span></span></p><p><span class="z_d song">ㄧㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄢˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=广" target="_blank">  广</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/廣' target=_blank>廣</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/庵' target=_blank>庵</a> <a href='/hans/廣' target=_blank>廣</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5E7F</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>413</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>yygt|oygt</p></td>                            <td class="dsk_2_1"><p>yh</p></td>                            <td class="dsk_2_1"><p>tg</p></td>                            <td class="dsk_2_1"><p>00200</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">guǎng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span></span> <span class="z_d song">ān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/ān.mp3"></a></span></span> <span class="z_d song">yǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yǎn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄍㄨㄤˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄨㄤˇ.mp3"></a></span></span> <span class="z_d song">ㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄢ.mp3"></a></span></span> <span class="z_d song">ㄧㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“广”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄢˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=广" target="_blank">广</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 5E7F<span class="z_ts2">笔顺</span> 413                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5E7F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4224" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>广</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">廣</span>）</strong></p>
+<p><span class="dicpy">guǎng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span> ㄍㄨㄤˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>指面积、范围宽阔，与&ldquo;<span class="diczx3">狭</span>&rdquo;相对：宽～。～博。～义。～漠。～袤（东西称&ldquo;广&rdquo;，南北称&ldquo;<span class="diczx3">袤</span>&rdquo;，指土地面积）。～厦。</li>
+	<li>多：大庭～众。</li>
+	<li>扩大，扩充：推～。～开言路。</li>
+</ol>
+<p>● <strong>广</strong></p>
+<p><span class="dicpy">ān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ān.mp3"></a></span>  ㄢˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>同&ldquo;<a href="/hans/庵">庵</a>&rdquo;。草屋。清桂馥《説文解字義證&bull;广部》：&ldquo;馥謂广即庵字，隸嫌其空，故加奄，變象形為諧聲。&rdquo;元袁桷《次韻瑾子過梁山濼》：&ldquo;土屋危可緣，草广突如峙。&rdquo;</li>
+</ol>
+<p>● <strong>广</strong></p>
+<p>yǎn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǎn.mp3"></a></span>  ㄧㄢˇ</p>
+<hr class="dichr" />
+<ol>
+	<li>依山崖建造的房屋。《説文&bull;广部》：&ldquo;广，因广為屋，象對刺高屋之形。&rdquo;徐灝注箋：&ldquo;因厂為屋，猶言傍巖架屋。此上古初有宫室之為也。&rdquo;宋李誡《營造法式&bull;總釋上&bull;宫》:&ldquo;因巖成室謂之广。&rdquo;唐韓愈《陪杜侍御遊湘西兩寺獨宿有題因獻楊常侍》:&ldquo;剖竹走泉源，開廊架崖广。&rdquo;</li>
+	<li>屋脊。《古今韻會舉要&bull;琰韻》:&ldquo;广，《增韻》：&lsquo;棟頭曰广。&rsquo;&rdquo;</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> wide, extensive, broad; rad. 53</p><p><span class="z_ts2">德语</span> breit, umfangreich, weit reichend ,weit ,Radikal Nr. 53 = Schrägdach, Schutz, Unterschlupf, Unterbringung  (S)</p><p><span class="z_ts2">法语</span> vaste,immense,nombreux</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>广</strong> <span class="dicpy">ān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ān.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 同&ldquo;庵&rdquo;。草屋 <span class="encs">[hut]</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">guǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span> </p>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>广</strong></p>
+<p>廣 <span class="dicpy">guǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从广( <span class="dicpy">yǎn</span>)，黄声。从&ldquo;广&rdquo;，表示与房屋有关。按:&ldquo;广&rdquo;和&ldquo;廣&rdquo;本不同义:是两个字。&ldquo;广&rdquo;，本读 <span class="dicpy">yǎn</span>，甲骨文和金文的写法象屋墙屋顶，其含义是依山崖建造的房屋。现在&ldquo;广&rdquo;是&ldquo;廣&rdquo;的简化字。本义:宽大的房屋)</p>
+<p><span class="cino">(2)</span> 四周无壁的大屋 <span class="encs">[wallless hall]</span></p>
+<p><span class="diczx1">广，殿之大屋也。&mdash;&mdash;<span class="smcs">《说文》</span>。</span><span class="diczx2">段玉裁</span>注:殿谓堂无四壁&hellip;覆乎上者曰屋，无四壁而上有大覆盖，其所通者宏远矣，是曰广。 <span class="diczx2">朱骏声</span>曰:&ldquo;堂无四壁者。秦谓之殿，所谓堂皇也，覆以大屋曰广。&rdquo;</p>
+<p><span class="diczx1">天子之堂广九雉。&mdash;&mdash;<span class="smcs">《尚书大传》</span>。注:&ldquo;荣间相去也。&rdquo;</span></p>
+<p><span class="diczx1">居天下之广居。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">是求马于唐肆也。&mdash;&mdash;<span class="smcs">《庄子&middot;田子方》</span>。</span><span class="diczx2">司马</span>注:&ldquo;广庭也，以唐为之。&rdquo;</p>
+<p><span class="diczx1">朱涂广，夷石为堂。(涂:粉饰。夷石:平整的石头做堂基)&mdash;&mdash;<span class="smcs">《汉郊祀歌》</span></span></p>
+<p><span class="cino">(3)</span> 宽度，横向尺寸 <span class="encs">[width]</span></p>
+<p><span class="diczx1">广袤丰杀，一称心力。&mdash;&mdash;</span><span class="diczx2">白居易</span><span class="smcs">《庐山草堂记》</span></p>
+<p><span class="diczx1">今蛭广有分数，长有寸度。&mdash;&mdash;<span class="smcs">《论衡&middot;福虚》</span></span></p>
+<p><span class="diczx1">沈机长二丈，广八尺。&mdash;&mdash;<span class="smcs">《墨子&middot;备城门》</span></span></p>
+<p><span class="diczx1">即连楮为巨幅，广二丈，大书一&ldquo;屈&rdquo;字，以两竿夹揭之。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p>
+<p><span class="diczx1">前有平地，轮广十丈。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《庐山草堂记》</span>。轮:南北距离</p>
+<p><span class="diczx3">又如:广运(宽广。东西距离为广，南北距离为运)</span></p>
+<p><span class="cino">(4)</span> 广州的省称 <span class="encs">[Guangzhou (Canton)]</span></p>
+<p><span class="diczx1">杂彩三百匹，交</span><span class="diczx2">广</span>市鲑珍。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></p>
+<p><span class="diczx3">又如:广交会;广疮(性病。此病似从国外经广州传入的，故称);广里(指广州)</span></p>
+<p><span class="cino">(5)</span> 广东、广西两省的略称 <span class="encs">[Guang dong (Kwangtung) or Guangxi(Kwangsi)]</span>。</p>
+<p><span class="diczx3">如:两广;广花(颜料。广东产的花青);广云胶(胶名。产于广东，无臭味)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>广</strong></p>
+<p>廣 <span class="dicpy">guǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 广阔，宽阔;分布广;辽阔 <span class="encs">[wide;vast;extensive]</span></p>
+<p><span class="diczx1">广，阔也。&mdash;&mdash;<span class="smcs">《广韵》</span></span></p>
+<p><span class="diczx1">狄之广漠。&mdash;&mdash;<span class="smcs">《左传&middot;庄公二十八年》</span></span></p>
+<p><span class="diczx1">地广而益重。&mdash;&mdash;<span class="smcs">《战国策&middot;西周策》</span></span></p>
+<p><span class="diczx1">古者圣王为大川广谷之不可济，于是利为舟楫。&mdash;&mdash;<span class="smcs">《墨子&middot;节用中》</span></span></p>
+<p><span class="diczx1">平原广野，此车骑之地。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">晁错</span><span class="smcs">《言兵当疏》</span></p>
+<p><span class="diczx1">汉亡广矣，不可泳思。&mdash;&mdash;<span class="smcs">《诗&middot;周南&middot;汉广》</span></span></p>
+<p><span class="diczx1">乃为赋以自广。&mdash;&mdash;<span class="smcs">《史记&middot;屈原&middot;贾生列传》</span></span></p>
+<p><span class="diczx3">又如:广通(广泛传播);广交声气(多方交接意气相投的朋友);广平(宽阔平坦);广庄(宽阔的大道);广狭(宽广与狭窄)</span></p>
+<p><span class="cino">(2)</span> 引申为大 <span class="encs">[huge;great]</span></p>
+<p><span class="diczx1">四牡修广。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;六月》</span></span></p>
+<p><span class="diczx1">安得广厦千万间，大庇天下寒士俱欢颜。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《茅屋为秋风所破歌》</span></p>
+<p><span class="diczx1">明道德之广崇，治乱之条贯，靡不毕见。&mdash;&mdash;<span class="smcs">《史记&middot;屈原贾生列传》</span></span></p>
+<p><span class="diczx3">又如:广厦细旃(高大的房屋);广车(大车);广舶(大型远洋船);广肆(大店铺);广衢(大道);广眉(大眉，厚眉);广渊(弘大深远)</span></p>
+<p><span class="cino">(3)</span> 盛大，以非常富丽、堂皇、丰盛或庄重为标志的 <span class="encs">[grand]</span>。</p>
+<p><span class="diczx3">如:广宴(盛宴);广筵(盛宴)</span></p>
+<p><span class="cino">(4)</span> 远大，将来要成就一番大事业的 <span class="encs">[far-reaching]</span>。</p>
+<p><span class="diczx3">如:君子贫穷而志广;才疏意广</span></p>
+<p><span class="cino">(5)</span> 多，众多，数目很多 <span class="encs">[numerous]</span></p>
+<p><span class="diczx1">自迎</span><span class="diczx2">赢</span>于众人广坐之中。&mdash;&mdash;<span class="smcs">《史记&middot;魏公子列传》</span></p>
+<p><span class="diczx1">竟敢在大庭广众之中，光天化日之下，横行不法，岂不怪哉</span></p>
+<p><span class="diczx3">又如:广众;广交(交友极多);广坐(众人聚会列坐的地方)</span></p>
+<p><span class="cino">(6)</span> 普通;广泛 <span class="encs">[general]</span></p>
+<p><span class="diczx1">幸可广问讯，不得便相许。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="cino">(7)</span> 通&ldquo;旷&rdquo;( <span class="dicpy">ku&agrave;ng</span>)。荒废，耽搁 <span class="encs">[rusty;be out of practice]</span></p>
+<p><span class="diczx1">不譲事，不广闲。&mdash;&mdash;<span class="smcs">《管子&middot;大匡》</span></span></p>
+<p><span class="diczx3">又如:广广(荒废的状况);广土(荒废的土地)</span></p>
+<p>◎ <strong>广</strong></p>
+<p>廣 <span class="dicpy">guǎng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/guǎng.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 引申为扩大 <span class="encs">[expand]</span></p>
+<p><span class="diczx1">克广德心。&mdash;&mdash;<span class="smcs">《诗&middot;鲁颂&middot;泮水》</span></span></p>
+<p><span class="diczx1">广长榆。&mdash;&mdash;<span class="smcs">《史记&middot;淮南衡山传》</span>。集解:&ldquo;谓拓大之也。&rdquo;</span></p>
+<p><span class="diczx1">今吾以十倍之地，请广于君。&mdash;&mdash;<span class="smcs">《战国策&middot;魏策》</span></span></p>
+<p><span class="diczx1">非问无以广识。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">刘开</span><span class="smcs">《问说》</span></p>
+<p><span class="diczx3">又如:广额(放宽录取名额)</span></p>
+<p><span class="cino">(2)</span> 将某门学科、某种艺术主动介绍给一般群众 <span class="encs">[popularize]</span>。</p>
+<p><span class="diczx3">如:广宣(广为宣播)推广</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">ān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ān.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/广播">广播</a></span><span class="crefe"><a href="/hans/广播电台">广播电台</a></span><span class="crefe"><a href="/hans/广博">广博</a></span><span class="crefe"><a href="/hans/广场">广场</a></span><span class="crefe"><a href="/hans/广大">广大</a></span><span class="crefe"><a href="/hans/广岛">广岛</a></span><span class="crefe"><a href="/hans/广东">广东</a></span><span class="crefe"><a href="/hans/广度">广度</a></span><span class="crefe"><a href="/hans/广而言之">广而言之</a></span><span class="crefe"><a href="/hans/广泛">广泛</a></span><span class="crefe"><a href="/hans/广告">广告</a></span><span class="crefe"><a href="/hans/广货">广货</a></span><span class="crefe"><a href="/hans/广角镜头">广角镜头</a></span><span class="crefe"><a href="/hans/广开才路">广开才路</a></span><span class="crefe"><a href="/hans/广开言路">广开言路</a></span><span class="crefe"><a href="/hans/广阔">广阔</a></span><span class="crefe"><a href="/hans/广袤">广袤</a></span><span class="crefe"><a href="/hans/广漠">广漠</a></span><span class="crefe"><a href="/hans/广谋从众">广谋从众</a></span><span class="crefe"><a href="/hans/广谱">广谱</a></span><span class="crefe"><a href="/hans/广求">广求</a></span><span class="crefe"><a href="/hans/广厦">广厦</a></span><span class="crefe"><a href="/hans/广土众民">广土众民</a></span><span class="crefe"><a href="/hans/广文">广文</a></span><span class="crefe"><a href="/hans/广西">广西</a></span><span class="crefe"><a href="/hans/广袖">广袖</a></span><span class="crefe"><a href="/hans/广延">广延</a></span><span class="crefe"><a href="/hans/广义">广义</a></span><span class="crefe"><a href="/hans/广义">广义</a></span><span class="crefe"><a href="/hans/广宇">广宇</a></span><span class="crefe"><a href="/hans/广远">广远</a></span><span class="crefe"><a href="/hans/广众">广众</a></span><span class="crefe"><a href="/hans/广种薄收">广种薄收</a></span><span class="crefe"><a href="/hans/广州">广州</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>广</rb></rbc><rtc><rt>ㄧㄢˇ</rt></rtc><rtc><rt>yǎn</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">依山崖所建造的房屋。</span><span class="gc_yy">唐&middot;韓愈〈陪杜侍御遊湘西兩寺獨宿有題一首因獻楊常侍〉詩：「剖竹走泉源，開廊架崖<b>广</b>。」</span><span class="gc_yy">元&middot;袁桷〈次韻瑾子過梁山濼三十韻〉：「土屋危可緣，草<b>广</b>突如峙。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5E7F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=广" target="_blank">广</a>】
+                              广·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=广" target="_blank">广</a>】
+                              广·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5E7F.svg">						  <p>【唐韻】【集韻】魚檢切【韻會】疑檢切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>醃上聲。【說文】因广爲屋。象對刺高屋之形。【徐鉉曰】因广爲屋，故但一邊下。【增韻】棟頭曰广。【韓愈&middot;遊湘西寺詩】剖竹走泉源，開廊架屋广。</p>
+<p>又【釋名】衾，广也。其下廣大，如广受人也。</p>
+<p>又【廣韻】魚掩切，音隒。義同。</p>
+<p>（廣）【唐韻】【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>古晃切，光上聲。【說文】殿之大屋也。</p>
+<p>又【玉篇】廣，大也。【廣韻】廣，闊也。【易&middot;繫辭】廣大配天地。【疏】大以配天，廣以配地。</p>
+<p>又州名。【唐書&middot;地理志】嶺南道有廣州。</p>
+<p>又姓。【姓譜】出丹陽，廣成子之後，宋有廣漢。</p>
+<p>又【玉篇】古曠切，光去聲。【周禮&middot;地官&middot;大司徒】周知九州之地域廣輪之數。【疏】馬融云：東西爲廣，南北爲輪。【釋文】廣，古曠反。</p>
+<p>又車名。【周禮&middot;春官&middot;車僕】廣車之萃。【註】廣車，橫<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>之車也。【釋文】廣，古曠反。【左傳&middot;僖二十八年】西廣東宮。【疏】楚有左右廣，蓋兵車之名。【宣二年】分爲二廣。【註】十五乗爲一廣。</p>
+<p>又【正字通】音曠。【荀子&middot;王霸篇】人主胡不廣焉。【註】廣，開泰貌。</p>
+<p>又與曠通。【前漢&middot;五行志】師出過時之謂廣。</p>
+<p>又姑黃切，音光。【爾雅&middot;釋獸】回毛在背，闋廣。【疏】伯樂相馬法，旋毛在背者名闋廣。【音義】廣，音光。</p>
+<p>又【韻補】叶果五切，音古。【禮&middot;樂記】今夫古樂，進旅退旅，和正以廣，弦匏笙簧，會守拊鼓，始奏以文，復亂以武。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5E7F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=广">广</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=广">广</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5E7F.svg">                          <p>因广爲屋，象對剌高屋之形。凡广之屬皆从广。讀若儼然之儼。魚儉切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5E7F_1712.svg" /><span class="swbf">(广)</span><span class="ywyy">因厂爲屋也。</span><span class="swdz">厂各本作广，誤，今正。厂者，山石之厓巖。因之爲屋，是曰广。廣韵<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2494E.svg"><span class="k_txt">𤥎</span>儼二韵及昌黎集注皆作因巖，可證。因巖卽因厂也。</span><span class="ywyy">从厂，</span><span class="swdz">各本無此二字，今補。</span><span class="ywyy">象對刺高屋之形。</span><span class="swdz">刺各本作剌，今正。讀七亦切，謂對面高屋森聳上刺也。首畫象巖上有屋。</span><span class="ywyy">凡广之屬皆从广，讀若儼然之儼。</span><span class="swdz">魚儉切。八部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5E7F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  kuɑŋ˨˩˦; Ąn˥ <span class="z_ts4">日语读音</span>  IE<span class="z_ts4">韩语罗马</span>  EM<span class="z_ts4">现代韩语</span>  엄</p>						<p><span class="z_ts2">粤语</span>  jim2</p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  疑母    琰韻    上聲    顩小韻    魚檢切    三等    開口；疑母    儼韻    上聲    儼小韻    魚埯切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：疑母    添部   ；王力系统：疑母    談部   ；</p>
+                        
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/广">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/广">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/广">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">广</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td style="display:none">金文</td>
+			<td style="display:none">楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/广"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_F4EA.svg" /><span>「广」 說文‧广部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none"><a href="/hans/廣" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5EE3.svg" /><span>「廣」</span></a></td>
+			<td><a href="/hans/广" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5E7F.svg" /><span>「广」</span></a></td>
+			<td style="display:none"><a href="/hans/广" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5E7F.svg" /><span>「广」</span></a></td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<hr />
+<table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td>金文</td>
+			<td style="display:none">楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td>楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/jw/廣"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E754.svg" /><span>「廣」 班簋</span><span>西周早期</span><span>集成4341</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/廣"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_5EE3.svg" /><span>「廣」 說文‧广部</span></a></td>
+			<td><a href="/zd/zx/qx/廣"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_EA49.svg" /><span>「廣」 睡.法52</span></a></td>
+			<td><a href="/hans/廣" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5EE3.svg" /><span>「廣」</span></a></td>
+			<td><a href="/hans/广" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/5E7F.svg" /><span>「广」</span></a></td>
+			<td style="display:none"><a href="/hans/廣" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5EE3.svg" /><span>「廣」</span></a></td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/jw/廣"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E75A.svg" /><span>「廣」 𤼈鐘</span><span>西周中期</span><span>集成246</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/jw/廣"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E75F.svg" /><span>「廣」 士父鐘</span><span>西周晚期</span><span>集成145</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/广">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/广">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/广">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/广">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5E7F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5E7F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5E7F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5E7F.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/庵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5EB5.svg'><span>庵</span></a></div> <div class='zx'><a href='/hans/廣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5EE3.svg'><span>廣</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4224" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5153">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/臩">臩(guang3)</a></li><li><a href="/hans/広">広(guang3)</a></li><li><a href="/hans/犷">犷(guang3)</a></li><li><a href="/hans/獷">獷(guang3)</a></li><li><a href="/hans/廣">廣(guang3)</a></li><li><a href="/hans/氨">氨(an1)</a></li><li><a href="/hans/媕">媕(an1)</a></li><li><a href="/hans/侒">侒(an1)</a></li><li><a href="/hans/萻">萻(an1)</a></li><li><a href="/hans/盦">盦(an1)</a></li><li><a href="/hans/痷">痷(an1)</a></li><li><a href="/hans/盫">盫(an1)</a></li><li><a href="/hans/啽">啽(an1)</a></li><li><a href="/hans/葊">葊(an1)</a></li><li><a href="/hans/偣">偣(an1)</a></li><li><a href="/hans/蓭">蓭(an1)</a></li><li><a href="/hans/諳">諳(an1)</a></li><li><a href="/hans/厣">厣(yan3)</a></li><li><a href="/hans/渰">渰(yan3)</a></li><li><a href="/hans/眼">眼(yan3)</a></li><li><a href="/hans/㭺">㭺(yan3)</a></li><li><a href="/hans/俨">俨(yan3)</a></li><li><a href="/hans/掩">掩(yan3)</a></li><li><a href="/hans/䗺">䗺(yan3)</a></li><li><a href="/hans/奄">奄(yan3)</a></li><li><a href="/hans/䣍">䣍(yan3)</a></li><li><a href="/hans/嵃">嵃(yan3)</a></li><li><a href="/hans/㢂">㢂(yan3)</a></li><li><a href="/hans/䁙">䁙(yan3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㢌">㢌</a></li><li><a href="/hans/度">度</a></li><li><a href="/hans/廃">廃</a></li><li><a href="/hans/庀">庀</a></li><li><a href="/hans/㢕">㢕</a></li><li><a href="/hans/庿">庿</a></li><li><a href="/hans/㢂">㢂</a></li><li><a href="/hans/床">床</a></li><li><a href="/hans/廭">廭</a></li><li><a href="/hans/庴">庴</a></li><li><a href="/hans/廮">廮</a></li><li><a href="/hans/㢁">㢁</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/亼">亼</a></li><li><a href="/hans/三">三</a></li><li><a href="/hans/䒑">䒑</a></li><li><a href="/hans/𠄑">𠄑</a></li><li><a href="/hans/夨">夨</a></li><li><a href="/hans/兀">兀</a></li><li><a href="/hans/巳">巳</a></li><li><a href="/hans/𠆥">𠆥</a></li><li><a href="/hans/夊">夊</a></li><li><a href="/hans/𠃓">𠃓</a></li><li><a href="/hans/久">久</a></li><li><a href="/hans/乆">乆</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">夫学须静也，才须学也，非学无以<span>广</span>才，非志无以成学。</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">居天下之<span>广</span>居，立天下之正位，行天下之大道。</div><div class="gscdr">《孟子·滕文公下》《富贵不能淫》</div><div class="gscdl">自经丧乱少睡眠，长夜沾湿何由彻！安得<span>广</span>厦千万间，大庇天下寒士俱欢颜！风雨不动安如山。</div><div class="gscdr">唐·杜甫 《茅屋为秋风所破歌》</div><div class="gscdl">“今吾以十倍之地，请<span>广</span>于君，而君逆寡人者，轻寡人与？”</div><div class="gscdr">西汉·刘向 《唐雎不辱使命》</div><div class="gscdl">愚以为宫中之事，事无大小，悉以咨之，然后施行，必能裨补阙漏，有所<span>广</span>益。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=4224"></script>
+</body>
+</html>

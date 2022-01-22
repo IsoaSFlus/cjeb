@@ -1,0 +1,619 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>断的解释|断的意思|汉典“断”字的基本解释</title>
+<meta name="title" content="断的解释|断的意思|汉典“断”字的基本解释">
+<meta name="keywords" content="|⿰⿺𠃊米斤|" /><meta property="og:title" content="“断”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“断”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“断”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/断" />
+<link rel="canonical" href="//www.zdic.net/hans/断" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/断" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/断" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/断" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/断">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/断">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/65AD.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/65AD.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">duàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“断”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/duàn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“断”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄨㄢˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=斤" target="_blank">  斤</a></p>
+                              <p><span class="z_ts2">部外</span>  7</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/斷' target=_blank>斷</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/斷' target=_blank>斷</a> <a href='/hans/㫁' target=_blank>㫁</a> <a href='/hans/𠜷' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20737.svg'><span class='ytz_txt'>𠜷</span> <a href='/hans/𠝅' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20745.svg'><span class='ytz_txt'>𠝅</span> <a href='/hans/𠡱' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20871.svg'><span class='ytz_txt'>𠡱</span> <a href='/hans/𣂢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230A2.svg'><span class='ytz_txt'>𣂢</span> <a href='/hans/𣂣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230A3.svg'><span class='ytz_txt'>𣂣</span> <a href='/hans/𣂱' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230B1.svg'><span class='ytz_txt'>𣂱</span> <a href='/hans/𣂸' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230B8.svg'><span class='ytz_txt'>𣂸</span> <a href='/hans/𣂾' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230BE.svg'><span class='ytz_txt'>𣂾</span> <a href='/hans/𣃔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230D4.svg'><span class='ytz_txt'>𣃔</span> <a href='/hans/𣦕' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23995.svg'><span class='ytz_txt'>𣦕</span> <a href='/hans/𣦙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23999.svg'><span class='ytz_txt'>𣦙</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+65AD</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>43123453312</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>onrh</p></td>                            <td class="dsk_2_1"><p>vdhml</p></td>                            <td class="dsk_2_1"><p>ufzd</p></td>                            <td class="dsk_2_1"><p>22721</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">duàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“断”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/duàn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“断”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄨㄢˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=斤" target="_blank">斤</a> <span class="z_ts2">部外</span> 7<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">基本区</span> 65AD<span class="z_ts2">笔顺</span> 43123453312                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="65AD_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6062" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">断</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>断</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">斷</span>）</strong></p>
+<p><span class="dicpy">du&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&agrave;n.mp3"></a></span> ㄉㄨㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>长形的东西从中间分开：～裂。～层。～面。截～。～肠。～魂。～线风筝。</li>
+	<li>不继续，禁绝：～粮。～水。～炊。～奶。～档。～流。～种（<span class="dicpy">zh&oacute;ng </span>）。～交。～片。～续。～子绝孙。</li>
+	<li>判定，决定：判～。诊～。～狱（审理和判决罪案）。</li>
+	<li>一定，绝对：～乎不可。～然施行。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> <p>sever, cut off; interrupt</p></p><p><span class="z_ts2">德语</span> absolut ,entschieden ,zerbrechen, abbrechen, aufgeben, unterlassen</p><p><span class="z_ts2">法语</span> certainement,couper,casser,rompre,interrompre,renoncer à,décider</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">断</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>断</strong></p>
+<p>斷 <span class="dicpy">du&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&agrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。本义:截断，截开)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[cut off]</span></p>
+<p><span class="diczx1">断，截也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">断木为杵。&mdash;&mdash;<span class="smcs">《易&middot;系辞下》</span></span></p>
+<p><span class="diczx1">三日断五匹，大人故嫌迟。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx2">公孙弘</span>断发而为 <span class="diczx2">越王</span>骑。&mdash;&mdash;<span class="smcs">《韩非子&middot;说林下》</span></p>
+<p><span class="diczx1">是断手而续以玉也，故世有易身之患。&mdash;&mdash;<span class="smcs">《韩非子&middot;用人》</span></span></p>
+<p><span class="diczx3">又如:断梗(断枝。比喻飘泊无定;指微贱的东西);断金(同心协力，坚固难移);断袖(旧时指男宠;比喻友情深厚);断颡(断头;砍头);断袖之宠(男宠);断头话(决绝的话);断裳(截断裳衣)</span></p>
+<p><span class="cino">(3)</span> 断开;断绝 <span class="encs">[break;snap]</span></p>
+<p><span class="diczx1">断者架木通之。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="diczx1">切肉肉断而发不断。&mdash;&mdash;<span class="smcs">《韩非子&middot;内储说下》</span></span></p>
+<p><span class="diczx2">天门</span>中断 <span class="diczx2">楚江</span>开。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《望天门山》</span></p>
+<p><span class="diczx3">又如:断纹(琴上涂漆的裂纹);断头香(燃至中途熄灭的香。迷信者以为再烧此香，即对神佛不敬，来世必遭报应)</span></p>
+<p><span class="cino">(4)</span> 拦截;拦劫 <span class="encs">[intercept]</span></p>
+<p><span class="diczx1">坐断兵马禀缣。&mdash;&mdash;<span class="smcs">《后汉书&middot;杜茂传》</span></span></p>
+<p><span class="diczx1">因军兴，断盗数千万。&mdash;&mdash;<span class="smcs">《后汉书&middot;盖勋传》</span>。注:&ldquo;断，谓割截。&rdquo;</span></p>
+<p><span class="diczx3">又如:断取(截取);断盗(拦截抢劫)</span></p>
+<p><span class="cino">(5)</span> 判断;裁决 <span class="encs">[judge]</span></p>
+<p><span class="diczx1">事不目见耳闻，而臆断其有无，可乎。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《石钟山记》</span></p>
+<p><span class="diczx3">又如:断配(判决发配);断决(判决);断冤(审理冤狱);断遣(断决，处理);断没(判断没收归公)</span></p>
+<p><span class="cino">(6)</span> 分;区分;划分 <span class="encs">[divide]</span></p>
+<p><span class="diczx1">断，段也，分为异段。&mdash;&mdash;<span class="smcs">《释名》</span></span></p>
+<p><span class="diczx3">又如:断限(划定的年代界限);断方(划为方形)</span></p>
+<p><span class="cino">(7)</span> 禁止 <span class="encs">[inhibit]</span>。</p>
+<p><span class="diczx3">如:断酒(禁止酿酒);断尽(禁绝);断渡(禁渡，停渡)</span></p>
+<p><span class="cino">(8)</span> 戒掉，有意地抑制自己不行动 <span class="encs">[abstain from]</span>。</p>
+<p><span class="diczx3">如:断酒</span></p>
+<p><span class="cino">(9)</span> 斩杀，宰杀 <span class="encs">[kill]</span></p>
+<p><span class="diczx1">大者立断。&mdash;&mdash;<span class="smcs">《汉书&middot;淮南历王长传》</span></span></p>
+<p><span class="diczx3">又如:断除(除灭，杀掉);断杀(砍杀);断首(砍头)</span></p>
+<p><span class="cino">(10)</span> 治理，治，管理&hellip;的事物 <span class="encs">[administer]</span>。</p>
+<p><span class="diczx3">如:断遗(处理;处分)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>断</strong></p>
+<p>斷 <span class="dicpy">du&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&agrave;n.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p>绝对;一定 <span class="encs">[absolutely]</span></p>
+<p><span class="diczx1">断无消息石榴红。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李商隐</span><span class="smcs">《无题》</span></p>
+<p><span class="diczx3">又如:他的话断不可信;断无此理;断无(绝无);断省(明断);断黑(全黑);断喝(极严厉的吆喝)</span></p>
+<p>◎ <strong>断</strong></p>
+<p>斷 <span class="dicpy">du&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&agrave;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 残缺;片断 <span class="encs">[broken]</span>。</p>
+<p><span class="diczx3">如:断想(片断的感想);断碎(残缺破碎);断霞(片断的云霞)</span></p>
+<p><span class="cino">(2)</span> 陡峭 <span class="encs">[abrupt]</span>。</p>
+<p><span class="diczx3">如:断壁(峭壁);断石(陡峭的岩石)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/断案">断案</a></span><span class="crefe"><a href="/hans/断案">断案</a></span><span class="crefe"><a href="/hans/断壁">断壁</a></span><span class="crefe"><a href="/hans/断壁残垣">断壁残垣</a></span><span class="crefe"><a href="/hans/断编残简">断编残简</a></span><span class="crefe"><a href="/hans/断层">断层</a></span><span class="crefe"><a href="/hans/断肠">断肠</a></span><span class="crefe"><a href="/hans/断炊">断炊</a></span><span class="crefe"><a href="/hans/断代">断代</a></span><span class="crefe"><a href="/hans/断代史">断代史</a></span><span class="crefe"><a href="/hans/断档">断档</a></span><span class="crefe"><a href="/hans/断点">断点</a></span><span class="crefe"><a href="/hans/断电">断电</a></span><span class="crefe"><a href="/hans/断定">断定</a></span><span class="crefe"><a href="/hans/断断">断断</a></span><span class="crefe"><a href="/hans/断断续续">断断续续</a></span><span class="crefe"><a href="/hans/断顿">断顿</a></span><span class="crefe"><a href="/hans/断发文身">断发文身</a></span><span class="crefe"><a href="/hans/断根">断根</a></span><span class="crefe"><a href="/hans/断喝">断喝</a></span><span class="crefe"><a href="/hans/断黑">断黑</a></span><span class="crefe"><a href="/hans/断后">断后</a></span><span class="crefe"><a href="/hans/断鹤续凫">断鹤续凫</a></span><span class="crefe"><a href="/hans/断乎">断乎</a></span><span class="crefe"><a href="/hans/断魂">断魂</a></span><span class="crefe"><a href="/hans/断火">断火</a></span><span class="crefe"><a href="/hans/断机">断机</a></span><span class="crefe"><a href="/hans/断齑画粥">断齑画粥</a></span><span class="crefe"><a href="/hans/断简残编">断简残编</a></span><span class="crefe"><a href="/hans/断交">断交</a></span><span class="crefe"><a href="/hans/断金">断金</a></span><span class="crefe"><a href="/hans/断经">断经</a></span><span class="crefe"><a href="/hans/断井颓垣">断井颓垣</a></span><span class="crefe"><a href="/hans/断句">断句</a></span><span class="crefe"><a href="/hans/断绝">断绝</a></span><span class="crefe"><a href="/hans/断开">断开</a></span><span class="crefe"><a href="/hans/断口">断口</a></span><span class="crefe"><a href="/hans/断粮">断粮</a></span><span class="crefe"><a href="/hans/断裂">断裂</a></span><span class="crefe"><a href="/hans/断流">断流</a></span><span class="crefe"><a href="/hans/断垄">断垄</a></span><span class="crefe"><a href="/hans/断路">断路</a></span><span class="crefe"><a href="/hans/断面">断面</a></span><span class="crefe"><a href="/hans/断命">断命</a></span><span class="crefe"><a href="/hans/断奶">断奶</a></span><span class="crefe"><a href="/hans/断念">断念</a></span><span class="crefe"><a href="/hans/断片">断片</a></span><span class="crefe"><a href="/hans/断七">断七</a></span><span class="crefe"><a href="/hans/断气">断气</a></span><span class="crefe"><a href="/hans/断然">断然</a></span><span class="crefe"><a href="/hans/断水">断水</a></span><span class="crefe"><a href="/hans/断死">断死</a></span><span class="crefe"><a href="/hans/断送">断送</a></span><span class="crefe"><a href="/hans/断头">断头</a></span><span class="crefe"><a href="/hans/断头台">断头台</a></span><span class="crefe"><a href="/hans/断瓦残垣">断瓦残垣</a></span><span class="crefe"><a href="/hans/断弦">断弦</a></span><span class="crefe"><a href="/hans/断线">断线</a></span><span class="crefe"><a href="/hans/断线风筝">断线风筝</a></span><span class="crefe"><a href="/hans/断想">断想</a></span><span class="crefe"><a href="/hans/断行">断行</a></span><span class="crefe"><a href="/hans/断续">断续</a></span><span class="crefe"><a href="/hans/断言">断言</a></span><span class="crefe"><a href="/hans/断语">断语</a></span><span class="crefe"><a href="/hans/断狱">断狱</a></span><span class="crefe"><a href="/hans/断垣残壁">断垣残壁</a></span><span class="crefe"><a href="/hans/断章取义">断章取义</a></span><span class="crefe"><a href="/hans/断折">断折</a></span><span class="crefe"><a href="/hans/断肢">断肢</a></span><span class="crefe"><a href="/hans/断种">断种</a></span><span class="crefe"><a href="/hans/断子绝孙">断子绝孙</a></span><span class="crefe"><a href="/hans/断奏">断奏</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="65AD_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=斤" target="_blank">斤</a>】
+                              断·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：7</span>
+                                                          </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">断</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=斤" target="_blank">斤</a>】
+                              断·康熙筆画：<a href="/zd/kx/bh/?bh=11" target="_blank">11</a>　·部外筆画：7</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/65AD.svg">						  <p>【玉篇】同斷。俗字。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="65AD_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=斤">斤</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">𣃔</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“断”字头，请参考“<a href="/hans/𣃔"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=斤">斤</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/230D4.svg">                          <p>截也。从斤从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/221CD.svg"><span class="k_txt">𢇍</span>。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/221CD.svg"><span class="k_txt">𢇍</span>，古文絕。<img class="swtimg" src="//img.zdic.net/swxz/230D4_02.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20E3F.svg"><span class="k_txt">𠸿</span>，古文斷从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/209E2.svg"><span class="k_txt">𠧢</span>。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/209E2.svg"><span class="k_txt">𠧢</span>，古文叀字。《周書》曰：&ldquo;<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20E3F.svg"><span class="k_txt">𠸿</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20E3F.svg"><span class="k_txt">𠸿</span>猗無他技。&rdquo;<img class="swtimg" src="//img.zdic.net/swxz/230D4_03.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20737.svg"><span class="k_txt">𠜷</span>，亦古文。徒玩切〖注〗<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230A2.svg"><span class="k_txt">𣂢</span>、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20745.svg"><span class="k_txt">𠝅</span>，古文。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/230D4_0001.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>)</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/229F5.svg"><span class="k_txt">𢧵</span>也。</span><span class="swdz">戈部<img class="lazy k_img" data-original="//img.zdic.net/song/cn/229F5.svg"><span class="k_txt">𢧵</span>下曰<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>也。今人<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>物讀上聲。物已<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>讀去聲。引申之義爲決<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>。讀丁貫切。</span><span class="ywyy">从斤<img class="lazy k_img" data-original="//img.zdic.net/song/cn/221CD.svg"><span class="k_txt">𢇍</span>。</span><span class="swdz">會意。徒玩切。十四部。廣韵徒管切。</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/221CD.svg"><span class="k_txt">𢇍</span>，古文絕。</span><span class="ywyy">見糸部。</span></p>
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/230D4_0002.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20E3F.svg"><span class="k_txt">𠸿</span>)</span><span class="ywyy"> 古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>，从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/209E2.svg"><span class="k_txt">𠧢</span>。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/209E2.svg"><span class="k_txt">𠧢</span>，古文叀字。</span><span class="swdz"> 見叀下。</span><span class="ywyy"> 周書曰：<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20E3F.svg"><span class="k_txt">𠸿</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20E3F.svg"><span class="k_txt">𠸿</span>猗。無它技。</span><span class="swdz"> 秦誓文。許所據壁中古文也。</span></p>
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/230D4_0003.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20737.svg"><span class="k_txt">𠜷</span>)</span><span class="ywyy">亦古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/230D4.svg"><span class="k_txt">𣃔</span>。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="65AD_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">断</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tuan˥˧ <span class="z_ts4">日语读音</span>  TATSU KOTOWARU SADAMERU<span class="z_ts4">韩语罗马</span>  TAN<span class="z_ts3">越南语</span>  đoạn</p>						<p><span class="z_ts3">客家话</span>  [客英字典] don5 ton1<span class="z_ts2">粤语</span>  dyun6 tyun5</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/断">闽语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/断">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/断">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/断">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">断</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「斷」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/断"><img data-original="//img.zdic.net/zy/jinwen/34_E342.svg" class="lazy ypic"><span>「𠸿」 量侯簋</span><span>西周早期</span><span>集成3908</span></a></td><td><a href="/zd/zx/cx/断"><img data-original="//img.zdic.net/zy/chuwenzi/53_F3B2.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/8_E861.svg" class="ykai">」 包2.16</span></a></td><td><a href="/zd/zx/xz/断"><img data-original="//img.zdic.net/zy/xiaozhuan/27_EBC7.svg" class="lazy ypic"><span>「𠸿」 說文古文</span></a></td><td><a href="/zd/zx/qx/断"><img data-original="//img.zdic.net/zy/qinwenzi/71_EE2A.svg" class="lazy ypic"><span>「斷」 睡.法122</span></a></td><td><a href="/hans/斷" target="_blank"><img data-original="//img.zdic.net/kai/tw/65B7.svg" class="lazy ypic"><span>「斷」</span></a> </td><td><a href="/hans/断" target="_blank"><img data-original="//img.zdic.net/kai/tw/65AD.svg" class="lazy ypic"><span>「断」</span></a></td><td style="display:none"><a href="/hans/断" target="_blank"><img data-original="//img.zdic.net/kai/tw/65AD.svg" class="lazy ypic"><span>「断」</span></a></td></tr><tr><td style="display:none"></td><td></td><td><a href="/zd/zx/cx/断"><img data-original="//img.zdic.net/zy/chuwenzi/53_F3B4.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/8_EE55.svg" class="ykai">」 包2.123</span></a></td><td><a href="/zd/zx/xz/断"><img data-original="//img.zdic.net/zy/xiaozhuan/27_EBC8.svg" class="lazy ypic"><span>「𠜷」 說文古文</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td></td><td></td><td><a href="/zd/zx/xz/断"><img data-original="//img.zdic.net/zy/xiaozhuan/27_65B7.svg" class="lazy ypic"><span>「斷」 說文‧斤部</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/断">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/断">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/断">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/断">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/断">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/65AD.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/65AD.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/65AD.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/65AD.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/斷' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/65B7.svg'><span>斷</span></a></div> <div class='zx'><a href='/hans/㫁' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3AC1.svg'><span>㫁</span></a></div> <div class='zx'><a href='/hans/𠜷' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20737.svg'><span>𠜷</span></a></div> <div class='zx'><a href='/hans/𠝅' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20745.svg'><span>𠝅</span></a></div> <div class='zx'><a href='/hans/𠡱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20871.svg'><span>𠡱</span></a></div> <div class='zx'><a href='/hans/𣂢' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/230A2.svg'><span>𣂢</span></a></div> <div class='zx'><a href='/hans/𣂣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/230A3.svg'><span>𣂣</span></a></div> <div class='zx'><a href='/hans/𣂱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/230B1.svg'><span>𣂱</span></a></div> <div class='zx'><a href='/hans/𣂸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/230B8.svg'><span>𣂸</span></a></div> <div class='zx'><a href='/hans/𣂾' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/230BE.svg'><span>𣂾</span></a></div> <div class='zx'><a href='/hans/𣃔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/230D4.svg'><span>𣃔</span></a></div> <div class='zx'><a href='/hans/𣦕' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23995.svg'><span>𣦕</span></a></div> <div class='zx'><a href='/hans/𣦙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23999.svg'><span>𣦙</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6062" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4851">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/瑖">瑖(duan4)</a></li><li><a href="/hans/段">段(duan4)</a></li><li><a href="/hans/碫">碫(duan4)</a></li><li><a href="/hans/塅">塅(duan4)</a></li><li><a href="/hans/椴">椴(duan4)</a></li><li><a href="/hans/锻">锻(duan4)</a></li><li><a href="/hans/簖">簖(duan4)</a></li><li><a href="/hans/煅">煅(duan4)</a></li><li><a href="/hans/㱭">㱭(duan4)</a></li><li><a href="/hans/躖">躖(duan4)</a></li><li><a href="/hans/䠪">䠪(duan4)</a></li><li><a href="/hans/斷">斷(duan4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㪿">㪿</a></li><li><a href="/hans/新">新</a></li><li><a href="/hans/斳">斳</a></li><li><a href="/hans/㫀">㫀</a></li><li><a href="/hans/斷">斷</a></li><li><a href="/hans/斤">斤</a></li><li><a href="/hans/斩">斩</a></li><li><a href="/hans/㪼">㪼</a></li><li><a href="/hans/斬">斬</a></li><li><a href="/hans/斪">斪</a></li><li><a href="/hans/斧">斧</a></li><li><a href="/hans/斦">斦</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/晚">晚</a></li><li><a href="/hans/㸺">㸺</a></li><li><a href="/hans/桫">桫</a></li><li><a href="/hans/淍">淍</a></li><li><a href="/hans/唳">唳</a></li><li><a href="/hans/䡇">䡇</a></li><li><a href="/hans/祱">祱</a></li><li><a href="/hans/圉">圉</a></li><li><a href="/hans/張">張</a></li><li><a href="/hans/渊">渊</a></li><li><a href="/hans/铟">铟</a></li><li><a href="/hans/啴">啴</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">天门中<span>断</span>楚江开，碧水东流至此回。</div><div class="gscdr">唐·李白 《望天门山》</div><div class="gscdl">清明时节雨纷纷，路上行人欲<span>断</span>魂。</div><div class="gscdr">唐·杜牧 《清明》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">夕阳西下，<span>断</span>肠人在天涯。</div><div class="gscdr">元·马致远 《天净沙·秋思》</div><div class="gscdl">屠自后<span>断</span>其股，亦毙之。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">然则天下之事，但知其一，不知其二者多矣，可据理臆<span>断</span>欤？</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">自此，冀之南，汉之阴，无陇<span>断</span>焉。</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl">床头屋漏无干处，雨脚如麻未<span>断</span>绝。</div><div class="gscdr">唐·杜甫 《茅屋为秋风所破歌》</div><div class="gscdl">缺月挂疏桐，漏<span>断</span>人初静。</div><div class="gscdr">宋·苏轼 《卜算子·黄州定慧院寓居作》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6062"></script>
+</body>
+</html>

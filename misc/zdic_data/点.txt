@@ -1,0 +1,624 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>点的解释|点的意思|汉典“点”字的基本解释</title>
+<meta name="title" content="点的解释|点的意思|汉典“点”字的基本解释">
+<meta name="keywords" content="上：占，下：灬。 " /><meta property="og:title" content="“点”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“点”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“点”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/点" />
+<link rel="canonical" href="//www.zdic.net/hans/点" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/点" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/点" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/点" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/点">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/点">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/70B9.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/70B9.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">diǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“点”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄧㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“点”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄧㄢˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=灬" target="_blank">  灬</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/點' target=_blank>點</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/點' target=_blank>點</a> <a href='/hans/奌' target=_blank>奌</a> <a href='/hans/㸃' target=_blank>㸃</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+70B9</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>212514444</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>hkou</p></td>                            <td class="dsk_2_1"><p>yrf</p></td>                            <td class="dsk_2_1"><p>idju</p></td>                            <td class="dsk_2_1"><p>21336</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">diǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“点”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄧㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“点”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄧㄢˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=灬" target="_blank">灬</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 70B9<span class="z_ts2">笔顺</span> 212514444                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="70B9_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=8890" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">点</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>点</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">點</span>）</strong></p>
+<p><span class="dicpy">diǎn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span> ㄉㄧㄢˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>细小的痕迹或物体：～滴。斑～。～子（➊液体的小滴，如&ldquo;水～～&rdquo;；➋小的痕迹，如&ldquo;油～～&rdquo;；➌打击乐器演奏时的节拍，如&ldquo;鼓～～&rdquo;；➍主意，办法，如&ldquo;请大家出～～&rdquo;；➎最能说明问题的关键地方，如&ldquo;话没有说到～～上&rdquo;）。</li>
+	<li>几何学上指没有长、宽、厚而只有位置的几何图形；两条线相交处或线段的两端。</li>
+	<li>数学上表示小数部分开始的符号（.），称&ldquo;小数点&rdquo;，如&ldquo;231.4&rdquo;。</li>
+	<li>量词，用于小的或少的：两三～雨。几～泪水。</li>
+	<li>一定的位置或限度：地～。起～。极～。居民～。</li>
+	<li>项，部分，方面：优～。要～。特～。</li>
+	<li>汉字笔形之一（丶）：～画。三～水。</li>
+	<li>加上点子，引申为修饰：标～。评～。～缀。画龙～睛。</li>
+	<li>使一点一滴地落下或发出：～种。～射（自动武器有间歇的射击）。～眼药。</li>
+	<li>一落一起或一触即离的动作：～头。～穴。</li>
+	<li>引火：～火（亦喻挑起是非，制造事端）。</li>
+	<li>查对：～数。～名。～卯（旧时称官衙、军伍卯时开始办公、操练，官员查点人数）。</li>
+	<li>指定，选派：～菜。～将（<span class="dicpy">ji&agrave;ng </span>）。听众～播。</li>
+	<li>指示，启发：指～。～拨。</li>
+	<li>计时的单位：更～（分为五更，一更又分五点）。三更三～。钟～。</li>
+	<li>污：～污。～辱（使受污辱）。</li>
+	<li>指正餐以外的暂时充饥，亦指糕饼一类的食物：～心（&ldquo;<span class="diczx3">心</span>&rdquo;读轻声）。～补（吃少量的食品解饿。&ldquo;<span class="diczx3">补</span>&rdquo;读轻声）。</li>
+	<li>同&ldquo;<a href="/hans/踮">踮</a>&rdquo;。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> dot, speck, spot; point, degree</p><p><span class="z_ts2">德语</span> Stunde, Uhr (Uhrzeit)​  (S)​,Punkt  (S)​,Punktstrich (in der chinesischen Kalligraphie)​  (S, Kunst)​,etwas, ein bisschen  (Adv)​,Fleck  (S)​,Tropfen  (S)</p><p><span class="z_ts2">法语</span> un peu,un point,marquer,allumer,coup de l'horloge,faire un signe de la tête,commander</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">点</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>点</strong></p>
+<p>點 <span class="dicpy">diǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从黑，占声。本义:斑点)</p>
+<p><span class="cino">(2)</span> 细小的黑色斑痕 <span class="encs">[spot;dot;speck]</span></p>
+<p><span class="diczx1">点，黑也。&mdash;&mdash;<span class="smcs">《说文》</span>。按，小黑曰点。</span></p>
+<p><span class="diczx3">又如:墨点儿;斑点;污点;点缺(瑕疵，缺点);点漆(形容极黑)</span></p>
+<p><span class="cino">(3)</span> 小滴 <span class="encs">[drop]</span></p>
+<p><span class="diczx1">七八个星天外，两三点雨山前。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">辛弃疾</span><span class="smcs">《西江月》</span></p>
+<p><span class="diczx3">又如:雨点;掉点儿(落下稀疏的雨点);点叶(叶上的斑点);点璧(白璧的斑点)</span></p>
+<p><span class="cino">(4)</span> 汉字笔画名 <span class="encs">[point]</span>。</p><p><span class="diczx3">如:横、竖、撇、点、折。又指旧时读书标明句逗及品评文章所用&ldquo;、&rdquo;号及其动作。如:点撇(文字的点和撇)</span></p>
+<p><span class="cino">(5)</span> 数学名词。数学上表示小数的符号叫小数点，省称为&ldquo;点&rdquo;。 <span class="encs">[decimal point]</span></p>
+<p><span class="cino">(6)</span> 几何系统，尤指欧几里得的几何系统中未下明确定义的成分之一 <span class="encs">[point]</span>。</p><p><span class="diczx3">如:两点之间直线最短</span></p>
+<p><span class="cino">(7)</span> 古时夜间的计时单位。一夜分五更，一更又分五点 <span class="encs">[dian， one fifth of one of the five two-hour periods into which the night was formerly divided]</span></p>
+<p><span class="diczx1">五更三点索金车，尽放宫人出看花。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">王建</span><span class="smcs">《宫词一百首》</span></p>
+<p><span class="cino">(8)</span> 点钟，时间单位，等于时钟每昼夜的二十四分之一 <span class="encs">[o&#39;clock]</span>。</p><p><span class="diczx3">如:上午九点</span></p>
+<p><span class="cino">(9)</span> 糕饼类小食 <span class="encs">[pastry]</span>。</p><p><span class="diczx3">如:早点;名点;茶点</span></p>
+<p><span class="cino">(10)</span> 方面 <span class="encs">[aspect]</span>。</p><p><span class="diczx3">如:特点;重点;从这点上去看</span></p>
+<p><span class="cino">(11)</span> 节奏;节拍 <span class="encs">[beat]</span>。</p><p><span class="diczx3">如:点拍(音乐的节拍)</span></p>
+<p><span class="cino">(12)</span> 一种特制响器，两端作云状，名为云板，也称点。旧时官署、邸宅以打点为报事集众的信号 <span class="encs">[board]</span></p>
+<p><span class="diczx2">雨村</span>尚未看完，忽闻传点。&mdash;&mdash;<span class="smcs">《红楼梦》</span></p>
+<p><span class="cino">(13)</span> 运销各式各样产品、供应和设备的零售店，最初是为人口稀少地区服务的 <span class="encs">[country store]</span>。</p><p><span class="diczx3">如:据说龚文保在白湘寺办点</span></p>
+<p><span class="cino">(14)</span> 一定的处所或程度的标点 <span class="encs">[point]</span> 。如:据点;沸点</p>
+<p><span class="cino">(15)</span> 规定的时间 <span class="encs">[definedfime]</span> 如:船误点;火车准点到达</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>点</strong></p>
+<p>點 <span class="dicpy">diǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 引申为玷污 <span class="encs">[stain]</span></p>
+<p><span class="diczx1">适足以发笑而自点耳。&mdash;&mdash;<span class="smcs">《汉书&middot;司马迁传》</span></span></p>
+<p><span class="diczx2">唐</span><span class="diczx2">虞</span>点灼而毁议。&mdash;&mdash;<span class="smcs">《楚辞&middot;怨世》</span></p>
+<p><span class="diczx3">又如:点污(玷污，特指奸污);点染(玷污)</span></p>
+<p><span class="cino">(2)</span> 用笔加点。多用以描绘物象，审识章句，或表示删除的意思 <span class="encs">[put a dot;delete]</span></p>
+<p><span class="diczx1">灭谓之点。&mdash;&mdash;<span class="smcs">《尔雅&middot;释器》</span>。注:&ldquo;以笔灭字为点。&rdquo;</span></p>
+<p><span class="diczx3">又如:点化(用笔描绘景物;把前人诗句加以改头换面);点定(改正文字或句读);点窜(改动字句);点书(圈点书籍);点额(化妆;梳妆)</span></p>
+<p><span class="cino">(3)</span> 指定，选派 <span class="encs">[appoint]</span></p>
+<p><span class="diczx1">可汗大点兵。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx3">又如:点行(按照名册顺序抽丁入伍);点差(点派差遣);点菜;点将</span></p>
+<p><span class="cino">(4)</span> 旧时对官吏的选派、委放 <span class="encs">[select and appoint]</span>。</p><p><span class="diczx3">如:点差(指派差遣)</span></p>
+<p><span class="cino">(5)</span> 指点，提说 <span class="encs">[give directions]</span>。</p><p><span class="diczx3">如:点拨;点点搐搐(指指点点);点手(招手;指点);点头知尾(一点即通。形容十分聪明)</span></p>
+<p><span class="cino">(6)</span> 暗示 <span class="encs">[hint]</span>。</p><p><span class="diczx3">如:一点他就明白了;点眼(有意用某种行动引人注意)</span></p>
+<p><span class="cino">(7)</span> 查对，检核 <span class="encs">[check]</span>。</p><p><span class="diczx3">如:清点;盘点;点视(检查，查看);点勘(检核);点验(逐一检查审验);点集(按名册征集);点阅(点名查阅)</span></p>
+<p><span class="cino">(8)</span> 引燃，燃 <span class="encs">[light up]</span>。</p><p><span class="diczx3">如:点爆竹;点香烛;点渔灯</span></p>
+<p><span class="cino">(9)</span> 评论 <span class="encs">[review]</span></p>
+<p><span class="diczx1">指点江山，激扬文字，粪土当年万户侯。&mdash;&mdash;</span><span class="diczx2">毛泽东</span><span class="smcs">《沁园春&middot;长沙》</span></p>
+<p><span class="diczx3">又如:点文(评点文章);点抹(评点)</span></p>
+<p><span class="cino">(10)</span> <span class="encs">[用开水]</span>冲，泡 <span class="encs">[pour]</span>。</p><p><span class="diczx3">如:点汤(用沸水冲药末，以制药汤;宋时习俗。客到设茶，客去送汤);点茶(用沸水泡茶的方法;泡茶)</span></p>
+<p><span class="cino">(11)</span> 中，着 <span class="encs">[hit]</span>。</p><p><span class="diczx3">如:点鼓(击鼓)</span></p>
+<p><span class="cino">(12)</span> 短暂接触 <span class="encs">[touch]</span></p>
+<p><span class="diczx1">猴首之足，亦仅点半趾，跃陟甚难。&mdash;&mdash;<span class="smcs">《徐霞客游记》</span></span></p>
+<p><span class="cino">(13)</span> 选，选拔 <span class="encs">[choose]</span>。</p><p><span class="diczx3">如:点戏(挑选、指定戏目);点简(喻挑选玩弄对象);点穴(迷信者看墓地风水，寻求龙脉结穴之处。以为葬在此处可福及子孙);点绣女(挑选宫女)</span></p>
+<p><span class="cino">(14)</span> 向下微动 <span class="encs">[skim]</span>。</p><p><span class="diczx3">如:蜻蜓点水;点头会意(形容善于察颜观色);点首吐舌(形容惊讶赞叹)</span></p>
+<p><span class="cino">(15)</span> 掉下，漏出，外溢或挤出成滴状的液体 <span class="encs">[drip]</span>。</p><p><span class="diczx3">如:点眼药;点试(滴点眼药水试试);</span></p>
+<p><span class="cino">(16)</span> 装饰 <span class="encs">[adorn]</span>。</p><p><span class="diczx3">如:点景(装饰盆景);点缀;点衬(装点)</span></p>
+<p>◎ <strong>点</strong></p>
+<p>點 <span class="dicpy">diǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span> </p>
+<p>〈量〉</p>
+<p><span class="cino">(1)</span> 有些但不确定的量、数、范围或程度 <span class="encs">[some]</span>。</p><p><span class="diczx3">如:给我点纸;读点鲁迅的书</span></p>
+<p><span class="cino">(2)</span> 表示少量。点儿化 <span class="encs">[a little]</span></p>
+<p><span class="diczx1">孤光一点萤。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">查慎行</span><span class="smcs">《舟夜书所见》</span></p>
+<p><span class="diczx3">又如:多做一点儿工作;上点儿水</span></p>
+<p><span class="cino">(3)</span> 可用在动词、形容词前。多用于否定式 <span class="encs">[the least bit]</span>。</p><p><span class="diczx3">如:这本书我一点儿还没看呢!</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">dian</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/点兵">点兵</a></span><span class="crefe"><a href="/hans/点播">点播</a></span><span class="crefe"><a href="/hans/点播">点播</a></span><span class="crefe"><a href="/hans/点拨">点拨</a></span><span class="crefe"><a href="/hans/点补">点补</a></span><span class="crefe"><a href="/hans/点菜">点菜</a></span><span class="crefe"><a href="/hans/点穿">点穿</a></span><span class="crefe"><a href="/hans/点窜">点窜</a></span><span class="crefe"><a href="/hans/点滴">点滴</a></span><span class="crefe"><a href="/hans/点滴">点滴</a></span><span class="crefe"><a href="/hans/点点">点点</a></span><span class="crefe"><a href="/hans/点发">点发</a></span><span class="crefe"><a href="/hans/点鬼火">点鬼火</a></span><span class="crefe"><a href="/hans/点号">点号</a></span><span class="crefe"><a href="/hans/点化">点化</a></span><span class="crefe"><a href="/hans/点画">点画</a></span><span class="crefe"><a href="/hans/点画">点画</a></span><span class="crefe"><a href="/hans/点火">点火</a></span><span class="crefe"><a href="/hans/点检">点检</a></span><span class="crefe"><a href="/hans/点见">点见</a></span><span class="crefe"><a href="/hans/点将">点将</a></span><span class="crefe"><a href="/hans/点交">点交</a></span><span class="crefe"><a href="/hans/点金成铁">点金成铁</a></span><span class="crefe"><a href="/hans/点金石">点金石</a></span><span class="crefe"><a href="/hans/点睛">点睛</a></span><span class="crefe"><a href="/hans/点卯">点卯</a></span><span class="crefe"><a href="/hans/点名">点名</a></span><span class="crefe"><a href="/hans/点名册">点名册</a></span><span class="crefe"><a href="/hans/点明">点明</a></span><span class="crefe"><a href="/hans/点评">点评</a></span><span class="crefe"><a href="/hans/点破">点破</a></span><span class="crefe"><a href="/hans/点燃">点燃</a></span><span class="crefe"><a href="/hans/点染">点染</a></span><span class="crefe"><a href="/hans/点射">点射</a></span><span class="crefe"><a href="/hans/点视厅">点视厅</a></span><span class="crefe"><a href="/hans/点石成金">点石成金</a></span><span class="crefe"><a href="/hans/点收">点收</a></span><span class="crefe"><a href="/hans/点数">点数</a></span><span class="crefe"><a href="/hans/点水">点水</a></span><span class="crefe"><a href="/hans/点题">点题</a></span><span class="crefe"><a href="/hans/点铁成金">点铁成金</a></span><span class="crefe"><a href="/hans/点头">点头</a></span><span class="crefe"><a href="/hans/点头哈腰">点头哈腰</a></span><span class="crefe"><a href="/hans/点头之交">点头之交</a></span><span class="crefe"><a href="/hans/点戏">点戏</a></span><span class="crefe"><a href="/hans/点心">点心</a></span><span class="crefe"><a href="/hans/点行">点行</a></span><span class="crefe"><a href="/hans/点穴">点穴</a></span><span class="crefe"><a href="/hans/点阅">点阅</a></span><span class="crefe"><a href="/hans/点着">点着</a></span><span class="crefe"><a href="/hans/点阵">点阵</a></span><span class="crefe"><a href="/hans/点钟">点钟</a></span><span class="crefe"><a href="/hans/点种">点种</a></span><span class="crefe"><a href="/hans/点缀">点缀</a></span><span class="crefe"><a href="/hans/点缀品">点缀品</a></span><span class="crefe"><a href="/hans/点字">点字</a></span><span class="crefe"><a href="/hans/点子">点子</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>点</strong></p>
+<p><span class="cino">(1)</span> 點 <span class="dicpy">dian</span></p>
+<p><span class="cino">(2)</span> &mdash;&mdash;&ldquo;打点&rdquo;( <span class="dicpy">dǎdian</span>):收拾;贿赂</p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">diǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/diǎn.mp3"></a></span> </p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="70B9_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=亥集下" target="_blank">亥集下</a>】【<a href="/zd/kx/?zm=亥集下&amp;bs=黑" target="_blank">黑</a>】
+                              點·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">點</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“点”字头，请参考“<a href="/hans/點">點</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=亥集下" target="_blank">亥集下</a>】【<a href="/zd/kx/?zm=亥集下&amp;bs=黑" target="_blank">黑</a>】
+                              點·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/9EDE.svg">						  <p>【唐韻】【集韻】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>多忝切，音玷。【說文】小黑也。</p>
+<p>又【正韻】點注也。【爾雅&middot;釋器】滅謂之點。【註】以筆滅字爲點。</p>
+<p>又【玉篇】檢點也。</p>
+<p>又【廣韻】點畫。</p>
+<p>又【正韻】更點。</p>
+<p>又【廣雅】污也。【太史公報任安書】適足以見笑而自點耳。</p>
+<p>又【集韻】之廉切，音詹。人名。魯有豐點，齊有鮑點。</p>
+<p>又【集韻】丁賀切，音哆。草葉壞也。【齊民要術】故墟種麻，有點葉夭折之患。</p>
+<p>又【集韻】都念切，音店。亦汙也。【束皙&middot;白華詩】鮮侔晨葩，莫之點辱。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="70B9_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=黑">黑</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">點</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“点”字头，请参考“<a href="/hans/點">點</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十">卷十</a>】【<a href="/zd/sw/?swju=卷十&amp;swbs=黑">黑</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/9EDE.svg">                          <p>小黑也。从黑占聲。多忝切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/9EDE_8107.svg" /><span class="swbf">(點)</span><span class="ywyy">小黑也。</span><span class="swdz">今俗所謂㸃涴是也。或作玷。</span><span class="ywyy">从黑占聲。</span><span class="swdz">多忝切。七部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="70B9_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">点</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tiæn˨˩˦ <span class="z_ts4">日语读音</span>  BOCHI<span class="z_ts4">韩语罗马</span>  CEM<span class="z_ts4">现代韩语</span>  점<span class="z_ts3">越南语</span>  điểm</p>						<p><span class="z_ts2">粤语</span>  dim2</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/点">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/点">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/点">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/点">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/点">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/点">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/点">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/点">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/点">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/点">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/点">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/点">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/点">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">点</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「點」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/点"><img data-original="//img.zdic.net/zy/xiaozhuan/27_9EDE.svg" class="lazy ypic"><span>「點」 說文‧黑部</span></a></td><td style="display:none"></td><td><a href="/hans/點" target="_blank"><img data-original="//img.zdic.net/kai/tw/9EDE.svg" class="lazy ypic"><span>「點」</span></a> </td><td><a href="/hans/点" target="_blank"><img data-original="//img.zdic.net/kai/tw/70B9.svg" class="lazy ypic"><span>「点」</span></a></td><td style="display:none"><a href="/hans/点" target="_blank"><img data-original="//img.zdic.net/kai/tw/70B9.svg" class="lazy ypic"><span>「点」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/点">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/点">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/70B9.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/70B9.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/70B9.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/70B9.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/70B9.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/點' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9EDE.svg'><span>點</span></a></div> <div class='zx'><a href='/hans/奌' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/594C.svg'><span>奌</span></a></div> <div class='zx'><a href='/hans/㸃' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3E03.svg'><span>㸃</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="8890" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4777">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠔰">𠔰(dian3)</a></li><li><a href="/hans/㸃">㸃(dian3)</a></li><li><a href="/hans/跕">跕(dian3)</a></li><li><a href="/hans/蕇">蕇(dian3)</a></li><li><a href="/hans/䓦">䓦(dian3)</a></li><li><a href="/hans/踮">踮(dian3)</a></li><li><a href="/hans/𠔓">𠔓(dian3)</a></li><li><a href="/hans/典">典(dian3)</a></li><li><a href="/hans/婰">婰(dian3)</a></li><li><a href="/hans/椣">椣(dian3)</a></li><li><a href="/hans/蒧">蒧(dian3)</a></li><li><a href="/hans/奌">奌(dian3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/燾">燾</a></li><li><a href="/hans/煎">煎</a></li><li><a href="/hans/熈">熈</a></li><li><a href="/hans/照">照</a></li><li><a href="/hans/熹">熹</a></li><li><a href="/hans/燞">燞</a></li><li><a href="/hans/焉">焉</a></li><li><a href="/hans/熬">熬</a></li><li><a href="/hans/然">然</a></li><li><a href="/hans/爇">爇</a></li><li><a href="/hans/灬">灬</a></li><li><a href="/hans/烹">烹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䧎">䧎</a></li><li><a href="/hans/屎">屎</a></li><li><a href="/hans/祖">祖</a></li><li><a href="/hans/绒">绒</a></li><li><a href="/hans/骇">骇</a></li><li><a href="/hans/迴">迴</a></li><li><a href="/hans/𠉕">𠉕</a></li><li><a href="/hans/酋">酋</a></li><li><a href="/hans/洦">洦</a></li><li><a href="/hans/拾">拾</a></li><li><a href="/hans/㚛">㚛</a></li><li><a href="/hans/荟">荟</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">月黑见渔灯，孤光一<span>点</span>萤。</div><div class="gscdr">清·查慎行 《舟夜书所见》</div><div class="gscdl">七八个星天外，两三<span>点</span>雨山前。旧时茅店社林边。路转溪桥忽见。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div><div class="gscdl">孤村落日残霞，轻烟老树寒鸦，一<span>点</span>飞鸿影下。</div><div class="gscdr">元·白朴 《天净沙·秋》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">昨夜见军帖，可汗大<span>点</span>兵，军书十二卷，卷卷有爷名。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">湖上影子，惟长堤一痕、湖心亭一<span>点</span>、与余舟一芥，舟中人两三粒而已。</div><div class="gscdr">明·张岱 《湖心亭看雪》</div><div class="gscdl">八百里分麾下炙，五十弦翻塞外声，沙场秋<span>点</span>兵。</div><div class="gscdr">宋·辛弃疾 《破阵子·为陈同甫赋壮词以寄之》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=8890"></script>
+</body>
+</html>

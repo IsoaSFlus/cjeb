@@ -1,0 +1,656 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>见的解释|见的意思|汉典“见”字的基本解释</title>
+<meta name="title" content="见的解释|见的意思|汉典“见”字的基本解释">
+<meta name="keywords" content="|见|" /><meta property="og:title" content="“见”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“见”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“见”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/见" />
+<link rel="canonical" href="//www.zdic.net/hans/见" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/见" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/见" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/见" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/见">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/见">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/89C1.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/89C1.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">jiàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiàn.mp3"></a></span></span></p><p><span class="z_d song">xiàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiàn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄐㄧㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄢˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄒㄧㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=见" target="_blank">  见</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/見' target=_blank>見</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/見' target=_blank>見</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+89C1</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>2535</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>mqb</p></td>                            <td class="dsk_2_1"><p>bhu</p></td>                            <td class="dsk_2_1"><p>lr</p></td>                            <td class="dsk_2_1"><p>77212</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">jiàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiàn.mp3"></a></span></span> <span class="z_d song">xiàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiàn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄐㄧㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄢˋ.mp3"></a></span></span> <span class="z_d song">ㄒㄧㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“见”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=见" target="_blank">见</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 89C1<span class="z_ts2">笔顺</span> 2535                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="89C1_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=15298" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">见</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>见</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">見</span>）</strong></p>
+<p><span class="dicpy">ji&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&agrave;n.mp3"></a></span> ㄐㄧㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>看到：看～。罕～。～微知著。～义勇为。～异思迁。</li>
+	<li>接触，遇到：怕～风。～习。</li>
+	<li>看得出，显得出：～效。相形～绌。</li>
+	<li>（文字等）出现在某处，可参考：～上。～下。</li>
+	<li>会晤：会～。接～。</li>
+	<li>对事物观察、认识、理解：～解。～地（见解）。～仁～智（指对同一问题各人从不同角度持不同看法）。</li>
+	<li>助词，表示被动或对我如何：～外。～教。～谅（原谅我）。～笑（被讥笑）。</li>
+</ol>
+<p>● <strong>见</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">見</span>）</strong></p>
+<p><span class="dicpy">xi&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&agrave;n.mp3"></a></span> ㄒㄧㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>古同&ldquo;<a href="/hans/现">现</a>&rdquo;，出现，显露。</li>
+	<li>古同&ldquo;<a href="/hans/现">现</a>&rdquo;，现存。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> see, observe, behold; percieve</p><p><span class="z_ts2">德语</span> sehen, erblicken, treffen  (V)​,erscheinen, sichtbar werden, zum Vorschein kommen</p><p><span class="z_ts2">法语</span> apparaître,se montrer,(se)​ voir,apercevoir,(se)​ rencontrer,être au contact de,être exposé à,se référer à</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">见</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>见</strong></p>
+<p>見 <span class="dicpy">ji&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&agrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。甲骨文字形，上面是&ldquo;目&rdquo;，下面是&ldquo;人&rdquo;。在人的头上加只眼睛，就是为了突出眼睛的作用。本义:看见，看到)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[see;catch sight of]</span></p>
+<p><span class="diczx1">见，视也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">未见君子。&mdash;&mdash;<span class="smcs">《诗&middot;周南&middot;汝坟》</span></span></p>
+<p><span class="diczx1">利见大人。&mdash;&mdash;<span class="smcs">《易&middot;乾》</span></span></p>
+<p><span class="diczx1">见龙在田。&mdash;&mdash;<span class="smcs">《易&middot;乾》</span></span></p>
+<p><span class="diczx1">视而不见，听而不闻。&mdash;&mdash;<span class="smcs">《礼记&middot;大学》</span></span></p>
+<p><span class="diczx1">见而不见，闻而不闻。&mdash;&mdash;<span class="smcs">《韩非子&middot;主道》</span></span></p>
+<p><span class="diczx1">昨夜见军帖，可汗大点兵。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">见两小儿辩斗。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx1">儿童相见不相识。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">贺知章</span><span class="smcs">《回乡偶书》</span></p>
+<p><span class="diczx1">虎见之。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx2">歧王</span>宅里寻常见。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《江南逢李龟年》</span></p>
+<p><span class="diczx3">又如:见雌雄(看到结果);见人(见证人);见喜(出痘疹的忌讳说法);见不过(看不惯;见不得);见头知尾(比喻聪明透顶)</span></p>
+<p><span class="cino">(3)</span> 进见;会见 <span class="encs">[meet;call on]</span></p>
+<p><span class="diczx1">往见</span><span class="diczx2">楚王</span>。&mdash;&mdash; <span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span></p>
+<p><span class="diczx1">见</span><span class="diczx2">蔡桓公</span>。&mdash;&mdash;<span class="smcs">《韩非子&middot;喻老》</span></p>
+<p><span class="diczx2">扁鹊</span>复见。</p>
+<p><span class="diczx1">正见</span><span class="diczx2">清河</span>。&mdash;&mdash;<span class="smcs">《世说新语&middot;自新》</span></p>
+<p><span class="diczx3">又如:见驾(参见皇帝);见面挂脚(古时风俗新娘拜见公婆和诸姑姊妹时，所奉上作为见面礼的刺绣鞋面);见礼(朝见之礼)</span></p>
+<p><span class="cino">(4)</span> 遇到;碰见 <span class="encs">[come into contact with;be exposed to]</span></p>
+<p><span class="diczx2">宋华</span>父 <span class="diczx2">督</span>见 <span class="diczx2">孔父</span>之妻于路。&mdash;&mdash;<span class="smcs">《左传&middot;桓公元年》</span></p>
+<p><span class="diczx3">又如:这种药怕见光;见齿(露齿而笑);见顾(光顾);见难(遇到危难);见礼(受到礼遇)</span></p>
+<p><span class="cino">(5)</span> 指死&mdash;&mdash;主要用于口语中 <span class="encs">[kick]</span>。</p>
+<p><span class="diczx3">如:见阎王</span></p>
+<p><span class="cino">(6)</span> 听到 <span class="encs">[listen]</span></p>
+<p><span class="diczx1">君不见</span><span class="diczx2">高阳</span>酒徒起草中，东揖 <span class="diczx2">山东</span><span class="diczx2">隆准公</span>。&mdash;&mdash; <span class="diczx2">李白</span><span class="smcs">《梁甫吟》</span></p>
+<p><span class="diczx3">又如:见说(听说);见话(听说，听讲)</span></p>
+<p><span class="cino">(7)</span> 观察;知道;了解 <span class="encs">[observe;know]</span></p>
+<p><span class="diczx1">道在不可见。&mdash;&mdash;<span class="smcs">《韩非子&middot;主道》</span></span></p>
+<p><span class="diczx1">本无辞辇意，岂见入空官。&mdash;&mdash;</span><span class="diczx2">李贺</span><span class="smcs">《感讽》</span></p>
+<p><span class="diczx3">又如:见几(明察事物细微的倾向);见知(知道);见便(识相;知趣)</span></p>
+<p><span class="cino">(8)</span> 比试;较量 <span class="encs">[match]</span>。</p>
+<p><span class="diczx3">如:见高低;见阵(交战，对阵);见仗(交战)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>见</strong></p>
+<p>見 <span class="dicpy">ji&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&agrave;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 看法，见解 <span class="encs">[opinion]</span></p>
+<p><span class="diczx1">敢陈愚见。&mdash;&mdash;<span class="smcs">《晋书&middot;王浑传》</span></span></p>
+<p><span class="diczx3">又如:依我之见;政见;我见;各抒己见;各执己见;固执己见;主见</span></p>
+<p><span class="cino">(2)</span> 见识 <span class="encs">[view]</span>。</p>
+<p><span class="diczx3">如:浅见;偏见;见趣(见识情趣);见短(见识短浅)</span></p>
+<p>◎ <strong>见</strong></p>
+<p>見 <span class="dicpy">ji&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&agrave;n.mp3"></a></span> </p>
+<p>〈助〉</p>
+<p><span class="cino">(1)</span> 表示被动，相当于&ldquo;被&rdquo; <span class="encs">[be+过去分词]</span></p>
+<p><span class="diczx1">不见保。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">见犯乃死。&mdash;&mdash;<span class="smcs">《汉书&middot;李广苏建传》</span></span></p>
+<p><span class="diczx1">诚恐见欺。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></span></p>
+<p><span class="diczx1">悲独见病。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《柳河东集》</span></p>
+<p><span class="diczx3">又如:见笑于人;见笑于人;见重于当时;见执(被捉拿);见罔(被诬陷枉屈);见害(被害);见款(承蒙款待)</span></p>
+<p><span class="cino">(2)</span> 用在动词前面表示对我怎么样</p>
+<p><span class="diczx1">见辱问于长者。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李朝威</span><span class="smcs">《柳毅传》</span></p>
+<p><span class="diczx3">又如:见告;见示;见教</span></p>
+<p><span class="cino">(3)</span> 用在动词后表示结果。如:碰见;闻见;听见</p>
+<p>◎ <strong>见</strong></p>
+<p>見 <span class="dicpy">ji&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&agrave;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 现有的 <span class="encs">[available]</span>。</p>
+<p><span class="diczx3">如:见力(现有的兵力);见子(现有的儿子);见兵(现有的士兵);见卒(现有的士卒)</span></p>
+<p><span class="cino">(2)</span> 明显的 <span class="encs">[visible]</span>。</p>
+<p><span class="diczx3">如:见证;见人(证人)</span></p>
+<p><span class="cino">(3)</span> 〈方〉∶每 <span class="encs">[every]</span></p>
+<p><span class="diczx1">贤弟若如此，见常也显你的好处。&mdash;&mdash;<span class="smcs">《水浒传》</span></span></p>
+<p><span class="diczx3">又如:见常(平常);见年(每年);见天见地(每天);见天见晚(每日每夜)</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">xi&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&agrave;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/见爱">见爱</a></span><span class="crefe"><a href="/hans/见报">见报</a></span><span class="crefe"><a href="/hans/见背">见背</a></span><span class="crefe"><a href="/hans/见财起意">见财起意</a></span><span class="crefe"><a href="/hans/见长">见长</a></span><span class="crefe"><a href="/hans/见称">见称</a></span><span class="crefe"><a href="/hans/见到">见到</a></span><span class="crefe"><a href="/hans/见得">见得</a></span><span class="crefe"><a href="/hans/见地">见地</a></span><span class="crefe"><a href="/hans/见多识广">见多识广</a></span><span class="crefe"><a href="/hans/见方">见方</a></span><span class="crefe"><a href="/hans/见访">见访</a></span><span class="crefe"><a href="/hans/见风使帆">见风使帆</a></span><span class="crefe"><a href="/hans/见风是雨">见风是雨</a></span><span class="crefe"><a href="/hans/见缝插针">见缝插针</a></span><span class="crefe"><a href="/hans/见缝就钻">见缝就钻</a></span><span class="crefe"><a href="/hans/见怪">见怪</a></span><span class="crefe"><a href="/hans/见怪不怪">见怪不怪</a></span><span class="crefe"><a href="/hans/见鬼">见鬼</a></span><span class="crefe"><a href="/hans/见好">见好</a></span><span class="crefe"><a href="/hans/见机">见机</a></span><span class="crefe"><a href="/hans/见骥一毛">见骥一毛</a></span><span class="crefe"><a href="/hans/见教">见教</a></span><span class="crefe"><a href="/hans/见解">见解</a></span><span class="crefe"><a href="/hans/见景生情">见景生情</a></span><span class="crefe"><a href="/hans/见老">见老</a></span><span class="crefe"><a href="/hans/见棱见角">见棱见角</a></span><span class="crefe"><a href="/hans/见利忘义">见利忘义</a></span><span class="crefe"><a href="/hans/见猎心喜">见猎心喜</a></span><span class="crefe"><a href="/hans/见马克思">见马克思</a></span><span class="crefe"><a href="/hans/见貌辨色">见貌辨色</a></span><span class="crefe"><a href="/hans/见面">见面</a></span><span class="crefe"><a href="/hans/见面礼">见面礼</a></span><span class="crefe"><a href="/hans/见钱眼开">见钱眼开</a></span><span class="crefe"><a href="/hans/见情">见情</a></span><span class="crefe"><a href="/hans/见仁见智">见仁见智</a></span><span class="crefe"><a href="/hans/见上帝">见上帝</a></span><span class="crefe"><a href="/hans/见识">见识</a></span><span class="crefe"><a href="/hans/见事生风">见事生风</a></span><span class="crefe"><a href="/hans/见死不救">见死不救</a></span><span class="crefe"><a href="/hans/见所未见">见所未见</a></span><span class="crefe"><a href="/hans/见天">见天</a></span><span class="crefe"><a href="/hans/见兔放鹰">见兔放鹰</a></span><span class="crefe"><a href="/hans/见兔顾犬">见兔顾犬</a></span><span class="crefe"><a href="/hans/见外">见外</a></span><span class="crefe"><a href="/hans/见危授命">见危授命</a></span><span class="crefe"><a href="/hans/见微知萌">见微知萌</a></span><span class="crefe"><a href="/hans/见微知著">见微知著</a></span><span class="crefe"><a href="/hans/见闻">见闻</a></span><span class="crefe"><a href="/hans/见习">见习</a></span><span class="crefe"><a href="/hans/见习生">见习生</a></span><span class="crefe"><a href="/hans/见下文">见下文</a></span><span class="crefe"><a href="/hans/见贤思齐">见贤思齐</a></span><span class="crefe"><a href="/hans/见效">见效</a></span><span class="crefe"><a href="/hans/见笑">见笑</a></span><span class="crefe"><a href="/hans/见笑大方">见笑大方</a></span><span class="crefe"><a href="/hans/见新">见新</a></span><span class="crefe"><a href="/hans/见义勇为">见义勇为</a></span><span class="crefe"><a href="/hans/见异思迁">见异思迁</a></span><span class="crefe"><a href="/hans/见于">见于</a></span><span class="crefe"><a href="/hans/见责">见责</a></span><span class="crefe"><a href="/hans/见长">见长</a></span><span class="crefe"><a href="/hans/见证">见证</a></span><span class="crefe"><a href="/hans/见证人">见证人</a></span><span class="crefe"><a href="/hans/见罪">见罪</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>见</strong></p>
+<p>見 <span class="dicpy">xi&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&agrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> &ldquo;现&rdquo;的古字。显现;出现;实现 <span class="encs">[appear]</span></p>
+<p><span class="diczx1">见，示也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">见龙在田。&mdash;&mdash;<span class="smcs">《易&middot;乾》</span>。注:&ldquo;出潜离隐，故曰见。&rdquo;</span></p>
+<p><span class="diczx1">情见力屈。&mdash;&mdash;<span class="smcs">《汉书&middot;韩信传》</span></span></p>
+<p><span class="diczx1">图穷而匕首见。&mdash;&mdash;<span class="smcs">《战国策&middot;燕策》</span></span></p>
+<p><span class="diczx1">见于王。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">见于孔子&mdash;&mdash;<span class="smcs">《论语&middot;季氏》</span></span></p>
+<p><span class="diczx1">其末立见。&mdash;&mdash;<span class="smcs">《史记&middot;平原君虞卿列传》</span></span></p>
+<p><span class="diczx1">有虹见于玉堂。&mdash;&mdash;<span class="smcs">《三国演义》</span></span></p>
+<p><span class="diczx1">有时见日。&mdash;&mdash;</span><span class="diczx2">吴均</span><span class="smcs">《与朱元思书》</span></p>
+<p><span class="diczx1">何时眼前突兀见此屋。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《茅屋为秋风所破歌》</span></p>
+<p><span class="diczx3">又如:见影(现形;发觉);见得(显得)</span></p>
+<p><span class="cino">(2)</span> 介绍，推荐 <span class="encs">[recommend]</span></p>
+<p><span class="diczx1">见其二子焉(让他两个儿子出见子路。见通&ldquo;现&rdquo;，使&hellip;&hellip;现。焉，于之，向子路)。&mdash;&mdash;<span class="smcs">《论语&middot;微子》</span></span></p>
+<p><span class="diczx1">见我于王。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>见</strong></p>
+<p>見 <span class="dicpy">xi&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&agrave;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (&ldquo;现&rdquo;的古字)</p>
+<p><span class="cino">(2)</span> 现有;现成 <span class="encs">[available;ready-made]</span></p>
+<p><span class="diczx1">军无见粮。&mdash;&mdash;<span class="smcs">《史记》</span></span></p>
+<p><span class="diczx3">又如:见采(可以立即拿出来的赌注);见钱(现钱)</span></p>
+<p><span class="cino">(3)</span> 现在 <span class="encs">[now]</span></p>
+<p><span class="diczx1">况且见赌着利物哩，他如何肯让?&mdash;&mdash;<span class="smcs">《二刻拍案惊奇》</span></span></p>
+<p><span class="diczx1">供状人</span><span class="diczx2">刘玉娘</span>，见年三十五岁。&mdash;&mdash; <span class="diczx2">元</span>&middot; <span class="diczx2">孟汉卿</span><span class="smcs">《魔合罗》</span></p>
+<p><span class="diczx3">又如:见前(眼前);见年(当年);见世报(当世就受到报应)</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">ji&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&agrave;n.mp3"></a></span> </p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="89C1_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=酉集上" target="_blank">酉集上</a>】【<a href="/zd/kx/?zm=酉集上&amp;bs=見" target="_blank">見</a>】
+                              見·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">見</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“见”字头，请参考“<a href="/hans/見">見</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=酉集上" target="_blank">酉集上</a>】【<a href="/zd/kx/?zm=酉集上&amp;bs=見" target="_blank">見</a>】
+                              見·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/898B.svg">						  <p>【唐韻】【廣韻】古甸切【集韻】【類篇】【韻會】【正韻】經電切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>堅去聲。【說文】視也。从目从儿。【易&middot;乾卦】飛龍在天，利見大人。【疏】德被天下，爲萬物所瞻覩。【書&middot;立政】灼見三有俊心。【禮&middot;王制】問百年者就見之。【周禮&middot;春官】大宗伯以賔禮親邦國，春見曰朝，夏見曰宗，秋見曰覲，冬見曰遇，時見曰會，殷見曰同。【註】此六禮者，以諸侯見王爲義。【史記&middot;五帝紀】舜擇吉月日，見四嶽、諸牧、班瑞。【前漢&middot;東方朔傳】未得省見。【註】言不爲所拔識也。</p>
+<p>又【通鑑】漢武帝元光五年，張湯、趙禹定律令，務在深文，作見知法。詳矢部知字註。</p>
+<p>又姓。出【姓苑】。</p>
+<p>又【唐韻】胡甸切【集韻】【韻會】【正韻】形甸切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>賢去聲。【廣韻】露也。【易&middot;乾卦】見龍在田。【疏】陽氣發見，故曰見龍。【儀禮&middot;士相見禮】某也，願見無由達。【註】凡<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24C1E.svg"><span class="k_txt">𤰞</span>于尊曰見，敵而曰見，謙敬之辭也。【史記&middot;淮隂侯傳】情見勢屈。【師古曰】見，顯露也。</p>
+<p>又薦達也。【左傳&middot;昭二十年】齊豹見宗魯於公孟。【註】見，薦達也。謂爲之紹介，猶論語云：從者見之也。</p>
+<p>又見在也。【史記&middot;項羽紀】軍無見糧。【註】無見在之糧。【前漢&middot;高五王傳】文帝封悼惠王子列侯見在者六人爲王。【集韻】俗作現。</p>
+<p>又【集韻】日朝也。【詩&middot;小雅】見睍曰消。【箋】韓詩作曣，云：見，日出也。</p>
+<p>又【集韻】居莧切，音襇。棺衣也。【禮&middot;雜記】實見閒，而後折入。【疏】一解云：鄭合見閒二字共爲覸，苦辯反。【集韻】或作梘。</p>
+<p>又雜也。【禮&middot;祭義】建設朝事，燔燎羶薌，見以蕭光。【註】見當爲覸，音閒厠之閒。孔穎達云：覵，謂雜也。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="89C1_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=見">見</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">見</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“见”字头，请参考“<a href="/hans/見">見</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=見">見</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/898B.svg">                          <p>視也。从儿从目。凡見之屬皆从見。古甸切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/898B_6120.svg" /><span class="swbf">(見)</span><span class="ywyy">視也。</span><span class="swdz">析言之有視而不見者，聽而不聞者。渾言之則視與見，聞與聽一也。耳部曰：聽，聆也。聞，知聲也。此析言之。</span><span class="ywyy">从目儿。</span><span class="swdz">用目之人也。會意。古甸切。十四部。</span><span class="ywyy">凡見之屬皆从見。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="89C1_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">见</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕiæn˥˧; ɕiæn˥˧ </p>						<p><span class="z_ts2">粤语</span>  gin3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/见">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/见">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/见">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/见">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/见">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/见">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/见">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/见">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/见">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/见">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/见">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/见">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">见</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「見」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/见"><img data-original="//img.zdic.net/zy/jiaguwen/42_F821.svg" class="lazy ypic"><span>「見」 甲2124</span><span>合339</span></a></td><td><a href="/zd/zx/jw/见"><img data-original="//img.zdic.net/zy/jinwen/33_E454.svg" class="lazy ypic"><span>「見」 見尊</span><span>西周早期</span><span>集成5812</span></a></td><td><a href="/zd/zx/cx/见"><img data-original="//img.zdic.net/zy/chuwenzi/52_F6B3.svg" class="lazy ypic"><span>「見」 信2.013</span></a></td><td><a href="/zd/zx/xz/见"><img data-original="//img.zdic.net/zy/xiaozhuan/27_898B.svg" class="lazy ypic"><span>「見」 說文‧見部</span></a></td><td><a href="/zd/zx/qx/见"><img data-original="//img.zdic.net/zy/qinwenzi/71_E9A3.svg" class="lazy ypic"><span>「見」 睡.秦97</span></a></td><td><a href="/hans/見" target="_blank"><img data-original="//img.zdic.net/kai/tw/898B.svg" class="lazy ypic"><span>「見」</span></a> </td><td><a href="/hans/见" target="_blank"><img data-original="//img.zdic.net/kai/tw/89C1.svg" class="lazy ypic"><span>「见」</span></a></td><td style="display:none"><a href="/hans/见" target="_blank"><img data-original="//img.zdic.net/kai/tw/89C1.svg" class="lazy ypic"><span>「见」</span></a></td></tr><tr><td><a href="/zd/zx/jg/见"><img data-original="//img.zdic.net/zy/jiaguwen/42_F82C.svg" class="lazy ypic"><span>「見」 前1.27.1</span><span>合22184</span></a></td><td><a href="/zd/zx/jw/见"><img data-original="//img.zdic.net/zy/jinwen/33_E460.svg" class="lazy ypic"><span>「見」 史墻盤</span><span>西周中期</span><span>集成10175</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td><a href="/zd/zx/jw/见"><img data-original="//img.zdic.net/zy/jinwen/33_E465.svg" class="lazy ypic"><span>「見」 中山王昔壺</span><span>戰國晚期</span><span>集成9735</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/见">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/见">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/见">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/见">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/见">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/见">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/89C1.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/89C1.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/89C1.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/見' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/898B.svg'><span>見</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="15298" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5459">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㯺">㯺(jian4)</a></li><li><a href="/hans/栫">栫(jian4)</a></li><li><a href="/hans/袸">袸(jian4)</a></li><li><a href="/hans/繝">繝(jian4)</a></li><li><a href="/hans/鋻">鋻(jian4)</a></li><li><a href="/hans/珔">珔(jian4)</a></li><li><a href="/hans/㰄">㰄(jian4)</a></li><li><a href="/hans/臶">臶(jian4)</a></li><li><a href="/hans/僭">僭(jian4)</a></li><li><a href="/hans/薦">薦(jian4)</a></li><li><a href="/hans/件">件(jian4)</a></li><li><a href="/hans/諫">諫(jian4)</a></li><li><a href="/hans/缐">缐(xian4)</a></li><li><a href="/hans/㽉">㽉(xian4)</a></li><li><a href="/hans/㬗">㬗(xian4)</a></li><li><a href="/hans/岘">岘(xian4)</a></li><li><a href="/hans/豏">豏(xian4)</a></li><li><a href="/hans/瀗">瀗(xian4)</a></li><li><a href="/hans/䇒">䇒(xian4)</a></li><li><a href="/hans/現">現(xian4)</a></li><li><a href="/hans/塪">塪(xian4)</a></li><li><a href="/hans/㦑">㦑(xian4)</a></li><li><a href="/hans/㦓">㦓(xian4)</a></li><li><a href="/hans/㡾">㡾(xian4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/视">视</a></li><li><a href="/hans/觌">觌</a></li><li><a href="/hans/现">现</a></li><li><a href="/hans/觇">觇</a></li><li><a href="/hans/笕">笕</a></li><li><a href="/hans/觋">觋</a></li><li><a href="/hans/觍">觍</a></li><li><a href="/hans/觐">觐</a></li><li><a href="/hans/現">現</a></li><li><a href="/hans/觎">觎</a></li><li><a href="/hans/觑">觑</a></li><li><a href="/hans/觅">觅</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/龶">龶</a></li><li><a href="/hans/凶">凶</a></li><li><a href="/hans/𠀀">𠀀</a></li><li><a href="/hans/勿">勿</a></li><li><a href="/hans/卬">卬</a></li><li><a href="/hans/历">历</a></li><li><a href="/hans/扎">扎</a></li><li><a href="/hans/𠘮">𠘮</a></li><li><a href="/hans/午">午</a></li><li><a href="/hans/仐">仐</a></li><li><a href="/hans/片">片</a></li><li><a href="/hans/欠">欠</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">敕勒川，阴山下。天似穹庐，笼盖四野。天苍苍，野茫茫。风吹草低<span>见</span>牛羊。</div><div class="gscdr">南北朝·    《敕勒歌》</div><div class="gscdl">月黑<span>见</span>渔灯，孤光一点萤。</div><div class="gscdr">清·查慎行 《舟夜书所见》</div><div class="gscdl">乱入池中看不<span>见</span>，闻歌始觉有人来。</div><div class="gscdr">唐·王昌龄 《采莲曲》</div><div class="gscdl">孤帆远影碧空尽，唯<span>见</span>长江天际流。</div><div class="gscdr">唐·李白 《黄鹤楼送孟浩然之广陵》</div><div class="gscdl">洛阳城里<span>见</span>秋风，欲作家书意万重。</div><div class="gscdr">唐·张籍 《秋思》</div><div class="gscdl">七八个星天外，两三点雨山前。旧时茅店社林边。路转溪桥忽<span>见</span>。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">夜发清溪向三峡，思君不<span>见</span>下渝州。</div><div class="gscdr">唐·李白 《峨眉山月歌》</div><div class="gscdl">岐王宅里寻常<span>见</span>，崔九堂前几度闻。</div><div class="gscdr">唐·杜甫 《江南逢李龟年》</div><div class="gscdl">权曰：“孤岂欲卿治经为博士邪！但当涉猎，<span>见</span>往事耳。”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">蒙曰：“士别三日，即更刮目相待，大兄何<span>见</span>事之晚乎！”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">昨夜<span>见</span>军帖，可汗大点兵，军书十二卷，卷卷有爷名。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">归来<span>见</span>天子，天子坐明堂。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=15298"></script>
+</body>
+</html>

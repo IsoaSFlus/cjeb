@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>蜀的解释|蜀的意思|汉典“蜀”字的基本解释</title>
+<meta name="title" content="蜀的解释|蜀的意思|汉典“蜀”字的基本解释">
+<meta property="og:title" content="“蜀”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“蜀”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“蜀”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/蜀" />
+<link rel="canonical" href="//www.zdic.net/hans/蜀" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/蜀" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/蜀" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/蜀" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/蜀">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/蜀">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8700.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8700.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shǔ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蜀”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕㄨˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蜀”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=虫" target="_blank">  虫</a></p>
+                              <p><span class="z_ts2">部外</span>  7</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/𦉶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26276.svg'><span class='ytz_txt'>𦉶</span></a>  <a href='/hans/蠋' target=_blank>蠋</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8700</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>2522135251214</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>lqju</p></td>                            <td class="dsk_2_1"><p>wlpli</p></td>                            <td class="dsk_2_1"><p>lkri</p></td>                            <td class="dsk_2_1"><p>60127</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shǔ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蜀”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕㄨˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蜀”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕㄨˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=虫" target="_blank">虫</a> <span class="z_ts2">部外</span> 7<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">统一码</span> 8700<span class="z_ts2">笔顺</span> 2522135251214                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8700_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=14593" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>蜀</strong></p><p><span class="dicpy">shǔ  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span> ㄕㄨˇ</span></p><ol>    <li>中国四川省的别称：～本（宋代在四川刻印的书籍）。～客（旅游蜀地的人）。～椒。～绣（四川出产的刺绣）。～锦。得陇望～。</li>    <li>中国朝代名：～汉。</li>    <li>中国周代诸侯国名，在今四川省成都市一带。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> name of an ancient state</p><p><span class="z_ts2">德语</span> Raupe  (S)</p><p><span class="z_ts2">法语</span> nom monosyllabique de la province du Sichuan</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>蜀</strong> <span class="dicpy">shǔ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/shǔ.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (象形。从虫。上目象蜀头形，中象其身蜎蜎。本义:蛾蝶类的幼虫。后作<span class="yhcs">“蠋”</span>)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[caterpillar]</span></p><p><span class="diczx1">蜀，葵中蚕也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">蜎蜎者蜀。——<span class="smcs">《诗·东山》</span>。传:<span class="yhcs">“桑蚕也。”</span></span></p><p><span class="diczx1">欲小则化为蚕蠋。——<span class="smcs">《管子·水池》</span></span></p><p><span class="diczx1">鳣似蛇，禹似蜀，人见蛇则惊骇，见蜀则毛起。——<span class="smcs">《韩非子》</span></span></p><p><span class="cino">(3)</span> 古族名、国名、郡名 <span class="encs">[Shu nationality;Kingdom of Shu]</span>，在今四川一带</p><p><span class="diczx1">蜀，西僻之国也。——<span class="smcs">《战国策·秦策》</span></span></p><p><span class="diczx1">南取</span><span class="diczx2">汉中</span>，西举 <span class="diczx2">巴</span>、 <span class="diczx2">蜀</span>。—— <span class="diczx2">汉</span>· <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p><p><span class="cino">(4)</span> 又如:蜀江(蜀郡之内的江河);蜀魄(杜鹃鸟的代称。传说蜀君杜宇死后，他的魂魄化作杜鹃鸟);蜀王春恨(传说杜鹃春天啼鸣时声音悲切，以致嘴角流血);蜀郡(秦灭古蜀国，始置蜀郡);蜀都(古代蜀国的都城);蜀帝(泛指蜀的君主);蜀叟(古族名。叟中一支);蜀中(蜀，古国名，为秦所灭。有今四川省中部地。因泛称蜀地为<span class="yhcs">“蜀中”</span>);蜀王(蜀国的君王);蜀罗(蜀中织造的轻罗);蜀道(蜀中的道路);蜀栈(蜀中的栈道);蜀本(宋时蜀中刻印的书);蜀山(蜀地山岳的泛称);蜀川(蜀地的川流);蜀茶(蜀地所产的茶);蜀客(指旅居在外的蜀人);蜀国(泛指蜀地)</p><p><span class="cino">(5)</span> 朝代名 <span class="encs">[Shu Dynasty]</span>。三国时蜀汉的简称。旧地在今四川、云南、贵州一带</p><p><span class="diczx2">蜀</span>兵伤者极多。——<span class="smcs">《三国演义·失街亭》</span></p><p><span class="cino">(6)</span> 中国四川省的别称 <span class="encs">[another name for Sichuan Province]</span></p><p><span class="diczx2">蜀</span>之鄙有二僧。—— <span class="diczx2">清</span>· <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p><p><span class="cino">(7)</span> 又如:蜀刀(四川出产的小刀);蜀桐(蜀地所产的桐木);蜀都(古时四川称为蜀，蜀都指今四川省成都市)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蜀汉">蜀汉</a></span><span class="crefe"><a href="/hans/蜀锦">蜀锦</a></span><span class="crefe"><a href="/hans/蜀葵">蜀葵</a></span><span class="crefe"><a href="/hans/蜀犬吠日">蜀犬吠日</a></span><span class="crefe"><a href="/hans/蜀绣">蜀绣</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>蜀</rb></rbc><rtc><rt>ㄕㄨˇ</rt></rtc><rtc><rt>shǔ <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5128.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">朝代名：➊ ​ 参见「<a href='/hans/蜀汉' target=_blank>蜀汉</a> 」条。➋ ​ 十国之一。起讫年不详。王建建立，为后唐所灭。历史上称为「前<b><b>蜀</b></b>」。➌ ​ 参见「[[后<b><b>蜀</b></b>]]」条。</span></p></li><li><p class="def"><span class="gc_sy">大陆地区四川省的简称。秦时隶属巴、<b><b>蜀</b></b>二郡属地，故简称为「<b><b>蜀</b></b>」。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8700_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=申集中" target="_blank">申集中</a>】【<a href="/zd/kx/?zm=申集中&amp;bs=虫" target="_blank">虫</a>】
+                              蜀·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=申集中" target="_blank">申集中</a>】【<a href="/zd/kx/?zm=申集中&amp;bs=虫" target="_blank">虫</a>】
+                              蜀·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：7</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8700.svg">						  <p>【唐韻】市玉切【集韻】殊玉切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音屬。【說文】葵中蠶也。【淮南子·說林訓】蠶與蜀狀相<img class='lazy k_img' data-original='//img.zdic.net/song/cn/29516.svg'><span class='k_txt'>𩔖</span>，而愛憎異也。【詩·豳風】蜎蜎者蠋。本作蜀。詳蠋字註。</p><p>又獸名。【山海經】杻陽之山有獸焉，其狀如馬，其文如虎，名曰鹿蜀。佩其皮尾，宜子孫。</p><p>又【韻會】雞大者謂之蜀雞。</p><p>又巴蜀，地名。秦置蜀郡，卽益州地。</p><p>又【爾雅·釋山】獨者，蜀。【疏】山之孤獨者名蜀。</p><p>又【字彙補】祠器也。【管子·形勢篇】抱蜀不言而廟堂旣脩。</p><p>又同睽，見《歸藏易》。【楊愼曰】蠲字從蜀爲聲，音圭，則蜀固有圭音矣。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8700_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十三">卷十三</a>】【<a href="/zd/sw/?swju=卷十三&amp;swbs=虫">虫</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十三">卷十三</a>】【<a href="/zd/sw/?swju=卷十三&amp;swbs=虫">虫</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/8700.svg">                          <p>葵中蠶也。从虫，上目象蜀頭形，中象其身蜎蜎。《詩》曰：“蜎蜎者蜀。”市玉切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/8700_5868.svg"  /><span class="swbf">(蜀)</span><span class="ywyy">葵中蠶也。</span><span class="swdz">葵爾雅釋文引作桑。詩曰。蜎蜎者蠋。蒸在桑野。似作桑爲長。毛傳曰。蜎蜎、蠋皃。蠋、桑蟲也。傳言蟲、許言蠶者、蜀似蠶也。淮南子曰。蠶與蜀相類、而愛僧異也。桑中蠹卽蝤蠐。</span><span class="ywyy">从虫。上目象蜀頭形。中</span><span class="swdz">謂勹。</span><span class="ywyy">象其身蜎蜎。</span><span class="swdz">市玉切。三部。</span><span class="ywyy">詩曰。蜎蜎者蜀。</span><span class="swdz">豳風文。今左旁又加虫。非也。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8700_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂu˨˩˦ <span class="z_ts4">唐代读音</span>  *zhiok<span class="z_ts4">日语读音</span>  IMOMUSHI<span class="z_ts4">韩语罗马</span>  CHOK<span class="z_ts4">现代韩语</span>  촉<span class="z_ts3">越南语</span>  xọc</p>						<p><span class="z_ts3">客家话</span>  [海陆腔] chuk7 [客语拼音字汇] sug6 zug5 [台湾四县腔] zuk7 [客英字典] chuk7 [陆丰腔] chuk7 [梅县腔] zhuk7 [宝安腔] zuk7 [东莞腔] suk7<span class="z_ts2">粤语</span>  suk6</p>						<p><span class="z_ts3">近代音</span>  審母    魚模韻    入聲作平聲    淑小空；<span class="z_ts3">中古音</span>  禪母    燭韻    入聲    蜀小韻    市玉切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：定母    屋部   ；王力系统：禪母    屋部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/蜀">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/蜀">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/蜀">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/蜀">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/蜀">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/蜀">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/蜀">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/蜀">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/蜀">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/蜀">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/蜀">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">蜀</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/蜀"><img data-original="//img.zdic.net/zy/jiaguwen/44_E2E3.svg" class="lazy ypic"><span>「蜀」 H11:68</span></a></td><td><a href="/zd/zx/jw/蜀"><img data-original="//img.zdic.net/zy/jinwen/33_F7D4.svg" class="lazy ypic"><span>「蜀」 班簋</span><span>西周早期</span><span>集成4341</span></a></td><td><a href="/zd/zx/cx/蜀"><img data-original="//img.zdic.net/zy/chuwenzi/57_F35C.svg" class="lazy ypic"><span>「蜀」 郭.老甲.21</span></a></td><td><a href="/zd/zx/xz/蜀"><img data-original="//img.zdic.net/zy/xiaozhuan/27_8700.svg" class="lazy ypic"><span>「蜀」 說文‧虫部</span></a></td><td><a href="/zd/zx/qx/蜀"><img data-original="//img.zdic.net/zy/qinwenzi/71_ED5E.svg" class="lazy ypic"><span>「蜀」 睡.封47</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/蜀" target="_blank"><img data-original="//img.zdic.net/kai/tw/8700.svg" class="lazy ypic"><span>「蜀」</span></a></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/蜀">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/蜀">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/蜀">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/蜀">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/蜀">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/蜀">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8700.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8700.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8700.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/8700.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/8700.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𦉶' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26276.svg'><span>𦉶</span></a></div>  <div class='zx'><a href='/hans/蠋' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/880B.svg'><span>蠋</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="14593" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6765">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/曙">曙(shu3)</a></li><li><a href="/hans/癙">癙(shu3)</a></li><li><a href="/hans/数">数(shu3)</a></li><li><a href="/hans/䠱">䠱(shu3)</a></li><li><a href="/hans/㻿">㻿(shu3)</a></li><li><a href="/hans/潻">潻(shu3)</a></li><li><a href="/hans/襡">襡(shu3)</a></li><li><a href="/hans/薥">薥(shu3)</a></li><li><a href="/hans/属">属(shu3)</a></li><li><a href="/hans/襩">襩(shu3)</a></li><li><a href="/hans/暑">暑(shu3)</a></li><li><a href="/hans/黍">黍(shu3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/蠡">蠡</a></li><li><a href="/hans/䗀">䗀</a></li><li><a href="/hans/螤">螤</a></li><li><a href="/hans/螁">螁</a></li><li><a href="/hans/䗞">䗞</a></li><li><a href="/hans/蚨">蚨</a></li><li><a href="/hans/䗣">䗣</a></li><li><a href="/hans/蟴">蟴</a></li><li><a href="/hans/蛵">蛵</a></li><li><a href="/hans/蜘">蜘</a></li><li><a href="/hans/螵">螵</a></li><li><a href="/hans/蟜">蟜</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/飳">飳</a></li><li><a href="/hans/㟲">㟲</a></li><li><a href="/hans/嗑">嗑</a></li><li><a href="/hans/滚">滚</a></li><li><a href="/hans/椹">椹</a></li><li><a href="/hans/遛">遛</a></li><li><a href="/hans/䍀">䍀</a></li><li><a href="/hans/戤">戤</a></li><li><a href="/hans/𠍐">𠍐</a></li><li><a href="/hans/盝">盝</a></li><li><a href="/hans/毻">毻</a></li><li><a href="/hans/腥">腥</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">南阳诸葛庐，西<span>蜀</span>子云亭。</div><div class="gscdr">唐·刘禹锡 《陋室铭》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=14593"></script>
+</body>
+</html>

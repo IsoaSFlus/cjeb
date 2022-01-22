@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>辅的解释|辅的意思|汉典“辅”字的基本解释</title>
+<meta name="title" content="辅的解释|辅的意思|汉典“辅”字的基本解释">
+<meta property="og:title" content="“辅”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“辅”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“辅”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/辅" />
+<link rel="canonical" href="//www.zdic.net/hans/辅" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/辅" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/辅" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/辅" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/辅">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/辅">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8F85.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8F85.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">fǔ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“辅”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fǔ.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄈㄨˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“辅”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄨˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=车" target="_blank">  车</a></p>
+                              <p><span class="z_ts2">部外</span>  7</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/輔' target=_blank>輔</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/輔' target=_blank>輔</a>  <a href='/hans/俌' target=_blank>俌</a>  <a href='/hans/䩉' target=_blank>䩉</a>  <a href='/hans/𥙳' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/25673.svg'><span class='ytz_txt'>𥙳</span></a>  <a href='/hans/𨊽' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/282BD.svg'><span class='ytz_txt'>𨊽</span></a>  <a href='/hans/𩒺' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/294BA.svg'><span class='ytz_txt'>𩒺</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8F85</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>15211251124</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>lgey|lsy</p></td>                            <td class="dsk_2_1"><p>kqijb</p></td>                            <td class="dsk_2_1"><p>hefb</p></td>                            <td class="dsk_2_1"><p>43527</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">fǔ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“辅”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fǔ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄈㄨˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“辅”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄨˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=车" target="_blank">车</a> <span class="z_ts2">部外</span> 7<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">统一码</span> 8F85<span class="z_ts2">笔顺</span> 15211251124                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8F85_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=16774" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">辅</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>辅</strong></p><p><strong>（<span class="diczx3">輔</span>）</strong></p><p><span class="dicpy">fǔ  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fǔ.mp3"></a></span>  ㄈㄨˇ</span></p><ol><li>古代夹在车轮外旁的直木，每轮二木，用以增加车轮载重支力。</li><li>帮助，佐助：～佐（协助，多指政治上）。～弼。～助。～导。～相（<span class="dicpy">xiàng </span>）。</li><li>古代指京城附近地区：畿～。</li><li>人的颊骨：～车相依（“<span class="diczx3">车</span>”，指牙床，喻互相依存）。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> cheek bone; protective; assist</p><p><span class="z_ts2">法语</span> complémentaire,subsidiaire,aider,assiter</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">辅</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>辅</strong></p><p>輔 <span class="dicpy">fǔ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fǔ.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (形声。从车，甫声。本义:车旁横木。辅所以益辐，使之能重载)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[side poles of cart]</span></p><p><span class="diczx1">輔，人颊车也。——<span class="smcs">《说文》</span>。按，当作木夹车也。</span></p><p><span class="diczx1">若车之有辅。——<span class="smcs">《吕氏春秋·权勋》</span></span></p><p><span class="diczx1">辅，小木。——<span class="smcs">《尔雅》</span>。按，车辅木之小者。</span></p><p><span class="diczx1">其车既载，乃弃尔辅。——<span class="smcs">《诗·小雅·正目》</span></span></p><p><span class="cino">(3)</span> 又如:辅材(制作车轮外旁夹毂的直木材料)</p><p><span class="cino">(4)</span> 助手 <span class="encs">[helper;assistant]</span></p><p><span class="diczx1">夫将者国之辅也。——<span class="smcs">《孙子·谋攻》</span></span></p><p><span class="cino">(5)</span> 面颊 <span class="encs">[cheek]</span></p><p><span class="diczx1">谚所谓<span class="yhcs">“辅车相依，唇亡齿寒”</span>者，其</span><span class="diczx2">虞</span>、 <span class="diczx2">虢之</span>谓也。——<span class="smcs">《左传·僖公五年》</span>。 <span class="diczx2">杜预</span>注:<span class="yhcs">“辅，颊辅;车，牙车。”</span></p><p><span class="cino">(6)</span> 又如:辅牙(颊辅和牙床。比喻相互倚助);辅车(颊辅与牙床);辅颊(上颌与面颊。泛指面颊)</p><p><span class="cino">(7)</span> 人的颊骨 <span class="encs">[cheek bones]</span></p><p><span class="diczx1">团辅圆颐，菡萏芙蓉。——<span class="smcs">《周小史》</span></span></p><p><span class="cino">(8)</span> 旧指京城附近的地方 <span class="encs">[territory surrounding capital]</span></p><p><span class="diczx1">公一女，嫁为畿辅某官某妻。——</span><span class="diczx2">明</span>· <span class="diczx2">崔铣</span><span class="smcs">《记王忠肃公翱三事》</span></p><p><span class="diczx2">衡</span>少善属文，游于三辅。——<span class="smcs">《后汉书·张衡传》</span></p><p><span class="cino">(9)</span> 又如:汉代的<span class="yhcs">“三辅”</span>、<span class="yhcs">“六辅”</span>;辅墙(内墙)</p><p><span class="cino">(10)</span> 星名。如:辅星<span class="encs">[Alcor]</span>，视星等为4.03等，即大熊座第80号星，大熊座S星(北斗七星第六颗星的伴星);辅湛(辅星沉没。辅:星名)</p><p><span class="cino">(11)</span> 姓</p><p><strong>词性变化</strong></p><p>◎ <strong>辅</strong></p><p>輔 <span class="dicpy">fǔ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fǔ.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 佐助，从旁帮助 <span class="encs">[assist]</span></p><p><span class="diczx1">览民德焉错辅。——<span class="smcs">《楚辞·离骚》</span></span></p><p><span class="diczx1">士仓又辅之。——<span class="smcs">《战国策·秦策五》</span></span></p><p><span class="diczx1">辅周则国必强，辅隙则国必弱。——<span class="smcs">《孙子·谋攻》</span></span></p><p><span class="diczx1">愿夫子辅吾志，明以教我。——<span class="smcs">《孟子·梁惠王上》</span></span></p><p><span class="cino">(2)</span> 又如:辅翼(辅佐;帮助);辅弼(辅佐;帮助);辅世(辅助世人);辅臣(辅助的臣子);辅成(助成)</p><p><span class="cino">(3)</span> 护卫 <span class="encs">[guard，protest]</span></p><p><span class="diczx1">城阙辅三秦，风烟望五津。——</span><span class="diczx2">唐</span>· <span class="diczx2">王勃</span><span class="smcs">《杜少府之任蜀州》</span></p><p><span class="cino">(4)</span> 通<span class="yhcs">“捕”</span>( <span class="dicpy">bǔ</span>)。捕捉 <span class="encs">[capture;catch]</span></p><p><span class="diczx1">圣人能辅时，不能违时。——<span class="smcs">《管子·霸言》</span></span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/辅币">辅币</a></span><span class="crefe"><a href="/hans/辅导">辅导</a></span><span class="crefe"><a href="/hans/辅角">辅角</a></span><span class="crefe"><a href="/hans/辅酶">辅酶</a></span><span class="crefe"><a href="/hans/辅音">辅音</a></span><span class="crefe"><a href="/hans/辅音字母">辅音字母</a></span><span class="crefe"><a href="/hans/辅助">辅助</a></span><span class="crefe"><a href="/hans/辅助疗法">辅助疗法</a></span><span class="crefe"><a href="/hans/辅佐">辅佐</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8F85_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=酉集下" target="_blank">酉集下</a>】【<a href="/zd/kx/?zm=酉集下&amp;bs=車" target="_blank">車</a>】
+                              輔·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">輔</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“辅”字头，请参考“輔”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=酉集下" target="_blank">酉集下</a>】【<a href="/zd/kx/?zm=酉集下&amp;bs=車" target="_blank">車</a>】
+                              輔·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：7</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8F14.svg">						  <p>【廣韻】扶雨切【五音集韻】父雨切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2894F.svg'><span class='k_txt'>𨥏</span>。【說文】人頰骨也。【易·咸卦】咸其輔頰舌。【註】輔，上頷也。【左傳·僖五年】輔車相依。</p><p>又【正韻】車輔，兩旁夾車木也。【詩·小雅】乃棄爾輔。【疏】輔以佐車，可解脫之物。今人縛杖于輻，以孩輔車也。</p><p>又【廣韻】毗輔，相助也，弼也。【增韻】扶也。【易·泰卦】輔相天地之宜。【書·說命】朝夕納誨，以輔台德。</p><p>又以物相將曰輔。【周禮·地官】鄕大夫以旌節輔令則達之。【註】民雖以徵令行，其將之者無節，則不得通。</p><p>又四輔，官名。【禮·文王世子】設四輔。【註】謂師、保、疑、丞也。</p><p>又府史胥徒亦謂之輔。【周禮·天官·大宰】置其輔。【註】庶人在官者也。</p><p>又【韻會】四輔，星名。所以輔佐北極。</p><p>又三輔，郡名。漢京兆、左馮翊、右扶風。</p><p>又輔氏，地名。【左傳·宣十五年】秦伐晉，次于輔氏。</p><p>又龍輔，玉名。【左傳·昭二十九年】公使獻龍輔于齊侯。</p><p>又姓。晉智果別族爲輔氏。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8F85_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=車">車</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">輔</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“辅”字头，请参考“輔”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=車">車</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/8F14.svg">                          <p>人頰車也。从車甫聲。扶雨切〖注〗同<img class='lazy k_img' data-original='//img.zdic.net/song/cn/282BD.svg'><span class='k_txt'>𨊽</span>。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <span class="jieshi">春秋傳曰。輔車相依。</span>凡許書有不言其義徑舉經傳者。如？下云詞之？矣、鶴下云鶴鳴九皋聲聞于天、艴下云色艴如也、絢下云詩云素以爲絢兮之類是也。此引春秋傳僖公五年文。不言輔義者、義已具於傳文矣。小雅正月曰。其車旣載。乃棄爾輔。傳曰。大車旣載。又棄其輔也。無棄爾輔。員于爾輻。傳曰。員、益也。正義云。大車、牛車也。爲車不言从輔。此云棄輔、則輔是可解脫之物。葢如今人縛杖於輻以防輔車也。今按呂覽權篇曰。宫之奇諫虞公曰。虞之與虢也。若車之有輔也。車依輔。輔亦依車。虞虢之勢是也。此卽詩無棄爾輔之說也。合詩與左傳則車之有輔信矣。引申之義爲凡相助之偁。今則借義行而本義廢。尠有知輔爲車之一物者矣。人部曰。俌、輔也。以引申之義釋本義也。今則本字廢而借字行矣。面部曰。䩉頰車也。面䩉自有本字。周易作輔、亦字之叚借也。今亦本字廢而借字行矣。春秋傳輔車相依、許廁之於此者、所以說輔之本義也。所以說左氏也。謂輔與車必相依倚也。他家說左者以頰與牙車釋之。乃因下文之唇齒而傅會耳。固不若許說之善也。<span class="jieshi">从車。甫聲。</span>扶雨切。五部。<span class="jieshi">人頰車也。</span>小徐本箸此四字於甫聲下。與上文意不相應。又無一曰二字以别爲一義。知淺人<img class='lazy k_img' data-original='//img.zdic.net/song/cn/216B6.svg'><span class='k_txt'>𡚶</span>謂引傳未詮而增之也。面部旣有䩉頰也之文。則必不用借義爲本義矣。若大徐本移輔篆於部末。解曰。人頰車也。从車、甫聲。而無春秋傳曰輔車相依八字。輔非眞車上物。廁末似合許例。然無解於面部業有䩉篆也。校許宜刪去四字。                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8F85_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">辅</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  fu˨˩˦ </p>						<p><span class="z_ts2">粤语</span>  fu6</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/辅">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/辅">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/辅">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/辅">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/辅">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/辅">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/辅">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/辅">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/辅">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/辅">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/辅">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/辅">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">辅</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「輔」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/辅"><img data-original="//img.zdic.net/zy/jinwen/34_E3CA.svg" class="lazy ypic"><span>「輔」 師𠭰簋</span><span>西周晚期</span><span>集成4325</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/辅"><img data-original="//img.zdic.net/zy/xiaozhuan/27_8F14.svg" class="lazy ypic"><span>「輔」 說文‧車部</span></a></td><td style="display:none"></td><td><a href="/hans/輔" target="_blank"><img data-original="//img.zdic.net/kai/tw/8F14.svg" class="lazy ypic"><span>「輔」</span></a> </td><td><a href="/hans/辅" target="_blank"><img data-original="//img.zdic.net/kai/tw/8F85.svg" class="lazy ypic"><span>「辅」</span></a></td><td style="display:none"><a href="/hans/辅" target="_blank"><img data-original="//img.zdic.net/kai/tw/8F85.svg" class="lazy ypic"><span>「辅」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/辅"><img data-original="//img.zdic.net/zy/jinwen/34_E3CC.svg" class="lazy ypic"><span>「輔」 師𠭰簋</span><span>西周晚期</span><span>集成4324</span></a></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/辅">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/辅">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/辅">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8F85.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8F85.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8F85.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/輔' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/8F14.svg'><span>輔</span></a></div> <div class='zx'><a href='/hans/俌' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4FCC.svg'><span>俌</span></a></div> <div class='zx'><a href='/hans/䩉' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4A49.svg'><span>䩉</span></a></div> <div class='zx'><a href='/hans/𥙳' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/25673.svg'><span>𥙳</span></a></div>  <div class='zx'><a href='/hans/𨊽' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/282BD.svg'><span>𨊽</span></a></div>  <div class='zx'><a href='/hans/𩒺' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/294BA.svg'><span>𩒺</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="16774" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5000">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䩉">䩉(fu3)</a></li><li><a href="/hans/俯">俯(fu3)</a></li><li><a href="/hans/黼">黼(fu3)</a></li><li><a href="/hans/甫">甫(fu3)</a></li><li><a href="/hans/腐">腐(fu3)</a></li><li><a href="/hans/䫝">䫝(fu3)</a></li><li><a href="/hans/㕮">㕮(fu3)</a></li><li><a href="/hans/郙">郙(fu3)</a></li><li><a href="/hans/府">府(fu3)</a></li><li><a href="/hans/呒">呒(fu3)</a></li><li><a href="/hans/簠">簠(fu3)</a></li><li><a href="/hans/弣">弣(fu3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/辂">辂</a></li><li><a href="/hans/轵">轵</a></li><li><a href="/hans/轾">轾</a></li><li><a href="/hans/轱">轱</a></li><li><a href="/hans/琿">琿</a></li><li><a href="/hans/辋">辋</a></li><li><a href="/hans/辊">辊</a></li><li><a href="/hans/辒">辒</a></li><li><a href="/hans/辏">辏</a></li><li><a href="/hans/轪">轪</a></li><li><a href="/hans/轭">轭</a></li><li><a href="/hans/辑">辑</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/绰">绰</a></li><li><a href="/hans/烽">烽</a></li><li><a href="/hans/袾">袾</a></li><li><a href="/hans/啑">啑</a></li><li><a href="/hans/梂">梂</a></li><li><a href="/hans/谓">谓</a></li><li><a href="/hans/㲗">㲗</a></li><li><a href="/hans/淐">淐</a></li><li><a href="/hans/䣒">䣒</a></li><li><a href="/hans/鄇">鄇</a></li><li><a href="/hans/盔">盔</a></li><li><a href="/hans/䡊">䡊</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">城阙<span>辅</span>三秦，风烟望五津。</div><div class="gscdr">唐·王勃 《送杜少府之任蜀州》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=16774"></script>
+</body>
+</html>

@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>昧的解释|昧的意思|汉典“昧”字的基本解释</title>
+<meta name="title" content="昧的解释|昧的意思|汉典“昧”字的基本解释">
+<meta property="og:title" content="“昧”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“昧”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“昧”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/昧" />
+<link rel="canonical" href="//www.zdic.net/hans/昧" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/昧" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/昧" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/昧" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/昧">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/昧">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6627.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6627.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">mèi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昧”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/mèi.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄇㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昧”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄟˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">  日</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_ytz2"><a href='/hans/𣆜' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2319C.svg'><span class='ytz_txt'>𣆜</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6627</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>251111234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>jfiy|jfy</p></td>                            <td class="dsk_2_1"><p>ajd</p></td>                            <td class="dsk_2_1"><p>kbko</p></td>                            <td class="dsk_2_1"><p>65090</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">mèi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昧”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/mèi.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄇㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“昧”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄟˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">日</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">统一码</span> 6627<span class="z_ts2">笔顺</span> 251111234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6627_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                             <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6184" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>昧</strong></p><p><span class="dicpy">mèi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/mèi.mp3"></a></span>  ㄇㄟˋ</span></p><ol><li>暗，不明：幽～。～旦（清晨还未明亮时）。</li><li>昏，糊涂，不明白：愚～。蒙～。素～平生（一向不认识）。</li><li>目不明：“目不别五色之章为～”。</li><li>隐藏，隐瞒：暧～。～心（违背良心做坏事）。</li><li>冒犯：冒～（多作谦辞）。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> obscure, dark; darken</p><p><span class="z_ts2">德语</span> verbergen, verhehlen</p><p><span class="z_ts2">法语</span> obscur,sombre,peu éclairé,cacher</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>昧</strong> <span class="dicpy">mèi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/mèi.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> (形声。从日，未声。从日，与光线有关。本义:昏暗不明)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[obscure]</span></p><p><span class="diczx1">昧，冥也。——<span class="smcs">《广雅·释诂四》</span></span></p><p><span class="diczx1">时甲子昧爽。——<span class="smcs">《书·牧誓》</span></span></p><p><span class="diczx1">日昧昧其将暮。——<span class="smcs">《楚辞·九章·怀沙》</span></span></p><p><span class="diczx1">君昧爽而栉冠。——<span class="smcs">《荀子·哀公》</span>。注:<span class="yhcs">“昧，闇;爽，明也。谓初晓尚暗之时。”</span></span></p><p><span class="diczx1">神非其所宜而行之则昧。——<span class="smcs">《淮南子·原道》</span></span></p><p><span class="diczx1">虽昧必亮。——<span class="smcs">《后汉书·苏竟传》</span></span></p><p><span class="diczx1">愚者昧于成事。——<span class="smcs">《战国策·赵策》</span></span></p><p><span class="diczx1">惟党人之偷乐兮，路幽昧以险隘。——<span class="smcs">《楚辞·离骚》</span></span></p><p><span class="diczx1">轻身而昧大义。——</span><span class="diczx2">清</span>· <span class="diczx2">方苞</span><span class="smcs">《左忠毅公逸事》</span></p><p><span class="cino">(3)</span> 又如:昧旦(天未全亮的时候);昧然(昏暗不明的样子);昧昧(昏暗不明的样子);昧色(暮色);昧明(天未全明的时刻;拂晓)</p><p><span class="cino">(4)</span> 眼不明的样子 <span class="encs">[blind]</span></p><p><span class="diczx1">耳不听五声之和为聋，目不别五色之章为昧。——<span class="smcs">《左传·僖公二十四年》</span></span></p><p><span class="cino">(5)</span> 愚昧;糊涂 <span class="encs">[be ignorant of;have hazy notions about]</span></p><p><span class="diczx1">兼弱攻昧。——<span class="smcs">《左传·宣公十二年》</span></span></p><p><span class="cino">(6)</span> 又如:昧陋(愚昧浅陋);味瞀(昏聩;糊涂);昧昧(糊涂无知);昧错(糊涂出错)</p><p><strong>词性变化</strong></p><p>◎ <strong>昧</strong> <span class="dicpy">mèi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/mèi.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 掩蔽;欺骗 <span class="encs">[conceal;hide;delude]</span></p><p><span class="diczx1">吾家碑不昧。——</span><span class="diczx2">杜甫</span><span class="smcs">《回棹》</span></p><p><span class="cino">(2)</span> 又如:昧公义(埋没了公理和正义);昧心咒(昧了良心该受什么报应的誓言);昧心钱(坏了良心赚来的钱);昧蔽(隐瞒);昧诡(隐秘;诡秘);昧密(犹隐晦)</p><p><span class="cino">(3)</span> 违背 <span class="encs">[do evil against]</span></p><p><span class="diczx1">今日果成妙计，捉了唐僧，就好昧了前言?——<span class="smcs">《西游记》</span></span></p><p><span class="cino">(4)</span> 又如:昧信(背信;失信);昧良心;昧心</p><p><span class="cino">(5)</span> 贪，贪图 <span class="encs">[be greedy for]</span>。如:昧利(贪利);昧私(贪图私利);昧冒(贪图)</p><p><span class="cino">(6)</span> 冒犯 <span class="encs">[offense]</span></p><p><span class="diczx1">丞相臣</span><span class="diczx2">斯</span>昧死言。——<span class="smcs">《史记·秦始皇本纪》</span></p><p><span class="cino">(7)</span> 又如:昧死(冒死;冒昧);昧犯(冒犯)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/昧良心">昧良心</a></span><span class="crefe"><a href="/hans/昧没">昧没</a></span><span class="crefe"><a href="/hans/昧死">昧死</a></span><span class="crefe"><a href="/hans/昧心">昧心</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>昧</rb></rbc><rtc><rt>ㄇㄟˋ</rt></rtc><rtc><rt>mèi <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0605.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">形</span><ol><li><p class="def"><span class="gc_sy">昏暗、不明。</span><span class="gc_lz">如：「暧<b>昧</b>」。</span><span class="gc_yy">《楚辞·屈原·离骚》：「惟夫党人之偷乐兮，路幽<b>昧</b>以险隘。」</span></p></li><li><p class="def"><span class="gc_sy">糊涂。</span><span class="gc_lz">如：「愚<b>昧</b>」、「蒙<b>昧</b>」。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">隐藏。</span><span class="gc_lz">如：「拾金不<b>昧</b>」。</span></p></li><li><p class="def"><span class="gc_sy">违背。</span><span class="gc_lz">如：「不要<b>昧</b>著良心做事。」</span><span class="gc_yy">《水浒传·第四四回》：「我想他回蓟州探母参师，期约百日便回。今经日久，不知信息，莫非昧信不来？」</span></p></li><li><p class="def"><span class="gc_sy">冒犯、冒著。</span><span class="gc_lz">如：「冒<b>昧</b>」。</span><span class="gc_yy">《韩非子·初见秦》：「臣昧死，愿望见大王，言所以破天下之从。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6627_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              昧·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              昧·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6627.svg">						  <p>〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2319C.svg'><span class='k_txt'>𣆜</span>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>莫佩切，音妹。【說文】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24564.svg'><span class='k_txt'>𤕤</span>旦明也。一曰闇也。【博雅】冥也。【易·屯卦】天造草昧。【疏】昧謂冥昧。【書·堯典】宅西曰昧谷。【傳】昧，冥也。日入於谷而天下冥，故曰昧谷。</p><p>又【書·太甲】先王昧<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24564.svg'><span class='k_txt'>𤕤</span>丕顯。【疏】昧是晦冥，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24564.svg'><span class='k_txt'>𤕤</span>是未明，謂夜向晨也。【詩·鄭風】士曰昧旦。</p><p>又【書·仲虺之誥】兼弱攻昧。【傳】闇則攻之。</p><p>又【左傳·文二十六年】楚王是故昧於一來。【註】昧，猶貪冒。</p><p>又【屈原·離騷】路幽昧以險隘。【註】幽昧，不明也。</p><p>又樂名。【禮·明堂位】《昧》，東夷之樂也。</p><p>又縣名。【類篇】在益州。</p><p>又與沬同。【易·豐卦】日中見沬。【釋文】沬，《字林》作昧，云斗杓後星。</p><p>又【集韻】【韻會】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>莫貝切，音眛。義同。</p><p>又【韻補】叶莫結切。【鮑昭詩】年貌不可還，身意會盈歇。智哉衆多士，服理辨明昧。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6627_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=日">日</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=日">日</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6627.svg">                          <p>爽，旦明也。从日未聲。一曰闇也。莫佩切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6627_2543.svg"  /><span class="swbf">(昧)</span><span class="ywyy">昧爽、</span><span class="swdz">逗。昧字舊奪。今補。</span><span class="ywyy">且朙也。</span><span class="swdz">各本且作旦。今正。且明者、將明未全明也。牧誓。時甲子昧爽。王朝至于商郊牧野。言昧爽起行。朝旦至牧野。左傳。晏子述讒鼎之銘曰。昧旦丕顯。僞尙書演其辭曰。昧爽丕顯。坐以待旦。郊祀志。十一月辛巳朔旦冬至昒爽。封禪書昒作昧。旣言旦又言昧爽者。以辛巳朔旦冬至合前文黃帝己酉朔旦冬至爲言。明冬至均在朔之旦也。繼云昧爽天子始郊拜泰一。明未旦時卽郊拜泰一也。內則。成人皆雞初鳴適父母舅姑之所。未冠筓者。昧爽而朝。後成人也。昧與曶古多通用。而許分別之。直以昧連爽爲䛐。昧者、未明也。爽者、明也。合爲將旦之偁。</span><span class="ywyy">从日。未聲。</span><span class="swdz">莫佩切。十五部。</span><span class="ywyy">一曰闇也。</span><span class="swdz">闇者、閉門也。閉門則光不明。明闇字用此不用暗。暗者、日無光也。義異。司馬相如傳。阻深闇昧。得燿乎光明。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6627_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  mei˥˧ <span class="z_ts4">唐代读音</span>  *mə̀i<span class="z_ts4">日语读音</span>  KURAI<span class="z_ts4">韩语罗马</span>  MAY<span class="z_ts4">现代韩语</span>  매<span class="z_ts3">越南语</span>  muội</p>						<p><span class="z_ts3">客家话</span>  [宝安腔] mui3 [东莞腔] mui3 [海陆腔] mui3 mui6 [梅县腔] mi3 [沙头角腔] mui3 [客英字典] mui3 [台湾四县腔] mi3 mi5 [客语拼音字汇] mi4 mui4<span class="z_ts2">粤语</span>  mui6</p>						<p><span class="z_ts3">近代音</span>  明母    齊微韻    去聲    妹小空；<span class="z_ts3">中古音</span>  明母    隊韻    去聲    妹小韻    莫佩切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：明母    沒部   ；王力系统：明母    物部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/昧">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/昧">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/昧">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/昧">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/昧">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/昧">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/昧">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/昧">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/昧">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/昧">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/昧">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">昧</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/昧"><img data-original="//img.zdic.net/zy/jinwen/32_EEA2.svg" class="lazy ypic"><span>「昧」 免簋</span><span>西周中期</span><span>集成4240</span></a></td><td><a href="/zd/zx/cx/昧"><img data-original="//img.zdic.net/zy/chuwenzi/56_EF6B.svg" class="lazy ypic"><span>「昧」 上(2).容.21</span></a></td><td><a href="/zd/zx/xz/昧"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6627.svg" class="lazy ypic"><span>「昧」 說文‧日部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/昧" target="_blank"><img data-original="//img.zdic.net/kai/tw/6627.svg" class="lazy ypic"><span>「昧」</span></a></td></tr><tr><td style="display:none"></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/昧">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/昧">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/昧">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/昧">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6627.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6627.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6627.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6627.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/6627.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𣆜' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2319C.svg'><span>𣆜</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6184" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6059">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/抺">抺(mei4)</a></li><li><a href="/hans/媚">媚(mei4)</a></li><li><a href="/hans/煝">煝(mei4)</a></li><li><a href="/hans/蝞">蝞(mei4)</a></li><li><a href="/hans/妹">妹(mei4)</a></li><li><a href="/hans/㭑">㭑(mei4)</a></li><li><a href="/hans/䰪">䰪(mei4)</a></li><li><a href="/hans/沬">沬(mei4)</a></li><li><a href="/hans/㙁">㙁(mei4)</a></li><li><a href="/hans/旀">旀(mei4)</a></li><li><a href="/hans/㡌">㡌(mei4)</a></li><li><a href="/hans/眛">眛(mei4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/曅">曅</a></li><li><a href="/hans/晉">晉</a></li><li><a href="/hans/暒">暒</a></li><li><a href="/hans/映">映</a></li><li><a href="/hans/暮">暮</a></li><li><a href="/hans/㫷">㫷</a></li><li><a href="/hans/昰">昰</a></li><li><a href="/hans/㫗">㫗</a></li><li><a href="/hans/暣">暣</a></li><li><a href="/hans/晗">晗</a></li><li><a href="/hans/易">易</a></li><li><a href="/hans/簪">簪</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/昷">昷</a></li><li><a href="/hans/省">省</a></li><li><a href="/hans/柧">柧</a></li><li><a href="/hans/㢵">㢵</a></li><li><a href="/hans/拾">拾</a></li><li><a href="/hans/䡂">䡂</a></li><li><a href="/hans/㪃">㪃</a></li><li><a href="/hans/挔">挔</a></li><li><a href="/hans/㖆">㖆</a></li><li><a href="/hans/挃">挃</a></li><li><a href="/hans/怸">怸</a></li><li><a href="/hans/昹">昹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6184"></script>
+</body>
+</html>

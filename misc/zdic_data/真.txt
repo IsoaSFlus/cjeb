@@ -1,0 +1,625 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>真的解释|真的意思|汉典“真”字的基本解释</title>
+<meta name="title" content="真的解释|真的意思|汉典“真”字的基本解释">
+<meta property="og:title" content="“真”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“真”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“真”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/真" />
+<link rel="canonical" href="//www.zdic.net/hans/真" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/真" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/真" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/真" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/真">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/真">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/771F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/771F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhēn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“真”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhēn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄣ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“真”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄣ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=目" target="_blank">  目</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  10</p></td>                                                        <td class="z_ytz2"><a href='/hans/眞' target=_blank>眞</a>  <a href='/hans/𡙊' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2164A.svg'><span class='ytz_txt'>𡙊</span></a>  <a href='/hans/𠤤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20924.svg'><span class='ytz_txt'>𠤤</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+771F</p></td>
+                            <td class="dsk_2_1">上中下结构</td>                            <td align="center" class="z_bis2"><p>1225111134</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>fhwu</p></td>                            <td class="dsk_2_1"><p>jbmc</p></td>                            <td class="dsk_2_1"><p>edlo</p></td>                            <td class="dsk_2_1"><p>40801</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhēn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“真”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhēn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄣ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“真”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄣ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=目" target="_blank">目</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 10</p>                    <p><span class="z_ts3">统一码</span> 771F<span class="z_ts2">笔顺</span> 1225111134                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="771F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=10528" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">真</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>真</strong></p>
+<p><span class="dicpy">zhēn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēn.mp3"></a></span>  ㄓㄣˉ</span></p>
+<ol>
+	<li>与客观事实相符合，与&ldquo;<span class="diczx3">假</span>&rdquo;、&ldquo;<span class="diczx3">伪</span>&rdquo;相对：～诚。～谛。～挚。～心。逼～。认～。～才实学。～知灼见。</li>
+	<li>确实，的确：～好。～正。～切。</li>
+	<li>清楚，显明：看得～。咬字很～。</li>
+	<li>本性，本原：纯～。天～。</li>
+	<li>人的肖像：传（<span class="dicpy">chu&aacute;n </span>）～。写～。</li>
+	<li>汉字的楷书：～字。～书。～草隶篆。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> real, actual, true, genuine</p><p><span class="z_ts2">德语</span> wirklich, echt, real  (Adj)</p><p><span class="z_ts2">法语</span> vraiment,réellement,vrai,véritable</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">真</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>真</strong> <span class="dicpy">zhēn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēn.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (会意。小篆字形，从华( <span class="dicpy">hu&agrave;</span>)，从目，从乚( <span class="dicpy">yǐn</span>)，从八。<span class="smcs">《说文》</span>:&ldquo;仙人变形而登天也。&rdquo;匕，变化。目，眼睛。乚，隐藏。八，乘载的工具。本义:道家称存养本性或修真得道的人为真人)</p>
+<p><span class="cino">(2)</span> 同本义。旧时所谓仙人 <span class="encs">[the Immortal (in Taoism)]</span></p>
+<p><span class="diczx1">真，仙人变形而登天也。&mdash;&mdash;<span class="smcs">《说文》</span>。按:六经无真字</span></p>
+<p><span class="diczx1">夫免乎外内之刑者，唯真人能之。&mdash;&mdash;<span class="smcs">《庄子&middot;列御寇》</span></span></p>
+<p><span class="diczx1">归其真宅。&mdash;&mdash;<span class="smcs">《列子&middot;天瑞》</span>。注:&ldquo;太虚之域。&rdquo;</span></p>
+<p><span class="diczx1">而已反其真，而我犹为人猗。&mdash;&mdash;<span class="smcs">《庄子&middot;大宗师》</span></span></p>
+<p><span class="cino">(3)</span> 又如:真人府(道人居住的地方);真仙(仙人);真君(道教对神仙的尊称);真味(真实的意旨或意味)</p>
+<p><span class="cino">(4)</span> 本性;本原 <span class="encs">[natural property]</span></p>
+<p><span class="diczx1">谨守而勿失，是谓反其真。&mdash;&mdash;<span class="smcs">《庄子&middot;秋水》</span></span></p>
+<p><span class="cino">(5)</span> 又如:真宰(宇宙的主宰者;造物主);真佛(本身;本人。比喻难以见到的人物);真力(本原之力);真原(本源);真源(本源，本性)</p>
+<p><span class="cino">(6)</span> 身 <span class="encs">[body]</span></p>
+<p><span class="diczx1">见利而忘其真。&mdash;&mdash;<span class="smcs">《庄子&middot;山水》</span></span></p>
+<p><span class="cino">(7)</span> 肖像，摹画的人像 <span class="encs">[portrait]</span></p>
+<p><span class="diczx1">有僧写得师真，呈师，师曰:&ldquo;且道似我不似我?&rdquo;&mdash;&mdash;<span class="smcs">《景德传灯录》</span></span></p>
+<p><span class="cino">(8)</span> 汉字楷书的别称 <span class="encs">[regular style of Chinese calligraphy]</span></p>
+<p><span class="diczx1">帝亲书其文，作真、行、草三体。&mdash;&mdash;<span class="smcs">《续资治通鉴》</span></span></p>
+<p><span class="cino">(9)</span> 又如:真字(正楷字)</p>
+<p><span class="cino">(10)</span> 古州名 <span class="encs">[Zhen prefecture]</span></p>
+<p><span class="diczx1">广德元年设</span><span class="diczx2">吐蕃</span>，其后 <span class="diczx2">松</span>、&hellip; <span class="diczx2">真</span>、&hellip;等为行州。&mdash;&mdash;<span class="smcs">《新唐书》</span></p>
+<p><span class="cino">(11)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>真</strong> <span class="dicpy">zhēn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēn.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 真实。与假、伪相对 <span class="encs">[real;true]</span></p>
+<p><span class="diczx1">假金方用真金镀。&mdash;&mdash;</span><span class="diczx2">李绅</span><span class="smcs">《答章孝标》</span></p>
+<p><span class="diczx1">使真伪毋相乱。&mdash;&mdash;<span class="smcs">《汉书&middot;宣帝纪》</span></span></p>
+<p><span class="diczx1">此画果真。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">而同于真。</span></p>
+<p><span class="diczx1">真者而同。</span></p>
+<p><span class="cino">(2)</span> 亦为佛教观念，与&ldquo;妄&rdquo;相对 <span class="encs">[true;real;genuine]</span></p>
+<p><span class="diczx1">窈兮冥兮，其中有精，其精甚真，其中有信。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><span class="cino">(3)</span> 又如:真人真事;真假难分;真形(真实的形体或形象);真教(纯真的教化);真笔(真迹);真相(佛教语。犹言本相，实相。后指事物的本来面目或真实情况)</p>
+<p><span class="cino">(4)</span> 正。与副、邪相对 <span class="encs">[right]</span></p>
+<p><span class="diczx1">恭楷誊真，双手呈与抚台。&mdash;&mdash;<span class="smcs">《文明小史》</span></span></p>
+<p><span class="cino">(5)</span> 又如:真红(正红;深红色);真楷(指正楷);真宅(人死后的真正归宿);真粹(品德高超);真履(纯正的志行)</p>
+<p><span class="cino">(6)</span> 精;淳 <span class="encs">[pure]</span></p>
+<p><span class="diczx1">发匣琴徽静，开瓶酒味真。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">张祜</span><span class="smcs">《乐静》</span></p>
+<p><span class="cino">(7)</span> 又如:真白(纯白色);真金(纯金;真正的金子);真钢(纯钢);真品(纯真的品质);真风(淳朴的风俗);真朴(纯真朴素)</p>
+<p><span class="cino">(8)</span> 本来的，固有的 <span class="encs">[proper]</span></p>
+<p><span class="diczx1">不识</span><span class="diczx2">庐山</span>真面目，只缘身在此山中。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《题西林壁》</span></p>
+<p><span class="cino">(9)</span> 又如:真态(本色;天然风致)</p>
+<p><span class="cino">(10)</span> 真诚;诚实，情感真切 <span class="encs">[absolute;sincerity]</span></p>
+<p><span class="diczx1">真者，精诚之至也。&hellip;真在内者，神动于外，是所以贵真也。&mdash;&mdash;<span class="smcs">《庄子&middot;渔父》</span></span></p>
+<p><span class="cino">(11)</span> 又如:真列(坚贞忠烈);真忱(真诚);真修(精诚修持);真信(真诚);真笃(诚挚深厚);真恳(真诚恳切);真至(情感真挚)</p>
+<p><span class="cino">(12)</span> 清楚;真切 <span class="encs">[clearly;unmistakably]</span></p>
+<p><span class="diczx1">我没大看真，不知是四根，不知是六根。&mdash;&mdash;<span class="smcs">《醒世姻缘传》</span></span></p>
+<p><span class="cino">(13)</span> 又如:听得真;看得真;真亮;真真(清清楚楚，明明白白)</p>
+<p>◎ <strong>真</strong> <span class="dicpy">zhēn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēn.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 实在;的确 <span class="encs">[really;truly;indeed]</span></p>
+<p><span class="diczx1">真无马邪?&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《杂说》</span></p>
+<p><span class="diczx1">真不知马也。</span></p>
+<p><span class="cino">(2)</span> 又如:这人真好;跑得真快;真不忝(真不愧);真可(真可以;真能够);真来(实在;确实)</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/真才实学">真才实学</a></span><span class="crefe"><a href="/hans/真诚">真诚</a></span><span class="crefe"><a href="/hans/真谛">真谛</a></span><span class="crefe"><a href="/hans/真分数">真分数</a></span><span class="crefe"><a href="/hans/真格">真格</a></span><span class="crefe"><a href="/hans/真个">真个</a></span><span class="crefe"><a href="/hans/真怪">真怪</a></span><span class="crefe"><a href="/hans/真迹">真迹</a></span><span class="crefe"><a href="/hans/真际">真际</a></span><span class="crefe"><a href="/hans/真金不怕火来烧">真金不怕火来烧</a></span><span class="crefe"><a href="/hans/真金不怕火炼">真金不怕火炼</a></span><span class="crefe"><a href="/hans/真菌">真菌</a></span><span class="crefe"><a href="/hans/真空">真空</a></span><span class="crefe"><a href="/hans/真空泵">真空泵</a></span><span class="crefe"><a href="/hans/真空管">真空管</a></span><span class="crefe"><a href="/hans/真理">真理</a></span><span class="crefe"><a href="/hans/真亮">真亮</a></span><span class="crefe"><a href="/hans/真面目">真面目</a></span><span class="crefe"><a href="/hans/真命">真命</a></span><span class="crefe"><a href="/hans/真皮">真皮</a></span><span class="crefe"><a href="/hans/真切">真切</a></span><span class="crefe"><a href="/hans/真情">真情</a></span><span class="crefe"><a href="/hans/真情实意">真情实意</a></span><span class="crefe"><a href="/hans/真确">真确</a></span><span class="crefe"><a href="/hans/真人">真人</a></span><span class="crefe"><a href="/hans/真人真事">真人真事</a></span><span class="crefe"><a href="/hans/真容">真容</a></span><span class="crefe"><a href="/hans/真善美">真善美</a></span><span class="crefe"><a href="/hans/真身">真身</a></span><span class="crefe"><a href="/hans/真实">真实</a></span><span class="crefe"><a href="/hans/真实感">真实感</a></span><span class="crefe"><a href="/hans/真是">真是</a></span><span class="crefe"><a href="/hans/真事">真事</a></span><span class="crefe"><a href="/hans/真释">真释</a></span><span class="crefe"><a href="/hans/真书">真书</a></span><span class="crefe"><a href="/hans/真数">真数</a></span><span class="crefe"><a href="/hans/真率">真率</a></span><span class="crefe"><a href="/hans/真髓">真髓</a></span><span class="crefe"><a href="/hans/真伪莫辨">真伪莫辨</a></span><span class="crefe"><a href="/hans/真相大白">真相大白</a></span><span class="crefe"><a href="/hans/真心">真心</a></span><span class="crefe"><a href="/hans/真心实意">真心实意</a></span><span class="crefe"><a href="/hans/真性">真性</a></span><span class="crefe"><a href="/hans/真言">真言</a></span><span class="crefe"><a href="/hans/真意">真意</a></span><span class="crefe"><a href="/hans/真真">真真</a></span><span class="crefe"><a href="/hans/真正">真正</a></span><span class="crefe"><a href="/hans/真知">真知</a></span><span class="crefe"><a href="/hans/真知灼见">真知灼见</a></span><span class="crefe"><a href="/hans/真挚">真挚</a></span><span class="crefe"><a href="/hans/真主">真主</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">真</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>真</rb></rbc><rtc><rt>ㄓㄣ</rt></rtc><rtc><rt>zhēn <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4419.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">纯正的、不虚假的。</span><span class="gc_lz">如：「真面目」、「真心诚意」。</span><span class="gc_yy">《庄子&middot;田子方》：「其为人也<b>真</b> 。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">的确、实在。</span><span class="gc_lz">如：「<b>真</b>好」、「<b>真</b>棒」。</span><span class="gc_yy">《汉书&middot;卷九四&middot;匈奴传下》：「唯北狄为不 然，<b>真</b>中国之坚敌也。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">道家称得道成仙的人。</span><span class="gc_lz">如：「太乙真人」、「真人不露相」。</span><span class="gc_yy">《红楼梦&middot;第二五回 》：「魇魔法叔嫂逢五鬼，红楼梦通灵遇双<b>真</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">自然、本性。</span><span class="gc_lz">如：「天<b>真</b>」。</span><span class="gc_yy">《庄子&middot;秋水》：「谨守而勿失，是谓反其<b>真</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">肖像、画像。</span><span class="gc_lz">如：「写<b>真</b>」、「留<b>真</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">实授的官职。</span><span class="gc_yy">《汉书&middot;卷一二&middot;平帝纪》：「吏在位二百石以上，一切满秩如<b>真</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如汉代有<b><b>真</b></b>玄菟。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="771F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集中" target="_blank">午集中</a>】【<a href="/zd/kx/?zm=午集中&amp;bs=目" target="_blank">目</a>】
+                              真·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">真</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=午集中" target="_blank">午集中</a>】【<a href="/zd/kx/?zm=午集中&amp;bs=目" target="_blank">目</a>】
+                              真·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：5</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/771F.svg">						  <p>同眞。俗字。</p>
+<p>（眞）〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2164A.svg'><span class='k_txt'>𡙊</span>【唐韻】側鄰切【集韻】【韻會】【正韻】之人</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="771F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=𠤎">𠤎</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">眞</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“真”字头，请参考“眞”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=𠤎">𠤎</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/771E.svg">                          <p>僊人變形而登天也。从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2090E.svg'><span class='k_txt'>𠤎</span>从目从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200CA.svg'><span class='k_txt'>𠃊</span>；音隱。八，所乘載也。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/771E_4288.svg" /><span class="swbf">(眞)</span><span class="ywyy">僊人變形而登天也。</span><span class="swdz">此眞之本義也。經典但言誠實，無言眞實者。諸子百家乃有眞字耳，然其字古矣。古文作<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2091B.svg'><span class='k_txt'>𠤛</span>，非倉頡以前已有眞人乎。引伸爲眞誠。凡稹鎭瞋謓䐜塡窴闐嗔滇鬒瑱<img class='lazy k_img' data-original='//img.zdic.net/song/cn/265C1.svg'><span class='k_txt'>𦗁</span>愼字皆以眞爲聲，多取充實之意。其顚槇字以頂爲義者，亦充實上<img class='lazy k_img' data-original='//img.zdic.net/song/cn/26AF5.svg'><span class='k_txt'>𦫵</span>之意也。愼字今訓謹，古則訓誠。小雅愼爾優游、予愼無罪傳皆云：誠也，又愼爾言也、大雅考愼其相箋皆云：誠也。愼訓誠者，其字从眞。人必誠而後敬，不誠未有能敬者也。敬者愼之弟二義，誠者愼之弟一義，學者沿其流而不溯其原矣。故若詩傳、箋所說諸愼字，謂卽眞之假借字可也。</span><span class="ywyy">从匕目<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200CA.svg'><span class='k_txt'>𠃊</span>。</span><span class="swdz">變形故从匕目。獨言目者，道書云養生之道，耳目爲先。耳目爲尋眞之梯級。韋昭云。偓佺方眼。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200CA.svg'><span class='k_txt'>𠃊</span>，匿也，讀若隱。仙人能隱形也。</span><span class="ywyy">八</span>，<span class="swdz">謂篆體之下也。</span><span class="ywyy">所㠯乗載之。</span><span class="swdz">八者，丌之省，下基也。抱朴子曰：乘蹻可以周流天下。蹻道有三，一曰龍蹻，二曰氣蹻，三曰鹿盧蹻。蹻，去喬切。眞从四字會意。側鄰切。十二部。</span></p>
+<hr />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/771E_4289.svg" /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2091B.svg'><span class='k_txt'>𠤛</span>)</span><span class="ywyy">古文眞。</span><span class="swdz">汗<img class='lazy k_img' data-original='//img.zdic.net/song/cn/25CD1.svg'><span class='k_txt'>𥳑</span>作。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="771F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">真</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂən˥ <span class="z_ts4">唐代读音</span>  *jin<span class="z_ts4">日语读音</span>  MAKOTO MAKOTONI MA<span class="z_ts3">越南语</span>  chân</p>						<p><span class="z_ts3">客家话</span>  [东莞腔] zin1 [陆丰腔] zhin1 [梅县腔] zhin1 [沙头角腔] zin1 [宝安腔] zin1 [客语拼音字汇] zin1<span class="z_ts2">粤语</span>  zan1</p>						<p><span class="z_ts3">近代音</span>  照母    真文韻    平聲陰    真小空；<span class="z_ts3">中古音</span>  <span class="z_ts3">上古音</span>  黄侃系统：端母    先部   ；王力系统：章母    真部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/真">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/真">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/真">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/真">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/真">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/真">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/真">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/真">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/真">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/真">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/真">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/真">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/真">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">真</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/真"><img data-original="//img.zdic.net/zy/jinwen/33_E063.svg" class="lazy ypic"><span>「真」 伯真甗</span><span>西周早期</span><span>集成870</span></a></td><td><a href="/zd/zx/cx/真"><img data-original="//img.zdic.net/zy/chuwenzi/52_F476.svg" class="lazy ypic"><span>「真」 曾125</span></a></td><td><a href="/zd/zx/xz/真"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E6CE.svg" class="lazy ypic"><span>「真」 說文古文</span></a></td><td><a href="/zd/zx/qx/真"><img data-original="//img.zdic.net/zy/qinwenzi/71_E8F3.svg" class="lazy ypic"><span>「真」 睡.法49</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/真" target="_blank"><img data-original="//img.zdic.net/kai/tw/771F.svg" class="lazy ypic"><span>「真」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/真"><img data-original="//img.zdic.net/zy/jinwen/33_E066.svg" class="lazy ypic"><span>「真」 真盤</span><span>西周早期</span><span>集成10091</span></a></td><td><a href="/zd/zx/cx/真"><img data-original="//img.zdic.net/zy/chuwenzi/52_F469.svg" class="lazy ypic"><span>「真」 天策</span></a></td><td><a href="/zd/zx/xz/真"><img data-original="//img.zdic.net/zy/xiaozhuan/27_771F.svg" class="lazy ypic"><span>「真」 說文‧𠤎部</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/真">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/真">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/真">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/真">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/真">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/771F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/771F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/771F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/771F.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/眞' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/771E.svg'><span>眞</span></a></div> <div class='zx'><a href='/hans/𡙊' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2164A.svg'><span>𡙊</span></a></div>  <div class='zx'><a href='/hans/𠤤' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20924.svg'><span>𠤤</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="10528" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7788">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/砧">砧(zhen1)</a></li><li><a href="/hans/樼">樼(zhen1)</a></li><li><a href="/hans/桢">桢(zhen1)</a></li><li><a href="/hans/侲">侲(zhen1)</a></li><li><a href="/hans/溱">溱(zhen1)</a></li><li><a href="/hans/祯">祯(zhen1)</a></li><li><a href="/hans/禛">禛(zhen1)</a></li><li><a href="/hans/遉">遉(zhen1)</a></li><li><a href="/hans/籈">籈(zhen1)</a></li><li><a href="/hans/酙">酙(zhen1)</a></li><li><a href="/hans/珎">珎(zhen1)</a></li><li><a href="/hans/帧">帧(zhen1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䁺">䁺</a></li><li><a href="/hans/䁿">䁿</a></li><li><a href="/hans/盾">盾</a></li><li><a href="/hans/䀓">䀓</a></li><li><a href="/hans/睃">睃</a></li><li><a href="/hans/眰">眰</a></li><li><a href="/hans/䂀">䂀</a></li><li><a href="/hans/䁗">䁗</a></li><li><a href="/hans/䁇">䁇</a></li><li><a href="/hans/瞿">瞿</a></li><li><a href="/hans/䁜">䁜</a></li><li><a href="/hans/瞟">瞟</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/舐">舐</a></li><li><a href="/hans/莢">莢</a></li><li><a href="/hans/俺">俺</a></li><li><a href="/hans/聂">聂</a></li><li><a href="/hans/请">请</a></li><li><a href="/hans/胸">胸</a></li><li><a href="/hans/紤">紤</a></li><li><a href="/hans/䖎">䖎</a></li><li><a href="/hans/䘢">䘢</a></li><li><a href="/hans/宼">宼</a></li><li><a href="/hans/𠂻">𠂻</a></li><li><a href="/hans/站">站</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">不识庐山<span>真</span>面目，只缘身在此山中。</div><div class="gscdr">宋·苏轼 《题西林壁》</div><div class="gscdl">少年哀乐过于人，歌泣无端字字<span>真</span>。</div><div class="gscdr">清·龚自珍 《已亥杂诗》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">文帝曰：“嗟呼，此<span>真</span>将军矣！曩者霸上、棘门军，若儿戏耳，其将固可袭而虏也。”</div><div class="gscdr">汉·司马迁 史记. 绛侯周勃世家《周亚夫军细柳》</div><div class="gscdl">此中有<span>真</span>意，欲辨已忘言。</div><div class="gscdr">《饮酒》（其五）</div><div class="gscdl">呜呼！其<span>真</span>无马邪？其<span>真</span>不知马也！</div><div class="gscdr">唐·韩愈 《马说》</div><div class="gscdl">饿死<span>真</span>吾志，梦中行采薇。</div><div class="gscdr">宋·文天祥 《南安军》</div><div class="gscdl">哪里去辨甚么<span>真</span>共假？眼见的吹翻了这家，吹伤了那家，只吹的水尽鹅飞罢！</div><div class="gscdr">明·王磐 《朝天子·咏喇叭》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=10528"></script>
+</body>
+</html>

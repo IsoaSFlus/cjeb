@@ -1,0 +1,704 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>余的解释|余的意思|汉典“余”字的基本解释</title>
+<meta name="title" content="余的解释|余的意思|汉典“余”字的基本解释">
+<meta name="keywords" content="|⿱亼朩|" /><meta property="og:title" content="“余”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“余”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“余”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/余" />
+<link rel="canonical" href="//www.zdic.net/hans/余" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/余" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/余" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/余" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/余">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/余">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4F59.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4F59.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yú<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“余”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yú.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄩˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“余”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=人" target="_blank">  人</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_jfz2">                              <p><span class="z_ts2">简体</span> <a href='/hans/馀' target=_blank>馀</a>  </p>
+                                                            <p><span class="z_ts2">繁体</span> <a href='/hans/餘' target=_blank>餘</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/餘' target=_blank>餘</a> <a href='/hans/𠎳' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/203B3.svg'><span class='ytz_txt'>𠎳</span></a> <a href='/hans/豫' target=_blank>豫</a> <a href='/hans/馀' target=_blank>馀</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4F59</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>3411234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>wtu|wgsu</p></td>                            <td class="dsk_2_1"><p>omd</p></td>                            <td class="dsk_2_1"><p>odmf</p></td>                            <td class="dsk_2_1"><p>80904</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yú<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“余”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yú.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄩˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“余”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=人" target="_blank">人</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 4F59<span class="z_ts2">笔顺</span> 3411234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4F59_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=346" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>余</strong></p>
+<p><strong>（➋➌➍<span class="diczx3">餘</span>）</strong></p>
+<p><span class="dicpy">y&uacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> ㄩˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>文言代词，我：&ldquo;～将老&rdquo;。</li>
+	<li>剩下来的，多出来的：剩～。～粮。～兴。～悸。～孽。节～。～生。～荫（指前人的遗泽，遗留的庇荫）。～勇可贾（gǔ）（还有剩余的力量可以使出来）。</li>
+	<li>十、百、千等整数或名数后的零数：十～人。</li>
+	<li>后：&ldquo;劳动之～，欢歌笑语。&rdquo;</li>
+	<li>农历四月的别称。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> I, my, me; surname; surplus</p><p><span class="z_ts2">德语</span> übrig (geblieben)​, restlich  (Adj)</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>余</strong></p>
+<p>餘 <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (形声。从食，余声。本义:饱足)</p>
+<p><span class="cino">(2)</span> 饱足。足食得饱 <span class="encs">[have eaten one&#39;s fill;be full]</span></p>
+<p><span class="diczx1">余，饶也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="cino">(3)</span> 剩下;剩余 <span class="encs">[remain;leave orer]</span></p>
+<p><span class="diczx1">昔人已乘黄鹤去，此地空余黄鹤楼。&mdash;&mdash;</span><span class="diczx2">崔颢</span><span class="smcs">《黄鹤楼》</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>余</strong></p>
+<p>餘 <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 剩下的，多余的 <span class="encs">[surplus;spare]</span></p>
+<p><span class="diczx1">行有余力，则以学文。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">亦无使有余。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;辩士》</span>。注:&ldquo;犹多也。&rdquo;</span></p>
+<p><span class="diczx1">父有余(余)财。&mdash;&mdash;<span class="smcs">《吴仲山碑》</span></span></p>
+<p><span class="diczx1">今也每食无余(余)。&mdash;&mdash;<span class="smcs">《诗&middot;秦风&middot;权舆》</span></span></p>
+<p><span class="diczx3">又如:余夫(指一家五口或八口为率以外多余的人口);余润(利润);余资(剩余的钱);余师(很多余地;<span class="encs">[空余的地方]</span>的老师)</span></p>
+<p><span class="cino">(2)</span> 残留的;遗留的 <span class="encs">[remaining]</span></p>
+<p><span class="diczx1">孤嶂</span><span class="diczx2">秦</span>碑在，荒城 <span class="diczx2">鲁</span>殿余。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《登兖州城楼》</span></p>
+<p><span class="diczx1">肯与邻翁相对饮，隔篱呼取尽余(余)杯。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《客至》</span></p>
+<p><span class="diczx3">又如:余蔌(剩余的菜肴);余庆(祖先留下的福泽。即因前辈的善行而使子孙得到某些好处);余水(剩余的水);余芳(残花;死后遗留的美名);余杯(杯中残余的酒);余珍(前代遗留的遗物)</span></p>
+<p><span class="cino">(3)</span> 次要的 <span class="encs">[second]</span></p>
+<p><span class="diczx1">唱彻<span class="smcs">《阳关》</span>泪未干，功名余事且加餐。&mdash;&mdash;</span><span class="diczx2">辛弃疾</span><span class="smcs">《鹧鸪天》</span></p>
+<p><span class="diczx3">又如:余光(落日残余的光辉);余春(晚春，残余的春光)</span></p>
+<p><span class="cino">(4)</span> 不尽，无穷 <span class="encs">[infinite;endless]</span></p>
+<p><span class="diczx1">一弹再三唱，慷慨有余哀。&mdash;&mdash;<span class="smcs">《古诗十九首》</span></span></p>
+<p><span class="diczx3">又如:余哀(不尽的哀思);余思(不尽的怀思);余音袅袅(歌声的余音回荡缭绕);余霞成绮(用以称赞文章时含有无穷的意味)</span></p>
+<p><span class="cino">(5)</span> 其余，其他，以外 <span class="encs">[other]</span></p>
+<p><span class="diczx1">大儿</span><span class="diczx2">孔文举</span>，小儿 <span class="diczx2">杨德祖</span>，余(余)子碌碌，莫足数也。&mdash;&mdash;<span class="smcs">《后汉书&middot;祢衡传》</span></p>
+<p><span class="diczx1">得十九人，余无可取者，无以满二十人。&mdash;&mdash;<span class="smcs">《史记&middot;平原君虞卿列传》</span></span></p>
+<p><span class="diczx3">又如:余子(其他的人);余事(另外的事，其他的事);余业(副业);余论(指本论以外的议论)</span></p>
+<p><span class="cino">(6)</span> 多，表示整数后不定的零数 <span class="encs">[odd;over;more than]</span></p>
+<p><span class="diczx1">一车炭重千余斤。&mdash;&mdash;</span><span class="diczx2">白居易</span><span class="smcs">《卖炭翁》</span></p>
+<p><span class="diczx1">有竹一顷余(余)，乔木上参天。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《杜鹃》</span></p>
+<p><span class="diczx3">又如:六百余米;五十余岁</span></p>
+<p>◎ <strong>余</strong></p>
+<p>余 <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p>闲暇 <span class="encs">[leisurely]</span></p>
+<p><span class="diczx1">无为也，则用天下而有余。&mdash;&mdash;<span class="smcs">《庄子&middot;天道》</span></span></p>
+<p><span class="diczx3">又如:余功(余暇，空闲);余闲(余暇)</span></p>
+<p>◎ <strong>余</strong> <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><span class="diczx1">代</span></p>
+<p>第一人称代词，我或我的 <span class="encs">[I， my， me]</span></p>
+<p><span class="diczx1">余敢贪天子之命，，无下拜?&mdash;&mdash;<span class="smcs">《左传&middot;僖公九年》</span></span></p>
+<p><span class="diczx1">余弟宗玄。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《至小丘西小石潭记》</span></p>
+<p><span class="diczx1">余于仆碑。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《游褒禅山记》</span></p>
+<p><span class="diczx1">此地适与余近。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">余之游将自此始。</span></p>
+<p><span class="diczx1">余亟叹其技。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">余闻法人好胜。</span></p>
+<p><span class="diczx1">余既为此志。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx3">又如:余一人(古代天子自称。也写作&ldquo;予一人&rdquo;);余小子(古代天子居丧时的自称。也写作&ldquo;予小子&rdquo;)</span></p>
+<p>◎ <strong>余</strong> <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 农历四月的别称 <span class="encs">[the fourth month of the lunar year]</span></p>
+<p><span class="diczx1">四月为余。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="cino">(2)</span> 姓</p>
+<p><span class="cino">(3)</span> &ldquo;余&rdquo;的简化字 &ldquo;余&rdquo;</p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"> <span class="crefe"><a href="/hans/余波">余波</a></span><span class="crefe"><a href="/hans/余存">余存</a></span><span class="crefe"><a href="/hans/余党">余党</a></span><span class="crefe"><a href="/hans/余地">余地</a></span><span class="crefe"><a href="/hans/余毒">余毒</a></span><span class="crefe"><a href="/hans/余额">余额</a></span><span class="crefe"><a href="/hans/余风">余风</a></span><span class="crefe"><a href="/hans/余割">余割</a></span><span class="crefe"><a href="/hans/余痕">余痕</a></span><span class="crefe"><a href="/hans/余弧">余弧</a></span><span class="crefe"><a href="/hans/余辉">余辉</a></span><span class="crefe"><a href="/hans/余火">余火</a></span><span class="crefe"><a href="/hans/余悸">余悸</a></span><span class="crefe"><a href="/hans/余角">余角</a></span><span class="crefe"><a href="/hans/余烬">余烬</a></span><span class="crefe"><a href="/hans/余款">余款</a></span><span class="crefe"><a href="/hans/余力">余力</a></span><span class="crefe"><a href="/hans/余沥">余沥</a></span><span class="crefe"><a href="/hans/余粮">余粮</a></span><span class="crefe"><a href="/hans/余量">余量</a></span><span class="crefe"><a href="/hans/余留">余留</a></span><span class="crefe"><a href="/hans/余码">余码</a></span><span class="crefe"><a href="/hans/余年">余年</a></span><span class="crefe"><a href="/hans/余孽">余孽</a></span><span class="crefe"><a href="/hans/余怒">余怒</a></span><span class="crefe"><a href="/hans/余钱">余钱</a></span><span class="crefe"><a href="/hans/余切">余切</a></span><span class="crefe"><a href="/hans/余缺">余缺</a></span><span class="crefe"><a href="/hans/余热">余热</a></span><span class="crefe"><a href="/hans/余生">余生</a></span><span class="crefe"><a href="/hans/余剩">余剩</a></span><span class="crefe"><a href="/hans/余势">余势</a></span><span class="crefe"><a href="/hans/余数">余数</a></span><span class="crefe"><a href="/hans/余头">余头</a></span><span class="crefe"><a href="/hans/余外">余外</a></span><span class="crefe"><a href="/hans/余威">余威</a></span><span class="crefe"><a href="/hans/余味">余味</a></span><span class="crefe"><a href="/hans/余暇">余暇</a></span><span class="crefe"><a href="/hans/余弦">余弦</a></span><span class="crefe"><a href="/hans/余闲">余闲</a></span><span class="crefe"><a href="/hans/余兴">余兴</a></span><span class="crefe"><a href="/hans/余蓄">余蓄</a></span><span class="crefe"><a href="/hans/余业">余业</a></span><span class="crefe"><a href="/hans/余音">余音</a></span><span class="crefe"><a href="/hans/余音绕梁">余音绕梁</a></span><span class="crefe"><a href="/hans/余勇可贾">余勇可贾</a></span><span class="crefe"><a href="/hans/余韵">余韵</a></span><span class="crefe"><a href="/hans/余震">余震</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>余</rb></rbc><rtc><rt>ㄩˊ</rt></rtc><rtc><rt>y&uacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6433.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">代</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">我，表第一人稱。</span><span class="gc_yy">《文選&middot;班彪&middot;北征賦》：「<b>余</b>遭世之顛覆兮，罹填塞之阨災。」</span><span class="gc_yy">《文選&middot;陸機&middot;歎逝賦》：「<b>余</b>將老而為客。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">剩下、多餘。</span><span class="gc_yy">《周禮&middot;地官&middot;委人》：「凡其<b>余</b>，聚以待頒賜。」</span><span class="gc_yx">同「<a href='/hans/餘' target=_blank>餘</a> 」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如宋代有余靖。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>余</rb></rbc><rtc><rt>ㄒㄩˊ</rt></rtc><rtc><rt>x&uacute;</rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">參見「<b>余</b>余」、「余吾鎮」等條。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4F59_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              余·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              余·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4F59.svg">						  <p>【唐韻】以諸切【集韻】【韻會】羊諸切【正韻】雲居切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音餘。【說文】語之舒也。【爾雅&middot;釋詁】我也。</p>
+<p>又四月爲余月。</p>
+<p>又接余，荇菜也。</p>
+<p>又【前漢&middot;匈奴傳】單于衣繡，褡綺錦袷被各一，比余。【註】比余，髮之飾也。</p>
+<p>又姓。由余之後。</p>
+<p>又【集韻】詳於切，音徐。余吾，水名。在朔方。</p>
+<p>又【集韻】同都切，音徒。史記檮余，匈奴山名。</p>
+<p>又于遮切，音邪。褒余，蜀地名。一作褒斜。【漢陽厥<img class="lazy k_img" data-original="//img.zdic.net/song/cn/254D3.svg"><span class="k_txt">𥓓</span>】褒斜作褒余。</p>
+<p>又叶演女切，音與。【楚辭&middot;九思】鷃雀列兮讙譁，雊<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28FDC.svg"><span class="k_txt">𨿜</span>鳴兮聒余。抱昭華兮寶車，欲衒鬻兮莫取。</p>
+<p>又與餘同。【周禮&middot;地官】委人，凡其余聚以待頒賜。【註】余同餘。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4F59_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=八">八</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=八">八</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4F59.svg">                          <p>語之舒也。从八，舍省聲。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/203B3.svg"><span class="k_txt">𠎳</span>，二余也。讀與余同。以諸切文十二　重一</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4F59_156.svg" /><span class="swbf">(余)</span><span class="ywyy">語之舒也。</span><span class="swdz">語，匡謬正俗引作䛐。左氏傳：小白余敢貪天子之命，無下拜。此正䛐之舒。亏部曰：亏，於也。象氣之舒亏。然則余亏異字而同音義。釋詁云：余，我也。余身也。孫炎曰：余，舒遲之身也。然則余之引伸訓爲我。詩書用予不用余。左傳用余不用予。曲禮下篇：朝諸矦分職授政任功，曰：予一人。注云：覲禮曰伯父寔來，余一人嘉之。余、予古今字。凡言古今字者，主謂同音，而古用彼今用此異字。若禮經古文用余一人，禮記用予一人。余、予本異字異義，非謂予、余本卽一字也。顏師古匡謬正俗不逹斯恉，且又以予上聲、余平聲爲分別，又不知古音平上不甚區分，重悂貤繆。儀禮漢讀攷糾之詳矣。</span><span class="ywyy">从八，</span><span class="swdz">象气之分散。</span><span class="ywyy">舍省聲。</span><span class="swdz">以諸切。五部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4F59_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  jy˧˥ <span class="z_ts4">唐代读音</span>  *iu iu<span class="z_ts4">日语读音</span>  AMARU WARE AMARI<span class="z_ts4">韩语罗马</span>  YE<span class="z_ts4">现代韩语</span>  여<span class="z_ts3">越南语</span>  dư</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] j2 [东莞腔] ji2 [客英字典] ji2 [宝安腔] ji2 [客语拼音字汇] yi2 [海陆腔] ri2 [台湾四县腔] ji2 [陆丰腔] ji3<span class="z_ts2">粤语</span>  jyu4</p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  喻以母    魚韻    平聲    余小韻    以諸切    三等    合口；禪母    麻韻    平聲    闍小韻    視遮切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：影母    模部   ；王力系统：餘母    魚部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/余">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/余">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/余">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/余">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/余">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/余">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/余">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/余">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/余">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/余">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/余">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/余">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/余">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">余</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E3D8.svg" /><span>「余」 京都335A</span><span>合7394</span></a></td>
+			<td><a href="/zd/zx/jw/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E436.svg" /><span>「余」 大盂鼎</span><span>西周早期</span><span>集成2837</span></a></td>
+			<td><a href="/zd/zx/cx/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E5B2.svg" /><span>「余」 包2.164</span></a></td>
+			<td><a href="/zd/zx/xz/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_4F59.svg" /><span>「余」 說文‧八部</span></a></td>
+			<td><a href="/zd/zx/qx/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E0B8.svg" /><span>「余」 睡.日乙26</span></a></td>
+			<td><a href="/hans/余" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4F59.svg" /><span>「余」</span></a></td>
+			<td style="display:none"><a href="/hans/馀" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/9980.svg" /><span>「馀」</span></a></td>
+			<td style="display:none"><a href="/hans/余" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4F59.svg" /><span>「余」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E3DE.svg" /><span>「余」 甲3690</span><span>合36535</span></a></td>
+			<td><a href="/zd/zx/jw/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E43F.svg" /><span>「余」 諫簋</span><span>西周晚期</span><span>集成4285</span></a></td>
+			<td><a href="/zd/zx/cx/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_E559.svg" /><span>「余」 郭.成.36</span></a></td>
+			<td><a href="/zd/zx/xz/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E0CE.svg" /><span>「𠎳」 說文或體</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E3D7.svg" /><span>「余」 鄴初下.29.4</span></a></td>
+			<td><a href="/zd/zx/jw/余"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E44F.svg" /><span>「余」 秦公鎛</span><span>春秋早期</span><span>集成267</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/余">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/余">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/余">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/余">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/余">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/余">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4F59.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4F59.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4F59.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4F59.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4F59.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/餘' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9918.svg'><span>餘</span></a></div> <div class='zx'><a href='/hans/𠎳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/203B3.svg'><span>𠎳</span></a></div> <div class='zx'><a href='/hans/豫' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8C6B.svg'><span>豫</span></a></div> <div class='zx'><a href='/hans/馀' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9980.svg'><span>馀</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="346" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7594">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/窬">窬(yu2)</a></li><li><a href="/hans/䢓">䢓(yu2)</a></li><li><a href="/hans/㻀">㻀(yu2)</a></li><li><a href="/hans/逾">逾(yu2)</a></li><li><a href="/hans/㶛">㶛(yu2)</a></li><li><a href="/hans/蕍">蕍(yu2)</a></li><li><a href="/hans/婾">婾(yu2)</a></li><li><a href="/hans/㥔">㥔(yu2)</a></li><li><a href="/hans/扵">扵(yu2)</a></li><li><a href="/hans/鱼">鱼(yu2)</a></li><li><a href="/hans/嵛">嵛(yu2)</a></li><li><a href="/hans/䂛">䂛(yu2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠇄">𠇄</a></li><li><a href="/hans/仺">仺</a></li><li><a href="/hans/𠎙">𠎙</a></li><li><a href="/hans/𠊛">𠊛</a></li><li><a href="/hans/𠋁">𠋁</a></li><li><a href="/hans/𠐸">𠐸</a></li><li><a href="/hans/𠐗">𠐗</a></li><li><a href="/hans/𠓽">𠓽</a></li><li><a href="/hans/𠌂">𠌂</a></li><li><a href="/hans/𠆦">𠆦</a></li><li><a href="/hans/𠓯">𠓯</a></li><li><a href="/hans/伞">伞</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/冶">冶</a></li><li><a href="/hans/㧉">㧉</a></li><li><a href="/hans/妩">妩</a></li><li><a href="/hans/岕">岕</a></li><li><a href="/hans/𠀧">𠀧</a></li><li><a href="/hans/呁">呁</a></li><li><a href="/hans/𠙄">𠙄</a></li><li><a href="/hans/迊">迊</a></li><li><a href="/hans/苂">苂</a></li><li><a href="/hans/𠑽">𠑽</a></li><li><a href="/hans/应">应</a></li><li><a href="/hans/杢">杢</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">阅十<span>余</span>岁，僧募金重修，求二石兽于水中，竟不可得。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">以为顺流下矣，棹数小舟，曳铁钯，寻十<span>余</span>里，无迹。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">昔人已乘黄鹤去，此地空<span>余</span>黄鹤楼。</div><div class="gscdr">唐·崔颢 《黄鹤楼》</div><div class="gscdl">河曲智叟笑而止之曰：“甚矣，汝之不惠！以残年<span>余</span>力，曾不能毁山之一毛，其如土石何？”</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl"><span>余</span>人各复延至其家，皆出酒食。停数日，辞去。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">同游者：吴武陵，龚古，<span>余</span>弟宗玄。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=346"></script>
+</body>
+</html>

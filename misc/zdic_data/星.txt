@@ -1,0 +1,632 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>星的解释|星的意思|汉典“星”字的基本解释</title>
+<meta name="title" content="星的解释|星的意思|汉典“星”字的基本解释">
+<meta name="keywords" content="上：日，下：生。  " /><meta property="og:title" content="“星”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“星”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“星”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/星" />
+<link rel="canonical" href="//www.zdic.net/hans/星" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/星" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/星" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/星" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/星">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/星">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/661F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/661F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">xīng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“星”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xīng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄒㄧㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“星”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄥ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">  日</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  9</p></td>                                                        <td class="z_ytz2"><a href='/hans/㽮' target=_blank>㽮</a> <a href='/hans/曐' target=_blank>曐</a> <a href='/hans/皨' target=_blank>皨</a> <a href='/hans/𠻖' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20ED6.svg'><span class='ytz_txt'>𠻖</span></a> <a href='/hans/𤯢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24BE2.svg'><span class='ytz_txt'>𤯢</span></a> <a href='/hans/𤽛' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24F5B.svg'><span class='ytz_txt'>𤽛</span></a> <a href='/hans/𤾪' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24FAA.svg'><span class='ytz_txt'>𤾪</span></a> <a href='/hans/𣅨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23168.svg'><span class='ytz_txt'>𣅨</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+661F</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>251131121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>jtgf</p></td>                            <td class="dsk_2_1"><p>ahqm</p></td>                            <td class="dsk_2_1"><p>kmc</p></td>                            <td class="dsk_2_1"><p>60105</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">xīng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“星”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xīng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄒㄧㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“星”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄥ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">日</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 9</p>                    <p><span class="z_ts3">基本区</span> 661F<span class="z_ts2">笔顺</span> 251131121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="661F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6176" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">星</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>星</strong></p><p><span class="dicpy">xīng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xīng.mp3"></a></span>  ㄒㄧㄥˉ</span></p><hr class="dichr" /><ol>	<li>天文学上指宇宙间能发光的或反射光的天体；一般指夜间天空中发光的天体：～球。恒～。行（<span class="dicpy">x&iacute;ng </span>）～。卫～。披～戴月。</li>	<li>细碎的小颗粒东西：火～儿。</li>	<li>秤等衡器上记数的点：定盘～。</li>	<li>军官衣领上的徽记：五～将军。</li>	<li>形容夜间：～行。～奔。</li>	<li>星名，二十八宿之一：～宿。</li>	<li>像星一样排列，分散：～～点点。</li>	<li>喻某一方面新出现的杰出人物：影～。歌～。</li>	<li>古代妇女面上所饰的花点。</li>	<li>以星象推算吉凶祸福的方术：～术。～相（<span class="dicpy">xi&agrave;ng </span>）。</li>	<li>原子核物理学上指高能粒子射入核乳胶或云室、气泡室时发现有许多径迹从一点发出的现象。</li>	<li>国际通用的衡量宾馆、饭店的等级标准：～级。五～饭店。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> a star, planet; any point of light</p><p><span class="z_ts2">德语</span> Stern, Planet  (S)​,Xing  (Eig, Fam)</p><p><span class="z_ts2">法语</span> étoile</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">星</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>星</strong> <span class="dicpy">xīng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xīng.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从晶，生声。晶象形。本义:星星)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[star]</span> 宇宙间发射或反射光的天体</p>
+<p><span class="diczx1">星，万物之精，上为列星。&mdash;&mdash;<span class="smcs">《说文》</span>。按，散文则统谓之星，对文则五纬为星，二十八宿为辰。</span></p>
+<p><span class="diczx1">日月星辰。&mdash;&mdash;<span class="smcs">《书&middot;尧典》</span></span></p>
+<p><span class="diczx1">四曰星辰。&mdash;&mdash;<span class="smcs">《书&middot;洪范》</span>。</span><span class="diczx2">郑</span>注:&ldquo;星，五星也。&rdquo;</p>
+<p><span class="diczx1">列星随旋，日月递炤。(炤:照耀)&mdash;&mdash;<span class="smcs">《荀子》</span></span></p>
+<p><span class="diczx3">又如:星筹(寿算之筹);星霜(比喻年月);星桥(神话传说中的鹊桥。也作银桥);星布(天星密布);星列(天星罗列)</span></p>
+<p><span class="cino">(3)</span> 星宿，中国古代指星座 <span class="encs">[constellation]</span>。共分二十八宿(星群)。</p>
+<p><span class="diczx3">如:星宫(星神);星回(星宿回转固位。谓一年将尽);星亡(星宿隐没不见)</span></p>
+<p><span class="cino">(4)</span> 天文 <span class="encs">[astronomy]</span></p>
+<p><span class="diczx1">文史星历，近乎卜祝之间。&mdash;&mdash;</span><span class="diczx2">司马迁</span><span class="smcs">《报任安书》</span></p>
+<p><span class="diczx3">又如:星工(通晓星象的人);星文(星象);星变(星象的异常变化)</span></p>
+<p><span class="cino">(5)</span> 古时特指妇女装饰面颊的美容花点 <span class="encs">[tilak]</span>。</p>
+<p><span class="cino">(6)</span> 戥、秤等衡器上记斤、两、钱的标志点 <span class="encs">[small gradation marks on the arm of a steelyard]</span>。</p>
+<p><span class="diczx3">如:定盘星;准星;秤星</span></p>
+<p><span class="cino">(7)</span> 夜，星夜。多用于连夜赶路 <span class="encs">[night]</span>。</p>
+<p><span class="diczx3">如:星前月下(指男女幽会的时间或处所);星行(早夜急行);星步(凭星而行);星归(连夜赶回)</span></p>
+<p><span class="cino">(8)</span> 用以表示等级 <span class="encs">[class]</span>。</p>
+<p><span class="diczx3">如:三星级饭店;五星上将</span></p>
+<p><span class="cino">(9)</span> 星相术 <span class="encs">[astrology]</span>。</p>
+<p><span class="diczx3">如:星象恶曜(逢着灾星，厄运当头);星宿(列星。代指人的时运，命数);星家(通晓天文术数、算命看相的人);星宿不利(迷信指本命星不吉利);占星;星卜</span></p>
+<p><span class="cino">(10)</span> 某物质一小块、一小片(断)或数量很小的一份 <span class="encs">[bit]</span>。</p>
+<p><span class="diczx3">如:星星(一点儿;一些儿);一星半点</span></p>
+<p><span class="cino">(11)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>星</strong> <span class="dicpy">xīng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xīng.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 形容多而分散的 <span class="encs">[disperse]</span>。</p>
+<p><span class="diczx3">如:星居(分散布列);星处;零星;星弗(多而乱);星罗棋布;星离(天星分散)</span></p>
+<p><span class="cino">(2)</span> 斑白。多指鬓发 <span class="encs">[white]</span></p>
+<p><span class="diczx1">诗老相过鬓已星，吟魂未减昔年清。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王伯大</span><span class="smcs">《赠戴石屏》</span></p>
+<p><span class="diczx3">又如:星鬓(发白的鬓发);星发(花白的头发)</span></p>
+<p><span class="cino">(3)</span> 事物与帝王有关的 <span class="encs">[imperial]</span>。</p>
+<p><span class="diczx3">如:星舆;星骑;星闱(皇宫);星关(宫禁，皇居);星骑(帝王的使者)</span></p>
+<p><span class="cino">(4)</span> 迅速的，跟流星一样的 <span class="encs">[rapid]</span>。</p>
+<p><span class="diczx3">如:星铄梭光(像星闪烁，像飞梭掠过。形容疾快);星驰(赶快;匆忙);星忙(匆忙);星火(火速)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/星表">星表</a></span><span class="crefe"><a href="/hans/星辰">星辰</a></span><span class="crefe"><a href="/hans/星驰">星驰</a></span><span class="crefe"><a href="/hans/星点">星点</a></span><span class="crefe"><a href="/hans/星斗">星斗</a></span><span class="crefe"><a href="/hans/星光">星光</a></span><span class="crefe"><a href="/hans/星号">星号</a></span><span class="crefe"><a href="/hans/星河">星河</a></span><span class="crefe"><a href="/hans/星火">星火</a></span><span class="crefe"><a href="/hans/星际">星际</a></span><span class="crefe"><a href="/hans/星空">星空</a></span><span class="crefe"><a href="/hans/星流">星流</a></span><span class="crefe"><a href="/hans/星罗棋布">星罗棋布</a></span><span class="crefe"><a href="/hans/星期">星期</a></span><span class="crefe"><a href="/hans/星期日">星期日</a></span><span class="crefe"><a href="/hans/星球">星球</a></span><span class="crefe"><a href="/hans/星区">星区</a></span><span class="crefe"><a href="/hans/星群">星群</a></span><span class="crefe"><a href="/hans/星体">星体</a></span><span class="crefe"><a href="/hans/星图">星图</a></span><span class="crefe"><a href="/hans/星团">星团</a></span><span class="crefe"><a href="/hans/星系">星系</a></span><span class="crefe"><a href="/hans/星相">星相</a></span><span class="crefe"><a href="/hans/星星">星星</a></span><span class="crefe"><a href="/hans/星星点点">星星点点</a></span><span class="crefe"><a href="/hans/星星之火">星星之火</a></span><span class="crefe"><a href="/hans/星宿">星宿</a></span><span class="crefe"><a href="/hans/星眼">星眼</a></span><span class="crefe"><a href="/hans/星夜">星夜</a></span><span class="crefe"><a href="/hans/星移斗转">星移斗转</a></span><span class="crefe"><a href="/hans/星云">星云</a></span><span class="crefe"><a href="/hans/星占">星占</a></span><span class="crefe"><a href="/hans/星震">星震</a></span><span class="crefe"><a href="/hans/星子">星子</a></span><span class="crefe"><a href="/hans/星座">星座</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">星</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>星</rb></rbc><rtc><rt>ㄒㄧㄥ</rt></rtc><rtc><rt>xīng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4087.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">宇宙中會發光或反射光的天體。</span><span class="gc_lz">如：「恆<b>星</b>」、「行<b>星</b>」、「哈雷彗<b>星</b>」、「月明星稀」。</span><span class="gc_yy">唐&middot;杜甫〈旅夜書懷〉詩：「<b>星</b>垂平野闊，月湧大江流。」</span><span class="gc_yy">唐&middot;李商隱〈常娥〉詩：「雲母屏風燭影深，長河漸落曉<b>星</b>沉。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">比喻細碎或發亮的東西。</span><span class="gc_lz">如：「油<b>星</b>水點」、「眼冒金<b>星</b>」。</span><span class="gc_yy">唐&middot;孟郊〈寒溪〉詩九首之四：「篙工磓玉<b>星</b>，一路隨迸螢。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">比喻為人所崇拜、注目，或是某事的主要人物。</span><span class="gc_lz">如：「歌<b>星</b>」、「明<b>星</b>」、「影視紅<b>星</b>」、「救<b>星</b>」、「壽<b>星</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">鑲在秤桿上，用以標誌斤、兩、錢的小點。</span><span class="gc_lz">如：「秤<b>星</b>」。</span><span class="gc_yy">唐&middot;賈島〈贈牛山人〉詩：「鑿石養蜂休買蜜，坐山秤藥不爭<b>星</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如春秋時有星子韋。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">細微、細小。</span><span class="gc_lz">如：「零<b>星</b>」、「星火燎原」。</span><span class="gc_yy">唐&middot;盧照鄰〈晚渡渭橋寄示京邑遊好〉詩：「長虹掩釣浦，落雁下星洲。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">色白如星。</span><span class="gc_yy">南朝齊&middot;謝朓〈詠風詩〉：「時拂孤鸞鏡，<b>星</b>鬢視參差。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">量多且四處散布。</span><span class="gc_lz">如：「星羅棋布」。</span><span class="gc_yy">《文選&middot;班固&middot;西都賦》：「列卒周匝，星羅雲布。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">如流星般疾速。《三國志&middot;卷五八&middot;吳書&middot;陸遜傳》：「舳艫千里，星奔電邁，俄然行至。」晉&middot;潘岳〈世祖武帝皇帝誄〉：「羽檄星馳，鉦鼓日戒。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="661F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              星·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">星</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集上" target="_blank">辰集上</a>】【<a href="/zd/kx/?zm=辰集上&amp;bs=日" target="_blank">日</a>】
+                              星·康熙筆画：<a href="/zd/kx/bh/?bh=9" target="_blank">9</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/661F.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20ED6.svg"><span class="k_txt">𠻖</span>曐<img class="lazy k_img" data-original="//img.zdic.net/song/cn/24F5B.svg"><span class="k_txt">𤽛</span>皨【唐韻】【集韻】【韻會】桑經切【正韻】先靑切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音腥。【說文】萬物之精，上爲列星。从晶生聲。一曰象形。从口。古口復注中，故與日同。【釋名】星，散也，列位布散也。【書&middot;堯典】曆象日月星辰。【傳】星，四方中星。</p><p>又【洪範】五紀，四曰星辰。【傳】二十八宿迭見，以敘節氣。【又】庶民惟星，星有好風，星有好雨。【傳】星，民象，箕星好風，畢星好雨。【史記&middot;天官書】星者，金之散氣。【註】五星五行之精，衆星列布，體生於地，精成於天，列居錯行，各有所屬。在野象物，在朝象官，在人象事。【前漢&middot;天文志】經星常宿中外官，凡百七十八名，積數七百八十三星，皆有州國官宮物類之象。【淮南子&middot;天文訓】日月之淫氣精者爲星辰。</p><p>又星星，猶點點也。【謝靈運詩】星星白髮垂。</p><p>又草名。戴星、文星、流星，皆穀精草別名。【本草綱目】此草生穀田中，莖頭小白花，點點如亂星。</p><p>又姓。【廣韻】《羊氏家傳》曰：南陽太守羊續，娶濟北星重女。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="661F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=晶">晶</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">曐</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“星”字头，请参考“<a href="/hans/曐">曐</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=晶">晶</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/66D0.svg">                          <p>萬物之精，上爲列星。从晶生聲。一曰象形。从口，古口復注中，故與日同。<img class="swtimg" src="//img.zdic.net/swxz/66D0_1.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20ED6.svg"><span class="k_txt">𠻖</span>，古文星。<img class="swtimg" src="//img.zdic.net/swxz/66D0_2.svg" />星，曐或省。桑經切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/66D0_2590.svg" /><span class="swbf">(曐)</span><span class="ywyy">萬物之精。上爲列星。</span><span class="swdz">管子云：凡物之精，此則爲生。下生五榖，上爲列星。流於天地之閒謂之鬼神，藏於胷中謂之聖人。星之言散也，引伸爲碎散之偁。</span><span class="ywyy">从晶。从生聲。</span><span class="swdz">桑經切。十一部。</span><span class="ywyy">一曰象形。从○。</span><span class="swdz">从三○故曰象形也。大徐○作囗，誤。</span><span class="ywyy">古○復注中，故與日同。</span><span class="swdz">古文从三○，而或復丨其中，則與晶相似矣。依此說則當入生部，解云从生，象形。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/66D0_2591.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20ED6.svg"><span class="k_txt">𠻖</span>)</span><span class="ywyy">古文。</span><span class="swdz">所謂象形从○。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/66D0_2592.svg" /><span class="swbf">(星)</span><span class="ywyy">或省。</span><span class="swdz">春秋說題辭云：星之爲言精也，陽之榮也。陽精爲日，日分爲星，故其字日生爲星。依此則又當入日部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="661F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">星</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ɕiŋ˥ <span class="z_ts4">唐代读音</span>  *seng<span class="z_ts4">日语读音</span>  HOSHI<span class="z_ts4">韩语罗马</span>  SENG<span class="z_ts4">现代韩语</span>  성<span class="z_ts3">越南语</span>  tinh</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] sin1 [客英字典] sen1 sin1 siang1 [台湾四县腔] sen1 sin1 sang1 siang1 [梅县腔] sen1 siang1 sin1 [陆丰腔] sen1 [客语拼音字汇] sang1 sen1 xin1 [海陆腔] sen1 sin1 sang1 siang1 [宝安腔] sin1<span class="z_ts2">粤语</span>  seng1 sing1</p>						<p><span class="z_ts3">近代音</span>  心母    庚青韻    平聲陰    星小空；<span class="z_ts3">中古音</span>  心母    青韻    平聲    星小韻    桑經切    四等    開口；<span class="z_ts3">上古音</span>  黄侃系统：心母    青部   ；王力系统：心母    耕部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/星">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/星">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/星">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/星">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/星">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/星">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/星">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/星">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/星">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/星">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/星">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/星">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/星">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">星</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/星"><img data-original="//img.zdic.net/zy/jiaguwen/42_EE92.svg" class="lazy ypic"><span>「星」 乙6386反</span><span>合11506反</span></a></td><td><a href="/zd/zx/jw/星"><img data-original="//img.zdic.net/zy/jinwen/32_EFDA.svg" class="lazy ypic"><span>「星」 麓伯星父簋</span><span>西周</span><span></span></a></td><td><a href="/zd/zx/cx/星"><img data-original="//img.zdic.net/zy/chuwenzi/56_EFD6.svg" class="lazy ypic"><span>「星」 九.56.79</span></a></td><td><a href="/zd/zx/xz/星"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E5AE.svg" class="lazy ypic"><span>「星」 說文古文</span></a></td><td><a href="/zd/zx/qx/星"><img data-original="//img.zdic.net/zy/qinwenzi/71_E721.svg" class="lazy ypic"><span>「星」 睡.日乙41</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/星" target="_blank"><img data-original="//img.zdic.net/kai/tw/661F.svg" class="lazy ypic"><span>「星」</span></a></td></tr><tr><td><a href="/zd/zx/jg/星"><img data-original="//img.zdic.net/zy/jiaguwen/42_EE94.svg" class="lazy ypic"><span>「星」 乙6672</span><span>合11498</span></a></td><td></td><td><a href="/zd/zx/cx/星"><img data-original="//img.zdic.net/zy/chuwenzi/52_EDCE.svg" class="lazy ypic"><span>「星」 帛乙1.21</span></a></td><td><a href="/zd/zx/xz/星"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E5AD.svg" class="lazy ypic"><span>「星」 說文‧晶部</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/星"><img data-original="//img.zdic.net/zy/jiaguwen/42_EE96.svg" class="lazy ypic"><span>「星」 前7.26.3</span><span>合11501</span></a></td><td></td><td></td><td><a href="/zd/zx/xz/星"><img data-original="//img.zdic.net/zy/xiaozhuan/27_661F.svg" class="lazy ypic"><span>「星」 說文或體</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/星">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/星">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/星">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/星">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/星">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/星">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/661F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/661F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/661F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/661F.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/661F.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㽮' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3F6E.svg'><span>㽮</span></a></div> <div class='zx'><a href='/hans/曐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/66D0.svg'><span>曐</span></a></div> <div class='zx'><a href='/hans/皨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/76A8.svg'><span>皨</span></a></div> <div class='zx'><a href='/hans/𠻖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20ED6.svg'><span>𠻖</span></a></div> <div class='zx'><a href='/hans/𤯢' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24BE2.svg'><span>𤯢</span></a></div> <div class='zx'><a href='/hans/𤽛' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24F5B.svg'><span>𤽛</span></a></div> <div class='zx'><a href='/hans/𤾪' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24FAA.svg'><span>𤾪</span></a></div> <div class='zx'><a href='/hans/𣅨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23168.svg'><span>𣅨</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6176" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7287">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/皨">皨(xing1)</a></li><li><a href="/hans/曐">曐(xing1)</a></li><li><a href="/hans/興">興(xing1)</a></li><li><a href="/hans/煋">煋(xing1)</a></li><li><a href="/hans/觪">觪(xing1)</a></li><li><a href="/hans/騂">騂(xing1)</a></li><li><a href="/hans/垶">垶(xing1)</a></li><li><a href="/hans/謃">謃(xing1)</a></li><li><a href="/hans/骍">骍(xing1)</a></li><li><a href="/hans/篂">篂(xing1)</a></li><li><a href="/hans/兴">兴(xing1)</a></li><li><a href="/hans/瑆">瑆(xing1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/晙">晙</a></li><li><a href="/hans/昵">昵</a></li><li><a href="/hans/㫾">㫾</a></li><li><a href="/hans/暫">暫</a></li><li><a href="/hans/旻">旻</a></li><li><a href="/hans/昦">昦</a></li><li><a href="/hans/昻">昻</a></li><li><a href="/hans/旵">旵</a></li><li><a href="/hans/旫">旫</a></li><li><a href="/hans/昄">昄</a></li><li><a href="/hans/晚">晚</a></li><li><a href="/hans/暑">暑</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/柙">柙</a></li><li><a href="/hans/枳">枳</a></li><li><a href="/hans/陖">陖</a></li><li><a href="/hans/茈">茈</a></li><li><a href="/hans/䍂">䍂</a></li><li><a href="/hans/尛">尛</a></li><li><a href="/hans/帞">帞</a></li><li><a href="/hans/䒼">䒼</a></li><li><a href="/hans/恀">恀</a></li><li><a href="/hans/㛂">㛂</a></li><li><a href="/hans/兪">兪</a></li><li><a href="/hans/牴">牴</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">危楼高百尺，手可摘<span>星</span>辰。</div><div class="gscdr">唐·李白 《夜宿山寺》</div><div class="gscdl">微微风簇浪，散作满河<span>星</span>。</div><div class="gscdr">清·查慎行 《舟夜书所见》</div><div class="gscdl">七八个<span>星</span>天外，两三点雨山前。旧时茅店社林边。路转溪桥忽见。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>星</span>汉灿烂，若出其里。</div><div class="gscdr">汉·曹操 《观沧海》</div><div class="gscdl">若屈伸呼吸，终日在天中行止，奈何忧崩坠乎？其人曰：天果积气，日月<span>星</span>宿，不当坠邪？晓之者曰：日月<span>星</span>宿，亦积气中之有光耀者，只使坠，亦不能有所中伤。</div><div class="gscdr">《列子》《杞人忧天》</div><div class="gscdl">天接云涛连晓雾。<span>星</span>河欲转千帆舞。</div><div class="gscdr">宋·李清照 《渔家傲》</div><div class="gscdl">然则北通巫峡，南极潇湘，迁客骚人，多会于此，览物之情，得无异乎？若夫霪雨霏霏，连月不开，阴风怒号，浊浪排空；日<span>星</span>隐曜，山岳潜形；商旅不行，樯倾楫摧；薄暮冥冥，虎啸猿啼。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div><div class="gscdl">夫专诸之刺王僚也，彗<span>星</span>袭月；聂政之刺韩傀也，白虹贯日；要离之刺庆忌也，仓鹰击于殿上。</div><div class="gscdr">西汉·刘向 《唐雎不辱使命》</div><div class="gscdl">辛苦遭逢起一经，干戈寥落四周<span>星</span>。</div><div class="gscdr">宋·文天祥 《过零丁洋》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=6176"></script>
+</body>
+</html>

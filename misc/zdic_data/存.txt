@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>存的解释|存的意思|汉典“存”字的基本解释</title>
+<meta name="title" content="存的解释|存的意思|汉典“存”字的基本解释">
+<meta property="og:title" content="“存”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“存”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“存”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/存" />
+<link rel="canonical" href="//www.zdic.net/hans/存" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/存" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/存" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/存" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/存">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/存">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5B58.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5B58.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">cún<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“存”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cún.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄘㄨㄣˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“存”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘㄨㄣˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=子" target="_blank">  子</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_ytz2"><a href='/hans/侟' target=_blank>侟</a>  <a href='/hans/𠩯' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20A6F.svg'><span class='ytz_txt'>𠩯</span></a>  <a href='/hans/𡥂' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21942.svg'><span class='ytz_txt'>𡥂</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5B58</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>132521</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>dhbd</p></td>                            <td class="dsk_2_1"><p>klnd</p></td>                            <td class="dsk_2_1"><p>gdiy</p></td>                            <td class="dsk_2_1"><p>40247</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">cún<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“存”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cún.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄘㄨㄣˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“存”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘㄨㄣˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=子" target="_blank">子</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">统一码</span> 5B58<span class="z_ts2">笔顺</span> 132521                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5B58_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=3417" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>存</strong></p><p><span class="dicpy">cún  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/cún.mp3"></a></span>  ㄘㄨㄣˊ</span></p><ol><li>东西在那里，人活着：～在。～亡。生～。</li><li>保留，留下：保～。留～。～照。～疑。去伪～真。</li><li>寄放：寄～。</li><li>停聚：～水。</li><li>怀有，怀着：～心。不～任何奢望。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> exist, live, be; survive; remain</p><p><span class="z_ts2">德语</span> Ablagerung, Speicher, Unterhalt  (S)​,bestehen, überleben  (V)​,sparen  (V)</p><p><span class="z_ts2">法语</span> exister,subsister,vivre,conserver,garder,mettre en réserve,déposer,consigner,nourrir,avoir</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>存</strong> <span class="dicpy">cún</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/cún.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (形声。本义:生存;存在)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[live;exist]</span></p><p><span class="diczx1">存，存在也。——<span class="smcs">《尔雅》</span>。注:<span class="yhcs">“存即在。”</span></span></p><p><span class="diczx1">有天子存。——<span class="smcs">《公羊传·隐公三年》</span></span></p><p><span class="diczx1">虽存乎人者。——<span class="smcs">《孟子·告子上》</span></span></p><p><span class="diczx1">以其存心也。——<span class="smcs">《孟子·离娄下》</span></span></p><p><span class="diczx1">召寇则无以存矣。——<span class="smcs">《吕氏春秋·应同》</span></span></p><p><span class="diczx1">虽我之死，有子存焉。——<span class="smcs">《列子·汤问》</span></span></p><p><span class="diczx1">而吾以捕蛇独存。——</span><span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p><p><span class="cino">(3)</span> 又如:存济(存活;活命);存殁(活着的和死去的)</p><p><span class="cino">(4)</span> 恤问，劳问 <span class="encs">[comfort;console;soothe]</span></p><p><span class="diczx1">存，恤问也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">无一介之使以存之。——<span class="smcs">《战国策·秦策》</span>。注:<span class="yhcs">“劳问也。”</span></span></p><p><span class="cino">(5)</span> 又如:存候(存问，问候);存问(安慰，问候);存抚(存问安抚);存养(安抚养育)</p><p><span class="cino">(6)</span> 访问;问候 <span class="encs">[visit;express regards and concern for]</span></p><p><span class="diczx1">存问长老。——<span class="smcs">《汉书·文帝纪》</span>。注:<span class="yhcs">“省视也。”</span></span></p><p><span class="diczx1">臣乃市井鼓刀者，而公子亲数存之。——<span class="smcs">《史记·魏公子列传》</span></span></p><p><span class="cino">(7)</span> 又如:存见(探望慰问);存访(探望问候);存谕(存问、慰谕)</p><p><span class="cino">(8)</span> 抚育;保护 <span class="encs">[foster;nurture;protect]</span>。如:存神(存养精神);存孤(恤养孤儿)</p><p><span class="cino">(9)</span> 思念;怀念 <span class="encs">[miss]</span></p><p><span class="diczx1">五曰存爱。——<span class="smcs">《礼记·大传》</span></span></p><p><span class="diczx1">其存君兴国而欲反复之，一篇之中致志焉。——<span class="smcs">《史记·屈原贾生列传》</span></span></p><p><span class="cino">(10)</span> 又如:存眷(思念，关注);存想(考虑，思索，想像);存注(意念，注意力);存追(追念，追慕)</p><p><span class="cino">(11)</span> 关心;关怀 <span class="encs">[concern]</span>。如:存神(留神);存顾(关心照顾);存覆(关怀爱护);存润(关怀接济)</p><p><span class="cino">(12)</span> 储存;保存;保全 <span class="encs">[store;preserve]</span></p><p><span class="diczx1">或仅存姓名而无事迹。——</span><span class="diczx2">孙文</span><span class="smcs">《黄花冈七十二烈士事略·序》</span></p><p><span class="cino">(13)</span> 又如:存志(保全志向);封存(封闭起来保存);存安(使之保全)</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/存案">存案</a></span><span class="crefe"><a href="/hans/存查">存查</a></span><span class="crefe"><a href="/hans/存车处">存车处</a></span><span class="crefe"><a href="/hans/存车线">存车线</a></span><span class="crefe"><a href="/hans/存储">存储</a></span><span class="crefe"><a href="/hans/存档">存档</a></span><span class="crefe"><a href="/hans/存底儿">存底儿</a></span><span class="crefe"><a href="/hans/存而不论">存而不论</a></span><span class="crefe"><a href="/hans/存放">存放</a></span><span class="crefe"><a href="/hans/存抚">存抚</a></span><span class="crefe"><a href="/hans/存根">存根</a></span><span class="crefe"><a href="/hans/存户">存户</a></span><span class="crefe"><a href="/hans/存活">存活</a></span><span class="crefe"><a href="/hans/存货">存货</a></span><span class="crefe"><a href="/hans/存款">存款</a></span><span class="crefe"><a href="/hans/存款单">存款单</a></span><span class="crefe"><a href="/hans/存栏">存栏</a></span><span class="crefe"><a href="/hans/存粮">存粮</a></span><span class="crefe"><a href="/hans/存取">存取</a></span><span class="crefe"><a href="/hans/存入">存入</a></span><span class="crefe"><a href="/hans/存食">存食</a></span><span class="crefe"><a href="/hans/存亡">存亡</a></span><span class="crefe"><a href="/hans/存亡未卜">存亡未卜</a></span><span class="crefe"><a href="/hans/存问">存问</a></span><span class="crefe"><a href="/hans/存息">存息</a></span><span class="crefe"><a href="/hans/存心">存心</a></span><span class="crefe"><a href="/hans/存恤">存恤</a></span><span class="crefe"><a href="/hans/存疑">存疑</a></span><span class="crefe"><a href="/hans/存在">存在</a></span><span class="crefe"><a href="/hans/存在">存在</a></span><span class="crefe"><a href="/hans/存照">存照</a></span><span class="crefe"><a href="/hans/存折">存折</a></span><span class="crefe"><a href="/hans/存贮">存贮</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>存</rb></rbc><rtc><rt>ㄘㄨㄣˊ</rt></rtc><rtc><rt>cún <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5539.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">省视、问候。</span><span class="gc_yy">《史记·卷七七·魏公子传》：「臣迺市井鼓刀屠者，而公子亲数<b>存</b>之。」</span><span class="gc_yy">《明史·卷一·太祖本纪》：「罢诸军需，存恤贫无告者，民大悦。」</span></p></li><li><p class="def"><span class="gc_sy">存在、生<b><b>存</b></b>。</span><span class="gc_lz">如：「共<b>存</b>」、「生死存亡」。</span><span class="gc_yy">唐·杜甫〈无家别〉诗：「<b>存</b>者无消息，死者为尘泥。」</span></p></li><li><p class="def"><span class="gc_sy">寄放、储蓄。</span><span class="gc_lz">如：「寄<b>存</b>」、「存款」。</span></p></li><li><p class="def"><span class="gc_sy">有、心怀。</span><span class="gc_lz">如：「存心不良」、「心<b>存</b>仁厚」、「你<b>存</b>什么心？」</span></p></li><li><p class="def"><span class="gc_sy">保留、留下。</span><span class="gc_lz">如：「存疑」、「去伪存真」、「硕果仅<b>存</b>」。</span></p></li><li><p class="def"><span class="gc_sy">停滞。</span><span class="gc_yy">《红楼梦·第二○回》：「那宝玉正恐黛玉饭后贪眠，一时<b>存</b>了食。」</span></p></li><li><p class="def"><span class="gc_sy">思念。</span><span class="gc_yy">《诗经·郑风·出其东门》：「出其东门，有女如云。虽则如云，匪我思<b>存</b>。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">姓。如宋代有<b><b>存</b></b>光孙。</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5B58_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=子" target="_blank">子</a>】
+                              存·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=子" target="_blank">子</a>】
+                              存·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：3</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5B58.svg">						  <p>〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20A6F.svg'><span class='k_txt'>𠩯</span>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>徂尊切，音蹲。【爾雅·釋詁】存，在也，察也。【疏】書舜典，在璿璣玉衡，以齊七政。存卽在也。【易·繫辭】成性存存。【孟子】操則存，舍則亡。【禮·祭義】致愛則存。【註】孝子致極愛親之心，則若親之存也。</p><p>又【說文】恤問也。【禮·王制】八十月告存。【集說】告猶問也，君每月使人致膳，告問存否也。</p><p>又【月令】養幼少，存諸孤。</p><p>又省也。【周禮·天官】大喪存奠彝。【註】欲見其所奠彝朝夕存省之意也。</p><p>又叶昨先切，音前。【楚辭·遠遊】壹氣孔神兮，於中夜存。虛以待之兮，無爲之先。</p><p>又叶匠鄰切，音秦。【揚雄·解嘲】得士者富，失士者貧。矯翼厲翮，恣意所存。　【說文】从子才聲。俗作存。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5B58_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=子">子</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=子">子</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5B58.svg">                          <p>恤問也。从子才聲。徂尊切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5B58_1406.svg"  /><span class="swbf">(存)</span><span class="ywyy">恤問也。</span><span class="swdz">恤、<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2274A.svg'><span class='k_txt'>𢝊</span>也。收也。爾雅曰。在、存也。在、存、省、士、察也。今人於在存字皆不得其本義。</span><span class="ywyy">从子、在省。</span><span class="swdz">大徐本作才聲。今小徐本作在聲。依韵會所引正。楚金注曰。在亦存也。會意。徂尊切。十三部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5B58_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tsʰuən˧˥ <span class="z_ts4">唐代读音</span>  *dzuən<span class="z_ts4">日语读音</span>  TAMOTSU ARU TOU<span class="z_ts4">韩语罗马</span>  CON<span class="z_ts4">现代韩语</span>  존<span class="z_ts3">越南语</span>  tồn</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] sun2 cun2 [海陆腔] cun2 sun2 [客语拼音字汇] sun2 [陆丰腔] sun3 [客英字典] sun2 cun2 [宝安腔] sun2 [沙头角腔] sun2 [台湾四县腔] cun2 sun2 [东莞腔] sun2<span class="z_ts2">粤语</span>  cyun4</p>						<p><span class="z_ts3">近代音</span>  清母    真文韻    平聲陽    存小空；<span class="z_ts3">中古音</span>  從母    魂韻    平聲    存小韻    徂尊切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：從母    痕部   ；王力系统：從母    文部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/存">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/存">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/存">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/存">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/存">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/存">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/存">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/存">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/存">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/存">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/存">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/存">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">存</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/存"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5B58.svg" class="lazy ypic"><span>「存」 說文‧子部</span></a></td><td><a href="/zd/zx/qx/存"><img data-original="//img.zdic.net/zy/qinwenzi/71_EEF4.svg" class="lazy ypic"><span>「存」 睡.秦161</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/存" target="_blank"><img data-original="//img.zdic.net/kai/tw/5B58.svg" class="lazy ypic"><span>「存」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/存">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/存">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/存">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5B58.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5B58.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5B58.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5B58.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5B58.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/侟' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4F9F.svg'><span>侟</span></a></div> <div class='zx'><a href='/hans/𠩯' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20A6F.svg'><span>𠩯</span></a></div>  <div class='zx'><a href='/hans/𡥂' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/21942.svg'><span>𡥂</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="3417" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4686">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/侟">侟(cun2)</a></li><li><a href="/hans/澊">澊(cun2)</a></li><li><a href="/hans/壿">壿(cun2)</a></li><li><a href="/hans/拵">拵(cun2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/子">子</a></li><li><a href="/hans/孟">孟</a></li><li><a href="/hans/孓">孓</a></li><li><a href="/hans/孢">孢</a></li><li><a href="/hans/孜">孜</a></li><li><a href="/hans/㝅">㝅</a></li><li><a href="/hans/㝂">㝂</a></li><li><a href="/hans/㜿">㜿</a></li><li><a href="/hans/孰">孰</a></li><li><a href="/hans/孻">孻</a></li><li><a href="/hans/孶">孶</a></li><li><a href="/hans/孞">孞</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/匡">匡</a></li><li><a href="/hans/㐓">㐓</a></li><li><a href="/hans/乔">乔</a></li><li><a href="/hans/䢹">䢹</a></li><li><a href="/hans/扢">扢</a></li><li><a href="/hans/迉">迉</a></li><li><a href="/hans/圳">圳</a></li><li><a href="/hans/纫">纫</a></li><li><a href="/hans/虍">虍</a></li><li><a href="/hans/㠷">㠷</a></li><li><a href="/hans/迈">迈</a></li><li><a href="/hans/奾">奾</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">箫鼓追随春社近，衣冠简朴古风<span>存</span>。</div><div class="gscdr">宋·陆游 《游山西村》</div><div class="gscdl">“虽我之死，有子<span>存</span>焉；子又生孙，孙又生子；子又有子，子又有孙；子子孙孙无穷匮也，而山不加增，何苦而不平？”河曲智叟亡以应。</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl">海内<span>存</span>知己，天涯若比邻。</div><div class="gscdr">唐·王勃 《送杜少府之任蜀州》</div><div class="gscdl">秦王谓唐雎曰：“寡人以五百里之地易安陵，安陵君不听寡人，何也？且秦灭韩亡魏，而君以五十里之地<span>存</span>者，以君为长者，故不错意也。”</div><div class="gscdr">西汉·刘向 《唐雎不辱使命》</div><div class="gscdl">秦王色挠，长跪而谢之曰：“先生坐！何至于此！寡人谕矣：夫韩、魏灭亡，而安陵以五十里之地<span>存</span>者，徒以有先生也。”</div><div class="gscdr">西汉·刘向 《唐雎不辱使命》</div><div class="gscdl">先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚危急<span>存</span>亡之秋也。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=3417"></script>
+</body>
+</html>

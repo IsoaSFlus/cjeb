@@ -1,0 +1,628 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>步的解释|步的意思|汉典“步”字的基本解释</title>
+<meta name="title" content="步的解释|步的意思|汉典“步”字的基本解释">
+<meta name="keywords" content="上：止，下：𣥂。 " /><meta property="og:title" content="“步”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“步”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“步”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/步" />
+<link rel="canonical" href="//www.zdic.net/hans/步" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/步" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/步" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/步" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/步">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/步">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6B65.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6B65.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">bù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“步”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bù.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄅㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“步”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄨˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=止" target="_blank">  止</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_ytz2"><a href='/hans/埠' target=_blank>埠</a> <a href='/hans/歨' target=_blank>歨</a> <a href='/hans/𡵯' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21D6F.svg'><span class='ytz_txt'>𡵯</span> <a href='/hans/𣥶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23976.svg'><span class='ytz_txt'>𣥶</span> <a href='/hans/𩣝' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/298DD.svg'><span class='ytz_txt'>𩣝</span> <a href='/hans/歩' target=_blank>歩</a> <a href='/hans/踄' target=_blank>踄</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6B65</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>2121233</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>hir|hhr</p></td>                            <td class="dsk_2_1"><p>ylmh</p></td>                            <td class="dsk_2_1"><p>iiko</p></td>                            <td class="dsk_2_1"><p>21201</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">bù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“步”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bù.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄅㄨˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“步”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄨˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=止" target="_blank">止</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 6B65<span class="z_ts2">笔顺</span> 2121233                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6B65_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=7526" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>步</strong></p>
+<p><span class="dicpy">b&ugrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&ugrave;.mp3"></a></span>  ㄅㄨˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>行走：～兵。～行（<span class="dicpy">x&iacute;ng </span>）。徒～。信～。闲～。固～自封。望而却～。</li>
+	<li>踏着别人的足迹走，追随：～韵。～其后尘。～武前贤。</li>
+	<li>行走时两脚的距离：～伐。～测。寸～难行。</li>
+	<li>事情进行的程序、阶段、程度：～骤。初～。</li>
+	<li>中国旧制长度单位，一步等于五尺。</li>
+	<li>同&ldquo;<a href="/hans/埠">埠</a>&rdquo;，多用于地名。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> step, pace; walk, stroll</p><p><span class="z_ts2">德语</span> Schritt, Gang  (Arch)</p><p><span class="z_ts2">法语</span> pas (n.)​,étape,état,situation,aller à pied,marche</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>步</strong> <span class="dicpy">b&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&ugrave;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。甲骨文字形，由两只脚的象形符号重迭而成，表示两脚一前一后走路。本义:行走)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[walk]</span></p>
+<p><span class="diczx1">步，行也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">跬步而不敢忘，孝也。&mdash;&mdash;<span class="smcs">《礼记&middot;祭义》</span></span></p>
+<p><span class="diczx1">王朝步自</span><span class="diczx2">周</span>。&mdash;&mdash;<span class="smcs">《书&middot;召诰》</span></p>
+<p><span class="diczx1">步路马必中道。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">见夫人之步马者。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十六年》</span></span></p>
+<p><span class="diczx1">步余马兮山皋。&mdash;&mdash;<span class="smcs">《楚辞&middot;屈原&middot;涉江》</span></span></p>
+<p><span class="diczx1">晚食以当肉，安步以当车。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策四》</span></span></p>
+<p><span class="diczx3">又如:止步;信步(随意走动;散步);步步虚心(时时虚怀若谷，毫不自满);步阁(步廊，走廊);步趋(行走)</span></p>
+<p><span class="cino">(3)</span> 以脚步测量远近 <span class="encs">[measure]</span>。</p>
+<p><span class="diczx3">如:步一步两房之间的距离;步景(测量日影);步量(用脚步测量);步弓(丈量土地用的一种木制器具)</span></p>
+<p><span class="cino">(4)</span> 按照，跟着;跟随 <span class="encs">[follow]</span></p>
+<p><span class="diczx2">柳亚子</span>先生即席赋浣溪沙，因步其韵奉和。&mdash;&mdash; <span class="diczx2">毛泽东</span><span class="smcs">《浣溪沙》</span></p>
+<p><span class="diczx3">又如:步人后尘;步武(追随前人脚步而行);步趾(犹追随);步趋(追随，效法)</span></p>
+<p><span class="cino">(5)</span> 踏 <span class="encs">[step on]</span>。</p>
+<p><span class="diczx3">如:步斗(步玄斗。道士礼拜星宿、召遣神灵的一种动作。其步行转折，据说宛如踏在罡星斗宿之上);步舞(踏步起舞)</span></p>
+<p><span class="cino">(6)</span> 推算;测算 <span class="encs">[calculate;reckon]</span></p>
+<p><span class="diczx1">迎日步气。&mdash;&mdash;<span class="smcs">《时令论上》</span></span></p>
+<p><span class="diczx3">又如:步天(测算天体);步漏(推算时刻);步历(推算岁时节候)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>步</strong> <span class="dicpy">b&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&ugrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 脚步，步伐 <span class="encs">[step]</span></p>
+<p><span class="diczx1">纤纤作细步。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">盈盈公府步(方步)，冉冉府中趋。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;陌上桑》</span></span></p>
+<p><span class="diczx3">又如:方步(斯斯文文的大而慢的步子);放步(迈开大步);阔步(迈大步);碎步(小而快的步子);纵步(放开脚步)</span></p>
+<p><span class="cino">(2)</span> 古时一举足叫跬(半步);两足各跨一次叫步。今指行走时两脚之间的距离 <span class="encs">[pace]</span></p>
+<p><span class="diczx1">五步一楼，十步一阁。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜牧</span><span class="smcs">《阿房宫赋》</span></p>
+<p><span class="diczx1">不积跬步，无以至千里。&mdash;&mdash;<span class="smcs">《荀子&middot;劝学》</span></span></p>
+<p><span class="diczx3">又如:跑步;大踏步;步伐(行走的步子);朝门走了两步，停了下来</span></p>
+<p><span class="cino">(3)</span> 通常是连续发生的一次行动、一个步骤 <span class="encs">[step;procedure]</span>。</p>
+<p><span class="diczx3">如:下一步怎么办;初步(第一阶段)</span></p>
+<p><span class="cino">(4)</span> 步兵(诸兵种之一) <span class="encs">[infantry]</span></p>
+<p><span class="diczx1">诸人徒见</span><span class="diczx2">操</span>书言水步八十万而各恐慑。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx3">又如:步士(步兵);步队(步兵队伍);步骑(步兵与骑兵);步哨(专任警戒的士兵)</span></p>
+<p><span class="cino">(5)</span> 时运，命运 <span class="encs">[luck]</span></p>
+<p><span class="diczx1">於乎有哀，国步斯频。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;桑柔》</span></span></p>
+<p><span class="diczx3">又如:不幸落到这一步;后步(余地);地步(处境;景况)</span></p>
+<p><span class="cino">(6)</span> 埠 <span class="encs">[dock]</span>，水边停船处</p>
+<p><span class="diczx1">宅有新屋，步有新船。&mdash;&mdash;</span><span class="diczx2">韩愈</span><span class="smcs">《柳州罗池庙碑》</span></p>
+<p><span class="diczx1">江之浒，凡舟可縻而上下者曰步。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《铁炉步志》</span></p>
+<p><span class="cino">(7)</span> 姓</p>
+<p>◎ <strong>步</strong> <span class="dicpy">b&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&ugrave;.mp3"></a></span> </p>
+<p>〈量〉</p>
+<p>长度单位，历代不一，周代以八尺为一步，秦代以六尺，为一步</p>
+<p><span class="diczx1">舆六尺，六尺为步。&mdash;&mdash;<span class="smcs">《史记&middot;秦始皇本纪》</span></span></p>
+<p><span class="diczx1">骐骥一跃，不能十步。&mdash;&mdash;<span class="smcs">《荀子&middot;劝学》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/步兵">步兵</a></span><span class="crefe"><a href="/hans/步步进逼">步步进逼</a></span><span class="crefe"><a href="/hans/步步高升">步步高升</a></span><span class="crefe"><a href="/hans/步步为营">步步为营</a></span><span class="crefe"><a href="/hans/步调">步调</a></span><span class="crefe"><a href="/hans/步伐">步伐</a></span><span class="crefe"><a href="/hans/步后尘">步后尘</a></span><span class="crefe"><a href="/hans/步话机">步话机</a></span><span class="crefe"><a href="/hans/步履">步履</a></span><span class="crefe"><a href="/hans/步履如飞">步履如飞</a></span><span class="crefe"><a href="/hans/步枪">步枪</a></span><span class="crefe"><a href="/hans/步趋">步趋</a></span><span class="crefe"><a href="/hans/步入">步入</a></span><span class="crefe"><a href="/hans/步哨">步哨</a></span><span class="crefe"><a href="/hans/步师">步师</a></span><span class="crefe"><a href="/hans/步态">步态</a></span><span class="crefe"><a href="/hans/步态蹒跚">步态蹒跚</a></span><span class="crefe"><a href="/hans/步行">步行</a></span><span class="crefe"><a href="/hans/步韵">步韵</a></span><span class="crefe"><a href="/hans/步障">步障</a></span><span class="crefe"><a href="/hans/步骤">步骤</a></span><span class="crefe"><a href="/hans/步子">步子</a></span><span class="crefe"><a href="/hans/步走">步走</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>步</rb></rbc><rtc><rt>ㄅㄨˋ</rt></rtc><rtc><rt>b&ugrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0290.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">行、走，用腳走路。</span><span class="gc_lz">如：「散<b>步</b>」、「平步青雲」、「安步當車」。</span><span class="gc_yy">《書經&middot;武成》：「王朝<b>步</b>自周，于征伐商。」</span><span class="gc_yy">《莊子&middot;田子方》：「夫子<b>步</b>亦<b>步</b>，夫子趨亦趨。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">追隨、跟從、仿效。</span><span class="gc_lz">如：「<b>步</b>其後塵」。</span><span class="gc_yy">《國語&middot;周語下》：「目以處義，足以<b>步</b>目，今晉侯視遠而足高，目不在體，而足不<b>步</b>目，其心必異矣。」</span><span class="gc_yy">明&middot;湯顯祖《南柯記&middot;第四二齣》：「<b>步</b>影尋蹤，皆如所夢。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">推算。</span><span class="gc_yy">《文選&middot;陸機&middot;演連珠五○首之四七》：「是以儀天<b>步</b>晷，而脩短可量。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">腳步，走路時兩腳前後的距離。</span><span class="gc_lz">如：「小碎<b>步</b>」、「輕移蓮<b>步</b>」、「寸步不離」。</span><span class="gc_yy">《孟子&middot;梁惠王上》：「或百<b>步</b>而後止，或五十<b>步</b>而後止。」</span><span class="gc_yy">《荀子&middot;勸學》：「故不積蹞<b>步</b>，無以至千里。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">量詞：➊ ​ 古代計算長度的單位。歷代規定不一，或為六尺，或為六尺四寸。《新唐書&middot;卷三七&middot;地理志一》：「皇城長千九百一十五步，廣千二百步。」➋ ​ 計算邁步次數的單位。如：「向前走五步。」➌ ​ 計算事情步驟的單位。如：「做任何事第一步是要先打好基礎。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">階段。表示程度。</span><span class="gc_lz">如：「走一<b>步</b>，算一<b>步</b>。」</span><span class="gc_yy">《紅樓夢&middot;第六七回》：「我任憑怎麼沒見世面，也到不了這步田地，因送的東西少，就生氣傷心。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">所處的境況、境地。</span><span class="gc_lz">如：「少時不努力，才落到這一地<b>步</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">氣運、時運。</span><span class="gc_lz">如：「國<b>步</b>惟艱」。</span><span class="gc_yy">《詩經&middot;小雅&middot;白華》：「天<b>步</b>艱難，之子不猶。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">碼頭，水邊泊船的地方。</span><span class="gc_yy">南朝梁&middot;任昉《述異記&middot;卷下》：「吳江中又有魚<b>步</b>、龜<b>步</b>，湘中有靈妃<b>步</b>。」</span><span class="gc_yy">唐&middot;韓愈〈正議大夫尚書左丞孔公墓誌銘〉：「蕃舶之至泊<b>步</b>，有下碇之稅。」</span><span class="gc_yx">通「埠」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如三國時吳國有步騭。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6B65_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集下" target="_blank">辰集下</a>】【<a href="/zd/kx/?zm=辰集下&amp;bs=止" target="_blank">止</a>】
+                              步·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集下" target="_blank">辰集下</a>】【<a href="/zd/kx/?zm=辰集下&amp;bs=止" target="_blank">止</a>】
+                              步·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：3</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6B65.svg">						  <p>【唐韻】【正韻】薄故切【集韻】【韻會】蒲故切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音捕。【說文】行也。【書&middot;武成】王朝步自周。【傳】步，行也。《正義》曰：《爾雅&middot;釋宮》云：堂上謂之行，堂下謂之步。彼相對爲名耳，散則可以通，故步爲行也。【楚辭&middot;招䰟】步騎羅些。【註】乗馬爲騎，徒行爲步。</p>
+<p>又【小爾雅】跬，一舉足也。倍跬謂之步。【白虎通】人踐三尺法天地人，再舉足步備隂陽也。【周禮&middot;夏官】射人以貍步張三侯。【註】鄭司農云：貍步，謂一舉足爲步，於今爲半步。</p>
+<p>又【司馬法】六尺爲步，步百爲畝。【禮&middot;王制】古者以周尺八尺爲步，今以周尺六尺四寸爲步。【正義曰】古者八寸爲尺，周尺八尺爲步，則一步六尺四寸。【史記&middot;秦始皇紀】數以六爲紀，六尺爲步。【註】索隱曰：《管子》《司馬法》皆云六尺爲步，非獨秦制。</p>
+<p>又王制八尺爲步，今以六尺四寸爲步，步之尺數亦不同。</p>
+<p>又輦行曰步。【韻會】世稱輦車曰步輦，謂人荷而行，不駕馬也。</p>
+<p>又徐行曰步。【屈原&middot;離騷】步余馬於蘭臯兮。【說苑&middot;建本篇】走者之速，步者之遲。</p>
+<p>又促行曰趨，闊行曰步。【莊子&middot;田子方】步亦步，趨亦趨。</p>
+<p>又【任昉&middot;述異記】水際謂之步。上虞縣有石駞步，吳中有瓜步，吳江中有魚步、龜步，湘中有靈妃步。按吳楚閒謂浦爲步，語之訛耳。【水經注】贛水逕豫章郡北爲津步，步卽水渚也。【靑箱雜記】嶺南謂村市爲墟，水津爲步。</p>
+<p>又【柳宗元&middot;鐵爐步志】江之滸，凡舟可縻而上下者曰步。【韓愈&middot;孔戣墓誌】蕃舶至泊步，有下碇之稅。通作埠。今人呼船儈曰埠頭。埠音如步。</p>
+<p>又【爾雅&middot;釋樂】徒擊鼓謂之步。【疏】凡八音備作曰樂。一音獨作不得以樂名也。</p>
+<p>又人才特出謂之獨步。【晉書&middot;王坦之傳】江東獨步王文度。</p>
+<p>又馬步，謂神爲災害馬者。一曰行神。【周禮&middot;夏官&middot;校人】冬祭馬步。</p>
+<p>又人物烖害之神皆曰步。【周禮&middot;夏官&middot;校人疏】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/248E5.svg"><span class="k_txt">𤣥</span>冥之步，人鬼之步是也。</p>
+<p>又【地官&middot;族師&middot;祭酺註】酺者，爲人物烖害之神。故書酺爲步，蓋步與酺字異而音義同也。</p>
+<p>又習馬曰步馬。【左傳&middot;襄二十六年】左師見夫人之步馬者。</p>
+<p>又牽行也。【禮&middot;曲禮】步路馬必中道。</p>
+<p>又行師曰步師。【左傳&middot;僖三十三年】寡君聞吾子將步師出于敝邑。</p>
+<p>又行爵曰步爵。【禮&middot;少儀】未步爵，不嘗羞。</p>
+<p>又推歷曰步歷。【左傳&middot;文元年疏】日月轉運於天，猶如人之行步，故推歷謂之步歷。【後漢&middot;楊厚傳】就同郡鄭伯山，受河洛書及天文推步之術。【陸機&middot;演連珠】儀天步晷，而修短可量。</p>
+<p>又《律歷》，書名，五星爲五步。見【漢制考】。</p>
+<p>又運也，國運曰國步，天運曰天步。【詩&middot;小雅】國步蔑資。【又】天步艱難。</p>
+<p>又陟大位曰攺步。【周語】攺玉攺步。</p>
+<p>又步驟。【後漢&middot;曹褒傳】三五步驟，優劣殊軌。【註】《孝經鉤命決》曰：三皇步，五帝驟，三王馳。宋均註云：步謂德<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28E9A.svg"><span class="k_txt">𨺚</span>道用，日月爲步，時事彌順，日月亦驟，勤思不已，日月乃馳，是優劣也。</p>
+<p>又姓。【廣韻】晉有步場，食采於步，後因氏焉。孔子弟子有步叔乗，三國吳丞相步騭。</p>
+<p>又三字姓。【後魏書】有步六孤氏，後改爲陸氏。</p>
+<p>又西方步鹿根氏，後改爲步氏。</p>
+<p>又【北齊書】有步大汗氏。</p>
+<p>又百步，溪名。【廣輿記】在台州臨海縣，一呼惡溪。</p>
+<p>又千步，香名。【任昉&middot;述異記】南海山出千步香，佩之香聞千步。今海嵎有千步草，是其種也。《雜貢籍》曰：南郡貢千步香。</p>
+<p>又步光，劒名，見【越絕書】。</p>
+<p>又步搖，婦人首飾名。見【採蘭雜志】。【俗書正訛】从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23942.svg"><span class="k_txt">𣥂</span>，反止也。从少，非。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6B65_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=步">步</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=步">步</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6B65.svg">                          <p>行也。从止<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23942.svg"><span class="k_txt">𣥂</span>相背。凡步之屬皆从步。薄故切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6B65_3107.svg" /><span class="swbf">(步)</span><span class="ywyy">行也。</span><span class="swdz">行部曰：人之步趨也。步徐，趨疾。釋名曰：徐行曰步。</span><span class="ywyy">从止<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23942.svg"><span class="k_txt">𣥂</span>相背。</span><span class="swdz">止<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23942.svg"><span class="k_txt">𣥂</span>相竝者，上登之象。止<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23942.svg"><span class="k_txt">𣥂</span>相隨者，行步之象。相背猶相隨也。薄故切。五部。</span><span class="ywyy">凡歩之屬皆从步。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6B65_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  pu˥˧ <span class="z_ts4">唐代读音</span>  *bhò<span class="z_ts4">日语读音</span>  ARUKU AYUMU AYUMI<span class="z_ts4">韩语罗马</span>  PO<span class="z_ts4">现代韩语</span>  보<span class="z_ts3">越南语</span>  bộ</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] pu5 [沙头角腔] pu5 [东莞腔] pu5 [海陆腔] pu6 [客英字典] pu5 [台湾四县腔] pu5 [客语拼音字汇] pu4 [宝安腔] pu3 [陆丰腔] pu5<span class="z_ts2">粤语</span>  bou6</p>						<p><span class="z_ts3">近代音</span>  幫母    魚模韻    去聲    布小空；<span class="z_ts3">中古音</span>  並母    暮韻    去聲    捕小韻    薄故切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：並母    鐸部   ；王力系统：並母    鐸部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/步">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/步">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/步">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/步">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/步">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/步">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/步">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/步">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/步">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/步">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/步">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/步">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/步">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">步</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/步"><img data-original="//img.zdic.net/zy/jiaguwen/41_E7D3.svg" class="lazy ypic"><span>「步」 甲388</span><span>合34414</span></a></td><td><a href="/zd/zx/jw/步"><img data-original="//img.zdic.net/zy/jinwen/35_E803.svg" class="lazy ypic"><span>「步」 步觚</span><span>商代晚期</span><span>集成6632</span></a></td><td><a href="/zd/zx/cx/步"><img data-original="//img.zdic.net/zy/chuwenzi/51_E8B1.svg" class="lazy ypic"><span>「步」 包2.25</span></a></td><td><a href="/zd/zx/xz/步"><img data-original="//img.zdic.net/zy/xiaozhuan/27_6B65.svg" class="lazy ypic"><span>「步」 說文‧步部</span></a></td><td><a href="/zd/zx/qx/步"><img data-original="//img.zdic.net/zy/qinwenzi/71_E126.svg" class="lazy ypic"><span>「步」 睡.日乙106</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/步" target="_blank"><img data-original="//img.zdic.net/kai/tw/6B65.svg" class="lazy ypic"><span>「步」</span></a></td></tr><tr><td><a href="/zd/zx/jg/步"><img data-original="//img.zdic.net/zy/jiaguwen/41_E7D2.svg" class="lazy ypic"><span>「步」 鐵22.2</span><span>合19249</span></a></td><td><a href="/zd/zx/jw/步"><img data-original="//img.zdic.net/zy/jinwen/31_E739.svg" class="lazy ypic"><span>「步」 步爵</span><span>商代晚期</span><span>集成7474</span></a></td><td></td><td></td><td><a href="/zd/zx/qx/步"><img data-original="//img.zdic.net/zy/qinwenzi/71_E128.svg" class="lazy ypic"><span>「步」 睡.為6</span></a></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/步"><img data-original="//img.zdic.net/zy/jinwen/31_E853.svg" class="lazy ypic"><span>「步」 徏觚</span><span>商代晚期</span><span>集成6633</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/步">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/步">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/步">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/步">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/步">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/步">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6B65.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6B65.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6B65.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6B65.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/6B65.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/埠' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/57E0.svg'><span>埠</span></a></div> <div class='zx'><a href='/hans/歨' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6B68.svg'><span>歨</span></a></div> <div class='zx'><a href='/hans/𡵯' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21D6F.svg'><span>𡵯</span></a></div> <div class='zx'><a href='/hans/𣥶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23976.svg'><span>𣥶</span></a></div> <div class='zx'><a href='/hans/𩣝' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/298DD.svg'><span>𩣝</span></a></div> <div class='zx'><a href='/hans/歩' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6B69.svg'><span>歩</span></a></div> <div class='zx'><a href='/hans/踄' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8E04.svg'><span>踄</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="7526" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4457">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/餢">餢(bu4)</a></li><li><a href="/hans/咘">咘(bu4)</a></li><li><a href="/hans/䝵">䝵(bu4)</a></li><li><a href="/hans/郶">郶(bu4)</a></li><li><a href="/hans/㳍">㳍(bu4)</a></li><li><a href="/hans/埠">埠(bu4)</a></li><li><a href="/hans/踄">踄(bu4)</a></li><li><a href="/hans/㻉">㻉(bu4)</a></li><li><a href="/hans/勏">勏(bu4)</a></li><li><a href="/hans/钚">钚(bu4)</a></li><li><a href="/hans/鈈">鈈(bu4)</a></li><li><a href="/hans/吥">吥(bu4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/武">武</a></li><li><a href="/hans/歰">歰</a></li><li><a href="/hans/㱑">㱑</a></li><li><a href="/hans/㱏">㱏</a></li><li><a href="/hans/歸">歸</a></li><li><a href="/hans/此">此</a></li><li><a href="/hans/止">止</a></li><li><a href="/hans/㱖">㱖</a></li><li><a href="/hans/歯">歯</a></li><li><a href="/hans/㱕">㱕</a></li><li><a href="/hans/㱗">㱗</a></li><li><a href="/hans/歭">歭</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/杞">杞</a></li><li><a href="/hans/㕅">㕅</a></li><li><a href="/hans/抓">抓</a></li><li><a href="/hans/诃">诃</a></li><li><a href="/hans/灴">灴</a></li><li><a href="/hans/阷">阷</a></li><li><a href="/hans/戒">戒</a></li><li><a href="/hans/弝">弝</a></li><li><a href="/hans/识">识</a></li><li><a href="/hans/吶">吶</a></li><li><a href="/hans/抗">抗</a></li><li><a href="/hans/佗">佗</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=7526"></script>
+</body>
+</html>

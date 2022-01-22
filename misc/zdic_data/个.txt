@@ -1,0 +1,654 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>个的解释|个的意思|汉典“个”字的基本解释</title>
+<meta name="title" content="个的解释|个的意思|汉典“个”字的基本解释">
+<meta name="keywords" content="上：𠆢，下：丨。 " /><meta property="og:title" content="“个”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“个”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“个”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/个" />
+<link rel="canonical" href="//www.zdic.net/hans/个" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/个" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/个" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/个" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/个">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/个">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E2A.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E2A.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">gè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gè.mp3"></a></span></span></p><p><span class="z_d song">gě<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gě.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄍㄜˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄜˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄍㄜˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄜˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=人" target="_blank">  人</a></p>
+                              <p><span class="z_ts2">部外</span>  1</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/個' target=_blank>個</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/個' target=_blank>個</a> <a href='/hans/箇' target=_blank>箇</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E2A</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>342</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>whj</p></td>                            <td class="dsk_2_1"><p>ol</p></td>                            <td class="dsk_2_1"><p>odi</p></td>                            <td class="dsk_2_1"><p>80200</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">gè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gè.mp3"></a></span></span> <span class="z_d song">gě<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gě.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄍㄜˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄜˋ.mp3"></a></span></span> <span class="z_d song">ㄍㄜˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“个”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄜˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=人" target="_blank">人</a> <span class="z_ts2">部外</span> 1<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 4E2A<span class="z_ts2">笔顺</span> 342                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E2A_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=43" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">个</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>个</strong></p>
+<p><strong>（<span class="diczx3">個</span>）</strong></p>
+<p><span class="dicpy">g&egrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&egrave;.mp3"></a></span> ㄍㄜˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>量词：三～月。洗～澡。</li>
+	<li>单独的：～人。～性。～位。</li>
+	<li>身材或物体的大小：高～子。</li>
+	<li>用在动词与补语中间，以加强语气：笑～不停。吃～饱。</li>
+</ol>
+<p>● <strong>个</strong></p>
+<p><strong>（<span class="diczx3">個</span>）</strong></p>
+<p><span class="dicpy">gě  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gě.mp3"></a></span> ㄍㄜˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>〔自～兒〕自己。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> numerary adjunct, piece; single</p><p><span class="z_ts2">德语</span> ZEW für Menschen, Personen (z. B. Mensch, Student, Tochter, Zahnarzt, Lehrer)​ (Zähl)​,ZEW für abstrakte Begriffe (z. B. Traum, Ansicht, Wunsch)​ (Zähl)​,individuell, eigen"_x000d_</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">个</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>个</strong></p>
+<p><span class="cino">(1)</span> 個 <span class="dicpy">gě</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gě.mp3"></a></span> </p>
+<p><span class="cino">(2)</span> &mdash;&mdash;用于&ldquo;自个儿&rdquo;(<span class="dicpy">z&igrave;gěr</span>)</p>
+<p><span class="cino">(3)</span> 另见<span class="dicpy">g&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&egrave;.mp3"></a></span> </p>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>个</strong></p>
+<p>個、箇 <span class="dicpy">g&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&egrave;.mp3"></a></span> </p>
+<p>〈量〉</p>
+<p><span class="cino">(1)</span> 通用个体量词，表示单独的人或物 <span class="encs">[used with nouns without specific measure words]</span></p>
+<p><span class="diczx1">个，枚也。&mdash;&mdash;<span class="smcs">《集韵》</span></span></p>
+<p><span class="diczx1">俎释三个。&mdash;&mdash;<span class="smcs">《仪礼&middot;士虞礼》</span></span></p>
+<p><span class="diczx1">竹竿万个。&mdash;&mdash;<span class="smcs">《史记&middot;货殖列传》</span>。正义:&ldquo;竹曰个，木曰枚。&rdquo;</span></p>
+<p><span class="cino">(2)</span> 字亦作&ldquo;箇&rdquo;</p>
+<p><span class="diczx1">箇，箇数，又枚也。&mdash;&mdash;<span class="smcs">《广韵》</span></span></p>
+<p><span class="cino">(3)</span> 俗又作&ldquo;個&rdquo;</p>
+<p><span class="diczx1">只有个爹爹，十三年前上朝取应去了。&mdash;&mdash;</span><span class="diczx2">关汉卿</span><span class="smcs">《窦娥冤》</span></p>
+<p><span class="diczx1">七八个星天外，两三点雨山前。&mdash;&mdash;</span><span class="diczx2">辛弃疾</span><span class="smcs">《西江月&middot;夜行黄沙道中》</span></p>
+<p><span class="cino">(4)</span> 用于没有专用量词的事物。如:一个人;一个影子</p>
+<p><span class="cino">(5)</span> 也可用于某些有专用量词的事物</p>
+<p><span class="diczx1">一面旗，白胡阑套住个迎霜兔。&mdash;&mdash;</span><span class="diczx2">睢景臣</span><span class="smcs">《哨遍&middot;高祖还乡》</span></p>
+<p><span class="diczx3">又如:一个(只)耳朵;一个(所)学校</span></p>
+<p><span class="cino">(6)</span> 跟动作有关的用法</p>
+<p><span class="cino">(7)</span> &ldquo;一个&rdquo;跟少数名词、动词结合，用在谓语动词前，表示快速或突然。如:一个箭步窜了上去;一个跟头栽下来</p>
+<p><span class="cino">(8)</span> 用在动词和约数之间，以使语气轻快、随便。如:哥儿俩才差个两、三岁</p>
+<p><span class="cino">(9)</span> 用在动词和宾词之间。常常连用两个，有时还在后面加&ldquo;的&rdquo;或&ldquo;什么的&rdquo;。整个句子显得轻快、随便。如:他就爱画个画儿、写个字什么的</p>
+<p><span class="cino">(10)</span> 有时表示一次。如:我跟她见了个面</p>
+<p>〈助〉</p>
+<p><span class="diczx1">我做衙内真个俏，不依公道则爱钞。&mdash;&mdash;</span><span class="diczx2">陆仲良</span><span class="smcs">《陈州粜米》</span></p>
+<p><span class="diczx1">天地也!做得个怕硬欺软，却原来也这般顺水推船。&mdash;&mdash;</span><span class="diczx2">关汉卿</span><span class="smcs">《窦娥冤》</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>个</strong></p>
+<p>個 <span class="dicpy">g&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&egrave;.mp3"></a></span> </p>
+<p>〈代〉</p>
+<p>这;那 <span class="encs">[this;that]</span></p>
+<p><span class="diczx1">白发三千丈，缘愁似个长。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot;<span class="diczx2">李白</span><span class="smcs">《秋浦歌》</span></p>
+<p><span class="diczx3">又如:个般(这样，这般);个样(这般，这样);个侬(这人，那人);个时(这时);个是(这是);个能(这样;如许)</span></p>
+<p>◎ <strong>个</strong></p>
+<p>個 <span class="dicpy">g&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&egrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 单个;单独 <span class="encs">[individual]</span>。</p>
+<p><span class="diczx3">如:个人;个体</span></p>
+<p><span class="cino">(2)</span> 身体或物体的大小 <span class="encs">[size]</span>。</p>
+<p><span class="diczx3">如:矮个子;小个儿</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">gě</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gě.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/个案">个案</a></span><span class="crefe"><a href="/hans/个把">个把</a></span><span class="crefe"><a href="/hans/个别">个别</a></span><span class="crefe"><a href="/hans/个个">个个</a></span><span class="crefe"><a href="/hans/个个">个个</a></span><span class="crefe"><a href="/hans/个旧">个旧</a></span><span class="crefe"><a href="/hans/个儿">个儿</a></span><span class="crefe"><a href="/hans/个人">个人</a></span><span class="crefe"><a href="/hans/个人伤害">个人伤害</a></span><span class="crefe"><a href="/hans/个人主义">个人主义</a></span><span class="crefe"><a href="/hans/个体">个体</a></span><span class="crefe"><a href="/hans/个体户">个体户</a></span><span class="crefe"><a href="/hans/个体经济">个体经济</a></span><span class="crefe"><a href="/hans/个头儿">个头儿</a></span><span class="crefe"><a href="/hans/个位">个位</a></span><span class="crefe"><a href="/hans/个性">个性</a></span><span class="crefe"><a href="/hans/个性">个性</a></span><span class="crefe"><a href="/hans/个展">个展</a></span><span class="crefe"><a href="/hans/个中">个中</a></span><span class="crefe"><a href="/hans/个中人">个中人</a></span><span class="crefe"><a href="/hans/个子">个子</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">个</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>个</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/個' target=_blank>個</a> 」的異體字。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E2A_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=丨" target="_blank">丨</a>】
+                              个·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：2</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">个</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=丨" target="_blank">丨</a>】
+                              个·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：2</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E2A.svg">						  <p>【廣韻】【正韻】古賀切【集韻】居賀切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>歌去聲。枚也。【儀禮&middot;大射儀】司射入于次搢三挾一个。</p>
+<p>又一人曰一个。【左傳&middot;昭三年】齊公孫竈卒。晏子曰：又弱一个焉。</p>
+<p>又物數。【周禮&middot;冬官考工記&middot;匠人】廟門容大扃七个。【註】每个長三尺。</p>
+<p>又四面偏室。【禮&middot;月令】孟春，天子居靑陽左个。季春居右个。【註】明堂旁舍也。</p>
+<p>又【禮&middot;檀弓】有若曰：國君七个，遣車七乗。大夫五个，遣車五乗。【註】个謂所包遣奠牲體臂臑也。折爲七段五段，以七乗五乗遣車載之。</p>
+<p>又通作介。獨也，偏也。【莊子&middot;養生主】是何人惡乎介也。天之生是使獨也。【註】介謂刖一足者。【史記&middot;張耳<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>餘傳】獨介居河北。【註】介，特也。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>與个通。【書&middot;秦誓】若有一介臣。【大學】作一个臣。【左傳&middot;襄八年】一介行李，卽一个。</p>
+<p>又【昭二十八年】君亦不使一个，辱在寡人。卽一介，互通。</p>
+<p>又【集韻】古案切。與幹同。射侯舌也。【周禮&middot;冬官考工記】梓人爲侯，上兩个與其身三，下兩个半之。【註】上个，最上幅也。射侯之制，上廣下陿，自棲鵠而上，以侯爲三分，身居中，兩个爲兩邊，其大小皆同。自鵠而下，則其身與上身同，而兩邊惟得其半，蓋下陿也。</p>
+<p>又【六書本義】个，竹一枝也。【史記&middot;貨殖傳】竹竿萬个。从竹省半爲意。【韓愈&middot;合江亭詩】栽竹逾萬个。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>與箇同。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E2A_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=竹">竹</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">箇</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“个”字头，请参考“<a href="/hans/箇">箇</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=竹">竹</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7B87.svg">                          <p>竹枚也。从竹固聲。古賀切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7B87_4678.svg" /><span class="swbf">(箇)</span><span class="ywyy">竹枚也。</span><span class="swdz">竹梃自其徑直言之，竹枚自其圜圍言之，一枚謂之一箇也。方言曰：箇，枚也。</span><span class="ywyy">从竹固聲。</span><span class="swdz">古賀切。按古音在五部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7B87_4679.svg" /><span class="swbf">(个)</span><span class="ywyy">箇或作个，半竹也。</span><span class="swdz">各本無，見於六書故所引唐本。按竝則爲竹，單則爲个。竹字象林立之形，一莖則一个也。史記：木千章，竹竿萬个。正義引釋名：竹曰个，木曰枚。今釋名佚此語。經傳多言个，大射、士虞禮、特牲饋食禮注皆云：个猶枚也。今俗或名枚曰個，音相近。又云：今俗言物數有云若干個者此讀。然經傳个多與介通用。左氏或云一个行李，或云一介行李，是一介猶一个也。介者，分也。分則有閒，閒一而巳，故以爲一枚之偁。方言曰：介特也是也。閒之外必㒳分，故曰介居二大國之閒。月令左介右介，是其義也。○又按支下云：从手持半竹。卽个爲半竹之證。半者，物中分也。半竹者，一竹㒳分之也。各分其半，故引伸之曰左个右个。竹从二个者，謂竹易分也。分曰个，因之㮯者亦曰个。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E2A_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">个</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  kɤ˥˧; kɤ˨˩˦ <span class="z_ts4">日语读音</span>  KO HI<span class="z_ts4">韩语罗马</span>  KAY KA<span class="z_ts3">越南语</span>  cá</p>						<p><span class="z_ts2">粤语</span>  go3<span class="z_ts3">潮州话</span>  gai5 go6</p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  見母    箇韻    去聲    箇小韻    古賀切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：見母    歌部   ；王力系统：見母    歌部   ；</p>
+                        
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/个">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/个">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/个">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">个</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「箇」。</p>
+<table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td style="display:none">金文</td>
+			<td style="display:none">楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/箇"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_7B87.svg" /><span>「箇」 說文‧竹部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/箇" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/7B87.svg" /><span>「箇」</span></a></td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/个">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E2A.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E2A.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E2A.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E2A.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/個' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/500B.svg'><span>個</span></a></div> <div class='zx'><a href='/hans/箇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7B87.svg'><span>箇</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="43" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5078">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/铬">铬(ge4)</a></li><li><a href="/hans/茖">茖(ge4)</a></li><li><a href="/hans/吤">吤(ge4)</a></li><li><a href="/hans/硌">硌(ge4)</a></li><li><a href="/hans/䧄">䧄(ge4)</a></li><li><a href="/hans/箇">箇(ge4)</a></li><li><a href="/hans/虼">虼(ge4)</a></li><li><a href="/hans/個">個(ge4)</a></li><li><a href="/hans/各">各(ge4)</a></li><li><a href="/hans/亇">亇(ge4)</a></li><li><a href="/hans/鉻">鉻(ge4)</a></li><li><a href="/hans/𠇂">𠇂(ge4)</a></li><li><a href="/hans/鲄">鲄(ge3)</a></li><li><a href="/hans/嘅">嘅(ge3)</a></li><li><a href="/hans/哿">哿(ge3)</a></li><li><a href="/hans/舸">舸(ge3)</a></li><li><a href="/hans/𠇂">𠇂(ge3)</a></li><li><a href="/hans/嗰">嗰(ge3)</a></li><li><a href="/hans/蓋">蓋(ge3)</a></li><li><a href="/hans/各">各(ge3)</a></li><li><a href="/hans/合">合(ge3)</a></li><li><a href="/hans/盖">盖(ge3)</a></li><li><a href="/hans/個">個(ge3)</a></li><li><a href="/hans/葛">葛(ge3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠆷">𠆷</a></li><li><a href="/hans/𠑴">𠑴</a></li><li><a href="/hans/僉">僉</a></li><li><a href="/hans/𠌓">𠌓</a></li><li><a href="/hans/𠎈">𠎈</a></li><li><a href="/hans/𠆦">𠆦</a></li><li><a href="/hans/𠇌">𠇌</a></li><li><a href="/hans/𠋑">𠋑</a></li><li><a href="/hans/𠓽">𠓽</a></li><li><a href="/hans/𠋓">𠋓</a></li><li><a href="/hans/𠎤">𠎤</a></li><li><a href="/hans/𠐇">𠐇</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠃔">𠃔</a></li><li><a href="/hans/孒">孒</a></li><li><a href="/hans/弋">弋</a></li><li><a href="/hans/丫">丫</a></li><li><a href="/hans/刃">刃</a></li><li><a href="/hans/卄">卄</a></li><li><a href="/hans/彡">彡</a></li><li><a href="/hans/㔿">㔿</a></li><li><a href="/hans/䒑">䒑</a></li><li><a href="/hans/㐉">㐉</a></li><li><a href="/hans/亼">亼</a></li><li><a href="/hans/乞">乞</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">两<span>个</span>黄鹂鸣翠柳，一行白鹭上青天。</div><div class="gscdr">唐·杜甫 《绝句》</div><div class="gscdl">七八<span>个</span>星天外，两三点雨山前。旧时茅店社林边。路转溪桥忽见。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">而今识尽愁滋味，欲说还休。欲说还休。却道天凉好<span>个</span>秋。</div><div class="gscdr">宋·辛弃疾 《丑奴儿》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=43"></script>
+</body>
+</html>

@@ -1,0 +1,668 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>对的解释|对的意思|汉典“对”字的基本解释</title>
+<meta name="title" content="对的解释|对的意思|汉典“对”字的基本解释">
+<meta name="keywords" content="左：又，右：寸。 " /><meta property="og:title" content="“对”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“对”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“对”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/对" />
+<link rel="canonical" href="//www.zdic.net/hans/对" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/对" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/对" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/对" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/对">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/对">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5BF9.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5BF9.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">duì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“对”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/duì.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄉㄨㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“对”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄨㄟˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=寸" target="_blank">  寸</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/對' target=_blank>對</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/對' target=_blank>對</a> <a href='/hans/対' target=_blank>対</a> <a href='/hans/𡭊' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21B4A.svg'><span class='ytz_txt'>𡭊</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5BF9</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>54124</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>cfy</p></td>                            <td class="dsk_2_1"><p>edi</p></td>                            <td class="dsk_2_1"><p>xsds</p></td>                            <td class="dsk_2_1"><p>74400</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">duì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“对”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/duì.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄉㄨㄟˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“对”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄉㄨㄟˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=寸" target="_blank">寸</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 5BF9<span class="z_ts2">笔顺</span> 54124                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5BF9_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=3578" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">对</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>对</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">對</span>）</strong></p>
+<p><span class="dicpy">du&igrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&igrave;.mp3"></a></span>  ㄉㄨㄟˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>答，答话，回答：～答如流。无言以～。</li>
+	<li>朝着：～酒当歌。</li>
+	<li>处于相反方向的：～面。</li>
+	<li>跟，和：～他商量一下。</li>
+	<li>互相，彼此相向地：～立。～流。～接。～称（<span class="dicpy">ch&egrave;n</span>）。～峙。</li>
+	<li>说明事物的关系：～于。～这事有意见。</li>
+	<li>看待，应付：～待。</li>
+	<li>照着样检查：核～。校（<span class="dicpy">ji&agrave;o </span>）～。</li>
+	<li>投合，适合，使相合：～应（<span class="dicpy">y&igrave;ng </span>）。～劲。</li>
+	<li>正确，正常，表肯定的答语：神色不～。</li>
+	<li>双，成双的：配～。～偶。～仗（律诗、骈文等按照字音的平仄和字义做成对偶的语句）。</li>
+	<li>平分，一半：～开。</li>
+	<li>搀和（多指液体）：～水。</li>
+	<li>量词，双：一～鹦鹉。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> correct, right; facing, opposed</p><p><span class="z_ts2">德语</span> antworten, entgegnen, erwidern ,gegenüber, entgegengesetzt, feindlich ,richtig, korrekt</p><p><span class="z_ts2">法语</span> correct,juste,paire,couple,à,contre,pour,envers,répondre,traiter,s'opposer à,braquer,convenir,confronter,ajuster,régler</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">对</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>对</strong></p>
+<p>對 <span class="dicpy">du&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&igrave;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从口，从&ldquo;丵&rdquo;( <span class="dicpy">zhu&oacute;</span>，即，古&ldquo;丛&rdquo;字，象草木丛生。)，从寸。寸，法度也。汉文帝以为责对而伪，言多非诚，故去其口，以从土。本义:应答)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[answer;reply]</span></p>
+<p><span class="diczx1">对，答也。&mdash;&mdash;<span class="smcs">《广韵》</span></span></p>
+<p><span class="diczx1">听言则对。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;桑柔》</span></span></p>
+<p><span class="diczx2">叶公</span>问 <span class="diczx2">孔子</span>于 <span class="diczx2">子路</span>， <span class="diczx2">子路</span>不对。&mdash;&mdash;<span class="smcs">《论语&middot;述而》</span></p>
+<p><span class="diczx2">唐且</span>对曰:&ldquo;臣未尝闻也。&rdquo;</p>
+<p><span class="diczx1">王语</span><span class="diczx2">暴</span>以好乐， <span class="diczx2">暴</span>未有以对也。&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王下》</span></p>
+<p><span class="diczx1">冠者对。&mdash;&mdash;<span class="smcs">《仪礼&middot;士冠礼》</span>。注:&ldquo;应也。&rdquo;</span></p>
+<p><span class="diczx1">对曰:&ldquo;非礼也敢辞。&rdquo;&mdash;&mdash;<span class="smcs">《仪礼&middot;曲礼》</span>。注:&ldquo;答问也。&rdquo;</span></p>
+<p><span class="diczx2">操</span>唤 <span class="diczx2">杨修</span>问之， <span class="diczx2">修</span>以鸡肋之意对。&mdash;&mdash;<span class="smcs">《三国演义》</span></p>
+<p><span class="diczx3">又如:无言以对;对当(对答;安排);对嘴(争辩;争吵);对理(讲理;对证);对番(对证后理曲);对状(受审问时答述案情);对日(回答有关太阳问题的故事)</span></p>
+<p><span class="cino">(3)</span> 两者相对;面对 <span class="encs">[face;mutual;face to face]</span></p>
+<p><span class="diczx1">贼易之，对饮酒，醉。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《童区寄传》</span></p>
+<p><span class="diczx3">又如:对食(面对食物;古时宫人相约为夫妇，称为对食);对枰(下棋);对峙(相对峙立);对酒(面对着酒。饮酒);对酌(相对饮酒);对月(向月);对向(应对趋走);对床(两人对床而卧);对棋(相对下棋);对扬(面君奏对)</span></p>
+<p><span class="cino">(4)</span> 相当;相配 <span class="encs">[match]</span></p>
+<p><span class="diczx1">帝作邦作对。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;皇矣》</span>。注:&ldquo;配也。&rdquo;</span></p>
+<p><span class="diczx1">木大而茎叶格对。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;审时》</span>。注:&ldquo;等也。&rdquo;</span></p>
+<p><span class="diczx3">又如:对头亲(门当户对的亲事);对头(适当的婚配;配偶;冤家;仇敌);对时对景(正符合当时的情景、场合);对合(利息和本钱相等);对越(配称);对坎儿(双方情况正好符合);对治(相匹敌)</span></p>
+<p><span class="cino">(5)</span> 核对，比照着检查 <span class="encs">[check;compare;identify]</span></p>
+<p><span class="diczx1">以两司奏状对勘，以防虚伪。&mdash;&mdash;</span><span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx3">又如:对读(校对);对笔迹;对数字;对理(对质);对保(出具书面保证后，向保证人核对以证明保证属实的一种手续)</span></p>
+<p><span class="cino">(6)</span> 搀和 <span class="encs">[mix;add]</span>。</p>
+<p><span class="diczx3">如:这酒是对了水的</span></p>
+<p><span class="cino">(7)</span> 对待，以特定方式待<span class="encs">[人或物]</span> <span class="encs">[treat;deal with;cope with]</span></p>
+<p><span class="diczx1">夫一人奋死可以对十。&mdash;&mdash;<span class="smcs">《韩非子&middot;初见秦》</span></span></p>
+<p><span class="diczx3">又如:他对我不错</span></p>
+<p><span class="cino">(8)</span> 平分成两份 <span class="encs">[divide into halves]</span>。</p>
+<p><span class="diczx3">如:对股劈;对开;对分</span></p>
+<p><span class="cino">(9)</span> 扬;显扬;指扬威 <span class="encs">[spread;make known;display one&#39;s power]</span></p>
+<p><span class="diczx1">以对于天下。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;皇矣》</span></span></p>
+<p><span class="diczx1">对扬以辟之。&mdash;&mdash;<span class="smcs">《礼记&middot;祭统》</span></span></p>
+<p><span class="cino">(10)</span> 婚娶 <span class="encs">[wed]</span>。</p>
+<p><span class="diczx3">如:对亲;对值(男女订为婚姻)</span></p>
+<p><span class="cino">(11)</span> 抵押 <span class="encs">[mortgage]</span></p>
+<p><span class="diczx1">我们围着庄子的这几块地，年终不是有二百多银子的租子吗?就把这个对给他，合他说明白了，按月计利，不论年份，银到归赎。&mdash;&mdash;<span class="smcs">《儿女英雄传》</span></span></p>
+<p><span class="cino">(12)</span> 较量，为争夺优势或胜利而激烈斗争 <span class="encs">[have a contest]</span>。</p>
+<p><span class="diczx3">如:对仗(交战)</span></p>
+<p><span class="cino">(13)</span> 拼，冒生命危险去做 <span class="encs">[risk one&#39;s life]</span>。</p>
+<p><span class="diczx3">如:对副(收拾;杀掉);对命(拼命;偿命)</span></p>
+<p><span class="cino">(14)</span> 朝着 <span class="encs">[subtend;betrained on;be directed at]</span></p>
+<p><span class="diczx1">当窗理云鬓，对镜帖花黄。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">对长亭晚，骤雨初歇。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">柳永</span><span class="smcs">《雨霖铃》</span></p>
+<p><span class="diczx3">又如:斜边对直角;弧对圆心角</span></p>
+<p><span class="cino">(15)</span> 对人无愧，不辜负 <span class="encs">[be worthy of;not letting down]</span>。</p>
+<p><span class="diczx3">如:对得起，对得住;对不过(对不起);对不住(对不起。对人有愧)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>对</strong></p>
+<p>對 <span class="dicpy">du&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&igrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 配偶 <span class="encs">[spouse]</span></p>
+<p><span class="diczx1">择对不嫁，至年三十。&mdash;&mdash;<span class="smcs">《后汉书&middot;逸民传&middot;梁鸿》</span></span></p>
+<p><span class="cino">(2)</span> 对手，敌对者 <span class="encs">[opponent]</span></p>
+<p><span class="diczx1">而所与对敌，或值人杰。&mdash;&mdash;<span class="smcs">《三国志&middot;诸葛亮传》</span></span></p>
+<p><span class="diczx3">又如:对儿(对手;对头)</span></p>
+<p><span class="cino">(3)</span> 对策，一种反措施，用以反对、抑制或抵消另一种措施、办法或手段 <span class="encs">[countermeasure]</span>。</p>
+<p><span class="diczx3">如:对子(办法)</span></p>
+<p><span class="cino">(4)</span> 对子，对偶的词句;又指对联 <span class="encs">[antithetical couplet]</span>。</p>
+<p><span class="diczx3">如:喜对;五言对;对笔(写对联的一种笔);对儿(对联)</span></p>
+<p><span class="cino">(5)</span> 姓</p>
+<p>◎ <strong>对</strong></p>
+<p>對 <span class="dicpy">du&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&igrave;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 意见、判断或程序上正确 <span class="encs">[right]</span>。</p>
+<p><span class="diczx3">如:他拒绝这一建议很对;你说得对，先生;意见很对;数目不对;猜对了;对，就这么办</span></p>
+<p><span class="cino">(2)</span> 相互;两人在一起 <span class="encs">[together]</span>。</p>
+<p><span class="diczx3">如:对谈;对饮;对掌(共同掌管);对理(共同审理);对食(共同进餐)</span></p>
+<p>◎ <strong>对</strong></p>
+<p>對 <span class="dicpy">du&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&igrave;.mp3"></a></span> </p>
+<p>〈量〉</p>
+<p>用于按性别、左右、正反等配合的人和物 <span class="encs">[couple;pair]</span>。</p>
+<p><span class="diczx3">如:他们是天生的一对;一对杯子;一对柜子;一对伙伴</span></p>
+<p>◎ <strong>对</strong></p>
+<p>對 <span class="dicpy">du&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/du&igrave;.mp3"></a></span> </p>
+<p>〈介〉</p>
+<p><span class="cino">(1)</span> 朝，向&mdash;&mdash;用作虚词，表示动作的对象 <span class="encs">[to]</span>。</p>
+<p><span class="diczx3">如:对他的父亲谈及此事;对你的牙是凉了点;对耕作的危害;对财产的权利</span></p>
+<p><span class="cino">(2)</span> 对待。用法大致同&ldquo;对于&rdquo; <span class="encs">[toward]</span>。</p>
+<p><span class="diczx3">如:对任何人不怀恶意</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/对岸">对岸</a></span><span class="crefe"><a href="/hans/对案">对案</a></span><span class="crefe"><a href="/hans/对白">对白</a></span><span class="crefe"><a href="/hans/对半">对半</a></span><span class="crefe"><a href="/hans/对杯">对杯</a></span><span class="crefe"><a href="/hans/对本">对本</a></span><span class="crefe"><a href="/hans/对比">对比</a></span><span class="crefe"><a href="/hans/对比度">对比度</a></span><span class="crefe"><a href="/hans/对比联想">对比联想</a></span><span class="crefe"><a href="/hans/对比色">对比色</a></span><span class="crefe"><a href="/hans/对比温度">对比温度</a></span><span class="crefe"><a href="/hans/对簿">对簿</a></span><span class="crefe"><a href="/hans/对不起">对不起</a></span><span class="crefe"><a href="/hans/对不上">对不上</a></span><span class="crefe"><a href="/hans/对不住">对不住</a></span><span class="crefe"><a href="/hans/对策">对策</a></span><span class="crefe"><a href="/hans/对茬儿">对茬儿</a></span><span class="crefe"><a href="/hans/对唱">对唱</a></span><span class="crefe"><a href="/hans/对称">对称</a></span><span class="crefe"><a href="/hans/对称性">对称性</a></span><span class="crefe"><a href="/hans/对称轴">对称轴</a></span><span class="crefe"><a href="/hans/对衬">对衬</a></span><span class="crefe"><a href="/hans/对词">对词</a></span><span class="crefe"><a href="/hans/对刺">对刺</a></span><span class="crefe"><a href="/hans/对答">对答</a></span><span class="crefe"><a href="/hans/对答如流">对答如流</a></span><span class="crefe"><a href="/hans/对待">对待</a></span><span class="crefe"><a href="/hans/对得起">对得起</a></span><span class="crefe"><a href="/hans/对等">对等</a></span><span class="crefe"><a href="/hans/对敌">对敌</a></span><span class="crefe"><a href="/hans/对调">对调</a></span><span class="crefe"><a href="/hans/对顶角">对顶角</a></span><span class="crefe"><a href="/hans/对对子">对对子</a></span><span class="crefe"><a href="/hans/对方">对方</a></span><span class="crefe"><a href="/hans/对付">对付</a></span><span class="crefe"><a href="/hans/对歌">对歌</a></span><span class="crefe"><a href="/hans/对工">对工</a></span><span class="crefe"><a href="/hans/对攻">对攻</a></span><span class="crefe"><a href="/hans/对过">对过</a></span><span class="crefe"><a href="/hans/对号">对号</a></span><span class="crefe"><a href="/hans/对号入座">对号入座</a></span><span class="crefe"><a href="/hans/对话">对话</a></span><span class="crefe"><a href="/hans/对换">对换</a></span><span class="crefe"><a href="/hans/对火">对火</a></span><span class="crefe"><a href="/hans/对家">对家</a></span><span class="crefe"><a href="/hans/对讲电话">对讲电话</a></span><span class="crefe"><a href="/hans/对讲机">对讲机</a></span><span class="crefe"><a href="/hans/对焦">对焦</a></span><span class="crefe"><a href="/hans/对角">对角</a></span><span class="crefe"><a href="/hans/对角线">对角线</a></span><span class="crefe"><a href="/hans/对接">对接</a></span><span class="crefe"><a href="/hans/对襟">对襟</a></span><span class="crefe"><a href="/hans/对劲儿">对劲儿</a></span><span class="crefe"><a href="/hans/对酒当歌">对酒当歌</a></span><span class="crefe"><a href="/hans/对局">对局</a></span><span class="crefe"><a href="/hans/对开">对开</a></span><span class="crefe"><a href="/hans/对抗">对抗</a></span><span class="crefe"><a href="/hans/对抗赛">对抗赛</a></span><span class="crefe"><a href="/hans/对空射击">对空射击</a></span><span class="crefe"><a href="/hans/对口">对口</a></span><span class="crefe"><a href="/hans/对口疮">对口疮</a></span><span class="crefe"><a href="/hans/对口词">对口词</a></span><span class="crefe"><a href="/hans/对口径">对口径</a></span><span class="crefe"><a href="/hans/对口相声">对口相声</a></span><span class="crefe"><a href="/hans/对课">对课</a></span><span class="crefe"><a href="/hans/对垒">对垒</a></span><span class="crefe"><a href="/hans/对立">对立</a></span><span class="crefe"><a href="/hans/对立面">对立面</a></span><span class="crefe"><a href="/hans/对联">对联</a></span><span class="crefe"><a href="/hans/对流">对流</a></span><span class="crefe"><a href="/hans/对流层">对流层</a></span><span class="crefe"><a href="/hans/对路">对路</a></span><span class="crefe"><a href="/hans/对门">对门</a></span><span class="crefe"><a href="/hans/对面">对面</a></span><span class="crefe"><a href="/hans/对内">对内</a></span><span class="crefe"><a href="/hans/对牛弹琴">对牛弹琴</a></span><span class="crefe"><a href="/hans/对偶">对偶</a></span><span class="crefe"><a href="/hans/对齐">对齐</a></span><span class="crefe"><a href="/hans/对亲">对亲</a></span><span class="crefe"><a href="/hans/对视">对视</a></span><span class="crefe"><a href="/hans/对手">对手</a></span><span class="crefe"><a href="/hans/对数">对数</a></span><span class="crefe"><a href="/hans/对头">对头</a></span><span class="crefe"><a href="/hans/对头">对头</a></span><span class="crefe"><a href="/hans/对外关系">对外关系</a></span><span class="crefe"><a href="/hans/对位">对位</a></span><span class="crefe"><a href="/hans/对味儿">对味儿</a></span><span class="crefe"><a href="/hans/对胃口">对胃口</a></span><span class="crefe"><a href="/hans/对虾">对虾</a></span><span class="crefe"><a href="/hans/对象">对象</a></span><span class="crefe"><a href="/hans/对消">对消</a></span><span class="crefe"><a href="/hans/对心">对心</a></span><span class="crefe"><a href="/hans/对眼">对眼</a></span><span class="crefe"><a href="/hans/对弈">对弈</a></span><span class="crefe"><a href="/hans/对应">对应</a></span><span class="crefe"><a href="/hans/对于">对于</a></span><span class="crefe"><a href="/hans/对仗">对仗</a></span><span class="crefe"><a href="/hans/对照">对照</a></span><span class="crefe"><a href="/hans/对着干">对着干</a></span><span class="crefe"><a href="/hans/对折">对折</a></span><span class="crefe"><a href="/hans/对阵">对阵</a></span><span class="crefe"><a href="/hans/对证">对证</a></span><span class="crefe"><a href="/hans/对症">对症</a></span><span class="crefe"><a href="/hans/对症下药">对症下药</a></span><span class="crefe"><a href="/hans/对质">对质</a></span><span class="crefe"><a href="/hans/对峙">对峙</a></span><span class="crefe"><a href="/hans/对准">对准</a></span><span class="crefe"><a href="/hans/对子">对子</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5BF9_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=寸" target="_blank">寸</a>】
+                              對·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">對</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“对”字头，请参考“<a href="/hans/對">對</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=寸" target="_blank">寸</a>】
+                              對·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：11</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5C0D.svg">						  <p>【唐韻】都隊切【集韻】【韻會】【正韻】都內切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音碓。【說文】應無方也。本作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/21B4A.svg"><span class="k_txt">𡭊</span>。【爾雅&middot;釋言】對，遂也。【疏】遂者，因事之辭。【廣韻】答也。【增韻】揚也。【詩&middot;大雅】以對于天下。【註】答天下仰望之心也。【書&middot;說命】敢對揚天子之休命。</p>
+<p>又【禮&middot;曲禮】侍坐於先生，先生問焉，終，則對。【又】君子問更端，則起而對。【註】離席對也。</p>
+<p>又次對，轉對。【王球貽謀錄】唐百官入閤，有待制次對官。後唐天成中，廢待制次對官，五日一次，內殿百官轉對。</p>
+<p>又當也，配也。【詩&middot;大雅】帝作邦作對。【註】言擇其可當此國者而君之也。</p>
+<p>又對簿。【史記&middot;李將軍傳】廣年六十餘矣，終不能復對刀筆之吏。</p>
+<p>又敵也。【吳陸遜曰】劉備今在境界，此疆對也。</p>
+<p>又凡物<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>峙曰對。【杜甫&middot;萬丈潭詩】山危一徑盡，岸絕兩壁對。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5BF9_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=丵">丵</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">𡭊</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“对”字头，请参考“<a href="/hans/𡭊"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/21B4A.svg"><span class="k_txt">𡭊</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=丵">丵</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/21B4A.svg">                          <p>譍無方也。从丵从口从寸。<img class="swtimg" src="//img.zdic.net/swxz/5C0D.svg" />對，對或从士。漢文帝以爲責對而爲言，多非誠對，故去其口以从士也。都隊切文四，重二</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/21B4A_9335.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/21B4A.svg"><span class="k_txt">𡭊</span>)</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/27B6D.svg"><span class="k_txt">𧭭</span>無方也。</span><span class="swdz">聘禮注曰：對，荅問也。按對、荅古通用。云<img class="lazy k_img" data-original="//img.zdic.net/song/cn/27B6D.svg"><span class="k_txt">𧭭</span>無方者，所謂善待問者如撞鐘，叩以大者則大鳴，叩以小者則小鳴也。無方故從丵口。</span><span class="ywyy">从丵口。从寸。</span><span class="swdz">寸，法度也。丵口而一歸於法度也。都隊切。十五部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/21B4A_9336.svg" /><span class="swbf">(對)</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/21B4A.svg"><span class="k_txt">𡭊</span>或从士。漢文帝㠯爲責對而面言，</span><span class="swdz">依廣韵訂。</span><span class="ywyy">多非誠對，故去其口㠯從士也。</span><span class="swdz">鍇曰：士，事也。取事實也。按篇、韵皆作土，未知孰是。趙氏明誠曰：據古鐘鼎皆作對。是漢文亦從古耳，非肊更也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5BF9_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">对</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tuei˥˧ <span class="z_ts4">日语读音</span>  MUKAU NARABU AITE<span class="z_ts4">韩语罗马</span>  TAY<span class="z_ts3">越南语</span>  đối</p>						<p><span class="z_ts2">粤语</span>  deoi3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/对">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/对">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/对">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/对">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/对">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/对">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/对">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/对">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/对">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/对">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/对">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/对">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">对</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「對」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/对"><img data-original="//img.zdic.net/zy/jiaguwen/41_ECD3.svg" class="lazy ypic"><span>「對」 甲740</span><span>合30600</span></a></td><td><a href="/zd/zx/jw/对"><img data-original="//img.zdic.net/zy/jinwen/31_EC99.svg" class="lazy ypic"><span>「對」 作父乙尊</span><span>西周早期</span><span>集成5975</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/对"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F341.svg" class="lazy ypic"><span>「對」 說文‧丵部</span></a></td><td style="display:none"></td><td><a href="/hans/對" target="_blank"><img data-original="//img.zdic.net/kai/tw/5C0D.svg" class="lazy ypic"><span>「對」</span></a> </td><td><a href="/hans/对" target="_blank"><img data-original="//img.zdic.net/kai/tw/5BF9.svg" class="lazy ypic"><span>「对」</span></a></td><td style="display:none"><a href="/hans/对" target="_blank"><img data-original="//img.zdic.net/kai/tw/5BF9.svg" class="lazy ypic"><span>「对」</span></a></td></tr><tr><td><a href="/zd/zx/jg/对"><img data-original="//img.zdic.net/zy/jiaguwen/41_ECD6.svg" class="lazy ypic"><span>「對」 佚657</span><span>合18755</span></a></td><td><a href="/zd/zx/jw/对"><img data-original="//img.zdic.net/zy/jinwen/31_EC9A.svg" class="lazy ypic"><span>「對」 貉子卣</span><span>西周早期</span><span>集成5409</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/对"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5C0D.svg" class="lazy ypic"><span>「對」 說文或體</span></a></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td></td><td><a href="/zd/zx/jw/对"><img data-original="//img.zdic.net/zy/jinwen/31_EC9F.svg" class="lazy ypic"><span>「對」 𤯍方鼎</span><span>西周早期</span><span>集成2614</span></a></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/对">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/对">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/对">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/对">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5BF9.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5BF9.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5BF9.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/對' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5C0D.svg'><span>對</span></a></div> <div class='zx'><a href='/hans/対' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5BFE.svg'><span>対</span></a></div> <div class='zx'><a href='/hans/𡭊' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21B4A.svg'><span>𡭊</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="3578" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4856">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/敚">敚(dui4)</a></li><li><a href="/hans/䇏">䇏(dui4)</a></li><li><a href="/hans/𠏮">𠏮(dui4)</a></li><li><a href="/hans/敓">敓(dui4)</a></li><li><a href="/hans/瀩">瀩(dui4)</a></li><li><a href="/hans/對">對(dui4)</a></li><li><a href="/hans/㙂">㙂(dui4)</a></li><li><a href="/hans/懟">懟(dui4)</a></li><li><a href="/hans/瀢">瀢(dui4)</a></li><li><a href="/hans/憞">憞(dui4)</a></li><li><a href="/hans/碓">碓(dui4)</a></li><li><a href="/hans/兑">兑(dui4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/將">將</a></li><li><a href="/hans/尃">尃</a></li><li><a href="/hans/㝵">㝵</a></li><li><a href="/hans/寻">寻</a></li><li><a href="/hans/専">専</a></li><li><a href="/hans/專">專</a></li><li><a href="/hans/㝴">㝴</a></li><li><a href="/hans/尀">尀</a></li><li><a href="/hans/尅">尅</a></li><li><a href="/hans/㝷">㝷</a></li><li><a href="/hans/尋">尋</a></li><li><a href="/hans/导">导</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/忇">忇</a></li><li><a href="/hans/𠃟">𠃟</a></li><li><a href="/hans/匜">匜</a></li><li><a href="/hans/丙">丙</a></li><li><a href="/hans/礼">礼</a></li><li><a href="/hans/㧅">㧅</a></li><li><a href="/hans/句">句</a></li><li><a href="/hans/邚">邚</a></li><li><a href="/hans/阠">阠</a></li><li><a href="/hans/㐷">㐷</a></li><li><a href="/hans/𠂜">𠂜</a></li><li><a href="/hans/𠂘">𠂘</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">两岸青山相<span>对</span>出，孤帆一片日边来。</div><div class="gscdr">唐·李白 《望天门山》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">“日中不至，则是无信；<span>对</span>子骂父，则是无礼。”友人惭，下车引之。元方入门不顾。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">丁氏<span>对</span>曰：“得一人之使，非得一人于井中也。”</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">当窗理云鬓，<span>对</span>镜帖花黄。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">通计一舟，为人五；为窗八；为箬篷，为楫，为炉，为壶，为手卷，为念珠各一；<span>对</span>联、题名并篆文，为字共三十有四。</div><div class="gscdr">明·魏学洢 《核舟记》</div><div class="gscdl">南村群童欺我老无力，忍能<span>对</span>面为盗贼。</div><div class="gscdr">唐·杜甫 《茅屋为秋风所破歌》</div><div class="gscdl">到亭上，有两人铺毡<span>对</span>坐，一童子烧酒炉正沸。</div><div class="gscdr">明·张岱 《湖心亭看雪》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=3578"></script>
+</body>
+</html>

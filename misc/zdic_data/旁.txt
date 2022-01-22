@@ -1,0 +1,642 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>旁的解释|旁的意思|汉典“旁”字的基本解释</title>
+<meta name="title" content="旁的解释|旁的意思|汉典“旁”字的基本解释">
+<meta property="og:title" content="“旁”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“旁”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“旁”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/旁" />
+<link rel="canonical" href="//www.zdic.net/hans/旁" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/旁" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/旁" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/旁" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/旁">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/旁">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/65C1.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/65C1.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">páng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/páng.mp3"></a></span></span></p><p><span class="z_d song">bàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bàng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄆㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄆㄤˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄅㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄤˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=方" target="_blank">  方</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  10</p></td>                                                        <td class="z_ytz2"><a href='/hans/㝑' target=_blank>㝑</a>  <a href='/hans/㫄' target=_blank>㫄</a>  <a href='/hans/傍' target=_blank>傍</a>  <a href='/hans/雱' target=_blank>雱</a>  <a href='/hans/𣃙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230D9.svg'><span class='ytz_txt'>𣃙</span></a>  <a href='/hans/𣃟' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230DF.svg'><span class='ytz_txt'>𣃟</span></a>  <a href='/hans/𣃪' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/230EA.svg'><span class='ytz_txt'>𣃪</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+65C1</p></td>
+                            <td class="dsk_2_1">上中下结构</td>                            <td align="center" class="z_bis2"><p>4143454153</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>upyb|yupy</p></td>                            <td class="dsk_2_1"><p>ybyhs</p></td>                            <td class="dsk_2_1"><p>suws</p></td>                            <td class="dsk_2_1"><p>00227</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">páng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/páng.mp3"></a></span></span> <span class="z_d song">bàng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bàng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄆㄤˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄆㄤˊ.mp3"></a></span></span> <span class="z_d song">ㄅㄤˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旁”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄤˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=方" target="_blank">方</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 10</p>                    <p><span class="z_ts3">统一码</span> 65C1<span class="z_ts2">笔顺</span> 4143454153                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="65C1_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6082" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>旁</strong></p>
+<p><span class="dicpy">p&aacute;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/p&aacute;ng.mp3"></a></span>  ㄆㄤˊ</span></p>
+<ol>
+	<li>左右两侧：～边。～侧。～门。～出。～听。～若无人。</li>
+	<li>其他，另外：～人。～的话。触类～通。责无～贷。～证。～白（戏剧角色背着台上其他剧中人对观众说的话）。～落。</li>
+	<li>广，广泛：～征博引。</li>
+	<li>邪、偏：～门左道。</li>
+	<li>汉字形体中常常出现的某些组成部分：偏～。竖心～儿。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>旁</strong></p>
+<p><span class="dicpy">b&agrave;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&agrave;ng.mp3"></a></span>  ㄅㄤˋ</span></p>
+<p>　◎ 古同&ldquo;<span class="diczx3">傍</span>&rdquo;，靠。</p>
+<ol>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> side; by side, close by, near</p><p><span class="z_ts2">德语</span> Radikal  (S)​,Seite  (S)</p><p><span class="z_ts2">法语</span> côté,bord</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>旁</strong> <span class="dicpy">b&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&agrave;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (古通&ldquo;傍&rdquo;)</p>
+<p><span class="cino">(2)</span> 依傍;依附 <span class="encs">[depend on]</span></p>
+<p><span class="diczx2">匈奴</span>大发十余万骑，南旁塞至符奚庐山。&mdash;&mdash;<span class="smcs">《汉书&middot;赵充国传》</span></p>
+<p><span class="cino">(3)</span> 又如:旁沿(依附沿袭);旁缘(依仗)</p>
+<p><span class="cino">(4)</span> 靠近 <span class="encs">[be near to]</span></p>
+<p><span class="diczx1">吾灵尚依依旁汝也。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">林觉民</span><span class="smcs">《与妻书》</span></p>
+<p><span class="diczx1">引</span><span class="diczx2">渭</span>穿渠起 <span class="diczx2">长安</span>，旁南山下，至 <span class="diczx2">河</span>三百余里。&mdash;&mdash;<span class="smcs">《汉书》</span></p>
+<p><span class="diczx1">四时之内，飘风怒吹，或西发西洋，或东起北海，旁午交扇，无时而息。&mdash;&mdash;〔英〕</span><span class="diczx2">赫胥黎</span>著、 <span class="diczx2">严复</span>译<span class="smcs">《天演论》</span></p>
+<p><span class="cino">(5)</span> 又如:旁午(将近中午);旁车(靠近车子)</p>
+<p><span class="cino">(6)</span> 依照;仿效 <span class="encs">[follow]</span></p>
+<p><span class="diczx2">扬雄</span>又旁<span class="smcs">《离骚》</span>作重一篇，名曰<span class="smcs">《广骚》</span>;又旁<span class="smcs">《惜诵》</span>以下至<span class="smcs">《怀沙》</span>一卷，名曰<span class="smcs">《畔牢愁》</span>。&mdash;&mdash;<span class="smcs">《汉书》</span></p>
+<p><span class="cino">(7)</span> 通&ldquo;谤&rdquo;。诽谤 <span class="encs">[defame;slander]</span></p>
+<p><span class="diczx1">不窥密，不旁狎，不道旧故。&mdash;&mdash;<span class="smcs">《礼记&middot;少仪》</span></span></p>
+<p><span class="cino">(8)</span> 另见 <span class="dicpy">p&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/p&aacute;ng.mp3"></a></span> </p>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>旁</strong> <span class="dicpy">p&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/p&aacute;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (形声。从二阙，方声。本义:大;广)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[great;broad;extensive]</span></p>
+<p><span class="diczx1">旁，溥也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">旁，广也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">旁求俊彦。&mdash;&mdash;<span class="smcs">《书&middot;太甲上》</span>。传:&ldquo;旁，非一方。&rdquo;</span></p>
+<p><span class="diczx1">群后旁戾。&mdash;&mdash;</span><span class="diczx2">张衡</span><span class="smcs">《东京赋》</span></p>
+<p><span class="cino">(3)</span> 又</p>
+<p><span class="diczx1">旁震八鄙。</span></p>
+<p><span class="diczx1">陶冶大炉，旁薄群生。&mdash;&mdash;<span class="smcs">《汉书&middot;扬雄传》</span></span></p>
+<p><span class="diczx1">将旁礴万物以为一世蕲乎乱。&mdash;&mdash;<span class="smcs">《庄子&middot;逍遥游》</span></span></p>
+<p><span class="diczx1">杂能旁魄而无用。&mdash;&mdash;<span class="smcs">《荀子&middot;性恶》</span>。注:&ldquo;旁魄，广博也。&rdquo;</span></p>
+<p><span class="cino">(4)</span> 又如:旁畅(广通博晓);旁行(广泛流传);旁收(广泛收罗);旁求(四处征求;广泛搜求);旁施(广施);旁开(广开);旁薄(旁礴、旁魄。广博;无际;广被充塞);旁罗(遍布);旁瞩(遍视);旁靡(普及);旁罗(遍及);旁雪(普遍洗雪);旁通(遍通)</p>
+<p><span class="cino">(5)</span> 横 <span class="encs">[transverse]</span>。如:旁午(纵横交错);旁行(横写);旁行书(横写的文字);旁穿(横穿);旁师(横向学习);旁贯(横贯)</p>
+<p><span class="cino">(6)</span> 别的，其他的 <span class="encs">[else;other]</span></p>
+<p><span class="diczx1">此吾所以旁推交通，而以为之文也。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《答韦中立论师 道书》</span></p>
+<p><span class="cino">(7)</span> 又如:旁入(其他收入);旁言(他人的话);旁省(别的宫廷);旁推(由此及彼地推论);旁讼(诉讼涉及他人);旁寄(别有寄托);旁贷(谓推卸他人)</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>旁</strong> <span class="dicpy">p&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/p&aacute;ng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 旁边。古同&ldquo;傍&rdquo; <span class="encs">[side]</span></p>
+<p><span class="diczx1">旁，犹边也，侧也。&mdash;&mdash;<span class="smcs">《玉篇》</span></span></p>
+<p><span class="diczx1">其旁可以圉风寒，上可以圉雪霜露。&mdash;&mdash;<span class="smcs">《墨子&middot;节用中》</span></span></p>
+<p><span class="diczx1">旁天子而立于堂上。&mdash;&mdash;<span class="smcs">《逸周书&middot;王会》</span></span></p>
+<p><span class="diczx1">士旁三揖。&mdash;&mdash;<span class="smcs">《礼记&middot;丧大记》</span></span></p>
+<p><span class="diczx1">遂旁设一虚坐，置琵琶于其上。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王傥</span><span class="smcs">《唐语林&middot;雅量》</span></p>
+<p><span class="diczx1">斫其正，养其旁条。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">龚自珍</span><span class="smcs">《病梅馆记》</span></p>
+<p><span class="cino">(2)</span> 又如:两旁(左右两边);旁首(旁边);旁训(正文旁边附注的释义或音读);旁生(旁边生长);旁立(在旁边侍立);旁仄(近侧;左右)</p>
+<p><span class="cino">(3)</span> 附近 <span class="encs">[nearby]</span></p>
+<p><span class="diczx1">天之中央亦高四旁六万里。&mdash;&mdash;<span class="smcs">《周髀算经》</span></span></p>
+<p><span class="cino">(4)</span> 又如:四旁(前后左右很近的地方);近旁(附近;旁边);旁民(附近之民);旁谷(附近的山谷);旁近;旁郡(附近的州郡);旁座(指邻座的人)</p>
+<p><span class="cino">(5)</span> 四面 <span class="encs">[round]</span>。如:旁戾(从四方而至);旁射(犹四射);旁溢(向四面八方流去);旁午(四面八方;到处)</p>
+<p><span class="cino">(6)</span> 汉字的偏旁 <span class="encs">[lateral radical of a Chinese character]</span>。如:形旁，声旁</p>
+<p>◎ <strong>旁</strong> <span class="dicpy">p&aacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/p&aacute;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 辅助，辅佐 <span class="encs">[assist]</span></p>
+<p><span class="diczx1">日有志极而无旁，终老独以离异兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;屈原&middot;九章》</span>。注:&ldquo;旁，辅也。&rdquo;</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">b&agrave;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/b&agrave;ng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/旁白">旁白</a></span><span class="crefe"><a href="/hans/旁边">旁边</a></span><span class="crefe"><a href="/hans/旁侧">旁侧</a></span><span class="crefe"><a href="/hans/旁岔儿">旁岔儿</a></span><span class="crefe"><a href="/hans/旁出">旁出</a></span><span class="crefe"><a href="/hans/旁观">旁观</a></span><span class="crefe"><a href="/hans/旁观者清">旁观者清</a></span><span class="crefe"><a href="/hans/旁及">旁及</a></span><span class="crefe"><a href="/hans/旁街">旁街</a></span><span class="crefe"><a href="/hans/旁近">旁近</a></span><span class="crefe"><a href="/hans/旁路">旁路</a></span><span class="crefe"><a href="/hans/旁落">旁落</a></span><span class="crefe"><a href="/hans/旁门">旁门</a></span><span class="crefe"><a href="/hans/旁门歪道">旁门歪道</a></span><span class="crefe"><a href="/hans/旁门左道">旁门左道</a></span><span class="crefe"><a href="/hans/旁敲侧击">旁敲侧击</a></span><span class="crefe"><a href="/hans/旁人">旁人</a></span><span class="crefe"><a href="/hans/旁若无人">旁若无人</a></span><span class="crefe"><a href="/hans/旁听">旁听</a></span><span class="crefe"><a href="/hans/旁通">旁通</a></span><span class="crefe"><a href="/hans/旁骛">旁骛</a></span><span class="crefe"><a href="/hans/旁系亲属">旁系亲属</a></span><span class="crefe"><a href="/hans/旁压力">旁压力</a></span><span class="crefe"><a href="/hans/旁征博引">旁征博引</a></span><span class="crefe"><a href="/hans/旁证">旁证</a></span><span class="crefe"><a href="/hans/旁支">旁支</a></span><span class="crefe"><a href="/hans/旁注">旁注</a></span><span class="crefe"><a href="/hans/旁坐">旁坐</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>旁</rb></rbc><rtc><rt>ㄆㄤˊ</rt></rtc><rtc><rt>p&aacute;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0384.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">侧、边。</span><span class="gc_lz">如：「两旁」、「路旁」。</span><span class="gc_yy">唐&middot;杜甫〈兵车行〉：「道旁过者问行人，行人但云点行频。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">辅佐、帮助。</span><span class="gc_yy">《楚辞&middot;屈原&middot;九章&middot;惜诵》：「吾使厉神占之兮，曰有志极而无旁。」</span><span class="gc_yy">汉&middot;王逸&middot;注：「旁，辅也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">汉字的偏旁。</span><span class="gc_lz">如：「立人旁」、「竖心旁」、「『张』是弓字旁的张，而非立早章。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如秦末有旁君。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">侧面的。</span><span class="gc_lz">如：「旁边」。</span><span class="gc_yy">《史记&middot;卷八&middot;高祖本纪》：「老父已去，高祖适从旁舍来。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">别的、其他的。</span><span class="gc_lz">如：「旁人」、「没旁的话」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">歧出的。</span><span class="gc_lz">如：「主干旁枝」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">不正的、偏邪的。</span><span class="gc_lz">如：「旁门左道」。</span><span class="gc_yy">《荀子&middot;议兵》：「旁辟曲私之属为之化而公，矜纠收缭之属为之化而调。」</span><span class="gc_yy">唐&middot;杨倞&middot;注：「旁，偏颇也。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">边侧的。表方位。</span><span class="gc_lz">如：「旁观」、「旁听」。</span><span class="gc_yy">《文选&middot;张衡&middot;西京赋》：「徒观其城郭之制，则旁开三门。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">广泛、普遍的。</span><span class="gc_lz">如：「旁征博引」。</span><span class="gc_yy">《书经&middot;太甲上》：「旁求俊彦，启迪后人。」</span><span class="gc_yy">《三国志&middot;卷一&middot;魏书&middot;武帝纪》：「旁施勤教，恤慎刑狱。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>旁</rb></rbc><rtc><rt>ㄅㄤˋ</rt></rtc><rtc><rt>b&agrave;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0144.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">动</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">依靠、临近。</span><span class="gc_yy">《汉书&middot;卷六九&middot;赵充国传》：「匈奴大发十余万骑，南旁塞，至符奚庐山，欲入为寇。」</span><span class="gc_yy">唐&middot;颜师古&middot;注：「旁，依也。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="65C1_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=方" target="_blank">方</a>】
+                              旁·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=方" target="_blank">方</a>】
+                              旁·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：6</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/65C1.svg">						  <p>〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/230DF.svg'><span class='k_txt'>𣃟</span><img class='lazy k_img' data-original='//img.zdic.net/song/cn/230D9.svg'><span class='k_txt'>𣃙</span>㝑【廣韻】步光切【集韻】【韻會】蒲光切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音螃。㫄隷作旁。【博雅】旁，大也。廣也。【釋名】在邊曰旁。【玉篇】猶側也。非一方也。【易&bull;乾卦】旁通情也。【書&bull;太甲】旁求俊彥。【爾雅&bull;釋宮】二達謂之岐旁。【註】岐旁，岐道旁出。</p>
+<p>又【集韻】晡橫切，音<img class='lazy k_img' data-original='//img.zdic.net/song/cn/26148.svg'><span class='k_txt'>𦅈</span>。騯騯，馬盛貌。或省作旁。【詩&bull;鄭風】駟介旁旁。【疏】北山傳云：旁旁然不得已，則此言旁旁亦爲不得已之義。【朱傳】旁旁，馳驅不息之貌。音崩。叶補岡反。</p>
+<p>又【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>蒲浪切，音傍。【前漢&bull;霍光傳】使者旁午。【註】如淳曰：旁午，分布也。師古曰：一縱一模爲旁午。猶言交橫也。</p>
+<p>又【莊子&bull;齊物論】旁日月。【註】依也。</p>
+<p>又【集韻】鋪郞切，音滂。旁礴，混同也。</p>
+<p>又【集韻】蒲庚切，音彭。旁勃，白蒿也。兔食之，壽八百歲。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="65C1_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=丄">丄</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=丄">丄</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/65C1.svg">                          <p>溥也。从二，闕；方聲。㝑，古文㫄。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/230D9.svg'><span class='k_txt'>𣃙</span>，亦古文㫄。雱，籒文。步光切〖注〗旁。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/65C1_2491.svg" /><span class="swbf">(旁)</span><span class="ywyy">溥也。</span><span class="swdz">司馬相如封禪文曰：㫄魄四塞。張揖曰：㫄，衍也。廣雅曰：㫄，大也。按㫄讀如<img class='lazy k_img' data-original='//img.zdic.net/song/cn/23DA2.svg'><span class='k_txt'>𣶢</span>，與溥雙聲。後人訓側，其義偏矣。</span><span class="ywyy">从<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2011E.svg'><span class='k_txt'>𠄞</span>。闕。</span><span class="swdz">闕謂从<img class="lazy" data-original="//img.zdic.net/xz/swdz/65C1_001.png" src="//img.zdic.net/xz/swdz/65C1_001.png">之說未聞也。李陽冰曰：<img class="lazy" data-original="//img.zdic.net/xz/swdz/65C1_001.png" src="//img.zdic.net/xz/swdz/65C1_001.png">象㫄達之形也。按自序云：其於所不知，葢闕如也。凡言闕者，或謂形，或謂音，或謂義，分別讀之。</span><span class="ywyy">方聲。</span><span class="swdz">凡徐氏鉉鍇<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2011E.svg'><span class='k_txt'>𠄞</span>本不同，各从其長者，如此處鍇作方聲闕。闕字在方聲下，於未聞从<img class="lazy" data-original="//img.zdic.net/xz/swdz/65C1_001.png" src="//img.zdic.net/xz/swdz/65C1_001.png">之說不瞭，故不从之是也。後不悉注。步光切。十部。</span></p>
+<hr />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/65C1_2492.svg" /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/230DF.svg'><span class='k_txt'>𣃟</span>)</span><span class="ywyy">古文㫄。</span><span class="swdz">以許說推之，亦小篆从二，古文从一也。</span></p>
+<hr />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/65C1_2493.svg" /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/230D9.svg'><span class='k_txt'>𣃙</span>)</span><span class="ywyy">亦古文㫄。</span><span class="swdz">李斯改一爲二，則爲小篆。</span></p>
+<hr />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/65C1_2494.svg" /><span class="swbf">(雱)</span><span class="ywyy">籒文。</span><span class="swdz">詩：雨雪其雱。故訓傳曰：雱，盛皃。卽此字也。籒文从雨，衆多如雨意也。毛云盛：與許云溥正合。今人不知㫄、雱同字，音讀各殊。古形、古音、古義、皆廢矣。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="65C1_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  pʰɑŋ˧˥; pɑŋ˥˧ <span class="z_ts4">唐代读音</span>  *bhɑng<span class="z_ts4">日语读音</span>  KATAWARA TSUKURI KATAGATA<span class="z_ts4">韩语罗马</span>  PANG PHAYNG<span class="z_ts4">现代韩语</span>  방<span class="z_ts3">越南语</span>  bàng</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] pong2 [宝安腔] pong2 [客英字典] pong2 [陆丰腔] pong3 [东莞腔] pong2 [海陆腔] pong2 [客语拼音字汇] pong2 [沙头角腔] pong2 [台湾四县腔] pong2<span class="z_ts2">粤语</span>  pong4</p>						<p><span class="z_ts3">近代音</span>  滂母    江陽韻    平聲陽    傍小空；<span class="z_ts3">中古音</span>  並母    唐韻    平聲    傍小韻    步光切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：並母    唐部   ；王力系统：並母    陽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/旁">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/旁">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/旁">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/旁">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/旁">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/旁">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/旁">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/旁">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/旁">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/旁">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/旁">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/旁">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">旁</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/旁"><img data-original="//img.zdic.net/zy/jiaguwen/41_E08B.svg" class="lazy ypic"><span>「旁」 拾5.10</span><span>合33198</span></a></td><td><a href="/zd/zx/jw/旁"><img data-original="//img.zdic.net/zy/jinwen/31_E097.svg" class="lazy ypic"><span>「旁」 㚤理又每簋</span><span>西周晚期</span><span>集成3845</span></a></td><td><a href="/zd/zx/cx/旁"><img data-original="//img.zdic.net/zy/chuwenzi/51_E167.svg" class="lazy ypic"><span>「旁」 帛甲5.19</span></a></td><td><a href="/zd/zx/xz/旁"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E002.svg" class="lazy ypic"><span>「旁」 說文古文</span></a></td><td><a href="/zd/zx/qx/旁"><img data-original="//img.zdic.net/zy/qinwenzi/71_E012.svg" class="lazy ypic"><span>「旁」 睡.秦120</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/旁" target="_blank"><img data-original="//img.zdic.net/kai/tw/65C1.svg" class="lazy ypic"><span>「旁」</span></a></td></tr><tr><td><a href="/zd/zx/jg/旁"><img data-original="//img.zdic.net/zy/jiaguwen/41_E08F.svg" class="lazy ypic"><span>「旁」 林1.17.15</span><span>合8623</span></a></td><td><a href="/zd/zx/jw/旁"><img data-original="//img.zdic.net/zy/jinwen/31_E096.svg" class="lazy ypic"><span>「旁」 旁肁鼎</span><span>西周</span><span>集成2071</span></a></td><td></td><td><a href="/zd/zx/xz/旁"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E003.svg" class="lazy ypic"><span>「旁」 說文古文</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/旁"><img data-original="//img.zdic.net/zy/jinwen/35_E0CC.svg" class="lazy ypic"><span>「旁」 者減鐘</span><span>春秋早期</span><span>集成198</span></a></td><td></td><td><a href="/zd/zx/xz/旁"><img data-original="//img.zdic.net/zy/xiaozhuan/27_96F1.svg" class="lazy ypic"><span>「雱」 說文籀文</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/旁">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/旁">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/旁">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/旁">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/旁">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/旁">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/65C1.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/65C1.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/65C1.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/65C1.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/65C1.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㝑' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/3751.svg'><span>㝑</span></a></div> <div class='zx'><a href='/hans/㫄' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/3AC4.svg'><span>㫄</span></a></div> <div class='zx'><a href='/hans/傍' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/508D.svg'><span>傍</span></a></div> <div class='zx'><a href='/hans/雱' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/96F1.svg'><span>雱</span></a></div> <div class='zx'><a href='/hans/𣃙' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/230D9.svg'><span>𣃙</span></a></div>  <div class='zx'><a href='/hans/𣃟' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/230DF.svg'><span>𣃟</span></a></div>  <div class='zx'><a href='/hans/𣃪' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/230EA.svg'><span>𣃪</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6082" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6266">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/尨">尨(pang2)</a></li><li><a href="/hans/趽">趽(pang2)</a></li><li><a href="/hans/舽">舽(pang2)</a></li><li><a href="/hans/䂇">䂇(pang2)</a></li><li><a href="/hans/鰟">鰟(pang2)</a></li><li><a href="/hans/㝑">㝑(pang2)</a></li><li><a href="/hans/夆">夆(pang2)</a></li><li><a href="/hans/㑂">㑂(pang2)</a></li><li><a href="/hans/鳑">鳑(pang2)</a></li><li><a href="/hans/篣">篣(pang2)</a></li><li><a href="/hans/䮾">䮾(pang2)</a></li><li><a href="/hans/龐">龐(pang2)</a></li><li><a href="/hans/蛖">蛖(bang4)</a></li><li><a href="/hans/縍">縍(bang4)</a></li><li><a href="/hans/䧛">䧛(bang4)</a></li><li><a href="/hans/鎊">鎊(bang4)</a></li><li><a href="/hans/䂜">䂜(bang4)</a></li><li><a href="/hans/镑">镑(bang4)</a></li><li><a href="/hans/蒡">蒡(bang4)</a></li><li><a href="/hans/蚌">蚌(bang4)</a></li><li><a href="/hans/㭋">㭋(bang4)</a></li><li><a href="/hans/䎧">䎧(bang4)</a></li><li><a href="/hans/挷">挷(bang4)</a></li><li><a href="/hans/謗">謗(bang4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㫏">㫏</a></li><li><a href="/hans/旉">旉</a></li><li><a href="/hans/旕">旕</a></li><li><a href="/hans/旃">旃</a></li><li><a href="/hans/旅">旅</a></li><li><a href="/hans/旜">旜</a></li><li><a href="/hans/旝">旝</a></li><li><a href="/hans/旘">旘</a></li><li><a href="/hans/旔">旔</a></li><li><a href="/hans/旞">旞</a></li><li><a href="/hans/㫌">㫌</a></li><li><a href="/hans/旀">旀</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/眘">眘</a></li><li><a href="/hans/袑">袑</a></li><li><a href="/hans/浭">浭</a></li><li><a href="/hans/晆">晆</a></li><li><a href="/hans/栔">栔</a></li><li><a href="/hans/釖">釖</a></li><li><a href="/hans/釜">釜</a></li><li><a href="/hans/涡">涡</a></li><li><a href="/hans/𠅞">𠅞</a></li><li><a href="/hans/朕">朕</a></li><li><a href="/hans/株">株</a></li><li><a href="/hans/离">离</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>旁</span>开小窗，左右各四，共八扇。</div><div class="gscdr">明·魏学洢 《核舟记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6082"></script>
+</body>
+</html>

@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>用的解释|用的意思|汉典“用”字的基本解释</title>
+<meta name="title" content="用的解释|用的意思|汉典“用”字的基本解释">
+<meta property="og:title" content="“用”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“用”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“用”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/用" />
+<link rel="canonical" href="//www.zdic.net/hans/用" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/用" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/用" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/用" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/用">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/用">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/7528.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/7528.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“用”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄩㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“用”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩㄥˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=用" target="_blank">  用</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_ytz2"><a href='/hans/佣' target=_blank>佣</a>  <a href='/hans/𠂦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/200A6.svg'><span class='ytz_txt'>𠂦</span></a>  <a href='/hans/𠂵' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/200B5.svg'><span class='ytz_txt'>𠂵</span></a>  <a href='/hans/𠛁' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/206C1.svg'><span class='ytz_txt'>𠛁</span></a>  <a href='/hans/𡶤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21DA4.svg'><span class='ytz_txt'>𡶤</span></a>  <a href='/hans/𤰃' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24C03.svg'><span class='ytz_txt'>𤰃</span></a>  <a href='/hans/𤰆' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24C06.svg'><span class='ytz_txt'>𤰆</span></a>  <a href='/hans/傭' target=_blank>傭</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7528</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>35112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>etnh</p></td>                            <td class="dsk_2_1"><p>bq</p></td>                            <td class="dsk_2_1"><p>ldbi</p></td>                            <td class="dsk_2_1"><p>77220</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“用”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄩㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“用”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩㄥˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=用" target="_blank">用</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">统一码</span> 7528<span class="z_ts2">笔顺</span> 35112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7528_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=10025" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>用</strong></p><p><span class="dicpy">yòng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span>  ㄩㄥˋ</span></p><ol><li>使人或物发挥其功能：使～。～心。～兵。～武。</li><li>可供使用的：～品。～具。</li><li>进饭食的婉辞：～饭。</li><li>花费的钱财：费～。～项。～资。</li><li>物质使用的效果：功～。有～之才。</li><li>需要（多为否定）：不～多说。</li><li>因此：～此。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> use, employ, apply, operate; use</p><p><span class="z_ts2">德语</span> Haushalt  (S)​,Tor  (S)​,Nutzen, Nützlichkeit, Brauchbarkeit  (S)​,verwenden, anwenden, gebrauchen, benutzen  (V)</p><p><span class="z_ts2">法语</span> utiliser,employer (qch)​,avoir à faire ceci ou cela,manger ou boire,frais ou dépenses,utilité,c'est pourquoi,donc,par conséquent,avec</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>用</strong> <span class="dicpy">yòng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (象形。甲骨文字形，象桶形。桶可用，故引申为用。本义:使用，采用)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[use;employ]</span></p><p><span class="diczx1">用，可施行也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">用，以也。——<span class="smcs">《苍颉篇》</span></span></p><p><span class="diczx1">利用为大作。——<span class="smcs">《易·益》</span></span></p><p><span class="diczx1">五行五用哉。——<span class="smcs">《虞书》</span></span></p><p><span class="diczx1">乃攘窃神胝之牺牷牺用。——<span class="smcs">《书·微子》</span></span></p><p><span class="diczx1">乘其财用出入。——<span class="smcs">《周礼·宰夫》</span></span></p><p><span class="diczx1">乃会万民之卒伍而用之。——<span class="smcs">《周礼·小司徒》</span></span></p><p><span class="diczx1">保甲之法，起于</span><span class="diczx2">三代</span>丘甲。 <span class="diczx2">管仲</span>用之 <span class="diczx2">齐</span>， <span class="diczx2">子产</span>用之 <span class="diczx2">郑</span>， <span class="diczx2">商君</span>用之 <span class="diczx2">秦</span>， <span class="diczx2">仲长统</span>言之 <span class="diczx2">汉</span>，而非今日之立异也。—— <span class="diczx2">宋</span>· <span class="diczx2">王安石</span><span class="smcs">《上五事札子》</span></p><p><span class="diczx1">皆不足用。——</span><span class="diczx2">明</span>· <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p><p><span class="diczx1">用水彩。——</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p><p><span class="diczx1">兼用激刺。</span></p><p><span class="diczx1">又用篆章。——</span><span class="diczx2">明</span>· <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p><p><span class="cino">(3)</span> 又如:用不着(没办法);备用(准备着供随时使用);实用(实际使用);拆用(拆开使用);用功(使用功力);用长(使用长武器);用板(使用诏书);用计(使用计谋);用天因地(利用天时，顺应地利);用钱(使用钱币);用药(使用药物)</p><p><span class="cino">(4)</span> 任用(委派人员担任职务) <span class="encs">[appoint]</span></p><p><span class="diczx1">不用尚书郎。——<span class="smcs">《乐府诗集·木兰诗》</span></span></p><p><span class="diczx1">用于昔日。——</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p><p><span class="diczx1">贤能为之用。——<span class="smcs">《三国志·诸葛亮传》</span></span></p><p><span class="diczx1">不能用也。——<span class="smcs">《资治通鉴》</span></span></p><p><span class="cino">(5)</span> 又如:大材小用(用人不当);重用(把某人放在重要的岗位上);叙用(任用);起用(重新起用已退职或已免职的人员);用才(任用人才);用臣(可任用之臣);用行舍藏(被任用就行其道，不被任用就退隐);用贤(任用贤人)</p><p><span class="cino">(6)</span> 运用(根据事物的特性加以利用) <span class="encs">[apply]</span></p><p><span class="diczx1">用间有五:有因间、有内间、有反间、有死间、有生间。——<span class="smcs">《孙子·用间》</span></span></p><p><span class="cino">(7)</span> 又如:用间(运用间谍);用计铺谋(安排计谋;出谋划策);用长(运用其所长);用奇(指军事上运用出人意料的策略);用思(运用心思);用智(运用智谋)</p><p><span class="cino">(8)</span> 治理;管理 <span class="encs">[administer]</span></p><p><span class="diczx1">仁人之用国，将修志意，正身行。——<span class="smcs">《荀子》</span></span></p><p><span class="cino">(9)</span> 又如:用民(治理和役使民众)</p><p><span class="cino">(10)</span> 出力;效命 <span class="encs">[put forth one's strength]</span></p><p><span class="diczx1">国有事，则学民恶法，商民善化，技艺之民不用，故其国易破也。——<span class="smcs">《商君书》</span></span></p><p><span class="cino">(11)</span> 又如:用精(专心一意)</p><p><span class="cino">(12)</span> 需要 <span class="encs">[need]</span></p><p><span class="diczx1">生不用封万户侯，但愿一识</span><span class="diczx2">韩荆州</span>。—— <span class="diczx2">李白</span><span class="smcs">《与韩荆州书》</span></p><p><span class="cino">(13)</span> 又如:不用</p><p><span class="cino">(14)</span> 吃;饮 <span class="encs">[eat;drink]</span>。如:用茶(饮茶，喝茶);用膳(吃饭);用餐(吃饭);用烟(吸烟，抽烟)</p><p><span class="cino">(15)</span> 执政;当权 <span class="encs">[be in power]</span></p><p><span class="diczx1">孔子用于楚，则</span><span class="diczx2">陈蔡</span>用事大夫危矣。——<span class="smcs">《史记》</span></p><p><span class="cino">(16)</span> 行事;行动 <span class="encs">[act]</span></p><p><span class="diczx1">经称鹏之用，其将飞也必待海之运，其飞也必以怒。——</span><span class="diczx2">明</span>· <span class="diczx2">徐渭</span><span class="smcs">《赡张君序》</span></p><p><strong>词性变化</strong></p><p>◎ <strong>用</strong> <span class="dicpy">yòng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> 功用;功能 <span class="encs">[function]</span></p><p><span class="diczx1">小礼无所用。——<span class="smcs">《史记·魏公子列传》</span></span></p><p><span class="diczx1">彼虽善事，其用不足称也。——</span><span class="diczx2">唐</span>· <span class="diczx2">韩愈</span><span class="smcs">《原毁》</span></p><p><span class="diczx1">其用不足称。——</span><span class="diczx2">唐</span>· <span class="diczx2">韩愈</span><span class="smcs">《原毁》</span></p><p><span class="diczx1">灵用不同。——</span><span class="diczx2">唐</span>· <span class="diczx2">李朝威</span><span class="smcs">《柳毅传》</span></p><p><span class="diczx1">其用有二。——<span class="encs">[英]</span></span><span class="diczx2">赫胥黎</span>著、 <span class="diczx2">严复</span>译<span class="smcs">《天演论》</span></p><p><span class="cino">(2)</span> 又如:用头(用途)</p><p><span class="cino">(3)</span> 器用;物质 <span class="encs">[material]</span></p><p><span class="diczx1">地方数千里，兵精足用，英雄乐业，当横行天下。——<span class="smcs">《资治通鉴》</span></span></p><p><span class="cino">(4)</span> 又如:用器(器物;使用器物)</p><p><span class="cino">(5)</span> 费用，资财 <span class="encs">[cost;expenses]</span></p><p><span class="diczx1">给其食用。——<span class="smcs">《战国策·齐策四》</span></span></p><p><span class="diczx1">多求妄用。——</span><span class="diczx2">宋</span>· <span class="diczx2">司马光</span><span class="smcs">《训俭示康》</span></p><p><span class="diczx1">兵精足用。——<span class="smcs">《资治通鉴》</span></span></p><p><span class="diczx1">裹物之用。——</span><span class="diczx2">明</span>· <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄·种植部》</span></p><p><span class="diczx1">家常之用。</span></p><p>◎ <strong>用</strong> <span class="dicpy">yòng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span> </p><p>〈介〉</p><p><span class="cino">(1)</span> 因;由 <span class="encs">[with;on]</span></p><p><span class="diczx1">觉见卧闻，俱用精神。——<span class="smcs">《论衡》</span></span></p><p><span class="cino">(2)</span> 又如:用逸待劳(以逸待劳);用情(以真实的感情相待)</p><p><span class="cino">(3)</span> 凭，拿 <span class="encs">[rely on]</span></p><p><span class="diczx1">何用识夫婿。——<span class="smcs">《乐府诗集·陌上桑》</span></span></p><p><span class="diczx1">高蝉正用一枝鸣。——</span><span class="diczx2">宋</span>· <span class="diczx2">洪迈</span><span class="smcs">《容斋续笔》</span></p><p><span class="cino">(4)</span> 因，因为 <span class="encs">[because of;for]</span></p><p><span class="diczx1">必用此为务。——<span class="smcs">《史记·货殖列传》</span></span></p><p><span class="diczx1">用甲第为国相。——</span><span class="diczx2">清</span>· <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p><p><span class="diczx1">用此。——</span><span class="diczx2">清</span>· <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p><p>◎ <strong>用</strong> <span class="dicpy">yòng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yòng.mp3"></a></span> </p><p><连></p><p><span class="cino">(1)</span> 表示结果，相当于<span class="yhcs">“因而”</span>、<span class="yhcs">“于是”</span> <span class="encs">[hence;therefore;thus]</span></p><p><span class="diczx1">明淫于家，用殄厥也。——<span class="smcs">《书·益稷》</span></span></p><p><span class="cino">(2)</span> 又如:用是(因此)</p><p><span class="cino">(3)</span> 表示目的，相当于<span class="yhcs">“为了”</span>、<span class="yhcs">“为的是”</span> <span class="encs">[for]</span></p><p><span class="diczx1">朕及笃敬，恭承民命，用永地于新邑。——《书·盘庚下</span></p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/用兵">用兵</a></span><span class="crefe"><a href="/hans/用兵如神">用兵如神</a></span><span class="crefe"><a href="/hans/用场">用场</a></span><span class="crefe"><a href="/hans/用处">用处</a></span><span class="crefe"><a href="/hans/用词">用词</a></span><span class="crefe"><a href="/hans/用词不当">用词不当</a></span><span class="crefe"><a href="/hans/用度">用度</a></span><span class="crefe"><a href="/hans/用费">用费</a></span><span class="crefe"><a href="/hans/用工夫">用工夫</a></span><span class="crefe"><a href="/hans/用功">用功</a></span><span class="crefe"><a href="/hans/用户">用户</a></span><span class="crefe"><a href="/hans/用具">用具</a></span><span class="crefe"><a href="/hans/用力">用力</a></span><span class="crefe"><a href="/hans/用命">用命</a></span><span class="crefe"><a href="/hans/用品">用品</a></span><span class="crefe"><a href="/hans/用人">用人</a></span><span class="crefe"><a href="/hans/用人">用人</a></span><span class="crefe"><a href="/hans/用舍行藏">用舍行藏</a></span><span class="crefe"><a href="/hans/用事">用事</a></span><span class="crefe"><a href="/hans/用途">用途</a></span><span class="crefe"><a href="/hans/用武">用武</a></span><span class="crefe"><a href="/hans/用武之地">用武之地</a></span><span class="crefe"><a href="/hans/用贤任能">用贤任能</a></span><span class="crefe"><a href="/hans/用心">用心</a></span><span class="crefe"><a href="/hans/用心">用心</a></span><span class="crefe"><a href="/hans/用意">用意</a></span><span class="crefe"><a href="/hans/用语">用语</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>用</rb></rbc><rtc><rt>ㄩㄥˋ</rt></rtc><rtc><rt>yòng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6617.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">功效。</span><span class="gc_lz">如：「功<b>用</b>」、「效<b>用</b>」、「作<b>用</b>」、「有<b>用</b>」。</span><span class="gc_yy">《论语·学而》：「礼之用，和为贵。」</span></p></li><li><p class="def"><span class="gc_sy">钱财的花费。</span><span class="gc_lz">如：「家<b>用</b>」、「费<b>用</b>」。</span><span class="gc_yy">《论语·学而》：「道千乘之国，敬事而信，节<b>用</b>而爱人，使民以时。」</span></p></li><li><p class="def"><span class="gc_sy">器物。</span><span class="gc_lz">如：「器<b>用</b>」。</span><span class="gc_yy">《国语·周语上》：「司空除坛于籍，命农大夫咸戒农<b>用</b>。」</span></p></li><li><p class="def"><span class="gc_sy">姓。如汉代有<b><b>用</b></b>虬。</span></p></li><li><p class="def"><span class="gc_sy">二一四部首之一。</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">任命。</span><span class="gc_lz">如：「任<b>用</b>」。</span><span class="gc_yy">《论语·阳货》：「如有<b>用</b>我者，吾其为东周乎！」</span></p></li><li><p class="def"><span class="gc_sy">行使、施行。</span><span class="gc_lz">如：「运<b>用</b>」、「应<b>用</b>」。</span><span class="gc_yy">《左传·襄公二十六年》：「虽楚有材，晋实<b>用</b>之。」</span><span class="gc_yy">《孟子·告子上》：「则凡可以得生者，何不<b>用</b>也。」</span></p></li><li><p class="def"><span class="gc_sy">进食、吃喝。</span><span class="gc_lz">如：「用餐」、「用茶」。</span><span class="gc_yy">《韩非子·外储说左下》：「孔子侍坐于鲁哀公，哀公赐之桃与黍。哀公曰：『请<b>用</b>。』」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">副</span><ol><li><p class="def"><span class="gc_sy">要、需要。</span><span class="gc_lz">如：「不<b>用</b>急」、「反正今天没课，你不<b>用</b>来。」</span><span class="gc_yy">唐·李白〈与韩荆州书〉：「生不<b>用</b>封万户侯，但愿一识韩荆州。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">介</span><ol><li><p class="def"><span class="gc_sy">表示行为的方式、凭借。相当于「以」。</span><span class="gc_lz">如：「用手蒙住眼睛。」</span><span class="gc_yy">《孟子·滕文公上》：「吾闻用夏变夷者，未闻变于夷者也。」</span></p></li><li><p class="def"><span class="gc_sy">表示原因。相当于「因」、「因为」。</span><span class="gc_yy">唐·柳宗元〈梓人传〉：「又不能备其工，以至败绩，<b>用</b>而无所成也。」</span><span class="gc_yy">孙文〈心理建设自序〉：「吾志所向，一往无前，愈挫愈勇，再接再厉，<b>用</b>能鼓励风潮，造成时势。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7528_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=用" target="_blank">用</a>】
+                              用·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=用" target="_blank">用</a>】
+                              用·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：0</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7528.svg">						  <p>〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C06.svg'><span class='k_txt'>𤰆</span><img class='lazy k_img' data-original='//img.zdic.net/song/cn/206C1.svg'><span class='k_txt'>𠛁</span>【唐韻】【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>余頌切，容去聲。【說文】可施行也。【易·乾卦】初九，潛龍勿用。【疏】唯宜潛藏，勿可施用。【書·臯陶謨】天討有罪，五<img class='lazy k_img' data-original='//img.zdic.net/song/cn/206EC.svg'><span class='k_txt'>𠛬</span>五用哉。</p><p>又【廣韻】使也。【左傳·襄二十六年】惟楚有材，晉實用之。【杜甫詩】古來才大難爲用。</p><p>又功用。【易·繫辭】顯諸仁，藏諸用。【疏】謂潛藏功用，不使物知，是藏諸用也。【論語】禮之用，和爲貴。</p><p>又貨也。【書·大禹謨】正德利用厚生。【疏】謂在上節儉，不爲糜費，以利而用，使財物殷阜。【禮·王制】冢宰制國用，必於歲之杪，五穀皆入，然後制國用。</p><p>又以也。【詩·小雅】謀夫孔多，是用不集。【古樂府】何用識夫壻，白馬從驪駒。</p><p>又庸也。【論語】則四方之民，襁負其子而至矣，焉用稼。</p><p>又【增韻】器用也。【書·微子】今殷民乃攘竊神祇之犧牷牲用以容。【傳】器實曰用。【左傳·襄二十五年】我先王賴其利器用也。</p><p>又【廣韻】通也。</p><p>又姓。漢有用蚪，爲高唐令。</p><p>又【韻補】叶餘封切，音容。【詩·小雅】謀臧不從，不臧覆用。【陸賈新語】大化絕而不通，道德施而不用。【又】立則爲太山衆本之宗，仆則爲萬世之用。</p><p>又【六書正譌】周伯琦曰：用，古鏞字，鐘也。古㱁識，商鐘寅簋鐘字皆作用，後人借爲施用字。</p><p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7528_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=用">用</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=用">用</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7528.svg">                          <p>可施行也。从卜从中。衞宏說。凡用之屬皆从用。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C06.svg'><span class='k_txt'>𤰆</span>，古文用。余訟切〖注〗臣鉉等曰：卜中乃可用也。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7528_4054.svg"  /><span class="swbf">(用)</span><span class="ywyy">可施行也。从⺊中。衞宏說。</span><span class="swdz">⺊中則可施行。故取以會意。余訟切。九部。</span><span class="ywyy">凡用之屬皆从用。</span><span class="xh"></span></p><hr><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7528_4055.svg"  /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/200A6.svg'><span class='k_txt'>𠂦</span>)</span><span class="ywyy">古文用。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7528_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  juŋ˥˧ <span class="z_ts4">唐代读音</span>  *iòng<span class="z_ts4">日语读音</span>  MOCHIIRU HATARAKI MOTTE<span class="z_ts4">韩语罗马</span>  YONG<span class="z_ts4">现代韩语</span>  용<span class="z_ts3">越南语</span>  dụng</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] jung5 [客英字典] jung5 [海陆腔] rung6 [客语拼音字汇] yung4 [台湾四县腔] jung5 [宝安腔] jung3 [陆丰腔] jung6 [梅县腔] jung5 [东莞腔] jung3<span class="z_ts2">粤语</span>  jung6</p>						<p><span class="z_ts3">近代音</span>  影母    東鍾韻    去聲    用小空；<span class="z_ts3">中古音</span>  喻以母    用韻    去聲    用小韻    余頌切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：影母    東部   ；王力系统：餘母    東部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/用">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/用">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/用">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/用">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/用">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/用">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/用">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/用">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/用">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/用">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/用">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/用">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/用">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">用</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/用"><img data-original="//img.zdic.net/zy/jiaguwen/45_F05F.svg" class="lazy ypic"><span>「用」 甲2324</span></a></td><td><a href="/zd/zx/jw/用"><img data-original="//img.zdic.net/zy/jinwen/31_F2C1.svg" class="lazy ypic"><span>「用」 我方鼎</span><span>西周早期</span><span>集成2763</span></a></td><td><a href="/zd/zx/cx/用"><img data-original="//img.zdic.net/zy/chuwenzi/55_F4E8.svg" class="lazy ypic"><span>「用」 郭.語3.55</span></a></td><td><a href="/zd/zx/xz/用"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E2DB.svg" class="lazy ypic"><span>「用」 說文古文</span></a></td><td><a href="/zd/zx/qx/用"><img data-original="//img.zdic.net/zy/qinwenzi/71_E379.svg" class="lazy ypic"><span>「用」 睡.秦88</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/用" target="_blank"><img data-original="//img.zdic.net/kai/tw/7528.svg" class="lazy ypic"><span>「用」</span></a></td></tr><tr><td><a href="/zd/zx/jg/用"><img data-original="//img.zdic.net/zy/jiaguwen/41_F3CD.svg" class="lazy ypic"><span>「用」 鐵116.1</span><span>合15420</span></a></td><td><a href="/zd/zx/jw/用"><img data-original="//img.zdic.net/zy/jinwen/31_F317.svg" class="lazy ypic"><span>「用」 杞伯每亡鼎</span><span>春秋早期</span><span>集成2495</span></a></td><td></td><td><a href="/zd/zx/xz/用"><img data-original="//img.zdic.net/zy/xiaozhuan/27_7528.svg" class="lazy ypic"><span>「用」 說文‧用部</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/用"><img data-original="//img.zdic.net/zy/jiaguwen/41_F3D9.svg" class="lazy ypic"><span>「用」 後1.15.3</span><span>合29256</span></a></td><td><a href="/zd/zx/jw/用"><img data-original="//img.zdic.net/zy/jinwen/31_F338.svg" class="lazy ypic"><span>「甬」 曾姬無卹壺</span><span>戰國早期</span><span>集成9710</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/用">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/用">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/用">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/用">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/用">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/用">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7528.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7528.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7528.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7528.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/7528.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/佣' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4F63.svg'><span>佣</span></a></div> <div class='zx'><a href='/hans/𠂦' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/200A6.svg'><span>𠂦</span></a></div>  <div class='zx'><a href='/hans/𠂵' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/200B5.svg'><span>𠂵</span></a></div>  <div class='zx'><a href='/hans/𠛁' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/206C1.svg'><span>𠛁</span></a></div>  <div class='zx'><a href='/hans/𡶤' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/21DA4.svg'><span>𡶤</span></a></div>  <div class='zx'><a href='/hans/𤰃' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/24C03.svg'><span>𤰃</span></a></div>  <div class='zx'><a href='/hans/𤰆' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/24C06.svg'><span>𤰆</span></a></div>  <div class='zx'><a href='/hans/傭' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/50AD.svg'><span>傭</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="10025" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7565">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/苚">苚(yong4)</a></li><li><a href="/hans/砽">砽(yong4)</a></li><li><a href="/hans/佣">佣(yong4)</a></li><li><a href="/hans/㞲">㞲(yong4)</a></li><li><a href="/hans/醟">醟(yong4)</a></li><li><a href="/hans/蒏">蒏(yong4)</a></li><li><a href="/hans/㶲">㶲(yong4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/甩">甩</a></li><li><a href="/hans/甬">甬</a></li><li><a href="/hans/甪">甪</a></li><li><a href="/hans/甯">甯</a></li><li><a href="/hans/甫">甫</a></li><li><a href="/hans/甭">甭</a></li><li><a href="/hans/甮">甮</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠙽">𠙽</a></li><li><a href="/hans/肊">肊</a></li><li><a href="/hans/邛">邛</a></li><li><a href="/hans/矢">矢</a></li><li><a href="/hans/𠙻">𠙻</a></li><li><a href="/hans/仕">仕</a></li><li><a href="/hans/㲼">㲼</a></li><li><a href="/hans/叴">叴</a></li><li><a href="/hans/孕">孕</a></li><li><a href="/hans/仪">仪</a></li><li><a href="/hans/尓">尓</a></li><li><a href="/hans/发">发</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">可汗问所欲，木兰不<span>用</span>尚书郎，愿驰千里足，送儿还故乡。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">又<span>用</span>篆章一，文曰“初平山人”，其色丹。</div><div class="gscdr">明·魏学洢 《核舟记》</div><div class="gscdl">故人不独亲其亲，不独子其子，使老有所终，壮有所<span>用</span>，幼有所长，矜、寡、孤、独、废疾者皆有所养，男有分，女有归。</div><div class="gscdr">先秦·礼记 《大道之行也》</div><div class="gscdl">如使人之所欲莫甚于生，则凡可以得生者何不<span>用</span>也？使人之所恶莫甚于死者，则凡可以辟患者何不为也？由是则生而有不<span>用</span>也，由是则可以辟患而有不为也。</div><div class="gscdr">先秦·孟子 《鱼我所欲也》</div><div class="gscdl">自谓少时<span>用</span>心于学甚劳，是可谓善学者矣！其将归见其亲也，余故道为学之难以告之。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div><div class="gscdl">将军向宠，性行淑均，晓畅军事，试<span>用</span>于昔日，先帝称之曰能，是以众议举宠为督。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=10025"></script>
+</body>
+</html>

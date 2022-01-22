@@ -1,0 +1,629 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>裁的解释|裁的意思|汉典“裁”字的基本解释</title>
+<meta name="title" content="裁的解释|裁的意思|汉典“裁”字的基本解释">
+<meta name="keywords" content="右上: 𢦏, 左下: 衣。 " /><meta property="og:title" content="“裁”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“裁”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“裁”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/裁" />
+<link rel="canonical" href="//www.zdic.net/hans/裁" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/裁" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/裁" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/裁" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/裁">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/裁">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/88C1.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/88C1.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">cái<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“裁”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cái.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄘㄞˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“裁”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘㄞˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=衣" target="_blank">  衣</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  12</p></td>                                                        <td class="z_ytz2"><a href='/hans/𧚝' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2769D.svg'><span class='ytz_txt'>𧚝</span></a> <a href='/hans/𧚶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/276B6.svg'><span class='ytz_txt'>𧚶</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+88C1</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>121413534534</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>faye</p></td>                            <td class="dsk_2_1"><p>jiyhv</p></td>                            <td class="dsk_2_1"><p>ehsr</p></td>                            <td class="dsk_2_1"><p>43750</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">cái<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“裁”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cái.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄘㄞˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“裁”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘㄞˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=衣" target="_blank">衣</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 12</p>                    <p><span class="z_ts3">基本区</span> 88C1<span class="z_ts2">笔顺</span> 121413534534                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="88C1_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=15042" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>裁</strong></p><p><span class="dicpy">c&aacute;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span>  ㄘㄞˊ</span></p><hr class="dichr" /><ol>	<li>用剪子剪布或用刀子割纸：～剪。～缝。～衣。对～。</li>	<li>减除，去掉一部分：～减。～军。～员。</li>	<li>决定，判断：～判。～夺（考虑决定）。～决。～度（<span class="dicpy">du&oacute;</span>）。～断。</li>	<li>安排取舍：体～。别～。独出心～。</li>	<li>节制，抑止：制～。独～。</li>	<li>杀：自～。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> cut out; decrease</p><p><span class="z_ts2">德语</span> herausgeschnitten (als Kleid)​, geschnitten, Ordnung, verringern, vermindern, Entscheidung, Urteil</p><p><span class="z_ts2">法语</span> tailler,couper,réduire,diminuer,renvoyer,sanctionner</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>裁</strong> <span class="dicpy">c&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (形声。从衣，( <span class="dicpy">zāi</span>)声。本义:裁制，剪裁)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[cut]</span></p>
+<p><span class="diczx1">裁，制衣也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">夷衾质杀之，裁犹冒之。&mdash;&mdash;<span class="smcs">《礼记&middot;丧大记》</span>。注:&ldquo;犹制也。&rdquo;</span></p>
+<p><span class="diczx1">十四学裁衣。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">裁此百日功，唯将一朝舞。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韦应物</span><span class="smcs">《杂体》</span></p>
+<p><span class="diczx3">又如:套裁;剪裁;对裁;裁衣(裁剪衣料制作衣服)</span></p>
+<p><span class="cino">(3)</span> 裁定;判断 <span class="encs">[decide;judge]</span></p>
+<p><span class="diczx1">大王裁其罪。&mdash;&mdash;<span class="smcs">《战国策&middot;秦策》</span>。注:&ldquo;制也。&rdquo;</span></p>
+<p><span class="diczx1">裁大者众之所比也。&mdash;&mdash;<span class="smcs">《管子&middot;地形》</span>。注:&ldquo;断也。&rdquo;</span></p>
+<p><span class="diczx2">公羊</span>辨而裁。&mdash;&mdash;<span class="smcs">《谷梁传&middot;序》</span>。注:&ldquo;谓善能裁断。&rdquo;</p>
+<p><span class="diczx1">今请姑娘裁夺着，再添些也使得。&mdash;&mdash;<span class="smcs">《红楼梦》</span></span></p>
+<p><span class="diczx3">又如:裁示(裁决并指示);裁答(裁决答复)</span></p>
+<p><span class="cino">(4)</span> 删除;削减 <span class="encs">[reduce;cut down]</span></p>
+<p><span class="diczx1">而裁其贾以招民。&mdash;&mdash;<span class="smcs">《汉书&middot;食货志》</span>。注:&ldquo;谓减省之也。&rdquo;</span></p>
+<p><span class="diczx1">又裁节邮传冗费。&mdash;&mdash;<span class="smcs">《明史&middot;海瑞传》</span></span></p>
+<p><span class="diczx3">又如:裁革(减免);裁人(裁员。裁减人员)</span></p>
+<p><span class="cino">(5)</span> 割裂;割断 <span class="encs">[cut apart;separate]</span>。</p>
+<p><span class="diczx3">如:裁剖(切开);裁截(切割成段;切截整齐)</span></p>
+<p><span class="cino">(6)</span> 安排取舍(多指文学艺术)<span class="encs">[arrange;edit]</span>。</p>
+<p><span class="diczx3">如:裁长补短(取长补短);裁红点翠(比喻选择华丽的辞藻)</span></p>
+<p><span class="cino">(7)</span> 杀戮 <span class="encs">[kill]</span></p>
+<p><span class="diczx1">跪而自裁。&mdash;&mdash;<span class="smcs">《汉书&middot;贾谊传》</span></span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>裁</strong> <span class="dicpy">c&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 体制 <span class="encs">[system]</span></p>
+<p><span class="diczx1">取殊裁于八都。&mdash;&mdash;</span><span class="diczx2">张衡</span><span class="smcs">《西京赋》</span></p>
+<p><span class="diczx3">又如:裁制(规模制式)</span></p>
+<p><span class="cino">(2)</span> 成衣工 <span class="encs">[tailor]</span>。</p>
+<p><span class="diczx3">如:裁衣(裁缝)</span></p>
+<p>◎ <strong>裁</strong> <span class="dicpy">c&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 通&ldquo;纔&rdquo;。刚刚 <span class="encs">[just]</span></p>
+<p><span class="diczx1">裁日阅数人。&mdash;&mdash;<span class="smcs">《汉书&middot;王贡两龚鲍传序》</span></span></p>
+<p><span class="diczx1">手裁举。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx1">抵透光处，炬裁尽。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="cino">(2)</span> 通&ldquo;纔&rdquo;。仅仅 <span class="encs">[only]</span></p>
+<p><span class="diczx1">裁买城西数亩地，槀葬而已。&mdash;&mdash;<span class="smcs">《汉书&middot;马援传》</span></span></p>
+<p><span class="diczx1">裁封数百户。</span></p>
+<p><span class="diczx1">士生一世，但取衣食裁足。</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/裁兵">裁兵</a></span><span class="crefe"><a href="/hans/裁并">裁并</a></span><span class="crefe"><a href="/hans/裁处">裁处</a></span><span class="crefe"><a href="/hans/裁定">裁定</a></span><span class="crefe"><a href="/hans/裁断">裁断</a></span><span class="crefe"><a href="/hans/裁夺">裁夺</a></span><span class="crefe"><a href="/hans/裁度">裁度</a></span><span class="crefe"><a href="/hans/裁缝">裁缝</a></span><span class="crefe"><a href="/hans/裁缝">裁缝</a></span><span class="crefe"><a href="/hans/裁减">裁减</a></span><span class="crefe"><a href="/hans/裁剪">裁剪</a></span><span class="crefe"><a href="/hans/裁决">裁决</a></span><span class="crefe"><a href="/hans/裁军">裁军</a></span><span class="crefe"><a href="/hans/裁判">裁判</a></span><span class="crefe"><a href="/hans/裁汰">裁汰</a></span><span class="crefe"><a href="/hans/裁员">裁员</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>裁</rb></rbc><rtc><rt>ㄘㄞˊ</rt></rtc><rtc><rt>c&aacute;i <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5449.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">用刀剪等把紙或布割裂、剪開。</span><span class="gc_lz">如：「<b>裁</b>布」、「<b>裁</b>紙」。</span><span class="gc_yy">《說文解字&middot;衣部》：「<b>裁</b>，制衣也。」</span><span class="gc_yy">《南齊書&middot;卷三二&middot;張岱傳》：「恕未閑從政，美錦不宜濫<b>裁</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">縫製。</span><span class="gc_yy">《文選&middot;古詩十九首&middot;客從遠方來》：「文綵雙鴛鴦，<b>裁</b>為合歡被。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">削減。</span><span class="gc_lz">如：「裁軍」、「裁員」。</span><span class="gc_yy">《紅樓夢&middot;第三六回》：「如今說因為襲人是寶玉 的人，<b>裁</b>了這一兩銀子，斷乎使不得。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">決斷、判斷。</span><span class="gc_lz">如：「<b>裁</b>罪」。</span><span class="gc_yy">《左傳&middot;僖公十五年》：「夕以入則朝以死，唯君<b>裁</b>之。」</span><span class="gc_yy">《韓非子&middot;初見秦》：「臣願悉言所聞，唯大王<b>裁</b>其罪。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">量度。</span><span class="gc_yy">唐&middot;韓愈〈感春〉詩五首之二：「孤吟屢闋莫與和，寸恨至短誰能<b>裁</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">控制。</span><span class="gc_lz">如：「獨<b>裁</b>」。</span><span class="gc_yy">《楚辭&middot;賈誼&middot;惜誓》：「神龍失水而陸居合，為螻蟻之所<b>裁</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">殺。</span><span class="gc_yy">《文選&middot;司馬遷&middot;報任少卿書》：「罪至罔加，不能引決自<b>裁</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">寫作。</span><span class="gc_yy">唐&middot;杜甫〈江亭〉詩：「故林歸未得，排悶強裁詩。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">體制、格式。</span><span class="gc_lz">如：「體<b>裁</b>」、「新<b>裁</b>」。</span><span class="gc_yy">《文選&middot;張衡&middot;西京賦》：「取殊<b>裁</b>於八都，豈啟度於往舊？」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">僅。</span><span class="gc_yy">《戰國策&middot;燕策一》：「雖大男子，<b>裁</b>如嬰兒。」</span><span class="gc_yy">《漢書&middot;卷一六&middot;高惠高后文功臣表》：「時大城名都民人散亡，戶口可得而數<b>裁</b>什二三。」</span><span class="gc_yx">通「纔」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="88C1_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=申集下" target="_blank">申集下</a>】【<a href="/zd/kx/?zm=申集下&amp;bs=衣" target="_blank">衣</a>】
+                              裁·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=申集下" target="_blank">申集下</a>】【<a href="/zd/kx/?zm=申集下&amp;bs=衣" target="_blank">衣</a>】
+                              裁·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：6</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/88C1.svg">						  <p>【唐韻】昨哉切【集韻】【韻會】牆來切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音材。【說文】制衣也。【玉篇】裂也。</p><p>又【儀禮&middot;士喪禮疏】布單衣，漢時名爲通裁。</p><p>又節也。【易&middot;繫辭】化而裁之謂之變。【吳語】救其不足，裁其有餘。</p><p>又鑒別也。【後漢&middot;李膺傳】獨持風裁。</p><p>又自裁，自殺也。【前漢&middot;霍光傳】卒有物故自裁。</p><p>又裁度也，與財通。【易&middot;泰卦】后以財成天地之道。</p><p>又通纔。【前漢&middot;功臣傳】戸口可得而數，裁什二三。</p><p>又【廣韻】昨代切，音在。亦製裁也。【穀梁傳序】準裁靡定。【註】讀去聲。</p><p>又【韻補】叶前西切，音齊。【楚辭&middot;惜誓】黃鵠後時而寄處兮，鴟梟羣而制之。神龍失水而陸居兮，爲螻蟻之所裁。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="88C1_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=衣">衣</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=衣">衣</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/88C1.svg">                          <p>制衣也。从衣<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22994.svg"><span class="k_txt">𢦔</span>聲。昨哉切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/88C1_6042.svg" /><span class="swbf">(裁)</span><span class="ywyy">制衣也。</span><span class="swdz">刀部曰：制者，裁也。二字爲轉注。韓非子曰：管仲善制割，賓胥無善削縫，隰朋善純緣。制割者，前裁之謂也。裁者，衣之始也。引伸爲裁度、風裁。</span><span class="ywyy">从衣<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22992.svg"><span class="k_txt">𢦒</span>聲。</span><span class="swdz">昨哉切。一部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="88C1_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tsʰĄi˧˥ <span class="z_ts4">唐代读音</span>  *dzhəi<span class="z_ts4">日语读音</span>  TATSU SABAKU<span class="z_ts4">韩语罗马</span>  CAY<span class="z_ts4">现代韩语</span>  재<span class="z_ts3">越南语</span>  trài</p>						<p><span class="z_ts3">客家话</span>  [台湾四县腔] cai2 [宝安腔] cai2 [海陆腔] cai2 [梅县腔] cai2 coi2 [沙头角腔] cai2 [客英字典] cai2 [陆丰腔] cai3 [客语拼音字汇] cai2 [东莞腔] cai2<span class="z_ts2">粤语</span>  coi4<span class="z_ts3">潮州话</span>  cai5</p>						<p><span class="z_ts3">近代音</span>  清母    皆來韻    平聲陽    才小空；<span class="z_ts3">中古音</span>  從母    咍韻    平聲    裁小韻    昨哉切    一等    開口；從母    代韻    去聲    載小韻    昨代切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：清母    咍部   ；王力系统：清母    之部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/裁">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/裁">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/裁">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/裁">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/裁">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/裁">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/裁">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/裁">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/裁">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/裁">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/裁">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">裁</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/裁"><img data-original="//img.zdic.net/zy/xiaozhuan/27_88C1.svg" class="lazy ypic"><span>「裁」 說文‧衣部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/裁" target="_blank"><img data-original="//img.zdic.net/kai/tw/88C1.svg" class="lazy ypic"><span>「裁」</span></a></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/裁">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/裁">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/88C1.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/88C1.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/88C1.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/88C1.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/88C1.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𧚝' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2769D.svg'><span>𧚝</span></a></div> <div class='zx'><a href='/hans/𧚶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/276B6.svg'><span>𧚶</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="15042" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4463">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/財">財(cai2)</a></li><li><a href="/hans/纔">纔(cai2)</a></li><li><a href="/hans/财">财(cai2)</a></li><li><a href="/hans/才">才(cai2)</a></li><li><a href="/hans/䴭">䴭(cai2)</a></li><li><a href="/hans/㒲">㒲(cai2)</a></li><li><a href="/hans/扐">扐(cai2)</a></li><li><a href="/hans/材">材(cai2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/衣">衣</a></li><li><a href="/hans/袠">袠</a></li><li><a href="/hans/装">装</a></li><li><a href="/hans/襲">襲</a></li><li><a href="/hans/褎">褎</a></li><li><a href="/hans/袋">袋</a></li><li><a href="/hans/褩">褩</a></li><li><a href="/hans/袤">袤</a></li><li><a href="/hans/裳">裳</a></li><li><a href="/hans/褒">褒</a></li><li><a href="/hans/䙚">䙚</a></li><li><a href="/hans/䘱">䘱</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㷉">㷉</a></li><li><a href="/hans/堘">堘</a></li><li><a href="/hans/缌">缌</a></li><li><a href="/hans/喗">喗</a></li><li><a href="/hans/傎">傎</a></li><li><a href="/hans/雁">雁</a></li><li><a href="/hans/䄎">䄎</a></li><li><a href="/hans/晵">晵</a></li><li><a href="/hans/㮆">㮆</a></li><li><a href="/hans/䠲">䠲</a></li><li><a href="/hans/晽">晽</a></li><li><a href="/hans/暎">暎</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">不知细叶谁<span>裁</span>出，二月春风似剪刀。</div><div class="gscdr">唐·贺知章 《咏柳》</div><div class="gscdl">荷叶罗裙一色<span>裁</span>，芙蓉向脸两边开。</div><div class="gscdr">唐·王昌龄 《采莲曲》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=15042"></script>
+</body>
+</html>

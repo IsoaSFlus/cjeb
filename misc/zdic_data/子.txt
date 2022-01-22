@@ -1,0 +1,731 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>子的解释|子的意思|汉典“子”字的基本解释</title>
+<meta name="title" content="子的解释|子的意思|汉典“子”字的基本解释">
+<meta name="keywords" content="|子|" /><meta property="og:title" content="“子”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“子”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“子”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/子" />
+<link rel="canonical" href="//www.zdic.net/hans/子" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/子" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/子" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/子" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/子">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/子">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5B50.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5B50.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zǐ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“子”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄗˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“子”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄗˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=子" target="_blank">  子</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_ytz2"><a href='/hans/㜽' target=_blank>㜽</a> <a href='/hans/仔' target=_blank>仔</a> <a href='/hans/𠙭' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2066D.svg'><span class='ytz_txt'>𠙭</span></a> <a href='/hans/𡐫' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2142B.svg'><span class='ytz_txt'>𡐫</span></a> <a href='/hans/𡿹' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/21FF9.svg'><span class='ytz_txt'>𡿹</span></a> <a href='/hans/𢀇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22007.svg'><span class='ytz_txt'>𢀇</span></a> <a href='/hans/𢀈' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22008.svg'><span class='ytz_txt'>𢀈</span></a> <a href='/hans/𢀉' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22009.svg'><span class='ytz_txt'>𢀉</span></a> <a href='/hans/𧆰' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/271B0.svg'><span class='ytz_txt'>𧆰</span></a> <a href='/hans/𣕓' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23553.svg'><span class='ytz_txt'>𣕓</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5B50</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>521</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>bbbb</p></td>                            <td class="dsk_2_1"><p>nd</p></td>                            <td class="dsk_2_1"><p>ya</p></td>                            <td class="dsk_2_1"><p>17407</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zǐ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“子”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄗˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“子”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄗˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=子" target="_blank">子</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 5B50<span class="z_ts2">笔顺</span> 521                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5B50_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=3409" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>子</strong></p><p><span class="dicpy">zǐ  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span>  ㄗˇ</span></p><hr class="dichr" /><ol>	<li>古代指儿女，现专指儿子：～女。～孙。～嗣。～弟（后辈人，年轻人）。</li>	<li>植物的果实、种子：菜～。瓜～儿。～实。</li>	<li>动物的卵：鱼～。蚕～。</li>	<li>幼小的，小的：～鸡。～畜。～城。</li>	<li>小而硬的颗粒状的东西：～弹（<span class="dicpy">d&agrave;n </span>）。棋～儿。</li>	<li>与&ldquo;<span class="diczx3">母</span>&rdquo;相对：～金（利息）。～母扣。～音（辅音）。</li>	<li>对人的称呼：男～。妻～。士～（读书人）。舟～（船夫）。才～。</li>	<li>古代对人的尊称；称老师或称有道德、有学问的人：孔～。先秦诸～。</li>	<li>地支的第一位，属鼠：～丑寅卯（喻有条不紊的层次或事物的条理）。</li>	<li>用于计时：～时（夜十一点至一点）。～夜（深夜）。</li>	<li>封建制度五等爵位的第四等：～爵。</li>	<li>附加在名词、动词、形容词后，具有名词性（读轻声）：旗～。乱～。胖～。</li>	<li>个别量词后缀（读轻声）：敲了两下～门。</li>	<li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> offspring, child; fruit, seed of; 1st terrestrial branch</p><p><span class="z_ts2">德语</span> Substantiv-Suffix</p><p><span class="z_ts2">法语</span> jeune,petit,fils,enfant,personne,graine,le 1er des 12 Rameaux terrestres,(suffixe substantif)​</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>子</strong> <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (象形。甲骨文字形，象小儿在襁褓中，有头、身、臂膀，两足象并起来的样子。&ldquo;子&rdquo;是汉字的一个部首。本义:婴儿)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[baby;infant]</span></p>
+<p><span class="diczx1">子，十一月阳气动，万物滋，人以为偁。象形。古文从巛，象发也。籀文从囟，有发、臂、胫，在几上也。&mdash;&mdash;<span class="smcs">《说文》</span>。按，象儿在襁褓中足倂也。</span></p>
+<p><span class="diczx1">子，子息。&mdash;&mdash;<span class="smcs">《广韵》</span></span></p>
+<p><span class="diczx1">居然生子。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;生民》</span></span></p>
+<p><span class="diczx1">子也者，亲之后也。&mdash;&mdash;<span class="smcs">《礼记&middot;哀公问》</span></span></p>
+<p><span class="diczx1">子者，父之合也。&mdash;&mdash;<span class="smcs">《春秋繁露基义》</span></span></p>
+<p><span class="diczx1">子者，父之阴也。&mdash;&mdash;<span class="smcs">《汉书&middot;杜钦传》</span></span></p>
+<p><span class="diczx2">干</span>、 <span class="diczx2">越</span>、 <span class="diczx2">夷</span>、 <span class="diczx2">貉</span>之子，生而同声，长而异俗。&rdquo;&mdash;&mdash;<span class="smcs">《荀子》</span></p>
+<p><span class="diczx3">又如:子衣(小儿的胎衣)</span></p>
+<p><span class="cino">(3)</span> 儿女。古人称子兼男女 <span class="encs">[child]</span></p>
+<p><span class="diczx1">孀妻弱子。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx1">子墨衰绖。(晋襄公的丧服都染成黑色。子，指晋襄公。墨，动词，染黑。衰，通縗，丧服，粗麻布做成。绖，头巾和腰带。)&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十三年》</span></span></p>
+<p><span class="diczx3">又如:子党(儿女辈);子道(儿女对父母应遵循的道德规范);子姓(泛指子孙，后辈);子辈(儿女)</span></p>
+<p><span class="cino">(4)</span> 今则专指儿子，即某人直系血统的下一代男性 <span class="encs">[son]</span></p>
+<p><span class="diczx1">无子，有女二人。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">陈玄祐</span><span class="smcs">《离魂记》</span></p>
+<p><span class="diczx3">又如:子姪(本指子与姪。后用以通称晚辈);子胤(子息，后嗣);子父(父和子);子母(母和子);子客(儿子的宾客)</span></p>
+<p><span class="cino">(5)</span> 子孙 <span class="encs">[descendant]</span></p>
+<p><span class="cino">(6)</span> 通常指晚辈直系或旁系血亲</p>
+<p><span class="diczx1">圣王之子也，有天下之后也，执籍之所在也，天下之宗室也。&mdash;&mdash;<span class="smcs">《荀子&middot;正论》</span></span></p>
+<p><span class="cino">(7)</span> 系另一人或一个共同世系的后裔;后代</p>
+<p><span class="diczx1">我本</span><span class="diczx2">汉</span>家子，将适单于庭。&mdash;&mdash; <span class="diczx2">石崇</span><span class="smcs">《王昭君辞》</span></p>
+<p><span class="cino">(8)</span> 人的通称 <span class="encs">[person]</span></p>
+<p><span class="diczx1">招招舟子，人涉卬否?&mdash;&mdash;<span class="smcs">《诗&middot;邶风&middot;匏有苦叶》</span></span></p>
+<p><span class="diczx3">又如:樵子;舟子;子马(人马);子童(后妃或仙女的自称);孤子(年少死了父亲的人);才子(特别具有才华的人);女子(女性);小子(年幼的人;晚辈);内子(内人，即妻子);夫子(旧时对学者的称呼;旧时学生称老师);孝子(对父母十分孝顺的人);游子(离乡在外或久居外乡的人)</span></p>
+<p><span class="cino">(9)</span> 中国古代士大夫的通称 <span class="encs">[literate and officialdom (in feudal China)]</span></p>
+<p><span class="diczx1">诸侯之上大夫卿、下大夫、上士、中士、下士凡五等。亦称&ldquo;子&rdquo;，若宣子、武子之类是也。&mdash;&mdash;</span><span class="diczx2">赵彦卫</span><span class="smcs">《云麓漫钞》</span></p>
+<p><span class="cino">(10)</span> 中国古代对男子的通称 <span class="encs">[man]</span></p>
+<p><span class="diczx1">子年少。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span></p>
+<p><span class="diczx1">而独不足子所乎。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">刘基</span><span class="smcs">《卖柑者言》</span></p>
+<p><span class="diczx1">子之说。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《柳敬亭传》</span></p>
+<p><span class="diczx1">子不闻藏书者乎?&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="cino">(11)</span> 古人对自己老师的称呼 <span class="encs">[master]</span></p>
+<p><span class="diczx2">子</span>曰:学而时习之。&mdash;&mdash;<span class="smcs">《论语》</span></p>
+<p><span class="diczx1">子</span><span class="diczx2">墨子</span>闻之。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></p>
+<p><span class="cino">(12)</span> 地支的第一位 <span class="encs">[the first of the twelve Earthly Branches]</span></p>
+<p><span class="cino">(13)</span> 与天干相配，用以纪年</p>
+<p><span class="diczx1">太岁在子日困敦。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="cino">(14)</span> 用以纪月，即农历十一月</p>
+<p><span class="diczx1">子，又以纪月。&mdash;&mdash;</span><span class="diczx2">朱骏声</span><span class="smcs">《说文通训定声&middot;颐部》</span></p>
+<p><span class="cino">(15)</span> 用以纪日</p>
+<p><span class="diczx1">不辟子卯。&mdash;&mdash;<span class="smcs">《仪礼&middot;士丧礼》</span></span></p>
+<p><span class="cino">(16)</span> 用以纪时，即夜半十一时至一时</p>
+<p><span class="diczx1">子时得阳气，而丑则鸡鸣。&mdash;&mdash;<span class="smcs">《西游记》</span></span></p>
+<p><span class="diczx3">又如:子夜</span></p>
+<p><span class="cino">(17)</span> 专指女儿 <span class="encs">[daughter]</span></p>
+<p><span class="diczx1">缵女维莘，长子维行。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;大明》</span>。</span><span class="diczx2">毛</span>传:&ldquo;长子，长女也。&rdquo;</p>
+<p><span class="diczx2">曹</span>丞相因念令先君是绝代儒宗，夫人是名公爱子，不忍埋没这白草黄云之外。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">陈与郊</span><span class="smcs">《文姬入塞》</span></p>
+<p><span class="diczx3">又如:子媳(女媳)</span></p>
+<p><span class="cino">(18)</span> 加在姓氏或数词后面作为对人的尊称 <span class="encs">[honorific title with the surname]</span></p>
+<p><span class="diczx1">此三子者。&mdash;&mdash;<span class="smcs">《战国策&middot;魏策》</span></span></p>
+<p><span class="diczx1">非</span><span class="diczx2">郑尹</span>而快孙子。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《柳河东集》</span></p>
+<p><span class="diczx2">程</span>氏子以蠹贫。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></p>
+<p><span class="cino">(19)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>子</strong> <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 小 <span class="encs">[small]</span></p>
+<p><span class="diczx2">时</span><span class="diczx2">大武军</span>子将 <span class="diczx2">郝灵荃</span>奉使在 <span class="diczx2">突厥</span>。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></p>
+<p><span class="diczx3">又如:子将(小将);子舍(小房);子闩(小门闩);子墙(院落内部的小墙);子亭(小亭);子城(大城所属的小城)</span></p>
+<p><span class="cino">(2)</span> 嫩的或易咀嚼的 <span class="encs">[tender]</span>。</p>
+<p><span class="diczx3">如:子姜</span></p>
+<p><span class="cino">(3)</span> 幼小 <span class="encs">[young]</span></p>
+<p><span class="diczx2">郫县</span>子鱼，黄鳞赤尾。&mdash;&mdash; <span class="diczx2">曹操</span><span class="smcs">《四时食制》</span></p>
+<p><span class="diczx3">又如:子鸭(幼鸭，嫩鸭);子鸡(小而嫩的鸡)</span></p>
+<p><span class="cino">(4)</span> 属于别人的，受别人控制的 <span class="encs">[subsidiary]</span>。</p>
+<p><span class="diczx3">如:子公司</span></p>
+<p>◎ <strong>子</strong> <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 通&ldquo;慈&rdquo;( <span class="dicpy">c&iacute;</span>)。爱;尤指像对子女一样地爱护 <span class="encs">[love]</span></p>
+<p><span class="diczx1">天迪从子保。&mdash;&mdash;<span class="smcs">《书&middot;召诰》</span>。</span><span class="diczx2">王引之</span>云:&ldquo;子，当读为慈。&rdquo;</p>
+<p><span class="diczx1">子以爱之。&mdash;&mdash;<span class="smcs">《礼记&middot;缁衣》</span></span></p>
+<p><span class="diczx1">封建者，必私其土，子其人。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《封建论》</span></p>
+<p><span class="diczx3">又如:子谅(慈爱诚信);子惠(惠爱百姓);子育(抚爱养育如己子)</span></p>
+<p><span class="cino">(2)</span> 收养为子 <span class="encs">[adopt as son]</span></p>
+<p><span class="diczx1">完母死，</span><span class="diczx2">庄公</span>令夫人 <span class="diczx2">齐女</span>子之，立为太子。&mdash;&mdash;<span class="smcs">《史记&middot;卫康叔世家》</span></p>
+<p><span class="cino">(3)</span> 结果实 <span class="encs">[bear fruit]</span></p>
+<p><span class="diczx1">李性坚，实脱(晚)，五岁者始子。&mdash;&mdash;<span class="smcs">《齐民要术&middot;种李》</span>注</span></p>
+<p><span class="cino">(4)</span> 尽儿女之道;善事父母 <span class="encs">[serve one&rsquo;s parents with filial devotion]</span></p>
+<p><span class="diczx1">君君，臣臣，父父，子子。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p>◎ <strong>子</strong> <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 表示限制，相当于&ldquo;只&rdquo; <span class="encs">[only]</span></p>
+<p><span class="diczx1">睡不稳，子倚着个鲛绡枕头儿盹。&mdash;&mdash;<span class="smcs">《西厢记诸宫调》</span></span></p>
+<p><span class="diczx1">也子强如你，但衣食。&mdash;&mdash;<span class="smcs">《刘知远诸官调&middot;正宫锦&middot;缠道》</span></span></p>
+<p><span class="diczx1">子喝一声，那时唬煞。&mdash;&mdash;</span><span class="diczx2">董解元</span><span class="smcs">《西厢记诸宫调》</span></p>
+<p><span class="diczx3">又如:子有(只有);子索(只得;只索)</span></p>
+<p>◎ <strong>子</strong> <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">连</span></p>
+<p><span class="cino">(1)</span> 相当于&ldquo;虽然&rdquo; <span class="encs">[though， although]</span></p>
+<p><span class="diczx1">老子老呵，犹兀自万夫难敌。&mdash;&mdash;</span><span class="diczx2">杨梓</span><span class="smcs">《敬德不服老》</span></p>
+<p><span class="diczx3">又如:有子有(有虽然是有;虽则有)</span></p>
+<p>◎ <strong>子</strong> <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>
+<p><span class="xx_cx">代</span></p>
+<p><span class="cino">(1)</span> 你&mdash;&mdash;尊称对方，通常为男性 <span class="encs">[you]</span></p>
+<p><span class="diczx2">陈亢</span>问于 <span class="diczx2">伯鱼</span>曰:&ldquo;子亦有异闻乎?&rdquo;&mdash;&mdash;<span class="smcs">《论语》</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">zi</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/子部">子部</a></span><span class="crefe"><a href="/hans/子城">子城</a></span><span class="crefe"><a href="/hans/子丑寅卯">子丑寅卯</a></span><span class="crefe"><a href="/hans/子畜">子畜</a></span><span class="crefe"><a href="/hans/子代">子代</a></span><span class="crefe"><a href="/hans/子弹">子弹</a></span><span class="crefe"><a href="/hans/子弟">子弟</a></span><span class="crefe"><a href="/hans/子弟兵">子弟兵</a></span><span class="crefe"><a href="/hans/子妇">子妇</a></span><span class="crefe"><a href="/hans/子宫">子宫</a></span><span class="crefe"><a href="/hans/子公司">子公司</a></span><span class="crefe"><a href="/hans/子贡">子贡</a></span><span class="crefe"><a href="/hans/子规">子规</a></span><span class="crefe"><a href="/hans/子金">子金</a></span><span class="crefe"><a href="/hans/子句">子句</a></span><span class="crefe"><a href="/hans/子爵">子爵</a></span><span class="crefe"><a href="/hans/子口">子口</a></span><span class="crefe"><a href="/hans/子粒">子粒</a></span><span class="crefe"><a href="/hans/子路">子路</a></span><span class="crefe"><a href="/hans/子棉">子棉</a></span><span class="crefe"><a href="/hans/子母扣儿">子母扣儿</a></span><span class="crefe"><a href="/hans/子母钟">子母钟</a></span><span class="crefe"><a href="/hans/子目">子目</a></span><span class="crefe"><a href="/hans/子女">子女</a></span><span class="crefe"><a href="/hans/子时">子时</a></span><span class="crefe"><a href="/hans/子实">子实</a></span><span class="crefe"><a href="/hans/子书">子书</a></span><span class="crefe"><a href="/hans/子嗣">子嗣</a></span><span class="crefe"><a href="/hans/子孙">子孙</a></span><span class="crefe"><a href="/hans/子孙饽饽">子孙饽饽</a></span><span class="crefe"><a href="/hans/子孙后代">子孙后代</a></span><span class="crefe"><a href="/hans/子群">子群</a></span><span class="crefe"><a href="/hans/子午线">子午线</a></span><span class="crefe"><a href="/hans/子息">子息</a></span><span class="crefe"><a href="/hans/子弦">子弦</a></span><span class="crefe"><a href="/hans/子痫">子痫</a></span><span class="crefe"><a href="/hans/子虚">子虚</a></span><span class="crefe"><a href="/hans/子婿">子婿</a></span><span class="crefe"><a href="/hans/子夜">子夜</a></span><span class="crefe"><a href="/hans/子叶">子叶</a></span><span class="crefe"><a href="/hans/子一代">子一代</a></span><span class="crefe"><a href="/hans/子音">子音</a></span><span class="crefe"><a href="/hans/子婴">子婴</a></span><span class="crefe"><a href="/hans/子钟">子钟</a></span><span class="crefe"><a href="/hans/子侄">子侄</a></span><span class="crefe"><a href="/hans/子子孙孙">子子孙孙</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>子</strong> <span class="dicpy">z&igrave;</span></p>
+<p><span class="xx_cx">助</span></p>
+<p><span class="cino">(1)</span> 构词后缀。</p>
+<p><span class="cino">(2)</span> 加在名词后。</p>
+<p><span class="diczx3">如:房子;车子</span></p>
+<p><span class="cino">(3)</span> 加在动词或形容词词素后。如;胖子;瘦子;垫子</p>
+<p><span class="cino">(4)</span> 个别量词后缀</p>
+<p><span class="cino">(5)</span> 另见 <span class="dicpy">zǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zǐ.mp3"></a></span> </p>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>子</rb></rbc><rtc><rt>ㄗˇ</rt></rtc><rtc><rt>zǐ <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5289.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">地支的第一位。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">時辰名。約當晚上十一點到一點。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">古時指子女，現專指兒子。</span><span class="gc_lz">如：「四<b>子</b>二女」、「父<b>子</b>」、「獨生<b>子</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">後代、子孫。</span><span class="gc_lz">如：「絕子絕孫」。</span><span class="gc_yy">《荀<b>子</b>&middot;正論》：「聖王之<b>子</b>也，有天下之後也，埶籍之所在也，天下之宗室也。」</span><span class="gc_yy">晉&middot;石崇〈王明君辭〉：「我本漢家<b>子</b>，將適單于庭。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">稚幼的鳥獸。如：「鹿子」、「鶴子」、「不入虎穴，焉得虎子。」《論語&middot;雍也》：「犁牛之子，騂且角」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">植物的果實、種子或動物的卵。</span><span class="gc_lz">如：「菜<b>子</b>」、「魚<b>子</b>」、「瓜<b>子</b>」、「蓮<b>子</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">對一般人的通稱。</span><span class="gc_lz">如：「小女<b>子</b>」、「無聊男<b>子</b>」。</span><span class="gc_yy">《詩經&middot;邶風&middot;匏有苦葉》：「招招舟<b>子</b>，人涉卬否。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">對男子的美稱，多指有學問、道德或地位的人。</span><span class="gc_lz">如：「孔<b>子</b>」、「孟<b>子</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">夫婦之間相互的稱呼。</span><span class="gc_lz">如：「內<b>子</b>」、「外<b>子</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">稱輩分小、年紀輕的人。</span><span class="gc_lz">如：「子弟」。</span><span class="gc_yy">《論語&middot;述而》：「二三<b>子</b>以我為隱乎？」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">古代圖書分類的第三部。包括諸子百家著作、技藝、術數等書籍。</span><span class="gc_lz">如：「經、史、<b>子</b>、集。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">古代五等爵位的第四等。</span><span class="gc_lz">如：「公、侯、伯、<b>子</b>、男。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">代</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">你。</span><span class="gc_yy">《韓非<b>子</b>&middot;難勢》：「以<b>子</b>之矛陷<b>子</b>之楯何如？」</span><span class="gc_yy">《史記&middot;卷七○&middot;張儀列傳》 ：「<b>子</b>亦知<b>子</b>之賤於王乎？」</span><span class="gc_yx">同「<a href='/hans/爾' target=_blank>爾</a> 」、「汝」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">幼小的。</span><span class="gc_lz">如：「<b>子</b>雞」、「<b>子</b>薑」、「<b>子</b>豬」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">和母對稱的。</span><span class="gc_yx">見「子金」、「子音」等條。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">派生的、有所屬的。</span><span class="gc_yx">見「子目」、「<b>子</b>句」等條。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">照顧、撫愛。</span><span class="gc_yy">《禮記&middot;中庸》：「<b>子</b>庶民，來百工也。」</span><span class="gc_yy">唐&middot;柳宗元〈封建論〉：「封建者，必私其土，<b>子</b>其人。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>子</rb></rbc><rtc><rt>ㄗ˙</rt></rtc><rtc><rt>zi</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">綴</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">詞尾：➊ ​ 接名詞。如：「桌子」、「筷子」。➋ ​ 接動詞。如：「起子」、「拍子」。➌ ​ 接形容詞。如：「聾子」、「亂子」。➍ ​ 接量詞。如：「兩下子」、「一檔子」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5B50_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=子" target="_blank">子</a>】
+                              子·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集上" target="_blank">寅集上</a>】【<a href="/zd/kx/?zm=寅集上&amp;bs=子" target="_blank">子</a>】
+                              子·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5B50.svg">						  <p>〔古文〕㜽<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22008.svg"><span class="k_txt">𢀈</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/22009.svg"><span class="k_txt">𢀉</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2142B.svg"><span class="k_txt">𡐫</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/23553.svg"><span class="k_txt">𣕓</span>【唐韻】卽里切【集韻】【韻會】【正韻】祖似切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音梓。【說文】十一月陽氣動，萬物滋入，以爲稱。【徐鍇曰】十一月夜半，陽氣所起。人承陽，故以爲稱。</p><p>又【廣韻】息也。【增韻】嗣也。【易&middot;序卦傳】有男女，然後有夫婦。有夫婦，然後有父子。【白虎通】王者父天母地曰天子。天子之子曰元子。【書&middot;顧命】用敬保元子釗。</p><p>又【儀禮&middot;喪服】諸侯之子稱公子。</p><p>又凡適長子曰冢子，卽宗子也。其適夫人之次子，或衆妾之子，曰別子，亦曰支子。【禮&middot;曲禮】支子不祭，祭必告於宗子。</p><p>又男子之通稱。【顏師古曰】子者，人之嘉稱，故凡成德，謂之君子。【王肅曰】子者，有德有爵之通稱。</p><p>又自世婦以下自稱曰婢子，見《禮記&middot;曲禮》。</p><p>又卿之妻曰內子。【儀禮&middot;有司徹註】內子不薦籩。</p><p>又【禮&middot;檀弓】兄弟之子猶子也。</p><p>又【前漢&middot;嚴助傳註】令子出就婦家爲贅壻，曰贅子。</p><p>又人君愛養百姓曰子。</p><p>又辰名。【爾雅&middot;釋天】太歲在子曰困敦。【前漢&middot;律歷志】孳萌於子。</p><p>又【禮&middot;王制】公侯伯子男，凡五等。【疏】子者，奉恩宣德。</p><p>又左庶子，中庶子，官名。</p><p>又國名。【括地志】子城，在渭州莘城縣。</p><p>又長子，縣名。周史辛甲所封，後爲趙邑，屬上黨。</p><p>又姓。【史記&middot;殷本紀】契，母吞鳦子而生，故曰子氏。</p><p>又複姓。【左傳】鄭大夫子人氏，魯大夫子服氏，子家氏。</p><p>又子細，猶分別。【北史&middot;源思禮傳】爲政當舉大綱，何必太子細也。【正字通】子讀若薺，方語別也。俗作仔細。</p><p>又去聲，才四切。【中庸】子庶民也。徐邈讀。</p><p>又與慈通。【禮&middot;樂記】易直子諒之心，油然生矣。【韓詩外傳】子諒作慈良。</p><p>又叶濟口切，音走。【前漢&middot;班固敘傳】侯王之祉，祚及孫子。公族蕃衍，枝葉暢茂。茂音某。</p><p>又叶子德切，音則。【詩&middot;豳風】旣取我子，無毀我室。【楊愼&middot;古音叢目】與朱傳同。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5B50_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=子">子</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=子">子</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5B50.svg">                          <p>十一月，陽气動，萬物滋，人以爲偁。象形。凡子之屬皆从子。<img class="swtimg" src="//img.zdic.net/swxz/5B50_1.svg" />㜽，古文子从巛，象髪也。<img class="swtimg" src="//img.zdic.net/swxz/5B50_2.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/22008.svg"><span class="k_txt">𢀈</span>，籒文子，囟有髪，臂脛在几上也。卽里切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5B50_1398.svg" /><span class="swbf">(子)</span><span class="ywyy">十一月，昜气動，萬物滋。</span><span class="swdz">律書：子者，滋也。言萬物滋於下也。律曆志曰：孶萌於子。</span><span class="ywyy">人㠯爲偁。</span><span class="swdz">人，各本譌入，今正。此與以朋爲朋攩，以韋爲皮韋，以烏爲烏呼，以來爲行來，以西爲東西一例。凡言以爲者，皆許君發明六書叚借之法。子本陽气動萬物滋之偁，萬物莫靈於人，故因叚借以爲人之偁。</span><span class="ywyy">象形。</span><span class="swdz">象物滋生之形，亦象人首與手足之形也。卽里切。一部。</span><span class="ywyy">凡子之屬皆从子。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5B50_1399.svg" /><span class="swbf">(㜽)</span><span class="ywyy">古文子，从巛，象髮也。</span><span class="swdz">象髮與<img class="lazy k_img" data-original="//img.zdic.net/song/cn/29810.svg"><span class="k_txt">𩠐</span>同意。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5B50_1400.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22007.svg"><span class="k_txt">𢀇</span>)</span><span class="ywyy">籒文子，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26953.svg"><span class="k_txt">𦥓</span>有髮，</span><span class="swdz">巛也。</span><span class="ywyy">臂，</span><span class="swdz">北也。</span><span class="ywyy">脛，</span><span class="swdz">人也。</span><span class="ywyy">在几上也。</span><span class="swdz">木部曰：牀者，安身之几坐也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5B50_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tsɿ˨˩˦ <span class="z_ts4">唐代读音</span>  *tziə̌<span class="z_ts4">日语读音</span>  KO MI OTOKO<span class="z_ts4">韩语罗马</span>  CA<span class="z_ts4">现代韩语</span>  자<span class="z_ts3">越南语</span>  tí</p>						<p><span class="z_ts3">客家话</span>  [陆丰腔] zih3 [梅县腔] zii3 [宝安腔] zu3 [客英字典] zih3 [海陆腔] zih3 [沙头角腔] zu3 [东莞腔] zu3 [客语拼音字汇] zi3 [台湾四县腔] zih3<span class="z_ts2">粤语</span>  zi2</p>						<p><span class="z_ts3">近代音</span>  精母    支思韻    上聲    子小空；<span class="z_ts3">中古音</span>  精母    止韻    上聲    子小韻    即里切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：精母    咍部   ；王力系统：精母    之部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/子">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/子">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/子">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/子">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/子">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/子">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/子">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/子">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/子">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/子">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/子">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/子">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">子</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/子"><img data-original="//img.zdic.net/zy/jiaguwen/43_F7A4.svg" class="lazy ypic"><span>「子」 前1.5.4</span><span>合35546</span></a></td><td><a href="/zd/zx/jw/子"><img data-original="//img.zdic.net/zy/jinwen/34_E866.svg" class="lazy ypic"><span>「子」 利簋</span><span>西周早期</span><span>集成4131</span></a></td><td><a href="/zd/zx/cx/子"><img data-original="//img.zdic.net/zy/chuwenzi/53_F81F.svg" class="lazy ypic"><span>「子」 包2.66</span></a></td><td><a href="/zd/zx/xz/子"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F074.svg" class="lazy ypic"><span>「子」 說文古文</span></a></td><td><a href="/zd/zx/qx/子"><img data-original="//img.zdic.net/zy/qinwenzi/71_EEE3.svg" class="lazy ypic"><span>「子」 睡.秦62</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/子" target="_blank"><img data-original="//img.zdic.net/kai/tw/5B50.svg" class="lazy ypic"><span>「子」</span></a></td></tr><tr><td><a href="/zd/zx/jg/子"><img data-original="//img.zdic.net/zy/jiaguwen/43_F791.svg" class="lazy ypic"><span>「子」 戩2.7</span><span>合19820</span></a></td><td><a href="/zd/zx/jw/子"><img data-original="//img.zdic.net/zy/jinwen/34_E867.svg" class="lazy ypic"><span>「子」 小臣傳簋</span><span>西周早期</span><span>集成4206</span></a></td><td></td><td><a href="/zd/zx/xz/子"><img data-original="//img.zdic.net/zy/xiaozhuan/27_EDB3.svg" class="lazy ypic"><span>「子」 說文籀文</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/子"><img data-original="//img.zdic.net/zy/jiaguwen/43_F79A.svg" class="lazy ypic"><span>「子」 甲2908</span><span>合19946</span></a></td><td><a href="/zd/zx/jw/子"><img data-original="//img.zdic.net/zy/jinwen/34_E868.svg" class="lazy ypic"><span>「子」 作冊折觥</span><span>西周早期</span><span>集成9303</span></a></td><td></td><td><a href="/zd/zx/xz/子"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5B50.svg" class="lazy ypic"><span>「子」 說文‧子部</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/子">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/子">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/子">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/子">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/子">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/子">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5B50.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5B50.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5B50.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5B50.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5B50.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㜽' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/373D.svg'><span>㜽</span></a></div> <div class='zx'><a href='/hans/仔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4ED4.svg'><span>仔</span></a></div> <div class='zx'><a href='/hans/𠙭' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2066D.svg'><span>𠙭</span></a></div> <div class='zx'><a href='/hans/𡐫' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2142B.svg'><span>𡐫</span></a></div> <div class='zx'><a href='/hans/𡿹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/21FF9.svg'><span>𡿹</span></a></div> <div class='zx'><a href='/hans/𢀇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22007.svg'><span>𢀇</span></a></div> <div class='zx'><a href='/hans/𢀈' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22008.svg'><span>𢀈</span></a></div> <div class='zx'><a href='/hans/𢀉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22009.svg'><span>𢀉</span></a></div> <div class='zx'><a href='/hans/𧆰' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/271B0.svg'><span>𧆰</span></a></div> <div class='zx'><a href='/hans/𣕓' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23553.svg'><span>𣕓</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="3409" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7957">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/茈">茈(zi3)</a></li><li><a href="/hans/㧗">㧗(zi3)</a></li><li><a href="/hans/虸">虸(zi3)</a></li><li><a href="/hans/耔">耔(zi3)</a></li><li><a href="/hans/啙">啙(zi3)</a></li><li><a href="/hans/秄">秄(zi3)</a></li><li><a href="/hans/㜽">㜽(zi3)</a></li><li><a href="/hans/䦻">䦻(zi3)</a></li><li><a href="/hans/榟">榟(zi3)</a></li><li><a href="/hans/䔂">䔂(zi3)</a></li><li><a href="/hans/㞨">㞨(zi3)</a></li><li><a href="/hans/㺭">㺭(zi3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/孠">孠</a></li><li><a href="/hans/孵">孵</a></li><li><a href="/hans/孡">孡</a></li><li><a href="/hans/孛">孛</a></li><li><a href="/hans/孽">孽</a></li><li><a href="/hans/孚">孚</a></li><li><a href="/hans/㝂">㝂</a></li><li><a href="/hans/孺">孺</a></li><li><a href="/hans/孜">孜</a></li><li><a href="/hans/孞">孞</a></li><li><a href="/hans/孪">孪</a></li><li><a href="/hans/㝄">㝄</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠁽">𠁽</a></li><li><a href="/hans/个">个</a></li><li><a href="/hans/亏">亏</a></li><li><a href="/hans/𠀅">𠀅</a></li><li><a href="/hans/乊">乊</a></li><li><a href="/hans/川">川</a></li><li><a href="/hans/廾">廾</a></li><li><a href="/hans/纟">纟</a></li><li><a href="/hans/彑">彑</a></li><li><a href="/hans/幺">幺</a></li><li><a href="/hans/大">大</a></li><li><a href="/hans/艹">艹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">松下问童<span>子</span>，言师采药去。</div><div class="gscdr">唐·贾岛 《寻隐者不遇》</div><div class="gscdl">教之道，贵以专<span>子</span>不学，非所宜。幼不学，老何为。玉不琢，不成器。人不学，不知义。</div><div class="gscdr">《三字经》（节选）</div><div class="gscdl">蓬头稚<span>子</span>学垂纶，侧坐莓苔草映身。</div><div class="gscdr">唐·胡令能 《小儿垂钓》</div><div class="gscdl">春种一粒粟，秋收万颗<span>子</span>。</div><div class="gscdr">《悯农》（其一）</div><div class="gscdl">欲把西湖比西<span>子</span>，淡妆浓抹总相宜。</div><div class="gscdr">宋·苏轼 《饮湖上初晴后雨》</div><div class="gscdl">泥融飞燕<span>子</span>，沙暖睡鸳鸯。</div><div class="gscdr">唐·杜甫 《绝句》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">杨花落尽<span>子</span>规啼，闻道龙标过五溪。</div><div class="gscdr">唐·李白 《闻王昌龄左迁龙标遥有此寄》</div><div class="gscdl">兄<span>子</span>胡儿曰：“撒盐空中差可拟。”</div><div class="gscdr">南北朝·刘义庆   世说新语《咏雪》</div><div class="gscdl">“日中不至，则是无信；对<span>子</span>骂父，则是无礼。”友人惭，下车引之。元方入门不顾。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl"><span>子</span>曰：“学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君<span>子</span>乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《学而》曾<span>子</span>曰：“吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">——《学而》<span>子</span>曰：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=3409"></script>
+</body>
+</html>

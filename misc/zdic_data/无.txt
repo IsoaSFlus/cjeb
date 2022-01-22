@@ -1,0 +1,627 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>无的解释|无的意思|汉典“无”字的基本解释</title>
+<meta name="title" content="无的解释|无的意思|汉典“无”字的基本解释">
+<meta name="keywords" content="上：一，下：尢。 " /><meta property="og:title" content="“无”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“无”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“无”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/无" />
+<link rel="canonical" href="//www.zdic.net/hans/无" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/无" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/无" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/无" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/无">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/无">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/65E0.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/65E0.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">wú<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“无”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wú.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄨˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“无”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=一" target="_blank">  一</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/無' target=_blank>無</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/無' target=_blank>無</a> <a href='/hans/㷻' target=_blank>㷻</a> <a href='/hans/𠘩' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20629.svg'><span class='ytz_txt'>𠘩</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+65E0</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>1135</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>fqv</p></td>                            <td class="dsk_2_1"><p>mku</p></td>                            <td class="dsk_2_1"><p>agr</p></td>                            <td class="dsk_2_1"><p>10412</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">wú<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“无”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/wú.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄨˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“无”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄨˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=一" target="_blank">一</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 65E0<span class="z_ts2">笔顺</span> 1135                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="65E0_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6113" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">无</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>无</strong></p>
+<p><strong>（<span class="diczx3"><img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">無</span>）</strong></p>
+<p><span class="dicpy">w&uacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span>  ㄨˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>没有，与&ldquo;<span class="diczx3">有</span>&rdquo;相对；不：～辜。～偿。～从（没有门径或找不到头绪）。～度。～端（无缘无故）。～方（不得法，与&ldquo;有方&rdquo;相对）。～非（只，不过）。～动于衷。～所适从。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> negative, no, not; KangXi radical 7</p><p><span class="z_ts2">德语</span> Nichts  (Philos)​,es hat nicht ,fehlen, un- ,keiner,keine ,nein,nicht,  ohne</p><p><span class="z_ts2">法语</span> non,71e radical</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">无</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>无</strong></p>
+<p><span class="cino">(1)</span> 無 <span class="dicpy">m&oacute;</span></p>
+<p><span class="cino">(2)</span> &mdash;&mdash;&ldquo;南无&rdquo;( <span class="dicpy">nām&oacute;</span>):佛教用语，表示对佛尊敬或皈依</p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>无</strong></p>
+<p>無 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (会意。据甲骨文字形，象一个人持把在跳舞。卜辞、金文中&ldquo;无、舞&rdquo;同字。本义:乐舞)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[sing and dance]</span></p>
+<p><span class="cino">(3)</span> 哲学范畴，指无形、无名、虚无等，或指物质的隐微状态 <span class="encs">[nihility]</span></p>
+<p><span class="diczx1">天下万物生于有，有生于无。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>无</strong></p>
+<p>無 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p>没有，跟&ldquo;有&rdquo;相对 <span class="encs">[not have;there is not]</span></p>
+<p><span class="diczx1">无，不有也。&mdash;&mdash;<span class="smcs">《玉篇》</span></span></p>
+<p><span class="diczx1">无若丹朱傲。&mdash;&mdash;<span class="smcs">《书&middot;益稷》</span></span></p>
+<p><span class="diczx1">无偏无党。&mdash;&mdash;<span class="smcs">《书&middot;洪范》</span></span></p>
+<p><span class="diczx1">无内人之疏，而外人之亲。&mdash;&mdash;<span class="smcs">《荀子&middot;法行》</span></span></p>
+<p><span class="diczx1">事不耳闻目睹而臆断其有无，可乎?&mdash;&mdash;</span><span class="diczx2">苏轼</span><span class="smcs">《石钟山记》</span></p>
+<p><span class="diczx1">无不伸颈。&mdash;&mdash;<span class="smcs">《虞初新志&middot;秋声诗自序》</span></span></p>
+<p><span class="diczx1">无不变色。</span></p>
+<p><span class="diczx1">无不毕肖。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">无不惊为生人。</span></p>
+<p><span class="diczx3">又如:无颜落色(面色发白，没有颜色);无头面(没有头绪);无是处(毫无办法;没有一点儿好处);无纤掐(没有一点);无气歇(没歇一口气，没有停息);无回豁(没有反应);没干净(不罢休，没完没了);无存济(无办法，难以应付);无笆壁(无依靠;无办法);无路求生;无干(没关系;不相干);无方(无常;没有固定的行止、住处等);无虞(无误)</span></p>
+<p>◎ <strong>无</strong></p>
+<p>無 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 不，表示对动词或形容词的否定 <span class="encs">[not]</span></p>
+<p><span class="diczx1">臣是以无请也。&mdash;&mdash;<span class="smcs">《韩非子&middot;喻老》</span></span></p>
+<p><span class="diczx1">请无攻</span><span class="diczx2">宋</span>矣。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></p>
+<p><span class="diczx1">不若无闻。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;慎行论》</span></span></p>
+<p><span class="diczx1">可以无悔矣。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《游褒禅山记》</span></p>
+<p><span class="diczx3">又如:无偏无党(公正而不偏袒);无何(不久);无过(不过;无非;不外);无厌(不满足)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;毋&rdquo;，表示劝阻或禁止，可译为&ldquo;不要&rdquo;、&ldquo;别&rdquo; <span class="encs">[don&#39;t]</span></p>
+<p><span class="diczx1">无偏无党，王道荡荡。&mdash;&mdash;<span class="smcs">《书&middot;洪范》</span></span></p>
+<p><span class="diczx1">无对靡于尔邦。&mdash;&mdash;<span class="smcs">《诗&middot;周颂&middot;烈文》</span></span></p>
+<p><span class="diczx1">唯吾子戎车是利，无愿士宜。&mdash;&mdash;<span class="smcs">《左传&middot;成公二年》</span></span></p>
+<p><span class="diczx2">子</span>曰:&ldquo;君子食无求饱，居无求安，敏于事而慎于言&hellip;&rdquo;<span class="smcs">《论语&middot;学而》</span></p>
+<p><span class="diczx1">无相忘。&mdash;&mdash;<span class="smcs">《史记&middot;陈涉世家》</span></span></p>
+<p><span class="diczx1">无望其速成。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《朱文公校昌黎先生集》</span></p>
+<p><span class="diczx1">无怪乎其私之。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《原君》</span></p>
+<p><span class="diczx1">无生帝王家。</span></p>
+<p><span class="diczx3">又如:无休外(不要见外);无失其时;无落(别误;不要落空);无得(不得;不能);无论(不要说)</span></p>
+<p><span class="cino">(3)</span> 未，不曾，没 <span class="encs">[no，not]</span></p>
+<p><span class="diczx1">有奇字素无备者，旋刻之。&mdash;&mdash;</span><span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="cino">(4)</span> 不必，不值得 <span class="encs">[need not;not have to;be not worth]</span></p>
+<p><span class="diczx1">渫恶吏忍于鬻狱，无责也。&mdash;&mdash;</span><span class="diczx2">方荀</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="cino">(5)</span> 另见 <span class="dicpy">m&oacute;</span>(南无)</p>
+<p>◎ <strong>无</strong></p>
+<p>無 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p>〈代〉</p>
+<p>表示不定指的人、事物、时间、处所等 <span class="encs">[nothing]</span></p>
+<p><span class="diczx1">臣少好相人，相人多矣，无如季相。&mdash;&mdash;<span class="smcs">《汉书&middot;高帝纪》</span></span></p>
+<p><span class="diczx1">城牢粮足，不可忧也。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:无移时(不一会儿;时间不久);无一时(不一会儿;时间不久);无明夜(不分白天黑夜);无定着(没有固定的地方);无倒断(没完没了);无碑记(无数;不可计数);无般(样样，处处)</span></p>
+<p>◎ <strong>无</strong></p>
+<p>無 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p>&lt;连&gt;</p>
+<p>连接词组或分句，表示在任何条件或情况下都是如此，相当于&ldquo;不论&rdquo;、&ldquo;无论&rdquo; <span class="encs">[regardless of]</span></p>
+<p><span class="diczx1">无少长皆斩之。&mdash;&mdash;<span class="smcs">《汉书&middot;高后纪》</span></span></p>
+<p><span class="diczx1">无贵无贱。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx1">无长无少。</span></p>
+<p><span class="diczx3">又如:事无大小，都有人负责;事无巨细，他都认真去干;无上无下</span></p>
+<p>◎ <strong>无</strong></p>
+<p>無 <span class="dicpy">w&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/w&uacute;.mp3"></a></span> </p>
+<p>&lt;语气词&gt;</p>
+<p><span class="cino">(1)</span> 用在句首，无义</p>
+<p><span class="diczx1">今王公大人，虽无造为乐器，以为事乎国家。&mdash;&mdash;<span class="smcs">《墨子》</span></span></p>
+<p><span class="cino">(2)</span> 用在句末，表示疑问语气，可译为&ldquo;吗&rdquo;</p>
+<p><span class="diczx1">晚来天欲雪，能饮一杯无?&mdash;&mdash;</span><span class="diczx2">白居易</span><span class="smcs">《问刘十九》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/无把握">无把握</a></span><span class="crefe"><a href="/hans/无保留">无保留</a></span><span class="crefe"><a href="/hans/无比">无比</a></span><span class="crefe"><a href="/hans/无边">无边</a></span><span class="crefe"><a href="/hans/无边无际">无边无际</a></span><span class="crefe"><a href="/hans/无病呻吟">无病呻吟</a></span><span class="crefe"><a href="/hans/无病自灸">无病自灸</a></span><span class="crefe"><a href="/hans/无补">无补</a></span><span class="crefe"><a href="/hans/无猜">无猜</a></span><span class="crefe"><a href="/hans/无产阶级">无产阶级</a></span><span class="crefe"><a href="/hans/无常">无常</a></span><span class="crefe"><a href="/hans/无偿">无偿</a></span><span class="crefe"><a href="/hans/无成">无成</a></span><span class="crefe"><a href="/hans/无耻">无耻</a></span><span class="crefe"><a href="/hans/无出其右">无出其右</a></span><span class="crefe"><a href="/hans/无从">无从</a></span><span class="crefe"><a href="/hans/无大无小">无大无小</a></span><span class="crefe"><a href="/hans/无道">无道</a></span><span class="crefe"><a href="/hans/无敌">无敌</a></span><span class="crefe"><a href="/hans/无底洞">无底洞</a></span><span class="crefe"><a href="/hans/无地自容">无地自容</a></span><span class="crefe"><a href="/hans/无的放矢">无的放矢</a></span><span class="crefe"><a href="/hans/无冬无夏">无冬无夏</a></span><span class="crefe"><a href="/hans/无动于衷">无动于衷</a></span><span class="crefe"><a href="/hans/无独有偶">无独有偶</a></span><span class="crefe"><a href="/hans/无毒不丈夫">无毒不丈夫</a></span><span class="crefe"><a href="/hans/无度">无度</a></span><span class="crefe"><a href="/hans/无端">无端</a></span><span class="crefe"><a href="/hans/无恶不作">无恶不作</a></span><span class="crefe"><a href="/hans/无法">无法</a></span><span class="crefe"><a href="/hans/无法无天">无法无天</a></span><span class="crefe"><a href="/hans/无方">无方</a></span><span class="crefe"><a href="/hans/无妨">无妨</a></span><span class="crefe"><a href="/hans/无非">无非</a></span><span class="crefe"><a href="/hans/无干">无干</a></span><span class="crefe"><a href="/hans/无告">无告</a></span><span class="crefe"><a href="/hans/无根据">无根据</a></span><span class="crefe"><a href="/hans/无功">无功</a></span><span class="crefe"><a href="/hans/无功受禄">无功受禄</a></span><span class="crefe"><a href="/hans/无辜">无辜</a></span><span class="crefe"><a href="/hans/无故">无故</a></span><span class="crefe"><a href="/hans/无怪">无怪</a></span><span class="crefe"><a href="/hans/无关">无关</a></span><span class="crefe"><a href="/hans/无关宏旨">无关宏旨</a></span><span class="crefe"><a href="/hans/无关紧要">无关紧要</a></span><span class="crefe"><a href="/hans/无关痛痒">无关痛痒</a></span><span class="crefe"><a href="/hans/无害">无害</a></span><span class="crefe"><a href="/hans/无何">无何</a></span><span class="crefe"><a href="/hans/无恒">无恒</a></span><span class="crefe"><a href="/hans/无华">无华</a></span><span class="crefe"><a href="/hans/无机">无机</a></span><span class="crefe"><a href="/hans/无机化学">无机化学</a></span><span class="crefe"><a href="/hans/无稽">无稽</a></span><span class="crefe"><a href="/hans/无稽之谈">无稽之谈</a></span><span class="crefe"><a href="/hans/无及">无及</a></span><span class="crefe"><a href="/hans/无疾而终">无疾而终</a></span><span class="crefe"><a href="/hans/无几">无几</a></span><span class="crefe"><a href="/hans/无计可施">无计可施</a></span><span class="crefe"><a href="/hans/无际">无际</a></span><span class="crefe"><a href="/hans/无济">无济</a></span><span class="crefe"><a href="/hans/无济于事">无济于事</a></span><span class="crefe"><a href="/hans/无价之宝">无价之宝</a></span><span class="crefe"><a href="/hans/无价值">无价值</a></span><span class="crefe"><a href="/hans/无坚不摧">无坚不摧</a></span><span class="crefe"><a href="/hans/无间">无间</a></span><span class="crefe"><a href="/hans/无疆">无疆</a></span><span class="crefe"><a href="/hans/无节制">无节制</a></span><span class="crefe"><a href="/hans/无尽">无尽</a></span><span class="crefe"><a href="/hans/无尽无休">无尽无休</a></span><span class="crefe"><a href="/hans/无精打采">无精打采</a></span><span class="crefe"><a href="/hans/无拘束">无拘束</a></span><span class="crefe"><a href="/hans/无拘无束">无拘无束</a></span><span class="crefe"><a href="/hans/无可比拟">无可比拟</a></span><span class="crefe"><a href="/hans/无可不可">无可不可</a></span><span class="crefe"><a href="/hans/无可非难">无可非难</a></span><span class="crefe"><a href="/hans/无可非议">无可非议</a></span><span class="crefe"><a href="/hans/无可厚非">无可厚非</a></span><span class="crefe"><a href="/hans/无可讳言">无可讳言</a></span><span class="crefe"><a href="/hans/无可奈何">无可奈何</a></span><span class="crefe"><a href="/hans/无可奈何花落去">无可奈何花落去</a></span><span class="crefe"><a href="/hans/无可无不可">无可无不可</a></span><span class="crefe"><a href="/hans/无可言状">无可言状</a></span><span class="crefe"><a href="/hans/无可争辩">无可争辩</a></span><span class="crefe"><a href="/hans/无可置疑">无可置疑</a></span><span class="crefe"><a href="/hans/无孔不入">无孔不入</a></span><span class="crefe"><a href="/hans/无愧">无愧</a></span><span class="crefe"><a href="/hans/无赖">无赖</a></span><span class="crefe"><a href="/hans/无礼">无礼</a></span><span class="crefe"><a href="/hans/无俚">无俚</a></span><span class="crefe"><a href="/hans/无理">无理</a></span><span class="crefe"><a href="/hans/无理取闹">无理取闹</a></span><span class="crefe"><a href="/hans/无理数">无理数</a></span><span class="crefe"><a href="/hans/无力">无力</a></span><span class="crefe"><a href="/hans/无量">无量</a></span><span class="crefe"><a href="/hans/无聊">无聊</a></span><span class="crefe"><a href="/hans/无聊赖">无聊赖</a></span><span class="crefe"><a href="/hans/无路可走">无路可走</a></span><span class="crefe"><a href="/hans/无虑">无虑</a></span><span class="crefe"><a href="/hans/无论">无论</a></span><span class="crefe"><a href="/hans/无论何时">无论何时</a></span><span class="crefe"><a href="/hans/无论如何">无论如何</a></span><span class="crefe"><a href="/hans/无米之炊">无米之炊</a></span><span class="crefe"><a href="/hans/无名">无名</a></span><span class="crefe"><a href="/hans/无名氏">无名氏</a></span><span class="crefe"><a href="/hans/无名帖">无名帖</a></span><span class="crefe"><a href="/hans/无名小卒">无名小卒</a></span><span class="crefe"><a href="/hans/无名英雄">无名英雄</a></span><span class="crefe"><a href="/hans/无名指">无名指</a></span><span class="crefe"><a href="/hans/无明火">无明火</a></span><span class="crefe"><a href="/hans/无乃">无乃</a></span><span class="crefe"><a href="/hans/无奈">无奈</a></span><span class="crefe"><a href="/hans/无奈何">无奈何</a></span><span class="crefe"><a href="/hans/无奈我何">无奈我何</a></span><span class="crefe"><a href="/hans/无能">无能</a></span><span class="crefe"><a href="/hans/无能为力">无能为力</a></span><span class="crefe"><a href="/hans/无能之辈">无能之辈</a></span><span class="crefe"><a href="/hans/无宁">无宁</a></span><span class="crefe"><a href="/hans/无匹">无匹</a></span><span class="crefe"><a href="/hans/无期徒刑">无期徒刑</a></span><span class="crefe"><a href="/hans/无奇不有">无奇不有</a></span><span class="crefe"><a href="/hans/无气无力">无气无力</a></span><span class="crefe"><a href="/hans/无前">无前</a></span><span class="crefe"><a href="/hans/无情">无情</a></span><span class="crefe"><a href="/hans/无穷">无穷</a></span><span class="crefe"><a href="/hans/无穷大">无穷大</a></span><span class="crefe"><a href="/hans/无穷尽">无穷尽</a></span><span class="crefe"><a href="/hans/无穷无尽">无穷无尽</a></span><span class="crefe"><a href="/hans/无穷小">无穷小</a></span><span class="crefe"><a href="/hans/无趣">无趣</a></span><span class="crefe"><a href="/hans/无缺">无缺</a></span><span class="crefe"><a href="/hans/无人不知">无人不知</a></span><span class="crefe"><a href="/hans/无人问津">无人问津</a></span><span class="crefe"><a href="/hans/无任">无任</a></span><span class="crefe"><a href="/hans/无日">无日</a></span><span class="crefe"><a href="/hans/无日无夜">无日无夜</a></span><span class="crefe"><a href="/hans/无如">无如</a></span><span class="crefe"><a href="/hans/无容置疑">无容置疑</a></span><span class="crefe"><a href="/hans/无色">无色</a></span><span class="crefe"><a href="/hans/无伤大雅">无伤大雅</a></span><span class="crefe"><a href="/hans/无上">无上</a></span><span class="crefe"><a href="/hans/无神论">无神论</a></span><span class="crefe"><a href="/hans/无声">无声</a></span><span class="crefe"><a href="/hans/无声无臭">无声无臭</a></span><span class="crefe"><a href="/hans/无时无刻">无时无刻</a></span><span class="crefe"><a href="/hans/无始无终">无始无终</a></span><span class="crefe"><a href="/hans/无视">无视</a></span><span class="crefe"><a href="/hans/无事不登三宝殿">无事不登三宝殿</a></span><span class="crefe"><a href="/hans/无事忙">无事忙</a></span><span class="crefe"><a href="/hans/无事生非">无事生非</a></span><span class="crefe"><a href="/hans/无殊">无殊</a></span><span class="crefe"><a href="/hans/无数">无数</a></span><span class="crefe"><a href="/hans/无双">无双</a></span><span class="crefe"><a href="/hans/无私">无私</a></span><span class="crefe"><a href="/hans/无私无畏">无私无畏</a></span><span class="crefe"><a href="/hans/无私有弊">无私有弊</a></span><span class="crefe"><a href="/hans/无似">无似</a></span><span class="crefe"><a href="/hans/无算">无算</a></span><span class="crefe"><a href="/hans/无损">无损</a></span><span class="crefe"><a href="/hans/无所不包">无所不包</a></span><span class="crefe"><a href="/hans/无所不能">无所不能</a></span><span class="crefe"><a href="/hans/无所不为">无所不为</a></span><span class="crefe"><a href="/hans/无所不用其极">无所不用其极</a></span><span class="crefe"><a href="/hans/无所不在">无所不在</a></span><span class="crefe"><a href="/hans/无所不知">无所不知</a></span><span class="crefe"><a href="/hans/无所不至">无所不至</a></span><span class="crefe"><a href="/hans/无所措手足">无所措手足</a></span><span class="crefe"><a href="/hans/无所忌讳">无所忌讳</a></span><span class="crefe"><a href="/hans/无所事事">无所事事</a></span><span class="crefe"><a href="/hans/无所适从">无所适从</a></span><span class="crefe"><a href="/hans/无所畏惧">无所畏惧</a></span><span class="crefe"><a href="/hans/无所谓">无所谓</a></span><span class="crefe"><a href="/hans/无所需求">无所需求</a></span><span class="crefe"><a href="/hans/无所用心">无所用心</a></span><span class="crefe"><a href="/hans/无所作为">无所作为</a></span><span class="crefe"><a href="/hans/无条件">无条件</a></span><span class="crefe"><a href="/hans/无头案">无头案</a></span><span class="crefe"><a href="/hans/无头告示">无头告示</a></span><span class="crefe"><a href="/hans/无往不利">无往不利</a></span><span class="crefe"><a href="/hans/无往不胜">无往不胜</a></span><span class="crefe"><a href="/hans/无望">无望</a></span><span class="crefe"><a href="/hans/无微不至">无微不至</a></span><span class="crefe"><a href="/hans/无为">无为</a></span><span class="crefe"><a href="/hans/无味">无味</a></span><span class="crefe"><a href="/hans/无畏">无畏</a></span><span class="crefe"><a href="/hans/无谓">无谓</a></span><span class="crefe"><a href="/hans/无闻">无闻</a></span><span class="crefe"><a href="/hans/无我">无我</a></span><span class="crefe"><a href="/hans/无物">无物</a></span><span class="crefe"><a href="/hans/无误">无误</a></span><span class="crefe"><a href="/hans/无隙可乘">无隙可乘</a></span><span class="crefe"><a href="/hans/无暇">无暇</a></span><span class="crefe"><a href="/hans/无瑕">无瑕</a></span><span class="crefe"><a href="/hans/无瑕可击">无瑕可击</a></span><span class="crefe"><a href="/hans/无限">无限</a></span><span class="crefe"><a href="/hans/无线电">无线电</a></span><span class="crefe"><a href="/hans/无线电台">无线电台</a></span><span class="crefe"><a href="/hans/无相干">无相干</a></span><span class="crefe"><a href="/hans/无效">无效</a></span><span class="crefe"><a href="/hans/无邪">无邪</a></span><span class="crefe"><a href="/hans/无懈可击">无懈可击</a></span><span class="crefe"><a href="/hans/无心">无心</a></span><span class="crefe"><a href="/hans/无行">无行</a></span><span class="crefe"><a href="/hans/无形">无形</a></span><span class="crefe"><a href="/hans/无形中">无形中</a></span><span class="crefe"><a href="/hans/无须">无须</a></span><span class="crefe"><a href="/hans/无涯">无涯</a></span><span class="crefe"><a href="/hans/无烟煤">无烟煤</a></span><span class="crefe"><a href="/hans/无恙">无恙</a></span><span class="crefe"><a href="/hans/无业">无业</a></span><span class="crefe"><a href="/hans/无业游民">无业游民</a></span><span class="crefe"><a href="/hans/无一不知">无一不知</a></span><span class="crefe"><a href="/hans/无遗">无遗</a></span><span class="crefe"><a href="/hans/无疑">无疑</a></span><span class="crefe"><a href="/hans/无已">无已</a></span><span class="crefe"><a href="/hans/无以">无以</a></span><span class="crefe"><a href="/hans/无以复加">无以复加</a></span><span class="crefe"><a href="/hans/无异">无异</a></span><span class="crefe"><a href="/hans/无亦">无亦</a></span><span class="crefe"><a href="/hans/无抑制">无抑制</a></span><span class="crefe"><a href="/hans/无益">无益</a></span><span class="crefe"><a href="/hans/无意">无意</a></span><span class="crefe"><a href="/hans/无意识">无意识</a></span><span class="crefe"><a href="/hans/无射">无射</a></span><span class="crefe"><a href="/hans/无垠">无垠</a></span><span class="crefe"><a href="/hans/无影无踪">无影无踪</a></span><span class="crefe"><a href="/hans/无庸">无庸</a></span><span class="crefe"><a href="/hans/无用">无用</a></span><span class="crefe"><a href="/hans/无忧无虑">无忧无虑</a></span><span class="crefe"><a href="/hans/无由">无由</a></span><span class="crefe"><a href="/hans/无有">无有</a></span><span class="crefe"><a href="/hans/无余">无余</a></span><span class="crefe"><a href="/hans/无与伦比">无与伦比</a></span><span class="crefe"><a href="/hans/无源之水">无源之水</a></span><span class="crefe"><a href="/hans/无缘">无缘</a></span><span class="crefe"><a href="/hans/无缘无故">无缘无故</a></span><span class="crefe"><a href="/hans/无援">无援</a></span><span class="crefe"><a href="/hans/无知">无知</a></span><span class="crefe"><a href="/hans/无止境">无止境</a></span><span class="crefe"><a href="/hans/无中生有">无中生有</a></span><span class="crefe"><a href="/hans/无着">无着</a></span><span class="crefe"><a href="/hans/无资格">无资格</a></span><span class="crefe"><a href="/hans/无足轻重">无足轻重</a></span><span class="crefe"><a href="/hans/无罪">无罪</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">无</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>无</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/無' target=_blank>無</a> 」的異體字。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>无</rb></rbc><rtc><rt>ㄨˊ</rt></rtc><rtc><rt>w&uacute;</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。&rarr;「無」的異體字（11249）​</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="65E0_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=无" target="_blank">无</a>】
+                              无·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">无</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=卯集下" target="_blank">卯集下</a>】【<a href="/zd/kx/?zm=卯集下&amp;bs=无" target="_blank">无</a>】
+                              无·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/65E0.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20476.svg"><span class="k_txt">𠑶</span>【唐韻】武夫切，音巫。【說文】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A3.svg"><span class="k_txt">𣞣</span>，亡也。奇字，无通<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A3.svg"><span class="k_txt">𣞣</span>。王育說，天屈西北爲无。【易&middot;乾卦】无咎。【釋文】无音無。易內皆作此字。【藝苑雄黃】无亦作亡。古皆用亡无，秦時始以蕃橆之橆爲有無之無。詩、書、春秋、禮記、論語本用无字，變篆者變爲無，惟易、周禮盡用无。然論語亡而爲有，我獨亡，諸無字，蓋變隸時誤讀爲存亡之亡，故不改也。</p>
+<p>又【廣韻】莫胡切，音模。南无，出《釋典》。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="65E0_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=亾">亾</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">𣠮</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“无”字头，请参考“<a href="/hans/𣠮"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2382E.svg"><span class="k_txt">𣠮</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=亾">亾</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/2382E.svg">                          <p>亡也。从亡無聲。</p>
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/swxz/2382E_2.svg" />无，奇字无，通於元者。王育說：天屈西北爲无。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2382E_1.svg" /> <span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2382E.svg"><span class="k_txt">𣠮</span>)</span> <span class="ywyy">亡也。</span> <span class="swdz">凡所失者，所未有者皆如逃亡然也。此有無字正體。而俗作無。無乃<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>之隷變。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>之訓豐也。與無義正相反。然則隷變之時。昧於亡爲其義。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>爲其聲。有聲無義。殊爲乖繆。古有叚<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>爲<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2382E.svg"><span class="k_txt">𣠮</span>者。要不得云本無二字。漢隷多作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2382E.svg"><span class="k_txt">𣠮</span>可證也。或叚亡爲無者，其義同。其音則雙聲也。</span> <span class="ywyy">从亡<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>聲。</span> <span class="swdz">按不用莫聲而用<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>聲者，形聲中有會意。凡物必自多而少而無。老子所謂多藏必厚亡也。武夫切。五部。古音武夫與莫胡二切不别。故無，模同音。其轉語則水經注云燕人謂無爲毛，楊子以曼爲無，今人謂無有爲<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>有皆是也。</span></p>
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2382E_2.svg" /> <span class="swbf">(无)</span> <span class="ywyy">奇字無也。</span> <span class="swdz">謂古文奇字如此作也。今六經惟易用此字。</span> <span class="ywyy">通於元者。</span> <span class="swdz">元俗刻作无。今依宋本正。禮運曰：是謂合莫。注引孝經說曰：上通元莫。正義云。上通元莫者，孝經緯文。言人之精靈所感。上通元氣寂寞。引之者證莫爲虛無也。正本元字作无。謂虛無寂寞。義或然也。按此注疏今本譌誤不可讀。而北宋本可據正。疏正本字當是定本之誤。謂鄭引上通元莫，顔師古定本作无莫也。依許云通於元者，虛无道也。則孝經緯必作元莫矣。葢其義謂上通元始。故其字形亦用元篆。上毌於一。</span> <span class="ywyy">虛无道也。</span> <span class="swdz">謂虛无之道上通元氣寂寞也。玉篇曰：无，虛无也。奇字之无與篆文之<img class="lazy k_img" data-original="//img.zdic.net/song/cn/237A4.svg"><span class="k_txt">𣞤</span>義乃微别。許說其義。非僅說其形也。</span> <span class="ywyy">王育說：天屈西北爲无。</span> <span class="swdz">此稱王育說又无之别一義也。亦說其義。非說其其。屈猶傾也。天傾西北。地不满東南。見列子及素問。天傾西北者，謂天體不能正圜也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="65E0_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">无</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  wu˧˥ <span class="z_ts4">日语读音</span>  NAI<span class="z_ts4">韩语罗马</span>  MWU<span class="z_ts4">现代韩语</span>  무</p>						<p><span class="z_ts3">客家话</span>  [客英字典] mau2 mo2 vu2 [台湾四县腔] mo2 wu2 [梅县腔] wu2 [海陆腔] mo2 wu2 [宝安腔] wu2<span class="z_ts2">粤语</span>  mou4<span class="z_ts3">潮州话</span>  bho5</p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  微母    虞韻    平聲    無小韻    武夫切    三等    合口；明母    模韻    平聲    模小韻    莫胡切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：明母    模部   ；王力系统：明母    魚部   ；</p>
+                        
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/无">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/无">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/无">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">无</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/无"><img data-original="//img.zdic.net/zy/jinwen/32_EA9E.svg" class="lazy ypic"><span>「無」 庚兒鼎</span><span>春秋中期</span><span>集成2715</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/无"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F46F.svg" class="lazy ypic"><span>「无」 說文奇字</span></a></td><td><a href="/zd/zx/qx/无"><img data-original="//img.zdic.net/zy/qinwenzi/71_E631.svg" class="lazy ypic"><span>「無」 睡.為43</span></a></td><td><a href="/hans/無" target="_blank"><img data-original="//img.zdic.net/kai/tw/7121.svg" class="lazy ypic"><span>「無」</span></a> </td><td><a href="/hans/无" target="_blank"><img data-original="//img.zdic.net/kai/tw/65E0.svg" class="lazy ypic"><span>「无」</span></a></td><td style="display:none"><a href="/hans/无" target="_blank"><img data-original="//img.zdic.net/kai/tw/65E0.svg" class="lazy ypic"><span>「无」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/无"><img data-original="//img.zdic.net/zy/jinwen/32_EA9F.svg" class="lazy ypic"><span>「無」 庚兒鼎</span><span>春秋中期</span><span>集成2716</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/无"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E0BE.svg" class="lazy ypic"><span>「𣠮」 說文‧亡部</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/无"><img data-original="//img.zdic.net/zy/jinwen/32_EAA1.svg" class="lazy ypic"><span>「無」 王子申盞</span><span>春秋</span><span>集成4643</span></a></td><td style="display:none"></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/无">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/无">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/无">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/无">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/无">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/65E0.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/65E0.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/65E0.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/65E0.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/65E0.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/無' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7121.svg'><span>無</span></a></div> <div class='zx'><a href='/hans/㷻' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3DFB.svg'><span>㷻</span></a></div> <div class='zx'><a href='/hans/𠘩' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20629.svg'><span>𠘩</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6113" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7122">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/毋">毋(wu2)</a></li><li><a href="/hans/唔">唔(wu2)</a></li><li><a href="/hans/䉑">䉑(wu2)</a></li><li><a href="/hans/䍢">䍢(wu2)</a></li><li><a href="/hans/㻍">㻍(wu2)</a></li><li><a href="/hans/譕">譕(wu2)</a></li><li><a href="/hans/䓊">䓊(wu2)</a></li><li><a href="/hans/茣">茣(wu2)</a></li><li><a href="/hans/㐚">㐚(wu2)</a></li><li><a href="/hans/芜">芜(wu2)</a></li><li><a href="/hans/莁">莁(wu2)</a></li><li><a href="/hans/㷻">㷻(wu2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/丧">丧</a></li><li><a href="/hans/𠀂">𠀂</a></li><li><a href="/hans/𠀘">𠀘</a></li><li><a href="/hans/𠀋">𠀋</a></li><li><a href="/hans/与">与</a></li><li><a href="/hans/三">三</a></li><li><a href="/hans/𠀹">𠀹</a></li><li><a href="/hans/𠁁">𠁁</a></li><li><a href="/hans/𠁔">𠁔</a></li><li><a href="/hans/丒">丒</a></li><li><a href="/hans/𠁋">𠁋</a></li><li><a href="/hans/𠁌">𠁌</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/天">天</a></li><li><a href="/hans/𠃘">𠃘</a></li><li><a href="/hans/䢳">䢳</a></li><li><a href="/hans/弔">弔</a></li><li><a href="/hans/𠚬">𠚬</a></li><li><a href="/hans/戈">戈</a></li><li><a href="/hans/勻">勻</a></li><li><a href="/hans/𠖭">𠖭</a></li><li><a href="/hans/切">切</a></li><li><a href="/hans/刈">刈</a></li><li><a href="/hans/㕛">㕛</a></li><li><a href="/hans/尐">尐</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">远看山有色，近听水<span>无</span>声。</div><div class="gscdr">唐·王维 《画》</div><div class="gscdl">泉眼<span>无</span>声惜细流，树阴照水爱晴柔。</div><div class="gscdr">宋·杨万里 《小池》</div><div class="gscdl">接天莲叶<span>无</span>穷碧，映日荷花别样红。</div><div class="gscdr">宋·杨万里 《晓出净慈寺送林子方》</div><div class="gscdl">四海<span>无</span>闲田，农夫犹饿死。</div><div class="gscdr">《悯农》（其一）</div><div class="gscdl">荷尽已<span>无</span>擎雨盖，菊残犹有傲霜枝。</div><div class="gscdr">宋·苏轼 《赠刘景文》</div><div class="gscdl">山重水复疑<span>无</span>路，柳暗花明又一村。</div><div class="gscdr">宋·陆游 《游山西村》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">即公大兄<span>无</span>奕女，左将军王凝之妻也</div><div class="gscdr">南北朝·刘义庆   世说新语《咏雪》</div><div class="gscdl">“日中不至，则是<span>无</span>信；对子骂父，则是<span>无</span>礼。”友人惭，下车引之。元方入门不顾。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">强欲登高去，<span>无</span>人送酒来。</div><div class="gscdr">唐·岑参 《行军九日思长安故园》</div><div class="gscdl">非淡泊<span>无</span>以明志，非宁静<span>无</span>以致远。</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">夫学须静也，才须学也，非学<span>无</span>以广才，非志<span>无</span>以成学。</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">宋之丁氏，家<span>无</span>井而出溉汲，常一人居外。</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6113"></script>
+</body>
+</html>

@@ -1,0 +1,708 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>蒙的解释|蒙的意思|汉典“蒙”字的基本解释</title>
+<meta name="title" content="蒙的解释|蒙的意思|汉典“蒙”字的基本解释">
+<meta property="og:title" content="“蒙”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“蒙”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“蒙”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/蒙" />
+<link rel="canonical" href="//www.zdic.net/hans/蒙" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/蒙" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/蒙" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/蒙" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/蒙">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/蒙">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8499.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8499.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">mēng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/mēng.mp3"></a></span></span></p><p><span class="z_d song">méng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/méng.mp3"></a></span></span></p><p><span class="z_d song">měng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/měng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄇㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄥ.mp3"></a></span></span></p><p><span class="z_d song">ㄇㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄥˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄇㄥˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄥˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">  艹</a></p>
+                              <p><span class="z_ts2">部外</span>  10</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/濛' target=_blank>濛</a>  <a href='/hans/𦿢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26FE2.svg'><span class='ytz_txt'>𦿢</span></a>  <a href='/hans/𣉭' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2326D.svg'><span class='ytz_txt'>𣉭</span></a>  <a href='/hans/𠐁' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20401.svg'><span class='ytz_txt'>𠐁</span></a>  <a href='/hans/冡' target=_blank>冡</a>  <a href='/hans/䝉' target=_blank>䝉</a>  <a href='/hans/矇' target=_blank>矇</a>  <a href='/hans/靀' target=_blank>靀</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8499</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>1224511353334</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>apge|apfe</p></td>                            <td class="dsk_2_1"><p>tbmo</p></td>                            <td class="dsk_2_1"><p>ewag</p></td>                            <td class="dsk_2_1"><p>44232</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">mēng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/mēng.mp3"></a></span></span> <span class="z_d song">méng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/méng.mp3"></a></span></span> <span class="z_d song">měng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/měng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄇㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄥ.mp3"></a></span></span> <span class="z_d song">ㄇㄥˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄥˊ.mp3"></a></span></span> <span class="z_d song">ㄇㄥˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“蒙”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄥˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=艹" target="_blank">艹</a> <span class="z_ts2">部外</span> 10<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">统一码</span> 8499<span class="z_ts2">笔顺</span> 1224511353334                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8499_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=13978" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>蒙</strong></p>
+<p><strong>（<span class="diczx3">矇</span>）</strong></p>
+<p><span class="dicpy">mēng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/mēng.mp3"></a></span> ㄇㄥˉ</span></p>
+<ol>
+	<li>欺骗：～骗。～哄。～事。欺上～下。</li>
+	<li>昏迷，眼发黑：～头转向。</li>
+	<li>胡乱猜测：瞎～。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>蒙</strong></p>
+<p><strong>（<span class="diczx3">濛</span>）</strong></p>
+<p><span class="dicpy">m&eacute;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> ㄇㄥˊ</span></p>
+<ol>
+	<li>没有知识，愚昧：启～。发～。～昧。</li>
+	<li>遮盖起来：～罩。～子。～蔽。</li>
+	<li>受：承～。～难。～尘。～垢。</li>
+	<li>形容雨点细小：～～细雨。</li>
+	<li>姓。</li>
+	<li>同&ldquo;<span class="diczx3">艨</span>&rdquo;。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>蒙</strong></p>
+<p><span class="dicpy">měng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/měng.mp3"></a></span> ㄇㄥˇ</span></p>
+<p>　◎ 〔～古族〕a.中国少数民族之一。B.蒙古国的主要民族。</p>
+<ol>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> cover; ignorant; suffer; mongolia</p><p><span class="z_ts2">德语</span> betäubt, besinnungslos  (Adj)​,Abdeckung, Hülle, Verdeck, abdecken, bedecken, verdecken, zudecken, verhüllen  (V)​,Meng  (Eig, Fam)​,Abkrz. Mongolei  (S, Geo)​,bedecken, decken  (V)​,mongolisch  (Adj)​,mongolisch; Mongolei</p><p><span class="z_ts2">法语</span> tromper,duper,deviner par hasard,sans connaissance,KO,mongol,couvrir,subir,ressentir,ignorant</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>蒙</strong> <span class="dicpy">mēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/mēng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p>(字源见该字 <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span>  声) 昏迷，暂时失去知觉的 <span class="encs">[unconscious;senseless]</span>。如:头发蒙;一下摔蒙了;被一猛拳打蒙了</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>蒙</strong> <span class="dicpy">mēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/mēng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 欺骗 <span class="encs">[deceive;hoodwink]</span>。如:别蒙人;你在蒙我吧?</p>
+<p><span class="cino">(2)</span> 胡乱猜测 <span class="encs">[make a wild guess]</span>。如:蒙对了;别瞎蒙</p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">m&eacute;ng;měng</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蒙蒙黑">蒙蒙黑</a></span><span class="crefe"><a href="/hans/蒙蒙亮">蒙蒙亮</a></span><span class="crefe"><a href="/hans/蒙骗">蒙骗</a></span><span class="crefe"><a href="/hans/蒙事">蒙事</a></span><span class="crefe"><a href="/hans/蒙松雨">蒙松雨</a></span><span class="crefe"><a href="/hans/蒙头转向">蒙头转向</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>蒙</strong> <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从艸，冡( <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> )声。本义:草名)</p>
+<p><span class="cino">(2)</span> 草名。即菟丝 <span class="encs">[dodder]</span>。旋花科。一年生缠绕寄生草本。茎很细，呈丝状，黄白色，随处生有吸盘，附着在豆科、菊科、藜科等植物上。叶退化，开白色小花。种子入药</p>
+<p><span class="cino">(3)</span> 指蒙童 <span class="encs">[ignorant children]</span>。如:蒙幼(蒙昧幼稚的儿童);蒙稚(幼稚无知);蒙馆(旧时对儿童进行启蒙教育的地方);蒙学(即蒙馆);蒙塾(即蒙馆)</p>
+<p><span class="cino">(4)</span> 云气 <span class="encs">[cloud]</span></p>
+<p><span class="diczx1">秋天虽是昼夜停匀时候，究竟日出日入，有蒙气传光，还觉得夜是短的。&mdash;&mdash;<span class="smcs">《老残游记》</span></span></p>
+<p><span class="cino">(5)</span> 又如:蒙气传光(日出之前与刚落之后，光线虽不能直接照射大地，地上仍相当明亮，这是因为空中大气的折光作用所致);蒙气(古指包围地球外面的大气)</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>蒙</strong> <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 遮蔽;覆盖 <span class="encs">[cover]</span></p>
+<p><span class="diczx1">葛生蒙楚。&mdash;&mdash;<span class="smcs">《诗&middot;唐风&middot;葛生》</span></span></p>
+<p><span class="diczx1">葛生蒙棘。</span></p>
+<p><span class="diczx1">以幕蒙之。&mdash;&mdash;<span class="smcs">《左传&middot;昭公十三年》</span></span></p>
+<p><span class="diczx1">蒙络摇缀。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《至小丘西小石潭记》</span></p>
+<p><span class="diczx1">时蒙卷轴。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="cino">(2)</span> 又如:蒙络(掩盖缠绕);蒙翳(掩蔽，覆盖);蒙覆(覆盖;掩蔽);蒙幕(覆盖);蒙袂(用袖子蒙住脸。谓不愿见人)</p>
+<p><span class="cino">(3)</span> 欺骗，隐瞒 <span class="encs">[cheat]</span></p>
+<p><span class="diczx1">上下相蒙。&mdash;&mdash;<span class="smcs">《左传&middot;僖公二十四年》</span></span></p>
+<p><span class="cino">(4)</span> 又如:蒙事(方言。作假骗人);蒙混(用欺骗手段使人相信虚假的事物);蒙骗(欺骗);蒙哄(用虚伪的手段欺骗别人)</p>
+<p><span class="cino">(5)</span> 承继，继承 <span class="encs">[inherit;succeed]</span></p>
+<p><span class="diczx1">汝之纯明而不克蒙其泽乎?&mdash;&mdash;</span><span class="diczx2">韩愈</span><span class="smcs">《祭十二郎文》</span></p>
+<p><span class="diczx2">孝公</span>既没， <span class="diczx2">惠文</span>、 <span class="diczx2">武</span>、 <span class="diczx2">昭襄</span>，蒙故业，因遗策(承接已有的基业，沿袭前代的策略)。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="cino">(6)</span> 蒙受 <span class="encs">[suffer from]</span></p>
+<p><span class="diczx1">以蒙大难。&mdash;&mdash;<span class="smcs">《易&middot;明夷》</span>。</span><span class="diczx2">郑</span>注:&ldquo;遭也。&rdquo;</p>
+<p><span class="diczx1">寻蒙国恩，除臣洗马。&mdash;&mdash;</span><span class="diczx2">李密</span><span class="smcs">《陈情表》</span></p>
+<p><span class="diczx1">蒙其赏赐。&mdash;&mdash;</span><span class="diczx2">东汉</span>&middot; <span class="diczx2">班固</span><span class="smcs">《汉书&middot;李广苏建传》</span></p>
+<p><span class="cino">(7)</span> 又如:幸蒙大恩;蒙斧铖汤镬;蒙羞(蒙受耻辱);蒙辜(受罪);蒙泽(蒙受恩泽);蒙难(遭受灾难)</p>
+<p><span class="cino">(8)</span> 敬词。承蒙 <span class="encs">[receive]</span></p>
+<p><span class="diczx1">昨日蒙教。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《答司马谏议书》</span></p>
+<p><span class="diczx1">过蒙拔擢，岂敢盘桓。&mdash;&mdash;</span><span class="diczx2">李密</span><span class="smcs">《陈情表》</span></p>
+<p><span class="cino">(9)</span> 又如:不蒙见察;蒙君实视遇;蒙幸(犹幸蒙，幸运地受到);蒙恩(承蒙恩惠);蒙允(承蒙允许);蒙教(承蒙教诲)</p>
+<p>◎ <strong>蒙</strong> <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 迷茫，广阔而看不清。弥漫笼罩 <span class="encs">[vast and hazy]</span>。如:蒙晦(迷茫昏暗貌);蒙漠(迷茫昏暗);蒙翳(弥漫)</p>
+<p><span class="cino">(2)</span> 幼稚，暗昧不明 <span class="encs">[ignorant;naive;uncultured]</span></p>
+<p><span class="diczx1">匪我求童蒙，童蒙求我。&mdash;&mdash;<span class="smcs">《易&middot;蒙》</span></span></p>
+<p><span class="cino">(3)</span> 又如:蒙士(蒙昧无知，学识浅薄的人);蒙幼(不懂事的幼童);蒙师(启蒙的老师，教育孩童的老师)</p>
+<p><span class="cino">(4)</span> 阴暗 <span class="encs">[dusky;dim]</span></p>
+<p><span class="diczx1">曰蒙，恒风若。&mdash;&mdash;<span class="smcs">《书&middot;洪范》</span>。传:&ldquo;蒙，阴暗也。&rdquo;</span></p>
+<p><span class="cino">(5)</span> 引申为蒙昧无知</p>
+<p><span class="diczx1">民非蒙愚也。&mdash;&mdash;<span class="smcs">《战国策&middot;韩策》</span></span></p>
+<p><span class="cino">(6)</span> 又如:蒙陋(蒙昧浅陋);蒙士(浅学无知之士);蒙迷(犹蒙昧)</p>
+<p><span class="cino">(7)</span> 自称谦词。犹愚 <span class="encs">[my]</span></p>
+<p><span class="diczx1">蒙之所见，及此而已。&mdash;&mdash;</span><span class="diczx2">柳宗元</span><span class="smcs">《答元饶州论政理书》</span></p>
+<p><span class="cino">(8)</span> 又如:蒙拾(学识不高的人拾取前人文词缀连成章，不敢自言创作，便称蒙拾)</p>
+<p><span class="cino">(9)</span> 杂乱 <span class="encs">[in disorder]</span>。如:蒙茸(杂乱的样子);蒙戎(杂乱的样子);蒙尨(芜杂，紊乱)</p>
+<p><span class="cino">(10)</span> 茂盛 <span class="encs">[flourishing]</span>。如:蒙茂(犹茂密;茂盛);蒙笼(草木茂盛的样子)</p>
+<p><span class="cino">(11)</span> 通&ldquo;矇&rdquo;。盲，目失明 <span class="encs">[blind]</span></p>
+<p><span class="diczx1">循蒙招尤。&mdash;&mdash;<span class="smcs">《素问&middot;五藏生成篇》</span></span></p>
+<p>◎ <strong>蒙</strong></p>
+<p>濛 <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 细雨的样子 <span class="encs">[drizzling]</span></p>
+<p><span class="diczx1">我来自东，零雨其濛。&mdash;&mdash;<span class="smcs">《诗&middot;豳风&middot;东山》</span></span></p>
+<p><span class="cino">(2)</span> 又如:蒙雨(毛毛细雨);蒙蒙松松(细雨迷茫的样子)</p>
+<p><span class="cino">(3)</span> 广大 <span class="encs">[vast]</span>。</p>
+<p>◎ <strong>蒙</strong></p>
+<p>濛 <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 弥漫，笼罩 <span class="encs">[cover]</span></p>
+<p><span class="diczx1">但见愁云漠漠，惨雾濛濛。&mdash;&mdash;<span class="smcs">《三国演义》</span></span></p>
+<p><span class="cino">(2)</span> 又如:蒙昧(迷茫，昏暗);蒙漠(迷茫昏暗)</p>
+<p>◎ <strong>蒙</strong></p>
+<p>濛 <span class="dicpy">M&eacute;ng</span></p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 古水名 <span class="encs">[Meng River]</span></p>
+<p><span class="cino">(2)</span> 沱江支流。在四川省彭县境</p>
+<p><span class="cino">(3)</span> 即蒙江。在今广西梧州</p>
+<p>◎ <strong>蒙</strong></p>
+<p>濛 <span class="dicpy">m&eacute;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 忠厚的样子 <span class="encs">[honest and tolerant;sincere and kindly]</span></p>
+<p><span class="diczx1">那呆子虽是心性愚顽，却只是一味蒙直。&mdash;&mdash;<span class="smcs">《西游记》</span></span></p>
+<p><span class="cino">(2)</span> 又如:蒙直(忠厚老实)</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蒙蔽">蒙蔽</a></span><span class="crefe"><a href="/hans/蒙蔽">蒙蔽</a></span><span class="crefe"><a href="/hans/蒙尘">蒙尘</a></span><span class="crefe"><a href="/hans/蒙垢">蒙垢</a></span><span class="crefe"><a href="/hans/蒙馆">蒙馆</a></span><span class="crefe"><a href="/hans/蒙汗药">蒙汗药</a></span><span class="crefe"><a href="/hans/蒙哄">蒙哄</a></span><span class="crefe"><a href="/hans/蒙混">蒙混</a></span><span class="crefe"><a href="/hans/蒙茏">蒙茏</a></span><span class="crefe"><a href="/hans/蒙络摇缀，参差披拂">蒙络摇缀，参差披拂</a></span><span class="crefe"><a href="/hans/蒙昧">蒙昧</a></span><span class="crefe"><a href="/hans/蒙蒙">蒙蒙</a></span><span class="crefe"><a href="/hans/蒙难">蒙难</a></span><span class="crefe"><a href="/hans/蒙皮">蒙皮</a></span><span class="crefe"><a href="/hans/蒙求">蒙求</a></span><span class="crefe"><a href="/hans/蒙茸">蒙茸</a></span><span class="crefe"><a href="/hans/蒙师">蒙师</a></span><span class="crefe"><a href="/hans/蒙受">蒙受</a></span><span class="crefe"><a href="/hans/蒙塾">蒙塾</a></span><span class="crefe"><a href="/hans/蒙太奇">蒙太奇</a></span><span class="crefe"><a href="/hans/蒙恬">蒙恬</a></span><span class="crefe"><a href="/hans/蒙头盖面">蒙头盖面</a></span><span class="crefe"><a href="/hans/蒙学">蒙学</a></span><span class="crefe"><a href="/hans/蒙药">蒙药</a></span><span class="crefe"><a href="/hans/蒙冤">蒙冤</a></span><span class="crefe"><a href="/hans/蒙在鼓里">蒙在鼓里</a></span><span class="crefe"><a href="/hans/蒙罩">蒙罩</a></span><span class="crefe"><a href="/hans/蒙子">蒙子</a></span></div>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>蒙</strong> <span class="dicpy">měng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/měng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 蒙古族的简称 <span class="encs">[the Mongolian nationality]</span>。如:蒙汉人民</p>
+<p><span class="cino">(2)</span> 蒙古简称 <span class="encs">[Mongolia]</span>。如:中蒙会谈</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>蒙</strong></p>
+<p>懞 <span class="dicpy">měng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/měng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/蒙懂">蒙懂</a></span><span class="crefe"><a href="/hans/蒙古包">蒙古包</a></span><span class="crefe"><a href="/hans/蒙古人种">蒙古人种</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>蒙</rb></rbc><rtc><rt>ㄇㄥˊ</rt></rtc><rtc><rt>m&eacute;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0678.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">动</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">覆盖、遮著。</span><span class="gc_lz">如：「蒙上一张纸。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">欺骗、瞒骗。</span><span class="gc_lz">如：「蒙骗」。</span><span class="gc_yy">《左传&middot;僖公二十四年》：「上下相蒙。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">冒。</span><span class="gc_yy">《汉书&middot;卷五一&middot;贾山传》：「故切直之言，明主所欲急闻，忠臣之所以蒙死而竭知也。」</span><span class="gc_yy">《汉书&middot;卷四九&middot;鼌错传》：「故能使其众蒙矢石，赴汤火，视死如生。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">受到、承受，表示感敬。</span><span class="gc_lz">如：「蒙您照料，十分感谢。」</span><span class="gc_yy">《文选&middot;李密&middot;陈情表》：「寻蒙国恩，除臣洗马。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">遭受、遭遇。</span><span class="gc_lz">如：「蒙难」。</span><span class="gc_yy">《易经&middot;明夷卦&middot;彖曰》：「内文明而外柔顺，以蒙大难。」</span><span class="gc_yy">《元史&middot;卷六五&middot;河渠志二》：「黄河决溢，千里蒙害。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">昏昧无知的心智。</span><span class="gc_lz">如：「启蒙」。</span><span class="gc_yy">《黄帝内经素问&middot;卷一一&middot;举痛论》：「令验于己而发蒙解惑，可得而闻乎？」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">孩童。</span><span class="gc_lz">如：「童蒙」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">《易经》卦名。六十四卦之一。坎（☵）​下艮（☶）​上。进退两难，不知所适之象。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">蒙古的简称。</span><span class="gc_lz">如：「蒙藏」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如秦朝有蒙恬。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8499_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蒙·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：10</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=申集上" target="_blank">申集上</a>】【<a href="/zd/kx/?zm=申集上&amp;bs=艸" target="_blank">艸</a>】
+                              蒙·康熙筆画：<a href="/zd/kx/bh/?bh=16" target="_blank">16</a>　·部外筆画：10</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8499.svg">						  <p>【唐韻】莫紅切【集韻】謨蓬切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音濛。【爾雅&middot;釋草】蒙，王女也。【註】女蘿別名。</p>
+<p>又【詩傳】唐蒙，菜名。</p>
+<p>又大蒙，藥名。【管子&middot;地員篇】羣藥安生，小辛大蒙。</p>
+<p>又【易疏】蒙者，微昧闇弱之名。【書&middot;洪範傳】蒙，隂闇也。</p>
+<p>又【左傳&middot;昭元年】又使圍蒙其先君。【註】欺也。</p>
+<p>又【左傳&middot;昭十三年】晉人執季孫意如，以幕蒙之。【註】裹也。</p>
+<p>又【前漢&middot;宣帝紀】雖有患禍，猶蒙死而存之。【註】冒也。</p>
+<p>又【書&middot;伊訓】具訓于蒙士。【疏】謂蒙稚，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C1E.svg'><span class='k_txt'>𤰞</span>小之稱。</p>
+<p>又【詩&middot;秦風】蒙伐有苑。【傳】蒙，討羽也。【箋】畫雜羽之文于伐。</p>
+<p>又縣名。【史記&middot;老莊列傳】莊子者，蒙人也。【註】地理志，蒙縣屬梁國。</p>
+<p>又山名。【書&middot;禹貢】蒙羽其藝。【疏】蒙山在泰山蒙隂縣西南。【又】蔡蒙旅平。【註】蒙山在蜀郡靑衣縣。</p>
+<p>又水名。【楚辭&middot;天問】出自湯谷，次于蒙汜。【註】暮入西極蒙水之涯也。</p>
+<p>又門名。【左傳&middot;襄二十七年】宋公及諸侯之大夫盟于蒙門之外。【註】宋城門。</p>
+<p>又姓。【風俗通】東蒙主以蒙山爲氏，秦有將軍蒙驁。</p>
+<p>又【韻會】母總切，音懵。【柳宗元文】鴟夷蒙鴻。【註】二字俱上聲。</p>
+<p>又【韻補】叶莫江切，音尨。《詩》狐裘蒙茸。徐邈讀爲厖。【陳琳&middot;大荒賦】帝告我以至順兮，重訊我以童蒙。義混合于宣尼兮，理齊歸于文王。</p>
+<p>又莫鳳切，音孟。與雺同。《漢書》引《易》傳：有蛻蒙霿，上下合也。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8499_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=艸">艸</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/8499.svg">                          <p>王女也。从艸冡聲。莫紅切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/8499_5636.svg" /><span class="swbf">(蒙)</span><span class="ywyy">王女也。</span><span class="swdz">王或作玉，誤。釋艸云：蒙，王女。又云：唐蒙，女蘿。女蘿，兔絲。孫炎曰：別三名。按衞風爰采唐矣傳云：唐蒙，菜名。小雅蔦與女蘿傳云：女蘿，兔絲松蘿也。疑爾雅、毛傳此二條皆不謂一物。</span><span class="ywyy">从艸冡聲。</span><span class="swdz">莫紅切。九部。籒文作<img class='lazy k_img' data-original='//img.zdic.net/song/cn/26FE2.svg'><span class='k_txt'>𦿢</span>。今人冡冒皆用蒙字爲之。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8499_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  məŋ˥; məŋ˧˥; məŋ˨˩˦ <span class="z_ts4">唐代读音</span>  *mung<span class="z_ts4">日语读音</span>  OOU KOUMURU KURAI<span class="z_ts4">韩语罗马</span>  MONG<span class="z_ts4">现代韩语</span>  몽<span class="z_ts3">越南语</span>  mông</p>						<p><span class="z_ts3">客家话</span>  [海陆腔] mung2 [宝安腔] mung2 [沙头角腔] mung2 [梅县腔] mung2 [客英字典] mung2 [客语拼音字汇] miang1 mung2 [台湾四县腔] mung2 [东莞腔] mung2 [陆丰腔] mung3<span class="z_ts2">粤语</span>  mung4<span class="z_ts3">潮州话</span>  mong5(mông) [揭阳、潮阳]mou5(môu) </p>						<p><span class="z_ts3">近代音</span>  明母    東鍾韻    平聲陽    蒙小空；<span class="z_ts3">中古音</span>  明母    東韻    平聲    蒙小韻    莫紅切    一等    合口；<span class="z_ts3">上古音</span>  黄侃系统：明母    東部   ；王力系统：明母    東部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/蒙">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/蒙">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/蒙">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/蒙">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/蒙">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/蒙">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/蒙">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/蒙">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/蒙">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/蒙">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/蒙">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/蒙">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">蒙</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/蒙"><img data-original="//img.zdic.net/zy/jinwen/31_E330.svg" class="lazy ypic"><span>「蒙」 中山王昔壺</span><span>戰國晚期</span><span>集成9735</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/蒙"><img data-original="//img.zdic.net/zy/xiaozhuan/27_8499.svg" class="lazy ypic"><span>「蒙」 說文‧艸部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/蒙" target="_blank"><img data-original="//img.zdic.net/kai/tw/8499.svg" class="lazy ypic"><span>「蒙」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/蒙"><img data-original="//img.zdic.net/zy/jinwen/35_E3FC.svg" class="lazy ypic"><span>「蒙」 蒙戈</span><span>戰國</span><span>東南文化91.2</span></a></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/蒙">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/蒙">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/蒙">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8499.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8499.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8499.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/8499.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/8499.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/濛' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/6FDB.svg'><span>濛</span></a></div> <div class='zx'><a href='/hans/𦿢' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26FE2.svg'><span>𦿢</span></a></div>  <div class='zx'><a href='/hans/𣉭' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2326D.svg'><span>𣉭</span></a></div>  <div class='zx'><a href='/hans/𠐁' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20401.svg'><span>𠐁</span></a></div>  <div class='zx'><a href='/hans/冡' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/51A1.svg'><span>冡</span></a></div> <div class='zx'><a href='/hans/䝉' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4749.svg'><span>䝉</span></a></div> <div class='zx'><a href='/hans/矇' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/77C7.svg'><span>矇</span></a></div> <div class='zx'><a href='/hans/靀' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/9740.svg'><span>靀</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="13978" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6067">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/矇">矇(meng1)</a></li><li><a href="/hans/掹">掹(meng1)</a></li><li><a href="/hans/擝">擝(meng1)</a></li><li><a href="/hans/䑃">䑃(meng2)</a></li><li><a href="/hans/靀">靀(meng2)</a></li><li><a href="/hans/㠓">㠓(meng2)</a></li><li><a href="/hans/䙦">䙦(meng2)</a></li><li><a href="/hans/盟">盟(meng2)</a></li><li><a href="/hans/䵆">䵆(meng2)</a></li><li><a href="/hans/瞢">瞢(meng2)</a></li><li><a href="/hans/䗈">䗈(meng2)</a></li><li><a href="/hans/朦">朦(meng2)</a></li><li><a href="/hans/莔">莔(meng2)</a></li><li><a href="/hans/甍">甍(meng2)</a></li><li><a href="/hans/萌">萌(meng2)</a></li><li><a href="/hans/㚞">㚞(meng3)</a></li><li><a href="/hans/黽">黽(meng3)</a></li><li><a href="/hans/蟒">蟒(meng3)</a></li><li><a href="/hans/懵">懵(meng3)</a></li><li><a href="/hans/冡">冡(meng3)</a></li><li><a href="/hans/勐">勐(meng3)</a></li><li><a href="/hans/䏵">䏵(meng3)</a></li><li><a href="/hans/瞢">瞢(meng3)</a></li><li><a href="/hans/蠓">蠓(meng3)</a></li><li><a href="/hans/懜">懜(meng3)</a></li><li><a href="/hans/懞">懞(meng3)</a></li><li><a href="/hans/鯭">鯭(meng3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/蔜">蔜</a></li><li><a href="/hans/䕓">䕓</a></li><li><a href="/hans/葎">葎</a></li><li><a href="/hans/芲">芲</a></li><li><a href="/hans/荖">荖</a></li><li><a href="/hans/蔨">蔨</a></li><li><a href="/hans/蔃">蔃</a></li><li><a href="/hans/䒥">䒥</a></li><li><a href="/hans/若">若</a></li><li><a href="/hans/萢">萢</a></li><li><a href="/hans/䓢">䓢</a></li><li><a href="/hans/菆">菆</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/孶">孶</a></li><li><a href="/hans/滂">滂</a></li><li><a href="/hans/鹊">鹊</a></li><li><a href="/hans/蓑">蓑</a></li><li><a href="/hans/裊">裊</a></li><li><a href="/hans/滉">滉</a></li><li><a href="/hans/㹋">㹋</a></li><li><a href="/hans/溴">溴</a></li><li><a href="/hans/𠍀">𠍀</a></li><li><a href="/hans/㬺">㬺</a></li><li><a href="/hans/𠄽">𠄽</a></li><li><a href="/hans/絺">絺</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">水光潋滟晴方好，山色空<span>蒙</span>雨亦奇。</div><div class="gscdr">宋·苏轼 《饮湖上初晴后雨》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">初，权谓吕<span>蒙</span>曰：“卿今当涂掌事，不可不学！”<span>蒙</span>辞以军中多务。</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">“卿言多务，孰若孤？孤常读书，自以为大有所益。”<span>蒙</span>乃始就学。</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">及鲁肃过寻阳，与<span>蒙</span>论议，大惊曰：“卿今者才略，非复吴下阿<span>蒙</span>！”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl"><span>蒙</span>曰：“士别三日，即更刮目相待，大兄何见事之晚乎！”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">肃遂拜<span>蒙</span>母，结友而别。</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">青树翠蔓，<span>蒙</span>络摇缀，参差披拂。</div><div class="gscdr">唐·柳宗元 《小石潭记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=13978"></script>
+</body>
+</html>

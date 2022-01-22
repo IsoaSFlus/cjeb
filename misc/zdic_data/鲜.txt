@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>鲜的解释|鲜的意思|汉典“鲜”字的基本解释</title>
+<meta name="title" content="鲜的解释|鲜的意思|汉典“鲜”字的基本解释">
+<meta property="og:title" content="“鲜”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“鲜”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“鲜”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/鲜" />
+<link rel="canonical" href="//www.zdic.net/hans/鲜" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/鲜" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/鲜" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/鲜" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/鲜">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/鲜">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/9C9C.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/9C9C.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">xiān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span></span></p><p><span class="z_d song">xiǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄒㄧㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢ.mp3"></a></span></span></p><p><span class="z_d song">ㄒㄧㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=鱼" target="_blank">  鱼</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  14</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/鮮' target=_blank>鮮</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/鮮' target=_blank>鮮</a>  <a href='/hans/鱻' target=_blank>鱻</a>  <a href='/hans/尟' target=_blank>尟</a>  <a href='/hans/尠' target=_blank>尠</a>  <a href='/hans/䲆' target=_blank>䲆</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+9C9C</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>35251211431112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>qgud|qguh</p></td>                            <td class="dsk_2_1"><p>nmtq</p></td>                            <td class="dsk_2_1"><p>ruc</p></td>                            <td class="dsk_2_1"><p>28151</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">xiān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span></span> <span class="z_d song">xiǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄒㄧㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢ.mp3"></a></span></span> <span class="z_d song">ㄒㄧㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“鲜”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=鱼" target="_blank">鱼</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 14</p>                    <p><span class="z_ts3">统一码</span> 9C9C<span class="z_ts2">笔顺</span> 35251211431112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="9C9C_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=20125" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">鲜</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>鲜</strong></p><p><strong>（<span class="diczx3">鮮</span>）</strong></p><p><span class="dicpy">xiān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> ㄒㄧㄢˉ</span></p><ol>    <li>新的，不陈的，不干枯的：～果。～花。～嫩。新～。</li>    <li>滋味美好：～美。～甜。这汤真～。</li>    <li>有光彩的：～明。～亮。～艳。</li>    <li>味美的食物：尝～。时～。</li>    <li>特指鱼虾等水产食物：海～。鱼～。</li>    <li>〔～卑〕中国古代北方民族。</li>    <li>姓。</li></ol><p><strong>其它字义</strong></p><hr class="dichr" /><p>● <strong>鲜</strong></p><p><strong>（<span class="diczx3">鮮</span>）</strong></p><p><span class="dicpy">xiǎn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎn.mp3"></a></span> ㄒㄧㄢˇ</span></p><ol>    <p>　◎ 少：～为人知。寡廉～耻。</p></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> fresh; delicious; attractive</p><p><span class="z_ts2">德语</span> frisch  (Adj)​,selten</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">鲜</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>鲜</strong></p><p>鮮、鱻 <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> (会意。从鱼，从羊。<span class="yhcs">“鱼”</span>表类属，<span class="yhcs">“羊”</span>表味美。本义:鱼名。出貉国)</p><p><span class="cino">(2)</span> 假借为鱻。鲜鱼，活鱼 <span class="encs">[live fish;aquatic food]</span></p><p><span class="diczx1">冬宜鲜羽。——<span class="smcs">《礼记·内则》</span>。注:<span class="yhcs">“生鱼也。”</span></span></p><p><span class="diczx1">治大国若烹小鲜。——<span class="smcs">《老子》</span>。</span><span class="diczx2">河上公</span>注:<span class="yhcs">“鲜，鱼。”</span></p><p><span class="diczx1">调鼎他年事，妙手看烹鲜。——</span><span class="diczx2">宋</span>· <span class="diczx2">张元干</span><span class="smcs">《水调歌头》</span></p><p><span class="diczx1">冬宜鲜羽。——<span class="smcs">《礼记》</span></span></p><p><span class="cino">(3)</span> 又如:鲜眼(像鱼那样的圆眼);鱼鲜;海鲜;鲜脍(切细的鲜鱼肉);鲜鳞(活鱼);鲜羽(活鱼和活鸟)</p><p><span class="cino">(4)</span> 鲜美的食物 <span class="encs">[fresh food;delicious food]</span></p><p><span class="diczx1">惟君用鲜。——<span class="smcs">《左传·襄公三十年》</span></span></p><p><span class="diczx1">荐鲜知路近，省敛觉年丰。——</span><span class="diczx2">唐玄宗</span><span class="smcs">《幸凤泉汤》</span></p><p><span class="cino">(5)</span> 又如:时鲜;尝鲜;鲜肥(鱼肉类美味肴馔);鲜食(鲜活的食品);鲜杀(活杀的猎物)</p><p><strong>词性变化</strong></p><p>◎ <strong>鲜</strong></p><p>鮮 <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 新鲜 <span class="encs">[fresh]</span></p><p><span class="diczx1">炰鳖鲜鱼。——<span class="smcs">《诗·大雅·韩奕》</span></span></p><p><span class="diczx1">芳草鲜美。——</span><span class="diczx2">晋</span>· <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p><p><span class="diczx1">鱼腊鲜兽皆如初。——<span class="smcs">《仪礼》</span></span></p><p><span class="diczx1">根色鲜泽。——</span><span class="diczx2">宋</span>· <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p><p><span class="cino">(2)</span> 又如:屡见不鲜;数见不鲜;鲜食(新鲜的食品);鲜兽(新杀的禽兽)</p><p><span class="cino">(3)</span> 鲜艳 <span class="encs">[bright-colored;gaily-colored]</span>。如:鲜妆(鲜明美丽的打扮);鲜衣(华美的衣服)</p><p><span class="cino">(4)</span> 鲜明;明洁，洁净 <span class="encs">[clear]</span></p><p><span class="diczx1">衣服常鲜于我。——<span class="smcs">《汉书·广川惠王越传》</span></span></p><p><span class="cino">(5)</span> 又如:鲜色(清新美丽的颜色);鲜新(清新)</p><p><span class="cino">(6)</span> 味美 <span class="encs">[delicious;tasty]</span></p><p><span class="diczx1">饫肥鲜者。——</span><span class="diczx2">明</span>· <span class="diczx2">刘基</span><span class="smcs">《卖柑者言》</span></p><p><span class="diczx1">无鲜肥滋味。——</span><span class="diczx2">明</span>· <span class="diczx2">宋濂</span><span class="smcs">《送东阳马生序》</span></p><p><span class="cino">(7)</span> 又如:鲜爽(鲜美爽口);鲜脆(鲜美脆嫩);鲜香(鲜美芳香)</p><p><span class="cino">(8)</span> 独特 <span class="encs">[special]</span>。如:她的行事作为就是很鲜，和别人都不一样</p><p><span class="cino">(9)</span> 夭折的，早死的 <span class="encs">[die (young)]</span></p><p><span class="diczx1">葬鲜者自西门。——<span class="smcs">《左传·昭公五年》</span></span></p><p><span class="cino">(10)</span> 另见 <span class="dicpy">xiǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎn.mp3"></a></span> </p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/鲜卑">鲜卑</a></span><span class="crefe"><a href="/hans/鲜脆">鲜脆</a></span><span class="crefe"><a href="/hans/鲜果">鲜果</a></span><span class="crefe"><a href="/hans/鲜红">鲜红</a></span><span class="crefe"><a href="/hans/鲜花">鲜花</a></span><span class="crefe"><a href="/hans/鲜货">鲜货</a></span><span class="crefe"><a href="/hans/鲜丽">鲜丽</a></span><span class="crefe"><a href="/hans/鲜亮">鲜亮</a></span><span class="crefe"><a href="/hans/鲜灵">鲜灵</a></span><span class="crefe"><a href="/hans/鲜绿">鲜绿</a></span><span class="crefe"><a href="/hans/鲜美">鲜美</a></span><span class="crefe"><a href="/hans/鲜明">鲜明</a></span><span class="crefe"><a href="/hans/鲜嫩">鲜嫩</a></span><span class="crefe"><a href="/hans/鲜浓">鲜浓</a></span><span class="crefe"><a href="/hans/鲜甜">鲜甜</a></span><span class="crefe"><a href="/hans/鲜血">鲜血</a></span><span class="crefe"><a href="/hans/鲜妍">鲜妍</a></span><span class="crefe"><a href="/hans/鲜艳">鲜艳</a></span><span class="crefe"><a href="/hans/鲜于">鲜于</a></span><span class="crefe"><a href="/hans/鲜支">鲜支</a></span></div><p><strong>基本词义</strong></p><hr class="dichr" /><p>◎ <strong>鲜</strong></p><p>鮮、尠、尟 <span class="dicpy">xiǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎn.mp3"></a></span> </p><p>〈形〉</p><p><span class="cino">(1)</span> 非常少，很不多 <span class="encs">[little;rare]</span></p><p><span class="diczx1">靡不有初，鲜克有终。——<span class="smcs">《诗·大雅·荡》</span></span></p><p><span class="diczx1">原小则鲜。——<span class="smcs">《史记·货殖列传》</span></span></p><p><span class="diczx1">以约失之者鲜矣(由于俭约而犯过失的人很少)。——</span><span class="diczx2">宋</span>· <span class="diczx2">司马光</span><span class="smcs">《训俭示康》</span></p><p><span class="diczx1">菊之爱，陶后鲜有闻。——</span><span class="diczx2">宋</span>· <span class="diczx2">周敦颐</span><span class="smcs">《爱莲说》</span></p><p><span class="diczx1">鲜不疫矣。——</span><span class="diczx2">清</span>· <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p><p><span class="cino">(2)</span> 又如:鲜薄(微少);鲜言(寡言);鲜胄(后代少);鲜浅(浅鲜);鲜乏(缺乏);鲜少(很少)</p><p><strong>词性变化</strong><hr class="dichr" /></p><p>◎ <strong>鲜</strong></p><p>鮮 <span class="dicpy">xiǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiǎn.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> 缺少;不足<span class="encs">[lack;be short of]</span></p><p><span class="diczx1">既无叔伯，终鲜兄弟。——</span><span class="diczx2">李密</span><span class="smcs">《陈情表》</span></p><p><span class="cino">(2)</span> 另见 <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="9C9C_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=亥集中" target="_blank">亥集中</a>】【<a href="/zd/kx/?zm=亥集中&amp;bs=魚" target="_blank">魚</a>】
+                              鮮·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">鮮</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“鲜”字头，请参考“鮮”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=亥集中" target="_blank">亥集中</a>】【<a href="/zd/kx/?zm=亥集中&amp;bs=魚" target="_blank">魚</a>】
+                              鮮·康熙筆画：<a href="/zd/kx/bh/?bh=17" target="_blank">17</a>　·部外筆画：6</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/9BAE.svg">						  <p>【唐韻】【集韻】【韻會】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>相然切，音仙。魚名。出貉國。【禮·內則】冬宜鮮羽。【註】鮮，生魚也。</p><p>又【玉篇】生也。【書·益稷】暨益播奏庶艱食鮮食。【傳】鳥獸新殺曰鮮。【儀禮·士昏禮】腊必用鮮。【疏】義取夫婦日新之義。【左傳·襄三十年】唯君用鮮。【註】鮮，野獸也。</p><p>又【廣韻】潔也。【易·說卦】爲蕃鮮。【註】鮮，明也。</p><p>又【釋名】鮮，好也。【玉篇】善也。</p><p>又國名。【後漢·東夷傳】昔箕子避地朝鮮。</p><p>又【鮮<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C1E.svg'><span class='k_txt'>𤰞</span>傳】鮮<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C1E.svg'><span class='k_txt'>𤰞</span>者，依鮮<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C1E.svg'><span class='k_txt'>𤰞</span>山，故因號焉。</p><p>又山水名。【水經注】北鮮之山，鮮水出焉。</p><p>又姓。【後蜀錄·李壽司空】鮮思明。</p><p>又鮮于，複姓。【風俗通】武王封箕子於朝鮮，其子食采於朝鮮，因氏焉。</p><p>又【廣韻】【集韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>息淺切，音獮。【易·繫辭】故君子之道鮮矣。【釋文】盡也。</p><p>又【書·無逸】惠鮮鰥寡。【傳】又加惠鮮乏鰥寡之人。【疏】鮮，少乏也。【詩·鄭風】終鮮兄弟。【箋】鮮，寡也。【禮·中庸】民鮮能久矣。【註】鮮，罕也。</p><p>又少也。亦善也。【詩·邶風】籧篨不鮮。【箋】鮮，善也。【朱傳】少也。</p><p>又【爾雅·釋山】小山別大山，鮮。【疏】李巡云：大山少，故曰鮮。【詩·大雅】度其鮮原。【傳】大山曰鮮。【朱傳】鮮，善也。</p><p>又【正韻】與獻同。【禮·月令】天子乃鮮羔開冰。【註】鮮當爲獻，聲之誤也。</p><p>又與犀同。【前漢·匈奴傳】黃金犀毗一。【註】師古曰：犀毗，帶鉤也。亦曰鮮<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C1E.svg'><span class='k_txt'>𤰞</span>，亦謂師氏，總一物也，語有輕重耳。</p><p>又【集韻】私箭切，獮去聲。姓也。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="9C9C_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=魚">魚</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">鮮</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“鲜”字头，请参考“鮮”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=魚">魚</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/9BAE.svg">                          <p>魚名。出貉國。从魚，羴省聲。相然切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <span class="jieshi">鮮魚也。出貉國。</span>按此乃魚名。經傳乃叚爲新鱻字。又叚爲尟少字。而本義廢矣。<span class="jieshi">从魚。羴省聲。</span>相然切。十四部。                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="9C9C_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">鲜</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ɕiæn˥; ɕiæn˨˩˦ </p>						<p><span class="z_ts2">粤语</span>  sin1 sin2</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/鲜">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/鲜">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/鲜">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/鲜">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/鲜">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/鲜">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/鲜">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/鲜">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/鲜">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/鲜">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/鲜">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/鲜">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">鲜</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「鮮」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/鲜"><img data-original="//img.zdic.net/zy/jinwen/33_EDDB.svg" class="lazy ypic"><span>「鮮」 鮮鐘</span><span>西周晚期</span><span>集成143</span></a></td><td><a href="/zd/zx/cx/鲜"><img data-original="//img.zdic.net/zy/chuwenzi/57_E9B4.svg" class="lazy ypic"><span>「鮮」 郭.成.9</span></a></td><td><a href="/zd/zx/xz/鲜"><img data-original="//img.zdic.net/zy/xiaozhuan/27_9BAE.svg" class="lazy ypic"><span>「鮮」 說文‧魚部</span></a></td><td><a href="/zd/zx/qx/鲜"><img data-original="//img.zdic.net/zy/qinwenzi/71_EBF4.svg" class="lazy ypic"><span>「鮮」 睡.日乙174</span></a></td><td><a href="/hans/鮮" target="_blank"><img data-original="//img.zdic.net/kai/tw/9BAE.svg" class="lazy ypic"><span>「鮮」</span></a> </td><td><a href="/hans/鲜" target="_blank"><img data-original="//img.zdic.net/kai/tw/9C9C.svg" class="lazy ypic"><span>「鲜」</span></a></td><td style="display:none"><a href="/hans/鲜" target="_blank"><img data-original="//img.zdic.net/kai/tw/9C9C.svg" class="lazy ypic"><span>「鲜」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/鲜"><img data-original="//img.zdic.net/zy/jinwen/33_EDE0.svg" class="lazy ypic"><span>「鮮」 伯鮮甗</span><span>西周晚期</span><span>集成940</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/鲜"><img data-original="//img.zdic.net/zy/jinwen/33_EDE1.svg" class="lazy ypic"><span>「鮮」 妾子𧊒壺</span><span>戰國晚期</span><span>集成9734</span></a></td><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/鲜">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/鲜">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/鲜">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/鲜">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/鲜">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/9C9C.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/9C9C.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/9C9C.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/鮮' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/9BAE.svg'><span>鮮</span></a></div> <div class='zx'><a href='/hans/鱻' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/9C7B.svg'><span>鱻</span></a></div> <div class='zx'><a href='/hans/尟' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/5C1F.svg'><span>尟</span></a></div> <div class='zx'><a href='/hans/尠' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/5C20.svg'><span>尠</span></a></div> <div class='zx'><a href='/hans/䲆' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4C86.svg'><span>䲆</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="20125" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7196">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/纖">纖(xian1)</a></li><li><a href="/hans/韯">韯(xian1)</a></li><li><a href="/hans/秈">秈(xian1)</a></li><li><a href="/hans/纎">纎(xian1)</a></li><li><a href="/hans/枮">枮(xian1)</a></li><li><a href="/hans/屳">屳(xian1)</a></li><li><a href="/hans/繊">繊(xian1)</a></li><li><a href="/hans/跹">跹(xian1)</a></li><li><a href="/hans/仚">仚(xian1)</a></li><li><a href="/hans/杴">杴(xian1)</a></li><li><a href="/hans/綅">綅(xian1)</a></li><li><a href="/hans/搟">搟(xian1)</a></li><li><a href="/hans/獮">獮(xian3)</a></li><li><a href="/hans/禒">禒(xian3)</a></li><li><a href="/hans/幰">幰(xian3)</a></li><li><a href="/hans/赻">赻(xian3)</a></li><li><a href="/hans/㶍">㶍(xian3)</a></li><li><a href="/hans/䚚">䚚(xian3)</a></li><li><a href="/hans/㬎">㬎(xian3)</a></li><li><a href="/hans/蘚">蘚(xian3)</a></li><li><a href="/hans/櫶">櫶(xian3)</a></li><li><a href="/hans/䢾">䢾(xian3)</a></li><li><a href="/hans/铣">铣(xian3)</a></li><li><a href="/hans/尠">尠(xian3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/鲱">鲱</a></li><li><a href="/hans/鳙">鳙</a></li><li><a href="/hans/鲧">鲧</a></li><li><a href="/hans/鲮">鲮</a></li><li><a href="/hans/鲓">鲓</a></li><li><a href="/hans/鲡">鲡</a></li><li><a href="/hans/鿕">鿕</a></li><li><a href="/hans/鲰">鲰</a></li><li><a href="/hans/鲑">鲑</a></li><li><a href="/hans/鲞">鲞</a></li><li><a href="/hans/鲸">鲸</a></li><li><a href="/hans/鲝">鲝</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/蜼">蜼</a></li><li><a href="/hans/㨸">㨸</a></li><li><a href="/hans/䃈">䃈</a></li><li><a href="/hans/殞">殞</a></li><li><a href="/hans/䐞">䐞</a></li><li><a href="/hans/滱">滱</a></li><li><a href="/hans/辢">辢</a></li><li><a href="/hans/㝫">㝫</a></li><li><a href="/hans/錚">錚</a></li><li><a href="/hans/畽">畽</a></li><li><a href="/hans/漸">漸</a></li><li><a href="/hans/鄦">鄦</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">噫！菊之爱，陶后<span>鲜</span>有闻。</div><div class="gscdr">宋·周敦颐 《爱莲说》</div><div class="gscdl">忽逢桃花林，夹岸数百步，中无杂树，芳草<span>鲜</span>美，落英缤纷，渔人甚异之，复前行，欲穷其林。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">寓逆旅，主人日再食，无<span>鲜</span>肥滋味之享。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=20125"></script>
+</body>
+</html>

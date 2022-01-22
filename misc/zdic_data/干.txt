@@ -1,0 +1,820 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>干的解释|干的意思|汉典“干”字的基本解释</title>
+<meta name="title" content="干的解释|干的意思|汉典“干”字的基本解释">
+<meta name="keywords" content="上：一，下：十。  " /><meta property="og:title" content="“干”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“干”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“干”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/干" />
+<link rel="canonical" href="//www.zdic.net/hans/干" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/干" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/干" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/干" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/干">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/干">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5E72.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5E72.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">gān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span></span></p><p><span class="z_d song">gàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gàn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄍㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄢ.mp3"></a></span></span></p><p><span class="z_d song">ㄍㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄢˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=干" target="_blank">  干</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/乾' target=_blank>乾</a>  <a href='/hans/幹' target=_blank>幹</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/乾' target=_blank>乾</a> <a href='/hans/𢧀' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/229C0.svg'><span class='ytz_txt'>𢧀</span> <a href='/hans/幹' target=_blank>幹</a> <a href='/hans/漧' target=_blank>漧</a> <a href='/hans/榦' target=_blank>榦</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5E72</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>fggh</p></td>                            <td class="dsk_2_1"><p>mj</p></td>                            <td class="dsk_2_1"><p>aed</p></td>                            <td class="dsk_2_1"><p>10400</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">gān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span></span> <span class="z_d song">gàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/gàn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄍㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄢ.mp3"></a></span></span> <span class="z_d song">ㄍㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“干”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄍㄢˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=干" target="_blank">干</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 5E72<span class="z_ts2">笔顺</span> 112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5E72_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4211" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>干</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"></strong>➑-⓮<strong><span class="diczx3">乾</span>）</strong></p>
+<p><span class="dicpy">gān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> ㄍㄢˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>触犯，冒犯，冲犯：～扰。～涉。～预（亦作&ldquo;干与&rdquo;）。森然～霄。</li>
+	<li>追求，求取，旧指追求职位俸禄：～禄。～仕。</li>
+	<li>关连，涉及：～系。互不相～。</li>
+	<li>盾，古代抵御刀枪的兵器：大动～戈。</li>
+	<li>古代用以记年、记月、记日、记时（亦作编排次序）的十个字（甲乙丙丁戊己庚辛壬癸）：天～。～支。</li>
+	<li>涯岸，水边：&ldquo;河之～兮&rdquo;。</li>
+	<li>个数：若～。</li>
+	<li>没有水分或水分少，跟&ldquo;湿&rdquo;相对：～燥。～柴。</li>
+	<li>干的食品或其他东西：饼～。豆腐～。</li>
+	<li>枯竭，尽净，空虚：～尽。～杯。</li>
+	<li>副词，空，徒然，白白地：～着急。</li>
+	<li>指没有血缘或婚姻关系，拜认的亲属：～亲。</li>
+	<li>当面说气话或抱怨的话使对方难堪：我又～了他一顿。</li>
+	<li>〈方〉慢待；置之不理：把客人～在一旁。</li>
+	<li>〔～将（<span class="dicpy">ji&agrave;ng</span>）〕古剑名。</li>
+	<li>姓。</li>
+</ol>
+<p>● <strong>干</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">幹</span>，<img class="jbjs_ico" src="/images/yico_yt.svg" title="异体字">➊榦）</strong></p>
+<p><span class="dicpy">g&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> ㄍㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>事物的主体或重要部分：树～。躯～。～线。</li>
+	<li>做：～事。说～就～。</li>
+	<li>有才能的，善于办事的：～才。～员。～练。</li>
+	<li>方言，坏、糟：事情要～。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> oppose, offend; invade; dried</p><p><span class="z_ts2">德语</span> arbeiten, machen, tun (V)​,managen, leiten, lenken, regeln (V)​,Radikal Nr. 51 = Schild (S, Sprachw)</p><p><span class="z_ts2">法语</span> bouclier,berge,mât,concerner,51e radical</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>干</strong> <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (象形。甲骨文字形，象叉子一类的猎具、武器，本是用于进攻的，后来用于防御。本义:盾牌)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[shield]</span></p>
+<p><span class="diczx1">盾，自关而东或谓之干。&mdash;&mdash;<span class="smcs">《方言》</span>九</span></p>
+<p><span class="diczx1">朱干玉戚以舞大武。&mdash;&mdash;<span class="smcs">《礼记&middot;祭统》</span>。注:&ldquo;朱干，赤盾。&rdquo;</span></p>
+<p><span class="diczx1">司干。&mdash;&mdash;<span class="smcs">《周礼&middot;春官&middot;序官》</span></span></p>
+<p><span class="diczx1">礼义以为干橹。&mdash;&mdash;<span class="smcs">《礼记&middot;儒行》</span>。注:&ldquo;干橹，小楯大楯也。&rdquo;</span></p>
+<p><span class="diczx1">能执干戈以卫社稷。&mdash;&mdash;<span class="smcs">《礼记&middot;檀弓下》</span></span></p>
+<p><span class="diczx1">乃修教三年，执干戚舞，有苗乃服。&mdash;&mdash;<span class="smcs">《韩非子&middot;五蠹》</span></span></p>
+<p><span class="diczx3">又如∶干羽(盾牌和雉羽，供乐舞之用);干革(干即盾;革即甲胄类。泛指兵器);干橹(小盾大盾);干戎(兵戎。通称兵器、军队)</span></p>
+<p><span class="cino">(3)</span> 岸;水畔 <span class="encs">[bank]</span></p>
+<p><span class="diczx1">鸿渐于干。&mdash;&mdash;<span class="smcs">《易&middot;渐卦》</span>。释文引</span><span class="diczx2">郑</span>注:&ldquo;干，水傍，故停水处。&rdquo;</p>
+<p><span class="diczx1">秩秩斯干。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;斯干》</span>。</span><span class="diczx2">朱</span>注:&ldquo;干，水涯也。&rdquo;</p>
+<p><span class="diczx1">昔者</span><span class="diczx2">吴</span>干战。&mdash;&mdash;<span class="smcs">《管子&middot;小问》</span>。注:&ldquo;干，江边地也。&rdquo;</p>
+<p><span class="diczx1">而不知干队之败。&mdash;&mdash;<span class="smcs">《史记&middot;春申君传》</span>。索隐:&ldquo;干，水边也。&rdquo;</span></p>
+<p><span class="diczx1">坎坎伐檀兮，置之河之干兮。&mdash;&mdash;<span class="smcs">《诗&middot;魏风&middot;伐檀》</span></span></p>
+<p><span class="cino">(4)</span> 江南把山垅之间的地段叫干 <span class="encs">[valley]</span>。故金陵有大长干、小长干、东长干</p>
+<p><span class="cino">(5)</span> 天干 <span class="encs">[Stems;Heavenly Stems]</span>。</p>
+<p><span class="diczx3">如:干支(天干地支，实际上是&ldquo;幹枝&rdquo;的一种比喻说法)</span></p>
+<p><span class="cino">(6)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>干</strong> <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 捍卫 <span class="encs">[defend;guard]</span></p>
+<p><span class="diczx3">又如:干害(捍护)</span></p>
+<p><span class="cino">(2)</span> 触犯;冒犯;冲犯;冲 <span class="encs">[offend]</span></p>
+<p><span class="diczx1">干，犯也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">轍恐犯忌而干讳。&mdash;&mdash;<span class="smcs">《楚辞&middot;七谏&middot;谬谏》</span></span></p>
+<p><span class="diczx1">以干先王之诛。&mdash;&mdash;<span class="smcs">《书&middot;胤征》</span></span></p>
+<p><span class="diczx1">以干天祸。&mdash;&mdash;<span class="smcs">《公羊传&middot;宣公十二年》</span></span></p>
+<p><span class="diczx1">若干二命以求杀予。&mdash;&mdash;<span class="smcs">《国语&middot;晋语四》</span></span></p>
+<p><span class="diczx1">则上下不干。</span></p>
+<p><span class="diczx1">乃背</span><span class="diczx2">晋</span>干 <span class="diczx2">宋</span>。&mdash;&mdash;<span class="smcs">《史记&middot;管蔡世家》</span></p>
+<p><span class="diczx2">赵孟</span>使人以其乘车干行，献 <span class="diczx2">子执</span>而戮之。&mdash;&mdash;<span class="smcs">《国语&middot;晋语五》</span></p>
+<p><span class="diczx1">干国之纪。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十三年》</span></span></p>
+<p><span class="diczx1">君辱贶之，其敢干大礼以自取戾。&mdash;&mdash;<span class="smcs">《左传&middot;文公四年》</span></span></p>
+<p><span class="diczx1">故吏不敢以非法遇(对待)民，民不敢犯法干法官也。&mdash;&mdash;<span class="smcs">《商君书&middot;定分》</span></span></p>
+<p><span class="diczx1">牵衣顿足拦道哭，哭声直上干云霄。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《兵车行》</span></p>
+<p><span class="diczx3">又如:干渎(冒犯。干:干犯;抵触;烦扰);干触(冒犯;触犯);干凌(干犯欺凌);干典(违犯法典);干命(违犯命令);干行(指冲撞军列);干戾(触犯法令而获罪)</span></p>
+<p><span class="cino">(3)</span> 立，建立 <span class="encs">[set up]</span></p>
+<p><span class="diczx1">后知</span><span class="diczx2">张顺</span>干了功劳。&mdash;&mdash;<span class="smcs">《水浒传》</span></p>
+<p><span class="cino">(4)</span> 求，求取 <span class="encs">[seek for]</span></p>
+<p><span class="diczx1">皆干赏蹈利之兵也。&mdash;&mdash;<span class="smcs">《荀子&middot;议兵》</span></span></p>
+<p><span class="diczx1">其欲干酒肉之味邪?&mdash;&mdash;<span class="smcs">《庄子&middot;徐无鬼》</span></span></p>
+<p><span class="diczx1">亦不敢服垢弊以矫俗干名，但顺吾性而已。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">司马光</span><span class="smcs">《训俭示康》</span></p>
+<p><span class="diczx1">时墨者</span><span class="diczx2">东郭</span>先生将北适 <span class="diczx2">中山</span>以干仕。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">马中锡</span><span class="smcs">《中山狼传》</span></p>
+<p><span class="diczx3">又如:干名(求取名位);干求(求取功名);干谒(为谋求禄位而谒见当权者);干进(营谋官职地位);干索(索要;强取);干进(谋求仕进);干请(请托)</span></p>
+<p><span class="cino">(5)</span> 干预;干扰 <span class="encs">[intervene;interfere]</span></p>
+<p><span class="diczx1">皆妇人干政之所致也。&mdash;&mdash;<span class="smcs">《后汉书&middot;蔡邕传》</span></span></p>
+<p><span class="diczx1">明君使事不相干。&mdash;&mdash;<span class="smcs">《韩非子&middot;用人》</span></span></p>
+<p><span class="cino">(6)</span> 关涉;牵扯 <span class="encs">[involve; be connected]</span></p>
+<p><span class="diczx1">新来瘦，非干病酒，不是悲秋。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">李清照</span><span class="smcs">《凤凰台上忆吹箫》</span></p>
+<p><span class="diczx3">又如:干己(关系，责任);干累(连累;牵连);干纪(关系;职责);干属(关系);干惹(牵涉，关连)</span></p>
+<p><span class="cino">(7)</span> 怠慢，慢待 <span class="encs">[neglect]</span>。</p>
+<p><span class="diczx3">如:主人走了，把我们干起来了</span></p>
+<p>◎ <strong>干</strong></p>
+<p>乾、乹、亁 <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (形声。从乙(表示向上)，倝( <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> )声。①本义:天。②引申义:没有水分或水分很少，与&ldquo;湿&rdquo;相对)</p>
+<p><span class="cino">(2)</span> 同引申义 <span class="encs">[dry]</span></p>
+<p><span class="diczx1">方将被发而干。&mdash;&mdash;<span class="smcs">《庄子&middot;田子方》</span></span></p>
+<p><span class="diczx1">剖其中，干若败絮。&mdash;&mdash;</span><span class="diczx2">刘基</span><span class="smcs">《卖柑者言》</span></p>
+<p><span class="diczx1">干东土。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;爱类》</span></span></p>
+<p><span class="diczx1">外强中干。&mdash;&mdash;<span class="smcs">《左传&middot;僖公十五年》</span></span></p>
+<p><span class="diczx1">然而旱干水溢。&mdash;&mdash;<span class="smcs">《孟子&middot;尽心下》</span></span></p>
+<p><span class="diczx1">床头屋漏无干处，雨脚如麻未断绝。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《茅屋为秋风所破歌》</span>诗</p>
+<p><span class="diczx3">又如:干冬(干燥少雨的冬季);干荒(干旱);干烘茶(采摘后不经过揉制而直接烘干的茶叶);干堆(干柴堆。比喻色迷之人)</span></p>
+<p><span class="cino">(3)</span> 枯竭 <span class="encs">[exhausted]</span></p>
+<p><span class="diczx1">予贸得其一，剖之，如有烟扑口鼻，视其中，则干若败絮。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">刘基</span><span class="smcs">《卖柑者言》</span></p>
+<p><span class="diczx3">又如:干蛋(方言。穷光蛋);干竭(枯竭)</span></p>
+<p><span class="cino">(4)</span> 干亲。谓没有血缘或婚姻关系而结认的亲戚关系 <span class="encs">[adopted]</span></p>
+<p><span class="diczx2">赵</span>氏干娘， <span class="diczx2">高皇</span>(明太祖朱元璋)义父之妻也。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">文林</span><span class="smcs">《琅琊漫抄》</span></p>
+<p><span class="diczx3">又如:干爷(义父);干大(方言。干爹，义父);干老子(干爹);干生子(干儿子);干达达(干爹，义父)</span></p>
+<p><span class="cino">(5)</span> 形容声音干涩嘶哑 <span class="encs">[dry and coarse]</span>。</p>
+<p><span class="diczx3">如:干哑(干涩嘶哑)</span></p>
+<p>◎ <strong>干</strong></p>
+<p>乾 <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 使干，竭尽 <span class="encs">[dry;exhaust]</span></p>
+<p><span class="diczx1">干泽而渔。&mdash;&mdash;</span><span class="diczx2">刘向</span><span class="smcs">《说苑》</span></p>
+<p><span class="cino">(2)</span> 怠慢;使对方难堪 <span class="encs">[neglect]</span></p>
+<p><span class="diczx1">从今日起，且干着他，不理他，他两个自然有些着慌。&mdash;&mdash;<span class="smcs">《儿女英雄传》</span></span></p>
+<p><span class="diczx1">没奈何，站起身来干了人家，一句说了六个大字，道是:&ldquo;多礼，我不敢当。&rdquo;</span></p>
+<p>◎ <strong>干</strong></p>
+<p>乾 <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 加工制成的干食品 <span class="encs">[dried-up food]</span></p>
+<p><span class="diczx1">人负朱六斗，卒自携五日干粮。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈&middot;官政》</span></p>
+<p><span class="diczx3">又如:豆腐干;萝卜干;干肉;干脯(干肉)</span></p>
+<p>◎ <strong>干</strong></p>
+<p>乾 <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 徒然，白白地 <span class="encs">[in vain]</span></p>
+<p><span class="diczx1">干愁漫解坐自累，与众异趣谁相亲。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《感春》</span></p>
+<p><span class="diczx3">又如:干落落(白白地);干发虚(空有打算而不能兑现);干拌(白吵;白费口舌);干白(白说，白搭)</span></p>
+<p><span class="cino">(2)</span> 虚假地，表面地 <span class="encs">[falsely;superficially]</span></p>
+<p><span class="diczx2">晔</span>干笑云:&ldquo;罪至&rdquo;而已。&mdash;&mdash;<span class="smcs">《宋书&middot;范晔传》</span></p>
+<p><span class="diczx3">又如:干乔(装模作样)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/干碍">干碍</a></span><span class="crefe"><a href="/hans/干巴">干巴</a></span><span class="crefe"><a href="/hans/干巴巴">干巴巴</a></span><span class="crefe"><a href="/hans/干杯">干杯</a></span><span class="crefe"><a href="/hans/干杯">干杯</a></span><span class="crefe"><a href="/hans/干贝">干贝</a></span><span class="crefe"><a href="/hans/干壁画">干壁画</a></span><span class="crefe"><a href="/hans/干瘪">干瘪</a></span><span class="crefe"><a href="/hans/干冰">干冰</a></span><span class="crefe"><a href="/hans/干菜">干菜</a></span><span class="crefe"><a href="/hans/干草">干草</a></span><span class="crefe"><a href="/hans/干草堆">干草堆</a></span><span class="crefe"><a href="/hans/干柴">干柴</a></span><span class="crefe"><a href="/hans/干柴烈火">干柴烈火</a></span><span class="crefe"><a href="/hans/干产">干产</a></span><span class="crefe"><a href="/hans/干坼">干坼</a></span><span class="crefe"><a href="/hans/干城">干城</a></span><span class="crefe"><a href="/hans/干处理">干处理</a></span><span class="crefe"><a href="/hans/干脆">干脆</a></span><span class="crefe"><a href="/hans/干打雷，不下雨">干打雷，不下雨</a></span><span class="crefe"><a href="/hans/干瞪眼">干瞪眼</a></span><span class="crefe"><a href="/hans/干电池">干电池</a></span><span class="crefe"><a href="/hans/干犯">干犯</a></span><span class="crefe"><a href="/hans/干饭">干饭</a></span><span class="crefe"><a href="/hans/干粪">干粪</a></span><span class="crefe"><a href="/hans/干干净净">干干净净</a></span><span class="crefe"><a href="/hans/干戈">干戈</a></span><span class="crefe"><a href="/hans/干股">干股</a></span><span class="crefe"><a href="/hans/干果">干果</a></span><span class="crefe"><a href="/hans/干旱">干旱</a></span><span class="crefe"><a href="/hans/干号">干号</a></span><span class="crefe"><a href="/hans/干涸">干涸</a></span><span class="crefe"><a href="/hans/干涸">干涸</a></span><span class="crefe"><a href="/hans/干货">干货</a></span><span class="crefe"><a href="/hans/干急">干急</a></span><span class="crefe"><a href="/hans/干季">干季</a></span><span class="crefe"><a href="/hans/干姜">干姜</a></span><span class="crefe"><a href="/hans/干将">干将</a></span><span class="crefe"><a href="/hans/干结">干结</a></span><span class="crefe"><a href="/hans/干净">干净</a></span><span class="crefe"><a href="/hans/干咳">干咳</a></span><span class="crefe"><a href="/hans/干渴">干渴</a></span><span class="crefe"><a href="/hans/干枯">干枯</a></span><span class="crefe"><a href="/hans/干哭">干哭</a></span><span class="crefe"><a href="/hans/干酪">干酪</a></span><span class="crefe"><a href="/hans/干冷">干冷</a></span><span class="crefe"><a href="/hans/干礼，干礼儿">干礼，干礼儿</a></span><span class="crefe"><a href="/hans/干连">干连</a></span><span class="crefe"><a href="/hans/干粮">干粮</a></span><span class="crefe"><a href="/hans/干裂">干裂</a></span><span class="crefe"><a href="/hans/干妹子">干妹子</a></span><span class="crefe"><a href="/hans/干没">干没</a></span><span class="crefe"><a href="/hans/干娘">干娘</a></span><span class="crefe"><a href="/hans/干呕">干呕</a></span><span class="crefe"><a href="/hans/干亲">干亲</a></span><span class="crefe"><a href="/hans/干扰">干扰</a></span><span class="crefe"><a href="/hans/干扰">干扰</a></span><span class="crefe"><a href="/hans/干热">干热</a></span><span class="crefe"><a href="/hans/干人">干人</a></span><span class="crefe"><a href="/hans/干涩">干涩</a></span><span class="crefe"><a href="/hans/干涉">干涉</a></span><span class="crefe"><a href="/hans/干尸">干尸</a></span><span class="crefe"><a href="/hans/干瘦">干瘦</a></span><span class="crefe"><a href="/hans/干爽">干爽</a></span><span class="crefe"><a href="/hans/干洗">干洗</a></span><span class="crefe"><a href="/hans/干系">干系</a></span><span class="crefe"><a href="/hans/干笑">干笑</a></span><span class="crefe"><a href="/hans/干薪">干薪</a></span><span class="crefe"><a href="/hans/干眼症">干眼症</a></span><span class="crefe"><a href="/hans/干谒">干谒</a></span><span class="crefe"><a href="/hans/干预，干与">干预，干与</a></span><span class="crefe"><a href="/hans/干云蔽日">干云蔽日</a></span><span class="crefe"><a href="/hans/干着急">干着急</a></span><span class="crefe"><a href="/hans/干燥">干燥</a></span><span class="crefe"><a href="/hans/干燥剂">干燥剂</a></span><span class="crefe"><a href="/hans/干燥症">干燥症</a></span><span class="crefe"><a href="/hans/干证">干证</a></span><span class="crefe"><a href="/hans/干支">干支</a></span><span class="crefe"><a href="/hans/干重">干重</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>干</strong></p>
+<p>幹、榦 <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。从木，倝( <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> )声。本义:筑墙板。筑土墙时两边所用的木板)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[end plank]</span></p>
+<p><span class="diczx1">榦，筑墙端木也。&mdash;&mdash;<span class="smcs">《说文》</span>。字亦俗作幹。按，植于两边者曰榦，植于两端者曰楨。散文则亦通称也。古筑墙先度其广，轮乃树楨，榦，继施横板于两边，榦内以绳束榦，实土筑之。一板竣则层累而上，五板为堵。</span></p>
+<p><span class="diczx1">平板榦，称畚筑。&mdash;&mdash;<span class="smcs">《左传&middot;宣公十一年》</span></span></p>
+<p><span class="diczx2">姚信</span>、 <span class="diczx2">楼玄</span>，&hellip;皆社稷之桢干，国家之良辅。&mdash;&mdash;<span class="smcs">《三国志&middot;陆凯传》</span></p>
+<p><span class="diczx3">又如:榦楨(筑墙所用的主柱，竖在两旁的叫&ldquo;榦&rdquo;，竖在两端的叫&ldquo;桢&rdquo;。引申为支柱、支撑)</span></p>
+<p><span class="cino">(3)</span> 木名。柘树 <span class="encs">[three-bristle cudrania]</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>干</strong></p>
+<p>幹 <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 主干 <span class="encs">[trunk]</span></p>
+<p><span class="diczx1">故枝不得大如榦，末不得强于本。&mdash;&mdash;<span class="smcs">《淮南子&middot;主训》</span></span></p>
+<p><span class="diczx1">柏虽大榦如臂，无不平贴石上，如苔藓然。&mdash;&mdash;<span class="smcs">《徐霞客游记》</span></span></p>
+<p><span class="diczx1">魂兮归来，去君之恒干，何为四方些?&mdash;&mdash;<span class="smcs">《楚辞&middot;屈原&middot;招魂》</span></span></p>
+<p><span class="diczx3">又如:躯干;干子(树干);干本(树木的主干);干貌(体貌);干力(指体力强健);骨干(在总体中起主要作用的人或物);干翮(主翮。翮，羽的主茎);干翼(主干与辅翼);干辅(主干与辅佐)</span></p>
+<p><span class="cino">(2)</span> 引申为本质 <span class="encs">[essenee]</span></p>
+<p><span class="diczx1">是故柔弱者，生之榦也。&mdash;&mdash;<span class="smcs">《淮南子》</span>。</span><span class="diczx2">高诱</span>注:&ldquo;榦，质也。&rdquo;</p>
+<p><span class="cino">(3)</span> 胁 <span class="encs">[the upper part of the side of the human body]</span></p>
+<p><span class="diczx1">上佐食，举尸牢胁，尸受振祭哜之。&mdash;&mdash;<span class="smcs">《仪礼&middot;少牢馈食礼》</span></span></p>
+<p><span class="cino">(4)</span> 效果;用处 <span class="encs">[effect]</span></p>
+<p><span class="diczx1">况且</span><span class="diczx2">朱三</span>是穷人，讨也没干。&mdash;&mdash;<span class="smcs">《二刻拍案惊奇》</span></p>
+<p><span class="cino">(5)</span> 地位低下的官吏 <span class="encs">[low official]</span></p>
+<p><span class="diczx3">又如:干人(即府干。达官贵人府中的办事人员。也称&ldquo;干办&rdquo;);干吏(干练的官吏。多指州郡衙门中的办事人员)</span></p>
+<p><span class="cino">(6)</span> 一种俸禄 <span class="encs">[salary]</span>。</p>
+<p><span class="diczx3">如:干禄(南北朝时勋贵、官吏对被役使的&ldquo;干&rdquo;收取免役绢作为一种额外俸给，称&ldquo;干禄&rdquo;)</span></p>
+<p><span class="cino">(7)</span> 干部的简称 <span class="encs">[cadre]</span>。</p>
+<p><span class="diczx3">如:干群关系;以工代干;干属(干部的家属)</span></p>
+<p><span class="cino">(8)</span> 事情 <span class="encs">[affair]</span>。</p>
+<p><span class="diczx3">如:公干;有何贵干?</span></p>
+<p><span class="cino">(9)</span> 姓</p>
+<p>◎ <strong>干</strong></p>
+<p>幹 <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 做，从事于或忙于做某事，尤指从事某项职业 <span class="encs">[do;act;execute;work]</span></p>
+<p><span class="diczx2">宁宗</span><span class="diczx2">庆元</span>五年，右谏议大夫 <span class="diczx2">张奎</span>言乞行下州县，保正止许干当本都贼盗、斗殴、烟火、公事，不许非泛科配。&mdash;&mdash;<span class="smcs">《文献通考&middot;职役&middot;历代乡党版籍职役》</span></p>
+<p><span class="diczx3">又如:让我干什么都可以;干不的(干不了);干办(办理;处理);干当(承办)</span></p>
+<p><span class="cino">(2)</span> 主管 <span class="encs">[take charge of]</span></p>
+<p><span class="diczx2">光武</span>即位，知 <span class="diczx2">湛</span>名儒旧臣，欲令干任内职，征拜尚书。&mdash;&mdash;<span class="smcs">《后汉书&middot;伏湛传》</span></p>
+<p><span class="diczx3">又如:干管(主持;管理);干官(古代掌管均输之官);干掌(掌管，管理);干运(运筹干办);干当(主管;经办)</span></p>
+<p><span class="cino">(3)</span> 建立;求取 <span class="encs">[set up;found;seek for]</span>。</p>
+<p><span class="diczx3">如:干功(建功)</span></p>
+<p><span class="cino">(4)</span> 通&ldquo;扞&rdquo;( <span class="dicpy">h&agrave;n</span>)。护卫，遮挡 <span class="encs">[guard;keep out]</span></p>
+<p><span class="diczx1">赳赳武夫，公侯干城。&mdash;&mdash;<span class="smcs">《诗&middot;周南&middot;兔罝》</span></span></p>
+<p><span class="diczx3">又如:干夜(护卫巡夜)</span></p>
+<p>◎ <strong>干</strong></p>
+<p>幹 <span class="dicpy">g&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/g&agrave;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 干练 <span class="encs">[capable and experienced]</span></p>
+<p><span class="diczx2">邕</span>善书计，强记默识，以干济见知。&mdash;&mdash;<span class="smcs">《北齐书&middot;唐邕传》</span></p>
+<p><span class="diczx1">愿他日得志，廉干如古人某，忠孝如古人某，及为吏，以污贿不饬罢。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="diczx3">又如:干肃(干练而慎重);干直(干练正直);干绩(优异的业绩);干誉(以办事干练而获得的声誉)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;扞&rdquo;( <span class="dicpy">h&agrave;n</span>)。乱 <span class="encs">[disorderly]</span></p>
+<p><span class="diczx1">治宜于时而行之，则不干。&mdash;&mdash;<span class="smcs">《商君书&middot;壹言》</span></span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">gān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/gān.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /> <div class="cit type-xxjs"><span class="crefe"><a href="/hans/干部">干部</a></span><span class="crefe"><a href="/hans/干才">干才</a></span><span class="crefe"><a href="/hans/干道">干道</a></span><span class="crefe"><a href="/hans/干掉">干掉</a></span><span class="crefe"><a href="/hans/干活">干活</a></span><span class="crefe"><a href="/hans/干家">干家</a></span><span class="crefe"><a href="/hans/干将">干将</a></span><span class="crefe"><a href="/hans/干劲">干劲</a></span><span class="crefe"><a href="/hans/干警">干警</a></span><span class="crefe"><a href="/hans/干练">干练</a></span><span class="crefe"><a href="/hans/干流">干流</a></span><span class="crefe"><a href="/hans/干路">干路</a></span><span class="crefe"><a href="/hans/干吗">干吗</a></span><span class="crefe"><a href="/hans/干渠">干渠</a></span><span class="crefe"><a href="/hans/干什么">干什么</a></span><span class="crefe"><a href="/hans/干事">干事</a></span><span class="crefe"><a href="/hans/干事">干事</a></span><span class="crefe"><a href="/hans/干线">干线</a></span><span class="crefe"><a href="/hans/干校">干校</a></span><span class="crefe"><a href="/hans/干仗">干仗</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>干</rb></rbc><rtc><rt>ㄍㄢ</rt></rtc><rtc><rt>gān <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/2272.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">武器名。用來阻擋刀箭、護衛身軀的盾牌。</span><span class="gc_yy">《書經&middot;牧誓》：「稱爾戈，比爾<b>干</b>，立爾矛，予其誓。」</span><span class="gc_yy">《韓非子&middot;五蠹》：「乃修教三年，執干戚舞，有苗乃服。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">參見「<a href='/hans/天干' target=_blank>天干</a> 」條。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">水畔、岸邊。</span><span class="gc_yy">《詩經&middot;魏風&middot;伐檀》：「坎坎伐檀兮，寘之河之<b>干</b>兮。」</span><span class="gc_yy">唐&middot;杜甫〈有客〉詩：「豈有文章驚海內，謾勞車馬駐江<b>干</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">經脫水加工製成的乾燥食品。</span><span class="gc_lz">如：「筍<b>干</b>」、「豆腐<b>干</b>」。</span><span class="gc_yx">通「乾」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">成群有關係的人。</span><span class="gc_yy">《紅樓夢&middot;第五九回》：「那婆子深妒襲人、晴雯一<b>干</b>人。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如晉代有干寶。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">冒犯、觸犯。</span><span class="gc_lz">如：「干犯」。</span><span class="gc_yy">《左傳&middot;文公四年》：「君辱貺之，其敢<b>干</b>大禮以自取戾。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">求取、營求。</span><span class="gc_yy">《論語&middot;為政》：「子張學干祿。」</span><span class="gc_yy">《公羊傳&middot;定公四年》：「伍子胥父誅乎楚，挾弓而去楚，以<b>干</b>闔廬。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">強行參預。</span><span class="gc_lz">如：「干涉」、「干政」。</span><span class="gc_yy">清&middot;徐珂《清稗類鈔&middot;帝德類&middot;咸豐季年三奸伏誅》：「三奸盤結，同<b>干</b>大政。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">相關、有關聯。</span><span class="gc_lz">如：「相<b>干</b>」。</span><span class="gc_yy">《水滸傳&middot;第五二回》：「莊客李大救主，誤打死人，非<b>干</b>我事。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5E72_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=干" target="_blank">干</a>】
+                              干·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=干" target="_blank">干</a>】
+                              干·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5E72.svg">						  <p>【唐韻】古寒切【集韻】【韻會】居寒切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音竿。【說文】干，犯也。【左傳&middot;文四年】其敢干大禮，以自取戾。【晉書&middot;衞玠傳】非意相干，可以理遣。</p>
+<p>又【爾雅&middot;釋言】干，求也。【書&middot;大禹謨】罔違道以干百姓之譽。【論語】子張學干祿。</p>
+<p>又盾也。【揚子&middot;方言】盾，自關而東或謂之〈盾支〉，或謂之干，關西謂之盾。【書&middot;大禹謨】舞干羽于兩階。【詩&middot;大雅】干戈戚揚。</p>
+<p>又司干，官名。【周禮&middot;春官】司干掌舞器。</p>
+<p>又【爾雅&middot;釋言】干，扞也。【註】相扞衞。【疏】孫炎曰：干盾，自蔽扞。【詩&middot;周南】公侯干城。【疏】干城者，言以武夫自固，爲扞蔽如盾，爲防守如誠然。</p>
+<p>又㵎也。【詩&middot;小雅】秩秩斯干。【傳】干，㵎也。</p>
+<p>又水涯也。【易&middot;漸卦】鴻漸于干。【註】干謂大水之旁，故停水處者。【詩&middot;魏風】寘之河之干兮。【傳】干，厓也。</p>
+<p>又國郊曰干。【詩&middot;邶風】出宿于干。【傳】干言國郊也。</p>
+<p>又【韻會】若干，數未定之辭，猶言幾許也。【禮&middot;曲禮】問天子之年。對曰：聞之始服衣若干尺矣。【前漢&middot;食貨志】或用輕錢百加若干。【註】師古曰：若干，且設數之言也。干猶箇也。謂當如此箇數耳。</p>
+<p>又自甲至癸爲天干。【皇極經世】十干，天也。十二支，地也。支干，配天地之用也。【皇極內篇】十爲干，十二爲支。十干者。五行有隂陽也。十二支者，六氣有剛柔也。</p>
+<p>又闌干，橫斜貌。【古樂府&middot;善哉行】月沒參橫，北斗闌干。</p>
+<p>又【韻會】闌楯閒曰闌干。【李白&middot;淸平調】沉香亭北倚闌干。</p>
+<p>又【韻會】目眶謂之闌干。【正韻】闌干，淚流貌。【談藪】王元景使梁，劉孝綽送別，泣下。元景無淚謝曰：別後當闌干。【白居易詩】玉容寂寞淚闌干。</p>
+<p>又蘭干，紵也。【後漢&middot;哀牢國傳】蘭干細布，織成文章如綾錦。【華陽國志】蘭干，獠言紵也。</p>
+<p>又干將，劒名。【吳越春秋】干將者，吳人也。莫邪，干將之妻也。干將作劒，莫邪斷髮翦爪投于爐中，金鐵乃濡，遂以成劒。陽曰干將，隂曰莫邪。</p>
+<p>又干遮，曲名。【司馬相如&middot;子虛賦】淮南干遮。【註】干遮，曲名也。</p>
+<p>又射干，木名。【荀子&middot;勸學篇】西方有木，名曰射干。</p>
+<p>又草名。【本草圖經】射干，花白莖長，如射人之執干。【後漢&middot;<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>寵傳】陽氣始萌，十一月有蘭，射干，芸荔之應。</p>
+<p>又獸名。【司馬相如&middot;子虛賦】騰遠射干。【註】射干，似狐，能緣木。</p>
+<p>又野干，亦獸名。【法華經】野干，體瘦無目，爲諸童子摘擲，受諸苦痛。</p>
+<p>又發干、蘭干、餘干，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>縣名。【後漢&middot;郡國志】東郡有發干縣，漢陽郡有蘭干縣。【隋書&middot;地理志】鄱陽郡有餘干縣。</p>
+<p>又長干，地名。【左思&middot;吳都賦】長干延屬。【註】建業南五里有山岡，其閒平地，吏民雜居。東長干中有大長干，小長干，皆相連。地有長短，故號大小長干。韓詩曰考盤在干。地下而黃曰干。</p>
+<p>又姓。【左傳&middot;昭二十一年】宋有干犫。【劉向&middot;別錄】有干長，著天下忠臣九篇。</p>
+<p>又段干，干己，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>複姓。【史記&middot;老子傳】老子之子名宗，爲魏將，封於段干。【註】段干，應是魏邑名，而魏世家有段干木，段干子。田完世家有段干朋。疑此三人是姓段干也，本蓋因邑爲姓。【何氏姓苑】漢有干已衍，爲京兆尹。</p>
+<p>又【集韻】居案切，音盰。扞也。【詩&middot;周南】公侯干城。沈重讀。</p>
+<p>又【篇韻】音寒。國名。【淮南子&middot;道應訓】荆有佽飛，得寶劒於干隊。【註】干國，在今臨淄，出寶劒。</p>
+<p>又【韻會】通作奸。【前漢&middot;劉向傳】數奸死亡之誅。</p>
+<p>又通作忓，干預也。【唐書&middot;萬壽公主傳】無忓時事。</p>
+<p>又【韻會】通作竿。【後漢&middot;董卓傳】乗金華靑蓋，瓜畫兩轓，時人號竿摩車，言其服飾近天子也。【註】竿摩，謂相逼近也。今俗以事干人者謂之相竿摩。</p>
+<p>又與矸通。【集韻】矸，石也。或省作干。</p>
+<p>又與豻通。【類篇】豻或作干。【儀禮&middot;大射儀】量人量侯道干五十。【註】干讀豻。豻侯者，豻鵠豻飾也。</p>
+<p>又古與乾通。【初月帖】淡悶干嘔。楊愼曰：淡，古淡液之淡，干，古干溼之干。今以談作痰，干作乾，非也。</p>
+<p>又叶經天切，音堅。【黃庭經】回紫抱黃入丹田，漱嚥靈液災不干。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5E72_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=干">干</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=干">干</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5E72.svg">                          <p>犯也。从反入，从一。凡干之屬皆从干。古寒切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5E72_1702.svg" /><span class="swbf">(干)</span><span class="ywyy">犯也。</span><span class="swdz">犯，侵也。毛詩干旄、干旌假爲竿字。</span><span class="ywyy">从一，从反入。</span><span class="swdz">反入者，上犯之意。古寒切。十四部。</span><span class="ywyy">凡干之屬皆从干。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5E72_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  kĄn˥; kĄn˥˧ <span class="z_ts4">唐代读音</span>  *gɑn gɑn<span class="z_ts4">日语读音</span>  HOSU HIRU OKASU<span class="z_ts4">韩语罗马</span>  KAN<span class="z_ts4">现代韩语</span>  간<span class="z_ts3">越南语</span>  can</p>						<p><span class="z_ts3">客家话</span>  [客英字典] gon5 [台湾四县腔] gon1 [客语拼音字汇] gon1 [陆丰腔] gon1 [梅县腔] gon1 [海陆腔] gon1 [宝安腔] gon1 [东莞腔] gon1 gon5 [沙头角腔] gon1<span class="z_ts2">粤语</span>  gon1<span class="z_ts3">潮州话</span>  gang1 guan1 (kang kuaⁿ)</p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  見母    寒韻    平聲    干小韻    古寒切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：見母    寒部   ；王力系统：見母    元部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/干">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/干">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/干">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/干">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/干">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/干">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/干">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/干">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/干">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/干">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/干">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/干">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">干</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_EBA0.svg" /><span>「干」 鄴3下.39.11</span><span>合32834</span></a></td>
+			<td><a href="/zd/zx/jw/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_EAD5.svg" /><span>「干」 豦簋</span><span>西周中期</span><span>集成4167</span></a></td>
+			<td><a href="/zd/zx/cx/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_EC4C.svg" /><span>「干」 包2.269</span></a></td>
+			<td><a href="/zd/zx/xz/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_5E72.svg" /><span>「干」 說文‧干部</span></a></td>
+			<td><a href="/zd/zx/qx/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E1ED.svg" /><span>「干」 睡.秦171</span></a></td>
+			<td style="display:none"><a href="/hans/乾" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4E7E.svg" /><span>「乾」</span></a></td>
+			<td><a href="/hans/干" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5E72.svg" /><span>「干」</span></a></td>
+			<td style="display:none"><a href="/hans/干" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5E72.svg" /><span>「干」</span></a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_EAD8.svg" /><span>「干」 師克盨蓋</span><span>西周晚期</span><span>集成4468</span></a></td>
+			<td><a href="/zd/zx/cx/干"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_EC4E.svg" /><span>「干」 望2.13</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none"><a href="/hans/幹" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5E79.svg" /><span>「幹」</span></a></td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/干">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/干">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/干">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/干">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/干">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/干">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5E72.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5E72.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5E72.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5E72.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5E72.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/乾' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E7E.svg'><span>乾</span></a></div> <div class='zx'><a href='/hans/𢧀' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/229C0.svg'><span>𢧀</span></a></div> <div class='zx'><a href='/hans/幹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5E79.svg'><span>幹</span></a></div> <div class='zx'><a href='/hans/漧' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6F27.svg'><span>漧</span></a></div> <div class='zx'><a href='/hans/榦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/69A6.svg'><span>榦</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4211" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5033">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/攼">攼(gan1)</a></li><li><a href="/hans/筸">筸(gan1)</a></li><li><a href="/hans/尲">尲(gan1)</a></li><li><a href="/hans/乾">乾(gan1)</a></li><li><a href="/hans/玕">玕(gan1)</a></li><li><a href="/hans/苷">苷(gan1)</a></li><li><a href="/hans/泔">泔(gan1)</a></li><li><a href="/hans/𠄃">𠄃(gan1)</a></li><li><a href="/hans/魐">魐(gan1)</a></li><li><a href="/hans/酐">酐(gan1)</a></li><li><a href="/hans/矸">矸(gan1)</a></li><li><a href="/hans/竿">竿(gan1)</a></li><li><a href="/hans/盰">盰(gan4)</a></li><li><a href="/hans/汵">汵(gan4)</a></li><li><a href="/hans/倝">倝(gan4)</a></li><li><a href="/hans/贛">贛(gan4)</a></li><li><a href="/hans/䲺">䲺(gan4)</a></li><li><a href="/hans/骭">骭(gan4)</a></li><li><a href="/hans/簳">簳(gan4)</a></li><li><a href="/hans/檊">檊(gan4)</a></li><li><a href="/hans/旰">旰(gan4)</a></li><li><a href="/hans/赣">赣(gan4)</a></li><li><a href="/hans/㽏">㽏(gan4)</a></li><li><a href="/hans/佄">佄(gan4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/幵">幵</a></li><li><a href="/hans/平">平</a></li><li><a href="/hans/年">年</a></li><li><a href="/hans/幸">幸</a></li><li><a href="/hans/并">并</a></li><li><a href="/hans/幷">幷</a></li><li><a href="/hans/幹">幹</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㐇">㐇</a></li><li><a href="/hans/广">广</a></li><li><a href="/hans/及">及</a></li><li><a href="/hans/凢">凢</a></li><li><a href="/hans/丬">丬</a></li><li><a href="/hans/马">马</a></li><li><a href="/hans/𠁽">𠁽</a></li><li><a href="/hans/彡">彡</a></li><li><a href="/hans/纟">纟</a></li><li><a href="/hans/亇">亇</a></li><li><a href="/hans/勺">勺</a></li><li><a href="/hans/辶">辶</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">故园东望路漫漫，双袖龙钟泪不<span>干</span>。</div><div class="gscdr">唐·岑参 《逢入京使》</div><div class="gscdl">沧州南一寺临河<span>干</span>，山门圮于河，二石兽并沉焉。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">床头屋漏无<span>干</span>处，雨脚如麻未断绝。</div><div class="gscdr">唐·杜甫 《茅屋为秋风所破歌》</div><div class="gscdl">春蚕到死丝方尽，蜡炬成灰泪始<span>干</span>。</div><div class="gscdr">唐·李商隐 《无题·相见时难别亦难》</div><div class="gscdl">瀚海阑<span>干</span>百丈冰，愁云惨淡万里凝。</div><div class="gscdr">唐·岑参 《白雪歌送武判官归京》</div><div class="gscdl">辛苦遭逢起一经，<span>干</span>戈寥落四周星。</div><div class="gscdr">宋·文天祥 《过零丁洋》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4211"></script>
+</body>
+</html>

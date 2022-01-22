@@ -1,0 +1,621 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>置的解释|置的意思|汉典“置”字的基本解释</title>
+<meta name="title" content="置的解释|置的意思|汉典“置”字的基本解释">
+<meta name="keywords" content="上：罒，下：直。 " /><meta property="og:title" content="“置”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“置”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“置”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/置" />
+<link rel="canonical" href="//www.zdic.net/hans/置" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/置" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/置" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/置" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/置">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/置">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/7F6E.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/7F6E.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“置”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhì.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“置”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=罒" target="_blank">  罒</a></p>
+                              <p><span class="z_ts2">部外</span>  8</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/𦋘' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/262D8.svg'><span class='ytz_txt'>𦋘</span></a> <a href='/hans/𦋲' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/262F2.svg'><span class='ytz_txt'>𦋲</span></a> <a href='/hans/𦌃' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26303.svg'><span class='ytz_txt'>𦌃</span></a> <a href='/hans/𦌤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26324.svg'><span class='ytz_txt'>𦌤</span></a> <a href='/hans/寘' target=_blank>寘</a> <a href='/hans/𢍧' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22367.svg'><span class='ytz_txt'>𢍧</span></a> <a href='/hans/𣇣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/231E3.svg'><span class='ytz_txt'>𣇣</span></a> <a href='/hans/𦌖' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26316.svg'><span class='ytz_txt'>𦌖</span></a> <a href='/hans/𧴴' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/27D34.svg'><span class='ytz_txt'>𧴴</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7F6E</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>2522112251111</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>lfhf</p></td>                            <td class="dsk_2_1"><p>wljbm</p></td>                            <td class="dsk_2_1"><p>lkel</p></td>                            <td class="dsk_2_1"><p>60102</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“置”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhì.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“置”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=罒" target="_blank">罒</a> <span class="z_ts2">部外</span> 8<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">基本区</span> 7F6E<span class="z_ts2">笔顺</span> 2522112251111                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7F6E_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=12655" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>置</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_yt.svg" title="异体字"><span class="diczx3">➊寘</span>）</strong></p><p><span class="dicpy">zh&igrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&igrave;.mp3"></a></span>  ㄓˋ</span></p><hr class="dichr" /><ol>	<li>放，摆，搁：安～。布～。～放。～身。位～。～信。～评。～疑。～辩。推心～腹。～若罔闻。～之度外。</li>	<li>设立，设备：装～。设～。</li>	<li>购买：添～。～办。～备。～买。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> place, lay out; set aside</p><p><span class="z_ts2">德语</span> einbauen, installieren ,legen, ausgeben ,setzen, platzieren ,anrichten  (V)</p><p><span class="z_ts2">法语</span> placer,acheter,préparer</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>置</strong> <span class="dicpy">zh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&igrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (会意。从网直，有亦声。网直宜赦。本义:赦罪，释放)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[release]</span></p>
+<p><span class="diczx1">置，赦也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">见十置一。&mdash;&mdash;<span class="smcs">《汉书&middot;尹赏传》</span>。注:&ldquo;放也。&rdquo;</span></p>
+<p><span class="diczx2">高帝</span>曰:&ldquo;置之。&rdquo;乃释通之罪。&mdash;&mdash;<span class="smcs">《史记&middot;淮阴侯列传》</span></p>
+<p><span class="diczx1">斩首捕虏，比三百石以上者皆杀之，无有所置。&mdash;&mdash;<span class="smcs">《史记&middot;吴王濞列传》</span></span></p>
+<p><span class="cino">(3)</span> 安放;搁;摆 <span class="encs">[place;put]</span></p>
+<p><span class="diczx1">覆杯水于坳堂之上，则芥为之舟，置杯焉则胶。&mdash;&mdash;<span class="smcs">《庄子&middot;逍遥游》</span></span></p>
+<p><span class="diczx2">项王</span>则受璧，置之坐上。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></p>
+<p><span class="diczx1">置酒</span><span class="diczx2">长安</span>道，同心与我违。&mdash;&mdash; <span class="diczx2">王维</span><span class="smcs">《送綦母潜落第还乡》</span></p>
+<p><span class="diczx3">又如:置锥之地(安身立足之地);置室(安置妻室;取妻);置酒(陈设酒筵);置社(古时大夫、士庶共同设置的供奉社神之所);置立(设立);安置;置措(措置);置散(安置在闲散的职位);置棋不定(弈棋时不知如何下子);置锥之地(安放锥子的地方。比喻极狭小的、赖以安身立命的地方);置手(插手)</span></p>
+<p><span class="cino">(4)</span> 设置，建立，设立 <span class="encs">[establish;install;set up]</span></p>
+<p><span class="diczx1">于是</span><span class="diczx2">秦</span>始征 <span class="diczx2">晋</span><span class="diczx2">河</span>东;置官司马。&mdash;&mdash;<span class="smcs">《左传&middot;僖公十五年》</span></p>
+<p><span class="diczx1">置园邑三百家。&mdash;&mdash;<span class="smcs">《汉书&middot;霍光传》</span></span></p>
+<p><span class="diczx1">置以为像兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;屈原&middot;九章》</span></span></p>
+<p><span class="diczx1">汉之所置傅相，方握其事。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《汉安策》</span></p>
+<p><span class="diczx3">又如:置社(&ldquo;周&rdquo;时大夫与庶民所共设置的社稷神);置顿(设置供人停留和食宿的处所);置都(建都)</span></p>
+<p><span class="cino">(5)</span> 豁免 <span class="encs">[exempt;remit]</span></p>
+<p><span class="diczx2">晋王</span>归 <span class="diczx2">晋阳</span>，休兵行赏，命州县举贤才，黜贪残，置租赋，抚孤穷。&mdash;&mdash; <span class="diczx2">明</span>&middot; <span class="diczx2">李贽</span><span class="smcs">《史纲评要&middot;后梁纪》</span></p>
+<p><span class="cino">(6)</span> 废弃;舍弃 <span class="encs">[discard;abandon;give up]</span></p>
+<p><span class="diczx1">置大立少，乱之本也。&mdash;&mdash;<span class="smcs">《晏子春秋&middot;内篇谏上》</span></span></p>
+<p><span class="diczx2">沛公</span>则置车骑。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span></p>
+<p><span class="diczx3">又如:置之高阁(比喻弃置一旁，不睬不用);置后(古时大夫死后无子，为死者别置后嗣、暂为丧主之称)</span></p>
+<p><span class="cino">(7)</span> 搁置;放下;放在一边 <span class="encs">[shelve;place aside]</span></p>
+<p><span class="diczx1">坎坎伐檀兮，置之河之干兮。&mdash;&mdash;<span class="smcs">《诗&middot;魏风&middot;伐檀》</span></span></p>
+<p><span class="diczx1">且焉置土石。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx3">又如:置阁(耽搁;迟延);置之不问(搁在一边，不予过问);置之死地而后生(置于不战则死的境地，然后方能奋勇战斗，取胜得生)</span></p>
+<p><span class="cino">(8)</span> 委托;交付 <span class="encs">[entrust;trust;pay]</span>。</p>
+<p><span class="diczx3">如:置质(委质。谓臣下向君主呈献礼物，以示献身);置重(侧重;着重)</span></p>
+<p><span class="cino">(9)</span> 购买;置办 <span class="encs">[buy]</span></p>
+<p><span class="diczx2">郑</span>人有且置履者。&mdash;&mdash;<span class="smcs">《韩非子》</span></p>
+<p><span class="diczx3">又如:置产(购置产业);置田;置房子</span></p>
+<p><span class="cino">(10)</span> 通&ldquo;植&rdquo;( <span class="dicpy">zh&iacute;</span>)。树立<span class="encs">[set up]</span></p>
+<p><span class="diczx1">凡试庐事置而摇之。&mdash;&mdash;<span class="smcs">《周礼&middot;考工记&middot;庐人》</span></span></p>
+<p><span class="diczx1">夫孝置之而塞乎天地。&mdash;&mdash;<span class="smcs">《礼记&middot;祭义》</span></span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>置</strong> <span class="dicpy">zh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&igrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 古代传递文书的驿站 <span class="encs">[post]</span></p>
+<p><span class="diczx1">五十里而一置。&mdash;&mdash;<span class="smcs">《韩非子&middot;难势》</span></span></p>
+<p><span class="diczx1">德之流行，速于置郵而传命。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑上》</span></span></p>
+<p><span class="cino">(2)</span> 驿车;驿马 <span class="encs">[post-chaise;post-horse]</span></p>
+<p><span class="diczx1">十里一置飞尘灰，五里一堠兵马催。&mdash;&mdash;</span><span class="diczx2">苏轼</span><span class="smcs">《荔枝叹》</span></p>
+<p><span class="diczx3">又如:置邮(用马车传递文书信息。亦谓传递文书信息的驿站)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/置办">置办</a></span><span class="crefe"><a href="/hans/置备">置备</a></span><span class="crefe"><a href="/hans/置辩">置辩</a></span><span class="crefe"><a href="/hans/置放">置放</a></span><span class="crefe"><a href="/hans/置后">置后</a></span><span class="crefe"><a href="/hans/置换">置换</a></span><span class="crefe"><a href="/hans/置酒">置酒</a></span><span class="crefe"><a href="/hans/置买">置买</a></span><span class="crefe"><a href="/hans/置评">置评</a></span><span class="crefe"><a href="/hans/置身事外">置身事外</a></span><span class="crefe"><a href="/hans/置信">置信</a></span><span class="crefe"><a href="/hans/置疑">置疑</a></span><span class="crefe"><a href="/hans/置之度外">置之度外</a></span><span class="crefe"><a href="/hans/置之脑后">置之脑后</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>置</rb></rbc><rtc><rt>ㄓˋ</rt></rtc><rtc><rt>zh&igrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4286.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">釋放、赦免。</span><span class="gc_yy">《國語&middot;鄭語》：「褒人褒姁有獄，而以為入於王，王遂<b>置</b>之。」</span><span class="gc_yy">《史記&middot;卷一○六&middot;吳王濞傳》：「擊反虜者，深入多殺為功，斬首捕虜比三百石以上者皆殺之，無有所<b>置</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">廢棄。</span><span class="gc_yy">《晏子春秋&middot;內篇&middot;諫上》：「夫以賤匹貴，國之害也；<b>置</b>大立少，亂之本也。」</span><span class="gc_yy">《國語&middot;周語中》：「今以小忿棄之，是以小怨<b>置</b>大德也，無乃不可乎！」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">安放。</span><span class="gc_lz">如：「本末倒<b>置</b>」。</span><span class="gc_yy">《書經&middot;說命上》：「爰立作柤，王<b>置</b>諸其左右。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">建立、設立。</span><span class="gc_yy">《墨子&middot;明鬼下》：「三代之聖王，其始建國營都，日必擇國之正壇，<b>置</b>以為宗廟。」</span><span class="gc_yy">《史記&middot;卷五&middot;秦本紀》：「又攻楚漢中，取地六百里，<b>置</b>漢中郡。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">購買、添加。</span><span class="gc_lz">如：「置產」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">驛車、驛站。</span><span class="gc_yy">《孟子&middot;公孫丑上》：「德之流行，速於<b>置</b>郵而傳命。」</span><span class="gc_yy">宋&middot;蘇軾〈荔枝歎〉：「十里一<b>置</b>飛塵灰，五里一堠兵火催。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7F6E_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=未集中" target="_blank">未集中</a>】【<a href="/zd/kx/?zm=未集中&amp;bs=网" target="_blank">网</a>】
+                              置·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=未集中" target="_blank">未集中</a>】【<a href="/zd/kx/?zm=未集中&amp;bs=网" target="_blank">网</a>】
+                              置·康熙筆画：<a href="/zd/kx/bh/?bh=14" target="_blank">14</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7F6E.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/26324.svg"><span class="k_txt">𦌤</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/262FD.svg"><span class="k_txt">𦋽</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/262F2.svg"><span class="k_txt">𦋲</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/26303.svg"><span class="k_txt">𦌃</span>【廣韻】陟吏切【集韻】【韻會】竹吏切【正韻】知意切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音智。【說文】赦也。【註】徐鍇曰：从直，與罷同意。置之則去之也。</p><p>又【玉篇】立也。【廣韻】設也。【書&middot;說命】王置諸其左右。【周禮&middot;天官&middot;大宰】三曰廢置，以馭其吏。【註】退其不能者，舉賢而置之祿。【前漢&middot;周勃傳】不知置辭。【註】師古曰：置，立也。</p><p>又【玉篇】安置也。</p><p>又【廣雅】郵置，關驛也。【前漢&middot;曹參傳】取狐父祁善置。【註】師古曰：置，若今之驛也。</p><p>又【集韻】直吏切，音㯰。樹也。周禮，凡試廬事，置而搖之。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7F6E_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=网">网</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷七">卷七</a>】【<a href="/zd/sw/?swju=卷七&amp;swbs=网">网</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7F6E.svg">                          <p>赦也。从网、直。陟吏切〖注〗徐鍇曰：&ldquo;从直，與罷同意。&rdquo;</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7F6E_5079.svg" /><span class="swbf">(置)</span><span class="ywyy">赦也。</span><span class="swdz">攴部曰：赦，置也。二字互訓。置之本義爲貰遣，轉之爲建立，所謂變則通也。周禮：廢置以馭其吏。與廢對文。古借爲植字，如攷工記置而搖之卽植而搖之，論語植其杖卽置其杖也。</span><span class="ywyy">从网直。</span><span class="swdz">徐鍇曰：與罷同意。是也。直亦聲。陟吏切。一部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7F6E_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʅ˥˧ <span class="z_ts4">唐代读音</span>  *djiə̀<span class="z_ts4">日语读音</span>  OKU<span class="z_ts4">韩语罗马</span>  CHI<span class="z_ts4">现代韩语</span>  치<span class="z_ts3">越南语</span>  trí</p>						<p><span class="z_ts3">客家话</span>  [宝安腔] zi5 [海陆腔] zih5 [客英字典] zhi5 [台湾四县腔] zih5 [客语拼音字汇] zi4 [沙头角腔] zi5 [梅县腔] tje5 [陆丰腔] zi5 [东莞腔] zi5<span class="z_ts2">粤语</span>  zi3<span class="z_ts3">潮州话</span>  di3</p>						<p><span class="z_ts3">近代音</span>  照母    齊微韻    去聲    製小空；<span class="z_ts3">中古音</span>  知母    志韻    去聲    置小韻    陟吏切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：端母    德部   ；王力系统：端母    職部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/置">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/置">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/置">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/置">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/置">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/置">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/置">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/置">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/置">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/置">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/置">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/置">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">置</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/置"><img data-original="//img.zdic.net/zy/jiaguwen/41_E790.svg" class="lazy ypic"><span>「置」 鐵186.2</span><span>合15144</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/置"><img data-original="//img.zdic.net/zy/xiaozhuan/27_7F6E.svg" class="lazy ypic"><span>「置」 說文‧网部</span></a></td><td><a href="/zd/zx/qx/置"><img data-original="//img.zdic.net/zy/qinwenzi/71_E86F.svg" class="lazy ypic"><span>「置」 睡.法27</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/置" target="_blank"><img data-original="//img.zdic.net/kai/tw/7F6E.svg" class="lazy ypic"><span>「置」</span></a></td></tr><tr><td><a href="/zd/zx/jg/置"><img data-original="//img.zdic.net/zy/jiaguwen/41_E798.svg" class="lazy ypic"><span>「置」 京津2746</span><span>合15682</span></a></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/置"><img data-original="//img.zdic.net/zy/jiaguwen/41_ED8B.svg" class="lazy ypic"><span>「置」 後2.24.8</span><span>合18213</span></a></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/置">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/置">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/置">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/置">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7F6E.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7F6E.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7F6E.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7F6E.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/7F6E.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𦋘' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/262D8.svg'><span>𦋘</span></a></div> <div class='zx'><a href='/hans/𦋲' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/262F2.svg'><span>𦋲</span></a></div> <div class='zx'><a href='/hans/𦌃' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26303.svg'><span>𦌃</span></a></div> <div class='zx'><a href='/hans/𦌤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26324.svg'><span>𦌤</span></a></div> <div class='zx'><a href='/hans/寘' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5BD8.svg'><span>寘</span></a></div> <div class='zx'><a href='/hans/𢍧' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22367.svg'><span>𢍧</span></a></div> <div class='zx'><a href='/hans/𣇣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/231E3.svg'><span>𣇣</span></a></div> <div class='zx'><a href='/hans/𦌖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26316.svg'><span>𦌖</span></a></div> <div class='zx'><a href='/hans/𧴴' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/27D34.svg'><span>𧴴</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="12655" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7847">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㿃">㿃(zhi4)</a></li><li><a href="/hans/㫼">㫼(zhi4)</a></li><li><a href="/hans/䡹">䡹(zhi4)</a></li><li><a href="/hans/輊">輊(zhi4)</a></li><li><a href="/hans/祑">祑(zhi4)</a></li><li><a href="/hans/捗">捗(zhi4)</a></li><li><a href="/hans/蛭">蛭(zhi4)</a></li><li><a href="/hans/䩢">䩢(zhi4)</a></li><li><a href="/hans/熫">熫(zhi4)</a></li><li><a href="/hans/躓">躓(zhi4)</a></li><li><a href="/hans/䞃">䞃(zhi4)</a></li><li><a href="/hans/质">质(zhi4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/罛">罛</a></li><li><a href="/hans/罵">罵</a></li><li><a href="/hans/罣">罣</a></li><li><a href="/hans/罚">罚</a></li><li><a href="/hans/羁">羁</a></li><li><a href="/hans/罯">罯</a></li><li><a href="/hans/罡">罡</a></li><li><a href="/hans/罦">罦</a></li><li><a href="/hans/罷">罷</a></li><li><a href="/hans/罹">罹</a></li><li><a href="/hans/罽">罽</a></li><li><a href="/hans/罱">罱</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/锗">锗</a></li><li><a href="/hans/䩓">䩓</a></li><li><a href="/hans/嫓">嫓</a></li><li><a href="/hans/節">節</a></li><li><a href="/hans/甂">甂</a></li><li><a href="/hans/亂">亂</a></li><li><a href="/hans/飵">飵</a></li><li><a href="/hans/頒">頒</a></li><li><a href="/hans/詥">詥</a></li><li><a href="/hans/㰹">㰹</a></li><li><a href="/hans/窤">窤</a></li><li><a href="/hans/䔊">䔊</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">乃取一葫芦<span>置</span>于地，以钱覆其口，徐以杓酌油沥之，自钱孔入，而钱不湿。因曰：</div><div class="gscdr">宋·欧阳修 《卖油翁》</div><div class="gscdl">其妻献疑曰：“以君之力，曾不能损魁父之丘，如太行、王屋何？且焉<span>置</span>土石？”</div><div class="gscdr">先秦·列御寇  列子《愚公移山》</div><div class="gscdl">巴山楚水凄凉地，二十三年弃<span>置</span>身。</div><div class="gscdr">唐·刘禹锡 《酬乐天扬州初逢席上见赠》</div><div class="gscdl">中军<span>置</span>酒饮归客，胡琴琵琶与羌笛。</div><div class="gscdr">唐·岑参 《白雪歌送武判官归京》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=12655"></script>
+</body>
+</html>

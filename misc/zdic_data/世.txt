@@ -1,0 +1,641 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>世的解释|世的意思|汉典“世”字的基本解释</title>
+<meta name="title" content="世的解释|世的意思|汉典“世”字的基本解释">
+<meta name="keywords" content="|世|" /><meta property="og:title" content="“世”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“世”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“世”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/世" />
+<link rel="canonical" href="//www.zdic.net/hans/世" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/世" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/世" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/世" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/世">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/世">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E16.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E16.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“世”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shì.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“世”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=一" target="_blank">  一</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_ytz2"><a href='/hans/㔺' target=_blank>㔺</a> <a href='/hans/丗' target=_blank>丗</a> <a href='/hans/卋' target=_blank>卋</a> <a href='/hans/𠀍' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2000D.svg'><span class='ytz_txt'>𠀍</span> <a href='/hans/𠦔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20994.svg'><span class='ytz_txt'>𠦔</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E16</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>12215</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>anv</p></td>                            <td class="dsk_2_1"><p>pt</p></td>                            <td class="dsk_2_1"><p>eaz</p></td>                            <td class="dsk_2_1"><p>44717</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“世”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shì.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“世”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=一" target="_blank">一</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 4E16<span class="z_ts2">笔顺</span> 12215                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E16_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=23" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>世</strong></p>
+<p><span class="dicpy">sh&igrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> ㄕˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>一个时代，有时特指三十年：～代（ ➊ 很多年代； ➋ 好几辈子）。～纪（指一百年）。流芳百～。</li>
+	<li>一辈一辈相传的：～袭。～家（ ➊ 封建社会中门第高，世代做官的人家； ➋ 《史记》中诸侯的传记）。</li>
+	<li>人间，以与天上相区别：～上。～俗（ ➊ 流俗； ➋ 非宗教的）。～故（➊处事待人圆滑，&ldquo;<span class="diczx3">故</span>&rdquo;读轻声； ➋ 处世经验）。～态炎凉。</li>
+	<li>自然界和人类社会一切事物的总和；全地球、人间或宇宙；宇宙的一部分：～界。举～瞩目。公之于～。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> generation; world; era</p><p><span class="z_ts2">德语</span> Ära oder Aera, Lebenszeit, Generation  (S)</p><p><span class="z_ts2">法语</span> vie,génération,monde</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>世</strong></p>
+<p>丗、卋 <span class="dicpy">sh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (指事。金文字形。古人以三十年为一世。&ldquo;止&rdquo;上加三个圆点，表三十年;止，到此为止。本义:三十年)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[thirty years]</span></p>
+<p><span class="diczx1">世，三十年为一世。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">如有王者，必世而后仁。&mdash;&mdash;<span class="smcs">《论语&middot;子路》</span></span></p>
+<p><span class="cino">(3)</span> 父子相继为世。一代(古礼规定，男子三十岁结婚生孩子，产生新一代) <span class="encs">[generation]</span></p>
+<p><span class="diczx1">父子相代为一世。&mdash;&mdash;<span class="smcs">《字汇》</span></span></p>
+<p><span class="diczx1">世室世世不毁也。&mdash;&mdash;<span class="smcs">《公羊传&middot;文公十三年》</span></span></p>
+<p><span class="diczx1">世相朝也。&mdash;&mdash;<span class="smcs">《周礼&middot;大行人》</span></span></p>
+<p><span class="diczx1">昔我先王世后稷。&mdash;&mdash;<span class="smcs">《国语&middot;周语》</span></span></p>
+<p><span class="diczx1">有</span><span class="diczx2">蒋氏</span>者，专其利三世矣。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx2">孙权</span>据有 <span class="diczx2">江东</span>，已历三世，国险而民附。&mdash;&mdash;<span class="smcs">《三国志&middot;诸葛亮传》</span></p>
+<p><span class="diczx3">又如:世功(累代的功绩);世世(代代);世治(世世代代地统治);世济(世代继承);世卿(指世代承袭的卿大夫);世职(父子相袭的官职);世爵(世代继承爵位);世谱(世系家谱);世将(世代为将);祖传世医</span></p>
+<p><span class="cino">(4)</span> 一生;一辈子 <span class="encs">[lifetime;life]</span></p>
+<p><span class="diczx1">负刍必以</span><span class="diczx2">魏</span>，殁世事 <span class="diczx2">秦</span>。&mdash;&mdash;<span class="smcs">《战国策&middot;秦策》</span>。注:&ldquo;身也。&rdquo;</p>
+<p><span class="diczx1">凡君之所毕世而经营者，为天下也。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《原君》</span></p>
+<p><span class="diczx3">又如:今生今世;尘世;来世;出世;入世;永世不忘</span></p>
+<p><span class="cino">(5)</span> 人世，世间;世界 <span class="encs">[world]</span></p>
+<p><span class="diczx1">世有</span><span class="diczx2">伯乐</span>，然后有千里马。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《马说》</span></p>
+<p><span class="diczx1">虽才高于世，而无骄尚之情。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx1">此世所谓上下相孚也。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">宗臣</span><span class="smcs">《报刘一丈书》</span></p>
+<p><span class="diczx3">又如:一世之雄;举世闻名;世故;世尊(佛祖。佛教徒对释迦牟尼的尊称);世涂(光天化日之下;亦常比喻处世的经历);世界路上(人世交际场中);世外桃源</span></p>
+<p><span class="cino">(6)</span> 时代;朝代 <span class="encs">[times;era;epoch]</span></p>
+<p><span class="diczx1">问今是何世，乃不知有</span><span class="diczx2">汉</span>，无论 <span class="diczx2">魏</span><span class="diczx2">晋</span>。&mdash;&mdash; <span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">而圣君治国累世而不见者。&mdash;&mdash;<span class="smcs">《史记&middot;屈原贾生列传》</span></span></p>
+<p><span class="diczx3">又如:近世;治世;浊世;盛世;乱世;先世;世屯(时世艰难);世务(当世有关国计民生的大事)</span></p>
+<p><span class="cino">(7)</span> 岁;年 <span class="encs">[age]</span></p>
+<p><span class="diczx1">志国三世。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼》</span></span></p>
+<p><span class="diczx1">世之有饥穰，天之行也。&mdash;&mdash;<span class="smcs">《论积贮疏》</span></span></p>
+<p><span class="diczx3">又如:世远事乖(年代久远，事情不顺)</span></p>
+<p><span class="cino">(8)</span> 地质年代的划分，短于一个纪而长于一个代的地质年代的分期 <span class="encs">[epoch]</span>。</p>
+<p><span class="diczx3">如:古新世</span></p>
+<p><span class="cino">(9)</span> 世俗 <span class="encs">[mundane]</span></p>
+<p><span class="diczx1">龙德而隐者也，不易乎世。&mdash;&mdash;<span class="smcs">《易&middot;乾》</span></span></p>
+<p><span class="cino">(10)</span> 后嗣;后人 <span class="encs">[descendant]</span></p>
+<p><span class="diczx2">卫</span><span class="diczx2">瑞木叔</span>者，子贡之世也。&mdash;&mdash;<span class="smcs">《列子&middot;杨朱》</span></p>
+<p><span class="diczx3">又如:后世;官人以世(官人不以贤才而以父兄)</span></p>
+<p><span class="cino">(11)</span> 家世 <span class="encs">[family property]</span></p>
+<p><span class="diczx2">陵</span>不引决，忝世灭姓。&mdash;&mdash;<span class="smcs">《汉书》</span></p>
+<p><span class="cino">(12)</span> 世族 <span class="encs">[noble]</span></p>
+<p><span class="diczx1">以族论罪，以世举贵，虽欲无乱，得乎哉?&mdash;&mdash;<span class="smcs">《荀子&middot;君子》</span></span></p>
+<p><span class="diczx3">又如:世家子弟(泛指世代做官人家的子弟);世家军籍(世代都是军人);世胄(贵族后裔;泛指门第高、世代做官的人家)</span></p>
+<p><span class="cino">(13)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>世</strong> <span class="dicpy">sh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 有世交关系，表示两家之间世代交往 <span class="encs">[friendly]</span></p>
+<p><span class="diczx1">世先生同在桑梓，一向有失亲近。&mdash;&mdash;<span class="smcs">《儒林外史》</span></span></p>
+<p><span class="diczx3">又如:世先生(对世交的尊称);世侄;世台(对世交晚辈的尊称);世伯(对父辈朋友中年长于己父者的称呼);世叔(对父辈朋友中年小于己父者的称呼);世翁(对世代有交谊的长辈的尊称)</span></p>
+<p><span class="cino">(2)</span> 指嫡长 <span class="encs">[elder]</span></p>
+<p><span class="diczx1">父之兄弟先生为世父。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">世父言为嫡统继世也。故世子亦曰大子。&mdash;&mdash;<span class="smcs">《释名》</span></span></p>
+<p><span class="diczx1">卫世叔</span><span class="diczx2">仪</span>。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十九年》</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;太&rdquo;。大的 <span class="encs">[great]</span></p>
+<p><span class="diczx1">滀乎进我色也，与乎止我德也;厉乎其似世乎!&mdash;&mdash;<span class="smcs">《庄子&middot;大宗师》</span></span></p>
+<p><span class="diczx3">又如:世利(大大有利于)</span></p>
+<p>◎ <strong>世</strong> <span class="dicpy">sh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 既然，已经 <span class="encs">[already]</span></p>
+<p><span class="diczx1">小子世来你家，大姐不要说闲话。&mdash;&mdash;</span><span class="diczx2">元</span>&middot; <span class="diczx2">马致远</span><span class="smcs">《青衫泪》</span></p>
+<p><span class="cino">(2)</span> 从来;终归 <span class="encs">[always]</span></p>
+<p><span class="diczx1">我将这角门儿世不曾牢拴。&mdash;&mdash;</span><span class="diczx2">元</span>&middot; <span class="diczx2">王实甫</span><span class="smcs">《西厢记》</span></p>
+<p><span class="cino">(3)</span> 永远 <span class="encs">[always;forever;ever]</span></p>
+<p><span class="diczx1">再休想那章台走马郎，度你到西方&hellip;，世脱下皮囊。&mdash;&mdash;</span><span class="diczx2">元</span>&middot; <span class="diczx2">李寿卿</span><span class="smcs">《度翠柳》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/世弊">世弊</a></span><span class="crefe"><a href="/hans/世仇">世仇</a></span><span class="crefe"><a href="/hans/世传">世传</a></span><span class="crefe"><a href="/hans/世次">世次</a></span><span class="crefe"><a href="/hans/世代">世代</a></span><span class="crefe"><a href="/hans/世道">世道</a></span><span class="crefe"><a href="/hans/世风">世风</a></span><span class="crefe"><a href="/hans/世故">世故</a></span><span class="crefe"><a href="/hans/世纪">世纪</a></span><span class="crefe"><a href="/hans/世纪末">世纪末</a></span><span class="crefe"><a href="/hans/世家">世家</a></span><span class="crefe"><a href="/hans/世交">世交</a></span><span class="crefe"><a href="/hans/世界">世界</a></span><span class="crefe"><a href="/hans/世界观">世界观</a></span><span class="crefe"><a href="/hans/世界语">世界语</a></span><span class="crefe"><a href="/hans/世局">世局</a></span><span class="crefe"><a href="/hans/世路">世路</a></span><span class="crefe"><a href="/hans/世面">世面</a></span><span class="crefe"><a href="/hans/世亲">世亲</a></span><span class="crefe"><a href="/hans/世情">世情</a></span><span class="crefe"><a href="/hans/世人">世人</a></span><span class="crefe"><a href="/hans/世上">世上</a></span><span class="crefe"><a href="/hans/世世代代">世世代代</a></span><span class="crefe"><a href="/hans/世事">世事</a></span><span class="crefe"><a href="/hans/世俗">世俗</a></span><span class="crefe"><a href="/hans/世态">世态</a></span><span class="crefe"><a href="/hans/世态炎凉">世态炎凉</a></span><span class="crefe"><a href="/hans/世外">世外</a></span><span class="crefe"><a href="/hans/世外桃源">世外桃源</a></span><span class="crefe"><a href="/hans/世袭">世袭</a></span><span class="crefe"><a href="/hans/世系">世系</a></span><span class="crefe"><a href="/hans/世相">世相</a></span><span class="crefe"><a href="/hans/世兄">世兄</a></span><span class="crefe"><a href="/hans/世业">世业</a></span><span class="crefe"><a href="/hans/世谊">世谊</a></span><span class="crefe"><a href="/hans/世运">世运</a></span><span class="crefe"><a href="/hans/世子">世子</a></span><span class="crefe"><a href="/hans/世族">世族</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>世</rb></rbc><rtc><rt>ㄕˋ</rt></rtc><rtc><rt>sh&igrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4924.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">三十年稱為「一世」。</span><span class="gc_yy">《說文解字&middot;十部》：「<b>世</b>，三十年為一<b>世</b>。」</span><span class="gc_yy">《論語&middot;子路》：「如有王者，必<b>世</b>而後仁。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">父子相繼稱為「一世」，即一代。</span><span class="gc_lz">如：「五世其昌」。</span><span class="gc_yy">《字彙&middot;一部》：「<b>世</b>，父子相代為一<b>世</b>。」</span><span class="gc_yy">《詩經&middot;大雅&middot;文王》：「文王孫子，本支百<b>世</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">朝代。</span><span class="gc_yy">晉&middot;陶淵明〈桃花源記〉：「問今是何<b>世</b>，乃不知有漢，無論魏、晉。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">時代。</span><span class="gc_yy">《易經&middot;繫辭下》：「易之興也，其當殷之末<b>世</b>。」</span><span class="gc_yy">漢&middot;王充《論衡&middot;逢遇》：「伯夷，帝者之佐也，出於王者之<b>世</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">年、歲。</span><span class="gc_yy">《禮記&middot;曲禮下》：「去國三<b>世</b>，爵祿有列於朝，出入有詔於國。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">量詞。計算一生、一輩子的單位。</span><span class="gc_lz">如：「七<b>世</b>夫妻」、「三生三<b>世</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">世界、世間、世人。</span><span class="gc_lz">如：「傳<b>世</b>」、「避<b>世</b>」、「世外桃源」。</span><span class="gc_yy">《莊子&middot;天地》：「千歲厭<b>世</b>，去而上僊；乘彼白雲，至於帝鄉。」</span><span class="gc_yy">《楚辭&middot;屈原&middot;漁父》：「舉<b>世</b>皆濁我獨清，眾人皆醉我獨醒。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如戰國時秦國有世鈞。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">與先輩有交誼的。</span><span class="gc_lz">如：「<b>世</b>姪」、「世誼」。</span><span class="gc_yy">《儒林外史&middot;第三回》：「貴房師高要縣湯公，就是先祖的門生，我和你是親切的世弟兄。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">世間的、世俗的。</span><span class="gc_lz">如：「世局」、「人情世故」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">累代的。</span><span class="gc_lz">如：「世交」、「世仇」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E16_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=一" target="_blank">一</a>】
+                              世·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=一" target="_blank">一</a>】
+                              世·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E16.svg">						  <p>〔古文〕卋【廣韻】舒制切【集韻】【韻會】【正韻】始制切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音勢。代也。【詩&middot;大雅】本支百世。</p>
+<p>又【論語】必世而後仁。【註】三十年爲一世。【左傳&middot;宣三年】王孫滿曰：卜世三十，卜年七百，天所命也。</p>
+<p>又【維摩經】大千世界。【註】世謂同居天地之閒，界謂各有彼此之別。</p>
+<p>又姓。【風俗通】秦大夫世鈞。</p>
+<p>又與生同。【列子&middot;天瑞篇】亦如人自世之老，皮膚爪髮，隨世隨落。【註】世與生同。</p>
+<p>又【韻補】叶私列切，音薛。【詩&middot;大雅】殷鑒不遠，在夏后之世。叶上撥。撥音撇。【晉書&middot;樂志】匡時拯俗，休功蓋世。宇宙旣康，九有有截。　【集韻】書作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2000D.svg"><span class="k_txt">𠀍</span>。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E16_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=卅">卅</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=卅">卅</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4E16.svg">                          <p>三十年爲一世。从卅而曳長之。亦取其聲也。舒制切文二</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E16_21.svg" /><span class="swbf">(世)</span><span class="ywyy">三十年爲一世。</span><span class="swdz">論語：如有王者，必世而後仁。孔曰：三十年曰世。按父子相繼曰世，其引伸之義也。</span><span class="ywyy">从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20983.svg"><span class="k_txt">𠦃</span>而曳長之。</span><span class="swdz">曳長之，謂末筆也。</span><span class="ywyy">亦取其聲。</span><span class="swdz">末筆曳長，卽爲十二篇之⺄，从反厂，亦是抴引之義。世合<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20983.svg"><span class="k_txt">𠦃</span>⺄會意，亦取乁聲爲聲，讀如曳也。許書言取其聲者二：禿取粟聲，世取曳聲也。曳从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20086.svg"><span class="k_txt">𠂆</span>聲，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20086.svg"><span class="k_txt">𠂆</span>乁一也。舒制切。十五部。毛詩世在十五部，而枼葉以爲聲，又可證八部與十五部合韵之理矣。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E16_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂʅ˥˧ <span class="z_ts4">唐代读音</span>  *shiɛì shiɛì<span class="z_ts4">日语读音</span>  YO<span class="z_ts4">韩语罗马</span>  SEY<span class="z_ts4">现代韩语</span>  세<span class="z_ts3">越南语</span>  thế</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] she5 she.5 [东莞腔] si5 [客英字典] se5 shi5 [客语拼音字汇] se4 si4 [海陆腔] se5 shi5 [宝安腔] si5 | se5 [沙头角腔] si5 se5 [陆丰腔] se5 [台湾四县腔] se5 si5<span class="z_ts2">粤语</span>  sai3<span class="z_ts3">潮州话</span>  si3 (sì)</p>						<p><span class="z_ts3">近代音</span>  審母    齊微韻    去聲    世小空；<span class="z_ts3">中古音</span>  <span class="z_ts3">上古音</span>  黄侃系统：透母    曷部   ；王力系统：書母    月部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/世">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/世">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/世">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/世">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/世">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/世">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/世">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/世">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/世">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/世">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/世">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/世">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/世">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">世</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/世"><img data-original="//img.zdic.net/zy/jinwen/31_EB8B.svg" class="lazy ypic"><span>「世」 寧簋蓋</span><span>西周早期</span><span>集成4022</span></a></td><td><a href="/zd/zx/cx/世"><img data-original="//img.zdic.net/zy/chuwenzi/55_ED4E.svg" class="lazy ypic"><span>「世」 郭.唐.7</span></a></td><td><a href="/zd/zx/xz/世"><img data-original="//img.zdic.net/zy/xiaozhuan/27_4E16.svg" class="lazy ypic"><span>「世」 說文‧卅部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/世" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E16.svg" class="lazy ypic"><span>「世」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/世"><img data-original="//img.zdic.net/zy/jinwen/31_EB8E.svg" class="lazy ypic"><span>「枻」 獻簋</span><span>西周早期</span><span>集成4205</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/世"><img data-original="//img.zdic.net/zy/jinwen/31_EB90.svg" class="lazy ypic"><span>「笹」 且日庚簋</span><span>西周早期</span><span>集成3992</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/世">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/世">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/世">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/世">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E16.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E16.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E16.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E16.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4E16.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㔺' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/353A.svg'><span>㔺</span></a></div> <div class='zx'><a href='/hans/丗' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E17.svg'><span>丗</span></a></div> <div class='zx'><a href='/hans/卋' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/534B.svg'><span>卋</span></a></div> <div class='zx'><a href='/hans/𠀍' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2000D.svg'><span>𠀍</span></a></div> <div class='zx'><a href='/hans/𠦔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20994.svg'><span>𠦔</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="23" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6716">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/栻">栻(shi4)</a></li><li><a href="/hans/鈰">鈰(shi4)</a></li><li><a href="/hans/畤">畤(shi4)</a></li><li><a href="/hans/徥">徥(shi4)</a></li><li><a href="/hans/忕">忕(shi4)</a></li><li><a href="/hans/拭">拭(shi4)</a></li><li><a href="/hans/䁺">䁺(shi4)</a></li><li><a href="/hans/弒">弒(shi4)</a></li><li><a href="/hans/䜵">䜵(shi4)</a></li><li><a href="/hans/奭">奭(shi4)</a></li><li><a href="/hans/忯">忯(shi4)</a></li><li><a href="/hans/呩">呩(shi4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠁄">𠁄</a></li><li><a href="/hans/𠀺">𠀺</a></li><li><a href="/hans/𠀖">𠀖</a></li><li><a href="/hans/𠀬">𠀬</a></li><li><a href="/hans/丞">丞</a></li><li><a href="/hans/一">一</a></li><li><a href="/hans/𠀛">𠀛</a></li><li><a href="/hans/𠀧">𠀧</a></li><li><a href="/hans/𠀽">𠀽</a></li><li><a href="/hans/兩">兩</a></li><li><a href="/hans/𠀠">𠀠</a></li><li><a href="/hans/𠀩">𠀩</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/出">出</a></li><li><a href="/hans/甲">甲</a></li><li><a href="/hans/罒">罒</a></li><li><a href="/hans/𠂞">𠂞</a></li><li><a href="/hans/囘">囘</a></li><li><a href="/hans/四">四</a></li><li><a href="/hans/刌">刌</a></li><li><a href="/hans/𠕈">𠕈</a></li><li><a href="/hans/𠆬">𠆬</a></li><li><a href="/hans/邚">邚</a></li><li><a href="/hans/㐱">㐱</a></li><li><a href="/hans/半">半</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl"><span>世</span>人若被明日累，春去秋来老将至。</div><div class="gscdr">明·钱福 《明日歌》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">年与时驰，意与日去，遂成枯落，多不接<span>世</span>，悲守穷庐，将复何及</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">陈康肃公善射，当<span>世</span>无双，公亦以此自矜。</div><div class="gscdr">宋·欧阳修 《卖油翁》</div><div class="gscdl">自李唐来，<span>世</span>人甚爱牡丹。</div><div class="gscdr">宋·周敦颐 《爱莲说》</div><div class="gscdl">鸢飞戾天者，望峰息心；经纶<span>世</span>务者，窥谷忘反。</div><div class="gscdr">南北朝·吴均 《与朱元思书》</div><div class="gscdl">自云先<span>世</span>避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">问今是何<span>世</span>，乃不知有汉，无论魏晋。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=23"></script>
+</body>
+</html>

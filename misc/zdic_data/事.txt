@@ -1,0 +1,699 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>事的解释|事的意思|汉典“事”字的基本解释</title>
+<meta name="title" content="事的解释|事的意思|汉典“事”字的基本解释">
+<meta name="keywords" content="|事|" /><meta property="og:title" content="“事”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“事”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“事”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/事" />
+<link rel="canonical" href="//www.zdic.net/hans/事" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/事" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/事" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/事" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/事">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/事">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E8B.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E8B.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">shì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“事”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shì.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄕˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“事”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亅" target="_blank">  亅</a></p>
+                              <p><span class="z_ts2">部外</span>  7</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_ytz2"><a href='/hans/㕝' target=_blank>㕝</a> <a href='/hans/亊' target=_blank>亊</a> <a href='/hans/叓' target=_blank>叓</a> <a href='/hans/𠁱' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20071.svg'><span class='ytz_txt'>𠁱</span></a> <a href='/hans/𠫺' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AFA.svg'><span class='ytz_txt'>𠫺</span></a> <a href='/hans/𠭆' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20B46.svg'><span class='ytz_txt'>𠭆</span></a> <a href='/hans/𠭏' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20B4F.svg'><span class='ytz_txt'>𠭏</span></a> <a href='/hans/𤔇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/24507.svg'><span class='ytz_txt'>𤔇</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E8B</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>12515112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gkvh</p></td>                            <td class="dsk_2_1"><p>jlln</p></td>                            <td class="dsk_2_1"><p>djxb</p></td>                            <td class="dsk_2_1"><p>50007</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">shì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“事”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/shì.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄕˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“事”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄕˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亅" target="_blank">亅</a> <span class="z_ts2">部外</span> 7<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">基本区</span> 4E8B<span class="z_ts2">笔顺</span> 12515112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E8B_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=140" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>事</strong></p><p><span class="dicpy">sh&igrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> ㄕˋ</span></p><hr class="dichr" /><ol>	<li>自然界和社会中的现象和活动：～情。～件。～业。</li>	<li>变故：～故（出于某种原因而发生的不幸事情，如工作中的死伤等）。～端。</li>	<li>职业：谋～（指找职业）。</li>	<li>关系和责任：你走吧，没你的～了。</li>	<li>办法：光着急也不是～儿，还得另找出路。</li>	<li>做，治：不～生产。无所～事。</li>	<li>服侍：～父母。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> affair, matter, business; to serve; accident, incident</p><p><span class="z_ts2">德语</span> Angelegenheit, Ereignis, Geschäft; Unfall  (S)​,Angelegenheit  (S)​,Sache  (S)</p><p><span class="z_ts2">法语</span> être occupé,être engagé dans,affaire,chose (immatérielle)​,accident,trouble,travail,responsabilité,implication,empêtrement</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>事</strong> <span class="dicpy">sh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从史，之省声。史，掌管文书记录。甲骨文中与&ldquo;吏&rdquo;同字。本义:官职)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[government post]</span></p>
+<p><span class="diczx1">事，职也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">无功而受事，无爵而显荣。&mdash;&mdash;<span class="smcs">《韩非子&middot;五蠹》</span></span></p>
+<p><span class="diczx3">又如:事宦(仕宦。事通&ldquo;仕&rdquo;)</span></p>
+<p><span class="cino">(3)</span> 引申为职守;政事;事务 <span class="encs">[post;duty;powers of office]</span></p>
+<p><span class="diczx1">事，勤也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">为政事庸力行务。&mdash;&mdash;<span class="smcs">《左传&middot;昭公二十五年》</span>。注:&ldquo;在君为政，在臣为事。&rdquo;</span></p>
+<p><span class="diczx1">事蚤济也。&mdash;&mdash;<span class="smcs">《礼记&middot;乐记》</span></span></p>
+<p><span class="diczx1">事至佚而功。&mdash;&mdash;<span class="smcs">《荀子&middot;王霸》</span>。注:&ldquo;任也。&rdquo;</span></p>
+<p><span class="diczx1">陉山之事。&mdash;&mdash;<span class="smcs">《战国策&middot;秦策》</span>。注:&ldquo;役也。&rdquo;</span></p>
+<p><span class="diczx1">公侯之事。&mdash;&mdash;<span class="smcs">《诗&middot;召南&middot;采蘩》</span></span></p>
+<p><span class="diczx1">王事多难。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;出车》</span></span></p>
+<p><span class="diczx2">赵太后</span>新用事， <span class="diczx2">秦</span>急攻之。&mdash;&mdash;<span class="smcs">《战国策&middot;赵策》</span></p>
+<p><span class="diczx1">余将告于莅事者，更若役，复若赋，则何如?&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者说》</span></p>
+<p><span class="diczx3">又如:事分(职分;名分)</span></p>
+<p><span class="cino">(4)</span> 职业 <span class="encs">[occupation]</span></p>
+<p><span class="diczx2">舞阳侯</span><span class="diczx2">樊哙</span>者， <span class="diczx2">沛</span>人也。以屠狗为事。&mdash;&mdash;<span class="smcs">《史记》</span></p>
+<p><span class="cino">(5)</span> 事情 <span class="encs">[matter;thing;business;affair;job;work]</span></p>
+<p><span class="diczx2">子</span>入太庙，每事问。&mdash;&mdash;<span class="smcs">《论语&middot;八佾》</span></p>
+<p><span class="diczx1">敏于事而慎于言。&mdash;&mdash;<span class="smcs">《论语&middot;学而》</span></span></p>
+<p><span class="diczx1">事无大小悉以咨之。&mdash;&mdash;</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p>
+<p><span class="diczx1">天下之事有难易乎?&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx1">闻其师为弟子说前代事。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="diczx3">又如:事不过三(同样的事不宜连作三次);事头(事因，事由;事情);事因(因由，事情来由);事苗(事情的根源);事机(时机;事情成功的机会);事有分定(凡事情总有定数);事在呼吸(比喻事情临近眼前，情况非常紧急);事序(事情的条理、秩序)。亦指天子、诸侯的国家大事，如祭祀、盟会、兵戎等</span></p>
+<p><span class="diczx1">天子无事。&mdash;&mdash;<span class="smcs">《谷梁传》</span>。</span><span class="diczx2">范宁</span>注:&ldquo;事谓巡守、崩葬、兵革之事。&rdquo;</p>
+<p><span class="cino">(6)</span> 事业 <span class="encs">[achievements]</span></p>
+<p><span class="diczx1">若事之不济，此乃天也。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">他日继吾志事，惟此生耳。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《左忠毅公逸事》</span></p>
+<p><span class="diczx3">又如:事绩(业绩，重大的成就);事济(事业完成)</span></p>
+<p><span class="cino">(7)</span> 事故，事件 <span class="encs">[accident]</span></p>
+<p><span class="diczx1">延及</span><span class="diczx2">孝文王</span>、 <span class="diczx2">庄襄王</span>，享国之日浅，国家无事。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论上》</span></p>
+<p><span class="diczx1">而士大夫亦未尝言兵，以为生事扰民，渐不可长。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx3">又如:事款则圆(遇事要从长计议，才能圆满解决)</span></p>
+<p><span class="cino">(8)</span> 交媾、性交 <span class="encs">[intercourse]</span>。</p>
+<p><span class="diczx3">如:房事不宜多</span></p>
+<p><span class="cino">(9)</span> 典故;故事 <span class="encs">[allusion]</span></p>
+<p><span class="diczx1">汝来床前，为说稗官野史可喜可愕之事，聊资一欢。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="cino">(10)</span> 情况，情形 <span class="encs">[condition;state]</span></p>
+<p><span class="diczx1">论战斗之事，则缩颈而股栗。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx3">又如:事色(情况，情势)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>事</strong> <span class="dicpy">sh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 侍奉;供奉 <span class="encs">[serve;wait upon]</span></p>
+<p><span class="diczx1">奉事循公姥，进止敢自专?&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">安能摧眉折腰事权贵，使我不得开心颜!&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《梦游天姥吟留别》</span></p>
+<p><span class="diczx3">又如:事君;事师;事奉(供奉;侍奉);事上(事奉尊长);事畜(侍奉父母，养育妻子);事亲(侍奉父母)</span></p>
+<p><span class="cino">(2)</span> 做，从事 <span class="encs">[be engaged in]</span></p>
+<p><span class="diczx2">回</span>虽不敏，请事斯语矣。&mdash;&mdash;<span class="smcs">《论语&middot;颜渊》</span></p>
+<p><span class="diczx1">居数月，漠然无所事。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx1">其游惰不事者何能一一遵上之约束乎?&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">洪亮吉</span><span class="smcs">《治平篇》</span></p>
+<p><span class="diczx3">又如:无所事事;不事生产;事本(从事本业);事力(从事体力劳动);事行(做事;行事)</span></p>
+<p><span class="cino">(3)</span> 使用;役使 <span class="encs">[enslave]</span></p>
+<p><span class="diczx1">不事而自然谓之性。&mdash;&mdash;<span class="smcs">《荀子&middot;正名》</span>。注:&ldquo;事任使也。&rdquo;</span></p>
+<p><span class="diczx1">备承事也。&mdash;&mdash;<span class="smcs">《国语&middot;鲁语下》</span></span></p>
+<p><span class="diczx1">坐事国人过律。&mdash;&mdash;<span class="smcs">《史记&middot;傅靳蒯成传》</span></span></p>
+<p><span class="diczx1">尚安事客!&mdash;&mdash;<span class="smcs">《信陵君窃符救赵》</span></span></p>
+<p><span class="diczx3">又如:事役(劳役);事智(运用智慧);事用(使用;应用)</span></p>
+<p><span class="cino">(4)</span> 奉行 <span class="encs">[pursue]</span></p>
+<p><span class="diczx1">今</span><span class="diczx2">管仲</span>不务尊主明法，而事增宠益爵。&mdash;&mdash;<span class="smcs">《韩非子》</span></p>
+<p><span class="cino">(5)</span> 治理;办理 <span class="encs">[administer]</span></p>
+<p><span class="diczx2">齐</span>、 <span class="diczx2">魏</span>得地葆利，而详事下吏。&mdash;&mdash;<span class="smcs">《战国策》</span></p>
+<p><span class="cino">(6)</span> 任用 <span class="encs">[appoint]</span></p>
+<p><span class="diczx1">是在王公大人，为政于国家者，不能以尚贤事能为政也。&mdash;&mdash;<span class="smcs">《墨子》</span></span></p>
+<p>◎ <strong>事</strong> <span class="dicpy">sh&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/sh&igrave;.mp3"></a></span> </p>
+<p><span class="xx_cx">量</span></p>
+<p>件;副 <span class="encs">[piece]</span></p>
+<p><span class="diczx1">著我绣夹裙，事事四五通。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/事败垂成">事败垂成</a></span><span class="crefe"><a href="/hans/事半功倍">事半功倍</a></span><span class="crefe"><a href="/hans/事倍功半">事倍功半</a></span><span class="crefe"><a href="/hans/事必躬亲">事必躬亲</a></span><span class="crefe"><a href="/hans/事变">事变</a></span><span class="crefe"><a href="/hans/事不关己，高高挂起">事不关己，高高挂起</a></span><span class="crefe"><a href="/hans/事端">事端</a></span><span class="crefe"><a href="/hans/事功">事功</a></span><span class="crefe"><a href="/hans/事故">事故</a></span><span class="crefe"><a href="/hans/事过境迁">事过境迁</a></span><span class="crefe"><a href="/hans/事后诸葛亮">事后诸葛亮</a></span><span class="crefe"><a href="/hans/事迹">事迹</a></span><span class="crefe"><a href="/hans/事假">事假</a></span><span class="crefe"><a href="/hans/事件">事件</a></span><span class="crefe"><a href="/hans/事理">事理</a></span><span class="crefe"><a href="/hans/事例">事例</a></span><span class="crefe"><a href="/hans/事略">事略</a></span><span class="crefe"><a href="/hans/事前">事前</a></span><span class="crefe"><a href="/hans/事情">事情</a></span><span class="crefe"><a href="/hans/事权">事权</a></span><span class="crefe"><a href="/hans/事儿">事儿</a></span><span class="crefe"><a href="/hans/事实">事实</a></span><span class="crefe"><a href="/hans/事实婚">事实婚</a></span><span class="crefe"><a href="/hans/事实上">事实上</a></span><span class="crefe"><a href="/hans/事事">事事</a></span><span class="crefe"><a href="/hans/事势">事势</a></span><span class="crefe"><a href="/hans/事态">事态</a></span><span class="crefe"><a href="/hans/事体">事体</a></span><span class="crefe"><a href="/hans/事危累卵">事危累卵</a></span><span class="crefe"><a href="/hans/事务">事务</a></span><span class="crefe"><a href="/hans/事务所律师">事务所律师</a></span><span class="crefe"><a href="/hans/事务员">事务员</a></span><span class="crefe"><a href="/hans/事物">事物</a></span><span class="crefe"><a href="/hans/事项">事项</a></span><span class="crefe"><a href="/hans/事业">事业</a></span><span class="crefe"><a href="/hans/事宜">事宜</a></span><span class="crefe"><a href="/hans/事由">事由</a></span><span class="crefe"><a href="/hans/事与愿违">事与愿违</a></span><span class="crefe"><a href="/hans/事在人为">事在人为</a></span><span class="crefe"><a href="/hans/事主">事主</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>事</rb></rbc><rtc><rt>ㄕˋ</rt></rtc><rtc><rt>sh&igrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4930.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">工作、職務。</span><span class="gc_yy">《論語&middot;子路》：「居處恭，執<b>事</b>敬，與人忠，雖之夷狄不可棄也。」</span><span class="gc_yy">《禮記&middot;祭法》：「以死勤<b>事</b>則祀之。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">人類所作所為及自然界的一切現象、活動，都稱為「事」。</span><span class="gc_lz">如：「人<b>事</b>」、「國<b>事</b>」。</span><span class="gc_yy">《禮記&middot;大學》：「物有本末，<b>事</b>有終始，知所先後，則近道矣。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">變故。</span><span class="gc_lz">如：「多事之秋」、「平安無<b>事</b>」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">侍奉。</span><span class="gc_yy">《論語&middot;學而》：「<b>事</b>父母能竭其力，<b>事</b>君能致其身。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">做、為。</span><span class="gc_yy">《論語&middot;顏淵》：「回雖不敏，請<b>事</b>斯語矣。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">插入。</span><span class="gc_yy">《漢書&middot;卷四五&middot;蒯通傳》：「慈父孝子所以不敢<b>事</b>刃於公之腹者，畏秦法也。」</span><span class="gc_yx">通「剚」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E8B_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=亅" target="_blank">亅</a>】
+                              事·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=亅" target="_blank">亅</a>】
+                              事·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：7</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E8B.svg">						  <p>〔古文〕叓<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20B4F.svg"><span class="k_txt">𠭏</span>【唐韻】鉏吏切【集韻】【韻會】仕吏切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音示。大曰政，小曰事。【廣韻】使也，立也，由也。【釋名】事，偉也。偉立也。凡所立之功也。【書&middot;大禹謨】六府三事允治。</p><p>又【詩&middot;小雅】三事大夫，莫肯夙夜。【註】三公也。</p><p>又【詩&middot;大雅】三事就緒。【註】三農之事也。</p><p>又奉也。【禮&middot;曲禮】年長以倍。則父事之。</p><p>又營也，治也。【史記&middot;曹參世家】卿大夫以下吏及賓客，見參不事事。</p><p>又【廣韻】【類篇】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>側吏切。事刃，與倳剚同。別見人部倳字註。</p><p>又【韻補】叶逝支切，音時。【蔡邕詞】帝曰休哉，命公三事。乃耀柔嘉，是式百司。</p><p>又叶詩紙切，音始。【詩&middot;召南】于以用之，公侯之事。叶沚。</p><p>又叶疎語切，書上聲。【韓非子&middot;揚權篇】使雞司夜，令狸執鼠。皆用其能，上乃無事。</p><p>又叶常御切，音樹。【易林】雖慍不去，復職內事。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E8B_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=史">史</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=史">史</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4E8B.svg">                          <p>職也。从史，之省聲。<img class="swtimg" src="//img.zdic.net/swxz/4E8B_1.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20B46.svg"><span class="k_txt">𠭆</span>，古文事。鉏史切〖注〗叓，《玉篇》古文事字。文二　重一</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E8B_65.svg" /><span class="swbf">(事)</span><span class="ywyy">職也。</span><span class="swdz">㬪韵。職，記微也。古假借爲士字。鄭風曰：子不我思，豈無他事。毛曰：事，士也。今本依傳改經，又依經改傳，而此傳不可通矣。</span><span class="ywyy">从史，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/21CFF.svg"><span class="k_txt">𡳿</span>省聲。</span><span class="swdz">鉏史切。一部。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E8B_66.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20B4F.svg"><span class="k_txt">𠭏</span>)</span><span class="ywyy">古文事。</span><span class="swdz">鍇曰：此則之不省。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E8B_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ʂʅ˥˧ <span class="z_ts4">唐代读音</span>  *jrhiə̀ jrhiə̀<span class="z_ts4">日语读音</span>  KOTO TSUKAU KOTOTOSURU<span class="z_ts4">韩语罗马</span>  SA<span class="z_ts4">现代韩语</span>  사<span class="z_ts3">越南语</span>  sự</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] she5 she.5 se5 [沙头角腔] su5 [客英字典] sii5 [海陆腔] sii6 se6 [客语拼音字汇] se4 si4 [台湾四县腔] sii5 se5 [宝安腔] su3  [陆丰腔] sii6 [东莞腔] su3<span class="z_ts2">粤语</span>  si6<span class="z_ts3">潮州话</span>  se7 se6(sūr sũr)【潮阳】su5 su6</p>						<p><span class="z_ts3">近代音</span>  審母    支思韻    去聲    是小空；<span class="z_ts3">中古音</span>  照莊母    志韻    去聲    胾小韻    側吏切    三等    開口；牀崇母    志韻    去聲    事小韻    鉏吏切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：從母    咍部   ；王力系统：崇母    之部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/事">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/事">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/事">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/事">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/事">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/事">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/事">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/事">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/事">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/事">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/事">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/事">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/事">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">事</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>秦系簡牘</td>
+			<td>說文</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_F067.svg" /><span>「吏」 乙2766</span><span>合5489</span></a></td>
+			<td><a href="/zd/zx/jw/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_F0CA.svg" /><span>「事」 曶鼎</span><span>西周中期</span><span>集成2838</span></a></td>
+			<td><a href="/zd/zx/cx/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_F10F.svg" /><span>「事」 包2.161</span></a></td>
+			<td><a href="/zd/zx/qx/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E2FF.svg" /><span>「事」 睡.日甲130背</span></a></td>
+			<td><a href="/zd/zx/xz/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E298.svg" /><span>「事」 說文古文</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/事" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4E8B.svg" /><span>「事」</span></a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_F0D8.svg" /><span>「事」 毛公鼎</span><span>西周晚期</span><span>集成2841</span></a></td>
+			<td><a href="/zd/zx/cx/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_F112.svg" /><span>「事」 包2.201</span></a></td>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/xz/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_4E8B.svg" /><span>「事」 說文‧史部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_F0E4.svg" /><span>「事」 王孫誥鐘</span><span>春秋晚期</span><span>新收309頁</span></a></td>
+			<td><a href="/zd/zx/cx/事"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_F2AF.svg" /><span>「事」 郭.唐.9</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/事">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/事">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/事">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/事">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/事">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/事">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E8B.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E8B.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E8B.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E8B.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4E8B.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㕝' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/355D.svg'><span>㕝</span></a></div> <div class='zx'><a href='/hans/亊' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E8A.svg'><span>亊</span></a></div> <div class='zx'><a href='/hans/叓' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/53D3.svg'><span>叓</span></a></div> <div class='zx'><a href='/hans/𠁱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20071.svg'><span>𠁱</span></a></div> <div class='zx'><a href='/hans/𠫺' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AFA.svg'><span>𠫺</span></a></div> <div class='zx'><a href='/hans/𠭆' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20B46.svg'><span>𠭆</span></a></div> <div class='zx'><a href='/hans/𠭏' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20B4F.svg'><span>𠭏</span></a></div> <div class='zx'><a href='/hans/𤔇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/24507.svg'><span>𤔇</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="140" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6718">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/奭">奭(shi4)</a></li><li><a href="/hans/埶">埶(shi4)</a></li><li><a href="/hans/煶">煶(shi4)</a></li><li><a href="/hans/昰">昰(shi4)</a></li><li><a href="/hans/鰘">鰘(shi4)</a></li><li><a href="/hans/秲">秲(shi4)</a></li><li><a href="/hans/室">室(shi4)</a></li><li><a href="/hans/𠀍">𠀍(shi4)</a></li><li><a href="/hans/忯">忯(shi4)</a></li><li><a href="/hans/栻">栻(shi4)</a></li><li><a href="/hans/柿">柿(shi4)</a></li><li><a href="/hans/叓">叓(shi4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/亅">亅</a></li><li><a href="/hans/亊">亊</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/坼">坼</a></li><li><a href="/hans/兖">兖</a></li><li><a href="/hans/拁">拁</a></li><li><a href="/hans/㭋">㭋</a></li><li><a href="/hans/䄬">䄬</a></li><li><a href="/hans/並">並</a></li><li><a href="/hans/径">径</a></li><li><a href="/hans/泗">泗</a></li><li><a href="/hans/咋">咋</a></li><li><a href="/hans/㣎">㣎</a></li><li><a href="/hans/岩">岩</a></li><li><a href="/hans/杬">杬</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">我生待明日，万<span>事</span>成蹉跎。</div><div class="gscdr">明·钱福 《明日歌》</div><div class="gscdl">至今不会天中<span>事</span>，应是嫦娥掷与人。</div><div class="gscdr">唐·皮日休 《天竺寺八月十五日夜桂子》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">初，权谓吕蒙曰：“卿今当涂掌<span>事</span>，不可不学！”蒙辞以军中多务。</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">权曰：“孤岂欲卿治经为博士邪！但当涉猎，见往<span>事</span>耳。”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">蒙曰：“士别三日，即更刮目相待，大兄何见<span>事</span>之晚乎！”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">然则天下之<span>事</span>，但知其一，不知其二者多矣，可据理臆断欤？</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">不应有恨，何<span>事</span>长向别时圆？人有悲欢离合，月有阴晴圆缺，此<span>事</span>古难全。</div><div class="gscdr">宋·苏轼 《水调歌头》</div><div class="gscdl">寂寂江山摇落处，怜君何<span>事</span>到天涯。</div><div class="gscdr">唐·刘长卿 《长沙过贾谊宅》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=140"></script>
+</body>
+</html>

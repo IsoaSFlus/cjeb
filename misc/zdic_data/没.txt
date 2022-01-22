@@ -1,0 +1,664 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>没的解释|没的意思|汉典“没”字的基本解释</title>
+<meta name="title" content="没的解释|没的意思|汉典“没”字的基本解释">
+<meta name="keywords" content="左：氵，右：殳。 " /><meta property="og:title" content="“没”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“没”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“没”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/没" />
+<link rel="canonical" href="//www.zdic.net/hans/没" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/没" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/没" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/没" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/没">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/没">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/6CA1.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/6CA1.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">méi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/méi.mp3"></a></span></span></p><p><span class="z_d song">mò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/mò.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄇㄟˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄟˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄇㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄛˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=氵" target="_blank">  氵</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/沒' target=_blank>沒</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/殁' target=_blank>殁</a> <a href='/hans/圽' target=_blank>圽</a> <a href='/hans/沒' target=_blank>沒</a> <a href='/hans/𠬛' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20B1B.svg'><span class='ytz_txt'>𠬛</span> <a href='/hans/𠬸' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20B38.svg'><span class='ytz_txt'>𠬸</span> <a href='/hans/𣳚' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23CDA.svg'><span class='ytz_txt'>𣳚</span> <a href='/hans/𣴬' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23D2C.svg'><span class='ytz_txt'>𣴬</span> <a href='/hans/𦐲' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26432.svg'><span class='ytz_txt'>𦐲</span> <a href='/hans/𩑦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29466.svg'><span class='ytz_txt'>𩑦</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+6CA1</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>4413554</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>imcy|iwcy</p></td>                            <td class="dsk_2_1"><p>ehne</p></td>                            <td class="dsk_2_1"><p>vqx</p></td>                            <td class="dsk_2_1"><p>37147</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">méi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/méi.mp3"></a></span></span> <span class="z_d song">mò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/mò.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄇㄟˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄟˊ.mp3"></a></span></span> <span class="z_d song">ㄇㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“没”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄇㄛˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=氵" target="_blank">氵</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 6CA1<span class="z_ts2">笔顺</span> 4413554                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="6CA1_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=7842" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">没</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>没</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_yt.svg" title="异体字"><span class="diczx3">沒</span>）</strong></p>
+<p><span class="dicpy">m&eacute;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;i.mp3"></a></span>  ㄇㄟˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>无：～有。～用。～关系。～词儿。～精打采。～心～肺。</li>
+	<li>不曾，未：～有来过。</li>
+	<li>不够，不如：汽车～飞机快。</li>
+</ol>
+<p>● <strong>没</strong></p>
+<p><span class="dicpy">m&ograve;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&ograve;.mp3"></a></span>  ㄇㄛˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>隐在水中：沉～。～顶之灾。</li>
+	<li>隐藏，消失：埋～。～落。</li>
+	<li>漫过，高过：水～了头顶。淹～。</li>
+	<li>财物收归公有或被私人侵吞：～收。抄～。</li>
+	<li>终，尽：～世。～齿不忘。</li>
+	<li>同&ldquo;<a href="/hans/殁">殁</a>&rdquo;。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> not, have not, none; drown, sink</p><p><span class="z_ts2">德语</span> nicht (haben)​, (es gibt)​ nicht, nicht haben (V)​,bis ans Ende ,etw überschwemmen, überfluten  (V)​,etw konfiszieren  (V)​,sich verlieren  (V)​,sterben  (V)​,tauchen  (V)​,untergehen, versinken  (V)​,untertauchen, verschwinden  (V)</p><p><span class="z_ts2">法语</span> ne pas (avoir)​,noyer,inonder,mourir,sombrer,submerger,disparaître,noyé</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">没</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>没</strong> <span class="dicpy">m&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;i.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 不领有，不具有，不存在 <span class="encs">[be without;have not;there isn&#39;t]</span></p>
+<p><span class="diczx1">恐怕没来由走去撞在乱兵之手，死了也没说处。&mdash;&mdash;<span class="smcs">《二刻拍案惊奇》</span></span></p>
+<p><span class="diczx3">又如:没谱(没有标准);没根蒂(没有根据);没脚手(没有雨具);没个了局(没有了结;没完没了);没个道理(没有办法);没仁没义(没有一点情义);没家亲引不出外鬼来(没有内患，引不来外敌);没事(无端;无缘无故);没对(无敌;无与匹敌);没来历(无缘由);没空生有(犹无中生有，凭空胡诌)</span></p>
+<p><span class="cino">(2)</span> 不及;不到 <span class="encs">[not as good as;inferior to]</span>。</p>
+<p><span class="diczx3">如:哥哥没弟弟胖;他回家没两天又走了</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>没</strong> <span class="dicpy">m&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;i.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 没有，不曾，未 <span class="encs">[not，no]</span></p>
+<p><span class="cino">(2)</span> 用在动词或形容词前面，表示对过去的行为、动作或状态的否定。如:没大(没有怎么);没巧不成话(没有巧合就没有故事);没走完的路;没等你请，我自个来了;天还没亮，我们就上路了</p>
+<p><span class="cino">(3)</span> 用在选择问句末，代表选择问句的否定方面。如:你吃饭没?这本书你看完没?</p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">m&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&ograve;.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/没边儿">没边儿</a></span><span class="crefe"><a href="/hans/没出息">没出息</a></span><span class="crefe"><a href="/hans/没词儿">没词儿</a></span><span class="crefe"><a href="/hans/没多少">没多少</a></span><span class="crefe"><a href="/hans/没法儿">没法儿</a></span><span class="crefe"><a href="/hans/没关系">没关系</a></span><span class="crefe"><a href="/hans/没关系">没关系</a></span><span class="crefe"><a href="/hans/没好气">没好气</a></span><span class="crefe"><a href="/hans/没劲">没劲</a></span><span class="crefe"><a href="/hans/没救">没救</a></span><span class="crefe"><a href="/hans/没空儿">没空儿</a></span><span class="crefe"><a href="/hans/没来由">没来由</a></span><span class="crefe"><a href="/hans/没脸">没脸</a></span><span class="crefe"><a href="/hans/没脸没皮">没脸没皮</a></span><span class="crefe"><a href="/hans/没门儿">没门儿</a></span><span class="crefe"><a href="/hans/没命">没命</a></span><span class="crefe"><a href="/hans/没命">没命</a></span><span class="crefe"><a href="/hans/没命">没命</a></span><span class="crefe"><a href="/hans/没皮没脸">没皮没脸</a></span><span class="crefe"><a href="/hans/没谱儿">没谱儿</a></span><span class="crefe"><a href="/hans/没趣">没趣</a></span><span class="crefe"><a href="/hans/没日没夜">没日没夜</a></span><span class="crefe"><a href="/hans/没上没下">没上没下</a></span><span class="crefe"><a href="/hans/没深没浅">没深没浅</a></span><span class="crefe"><a href="/hans/没什么">没什么</a></span><span class="crefe"><a href="/hans/没事儿">没事儿</a></span><span class="crefe"><a href="/hans/没头没脸">没头没脸</a></span><span class="crefe"><a href="/hans/没完没了">没完没了</a></span><span class="crefe"><a href="/hans/没味">没味</a></span><span class="crefe"><a href="/hans/没戏">没戏</a></span><span class="crefe"><a href="/hans/没心没肺">没心没肺</a></span><span class="crefe"><a href="/hans/没羞">没羞</a></span><span class="crefe"><a href="/hans/没意思">没意思</a></span><span class="crefe"><a href="/hans/没影儿">没影儿</a></span><span class="crefe"><a href="/hans/没用">没用</a></span><span class="crefe"><a href="/hans/没有">没有</a></span><span class="crefe"><a href="/hans/没有说的">没有说的</a></span><span class="crefe"><a href="/hans/没辙">没辙</a></span><span class="crefe"><a href="/hans/没治">没治</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>没</strong> <span class="dicpy">m&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&ograve;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意 表示入水有所取。本义:沉没水中)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[submerge;drown]</span></p>
+<p><span class="diczx1">没，沉也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">其子没于渊。&mdash;&mdash;<span class="smcs">《庄子&middot;列御寇》</span></span></p>
+<p><span class="diczx1">若赴水火，入焉焦没耳。&mdash;&mdash;<span class="smcs">《荀子&middot;议兵》</span></span></p>
+<p><span class="diczx1">梦为鱼而没于渊。&mdash;&mdash;<span class="smcs">《庄子&middot;大宗师》</span></span></p>
+<p><span class="diczx1">或浮或没。&mdash;&mdash;<span class="smcs">《世说新语&middot;自新》</span></span></p>
+<p><span class="diczx1">浅草才能没马蹄。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《钱塘湖春行》</span></p>
+<p><span class="diczx1">水不没顶。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">邵长蘅</span><span class="smcs">《青门剩稿》</span></p>
+<p><span class="diczx1">没水而死。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:沉没(没入水中);淹没(大水漫过;盖过);没胫(没过脚胫);没不煞(方言。沉没不了);没溺(沉没);洪水没过了大坝;没漂(淹没冲荡);没石(暗礁)</span></p>
+<p><span class="cino">(3)</span> 潜游水中 <span class="encs">[dive]</span></p>
+<p><span class="diczx1">若乃夫没人，则未尝见舟而便操之也。&mdash;&mdash;<span class="smcs">《庄子&middot;达生》</span></span></p>
+<p><span class="diczx1">南方多没人。&mdash;&mdash;</span><span class="diczx2">苏轼</span><span class="smcs">《日喻》</span></p>
+<p><span class="diczx3">又如:没人(熟知水性能潜水的人);没水(潜水);没头蹲(扎猛子，以头朝下钻入水中)</span></p>
+<p><span class="cino">(4)</span> 消失，不见;隐没 <span class="encs">[disappear]</span></p>
+<p><span class="diczx1">良久，羽旄之影渐没。&mdash;&mdash;</span><span class="diczx2">马中锡</span><span class="smcs">《中山狼传》</span></p>
+<p><span class="diczx1">未闻刃没而利存。&mdash;&mdash;</span><span class="diczx2">范缜</span><span class="smcs">《神灭论》</span></p>
+<p><span class="cino">(5)</span> 覆灭;败亡 <span class="encs">[destroy]</span></p>
+<p><span class="diczx1">遂没其军。&mdash;&mdash;<span class="smcs">《史记》</span></span></p>
+<p><span class="cino">(6)</span> 沉迷。糊涂 <span class="encs">[indulge in]</span>。</p>
+<p><span class="diczx3">如:没没(沉迷不醒);没汩(糊涂，不明事理)</span></p>
+<p><span class="cino">(7)</span> 没收 <span class="encs">[confiscate]</span></p>
+<p><span class="diczx1">财产没官。&mdash;&mdash;<span class="smcs">《三国志》</span></span></p>
+<p><span class="diczx3">又如:没官(没收入官);没入(没收财物、人口等入官);没有(犹没收)</span></p>
+<p><span class="cino">(8)</span> 通&ldquo;殁&rdquo;。死 <span class="encs">[die]</span></p>
+<p><span class="diczx1">庖牺氏没。&mdash;&mdash;<span class="smcs">《易&middot;系辞下》</span></span></p>
+<p><span class="diczx1">逮至昔三代圣王既没。&mdash;&mdash;<span class="smcs">《墨子&middot;明鬼下》</span></span></p>
+<p><span class="diczx1">圣王已没。&mdash;&mdash;<span class="smcs">《荀子&middot;正论》</span></span></p>
+<p><span class="diczx1">以没其身。&mdash;&mdash;<span class="smcs">《国语&middot;晋语》</span></span></p>
+<p><span class="diczx1">皆为戮没。&mdash;&mdash;<span class="smcs">《战国策&middot;燕策》</span></span></p>
+<p><span class="diczx2">孝公</span>既没。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx3">又如:没化(死亡);没世(终身;一辈子);没地(人死埋葬于地下);没命(舍命。丧身，死亡);没陈(阵亡);没寿(谓死)</span></p>
+<p><span class="cino">(9)</span> 沦没，落入 <span class="encs">[fall]</span></p>
+<p><span class="diczx1">侯没胡中。&mdash;&mdash;<span class="smcs">《汉书&middot;李广苏建传》</span></span></p>
+<p><span class="cino">(10)</span> 隐没 <span class="encs">[conceal;hide under cover]</span></p>
+<p><span class="diczx1">没为银海。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="diczx1">出没于鲸波万仞之中。&mdash;&mdash;</span><span class="diczx2">周密</span><span class="smcs">《观潮》</span></p>
+<p><span class="diczx3">又如:出没(出现和隐藏);没矢(谓箭射进石头后隐没不见)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>没</strong> <span class="dicpy">m&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&ograve;.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p><span class="cino">(1)</span> 表示否定，相当于&ldquo;莫&rdquo;;&ldquo;不&rdquo; <span class="encs">[not]</span>。</p>
+<p><span class="diczx3">如:没来;没说;没揣(不意，出人意料)</span></p>
+<p><span class="cino">(2)</span> 决不，丝毫不 <span class="encs">[never]</span>。</p>
+<p><span class="diczx3">如:没想到</span></p>
+<p>◎ <strong>没</strong> <span class="dicpy">m&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&ograve;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 〈方〉∶满 <span class="encs">[full]</span></p>
+<p><span class="diczx1">一面没口应承道&hellip;。&mdash;&mdash;<span class="smcs">《林家铺子》</span></span></p>
+<p><span class="diczx3">又如:没口(没口子。满口);一朵乌云盖没天</span></p>
+<p><span class="cino">(2)</span> 尽;终 <span class="encs">[all]</span>。</p>
+<p><span class="diczx3">如:没世(终身，永远);没代(世代;永远);没身(终身);没后(末后，最后);没振(终兴，一直振兴);没齿(终身)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">m&eacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/m&eacute;i.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/没齿">没齿</a></span><span class="crefe"><a href="/hans/没齿不忘">没齿不忘</a></span><span class="crefe"><a href="/hans/没落">没落</a></span><span class="crefe"><a href="/hans/没落">没落</a></span><span class="crefe"><a href="/hans/没奈何">没奈何</a></span><span class="crefe"><a href="/hans/没入">没入</a></span><span class="crefe"><a href="/hans/没收">没收</a></span><span class="crefe"><a href="/hans/没药">没药</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">没</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>没</rb></rbc><rtc><rt></rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">「<a href='/hans/沒' target=_blank>沒</a> 」的異體字。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="6CA1_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=巳集上" target="_blank">巳集上</a>】【<a href="/zd/kx/?zm=巳集上&amp;bs=水" target="_blank">水</a>】
+                              沒·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">沒</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“没”字头，请参考“<a href="/hans/沒">沒</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=巳集上" target="_blank">巳集上</a>】【<a href="/zd/kx/?zm=巳集上&amp;bs=水" target="_blank">水</a>】
+                              沒·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/6C92.svg">						  <p>〔古文〕歿歾<img class="lazy k_img" data-original="//img.zdic.net/song/cn/231F6.svg"><span class="k_txt">𣇶</span>【唐韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>莫勃切，音歿。【說文】沈也。</p>
+<p>又盡也。【詩&middot;小雅】曷其沒矣。【傳】沒，盡也。【疏】言不可盡服也。</p>
+<p>又過也。【禮&middot;坊記】君子不以美沒禮。【疏】沒，過也。不可以財物豐多，華美其事，沒過於禮。</p>
+<p>又貪也。【晉語】不沒爲後。</p>
+<p>又乾沒。【史記&middot;酷吏傳】張湯始爲小吏乾沒。【註】如淳曰：得利爲乾，失利爲沒。正義曰：乾沒，謂無潤澤而取他人也。</p>
+<p>又曰：陽浮慕爲乾，心內不合爲沒。</p>
+<p>又水名。【山海經】太水東南流，注于沒水。【水經注】作役水。</p>
+<p>又【孫<img class="lazy k_img" data-original="//img.zdic.net/song/cn/25807.svg"><span class="k_txt">𥠇</span>雞林類事】高麗方言，謂水曰沒，井曰烏沒，熟水曰泥根沒，冷水曰時根沒。</p>
+<p>又【集韻】莫佩切，音妹。亦沈也。</p>
+<p>又母果切，音麼。不知而問曰拾沒。</p>
+<p>又【韻補】叶明祕切，音寐。【曹植&middot;七啓】翔爾鴻翥，濈然鳧沒。縱輕體以迅赴，景追形而不逮。逮音遞。　【說文】本作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23D2C.svg"><span class="k_txt">𣴬</span>。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="6CA1_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=水">水</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">沒</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“没”字头，请参考“<a href="/hans/沒">沒</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=水">水</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/6C92.svg">                          <p>沈也。从水从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20B38.svg"><span class="k_txt">𠬸</span>。莫勃切〖注〗殁、歾、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/231F6.svg"><span class="k_txt">𣇶</span>，古文。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/6C92_3241.svg" /><span class="swbf">(沒)</span><span class="ywyy">湛也。</span><span class="swdz">湛，各本作沈，淺人以今字改之也，今正。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>者全入於水，故引伸之義訓盡。小雅：曷其<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>矣。傳云：<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>，盡也。論語<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>階，孔安國曰：<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>，盡也。凡貪<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>、乾<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23CDA.svg"><span class="k_txt">𣳚</span>皆沈溺之引伸。</span><span class="ywyy">从水<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20B38.svg"><span class="k_txt">𠬸</span>聲。</span><span class="swdz">莫勃切。十五部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="6CA1_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">没</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  mei˧˥; mo˥˧ <span class="z_ts4">唐代读音</span>  *mət<span class="z_ts4">日语读音</span>  SHIZUMU OBORERU SHINU</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] mut8 [东莞腔] mut8 [宝安腔] mut8<span class="z_ts2">粤语</span>  mut6<span class="z_ts3">潮州话</span>  mog8(môk 旧时：mût)</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/没">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/没">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/没">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/没">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/没">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/没">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/没">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/没">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/没">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/没">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/没">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">没</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td style="display:none">金文</td>
+			<td style="display:none">楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/没"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_6C92.svg" /><span>「沒」 說文‧水部</span></a></td>
+			<td><a href="/zd/zx/qx/没"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_EBBF.svg" /><span>「沒」 睡.秦103</span></a></td>
+			<td style="display:none"><a href="/hans/沒" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/6C92.svg" /><span>「沒」</span></a></td>
+			<td><a href="/hans/没" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/6CA1.svg" /><span>「没」</span></a></td>
+			<td style="display:none"><a href="/hans/没" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/6CA1.svg" /><span>「没」</span></a></td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/没">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/没">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/没">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/6CA1.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/6CA1.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/6CA1.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/6CA1.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/殁' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6B81.svg'><span>殁</span></a></div> <div class='zx'><a href='/hans/圽' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/573D.svg'><span>圽</span></a></div> <div class='zx'><a href='/hans/沒' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6C92.svg'><span>沒</span></a></div> <div class='zx'><a href='/hans/𠬛' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20B1B.svg'><span>𠬛</span></a></div> <div class='zx'><a href='/hans/𠬸' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20B38.svg'><span>𠬸</span></a></div> <div class='zx'><a href='/hans/𣳚' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23CDA.svg'><span>𣳚</span></a></div> <div class='zx'><a href='/hans/𣴬' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23D2C.svg'><span>𣴬</span></a></div> <div class='zx'><a href='/hans/𦐲' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/26432.svg'><span>𦐲</span></a></div> <div class='zx'><a href='/hans/𩑦' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29466.svg'><span>𩑦</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="7842" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6053">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/脢">脢(mei2)</a></li><li><a href="/hans/徾">徾(mei2)</a></li><li><a href="/hans/郿">郿(mei2)</a></li><li><a href="/hans/槑">槑(mei2)</a></li><li><a href="/hans/瑂">瑂(mei2)</a></li><li><a href="/hans/枚">枚(mei2)</a></li><li><a href="/hans/㜫">㜫(mei2)</a></li><li><a href="/hans/禖">禖(mei2)</a></li><li><a href="/hans/霉">霉(mei2)</a></li><li><a href="/hans/䒽">䒽(mei2)</a></li><li><a href="/hans/鋂">鋂(mei2)</a></li><li><a href="/hans/猸">猸(mei2)</a></li><li><a href="/hans/蛨">蛨(mo4)</a></li><li><a href="/hans/嚜">嚜(mo4)</a></li><li><a href="/hans/㱄">㱄(mo4)</a></li><li><a href="/hans/眿">眿(mo4)</a></li><li><a href="/hans/冒">冒(mo4)</a></li><li><a href="/hans/帓">帓(mo4)</a></li><li><a href="/hans/妺">妺(mo4)</a></li><li><a href="/hans/塻">塻(mo4)</a></li><li><a href="/hans/䁼">䁼(mo4)</a></li><li><a href="/hans/脉">脉(mo4)</a></li><li><a href="/hans/袹">袹(mo4)</a></li><li><a href="/hans/㶬">㶬(mo4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/浪">浪</a></li><li><a href="/hans/港">港</a></li><li><a href="/hans/洉">洉</a></li><li><a href="/hans/瀳">瀳</a></li><li><a href="/hans/浽">浽</a></li><li><a href="/hans/澡">澡</a></li><li><a href="/hans/㳕">㳕</a></li><li><a href="/hans/瀤">瀤</a></li><li><a href="/hans/漊">漊</a></li><li><a href="/hans/㴱">㴱</a></li><li><a href="/hans/湀">湀</a></li><li><a href="/hans/湐">湐</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/纸">纸</a></li><li><a href="/hans/玛">玛</a></li><li><a href="/hans/杕">杕</a></li><li><a href="/hans/汸">汸</a></li><li><a href="/hans/钋">钋</a></li><li><a href="/hans/䄧">䄧</a></li><li><a href="/hans/诌">诌</a></li><li><a href="/hans/沙">沙</a></li><li><a href="/hans/狁">狁</a></li><li><a href="/hans/穷">穷</a></li><li><a href="/hans/毐">毐</a></li><li><a href="/hans/疓">疓</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=7842"></script>
+</body>
+</html>

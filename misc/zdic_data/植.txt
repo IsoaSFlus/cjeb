@@ -1,0 +1,628 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>植的解释|植的意思|汉典“植”字的基本解释</title>
+<meta name="title" content="植的解释|植的意思|汉典“植”字的基本解释">
+<meta name="keywords" content="左：木，右：直。" /><meta property="og:title" content="“植”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“植”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“植”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/植" />
+<link rel="canonical" href="//www.zdic.net/hans/植" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/植" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/植" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/植" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/植">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/植">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/690D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/690D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhí<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“植”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhí.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“植”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">  木</a></p>
+                              <p><span class="z_ts2">部外</span>  8</p>
+                              <p><span class="z_ts3">总笔画</span>  12</p></td>                                                        <td class="z_ytz2"><a href='/hans/㯰' target=_blank>㯰</a> <a href='/hans/𠅺' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2017A.svg'><span class='ytz_txt'>𠅺</span></a> <a href='/hans/𣓟' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/234DF.svg'><span class='ytz_txt'>𣓟</span></a> <a href='/hans/𣖇' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23587.svg'><span class='ytz_txt'>𣖇</span></a> <a href='/hans/𣖈' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/23588.svg'><span class='ytz_txt'>𣖈</span></a> <a href='/hans/𣖴' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/235B4.svg'><span class='ytz_txt'>𣖴</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+690D</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>123412251111</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>sfhg</p></td>                            <td class="dsk_2_1"><p>djbm</p></td>                            <td class="dsk_2_1"><p>felc</p></td>                            <td class="dsk_2_1"><p>44912</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhí<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“植”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhí.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“植”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=木" target="_blank">木</a> <span class="z_ts2">部外</span> 8<span class="z_ts3">总笔画</span> 12</p>                    <p><span class="z_ts3">基本区</span> 690D<span class="z_ts2">笔顺</span> 123412251111                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="690D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6926" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>植</strong></p><p><span class="dicpy">zh&iacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&iacute;.mp3"></a></span> ㄓˊ</span></p><hr class="dichr" /><ol>	<li>栽种：种～。培～。栽～。～树。</li>	<li>树立：～立。～志（立志）。</li>	<li>戮住，竖起：～耳。</li>	<li>生物的一大类，谷类、花草、树木等的统称：～物。～被。～保。</li>	<li>古代军中监督工事的将官：&ldquo;华元为～，巡功。&rdquo;</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> plant, trees, plants; grow</p><p><span class="z_ts2">德语</span> pflanzen, anbauen, errichten, setzen  (V)</p><p><span class="z_ts2">法语</span> planter,établir,former</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>植</strong> <span class="dicpy">zh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&iacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> (形声。从木，直声。本义:关闭门户用的直木)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[door post]</span></p>
+<p><span class="diczx1">植，户植也。&mdash;&mdash;<span class="smcs">《说文》</span>。按，古门外闭，中竖直木，以铁了鸟关之，可加锁者。</span></p>
+<p><span class="diczx2">季孙</span>与邑人争门关，决植。&mdash;&mdash;<span class="smcs">《墨子&middot;非儒》</span></p>
+<p><span class="diczx1">夏屋宫驾，县联房植。&mdash;&mdash;<span class="smcs">《淮南子&middot;本经》</span></span></p>
+<p><span class="cino">(3)</span> 木柱 <span class="encs">[post]</span></p>
+<p><span class="diczx1">于四角立植而县。&mdash;&mdash;<span class="smcs">《考工记&middot;匠人》</span>注</span></p>
+<p><span class="diczx1">城上百步一楼，楼四植，植皆为通舄。&mdash;&mdash;<span class="smcs">《墨子》</span>。</span></p>
+<p><span class="cino">(4)</span> 引申为支柱，柱本 <span class="encs">[pillar;mainstay]</span></p>
+<p><span class="diczx1">井植生梓，而不容瓮，沟植生条，而不容舟。&mdash;&mdash;<span class="smcs">《淮南子&middot;览冥》</span>。注:&ldquo;谓材也。&rdquo;</span></p>
+<p><span class="diczx1">君子谓坚能用法矣，法者国之植也。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">冯梦龙</span><span class="smcs">《智囊补》</span></p>
+<p><span class="cino">(5)</span> 特指筑城墙两端所竖的木柱</p>
+<p><span class="diczx1">大役，与虑事，属其植。&mdash;&mdash;<span class="smcs">《周礼&middot;夏官&middot;大司马》</span></span></p>
+<p><span class="cino">(6)</span> 又指悬挂蚕箔的柱子</p>
+<p><span class="diczx1">槌，</span><span class="diczx2">宋</span>、 <span class="diczx2">魏</span>、 <span class="diczx2">陈</span>、 <span class="diczx2">楚</span>、 <span class="diczx2">江</span>、 <span class="diczx2">淮</span>之间谓之植。&mdash;&mdash;<span class="smcs">《方言》</span></p>
+<p><span class="cino">(7)</span> 植物，谷类、花草、树木等的统称 <span class="encs">[plant]</span>。</p>
+<p><span class="diczx3">如:植保(植物保护);植株(包括根、茎、叶等部分的植物体);动植物</span></p>
+<p><span class="cino">(8)</span> 通&ldquo;志&rdquo;( <span class="dicpy">zh&igrave;</span>)。志向<span class="encs">[will]</span></p>
+<p><span class="diczx1">上无固植。&mdash;&mdash;<span class="smcs">《管子&middot;法法》</span>。注:&ldquo;植，志也。&rdquo;</span></p>
+<p><span class="diczx1">弱颜固植。&mdash;&mdash;<span class="smcs">《楚辞&middot;招魂》</span></span></p>
+<p><span class="cino">(9)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>植</strong> <span class="dicpy">zh&iacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&iacute;.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 栽种;种植;生长 <span class="encs">[plant;grow]</span></p>
+<p><span class="diczx1">植，种也。&mdash;&mdash;<span class="smcs">《广雅&middot;释地》</span></span></p>
+<p><span class="diczx1">我有田畴，而子产植之。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;乐成》</span>。注:&ldquo;植，长也。&rdquo;</span></p>
+<p><span class="diczx1">东西植松柏。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">杂兰植桂竹。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx1">种植之利。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄&middot;种植部》</span></p>
+<p><span class="diczx3">又如:植秀(种植花木);植林(植树造林);植治(用大量栽培植物的方法治理沙漠);植养(培植);植成(长成);植柳(插柳)</span></p>
+<p><span class="cino">(2)</span> 移植 <span class="encs">[transplant]</span>。</p>
+<p><span class="diczx3">如: 植皮(移植皮肤);植移(移植)</span></p>
+<p><span class="cino">(3)</span> 立;树立 <span class="encs">[set up]</span></p>
+<p><span class="diczx1">令获者植旌。&mdash;&mdash;<span class="smcs">《周礼&middot;田仆》</span></span></p>
+<p><span class="diczx1">植其杖而芸。&mdash;&mdash;<span class="smcs">《论语&middot;微子》</span></span></p>
+<p><span class="diczx1">植杖而耘耔。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《归去来兮辞》</span></p>
+<p><span class="diczx1">植刃道上。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《童区寄传》</span></p>
+<p><span class="diczx1">亭亭净植。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">周敦颐</span><span class="smcs">《爱莲说》</span></p>
+<p><span class="diczx1">植梯接之。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="diczx3">又如:植行(谓所立的品行);植志(立志);植弓(立身);植表(树立标竿);植品(树立人品，培植好的品质);植德(立德);植操(树立志向操行)</span></p>
+<p><span class="cino">(4)</span> 建立 <span class="encs">[establish]</span></p>
+<p><span class="diczx1">其实皆植党营私，为蠹国害民之事。&mdash;&mdash;</span><span class="diczx2">顾炎武</span><span class="smcs">《日知录》</span></p>
+<p><span class="diczx3">又如:植学(立学);植言(立言);植礼(建立礼仪制度);植义(植意;立意)</span></p>
+<p><span class="cino">(5)</span> 竖立 <span class="encs">[stand erect]</span></p>
+<p><span class="diczx1">诸侯必值耳。&mdash;&mdash;<span class="smcs">《淮南子&middot;人世间》</span></span></p>
+<p><span class="diczx3">又如:植发(头发竖起);植发冲冠(头发直竖，顶起帽子。形容盛怒或踊跃之状);植鳍(竖起的鱼鳍)</span></p>
+<p><span class="cino">(6)</span> 通&ldquo;置&rdquo;( <span class="dicpy">zh&igrave;</span>)。安放，放置<span class="encs">[place;put]</span></p>
+<p><span class="diczx1">植璧秉珪。&mdash;&mdash;<span class="smcs">《书&middot;金縢》</span>。疏:&ldquo;植，古置字。&rdquo;</span></p>
+<p><span class="diczx1">植其杖而芸。&mdash;&mdash;<span class="smcs">《论语&middot;微子》</span></span></p>
+<p><span class="diczx1">天下之势倒植矣。&mdash;&mdash;</span><span class="diczx2">贾谊</span><span class="smcs">《威不信》</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/植保">植保</a></span><span class="crefe"><a href="/hans/植被">植被</a></span><span class="crefe"><a href="/hans/植苗">植苗</a></span><span class="crefe"><a href="/hans/植皮术">植皮术</a></span><span class="crefe"><a href="/hans/植树">植树</a></span><span class="crefe"><a href="/hans/植树节">植树节</a></span><span class="crefe"><a href="/hans/植土">植土</a></span><span class="crefe"><a href="/hans/植物">植物</a></span><span class="crefe"><a href="/hans/植物保护">植物保护</a></span><span class="crefe"><a href="/hans/植物园">植物园</a></span><span class="crefe"><a href="/hans/植株">植株</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>植</rb></rbc><rtc><rt>ㄓˊ</rt></rtc><rtc><rt>zh&iacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4235.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">門外用來加鎖的直木。</span><span class="gc_yy">《爾雅&middot;釋宮》：「<b>植</b>謂之傳，傳謂之突。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">花草樹木的總稱。</span><span class="gc_lz">如：「植物」。</span><span class="gc_yy">南朝梁&middot;劉勰《文心雕龍&middot;原道》：「傍及萬品，動<b>植</b>皆文。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">放置、排放。</span><span class="gc_yy">《書經&middot;金縢》：「<b>植</b>璧秉珪，乃告太王王季文王。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">栽種、培育。</span><span class="gc_lz">如：「種<b>植</b>」、「培<b>植</b>」。</span><span class="gc_yy">《文選&middot;張衡&middot;東京賦》：「<b>植</b>華平於春圃，豐朱草於中唐。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">樹立。</span><span class="gc_yy">《周禮&middot;夏官&middot;田僕》：「令獲者<b>植</b>旌及獻比禽。」</span><span class="gc_yy">漢&middot;鄭玄&middot;注：「<b>植</b>，樹也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">倚靠。</span><span class="gc_yy">《論語&middot;微子》：「<b>植</b>其杖而芸。」</span><span class="gc_yy">三國魏&middot;何晏&middot;集解：「孔曰：『<b>植</b>，倚也。』」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="690D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=辰集中" target="_blank">辰集中</a>】【<a href="/zd/kx/?zm=辰集中&amp;bs=木" target="_blank">木</a>】
+                              植·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=辰集中" target="_blank">辰集中</a>】【<a href="/zd/kx/?zm=辰集中&amp;bs=木" target="_blank">木</a>】
+                              植·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/690D.svg">						  <p>【唐韻】常職切【集韻】【韻會】【正韻】丞職切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音殖。【說文】戸植也。【爾雅&middot;釋宮】植謂之傳，傳謂之突。【疏】植謂戸之維持鏁者也，植木爲之。</p><p>又名傳。亦名突。</p><p>又【玉篇】根生之屬曰植。【周禮&middot;地官&middot;大司徒】以土會之法，辨五地之物生。一山林，其植物宜皁物。二川澤，其植物宜膏物。三丘陵，其植物宜覈物。四墳衍，其植物宜莢物。五原隰，其植物宜叢物。【註】謂櫟、楊、柳、李、梅、王棘、萑葦之屬。</p><p>又樹立也。【左傳&middot;襄三十年】鄭子產曰：<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>亡國也，其君弱植。【正義】草木爲植，物植爲樹，君志弱不樹立也。【周禮&middot;地官】大田獵則萊山田之野，植虞旗于中。</p><p>又【集韻】【類篇】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>逐力切，音直。立也。【詩&middot;商頌】植我鼗鼓。</p><p>又【唐韻】【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>直吏切，音緻。【博雅】槌也。</p><p>又【韻會】種也。</p><p>又懸蠶薄柱。【禮&middot;月令】季春具曲植。</p><p>又枝榦之屬曰植。【周禮&middot;大司馬】大役與慮事，屬其植。【註】植築城楨也。</p><p>又將領主帥監作者謂之植。【左傳&middot;宣二年】宋華元爲植巡功。</p><p>又倚也。【論語】植其杖而芸。</p><p>又通置。【書&middot;金縢】植璧秉珪。</p><p>又【集韻】時吏切，音侍。【賈誼&middot;弔屈原文】方正倒植。</p><p>又【正韻】直意切。義同。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="690D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=木">木</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=木">木</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/690D.svg">                          <p>戶植也。从木直聲。<img class="swtimg" src="//img.zdic.net/swxz/690D_1.svg" />㯰，或从置。常職切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/690D_2871.svg" /><span class="swbf">(植)</span><span class="ywyy">戸植也。</span><span class="swdz">釋宮曰。植謂之傳。傳謂之突。郭曰。持戸鎖植也。見埤蒼。邵氏晉涵曰。墨子。爭門關決植。淮南云。縣䏈房植。高曰。植、戸植也。植當爲直立之木。徐鍇以爲横鍵。非也。按今豎直木而以鐵了鳥關之。可以加鎖。故曰持鎖植。植之引伸爲凡植物、植立之植。</span><span class="ywyy">從木。直聲。</span><span class="swdz">常職切。一部。</span></p><hr class="swhr" /><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/690D_2872.svg" /><span class="swbf">(㯰)</span><span class="ywyy">或從置。</span><span class="swdz">置亦直聲也。漢石經論語。置其杖而耘。商頌。置我鼗鼔。皆以置爲植。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="690D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂʅ˧˥ <span class="z_ts4">唐代读音</span>  djhiə̀<span class="z_ts4">日语读音</span>  UERU TATERU<span class="z_ts4">韩语罗马</span>  SIK CHI<span class="z_ts4">现代韩语</span>  식<span class="z_ts3">越南语</span>  thực</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] chit8 [台湾四县腔] tsiit8 [客英字典] chit8 [陆丰腔] chit8 [东莞腔] tsik8 cit8 [海陆腔] chit8 [客语拼音字汇] cid6 [宝安腔] cit8<span class="z_ts2">粤语</span>  zik6<span class="z_ts3">潮州话</span>  sêg4(sek) [澄海、饶平]sig8(sîk) </p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  禪母    職韻    入聲    寔小韻    常職切    三等    開口；澄母    志韻    去聲    值小韻    直吏切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：定母    德部   ；王力系统：禪母    職部   ；</p>
+                        
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/植">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/植">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/植">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">植</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/植"><img data-original="//img.zdic.net/zy/jinwen/36_EEB2.svg" class="lazy ypic"><span>「植」 鳥書箴銘帶鉤</span><span>戰國</span><span>集成10407</span></a></td><td><a href="/zd/zx/cx/植"><img data-original="//img.zdic.net/zy/chuwenzi/56_EACE.svg" class="lazy ypic"><span>「植」 郭.緇.3</span></a></td><td><a href="/zd/zx/xz/植"><img data-original="//img.zdic.net/zy/xiaozhuan/27_690D.svg" class="lazy ypic"><span>「植」 說文‧木部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/植" target="_blank"><img data-original="//img.zdic.net/kai/tw/690D.svg" class="lazy ypic"><span>「植」</span></a></td></tr><tr><td style="display:none"></td><td></td><td></td><td><a href="/zd/zx/xz/植"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E504.svg" class="lazy ypic"><span>「㯰」 說文或體</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/植">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/植">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/植">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/植">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/690D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/690D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/690D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/690D.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/690D.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㯰' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/3BF0.svg'><span>㯰</span></a></div> <div class='zx'><a href='/hans/𠅺' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2017A.svg'><span>𠅺</span></a></div> <div class='zx'><a href='/hans/𣓟' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/234DF.svg'><span>𣓟</span></a></div> <div class='zx'><a href='/hans/𣖇' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23587.svg'><span>𣖇</span></a></div> <div class='zx'><a href='/hans/𣖈' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/23588.svg'><span>𣖈</span></a></div> <div class='zx'><a href='/hans/𣖴' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/235B4.svg'><span>𣖴</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6926" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7830">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/踯">踯(zhi2)</a></li><li><a href="/hans/殖">殖(zhi2)</a></li><li><a href="/hans/蹠">蹠(zhi2)</a></li><li><a href="/hans/瓡">瓡(zhi2)</a></li><li><a href="/hans/䐈">䐈(zhi2)</a></li><li><a href="/hans/躑">躑(zhi2)</a></li><li><a href="/hans/樴">樴(zhi2)</a></li><li><a href="/hans/职">职(zhi2)</a></li><li><a href="/hans/䟈">䟈(zhi2)</a></li><li><a href="/hans/㥁">㥁(zhi2)</a></li><li><a href="/hans/戠">戠(zhi2)</a></li><li><a href="/hans/蟙">蟙(zhi2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/椔">椔</a></li><li><a href="/hans/㯏">㯏</a></li><li><a href="/hans/杙">杙</a></li><li><a href="/hans/榠">榠</a></li><li><a href="/hans/杄">杄</a></li><li><a href="/hans/柯">柯</a></li><li><a href="/hans/杰">杰</a></li><li><a href="/hans/㰖">㰖</a></li><li><a href="/hans/枅">枅</a></li><li><a href="/hans/栭">栭</a></li><li><a href="/hans/杘">杘</a></li><li><a href="/hans/欗">欗</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/葳">葳</a></li><li><a href="/hans/椨">椨</a></li><li><a href="/hans/阒">阒</a></li><li><a href="/hans/欽">欽</a></li><li><a href="/hans/㿱">㿱</a></li><li><a href="/hans/絗">絗</a></li><li><a href="/hans/媥">媥</a></li><li><a href="/hans/惩">惩</a></li><li><a href="/hans/溾">溾</a></li><li><a href="/hans/媠">媠</a></li><li><a href="/hans/街">街</a></li><li><a href="/hans/鈔">鈔</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净<span>植</span>，可远观而不可亵玩焉。</div><div class="gscdr">宋·周敦颐 《爱莲说》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=6926"></script>
+</body>
+</html>

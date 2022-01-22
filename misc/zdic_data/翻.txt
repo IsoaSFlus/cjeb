@@ -1,0 +1,627 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>翻的解释|翻的意思|汉典“翻”字的基本解释</title>
+<meta name="title" content="翻的解释|翻的意思|汉典“翻”字的基本解释">
+<meta name="keywords" content="左：番，右：羽。" /><meta property="og:title" content="“翻”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“翻”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“翻”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/翻" />
+<link rel="canonical" href="//www.zdic.net/hans/翻" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/翻" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/翻" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/翻" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.3" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/翻">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/翻">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/7FFB.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/7FFB.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">fān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“翻”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fān.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄈㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“翻”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄢ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=羽" target="_blank">  羽</a></p>
+                              <p><span class="z_ts2">部外</span>  12</p>
+                              <p><span class="z_ts3">总笔画</span>  18</p></td>                                                        <td class="z_ytz2"><a href='/hans/繙' target=_blank>繙</a> <a href='/hans/飜' target=_blank>飜</a> <a href='/hans/𢑵' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22475.svg'><span class='ytz_txt'>𢑵</span> <a href='/hans/𢬵' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22B35.svg'><span class='ytz_txt'>𢬵</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7FFB</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>343123425121541541</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>toln</p></td>                            <td class="dsk_2_1"><p>hwsmm</p></td>                            <td class="dsk_2_1"><p>pfyy</p></td>                            <td class="dsk_2_1"><p>27620</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">fān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“翻”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/fān.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄈㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“翻”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄈㄢ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=羽" target="_blank">羽</a> <span class="z_ts2">部外</span> 12<span class="z_ts3">总笔画</span> 18</p>                    <p><span class="z_ts3">基本区</span> 7FFB<span class="z_ts2">笔顺</span> 343123425121541541                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7FFB_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=12796" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>翻</strong></p>
+<p><span class="dicpy">fān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fān.mp3"></a></span> ㄈㄢˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>歪倒（<span class="dicpy">dǎo </span>），反转，变动位置，改变：推～。～车。～卷。～滚。～腾。～工。～阅。～身。～地。～修。～建。～改。～脸。人仰马～。～江倒海（形容水势浩大，多喻力量或气势非常壮大）。～云覆雨（喻反覆无常或玩弄手段）。</li>
+	<li>数量成倍的增加：～番。</li>
+	<li>越过：～越。</li>
+	<li>飞。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> flip over, upset, capsize</p><p><span class="z_ts2">德语</span> umkehren, umdrehen, kippen; sich überwerfen  (V)</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>翻</strong></p>
+<p><span class="cino">(1)</span> 飜、繙 <span class="dicpy">fān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fān.mp3"></a></span> </p>
+<p><span class="diczx1">〈动〉</span></p>
+<p><span class="cino">(2)</span> (形声。从羽，番声。本义:鸟飞)</p>
+<p><span class="cino">(3)</span> 同本义 <span class="encs">[fly]</span></p>
+<p><span class="diczx1">青菰临水映，白鸟向山翻。&mdash;&mdash;</span><span class="diczx2">王维</span><span class="smcs">《辋川闲居》</span></p>
+<p><span class="diczx3">又如:翻泊(或飞或止);翻翔(翻飞，飞翔);翻簸(飞驰)</span></p>
+<p><span class="cino">(4)</span> 翻转;翻腾 <span class="encs">[turn over;toss]</span></p>
+<p><span class="diczx1">波翻晓霞影。&mdash;&mdash;</span><span class="diczx2">李白</span><span class="smcs">《姑熟十咏》</span></p>
+<p><span class="diczx3">又如:翻滚滚(上下急速滚动的样子);翻海(形容声响如海浪翻腾);翻雪(形容白浪翻滚);翻扑(翻腾)</span></p>
+<p><span class="cino">(5)</span> 反转，倾倒，变动位置 <span class="encs">[change]</span></p>
+<p><span class="diczx1">钿头银篦击节碎，白色罗裙翻酒污。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx1">多少好汉被蒙汗酒麻翻了。&mdash;&mdash;<span class="smcs">《水浒传》</span></span></p>
+<p><span class="diczx3">又如:翻席(吃完一席，再到他处吃另一席);翻台(嫖客在一妓院宴毕，再到另一妓院饮宴);翻手(翻转手掌。形容时光迅速或处事轻便)</span></p>
+<p><span class="cino">(6)</span> 推翻;改变 <span class="encs">[reverse]</span>。</p>
+<p><span class="diczx3">如:翻变(翻悔，变卦);翻异(事后改变主意);翻样(变换花样);翻盘(推翻承诺)</span></p>
+<p><span class="cino">(7)</span> 翻过;越过 <span class="encs">[cross over]</span>。</p>
+<p><span class="diczx3">如:翻墙(翻过墙壁)</span></p>
+<p><span class="cino">(8)</span> 回返 <span class="encs">[return]</span>。</p>
+<p><span class="diczx3">如:翻回(回返)</span></p>
+<p><span class="cino">(9)</span> 翻阅，披览 <span class="encs">[browse;look over]</span>。</p>
+<p><span class="diczx3">如:翻披(翻阅，披览);翻撷(翻检)</span></p>
+<p><span class="cino">(10)</span> 翻译 <span class="encs">[translate]</span>。</p>
+<p><span class="diczx3">如:翻经(翻译佛经);翻绎(犹推演)</span></p>
+<p><span class="cino">(11)</span> 反复研讨 <span class="encs">[study]</span>。</p>
+<p><span class="diczx3">如:翻空(形容作文构思时奇想联翩);翻思(反复思考)</span></p>
+<p><span class="cino">(12)</span> 谱写;改编;移植 <span class="encs">[write;adapt;rearrange]</span>。</p>
+<p><span class="diczx3">如:翻梓(翻刻;翻印);翻謄(改作;抄写誊录);翻意(变换文意)</span></p>
+<p><span class="cino">(13)</span> 演唱;演奏 <span class="encs">[play]</span></p>
+<p><span class="diczx1">八百里分麾下炙，五十弦翻塞外声。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">辛弃疾</span><span class="smcs">《破阵子》</span></p>
+<p><span class="diczx3">又如:翻出(演奏)</span></p>
+<p><span class="cino">(14)</span> 数量成倍增加 <span class="encs">[multiply]</span>。</p>
+<p><span class="diczx3">如:翻一番(增加一倍)</span></p>
+<p><span class="cino">(15)</span> 翻脸 <span class="encs">[fall out;suddenly turn hostile]</span>。</p>
+<p><span class="diczx3">如:翻面皮(翻脸);翻腔(突然改变说话的语气和态度);翻口(改口，变卦)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>翻</strong> <span class="dicpy">fān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/fān.mp3"></a></span> </p>
+<p>〈副〉</p>
+<p>表示转折，相当于&ldquo;反而&rdquo;、&ldquo;却&rdquo; <span class="encs">[on the contrary]</span></p>
+<p><span class="diczx2">秦</span>人半作 <span class="diczx2">燕</span>地囚，胡马翻衔 <span class="diczx2">洛阳</span>草。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《猛虎行》</span></p>
+<p><span class="diczx3">又如:翻调(反正)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/翻案">翻案</a></span><span class="crefe"><a href="/hans/翻把">翻把</a></span><span class="crefe"><a href="/hans/翻版">翻版</a></span><span class="crefe"><a href="/hans/翻本">翻本</a></span><span class="crefe"><a href="/hans/翻查">翻查</a></span><span class="crefe"><a href="/hans/翻肠倒肚">翻肠倒肚</a></span><span class="crefe"><a href="/hans/翻车">翻车</a></span><span class="crefe"><a href="/hans/翻船">翻船</a></span><span class="crefe"><a href="/hans/翻唇弄舌">翻唇弄舌</a></span><span class="crefe"><a href="/hans/翻地">翻地</a></span><span class="crefe"><a href="/hans/翻动">翻动</a></span><span class="crefe"><a href="/hans/翻斗">翻斗</a></span><span class="crefe"><a href="/hans/翻番">翻番</a></span><span class="crefe"><a href="/hans/翻飞">翻飞</a></span><span class="crefe"><a href="/hans/翻风滚雨">翻风滚雨</a></span><span class="crefe"><a href="/hans/翻覆">翻覆</a></span><span class="crefe"><a href="/hans/翻复无常">翻复无常</a></span><span class="crefe"><a href="/hans/翻改">翻改</a></span><span class="crefe"><a href="/hans/翻个儿">翻个儿</a></span><span class="crefe"><a href="/hans/翻跟斗">翻跟斗</a></span><span class="crefe"><a href="/hans/翻耕">翻耕</a></span><span class="crefe"><a href="/hans/翻供">翻供</a></span><span class="crefe"><a href="/hans/翻滚">翻滚</a></span><span class="crefe"><a href="/hans/翻过儿">翻过儿</a></span><span class="crefe"><a href="/hans/翻悔">翻悔</a></span><span class="crefe"><a href="/hans/翻检">翻检</a></span><span class="crefe"><a href="/hans/翻江倒海">翻江倒海</a></span><span class="crefe"><a href="/hans/翻搅">翻搅</a></span><span class="crefe"><a href="/hans/翻旧账">翻旧账</a></span><span class="crefe"><a href="/hans/翻卷">翻卷</a></span><span class="crefe"><a href="/hans/翻来覆去">翻来覆去</a></span><span class="crefe"><a href="/hans/翻老账">翻老账</a></span><span class="crefe"><a href="/hans/翻脸">翻脸</a></span><span class="crefe"><a href="/hans/翻脸不认人">翻脸不认人</a></span><span class="crefe"><a href="/hans/翻录">翻录</a></span><span class="crefe"><a href="/hans/翻弄">翻弄</a></span><span class="crefe"><a href="/hans/翻然">翻然</a></span><span class="crefe"><a href="/hans/翻然悔悟">翻然悔悟</a></span><span class="crefe"><a href="/hans/翻晒">翻晒</a></span><span class="crefe"><a href="/hans/翻山越岭">翻山越岭</a></span><span class="crefe"><a href="/hans/翻身">翻身</a></span><span class="crefe"><a href="/hans/翻身仗">翻身仗</a></span><span class="crefe"><a href="/hans/翻手为云，覆手为雨">翻手为云，覆手为雨</a></span><span class="crefe"><a href="/hans/翻腾">翻腾</a></span><span class="crefe"><a href="/hans/翻天覆地">翻天覆地</a></span><span class="crefe"><a href="/hans/翻箱倒柜">翻箱倒柜</a></span><span class="crefe"><a href="/hans/翻箱倒笼">翻箱倒笼</a></span><span class="crefe"><a href="/hans/翻新">翻新</a></span><span class="crefe"><a href="/hans/翻修">翻修</a></span><span class="crefe"><a href="/hans/翻秧子">翻秧子</a></span><span class="crefe"><a href="/hans/翻译">翻译</a></span><span class="crefe"><a href="/hans/翻译">翻译</a></span><span class="crefe"><a href="/hans/翻印">翻印</a></span><span class="crefe"><a href="/hans/翻涌">翻涌</a></span><span class="crefe"><a href="/hans/翻越">翻越</a></span><span class="crefe"><a href="/hans/翻阅">翻阅</a></span><span class="crefe"><a href="/hans/翻云覆雨">翻云覆雨</a></span><span class="crefe"><a href="/hans/翻造">翻造</a></span><span class="crefe"><a href="/hans/翻转">翻转</a></span><span class="crefe"><a href="/hans/翻嘴">翻嘴</a></span><span class="crefe"><a href="/hans/翻作">翻作</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>翻</rb></rbc><rtc><rt>ㄈㄢ</rt></rtc><rtc><rt>fān <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0851.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">反轉、覆轉。</span><span class="gc_lz">如：「翻身」、「車<b>翻</b>了」。</span><span class="gc_yy">唐&middot;杜甫〈白帝〉詩：「白帝城中雲出門，白帝城下雨<b>翻</b>盆。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">掀動。</span><span class="gc_lz">如：「翻書」、「<b>翻</b>報紙」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">越過。</span><span class="gc_lz">如：「翻山越嶺」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">改變。</span><span class="gc_lz">如：「花樣翻新」、「翻供」、「翻案」、「翻臉」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">將某種語言文字譯成另一種語言文字。</span><span class="gc_lz">如：「把這段英文<b>翻</b>成中文。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">飛翔。</span><span class="gc_lz">如：「眾鳥<b>翻</b>飛」。</span><span class="gc_yy">唐&middot;李白〈天台曉望〉詩：「雲垂大鵬<b>翻</b>，波動巨鼇沒。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">反而。</span><span class="gc_yy">唐&middot;司空曙〈雲陽館與韓紳宿別〉詩：「乍見<b>翻</b>疑夢，相悲各問年。」</span><span class="gc_yy">《喻世明言&middot;卷四十&middot;沈小霞相會出師表》：「忠臣<b>翻</b>受奸臣制，骯髒英雄淚滿襟。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7FFB_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=未集中" target="_blank">未集中</a>】【<a href="/zd/kx/?zm=未集中&amp;bs=羽" target="_blank">羽</a>】
+                              翻·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：12</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=未集中" target="_blank">未集中</a>】【<a href="/zd/kx/?zm=未集中&amp;bs=羽" target="_blank">羽</a>】
+                              翻·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：12</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7FFB.svg">						  <p>【廣韻】【集韻】孚袁切【韻會】浮袁切【正韻】孚艱切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音番。【說文&middot;新附字】飛也。【張衡&middot;西京賦】衆鳥翩翻。</p>
+<p>又【增韻】反覆也。通作幡。</p>
+<p>又通作反。</p>
+<p>又【韻補】叶孚愔切【鄭曼季&middot;贈陸雲詩】鴛鴦于飛，徘徊翩翻。載頡載頏，命侶鳴羣。</p>
+<p>又【韻補】叶孚焉切，西京賦與旃同叶。　【集韻】或作飜。亦作拚。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7FFB_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=羽">羽</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=羽">羽</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7FFB.svg">                          <p>飛也。从羽番聲。或从飛。孚袁切〖注〗飜。 新附</p>                          </div>
+                                                                              <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7FFB_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  fĄn˥ <span class="z_ts4">唐代读音</span>  *piæn<span class="z_ts4">日语读音</span>  HIRUGAERU TORU HIRUGAESU<span class="z_ts4">韩语罗马</span>  PEN<span class="z_ts4">现代韩语</span>  번</p>						<p><span class="z_ts3">客家话</span>  [海陆腔] fan1 pan1 [东莞腔] fan1 [台湾四县腔] fan1 pan1 [陆丰腔] fan1 [沙头角腔] fan1 [客英字典] fan1 [梅县腔] fan1 pon1 [宝安腔] fan1  [客语拼音字汇] fan1 pan1<span class="z_ts2">粤语</span>  faan1</p>						<p><span class="z_ts3">近代音</span>  非母    寒山韻    平聲陰    番小空；<span class="z_ts3">中古音</span>  敷母    元韻    平聲    飜小韻    孚𡋡切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：滂母    寒部   ；王力系统：滂母    元部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/翻">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/翻">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/翻">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/翻">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/翻">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/翻">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/翻">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/翻">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/翻">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/翻">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/翻">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/翻">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">翻</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/翻"><img data-original="//img.zdic.net/zy/xiaozhuan/27_7FFB.svg" class="lazy ypic"><span>「翻」 說文‧羽部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/翻" target="_blank"><img data-original="//img.zdic.net/kai/tw/7FFB.svg" class="lazy ypic"><span>「翻」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/翻">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/翻">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7FFB.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7FFB.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7FFB.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7FFB.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/繙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7E59.svg'><span>繙</span></a></div> <div class='zx'><a href='/hans/飜' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/98DC.svg'><span>飜</span></a></div> <div class='zx'><a href='/hans/𢑵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22475.svg'><span>𢑵</span></a></div> <div class='zx'><a href='/hans/𢬵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22B35.svg'><span>𢬵</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="12796" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4911">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/轓">轓(fan1)</a></li><li><a href="/hans/嬏">嬏(fan1)</a></li><li><a href="/hans/颿">颿(fan1)</a></li><li><a href="/hans/藩">藩(fan1)</a></li><li><a href="/hans/飜">飜(fan1)</a></li><li><a href="/hans/勫">勫(fan1)</a></li><li><a href="/hans/籓">籓(fan1)</a></li><li><a href="/hans/番">番(fan1)</a></li><li><a href="/hans/繙">繙(fan1)</a></li><li><a href="/hans/帆">帆(fan1)</a></li><li><a href="/hans/犿">犿(fan1)</a></li><li><a href="/hans/旙">旙(fan1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/翿">翿</a></li><li><a href="/hans/翐">翐</a></li><li><a href="/hans/翌">翌</a></li><li><a href="/hans/翹">翹</a></li><li><a href="/hans/翫">翫</a></li><li><a href="/hans/䎈">䎈</a></li><li><a href="/hans/翛">翛</a></li><li><a href="/hans/翳">翳</a></li><li><a href="/hans/䎓">䎓</a></li><li><a href="/hans/翥">翥</a></li><li><a href="/hans/羽">羽</a></li><li><a href="/hans/䎊">䎊</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/镯">镯</a></li><li><a href="/hans/䠧">䠧</a></li><li><a href="/hans/襜">襜</a></li><li><a href="/hans/覆">覆</a></li><li><a href="/hans/㬪">㬪</a></li><li><a href="/hans/䎗">䎗</a></li><li><a href="/hans/蟜">蟜</a></li><li><a href="/hans/藣">藣</a></li><li><a href="/hans/醩">醩</a></li><li><a href="/hans/藔">藔</a></li><li><a href="/hans/顎">顎</a></li><li><a href="/hans/龎">龎</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">怀旧空吟闻笛赋，到乡<span>翻</span>似烂柯人。</div><div class="gscdr">唐·刘禹锡 《酬乐天扬州初逢席上见赠》</div><div class="gscdl">八百里分麾下炙，五十弦<span>翻</span>塞外声，沙场秋点兵。</div><div class="gscdr">宋·辛弃疾 《破阵子·为陈同甫赋壮词以寄之》</div><div class="gscdl">纷纷暮雪下辕门，风掣红旗冻不<span>翻</span>。</div><div class="gscdr">唐·岑参 《白雪歌送武判官归京》</div><div class="gscdl">哪里去辨甚么真共假？眼见的吹<span>翻</span>了这家，吹伤了那家，只吹的水尽鹅飞罢！</div><div class="gscdr">明·王磐 《朝天子·咏喇叭》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=12796"></script>
+</body>
+</html>

@@ -1,0 +1,714 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>先的解释|先的意思|汉典“先”字的基本解释</title>
+<meta name="title" content="先的解释|先的意思|汉典“先”字的基本解释">
+<meta name="keywords" content="上：⺧，下：儿。 " /><meta property="og:title" content="“先”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“先”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“先”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/先" />
+<link rel="canonical" href="//www.zdic.net/hans/先" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/先" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/先" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/先" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/先">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/先">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5148.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5148.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">xiān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“先”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄒㄧㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“先”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=儿" target="_blank">  儿</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  6</p></td>                                                        <td class="z_ytz2"><a href='/hans/𢓠' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/224E0.svg'><span class='ytz_txt'>𢓠</span></a> <a href='/hans/选' target=_blank>选</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5148</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>312135</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tfqb</p></td>                            <td class="dsk_2_1"><p>hghu</p></td>                            <td class="dsk_2_1"><p>mbrd</p></td>                            <td class="dsk_2_1"><p>24212</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">xiān<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“先”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄒㄧㄢ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“先”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄢ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=儿" target="_blank">儿</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 6</p>                    <p><span class="z_ts3">基本区</span> 5148<span class="z_ts2">笔顺</span> 312135                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5148_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=841" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>先</strong></p><p><span class="dicpy">xiān  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span>  ㄒㄧㄢ</span></p><hr class="dichr" /><ol>	<li>时间在前的，次序在前的，与&ldquo;<span class="diczx3">后</span>&rdquo;相对：～前。～期。原～。～驱。～河（中国古代帝王先祭黄河，后祭海，以河为海的本源，后称倡导在先的事物）。～觉（<span class="dicpy">ju&eacute;</span>）。～见之明。～发制人。</li>	<li>家族或民族的较早的一代或几代：～人。～世（祖先）。～民。</li>	<li>对死去的人的尊称：～祖。～父。～哲（指已去世的有才德的思想家）。～烈。～贤。</li>	<li>姓。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> first, former, previous</p><p><span class="z_ts2">德语</span> eher, erst, zuerst, voraus ,Vorfahr, Ahne</p><p><span class="z_ts2">法语</span> premièrement,d'abord,ancêtre,prédécesseur,défunt</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>先</strong> <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (会意。据甲骨文，上面是&ldquo;止&rdquo;(脚)，下面是&ldquo;人&rdquo;。意思是脚已走在人的前面。本义:前进，走在前面)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[advance]</span></p>
+<p><span class="diczx1">先，前进也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">旌蔽日兮敌若云，矢交坠兮士争先。&mdash;&mdash;</span><span class="diczx2">屈原</span><span class="smcs">《九歌&middot;国殇》</span></p>
+<p><span class="diczx1">恐为</span><span class="diczx2">操</span>所先。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">司马光</span><span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx3">又如:身先士卒;争先恐后;争先(争着赶到别人前头)</span></p>
+<p><span class="cino">(3)</span> 尊崇;重视 <span class="encs">[attach importance to]</span></p>
+<p><span class="diczx1">安宁则长庠序，先本绌末，以礼义防于利。&mdash;&mdash;<span class="smcs">《史记&middot;本准书》</span></span></p>
+<p><span class="diczx3">又如:先本(重视根本)</span></p>
+<p><span class="cino">(4)</span> 首创;开始 <span class="encs">[initiate;begin]</span></p>
+<p><span class="diczx1">不为福先，不为祸始。&mdash;&mdash;<span class="smcs">《庄子&middot;刻意》</span></span></p>
+<p><span class="diczx3">又如:先志(先立志向);先事(先行其事)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>先</strong> <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 当初;先前 <span class="encs">[first]</span></p>
+<p><span class="diczx1">丢三忘四，惹人抱怨，竟不大象先了。&mdash;&mdash;<span class="smcs">《红楼梦》</span></span></p>
+<p><span class="diczx3">又如:先起头(从前);先来(先前，原来);先日(从前;日前)</span></p>
+<p><span class="cino">(2)</span> 先世;祖先 <span class="encs">[ancestry;ancestors]</span></p>
+<p><span class="diczx1">仆之先非有剖符丹书之功。&mdash;&mdash;<span class="smcs">《报任安书》</span></span></p>
+<p><span class="diczx1">行莫丑于辱先。&mdash;&mdash;</span><span class="diczx2">司马迁</span><span class="smcs">《报任少卿书》</span></p>
+<p><span class="diczx1">思厥先祖父。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏洵</span><span class="smcs">《六国论》</span></p>
+<p><span class="diczx1">先典攸高。&mdash;&mdash;</span><span class="diczx2">南朝</span><span class="diczx2">梁</span>&middot; <span class="diczx2">丘迟</span><span class="smcs">《与陈伯之书》</span></p>
+<p><span class="diczx1">先西域人。&mdash;&mdash;</span><span class="diczx2">明</span>、 <span class="diczx2">清</span>&middot; <span class="diczx2">侯方域</span><span class="smcs">《壮悔堂文集》</span></p>
+<p><span class="diczx1">先茔在杭(先茔:祖先的坟墓。杭:浙江省杭州市)。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx3">又如:先陇(祖坟);先陵(帝王祖先的坟墓);先铭(先人的墓志铭)</span></p>
+<p><span class="cino">(3)</span> 前导;前驱 <span class="encs">[forerunner;pioneer]</span></p>
+<p><span class="diczx1">以为民先(先，先锋。形容词活用为名词)。&mdash;&mdash;<span class="smcs">《韩非子&middot;五蠹》</span></span></p>
+<p><span class="diczx1">行为士先。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">张溥</span><span class="smcs">《五人墓碑记》</span></p>
+<p><span class="diczx3">又如:先引(前导);先师(前辈老师);先达(有德行学问的前辈)</span></p>
+<p><span class="cino">(4)</span> 姓</p>
+<p>◎ <strong>先</strong> <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 前，时间或次序在前 <span class="encs">[earlier;before]</span></p>
+<p><span class="diczx1">以先国家之急。&mdash;&mdash;<span class="smcs">《史记&middot;廉颇蔺相如列传》</span></span></p>
+<p><span class="diczx1">后先相继。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄&middot;种植部》</span></p>
+<p><span class="diczx1">固先乎吾。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx1">先天下之忧。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="cino">(2)</span> 古时的;先前的，先代的 <span class="encs">[old;ancient]</span></p>
+<p><span class="diczx1"><span class="encs">[季春之月]</span>天子乃荐鞠衣于先帝。&mdash;&mdash;<span class="smcs">《礼记&middot;月令》</span></span></p>
+<p><span class="diczx1">愿君顾先王之宗庙。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策》</span></span></p>
+<p><span class="diczx3">又如:先帝(远古帝王);先王(指上古贤明君王)</span></p>
+<p><span class="cino">(3)</span> 首要，根本 <span class="encs">[chief;fundamental]</span></p>
+<p><span class="diczx1">末学者，古人有之，而非所以先也。&mdash;&mdash;<span class="smcs">《庄子&middot;天道》</span>。</span><span class="diczx2">成玄英</span>疏:&ldquo;先，本也。&rdquo;</p>
+<p><span class="diczx3">又如:先天(宇宙的本体，万物的本原);先务(首要的事务)</span></p>
+<p><span class="cino">(4)</span> 上 <span class="encs">[super]</span></p>
+<p><span class="diczx1">短长终不校，先后竟谁论?&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《和侯协律咏笋》</span></p>
+<p><span class="diczx3">又如:先后(高下，优劣)</span></p>
+<p><span class="cino">(5)</span> 已故的。称呼死者的敬词 <span class="encs">[the deceased]</span></p>
+<p><span class="diczx1">先大母婢也。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">归有光</span><span class="smcs">《项脊轩志》</span></p>
+<p><span class="diczx3">又如:先朝顾命(先帝临终托付);先府君(尊称亡父)</span></p>
+<p>◎ <strong>先</strong> <span class="dicpy">xiān</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xiān.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p>指事情、行为发生在前 <span class="encs">[earlier;before]</span></p>
+<p><span class="diczx1">树下先有落叶。&mdash;&mdash;</span><span class="diczx2">三国</span><span class="diczx2">魏</span>&middot; <span class="diczx2">邯郸淳</span><span class="smcs">《笑林》</span></p>
+<p><span class="diczx1">几欲先走。&mdash;&mdash;<span class="smcs">《秋声诗自序》</span></span></p>
+<p><span class="diczx1">水暖鸭先知。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《惠崇》</span></p>
+<p><span class="diczx1">春江晚景</span></p>
+<p><span class="diczx1">为坎以先登。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/先辈">先辈</a></span><span class="crefe"><a href="/hans/先妣">先妣</a></span><span class="crefe"><a href="/hans/先鞭">先鞭</a></span><span class="crefe"><a href="/hans/先不先">先不先</a></span><span class="crefe"><a href="/hans/先慈">先慈</a></span><span class="crefe"><a href="/hans/先达">先达</a></span><span class="crefe"><a href="/hans/先大母">先大母</a></span><span class="crefe"><a href="/hans/先导">先导</a></span><span class="crefe"><a href="/hans/先帝遗诏">先帝遗诏</a></span><span class="crefe"><a href="/hans/先睹为快">先睹为快</a></span><span class="crefe"><a href="/hans/先发制人">先发制人</a></span><span class="crefe"><a href="/hans/先锋">先锋</a></span><span class="crefe"><a href="/hans/先父">先父</a></span><span class="crefe"><a href="/hans/先公">先公</a></span><span class="crefe"><a href="/hans/先汉">先汉</a></span><span class="crefe"><a href="/hans/先河">先河</a></span><span class="crefe"><a href="/hans/先后">先后</a></span><span class="crefe"><a href="/hans/先皇">先皇</a></span><span class="crefe"><a href="/hans/先机">先机</a></span><span class="crefe"><a href="/hans/先见">先见</a></span><span class="crefe"><a href="/hans/先进">先进</a></span><span class="crefe"><a href="/hans/先觉">先觉</a></span><span class="crefe"><a href="/hans/先君">先君</a></span><span class="crefe"><a href="/hans/先君子">先君子</a></span><span class="crefe"><a href="/hans/先礼后兵">先礼后兵</a></span><span class="crefe"><a href="/hans/先例">先例</a></span><span class="crefe"><a href="/hans/先烈">先烈</a></span><span class="crefe"><a href="/hans/先令">先令</a></span><span class="crefe"><a href="/hans/先露">先露</a></span><span class="crefe"><a href="/hans/先买">先买</a></span><span class="crefe"><a href="/hans/先民">先民</a></span><span class="crefe"><a href="/hans/先母">先母</a></span><span class="crefe"><a href="/hans/先期">先期</a></span><span class="crefe"><a href="/hans/先前">先前</a></span><span class="crefe"><a href="/hans/先遣">先遣</a></span><span class="crefe"><a href="/hans/先秦">先秦</a></span><span class="crefe"><a href="/hans/先驱">先驱</a></span><span class="crefe"><a href="/hans/先热">先热</a></span><span class="crefe"><a href="/hans/先人">先人</a></span><span class="crefe"><a href="/hans/先人后己">先人后己</a></span><span class="crefe"><a href="/hans/先入为主">先入为主</a></span><span class="crefe"><a href="/hans/先声">先声</a></span><span class="crefe"><a href="/hans/先声夺人">先声夺人</a></span><span class="crefe"><a href="/hans/先生">先生</a></span><span class="crefe"><a href="/hans/先世">先世</a></span><span class="crefe"><a href="/hans/先是">先是</a></span><span class="crefe"><a href="/hans/先室">先室</a></span><span class="crefe"><a href="/hans/先手">先手</a></span><span class="crefe"><a href="/hans/先天">先天</a></span><span class="crefe"><a href="/hans/先天不足">先天不足</a></span><span class="crefe"><a href="/hans/先天之精">先天之精</a></span><span class="crefe"><a href="/hans/先头">先头</a></span><span class="crefe"><a href="/hans/先王">先王</a></span><span class="crefe"><a href="/hans/先贤">先贤</a></span><span class="crefe"><a href="/hans/先小人后君子">先小人后君子</a></span><span class="crefe"><a href="/hans/先行">先行</a></span><span class="crefe"><a href="/hans/先行词">先行词</a></span><span class="crefe"><a href="/hans/先行官">先行官</a></span><span class="crefe"><a href="/hans/先行者">先行者</a></span><span class="crefe"><a href="/hans/先兄">先兄</a></span><span class="crefe"><a href="/hans/先严">先严</a></span><span class="crefe"><a href="/hans/先引">先引</a></span><span class="crefe"><a href="/hans/先斩后奏">先斩后奏</a></span><span class="crefe"><a href="/hans/先兆">先兆</a></span><span class="crefe"><a href="/hans/先哲">先哲</a></span><span class="crefe"><a href="/hans/先知">先知</a></span><span class="crefe"><a href="/hans/先知先觉">先知先觉</a></span><span class="crefe"><a href="/hans/先祖">先祖</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>先</rb></rbc><rtc><rt>ㄒㄧㄢ</rt></rtc><rtc><rt>xiān <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3998.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">祖先。</span><span class="gc_yy">《文選&middot;司馬遷&middot;報任少卿書》：「行莫醜於辱<b>先</b>，詬莫大於宮刑。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">首要的事務。</span><span class="gc_yy">《禮記&middot;學記》：「建國君民，教學為<b>先</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">原先、先前。</span><span class="gc_yy">《紅樓夢&middot;第七二回》：「這兩日比<b>先</b>又添了些病，所以支持不住。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">先生的簡稱。</span><span class="gc_yy">《漢書&middot;卷六七&middot;梅福傳》：「夫叔孫<b>先</b>非不忠也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如春秋時晉國有先軫。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">對已去世者的尊稱。</span><span class="gc_lz">如：「先父」、「先人」、「先聖先賢」、「革命先烈」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">時間或次序在前。</span><span class="gc_lz">如：「先發制人」、「近水樓臺<b>先</b>得月」。</span><span class="gc_yy">《論語&middot;衛靈公》：「工欲善其事，必先利其器。」</span><span class="gc_yy">宋&middot;蘇軾〈惠崇春江晚景〉詩二首之一：「春江水暖鴨<b>先</b> 知。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">暫時。</span><span class="gc_lz">如：「你<b>先</b>不要慌，我們慢慢想辦法來解決。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">倡導、先行。</span><span class="gc_yy">《論語&middot;子路》：「衛君待子而為政，子將奚<b>先</b>？」</span><span class="gc_yy">《文選&middot;曹植&middot;求自試表》：「突刃觸鋒，為士卒<b>先</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">時間居前。</span><span class="gc_yy">唐&middot;韓愈〈師說〉：「生乎吾前，其聞道也，固<b>先</b>乎吾，吾從而師之。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">事前聯繫、介紹。</span><span class="gc_yy">《漢書&middot;卷四三&middot;酈食其傳》：「此真吾所願從游，莫為我<b>先</b>。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>先</rb></rbc><rtc><rt>ㄒㄧㄢˋ</rt></rtc><rtc><rt>xi&agrave;n</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">不當超前而超前。</span><span class="gc_yy">《孟子&middot;告子下》：「徐行後長者謂之弟，疾行<b>先</b>長者謂之不弟。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">領導、率導。</span><span class="gc_yy">《禮記&middot;郊特牲》：「天<b>先</b>乎地，君<b>先</b>乎臣。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5148_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=儿" target="_blank">儿</a>】
+                              先·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=儿" target="_blank">儿</a>】
+                              先·康熙筆画：<a href="/zd/kx/bh/?bh=6" target="_blank">6</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5148.svg">						  <p>【唐韻】【正韻】蘇前切【集韻】【韻會】蕭前切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>霰平聲。【說文】先，前進也。从人之。【徐曰】之，往也，往在人上也。一曰始也，故也。【玉篇】前也，早也。【孝經&middot;感應章】必有先也。【老子&middot;道德經】象帝之先。</p><p>又祖父已歾曰先。【司馬遷&middot;報任安書】太上不辱先，其次不辱身。</p><p>又姓。【韻會】晉有先軫。</p><p>又【韻會】凡在前者謂之先，則平聲。先而導前與當後而先之，則去聲。</p><p>又【唐韻】【集韻】【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>先見切，音霰。【增韻】先之也。【正韻】相導前後曰先後。【周禮&middot;夏官&middot;大司馬】以先愷樂，獻于社。【註】先猶導也。【史記&middot;酈食其傳】沛公吾所願從游，莫爲我先。</p><p>又先事而爲曰先。【易&middot;乾卦】先天而天弗違。【禮&middot;月令】先立春三日。</p><p>又當後而前曰先。【左傳&middot;文二年】不先父食。【孟子】疾行先長者。【老子&middot;道德經】先天地生。</p><p>又【廣韻】娣姒曰先後。【前漢&middot;郊祀志】神君者，長陵女子。以乳死，見神于先後宛若。【註】孟康曰：兄弟妻相謂先後。師古曰：古謂之娣姒，今關中俗呼爲先後，吳楚呼之爲妯娌。</p><p>又【韻會】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>蘇典切，音跣。【越語】句踐親爲夫差先馬。【韻會】前漢太子，太傅少傅屬官有先馬。後漢職如謁者，太子出，則當直者前驅導威儀也。或作洗。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5148_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=先">先</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=先">先</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5148.svg">                          <p>前進也。从儿从之。凡先之屬皆从先。穌前切〖注〗臣鉉等曰：之人上，是先也。</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5148_364.svg" /><span class="swbf">(先)</span><span class="ywyy">前進也。</span><span class="swdz">前當作歬，不行而進曰歬。凡言歬者緩詞，凡言先者急詞也。其爲進一也。</span><span class="ywyy">从儿之。</span><span class="swdz">之者，出也。引伸爲往也。穌前切。古音在十三部。讀若先聲之詵。</span><span class="ywyy">凡先之屬皆从先。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5148_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ɕiæn˥ <span class="z_ts4">唐代读音</span>  *sen sen<span class="z_ts4">日语读音</span>  SAKI SAKINJIRU MAZU<span class="z_ts4">韩语罗马</span>  SEN<span class="z_ts4">现代韩语</span>  선<span class="z_ts3">越南语</span>  tiên</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] sien1 [客语拼音字汇] xian1 [客英字典] sen1 sien1 [东莞腔] sen1 [沙头角腔] sien1 [宝安腔] sen1 [海陆腔] sien1 [sen1] [台湾四县腔] sien1 [sen1] [陆丰腔] sian1<span class="z_ts2">粤语</span>  sin1<span class="z_ts3">潮州话</span>  soiⁿ1 [揭阳、潮阳]saiⁿ1</p>						<p><span class="z_ts3">近代音</span>  心母    先天韻    平聲陰    先小空；<span class="z_ts3">中古音</span>  心母    先韻    平聲    先小韻    蘇前切    四等    開口；心母    霰韻    去聲    霰小韻    蘇佃切    四等    開口；<span class="z_ts3">上古音</span>  黄侃系统：心母    痕部   ；心母    痕部   ；心母    痕部   ；王力系统：心母    文部   ；心母    文部   ；心母    文部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/先">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/先">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/先">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/先">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/先">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/先">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/先">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/先">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/先">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/先">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/先">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/先">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/先">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">先</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>秦系簡牘</td>
+			<td>說文</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/42_F7FE.svg" /><span>「先」 乙3798</span><span>合17644</span></a></td>
+			<td><a href="/zd/zx/jw/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E434.svg" /><span>「先」 先壺</span><span>商代晚期</span><span>集成9458</span></a></td>
+			<td><a href="/zd/zx/cx/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/52_F6A0.svg" /><span>「先」 包2.217</span></a></td>
+			<td><a href="/zd/zx/qx/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E9A0.svg" /><span>「先」 睡.日甲125背</span></a></td>
+			<td><a href="/zd/zx/xz/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_5148.svg" /><span>「先」 說文‧先部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/先" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5148.svg" /><span>「先」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/42_F7FA.svg" /><span>「先」 甲218</span><span>合22315</span></a></td>
+			<td><a href="/zd/zx/jw/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E436.svg" /><span>「先」 沈子它簋蓋</span><span>西周早期</span><span>集成4330</span></a></td>
+			<td><a href="/zd/zx/cx/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/52_F6A6.svg" /><span>「先」 望1.61</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/先"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/33_E446.svg" /><span>「先」 師望鼎</span><span>西周中期</span><span>集成2812</span></a></td>
+			<td><a href="/zd/zx/cx/选"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_EAD3.svg" /><span>「选」新甲3.142-1</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/先">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/先">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/先">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/先">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/先">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/先">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5148.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5148.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5148.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5148.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5148.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𢓠' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/224E0.svg'><span>𢓠</span></a></div> <div class='zx'><a href='/hans/选' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9009.svg'><span>选</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="841" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7194">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/杴">杴(xian1)</a></li><li><a href="/hans/襳">襳(xian1)</a></li><li><a href="/hans/韱">韱(xian1)</a></li><li><a href="/hans/嬐">嬐(xian1)</a></li><li><a href="/hans/氙">氙(xian1)</a></li><li><a href="/hans/酰">酰(xian1)</a></li><li><a href="/hans/忺">忺(xian1)</a></li><li><a href="/hans/銛">銛(xian1)</a></li><li><a href="/hans/秈">秈(xian1)</a></li><li><a href="/hans/憸">憸(xian1)</a></li><li><a href="/hans/綅">綅(xian1)</a></li><li><a href="/hans/掺">掺(xian1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠓉">𠓉</a></li><li><a href="/hans/𠒲">𠒲</a></li><li><a href="/hans/𠒃">𠒃</a></li><li><a href="/hans/児">児</a></li><li><a href="/hans/𠓂">𠓂</a></li><li><a href="/hans/㒫">㒫</a></li><li><a href="/hans/𠓕">𠓕</a></li><li><a href="/hans/兒">兒</a></li><li><a href="/hans/𠓄">𠓄</a></li><li><a href="/hans/㒮">㒮</a></li><li><a href="/hans/𠓚">𠓚</a></li><li><a href="/hans/𠓁">𠓁</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㝌">㝌</a></li><li><a href="/hans/仼">仼</a></li><li><a href="/hans/㚐">㚐</a></li><li><a href="/hans/呂">呂</a></li><li><a href="/hans/妅">妅</a></li><li><a href="/hans/吐">吐</a></li><li><a href="/hans/囟">囟</a></li><li><a href="/hans/㚤">㚤</a></li><li><a href="/hans/压">压</a></li><li><a href="/hans/旪">旪</a></li><li><a href="/hans/䢹">䢹</a></li><li><a href="/hans/曲">曲</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">竹外桃花三两枝，春江水暖鸭<span>先</span>知。</div><div class="gscdr">宋·苏轼 《惠崇春江晚景》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">故天将降大任于是人也，必<span>先</span>苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。</div><div class="gscdr">《孟子·告子下》《生于忧患 死于安乐》</div><div class="gscdl">天子<span>先</span>驱至，不得入。</div><div class="gscdr">汉·司马迁 史记. 绛侯周勃世家《周亚夫军细柳》</div><div class="gscdl"><span>先</span>驱曰：“天子且至！”</div><div class="gscdr">汉·司马迁 史记. 绛侯周勃世家《周亚夫军细柳》</div><div class="gscdl">自云<span>先</span>世避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">然则何时而乐耶？其必曰“<span>先</span>天下之忧而忧，后天下之乐而乐”。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div><div class="gscdl">安陵君曰：“大王加惠，以大易小，甚善；虽然，受地于<span>先</span>王，愿终守之，弗敢易！”秦王不说。</div><div class="gscdr">西汉·刘向 《唐雎不辱使命》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=841"></script>
+</body>
+</html>

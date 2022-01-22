@@ -1,0 +1,784 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>解的解释|解的意思|汉典“解”字的基本解释</title>
+<meta name="title" content="解的解释|解的意思|汉典“解”字的基本解释">
+<meta property="og:title" content="“解”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“解”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“解”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/解" />
+<link rel="canonical" href="//www.zdic.net/hans/解" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/解" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/解" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/解" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/解">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/解">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/89E3.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/89E3.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">jiě<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiě.mp3"></a></span></span></p><p><span class="z_d song">jiè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiè.mp3"></a></span></span></p><p><span class="z_d song">xiè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiè.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄐㄧㄝˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄝˇ.mp3"></a></span></span></p><p><span class="z_d song">ㄐㄧㄝˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄝˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄒㄧㄝˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄝˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=角" target="_blank">  角</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  13</p></td>                                                        <td class="z_ytz2"><a href='/hans/觧' target=_blank>觧</a>  <a href='/hans/𦴘' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26D18.svg'><span class='ytz_txt'>𦴘</span></a>  <a href='/hans/懈' target=_blank>懈</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+89E3</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>3535112533112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>qevh|qevg</p></td>                            <td class="dsk_2_1"><p>nbshq</p></td>                            <td class="dsk_2_1"><p>rlym</p></td>                            <td class="dsk_2_1"><p>27252</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">jiě<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiě.mp3"></a></span></span> <span class="z_d song">jiè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiè.mp3"></a></span></span> <span class="z_d song">xiè<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/xiè.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄐㄧㄝˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄝˇ.mp3"></a></span></span> <span class="z_d song">ㄐㄧㄝˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄝˋ.mp3"></a></span></span> <span class="z_d song">ㄒㄧㄝˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“解”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄒㄧㄝˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=角" target="_blank">角</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 13</p>                    <p><span class="z_ts3">基本区</span> 89E3<span class="z_ts2">笔顺</span> 3535112533112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="89E3_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=15332" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>解</strong></p>
+<p><span class="dicpy">jiě  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiě.mp3"></a></span>  ㄐㄧㄝˇ</span></p>
+<ol>
+	<li>剖开，分开：～剖。分～。瓦～。～体。</li>
+	<li>把束缚着、系着的东西打开：～开。～甲归田。～囊相助。</li>
+	<li>除去，除，废除，停止：～放（➊使广大人民群众脱离压迫；➋解除束缚而得到自由）。～除。～饿。～乏。～惑。～疑。～围。～脱。～雇。～聘。～散。～毒。</li>
+	<li>溶化：溶～。～冻。</li>
+	<li>讲明白，分析说明：～释。～析。～说。劝～。～嘲。</li>
+	<li>懂，明白：理～。见～。</li>
+	<li>调和，处理：～决。和～。调（<span class="dicpy">ti&aacute;o </span>）～。排～。</li>
+	<li>高兴，开心：～颜而笑。</li>
+	<li>排泄：～手。</li>
+	<li>代数方程中未知数的值。</li>
+	<li>演算方程式：～方程。</li>
+	<li>文体的一种，如韩愈《进学解》。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>解</strong></p>
+<p><span class="dicpy">ji&egrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&egrave;.mp3"></a></span>  ㄐㄧㄝˋ</span></p>
+<ol>
+	<li>发送。</li>
+	<li>押送财物或犯人：押～。起～。～差（<span class="dicpy">chāi</span>）。～回北京。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>解</strong></p>
+<p><span class="dicpy">xi&egrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&egrave;.mp3"></a></span>  ㄒㄧㄝˋ</span></p>
+<ol>
+	<li>古同&ldquo;<span class="diczx3">懈</span>&rdquo;，松弛，懈怠。</li>
+	<li>古同&ldquo;<span class="diczx3">邂</span>&rdquo;，邂逅。</li>
+	<li>旧时指杂技表演的各种技艺，特指骑在马上表演的技艺：卖～的。跑马卖～。</li>
+	<li>〔～湖〕湖名，在中国山西省。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> loosen, unfasten, untie; explain</p><p><span class="z_ts2">德语</span> auflockern, lockern ,aufbinden, aufschnüren  (V)​,aufteilen, spalten  (V)​,beenden, auflösen  (V)​,darlegen, erklären  (V)​,emanzipieren  (V)​,trennen, ausscheiden  (V)​,Lösung  (Phys)</p><p><span class="z_ts2">法语</span> séparer,dénouer,défaire,soulager,expliquer,comprendre,envoyer sous escorte</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>解</strong> <span class="dicpy">jiě</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiě.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从刀，从牛，从角。表示用刀把牛角剖开。本义:分解牛，后泛指剖开)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[dissect]</span></p>
+<p><span class="diczx1">解，判也，从刀，判牛角。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">鹿角解。&mdash;&mdash;<span class="smcs">《吕氏春秋&middot;仲夏》</span></span></p>
+<p><span class="diczx1">皆众理解也。&mdash;&mdash;<span class="smcs">《汉书&middot;贾谊传》</span></span></p>
+<p><span class="diczx1">解牛之时。&mdash;&mdash;<span class="smcs">《庄子&middot;养生主》</span></span></p>
+<p><span class="diczx1">所解数千。</span></p>
+<p><span class="diczx1">磔然已解。</span></p>
+<p><span class="diczx1">四肢解尽。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:解腕(断腕);解手刀(随身携带的小佩刀。又称解腕尖刀);解角(锯取鹿角);解破(解剖)</span></p>
+<p><span class="cino">(3)</span> 解体，离散 <span class="encs">[split;separate]</span></p>
+<p><span class="diczx1">解，散也。&mdash;&mdash;<span class="smcs">《广雅》</span></span></p>
+<p><span class="diczx1">恐天下解也。&mdash;&mdash;<span class="smcs">《汉书》</span></span></p>
+<p><span class="diczx3">又如:土崩瓦解;解札(裘毛败坏散落);解泽(散布恩泽);解落(散落分离);解续(分合);解窜(离散逃窜);解结(溃散)</span></p>
+<p><span class="cino">(4)</span> 分解，熔化 <span class="encs">[smelt]</span></p>
+<p><span class="diczx1">冰皮始解。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">急解令休止。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="cino">(5)</span> 解除，解围 <span class="encs">[remove]</span></p>
+<p><span class="diczx1">解</span><span class="diczx2">燕</span>国之围。&mdash;&mdash;<span class="smcs">《战国策&middot;燕策》</span></p>
+<p><span class="diczx2">颜太师</span>以兵解。&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">全祖望</span><span class="smcs">《梅花岭记》</span></p>
+<p><span class="diczx3">又如:解厄(解除厄难);解厌(解除饥饿;充饥。厌:通&ldquo;餍&rdquo;，饱);解祟(解除祸害);解疗(除病);解秽(解除秽恶;除去秽气);解斋(解除斋戒)</span></p>
+<p><span class="cino">(6)</span> 解开 <span class="encs">[untie]</span></p>
+<p><span class="diczx1">闭约而无解。&mdash;&mdash;<span class="smcs">《荀子&middot;非十二子》</span></span></p>
+<p><span class="diczx1">解纲。&mdash;&mdash;<span class="smcs">《仪礼&middot;大射仪》</span></span></p>
+<p><span class="diczx1">解带为城。&mdash;&mdash;<span class="smcs">《墨子&middot;公输》</span></span></p>
+<p><span class="diczx1">解辫请职。&mdash;&mdash;</span><span class="diczx2">南朝</span><span class="diczx2">梁</span>&middot; <span class="diczx2">丘迟</span><span class="smcs">《与陈伯之书》</span></p>
+<p><span class="diczx1">解鞍少驻初程。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">姜夔</span><span class="smcs">《扬州慢》</span></p>
+<p><span class="diczx1">解其棕缚。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx3">又如:解缆;解扣儿;解衣服;解铃系铃;解包裹;解绶(解去印绶，指辞去官职);解维(解缆，即下系船的绳索;开船)</span></p>
+<p><span class="cino">(7)</span> 解释，说明 <span class="encs">[explain]</span></p>
+<p><span class="diczx1">师者，所以传道受业解惑。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx1">解其惑也。</span></p>
+<p><span class="diczx1">经吾婉解。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">林觉民</span><span class="smcs">《与妻书》</span></p>
+<p><span class="diczx3">又如:解字(解说文字的结构和意义);解论(解说讨论);解喻(说明比喻);解梦(解说梦兆);解义(解释词义或文义)</span></p>
+<p><span class="cino">(8)</span> 晓悟;明白 <span class="encs">[understand;know]</span></p>
+<p><span class="diczx1">终不解矣。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx1">惑之不解。</span></p>
+<p><span class="diczx3">又如:解悟(领会，觉悟);令人不解;通俗易解;解豁(弄明白;解开);解拆(分解;排解);解会(领会，理解);解人(通达言语、文辞意趣的人)</span></p>
+<p><span class="cino">(9)</span> 脱去;松开 <span class="encs">[take off; loosen]</span></p>
+<p><span class="diczx1">解衣以活友。&mdash;&mdash;</span><span class="diczx2">马中锡</span><span class="smcs">《中山狼传》</span></p>
+<p><span class="diczx1">解屦不敢当阶。&mdash;&mdash;<span class="smcs">《礼记&middot;曲礼上》</span>。疏:&ldquo;脱也。&rdquo;</span></p>
+<p><span class="diczx3">又如:解褐(解下平民所穿的布衣，换上官服);解冠(脱帽);解巾(脱去隐居时所系的方巾，表示出去做官);解珥(脱去耳饰。古代妇女请罪的表示)</span></p>
+<p><span class="cino">(10)</span> 打开，开放 <span class="encs">[open]</span></p>
+<p><span class="diczx1">严城解扉。&mdash;&mdash;<span class="smcs">《后汉书&middot;耿纯列传》</span></span></p>
+<p><span class="diczx3">又如:解帆(开船);解菜(解素。开荤)</span></p>
+<p><span class="cino">(11)</span> 排解，劝解，使和气 <span class="encs">[mediate]</span>。</p>
+<p><span class="diczx3">如:解仇(化解怨仇);解纷(解除纷争、困境);解慰(劝解安慰);解状(解词。向官府报案后又申请取消此案的状纸)</span></p>
+<p><span class="cino">(12)</span> 解手，大小便 <span class="encs">[relieve oneself]</span>。</p>
+<p><span class="diczx3">如:大解;小解;解利(下痢，患痢疾)</span></p>
+<p><span class="cino">(13)</span> 缓解<span class="encs">[relase]</span></p>
+<p><span class="diczx2">太后</span>之色少解。&mdash;&mdash;<span class="smcs">《战国策&middot;赵策》</span></p>
+<p><span class="cino">(14)</span> 助动词。能，会，得 <span class="encs">[can;may]</span></p>
+<p><span class="diczx1">苦雨终风也解晴。&mdash;&mdash;</span><span class="diczx2">苏轼</span><span class="smcs">《六月二十日夜渡海》</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>解</strong> <span class="dicpy">jiě</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiě.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 文体中的一种 <span class="encs">[slution]</span>。</p>
+<p><span class="diczx3">如:扬雄的<span class="smcs">《解嘲》</span>，韩愈的<span class="smcs">《进学解》</span></span></p>
+<p><span class="cino">(2)</span> 代数方程中未知数的值 <span class="encs">[solution]</span>。</p>
+<p><span class="diczx3">如:求解</span></p>
+<p><span class="cino">(3)</span> 道家以为修道者死后魂魄脱离尸体而成仙，称为&ldquo;尸解&rdquo; <span class="encs">[dissection]</span></p>
+<p><span class="diczx1">形解销化，依于鬼神之事。&mdash;&mdash;<span class="smcs">《史记》</span></span></p>
+<p><span class="cino">(4)</span> 见解，见识 <span class="encs">[view]</span></p>
+<p><span class="diczx2">融</span>玄义无师法，而神解过人。&mdash;&mdash;<span class="smcs">《南史》</span></p>
+<p><span class="cino">(5)</span> 另见 <span class="dicpy">ji&egrave;;xi&egrave;</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/解馋">解馋</a></span><span class="crefe"><a href="/hans/解嘲">解嘲</a></span><span class="crefe"><a href="/hans/解酲">解酲</a></span><span class="crefe"><a href="/hans/解愁">解愁</a></span><span class="crefe"><a href="/hans/解除">解除</a></span><span class="crefe"><a href="/hans/解答">解答</a></span><span class="crefe"><a href="/hans/解冻">解冻</a></span><span class="crefe"><a href="/hans/解毒">解毒</a></span><span class="crefe"><a href="/hans/解毒">解毒</a></span><span class="crefe"><a href="/hans/解饿">解饿</a></span><span class="crefe"><a href="/hans/解乏">解乏</a></span><span class="crefe"><a href="/hans/解法">解法</a></span><span class="crefe"><a href="/hans/解放">解放</a></span><span class="crefe"><a href="/hans/解放军">解放军</a></span><span class="crefe"><a href="/hans/解放区">解放区</a></span><span class="crefe"><a href="/hans/解放战争">解放战争</a></span><span class="crefe"><a href="/hans/解雇">解雇</a></span><span class="crefe"><a href="/hans/解寒">解寒</a></span><span class="crefe"><a href="/hans/解和">解和</a></span><span class="crefe"><a href="/hans/解恨">解恨</a></span><span class="crefe"><a href="/hans/解惑">解惑</a></span><span class="crefe"><a href="/hans/解甲">解甲</a></span><span class="crefe"><a href="/hans/解甲归田">解甲归田</a></span><span class="crefe"><a href="/hans/解禁">解禁</a></span><span class="crefe"><a href="/hans/解救">解救</a></span><span class="crefe"><a href="/hans/解决">解决</a></span><span class="crefe"><a href="/hans/解开">解开</a></span><span class="crefe"><a href="/hans/解渴">解渴</a></span><span class="crefe"><a href="/hans/解扣儿">解扣儿</a></span><span class="crefe"><a href="/hans/解离">解离</a></span><span class="crefe"><a href="/hans/解铃还须系铃人">解铃还须系铃人</a></span><span class="crefe"><a href="/hans/解码">解码</a></span><span class="crefe"><a href="/hans/解闷">解闷</a></span><span class="crefe"><a href="/hans/解谜">解谜</a></span><span class="crefe"><a href="/hans/解密">解密</a></span><span class="crefe"><a href="/hans/解免">解免</a></span><span class="crefe"><a href="/hans/解囊">解囊</a></span><span class="crefe"><a href="/hans/解聘">解聘</a></span><span class="crefe"><a href="/hans/解剖">解剖</a></span><span class="crefe"><a href="/hans/解剖麻雀">解剖麻雀</a></span><span class="crefe"><a href="/hans/解剖室">解剖室</a></span><span class="crefe"><a href="/hans/解剖学">解剖学</a></span><span class="crefe"><a href="/hans/解气">解气</a></span><span class="crefe"><a href="/hans/解去">解去</a></span><span class="crefe"><a href="/hans/解劝">解劝</a></span><span class="crefe"><a href="/hans/解热">解热</a></span><span class="crefe"><a href="/hans/解人">解人</a></span><span class="crefe"><a href="/hans/解任">解任</a></span><span class="crefe"><a href="/hans/解散">解散</a></span><span class="crefe"><a href="/hans/解事">解事</a></span><span class="crefe"><a href="/hans/解释">解释</a></span><span class="crefe"><a href="/hans/解手">解手</a></span><span class="crefe"><a href="/hans/解数">解数</a></span><span class="crefe"><a href="/hans/解说">解说</a></span><span class="crefe"><a href="/hans/解说词">解说词</a></span><span class="crefe"><a href="/hans/解题">解题</a></span><span class="crefe"><a href="/hans/解体">解体</a></span><span class="crefe"><a href="/hans/解调">解调</a></span><span class="crefe"><a href="/hans/解脱">解脱</a></span><span class="crefe"><a href="/hans/解围">解围</a></span><span class="crefe"><a href="/hans/解慰">解慰</a></span><span class="crefe"><a href="/hans/解悟">解悟</a></span><span class="crefe"><a href="/hans/解吸">解吸</a></span><span class="crefe"><a href="/hans/解析">解析</a></span><span class="crefe"><a href="/hans/解严">解严</a></span><span class="crefe"><a href="/hans/解颜">解颜</a></span><span class="crefe"><a href="/hans/解样">解样</a></span><span class="crefe"><a href="/hans/解衣推食">解衣推食</a></span><span class="crefe"><a href="/hans/解颐">解颐</a></span><span class="crefe"><a href="/hans/解疑">解疑</a></span><span class="crefe"><a href="/hans/解郁">解郁</a></span><span class="crefe"><a href="/hans/解约">解约</a></span><span class="crefe"><a href="/hans/解职">解职</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>解</strong> <span class="dicpy">ji&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&egrave;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (词源见 <span class="dicpy">jiě</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/jiě.mp3"></a></span> 声解)</p>
+<p><span class="cino">(2)</span> 古代乡举，举送入试 <span class="encs">[introduce scholar to imperial palace]</span>。唐宋时举进士者由地方推荐发送入京的称为&ldquo;解&rdquo;</p>
+<p><span class="diczx1">天下之士屏居山林，令监司守臣解送。&mdash;&mdash;<span class="smcs">《宋史&middot;举志》</span></span></p>
+<p><span class="diczx3">又如:解元(明清科举时代，乡试称解试。解试第一名称为解元);解首(同解元);解牌(登录乡试录取名单的一种文书);解荐(推荐选送);解头(解元);解榜(唐、宋时解试中式的榜文)</span></p>
+<p><span class="cino">(3)</span> 押送财物或犯人 <span class="encs">[send under escort]</span></p>
+<p><span class="diczx1">押解了</span><span class="diczx2">武松</span>，出孟州衙门便行。&mdash;&mdash;<span class="smcs">《水浒传》</span></p>
+<p><span class="diczx3">又如:押解(押送犯人);起解(犯人被押送);解官(将犯人押解到官府);解阙(将罪犯押解到朝廷)</span></p>
+<p><span class="cino">(4)</span> 典当，以物当钱 <span class="encs">[mortgage]</span>。</p>
+<p><span class="diczx3">如:解当(典当);解库(当铺);解钱(拿东西当钱);解帖(当票);解典库(又称解库，解铺，解当铺。即当铺，收取抵押品放债的店铺)</span></p>
+<p><span class="cino">(5)</span> 兑换<span class="encs">[零钱]</span> <span class="encs">[exchange]</span></p>
+<p><span class="diczx1">我有一锭大银，解了十两小银使用了。&mdash;&mdash;<span class="smcs">《水浒传》</span></span></p>
+<p><span class="cino">(6)</span> 另见 <span class="dicpy">jiě;xi&egrave;</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/解送">解送</a></span><span class="crefe"><a href="/hans/解子">解子</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>解</strong> <span class="dicpy">xi&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&egrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 兽名 <span class="encs">[beast&rsquo;s name]</span></p>
+<p><span class="diczx1">角解豸终。&mdash;&mdash;<span class="smcs">《太玄&middot;难》</span>。注:&ldquo;獬豸者，直兽也。&rdquo;</span></p>
+<p><span class="diczx3">又如:解豸(传说中神兽名)</span></p>
+<p><span class="cino">(2)</span> 官署，官吏办事的地方 <span class="encs">[local authorities]</span></p>
+<p><span class="diczx1">事私门而完解舍。&mdash;&mdash;<span class="smcs">《韩非子》</span></span></p>
+<p><span class="diczx3">又如:解舍(官府，官舍)</span></p>
+<p><span class="cino">(3)</span> 旧时指杂技表演的各种技艺，特指骑在马上表演的技艺 <span class="encs">[skill of acrobatics]</span>。</p>
+<p><span class="diczx3">如:卖解的;跑马卖解;解垢(诡诈之辞)</span></p>
+<p><span class="cino">(4)</span> 古地名 <span class="encs">[Xie town]</span>。春秋周畿内地，有二，大解在今河南省洛阳市南，小解在今河南省洛阳市西南</p>
+<p><span class="diczx1">王师军于</span><span class="diczx2">汜</span>，于 <span class="diczx2">解</span>。&mdash;&mdash;<span class="smcs">《左传》</span></p>
+<p><span class="cino">(5)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>解</strong> <span class="dicpy">xi&egrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/xi&egrave;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 通&ldquo;懈&rdquo;。松懈;懒散，做事不抓紧 <span class="encs">[relax]</span></p>
+<p><span class="diczx1">解，缓也。&mdash;&mdash;<span class="smcs">《易&middot;杂卦传》</span>注</span></p>
+<p><span class="diczx1">三日不解。&mdash;&mdash;<span class="smcs">《礼记&middot;杂记一》</span>。注:&ldquo;倦也。&rdquo;</span></p>
+<p><span class="diczx1">夙夜匪解，以事一人。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;生民》</span></span></p>
+<p><span class="diczx3">又如:解弛(懈怠松弛);解休(松懈;休息);解怠(松懈，懒情)</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">jiě;ji&egrave;</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/解趣">解趣</a></span><span class="crefe"><a href="/hans/解数">解数</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>解</rb></rbc><rtc><rt>ㄐㄧㄝˇ</rt></rtc><rtc><rt>jiě <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3176.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">分割、剖分。</span><span class="gc_lz">如：「解剖」。</span><span class="gc_yy">《左傳&middot;宣公四年》：「宰夫將解黿。」</span><span class="gc_yy">《莊子&middot;養生主》：「庖丁為文惠君解牛。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">分裂、分散。</span><span class="gc_lz">如：「瓦解」、「溶解」、「難分難解」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">打開、鬆開、鬆脫。</span><span class="gc_lz">如：「解扣子」、「解開繩子」、「寬衣解帶」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">免除、消除。</span><span class="gc_lz">如：「解圍」、「解悶」、「解救」、「解渴」、「調解」。</span><span class="gc_yy">《戰國策&middot;趙策三》：「所貴於天下之士者，為人排患、釋難、解紛亂而無所取也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">陳述、說明。</span><span class="gc_lz">如：「講解」、「解釋」、「辯解」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">曉晤、明白、清楚。</span><span class="gc_lz">如：「理解」、「了解」、「費解」、「大惑不解」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">排出汗水或大小便。</span><span class="gc_lz">如：「小解」。</span><span class="gc_yy">漢&middot;王充《論衡&middot;寒溫》：「人中於寒，飲藥行解。」</span><span class="gc_yy">《警世通言&middot;卷二一&middot;趙太祖千里送京娘》：「於路只推腹痛難忍，幾遍要解。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">會、能夠。</span><span class="gc_yy">晉&middot;陶淵明〈九日閑居〉詩：「酒能祛百慮，菊解制頹齡。」</span><span class="gc_yy">唐&middot;李白〈月下獨酌〉詩四首之一：「月既不解飲，影徒隨我身。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">文體名。古代文體之一，旨在辯論解說。</span><span class="gc_yy">晉&middot;張華《博物志&middot;卷六&middot;文籍考》：「賢者著述曰傳、曰記、曰章句、曰解、曰論、曰讀。」</span><span class="gc_yy">《新唐書&middot;卷一七六&middot;韓愈傳》：「乃作進學解以自諭。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">答案。</span><span class="gc_lz">如：「不得其解」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">見識、看法。</span><span class="gc_lz">如：「獨到的見解」。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>解</rb></rbc><rtc><rt>ㄒㄧㄝˋ</rt></rtc><rtc><rt>xi&egrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3936.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">鬆懈、懈怠。</span><span class="gc_yy">《禮記&middot;雜記下》：「三日不怠，三月不解。」</span><span class="gc_yy">《漢書&middot;卷六九&middot;趙充國傳》：「虜久屯聚，解弛。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">參見「<a href='/hans/解縣' target=_blank>解縣</a> 」條。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如春秋時晉國有解狐。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>解</rb></rbc><rtc><rt>ㄐㄧㄝˋ</rt></rtc><rtc><rt>ji&egrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/3187.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">參見「<a href='/hans/解元' target=_blank>解元</a> 」條。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">官署、官吏辦公的地方。</span><span class="gc_yy">《商君書&middot;墾令》：「又高其解舍，令有甬官食槩。」</span><span class="gc_yy">《文選&middot;左思&middot;吳都賦》：「屯營櫛比，解署棋布。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">押送、發遣。</span><span class="gc_lz">如：「押解罪犯」、「蘇三起解」。</span><span class="gc_yy">《京本通俗小說&middot;碾玉觀音》：「當下喝賜錢酒賞犒捉事人，解這崔寧到臨安府，一一從頭供說。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">典當、抵押。</span><span class="gc_yy">《醒世恆言&middot;卷三一&middot;鄭節使立功神臂弓》：「你贖典，還是解錢？」</span><span class="gc_yy">《初刻拍案驚奇&middot;卷一三》：「往典鋪中解了幾十兩銀子。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">租用、租借。</span><span class="gc_yy">《清平山堂話本&middot;楊溫攔路虎傳》：「楊三官人同那妻子和當直去客店，解一房歇泊。」</span><span class="gc_yy">《警世通言&middot;卷三七&middot;萬秀娘仇報山亭兒》：「當日天色晚，見一所客店，姊妹兩人解了房，討些飯喫了。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="89E3_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=酉集上" target="_blank">酉集上</a>】【<a href="/zd/kx/?zm=酉集上&amp;bs=角" target="_blank">角</a>】
+                              解·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：6</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=酉集上" target="_blank">酉集上</a>】【<a href="/zd/kx/?zm=酉集上&amp;bs=角" target="_blank">角</a>】
+                              解·康熙筆画：<a href="/zd/kx/bh/?bh=13" target="_blank">13</a>　·部外筆画：6</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/89E3.svg">						  <p>【唐韻】【正韻】佳買切【集韻】【韻會】舉嶰切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>皆上聲。【說文】判也。从刀判牛角。【莊子&middot;養生主】庖丁解牛。【左傳&middot;宣四年】宰夫解黿。【前漢&middot;<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>湯傳】支解人民。【註】謂解<img class='lazy k_img' data-original='//img.zdic.net/song/cn/229F5.svg'><span class='k_txt'>𢧵</span>其四支也。</p>
+<p>又【博雅】散也。【玉篇】緩也。【易&middot;解卦註】解，難之散也。【正義】解有兩音，一古買反，謂解難之初。一諧買反，謂旣解之後。故序卦云：解者，緩也。險難解釋，物情舒緩，故爲解也。【前漢&middot;張耳<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>餘傳】今獨王<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>，恐天下解也。【註】謂離散其心也。</p>
+<p>又【玉篇】釋也。【儀禮&middot;大射禮&middot;解綱註】解，猶釋也。【文心雕龍】百官詢事，則有關刺解諜。解者，釋也。解釋結滯，徵事以對也。</p>
+<p>又【廣韻】脫也。【禮&middot;曲禮】解屨不敢當階。</p>
+<p>又【博雅】說也。【史記&middot;封禪書】船交海中，皆以風爲解。【註】皆自解說，遇風不至也。</p>
+<p>又【廣韻】講也。一曰釋詁也。【禮&middot;經解疏】解者，分析之名。</p>
+<p>又樂曲解。【古今樂錄】傖歌以一句爲一解，中國以一章爲一解。王僧䖍啓云：古曰章，今曰解。解有多少，當是先詩而後聲也。</p>
+<p>又【字彙補】削也。【魯語】晉文公解曹地，以分諸侯。</p>
+<p>又止也。【前漢&middot;五行志】歸獄不解，兹謂追非。</p>
+<p>又開也。【後漢&middot;耿純傳贊】嚴城解扉。</p>
+<p>又達也。【莊子&middot;秋水篇】無南無北，奭然四解。</p>
+<p>又解構，猶閒構也。【後漢&middot;隗囂傳】勿用傍人解構之言。</p>
+<p>又猶會合煩辱也。【淮南子&middot;俶眞訓】孰肯解構人閒之事，以物煩其性命乎。</p>
+<p>又道家有尸解術。【史記&middot;封禪書】爲方僊道，形解銷化。【集解】尸解也。【問奇集】《金壷字考》攺音假，非。</p>
+<p>又梵言目帝羅，此雲解脫。荆溪淨名記，若正用功，解可作古買切。功成日，解應作戸買切。强分二音，亦非。</p>
+<p>又解解，戟多之貌。【揚子&middot;太<img class='lazy k_img' data-original='//img.zdic.net/song/cn/248E5.svg'><span class='k_txt'>𤣥</span>經】次七：何戟解解遘。</p>
+<p>又【集韻】【韻會】下買切【正韻】胡買切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音蟹。義同。</p>
+<p>又【增韻】物自解散也。【孔安國&middot;尚書序】逃難解散。【註】解音蟹。</p>
+<p>又【廣韻】曉也。【禮&middot;學記】相說以解。【註】解物爲解，自解釋爲解，是相證而曉解也。【魏志&middot;賈詡傳】太祖與韓遂、馬超戰渭南，問計於詡。對曰：離之而已。太祖曰：解。【註】謂曉悟也。</p>
+<p>又【博雅】跡也。【爾雅&middot;釋獸】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2A2BD.svg'><span class='k_txt'>𪊽</span>，其跡解。【註】其跡名解。</p>
+<p>又地名。【左傳&middot;昭二十二年】王師軍於解。【註】洛陽西南有大解、小解。</p>
+<p>又【史記&middot;甘茂傳】今公與楚解口地。【索隱】秦地名。【正義】解口，猶開口也。</p>
+<p>又州縣名。【一統志】春秋爲晉之解梁城，戰國屬魏，漢爲解縣，屬河東郡，五代漢始置解州，治解縣，元屬平陽路，明因之。</p>
+<p>又姓。【廣韻】自唐叔虞食邑于解，後因氏。</p>
+<p>又複姓。【姓苑】北魏有解枇氏，後攺爲解氏。</p>
+<p>又【說文】解廌，獸也。【史記&middot;司馬相如傳】弄解豸。【註】解豸，似鹿，一角，一名神羊。古者決訟，令觸不直者。唐御史法冠，一名解廌冠，取其能觸邪也。【晉書&middot;輿服志】作獬豸。【王充&middot;論衡】作觟<img class='lazy k_img' data-original='//img.zdic.net/song/cn/278FE.svg'><span class='k_txt'>𧣾</span>。</p>
+<p>又與嶰通。嶰谷，谷名。【前漢&middot;律歷志】取竹之解谷。【孟康曰】解，脫也。一說昆侖之北谷名也。</p>
+<p>又與澥通。【前漢&middot;揚雄傳】江湖之雀，勃解之鳥。</p>
+<p>又與蟹同。【呂覽&middot;恃君篇】大解、陵魚，大人之居。【山海經】作大蟹。</p>
+<p>又【唐韻】尸賣切【集韻】【韻會】下解切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>蟹去聲。亦判也，散也，曉也，獸也，地名也。</p>
+<p>又【玉篇】接中也。【周禮&middot;冬官考工記】弓人爲弓，茭解中有變焉，故挍。【註】茭，弓檠也。茭解，謂接中也。</p>
+<p>又支節也。【前漢&middot;賈誼傳】所排擊剝割，皆衆理解也。【師古註】解，支節也。</p>
+<p>又與懈同。【詩&middot;大雅】不解于位。【註】解，怠惰也。【禮&middot;月令】民氣解惰。</p>
+<p>又與邂同。【正字通】解后，卽邂逅，言彼此不期而遇也。【六書正譌】別作邂，非。</p>
+<p>又【廣韻】古隘切【集韻】【韻會】居隘切【正韻】居拜切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>皆去聲。【類篇】除也。一曰聞上也。【韻會】發也。【唐制】進士由鄕而貢曰解額。</p>
+<p>又【國史補】外府不試而貢者，謂之拔解。【宋史&middot;選舉志】天下之士，屛處山林，令監司守臣解送。</p>
+<p>又【職官志】入額人一任實滿四年，與解發赴銓。【正字通】凡官司解報、杻解，皆此音。【韻會】讀若懈，非。</p>
+<p>又與廨同。【玉篇】署也。【商子&middot;墾令篇】高其解舍。【左思&middot;吳都賦】解署棊布。【註】言非一也。</p>
+<p>又【集韻】口賣切，楷去聲。解垢，詭曲之辭。【莊子&middot;胠篋篇】解垢同異。【音義】又音楷。</p>
+<p>又叶舉履切，音几。【古詩】著以長相思，緣以結不解。以膠投漆中，誰能別離此。</p>
+<p>又叶居縊切，音記。【楚辭&middot;九章】愁鬱鬱之無快兮，居戚戚而不解。心鞿羈而不開兮，氣繚轉而自締。</p>
+<p>又叶訖力切，音棘。【詩&middot;魯頌】春秋匪解，享祀不忒。皇皇后帝，皇祖后稷。</p>
+<p>又叶舉下切，嘉上聲。【僧皎然&middot;題毗沙天王像】憶昔胡兵圍未解，感得此神天之下。　【俗書正誤】解从刀、牛。俗从羊作觧，非。廨字原从厂作。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="89E3_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=角">角</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=角">角</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/89E3.svg">                          <p>判也。从刀判牛角。一曰解<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22281.svg'><span class='k_txt'>𢊁</span>，獸也。佳買切。又，戶賣切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/89E3_6156.svg" /><span class="swbf">(解)</span><span class="ywyy">判也。从刀判牛角。</span><span class="swdz">㑹意。佳買切。又戸賣切。十六部。</span><span class="ywyy">一曰解<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22281.svg'><span class='k_txt'>𢊁</span>，</span><span class="swdz">曡韵字。</span><span class="ywyy">獸也。</span><span class="swdz">見<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22281.svg'><span class='k_txt'>𢊁</span>部。按大<img class='lazy k_img' data-original='//img.zdic.net/song/cn/248E5.svg'><span class='k_txt'>𤣥</span>、論衡觟䚦。解<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22281.svg'><span class='k_txt'>𢊁</span>字之假借也。四字皆在十六部。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="89E3_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕiɛ˨˩˦; tɕiɛ˥˧; ɕiɛ˥˧ <span class="z_ts4">唐代读音</span>  *gɛ̌i<span class="z_ts4">日语读音</span>  TOKU TOKERU SATORU<span class="z_ts4">韩语罗马</span>  HAY KAY<span class="z_ts4">现代韩语</span>  해<span class="z_ts3">越南语</span>  giải</p>						<p><span class="z_ts3">客家话</span>  [宝安腔] gai3 | gai5 [沙头角腔] gai3 [梅县腔] ke.3 giai3 giai5 [台湾四县腔] gai3 kiai3 kie3 gai5 kiai5 kie5 [客英字典] gai3 ge3 gai5 kiai3 [海陆腔] gai3 kie3 gai6 kie6 [陆丰腔] gai5 gai3 [东莞腔] gai3 [客语拼音字汇] gai3 gai4 giai3 giai4 gie3 gie4<span class="z_ts2">粤语</span>  gaai2 gaai3 haai6<span class="z_ts3">潮州话</span>  goi2 goi3 <姓>hai6</p>						<p><span class="z_ts3">近代音</span>  曉母    皆來韻    上聲    解小空；見母    皆來韻    去聲    戒小空；<span class="z_ts3">中古音</span>  匣母    蟹韻    上聲    蟹小韻    胡買切    二等    開口；見母    蟹韻    上聲    解小韻    佳買切    二等    開口；見母    卦韻    去聲    懈小韻    古隘切    二等    開口；匣母    卦韻    去聲    邂小韻    胡懈切    二等    開口；<span class="z_ts3">上古音</span>  黄侃系统：見母    錫部   ；匣母    錫部   ；王力系统：見母    錫部   ；匣母    錫部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/解">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/解">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/解">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/解">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/解">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/解">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/解">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/解">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/解">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/解">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/解">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/解">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/解">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">解</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/解"><img data-original="//img.zdic.net/zy/jiaguwen/42_E2C4.svg" class="lazy ypic"><span>「解」 陳97</span></a></td><td><a href="/zd/zx/jw/解"><img data-original="//img.zdic.net/zy/jinwen/32_E0C7.svg" class="lazy ypic"><span>「解」 解子甗</span><span>西周早期</span><span>集成874</span></a></td><td><a href="/zd/zx/cx/解"><img data-original="//img.zdic.net/zy/chuwenzi/51_F7BF.svg" class="lazy ypic"><span>「解」 天卜</span></a></td><td><a href="/zd/zx/xz/解"><img data-original="//img.zdic.net/zy/xiaozhuan/27_89E3.svg" class="lazy ypic"><span>「解」 說文‧角部</span></a></td><td><a href="/zd/zx/qx/解"><img data-original="//img.zdic.net/zy/qinwenzi/71_E483.svg" class="lazy ypic"><span>「解」 睡.秦130</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/解" target="_blank"><img data-original="//img.zdic.net/kai/tw/89E3.svg" class="lazy ypic"><span>「解」</span></a></td></tr><tr><td></td><td><a href="/zd/zx/jw/解"><img data-original="//img.zdic.net/zy/jinwen/32_E0C8.svg" class="lazy ypic"><span>「解」 角牛殳子作宮九團宮鼎</span><span>西周早期</span><span>集成2345</span></a></td><td><a href="/zd/zx/cx/解"><img data-original="//img.zdic.net/zy/chuwenzi/51_F7B3.svg" class="lazy ypic"><span>「解」 包2.120</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/解"><img data-original="//img.zdic.net/zy/jinwen/32_E0C9.svg" class="lazy ypic"><span>「解」 中山王昔鼎</span><span>戰國晚期</span><span>集成2840</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/解">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/解">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/解">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/解">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/解">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/解">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/89E3.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/89E3.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/89E3.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/89E3.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/89E3.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/觧' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/89E7.svg'><span>觧</span></a></div> <div class='zx'><a href='/hans/𦴘' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26D18.svg'><span>𦴘</span></a></div>  <div class='zx'><a href='/hans/懈' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/61C8.svg'><span>懈</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="15332" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5528">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/檞">檞(jie3)</a></li><li><a href="/hans/姐">姐(jie3)</a></li><li><a href="/hans/她">她(jie3)</a></li><li><a href="/hans/觧">觧(jie3)</a></li><li><a href="/hans/飷">飷(jie3)</a></li><li><a href="/hans/毑">毑(jie3)</a></li><li><a href="/hans/媎">媎(jie3)</a></li><li><a href="/hans/斺">斺(jie4)</a></li><li><a href="/hans/魪">魪(jie4)</a></li><li><a href="/hans/疥">疥(jie4)</a></li><li><a href="/hans/㠹">㠹(jie4)</a></li><li><a href="/hans/畍">畍(jie4)</a></li><li><a href="/hans/觧">觧(jie4)</a></li><li><a href="/hans/芥">芥(jie4)</a></li><li><a href="/hans/䯰">䯰(jie4)</a></li><li><a href="/hans/骱">骱(jie4)</a></li><li><a href="/hans/䁓">䁓(jie4)</a></li><li><a href="/hans/䛺">䛺(jie4)</a></li><li><a href="/hans/鎅">鎅(jie4)</a></li><li><a href="/hans/㞕">㞕(xie4)</a></li><li><a href="/hans/繲">繲(xie4)</a></li><li><a href="/hans/爕">爕(xie4)</a></li><li><a href="/hans/躞">躞(xie4)</a></li><li><a href="/hans/燮">燮(xie4)</a></li><li><a href="/hans/䵦">䵦(xie4)</a></li><li><a href="/hans/鞢">鞢(xie4)</a></li><li><a href="/hans/躠">躠(xie4)</a></li><li><a href="/hans/屑">屑(xie4)</a></li><li><a href="/hans/㙰">㙰(xie4)</a></li><li><a href="/hans/夑">夑(xie4)</a></li><li><a href="/hans/䦑">䦑(xie4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/觕">觕</a></li><li><a href="/hans/觝">觝</a></li><li><a href="/hans/觔">觔</a></li><li><a href="/hans/䚟">䚟</a></li><li><a href="/hans/䚘">䚘</a></li><li><a href="/hans/觿">觿</a></li><li><a href="/hans/䚚">䚚</a></li><li><a href="/hans/觙">觙</a></li><li><a href="/hans/䚤">䚤</a></li><li><a href="/hans/觳">觳</a></li><li><a href="/hans/觛">觛</a></li><li><a href="/hans/觘">觘</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/痬">痬</a></li><li><a href="/hans/𠙧">𠙧</a></li><li><a href="/hans/骜">骜</a></li><li><a href="/hans/塕">塕</a></li><li><a href="/hans/麀">麀</a></li><li><a href="/hans/蓫">蓫</a></li><li><a href="/hans/㷢">㷢</a></li><li><a href="/hans/䆧">䆧</a></li><li><a href="/hans/暖">暖</a></li><li><a href="/hans/䁇">䁇</a></li><li><a href="/hans/鉃">鉃</a></li><li><a href="/hans/瑑">瑑</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">不<span>解</span>藏踪迹，浮萍一道开。</div><div class="gscdr">唐·白居易 《池上》</div><div class="gscdl">童孙未<span>解</span>供耕织，也傍桑阴学种瓜。</div><div class="gscdr">宋·范成大 《四时田园杂兴》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">河流大野犹嫌束，山入潼关不<span>解</span>平。</div><div class="gscdr">清·谭嗣同 《潼关》</div><div class="gscdl">此与庄生所谓<span>解</span>牛斫轮者何异？</div><div class="gscdr">宋·欧阳修 《卖油翁》</div><div class="gscdl">杨花榆荚无才思，惟<span>解</span>漫天作雪飞。</div><div class="gscdr">唐·韩愈 《晚春》</div><div class="gscdl">元丰六年十月十二日夜，<span>解</span>衣欲睡，月色入户，欣然起行。</div><div class="gscdr">宋·苏轼 《记承天寺夜游》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=15332"></script>
+</body>
+</html>

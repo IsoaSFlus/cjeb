@@ -1,0 +1,745 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>中的解释|中的意思|汉典“中”字的基本解释</title>
+<meta name="title" content="中的解释|中的意思|汉典“中”字的基本解释">
+<meta property="og:title" content="“中”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“中”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“中”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/中" />
+<link rel="canonical" href="//www.zdic.net/hans/中" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/中" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/中" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/中" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/中">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/中">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E2D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E2D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhōng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhōng.mp3"></a></span></span></p><p><span class="z_d song">zhòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhòng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄨㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄥ.mp3"></a></span></span></p><p><span class="z_d song">ㄓㄨㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄥˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=丨" target="_blank">  丨</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_ytz2"><a href='/hans/𠁦' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20066.svg'><span class='ytz_txt'>𠁦</span></a>  <a href='/hans/𠁧' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20067.svg'><span class='ytz_txt'>𠁧</span></a>  <a href='/hans/𠁩' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20069.svg'><span class='ytz_txt'>𠁩</span></a>  <a href='/hans/𠔈' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20508.svg'><span class='ytz_txt'>𠔈</span></a>  <a href='/hans/𠔗' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20517.svg'><span class='ytz_txt'>𠔗</span></a>  <a href='/hans/仲' target=_blank>仲</a>  <a href='/hans/𡖌' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2158C.svg'><span class='ytz_txt'>𡖌</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E2D</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>2512</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>khk</p></td>                            <td class="dsk_2_1"><p>l</p></td>                            <td class="dsk_2_1"><p>jivv</p></td>                            <td class="dsk_2_1"><p>50006</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhōng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhōng.mp3"></a></span></span> <span class="z_d song">zhòng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhòng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄨㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄥ.mp3"></a></span></span> <span class="z_d song">ㄓㄨㄥˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“中”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄥˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=丨" target="_blank">丨</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">统一码</span> 4E2D<span class="z_ts2">笔顺</span> 2512                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E2D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=46" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>中</strong></p>
+<p><span class="dicpy">zhōng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhōng.mp3"></a></span> ㄓㄨㄥˉ</span></p>
+<ol>
+	<li>和四方、上下或两端距离同等的地位：～心。当（<span class="dicpy">d&agrave;ng</span>）～。～原。～华。</li>
+	<li>在一定范围内，里面：暗～。房～。～饱。</li>
+	<li>性质或等级在两端之间的：～辍（中途停止进行）。～等。～流砥柱。</li>
+	<li>表示动作正在进行：在研究～。</li>
+	<li>特指&ldquo;中国&rdquo;：～式。～文。</li>
+	<li>适于，合于：～看。</li>
+</ol>
+<p><strong>其它字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>中</strong></p>
+<p><span class="dicpy">zh&ograve;ng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ograve;ng.mp3"></a></span> ㄓㄨㄥˋ</span></p>
+<ol>
+	<li>恰好合上：～选。～奖。～意（会意，满意）。</li>
+	<li>受到，遭受：～毒。～计。</li>
+	<li>科举考试被录取：～举。～状元。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> central; center, middle; in the midst of; hit (target); attain</p><p><span class="z_ts2">德语</span> Mitte, Zentrum, Mittelpunkt ,treffen  (V)</p><p><span class="z_ts2">法语</span> milieu,centre,central,intérieur,parmi,moitié,frapper juste,être frappé par</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>中</strong> <span class="dicpy">zhōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhōng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (指事。甲骨文字形，中象旗杆，上下有旌旗和飘带，旗杆正中竖立。本义:中心;当中，指一定范围内部适中的位置)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[center]</span></p>
+<p><span class="diczx1">中，和也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">中离维纲。&mdash;&mdash;<span class="smcs">《仪礼&middot;大射仪》</span></span></p>
+<p><span class="diczx1">与太史数射中。&mdash;&mdash;<span class="smcs">《周礼&middot;射人》</span></span></p>
+<p><span class="diczx1">持弓矢审固，然后可以言中。故盛算之器即曰中。&mdash;&mdash;<span class="smcs">《礼记&middot;射义》</span></span></p>
+<p><span class="diczx1">古者天子地方千里，中之而为都。&mdash;&mdash;<span class="smcs">《新书&middot;属远》</span></span></p>
+<p><span class="diczx1">中有都柱。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx1">天门中断。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《望天门山》</span></p>
+<p><span class="diczx1">中通外直。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">周敦颐</span><span class="smcs">《爱莲说》</span></p>
+<p><span class="diczx1">中轩敝者。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx1">中山峨冠而多髯者。</span></p>
+<p><span class="diczx3">又如:人中(人嘴上唇当中处);华中;中浣(农历每月中旬);中土(中原地区。古以冀州为中土，汉以来以河南为中土;中国);中天(天空的中央);中夕(夜半);中色(中央之色，即黄色);中甸(京都);中江(江流的中央);中非(指非洲中部地区)</span></p>
+<p><span class="cino">(3)</span> 内，里面。与&ldquo;外&rdquo;相对 <span class="encs">[among;between;inner;within]</span></p>
+<p><span class="diczx1">五帝之中无传政。&mdash;&mdash;<span class="smcs">《荀子&middot;非相》</span></span></p>
+<p><span class="diczx1">儒有衣冠中。&mdash;&mdash;<span class="smcs">《礼记&middot;儒行》</span></span></p>
+<p><span class="diczx1">皮树中、闾中、虎中、兕中、鹿中，是也。&mdash;&mdash;<span class="smcs">《礼记&middot;乡射礼记》</span></span></p>
+<p><span class="diczx1">以益中外之累。&mdash;&mdash;<span class="smcs">《后汉书&middot;列女传》</span></span></p>
+<p><span class="diczx1">中有</span><span class="diczx2">鲁</span>人 <span class="diczx2">冯三保</span>者、精技击。&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">事变中起。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="diczx3">又如:心中(心里);内中(里头);家中;水中;队伍中;中水(水中);中垢(尘垢之中)</span></p>
+<p><span class="cino">(4)</span> 半;中途;半中腰 <span class="encs">[half]</span></p>
+<p><span class="diczx1">夜中，星殒如雨。&mdash;&mdash;<span class="smcs">《春秋》</span></span></p>
+<p><span class="diczx3">又如:中缀(中途停止);中夕(半夜);中分(从中间分开);中半(对半);中白(半白);中判(对半分开);中阪(半山坡);中夜舞(夜半起舞)</span></p>
+<p><span class="cino">(5)</span> 方位名。泛指一个地区内或一个时期内，中间;居中 <span class="encs">[in the middle;be placed in the middle]</span></p>
+<p><span class="diczx2">晋太元</span>中， <span class="diczx2">武陵</span>人捕鱼为业。&mdash;&mdash; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx3">又如:中门(内、外门之间的门);中阵(中陈、居中的阵地、营垒，一般为主帅所在地);中部(居中的部分);中处(适中的处所);中殿(居中的宫殿)</span></p>
+<p><span class="cino">(6)</span> 指宫禁之内。亦借指朝廷 <span class="encs">[court]</span></p>
+<p><span class="diczx2">赵高</span>用事于中。&mdash;&mdash;<span class="smcs">《史记》</span></p>
+<p><span class="diczx1">公来自中，天子所倚。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《祭董相公文》</span></p>
+<p><span class="diczx3">又如:中涓(皇帝亲近的侍从官);中侍(宫中的侍从官);中使(宫中派出的使者);中尚方(古代官署名。掌宫内营选杂作);中秘书(宫廷藏书);中书(皇宫中的藏书)</span></p>
+<p><span class="cino">(7)</span> 内心 <span class="encs">[heart]</span></p>
+<p><span class="diczx1">忧从中来。&mdash;&mdash;</span><span class="diczx2">曹操</span><span class="smcs">《短歌行》</span></p>
+<p><span class="diczx3">又如:中顾(内心顾念);中私(内心的感情);中函(藏蓄于内心)</span></p>
+<p><span class="cino">(8)</span> 中国的简称 <span class="encs">[China]</span>。</p><p><span class="diczx3">如:洋为中用;中美关系</span></p>
+<p><span class="cino">(9)</span> 中国的本地人、居民或其后代 <span class="encs">[Chinese]</span>。</p><p><span class="diczx3">如:中外皆宜</span></p>
+<p><span class="cino">(10)</span> 内脏 <span class="encs">[internal organs]</span></p>
+<p><span class="diczx1">五中所主，何藏最贵。&mdash;&mdash;<span class="smcs">《素问》</span></span></p>
+<p><span class="cino">(11)</span> 中介人 <span class="encs">[go-between]</span></p>
+<p><span class="diczx1">中央向</span><span class="diczx2">严</span>乡绅借二十两银子。&mdash;&mdash;<span class="smcs">《儒林外史》</span></p>
+<p><span class="diczx3">又如:中见(见证人)</span></p>
+<p><span class="cino">(12)</span> 姓</p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>中</strong> <span class="dicpy">zhōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhōng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 中等 <span class="encs">[medium;intermediate]</span></p>
+<p><span class="diczx1">受中赏。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策》</span></span></p>
+<p><span class="diczx1">中家以上。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:中才(中等才能);中则(中等。指田赋);中知(中等的才智);中币(中等品级的货币);中川(中等的河流);中平(中等，平常);中甲(金代科举考试成绩中等者);中兄(才德一般的兄长)</span></p>
+<p><span class="cino">(2)</span> 〈方〉∶成，行，好 <span class="encs">[all right]</span></p>
+<p><span class="diczx1">正要与姐姐、姐夫商量了，往府里讨去，可是中么?&mdash;&mdash;<span class="smcs">《二刻拍案惊奇》</span></span></p>
+<p><span class="diczx3">又如:中不中</span></p>
+<p><span class="cino">(3)</span> 容易 <span class="encs">[easy]</span></p>
+<p><span class="diczx1">我是</span><span class="diczx2">薛</span>家丫头， <span class="diczx2">狄</span>家媳妇，我的钱不中骗。&mdash;&mdash;<span class="smcs">《醒世姻缘传》</span></p>
+<p><span class="cino">(4)</span> 合适，适当 <span class="encs">[suitable;proper]</span></p>
+<p><span class="diczx1">是</span><span class="diczx2">秦</span>之计中， <span class="diczx2">齐</span><span class="diczx2">燕</span>之计过矣。&mdash;&mdash;<span class="smcs">《战国策&middot;齐策二》</span></p>
+<p><span class="diczx1">余观君疏于世故，而谋国无不中。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">叶适</span><span class="smcs">《袁声史墓志铭》</span></p>
+<p><span class="cino">(5)</span> 不偏不倚，正 <span class="encs">[right]</span></p>
+<p><span class="diczx1">头颈必中。&mdash;&mdash;<span class="smcs">《礼记&middot;玉藻》</span></span></p>
+<p><span class="diczx1">衣冠不中，不敢以入朝。&mdash;&mdash;<span class="smcs">《晏子春秋》</span></span></p>
+<p><span class="cino">(6)</span> 通&ldquo;忠&rdquo;。忠诚<span class="encs">[honest]</span></p>
+<p><span class="diczx1">难进而尽中。&mdash;&mdash;<span class="smcs">《孝经&middot;圣治》</span></span></p>
+<p><span class="diczx1">中和，祗庸孝友。&mdash;&mdash;<span class="smcs">《周礼&middot;春官&middot;大司乐》</span></span></p>
+<p><span class="diczx1">中不上达。&mdash;&mdash;<span class="smcs">《荀子&middot;成相》</span></span></p>
+<p><span class="cino">(7)</span> 另见 <span class="dicpy">zh&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ograve;ng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/中班">中班</a></span><span class="crefe"><a href="/hans/中饱">中饱</a></span><span class="crefe"><a href="/hans/中表">中表</a></span><span class="crefe"><a href="/hans/中波">中波</a></span><span class="crefe"><a href="/hans/中部">中部</a></span><span class="crefe"><a href="/hans/中餐">中餐</a></span><span class="crefe"><a href="/hans/中草药">中草药</a></span><span class="crefe"><a href="/hans/中策">中策</a></span><span class="crefe"><a href="/hans/中层">中层</a></span><span class="crefe"><a href="/hans/中层干部">中层干部</a></span><span class="crefe"><a href="/hans/中产阶级">中产阶级</a></span><span class="crefe"><a href="/hans/中常">中常</a></span><span class="crefe"><a href="/hans/中丞">中丞</a></span><span class="crefe"><a href="/hans/中垂">中垂</a></span><span class="crefe"><a href="/hans/中辍">中辍</a></span><span class="crefe"><a href="/hans/中词">中词</a></span><span class="crefe"><a href="/hans/中挫">中挫</a></span><span class="crefe"><a href="/hans/中道">中道</a></span><span class="crefe"><a href="/hans/中稻">中稻</a></span><span class="crefe"><a href="/hans/中等">中等</a></span><span class="crefe"><a href="/hans/中等教育">中等教育</a></span><span class="crefe"><a href="/hans/中等技术学校">中等技术学校</a></span><span class="crefe"><a href="/hans/中点">中点</a></span><span class="crefe"><a href="/hans/中东">中东</a></span><span class="crefe"><a href="/hans/中断">中断</a></span><span class="crefe"><a href="/hans/中队">中队</a></span><span class="crefe"><a href="/hans/中耳">中耳</a></span><span class="crefe"><a href="/hans/中耳炎">中耳炎</a></span><span class="crefe"><a href="/hans/中饭">中饭</a></span><span class="crefe"><a href="/hans/中锋">中锋</a></span><span class="crefe"><a href="/hans/中缝">中缝</a></span><span class="crefe"><a href="/hans/中伏">中伏</a></span><span class="crefe"><a href="/hans/中服">中服</a></span><span class="crefe"><a href="/hans/中耕">中耕</a></span><span class="crefe"><a href="/hans/中共">中共</a></span><span class="crefe"><a href="/hans/中共中央">中共中央</a></span><span class="crefe"><a href="/hans/中冓">中冓</a></span><span class="crefe"><a href="/hans/中古">中古</a></span><span class="crefe"><a href="/hans/中闺">中闺</a></span><span class="crefe"><a href="/hans/中贵">中贵</a></span><span class="crefe"><a href="/hans/中国">中国</a></span><span class="crefe"><a href="/hans/中国">中国</a></span><span class="crefe"><a href="/hans/中国工农红军">中国工农红军</a></span><span class="crefe"><a href="/hans/中国共产党">中国共产党</a></span><span class="crefe"><a href="/hans/中国海">中国海</a></span><span class="crefe"><a href="/hans/中国话">中国话</a></span><span class="crefe"><a href="/hans/中国人">中国人</a></span><span class="crefe"><a href="/hans/中国人民解放军">中国人民解放军</a></span><span class="crefe"><a href="/hans/中国通">中国通</a></span><span class="crefe"><a href="/hans/中国猿人">中国猿人</a></span><span class="crefe"><a href="/hans/中国字">中国字</a></span><span class="crefe"><a href="/hans/中和">中和</a></span><span class="crefe"><a href="/hans/中华">中华</a></span><span class="crefe"><a href="/hans/中华民国">中华民国</a></span><span class="crefe"><a href="/hans/中华民族">中华民族</a></span><span class="crefe"><a href="/hans/中华人民共和国">中华人民共和国</a></span><span class="crefe"><a href="/hans/中华人民共和国国歌">中华人民共和国国歌</a></span><span class="crefe"><a href="/hans/中级">中级</a></span><span class="crefe"><a href="/hans/中技">中技</a></span><span class="crefe"><a href="/hans/中继">中继</a></span><span class="crefe"><a href="/hans/中坚">中坚</a></span><span class="crefe"><a href="/hans/中坚分子">中坚分子</a></span><span class="crefe"><a href="/hans/中间">中间</a></span><span class="crefe"><a href="/hans/中间派">中间派</a></span><span class="crefe"><a href="/hans/中间人">中间人</a></span><span class="crefe"><a href="/hans/中江举帆">中江举帆</a></span><span class="crefe"><a href="/hans/中将">中将</a></span><span class="crefe"><a href="/hans/中觉">中觉</a></span><span class="crefe"><a href="/hans/中截">中截</a></span><span class="crefe"><a href="/hans/中介">中介</a></span><span class="crefe"><a href="/hans/中局">中局</a></span><span class="crefe"><a href="/hans/中涓">中涓</a></span><span class="crefe"><a href="/hans/中军">中军</a></span><span class="crefe"><a href="/hans/中看">中看</a></span><span class="crefe"><a href="/hans/中空">中空</a></span><span class="crefe"><a href="/hans/中馈">中馈</a></span><span class="crefe"><a href="/hans/中栏">中栏</a></span><span class="crefe"><a href="/hans/中郎将">中郎将</a></span><span class="crefe"><a href="/hans/中立">中立</a></span><span class="crefe"><a href="/hans/中立国">中立国</a></span><span class="crefe"><a href="/hans/中量级">中量级</a></span><span class="crefe"><a href="/hans/中流">中流</a></span><span class="crefe"><a href="/hans/中流砥柱">中流砥柱</a></span><span class="crefe"><a href="/hans/中略">中略</a></span><span class="crefe"><a href="/hans/中美洲">中美洲</a></span><span class="crefe"><a href="/hans/中脑">中脑</a></span><span class="crefe"><a href="/hans/中年">中年</a></span><span class="crefe"><a href="/hans/中年人">中年人</a></span><span class="crefe"><a href="/hans/中农">中农</a></span><span class="crefe"><a href="/hans/中欧">中欧</a></span><span class="crefe"><a href="/hans/中篇小说">中篇小说</a></span><span class="crefe"><a href="/hans/中期">中期</a></span><span class="crefe"><a href="/hans/中情">中情</a></span><span class="crefe"><a href="/hans/中秋">中秋</a></span><span class="crefe"><a href="/hans/中秋节">中秋节</a></span><span class="crefe"><a href="/hans/中人">中人</a></span><span class="crefe"><a href="/hans/中山">中山</a></span><span class="crefe"><a href="/hans/中山狼">中山狼</a></span><span class="crefe"><a href="/hans/中山装">中山装</a></span><span class="crefe"><a href="/hans/中师">中师</a></span><span class="crefe"><a href="/hans/中士">中士</a></span><span class="crefe"><a href="/hans/中世">中世</a></span><span class="crefe"><a href="/hans/中式">中式</a></span><span class="crefe"><a href="/hans/中试">中试</a></span><span class="crefe"><a href="/hans/中寿">中寿</a></span><span class="crefe"><a href="/hans/中枢">中枢</a></span><span class="crefe"><a href="/hans/中庶子">中庶子</a></span><span class="crefe"><a href="/hans/中衰">中衰</a></span><span class="crefe"><a href="/hans/中天">中天</a></span><span class="crefe"><a href="/hans/中统">中统</a></span><span class="crefe"><a href="/hans/中途">中途</a></span><span class="crefe"><a href="/hans/中土">中土</a></span><span class="crefe"><a href="/hans/中外">中外</a></span><span class="crefe"><a href="/hans/中外">中外</a></span><span class="crefe"><a href="/hans/中卫">中卫</a></span><span class="crefe"><a href="/hans/中尉">中尉</a></span><span class="crefe"><a href="/hans/中文">中文</a></span><span class="crefe"><a href="/hans/中午">中午</a></span><span class="crefe"><a href="/hans/中西">中西</a></span><span class="crefe"><a href="/hans/中西合璧">中西合璧</a></span><span class="crefe"><a href="/hans/中夏">中夏</a></span><span class="crefe"><a href="/hans/中校">中校</a></span><span class="crefe"><a href="/hans/中心">中心</a></span><span class="crefe"><a href="/hans/中心人物">中心人物</a></span><span class="crefe"><a href="/hans/中兴">中兴</a></span><span class="crefe"><a href="/hans/中性">中性</a></span><span class="crefe"><a href="/hans/中休">中休</a></span><span class="crefe"><a href="/hans/中学">中学</a></span><span class="crefe"><a href="/hans/中学">中学</a></span><span class="crefe"><a href="/hans/中学生">中学生</a></span><span class="crefe"><a href="/hans/中旬">中旬</a></span><span class="crefe"><a href="/hans/中央">中央</a></span><span class="crefe"><a href="/hans/中药">中药</a></span><span class="crefe"><a href="/hans/中药铺">中药铺</a></span><span class="crefe"><a href="/hans/中叶">中叶</a></span><span class="crefe"><a href="/hans/中衣">中衣</a></span><span class="crefe"><a href="/hans/中医">中医</a></span><span class="crefe"><a href="/hans/中翼">中翼</a></span><span class="crefe"><a href="/hans/中庸">中庸</a></span><span class="crefe"><a href="/hans/中庸之道">中庸之道</a></span><span class="crefe"><a href="/hans/中用">中用</a></span><span class="crefe"><a href="/hans/中游">中游</a></span><span class="crefe"><a href="/hans/中雨">中雨</a></span><span class="crefe"><a href="/hans/中原">中原</a></span><span class="crefe"><a href="/hans/中正">中正</a></span><span class="crefe"><a href="/hans/中值">中值</a></span><span class="crefe"><a href="/hans/中止">中止</a></span><span class="crefe"><a href="/hans/中指">中指</a></span><span class="crefe"><a href="/hans/中州">中州</a></span><span class="crefe"><a href="/hans/中专">中专</a></span><span class="crefe"><a href="/hans/中转">中转</a></span><span class="crefe"><a href="/hans/中装">中装</a></span><span class="crefe"><a href="/hans/中子">中子</a></span></div>
+<p><strong>基本词义</strong></p>
+<p>&nbsp;</p>
+<hr class="dichr" />
+<p>◎ <strong>中</strong> <span class="dicpy">zh&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ograve;ng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 正对上;射中，正着目标 <span class="encs">[fit exactly;hit]</span></p>
+<p><span class="diczx1">中其茎。&mdash;&mdash;<span class="smcs">《考工记&middot;桃氏》</span>。</span><span class="diczx2">司农</span>注:&ldquo;谓穿之也。&rdquo;</p>
+<p><span class="diczx1">敌中则夺。&mdash;&mdash;<span class="smcs">《荀子&middot;彊国》</span>。注:&ldquo;击也。&rdquo;</span></p>
+<p><span class="diczx1">见其发矢十中八九，但微颔之。&mdash;&mdash;</span><span class="diczx2">欧阳修</span><span class="smcs">《卖油翁》</span></p>
+<p><span class="diczx1">射者中。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《醉翁亭记》</span></p>
+<p><span class="diczx1">中而轻发。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗类钞&middot;战事类》</span></p>
+<p><span class="diczx1">幸啄不中。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx3">又如:中靶;猜中了;命中(射中);看中(经过观察，感觉合意);中雀(中目);中钩(上钩);中的(箭射中靶子);中鹄(射中靶子)</span></p>
+<p><span class="cino">(2)</span> 受到;遭到 <span class="encs">[be hit by;fall into;hit home]</span></p>
+<p><span class="diczx1">欲中守法。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p>
+<p><span class="diczx1">前番我</span><span class="diczx2">王</span>兄误中你的诡计，在 <span class="diczx2">青龙山</span>上，被你伤了十万大兵。&mdash;&mdash;<span class="smcs">《说岳全传》</span></p>
+<p><span class="diczx3">又如:中霜(遭受霜冻);中酒(病酒;醉酒);中暍(中暑);中疾(生病);中恶(得急病);中暑;中弹;中埋伏;中煤气</span></p>
+<p><span class="cino">(3)</span> 造谣;中伤 <span class="encs">[slander]</span></p>
+<p><span class="diczx1">好事者未尝不中。&mdash;&mdash;<span class="smcs">《淮南子&middot;原道》</span>。注:&ldquo;伤也。&rdquo;</span></p>
+<p><span class="diczx1">欲以吏事中商。&mdash;&mdash;<span class="smcs">《汉书&middot;何武传》</span>。注:&ldquo;伤之也。&rdquo;</span></p>
+<p><span class="diczx1">或言鹿，</span><span class="diczx2">高</span>因阴中诸言鹿者以法。&mdash;&mdash;<span class="smcs">《史记》</span></p>
+<p><span class="diczx3">又如:中陷(中伤陷害);中人(伤害人)</span></p>
+<p><span class="cino">(4)</span> 合于;符合 <span class="encs">[tally with;accord with]</span></p>
+<p><span class="diczx1">砉然向然，奏刀騞然，莫不中音。(中音，合乎音律。)&mdash;&mdash;<span class="smcs">《庄子&middot;养生主》</span></span></p>
+<p><span class="diczx1">其曲中规。(它的曲度符合圆规所画出的标准。其，代车轮，相当于&ldquo;它的&rdquo;。中，动词，合乎。规，圆规。)&mdash;&mdash;<span class="smcs">《荀子&middot;劝学》</span></span></p>
+<p><span class="diczx1">木直中绳。</span></p>
+<p><span class="diczx1">不中于款。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx3">又如:中节(合乎规定);中墨(符合准绳);中准(符合水准);中水(符合水平面标准);中绳(符合墨线)</span></p>
+<p><span class="cino">(5)</span> 考取;录取 <span class="encs">[pass an entrance examination;enroll]</span></p>
+<p><span class="diczx1">后来</span><span class="diczx2">孟沂</span>中了进士。&mdash;&mdash;<span class="smcs">《二刻拍案惊奇》</span></p>
+<p><span class="diczx3">又如:中才(科举考试的中式之才);中元(高中);中签(填写考中者的标签);中榜(中式);中眉(中榜);中第(中选)</span></p>
+<p><span class="cino">(6)</span> 得到 <span class="encs">[get]</span></p>
+<p><span class="diczx1">这龟儿，就是中了头奖，什么人还想沾你一文钱吗?&mdash;&mdash;</span><span class="diczx2">沙汀</span><span class="smcs">《丁跛公》</span></p>
+<p><span class="diczx3">又如:中失(得失)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p>
+<p>◎ <strong>中</strong> <span class="dicpy">zh&ograve;ng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zh&ograve;ng.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 满，充满 <span class="encs">[full]</span></p>
+<p><span class="diczx1">令其量中，必善美而已。&mdash;&mdash;<span class="smcs">《汉书》</span></span></p>
+<p><span class="diczx3">又如:中寿(寿满)</span></p>
+<p><span class="cino">(2)</span> 通&ldquo;仲&rdquo;。位居第二的 <span class="encs">[second]</span></p>
+<p><span class="diczx1">中春，教振旅，</span><span class="diczx2">司马</span>以旗致民。&mdash;&mdash;<span class="smcs">《周礼&middot;夏官&middot;司马》</span></p>
+<p><span class="diczx1">中祀大交霍山。&mdash;&mdash;<span class="smcs">《尚书大传&middot;虞夏传》</span>。注:&ldquo;中，仲也。&rdquo;</span></p>
+<p><span class="diczx1">至中冬而盛。&mdash;&mdash;<span class="smcs">《春秋繁露&middot;循天之道》</span></span></p>
+<p><span class="diczx3">又如:中秋(秋季的第二个月);中春(春季的第二个月)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">zhōng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhōng.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" />
+<p>&nbsp;</p><div class="cit type-xxjs"><span class="crefe"><a href="/hans/中标">中标</a></span><span class="crefe"><a href="/hans/中彩">中彩</a></span><span class="crefe"><a href="/hans/中弹">中弹</a></span><span class="crefe"><a href="/hans/中毒">中毒</a></span><span class="crefe"><a href="/hans/中风">中风</a></span><span class="crefe"><a href="/hans/中计">中计</a></span><span class="crefe"><a href="/hans/中奖">中奖</a></span><span class="crefe"><a href="/hans/中举">中举</a></span><span class="crefe"><a href="/hans/中肯">中肯</a></span><span class="crefe"><a href="/hans/中魔">中魔</a></span><span class="crefe"><a href="/hans/中签">中签</a></span><span class="crefe"><a href="/hans/中伤">中伤</a></span><span class="crefe"><a href="/hans/中式">中式</a></span><span class="crefe"><a href="/hans/中试">中试</a></span><span class="crefe"><a href="/hans/中暑">中暑</a></span><span class="crefe"><a href="/hans/中邪">中邪</a></span><span class="crefe"><a href="/hans/中选">中选</a></span><span class="crefe"><a href="/hans/中意">中意</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>中</rb></rbc><rtc><rt>ㄓㄨㄥ</rt></rtc><rtc><rt>zhōng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4601.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">距離四方或兩端相等的部位。</span><span class="gc_lz">如：「居中」、「中央」、「日正當中」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">內、裡面。</span><span class="gc_lz">如：「水中」、「夢中」、「心中」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">泛指某一時期以內。</span><span class="gc_lz">如：「一年之中」、「晉太元中」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">中華民國的簡稱。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如漢代有中京。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">居間介紹、連絡的。</span><span class="gc_lz">如：「中人」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">居於高低、大小、好壞之間的。</span><span class="gc_lz">如：「中級」、「中型」、「中等」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">半。</span><span class="gc_lz">如：「中夜」、「中途」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">正好。</span><span class="gc_lz">如：「適中」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">表示動作正在進行。</span><span class="gc_lz">如：「事情正在交涉中。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>中</rb></rbc><rtc><rt>ㄓㄨㄥˋ</rt></rtc><rtc><rt>zh&ograve;ng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4615.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">達到要點。</span><span class="gc_yy">《論語&middot;子路》：「刑罰不中，則民無所錯手足。」</span><span class="gc_yy">《漢書&middot;卷一○&middot;成帝紀》：「朕涉道日寡，舉錯不中。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">合、正對上。</span><span class="gc_lz">如：「中規中矩」。</span><span class="gc_yy">《左傳&middot;定公元年》：「未嘗不中吾志也。」</span><span class="gc_yy">《戰國策&middot;西周策》：「去柳葉者百步而射之，百發百中。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">遭受、感染。</span><span class="gc_lz">如：「中風」、「中毒」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">得。</span><span class="gc_lz">如：「中獎」、「中籤」、「中選」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">考取。</span><span class="gc_lz">如：「范進中舉」、「考中大學」。</span><span class="gc_yy">《儒林外史&middot;第二回》：「這王大老爺，就是前科新中的。」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E2D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=丨" target="_blank">丨</a>】
+                              中·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=丨" target="_blank">丨</a>】
+                              中·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：3</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E2D.svg">						  <p>〔古文〕<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20067.svg'><span class='k_txt'>𠁧</span><img class='lazy k_img' data-original='//img.zdic.net/song/cn/20069.svg'><span class='k_txt'>𠁩</span>【唐韻】陟弓切【集韻】【韻會】【正韻】陟隆切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音忠。【書&middot;大禹謨】允執厥中。【周禮&middot;地官&middot;大司徒】以五禮防民僞，而敎之中。【左傳&middot;成十三年】劉子曰：民受天地之中以生。</p>
+<p>又【左傳&middot;文元年】舉正於中，民則不惑。【註】舉中氣也。</p>
+<p>又司中，星名。在太微垣。【周禮&middot;春官&middot;大宗伯】以槱燎祀司中司命飌師雨師。</p>
+<p>又【前漢&middot;律歷志】春爲陽中，萬物以生。秋爲隂中，萬物以成。</p>
+<p>又中央，四方之中也。【書&middot;召誥】王來紹上帝，自服于土中。【註】洛爲天地之中。【張衡&middot;東京賦】宅中圓大。</p>
+<p>又正也。【禮&middot;儒行】儒有衣冠中。【周禮&middot;秋官&middot;司刺】以此三法者求民情，斷民中，施上服下服之罪。【註】斷民罪，使輕重得中也。</p>
+<p>又心也。【史記&middot;韓安國傳】深中寬厚。</p>
+<p>又內也。【易&middot;坤卦】黃裳元吉，文在中也。</p>
+<p>又【老子&middot;道德經】多言數窮，不如守中。</p>
+<p>又半也。【列子&middot;力命篇】得亦中，亡亦中。【魏志&middot;管輅傳】鼓一中。【註】猶言鼓一半也。</p>
+<p>又成也。【禮&middot;禮器】因名山升中于天。【註】中，猶成也。燔柴祭天，告以諸侯之成功也。</p>
+<p>又滿也。【前漢&middot;百官表】制中二千石。【註】謂滿二千石也。【索隱】漢制，九卿已上，秩一歲，滿二千石。</p>
+<p>又穿也。【周禮&middot;冬官考工記】中其莖。【註】謂穿之也。</p>
+<p>又盛算器。【禮&middot;投壺】主人奉矢，司射奉中。【註】士鹿中，大夫兕中，刻木如兕鹿而伏，背上立圓圈，以盛算也。</p>
+<p>又【禮&middot;深衣註】衣有表者，謂之中衣。與衷通。</p>
+<p>又俚語。以不可爲不中。【蕭參希通錄】引左傳成公二年，無能爲役。杜預註：不中爲之役使。</p>
+<p>又【禮&middot;鄕飲酒義】冬之爲言中也。中者，藏也。</p>
+<p>又姓。漢少府卿中京。</p>
+<p>又中行，中英，中梁，中壘，中野，皆複姓。</p>
+<p>又【廣韻】【集韻】【韻會】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>陟仲切，音妕。矢至的曰中。【史記&middot;周本紀】養由基去柳葉百步，射之，百發百中。</p>
+<p>又著其中曰中。【莊子&middot;達生篇】中身當心則爲病，猶醫書中風，中暑是也。</p>
+<p>又要也。【周禮&middot;春官】凡官府鄕州及都鄙之治中，受而藏之。【註】謂治職簿書之要也。</p>
+<p>又應也。【禮&middot;月令】律中大簇。【註】中猶應也。</p>
+<p>又合也。【左傳&middot;定元年】季孫曰：子家子亟言於我，未嘗不中吾志也。</p>
+<p>又【類篇】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>直衆切。與仲通。【禮&middot;月令】中呂，卽仲呂，　又讀作得。【周禮&middot;地官】師氏掌國中失之事。【註】故書中爲得。陸德明云：中，杜音得。</p>
+<p>又【韻補】叶陟良切，音章。師古曰：古讀中爲章。【吳志&middot;胡綜傳&middot;黃龍大牙賦】四靈旣布，黃龍處中。周制日月，是曰太常。</p>
+<p>又叶諸仍切，音征。【劉貢父&middot;詩話】關中讀中爲<img class='lazy k_img' data-original='//img.zdic.net/song/cn/241CF.svg'><span class='k_txt'>𤇏</span>。【詩&middot;大雅】泉之竭兮，不云自中。叶上頻。【班固&middot;高祖泗水亭<img class='lazy k_img' data-original='//img.zdic.net/song/cn/254D3.svg'><span class='k_txt'>𥓓</span>】天期乗祚受爵漢中。叶下秦。古東韻與庚陽通。　俗讀中酒之中爲去聲。中與之中爲平聲。◎按《魏志&middot;徐邈傳》：邈爲尚書郞，時禁酒。邈私飮沈醉，趙達問以曹事，曰中聖人。時謂酒淸爲聖人，濁者爲賢人。蘇軾詩：公特未知其趣耳，臣今時復一中之。則中酒之中，亦可讀平聲。《通鑑》：周宣王成中與之名，註：當也。杜詩：今朝漢社稷，新數中與年。則中與之中亦可讀去聲。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E2D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=丨">丨</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=丨">丨</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4E2D.svg">                          <p>内也。从口。丨，上下通。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20067.svg'><span class='k_txt'>𠁧</span>，古文中。<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20069.svg'><span class='k_txt'>𠁩</span>，籒文中。陟弓切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E2D_28.svg" /><span class="swbf">(中)</span><span class="ywyy">內也。</span><span class="swdz">俗本和也，非是。當作內也。宋麻沙本作肉也，一本作而也，正皆內之譌。入部曰：內者，入也。入者，內也。然則中者，别於外之辭也，别於偏之辭也，亦合宜之辭也。作內，則此字平聲去聲之義無不賅矣。許以和爲唱和字，龢爲諧龢字，龢和皆非中之訓也。周禮中失卽得失。</span><span class="ywyy">从口丨。下上通也。</span><span class="swdz">按中字會意之恉，必當从口，音圍。衞宏説：<img class='lazy k_img' data-original='//img.zdic.net/song/cn/24C06.svg'><span class='k_txt'>𤰆</span>（用）字从卜中。則中之不从口明矣。俗皆从口，失之。云下上通者，謂中直或引而上或引而下皆入其內也。陟弓切。九部。</span></p>
+<hr />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E2D_29.svg" /><span class="swbf">(<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20067.svg'><span class='k_txt'>𠁧</span>)</span><span class="ywyy">古文中。</span><span class="swdz">此字可疑，豈淺人誤以屈中之虫入此歟。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E2D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂuŋ˥; tʂuŋ˥˧ <span class="z_ts4">唐代读音</span>  *djiùng djiung<span class="z_ts4">日语读音</span>  NAKA UCHI ATARU<span class="z_ts4">韩语罗马</span>  CWUNG<span class="z_ts4">现代韩语</span>  중<span class="z_ts3">越南语</span>  trung</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] zhung1 zhung5 dung1 [宝安腔] zung1 | zung5 [客语拼音字汇] dung4 zung1 zung4 [客英字典] zhung1 zhung5 [东莞腔] zung1 zung5 [沙头角腔] zung1 zung5 [陆丰腔] zhung1 zhung5 [海陆腔] zhung1 dung1 zhung5 [台湾四县腔] zung1 dung1 zung5  [梅县腔] zung5<span class="z_ts2">粤语</span>  zung1 zung3<span class="z_ts3">潮州话</span>  dong1 dang1 dong3【潮阳】diong1. ～ .diong3</p>						<p><span class="z_ts3">近代音</span>  照母    東鍾韻    平聲陰    鍾小空；照母    東鍾韻    去聲    衆小空；<span class="z_ts3">中古音</span>  知母    東韻    平聲    中小韻    陟弓切    三等    合口；知母    送韻    去聲    中小韻    陟仲切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：端母    冬部   ；端母    冬部   ；王力系统：端母    冬部   ；端母    冬部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/中">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/中">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/中">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/中">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/中">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/中">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/中">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/中">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/中">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/中">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/中">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/中">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">中</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/中"><img data-original="//img.zdic.net/zy/jiaguwen/41_E251.svg" class="lazy ypic"><span>「中」 甲398</span><span>合32500</span></a></td><td><a href="/zd/zx/jw/中"><img data-original="//img.zdic.net/zy/jinwen/31_E289.svg" class="lazy ypic"><span>「中」 𢓊中且觶</span><span>商代晚期</span><span>集成6213</span></a></td><td><a href="/zd/zx/cx/中"><img data-original="//img.zdic.net/zy/chuwenzi/55_E395.svg" class="lazy ypic"><span>「中」 郭.語1.21</span></a></td><td><a href="/zd/zx/xz/中"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F35F.svg" class="lazy ypic"><span>「中」 說文古文</span></a></td><td><a href="/zd/zx/qx/中"><img data-original="//img.zdic.net/zy/qinwenzi/71_E04A.svg" class="lazy ypic"><span>「中」 睡.秦197</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/中" target="_blank"><img data-original="//img.zdic.net/kai/tw/4E2D.svg" class="lazy ypic"><span>「中」</span></a></td></tr><tr><td><a href="/zd/zx/jg/中"><img data-original="//img.zdic.net/zy/jiaguwen/41_E265.svg" class="lazy ypic"><span>「中」 安9.3</span><span>合26700</span></a></td><td><a href="/zd/zx/jw/中"><img data-original="//img.zdic.net/zy/jinwen/31_E28F.svg" class="lazy ypic"><span>「中」 中婦鼎</span><span>西周早期</span><span>集成1714</span></a></td><td><a href="/zd/zx/cx/中"><img data-original="//img.zdic.net/zy/chuwenzi/51_E377.svg" class="lazy ypic"><span>「中」 包2.140反</span></a></td><td><a href="/zd/zx/xz/中"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F2E7.svg" class="lazy ypic"><span>「中」 說文籀文</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/中"><img data-original="//img.zdic.net/zy/jiaguwen/42_EE14.svg" class="lazy ypic"><span>「㫃」 前5.6.1</span><span>合35347</span></a></td><td></td><td></td><td><a href="/zd/zx/xz/中"><img data-original="//img.zdic.net/zy/xiaozhuan/27_4E2D.svg" class="lazy ypic"><span>「中」 說文‧丨部</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/中">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/中">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/中">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/中">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/中">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/中">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E2D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E2D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E2D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E2D.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4E2D.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/𠁦' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20066.svg'><span>𠁦</span></a></div>  <div class='zx'><a href='/hans/𠁧' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20067.svg'><span>𠁧</span></a></div>  <div class='zx'><a href='/hans/𠁩' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20069.svg'><span>𠁩</span></a></div>  <div class='zx'><a href='/hans/𠔈' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20508.svg'><span>𠔈</span></a></div>  <div class='zx'><a href='/hans/𠔗' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20517.svg'><span>𠔗</span></a></div>  <div class='zx'><a href='/hans/仲' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4EF2.svg'><span>仲</span></a></div> <div class='zx'><a href='/hans/𡖌' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/2158C.svg'><span>𡖌</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="46" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7860">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/钟">钟(zhong1)</a></li><li><a href="/hans/鼨">鼨(zhong1)</a></li><li><a href="/hans/忪">忪(zhong1)</a></li><li><a href="/hans/刣">刣(zhong1)</a></li><li><a href="/hans/盅">盅(zhong1)</a></li><li><a href="/hans/泈">泈(zhong1)</a></li><li><a href="/hans/蔠">蔠(zhong1)</a></li><li><a href="/hans/蹱">蹱(zhong1)</a></li><li><a href="/hans/銿">銿(zhong1)</a></li><li><a href="/hans/㹣">㹣(zhong1)</a></li><li><a href="/hans/伀">伀(zhong1)</a></li><li><a href="/hans/𠁧">𠁧(zhong1)</a></li><li><a href="/hans/䱰">䱰(zhong4)</a></li><li><a href="/hans/筗">筗(zhong4)</a></li><li><a href="/hans/㲴">㲴(zhong4)</a></li><li><a href="/hans/种">种(zhong4)</a></li><li><a href="/hans/㐺">㐺(zhong4)</a></li><li><a href="/hans/眾">眾(zhong4)</a></li><li><a href="/hans/偅">偅(zhong4)</a></li><li><a href="/hans/媑">媑(zhong4)</a></li><li><a href="/hans/衶">衶(zhong4)</a></li><li><a href="/hans/狆">狆(zhong4)</a></li><li><a href="/hans/蚛">蚛(zhong4)</a></li><li><a href="/hans/祌">祌(zhong4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠁶">𠁶</a></li><li><a href="/hans/𠁯">𠁯</a></li><li><a href="/hans/𠁱">𠁱</a></li><li><a href="/hans/串">串</a></li><li><a href="/hans/𠁡">𠁡</a></li><li><a href="/hans/卥">卥</a></li><li><a href="/hans/丱">丱</a></li><li><a href="/hans/串">串</a></li><li><a href="/hans/𠁻">𠁻</a></li><li><a href="/hans/临">临</a></li><li><a href="/hans/丨">丨</a></li><li><a href="/hans/𠁮">𠁮</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/书">书</a></li><li><a href="/hans/见">见</a></li><li><a href="/hans/𠔃">𠔃</a></li><li><a href="/hans/𠃝">𠃝</a></li><li><a href="/hans/尤">尤</a></li><li><a href="/hans/㕕">㕕</a></li><li><a href="/hans/仏">仏</a></li><li><a href="/hans/刈">刈</a></li><li><a href="/hans/𠃖">𠃖</a></li><li><a href="/hans/攴">攴</a></li><li><a href="/hans/𠆧">𠆧</a></li><li><a href="/hans/㞢">㞢</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">谁知盘<span>中</span>餐，粒粒皆辛苦。</div><div class="gscdr">《悯农》(其二)</div><div class="gscdl">只在此山<span>中</span>，云深不知处</div><div class="gscdr">唐·贾岛 《寻隐者不遇》</div><div class="gscdl">毕竟西湖六月<span>中</span>，风光不与四时同。</div><div class="gscdr">宋·杨万里 《晓出净慈寺送林子方》</div><div class="gscdl">天门<span>中</span>断楚江开，碧水东流至此回。</div><div class="gscdr">唐·李白 《望天门山》</div><div class="gscdl">乱入池<span>中</span>看不见，闻歌始觉有人来。</div><div class="gscdr">唐·王昌龄 《采莲曲》</div><div class="gscdl">爆竹声<span>中</span>一岁除，春风送暖入屠苏。</div><div class="gscdr">宋·王安石 《元日》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">日月之行，若出其<span>中</span>。</div><div class="gscdr">汉·曹操 《观沧海》</div><div class="gscdl">兄子胡儿曰：“撒盐空<span>中</span>差可拟。”</div><div class="gscdr">南北朝·刘义庆   世说新语《咏雪》</div><div class="gscdl">陈太丘与友期行，期日<span>中</span>。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">过<span>中</span>不至，太丘舍去，去后乃至。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">元方曰：“君与家君期日<span>中</span>。”</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">“日<span>中</span>不至，则是无信；对子骂父，则是无礼。”友人惭，下车引之。元方入门不顾。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=46"></script>
+</body>
+</html>

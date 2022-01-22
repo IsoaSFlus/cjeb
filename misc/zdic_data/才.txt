@@ -1,0 +1,648 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>才的解释|才的意思|汉典“才”字的基本解释</title>
+<meta name="title" content="才的解释|才的意思|汉典“才”字的基本解释">
+<meta name="keywords" content="|才|" /><meta property="og:title" content="“才”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“才”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“才”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/才" />
+<link rel="canonical" href="//www.zdic.net/hans/才" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/才" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/才" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/才" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/才">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/才">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/624D.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/624D.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">cái<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“才”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cái.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄘㄞˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“才”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘㄞˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">  扌</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_ytz2"><a href='/hans/哉' target=_blank>哉</a> <a href='/hans/纔' target=_blank>纔</a> <a href='/hans/𧴶' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/27D36.svg'><span class='ytz_txt'>𧴶</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+624D</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>123</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>fte</p></td>                            <td class="dsk_2_1"><p>dh</p></td>                            <td class="dsk_2_1"><p>dmvv</p></td>                            <td class="dsk_2_1"><p>40200</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">cái<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“才”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/cái.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄘㄞˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“才”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄘㄞˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">扌</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 624D<span class="z_ts2">笔顺</span> 123                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="624D_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=5198" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>才</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">➌纔</span>）</strong></p><p><span class="dicpy">c&aacute;i  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> ㄘㄞˊ</span></p><hr class="dichr" /><ol>	<li>能力：～能。口～。这人很有～干。</li>	<li>从才能方面指某类人：干（g&agrave;n）～。奇～。奴～。蠢～。</li>	<li>副词。①方，始：昨天～来。现在～懂得这个道理。②仅仅：～用了两元。来了～十天。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> talent, ability; just, only</p><p><span class="z_ts2">德语</span> Befähigung, Begabung, Talent, großes Können  (S)​,ein großes Talent, ein hervorragendes Talent  (S)​,doch, gewiss, wahrhaftig, in der Tat  (Konj)​,erst, nur  (Konj)​,nicht früher als, erst wenn, erst nachdem  (Konj)​,vor kurzer Zeit, gerade, soeben, eben erst  (Konj)</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>才</strong> <span class="dicpy">c&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> (象形。甲骨文字形，上面一横表示土地，下面象草木的茎(嫩芽)刚刚出土，其枝叶尚未出土的样子。本义:草木初生)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[(plant) newborn]</span></p>
+<p><span class="diczx1">才，草木之初也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="cino">(3)</span> 有才能;有本领 <span class="encs">[talented]</span></p>
+<p><span class="diczx1">试使斗而才。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx3">又如:才郎(有才学的郎君);才哲(才智卓越的人);才雄(杰出的人才);才英(指才华杰出的文人);才杰(杰出的人才)</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>才</strong> <span class="dicpy">c&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p><span class="cino">(1)</span> 才力;才能 <span class="encs">[ability]</span></p>
+<p><span class="diczx1">任人之才。&mdash;&mdash;<span class="smcs">《淮南子&middot;主术》</span></span></p>
+<p><span class="diczx1">虽才高于世，而无骄尚之情。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx1">况</span><span class="diczx2">刘豫州</span>王室之胄，英才盖世。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx3">又如:才伐(才力门望);才格(才能。一说指才能高低的程度);才望(才能与名望);才理(才力和思路);才笔(写作的才华);才义(才思和义理)</span></p>
+<p><span class="cino">(2)</span> 人才。常写作&ldquo;材&rdquo; <span class="encs">[talent]</span></p>
+<p><span class="diczx1">乐里多才。&mdash;&mdash;<span class="smcs">《列子&middot;仲尼》</span></span></p>
+<p><span class="diczx1">举贤才。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">救时应仗出群才。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">秋瑾</span><span class="smcs">《黄海舟中》</span></p>
+<p><span class="diczx3">又如:唯才是举;干才;广开才路;栋梁之才;廊庙之才</span></p>
+<p><span class="cino">(3)</span> 天赋的特殊才能 <span class="encs">[gift]</span>。</p>
+<p><span class="diczx3">如:诗才;才调(才情风格)</span></p>
+<p><span class="cino">(4)</span> 从才能方面指某类人 <span class="encs">[person in regard to capability， personality， character]</span></p>
+<p><span class="diczx1">夫</span><span class="diczx2">管子</span>，天下之才也。&mdash;&mdash;<span class="smcs">《国语&middot;齐语》</span></p>
+<p><span class="diczx3">又如∶奴才;蠢才;天才;人才</span></p>
+<p><span class="cino">(5)</span> 通&ldquo;材&rdquo;。材资;本能 <span class="encs">[aptitude]</span></p>
+<p><span class="diczx1">非天之降才尔殊也。&mdash;&mdash;<span class="smcs">《孟子&middot;告子上》</span></span></p>
+<p><span class="diczx1">才能不及中人。&mdash;&mdash;<span class="smcs">《史记&middot;李将军列传》</span></span></p>
+<p><span class="diczx2">西门豹</span>治 <span class="diczx2">邺</span>，民不敢欺，三子之才能，谁最贤哉?&mdash;&mdash;<span class="smcs">《史记&middot;滑稽列传》</span></p>
+<p><span class="diczx1">五才之用，无或可废。&mdash;&mdash;<span class="smcs">《后汉书&middot;马融传》</span></span></p>
+<p><span class="diczx1">木有用叫做&ldquo;材&rdquo;，物有用叫做&ldquo;财&rdquo;，人有用叫做&ldquo;才&rdquo;。故&ldquo;材&rdquo;、&ldquo;财&rdquo;、&ldquo;才&rdquo;三字同源。&mdash;&mdash;</span><span class="diczx2">王力</span><span class="smcs">《同源字典》</span></p>
+<p><span class="diczx1">当今乏才，以尔为柱石之用，莫倾人栋梁。&mdash;&mdash;<span class="smcs">《世说新语&middot;规箴》</span></span></p>
+<p><span class="cino">(6)</span> 姓</p>
+<p>◎ <strong>才</strong></p>
+<p>纔 <span class="dicpy">c&aacute;i</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/c&aacute;i.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 刚刚 <span class="encs">[just]</span></p>
+<p><span class="diczx1">才数月耳。&mdash;&mdash;<span class="smcs">《汉书&middot;贾才传》</span></span></p>
+<p><span class="diczx1">远县才至，则胡又已去。&mdash;&mdash;<span class="smcs">《汉书&middot;晁错传》</span></span></p>
+<p><span class="diczx1">此印者才毕，则第二板已具。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx3">又如:刚才(刚要，刚刚);方才(才，刚刚)</span></p>
+<p><span class="cino">(2)</span> 这样迟，这么迟 <span class="encs">[so late]</span>&mdash;&mdash;前面有问原因的疑问词语。</p>
+<p><span class="diczx3">如:你怎么才来?</span></p>
+<p><span class="cino">(3)</span> 仅，只 <span class="encs">[only]</span>&mdash;&mdash;表示数量少，程度低</p>
+<p><span class="diczx1">初极狭，才通人。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">浅草才能没马蹄。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《钱塘湖春行》</span></p>
+<p><span class="diczx3">又如:一共才十个，不够分;才属(仅能连续)</span></p>
+<p><span class="cino">(4)</span> 表示只有在某种条件下或由于某种原因、目的而能怎么样。用于后一分句，前一小句常有&ldquo;只有、必须、要、因为、由于&rdquo;等词语 <span class="encs">[then;then and only then]</span></p>
+<p><span class="diczx1">惟正月才生魄。&mdash;&mdash;<span class="smcs">《晋书&middot;夏侯湛传昆弟诰》</span></span></p>
+<p><span class="diczx1">才小富贵，便豫人家事。&mdash;&mdash;<span class="smcs">《晋书&middot;谢混传》</span></span></p>
+<p><span class="diczx3">又如:要多练习，才能提高成绩;正因为有困难，才派我们去</span></p>
+<p><span class="cino">(5)</span> 强调确定语气 <span class="encs">[indeed]</span></p>
+<p><span class="cino">(6)</span> 才+形+呢。主要强调程度高。</p>
+<p><span class="diczx3">如:这才好呢!</span></p>
+<p><span class="cino">(7)</span> 才+<span class="encs">[是]</span>&hellip;。含有&ldquo;别的不是&rdquo;的意味。</p>
+<p><span class="diczx3">如:这才是好样的!</span></p>
+<p><span class="cino">(8)</span> 才<span class="encs">[+不]</span>+动+呢。肯定句少用。</p>
+<p><span class="diczx3">如:我才不去呢!</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/才调">才调</a></span><span class="crefe"><a href="/hans/才分">才分</a></span><span class="crefe"><a href="/hans/才干">才干</a></span><span class="crefe"><a href="/hans/才高八斗">才高八斗</a></span><span class="crefe"><a href="/hans/才高行洁">才高行洁</a></span><span class="crefe"><a href="/hans/才华">才华</a></span><span class="crefe"><a href="/hans/才力">才力</a></span><span class="crefe"><a href="/hans/才略">才略</a></span><span class="crefe"><a href="/hans/才貌">才貌</a></span><span class="crefe"><a href="/hans/才貌双全">才貌双全</a></span><span class="crefe"><a href="/hans/才能">才能</a></span><span class="crefe"><a href="/hans/才能">才能</a></span><span class="crefe"><a href="/hans/才气">才气</a></span><span class="crefe"><a href="/hans/才人">才人</a></span><span class="crefe"><a href="/hans/才识">才识</a></span><span class="crefe"><a href="/hans/才疏学浅">才疏学浅</a></span><span class="crefe"><a href="/hans/才思">才思</a></span><span class="crefe"><a href="/hans/才学">才学</a></span><span class="crefe"><a href="/hans/才智">才智</a></span><span class="crefe"><a href="/hans/才子">才子</a></span><span class="crefe"><a href="/hans/才子佳人">才子佳人</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>才</rb></rbc><rtc><rt>ㄘㄞˊ</rt></rtc><rtc><rt>c&aacute;i <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5446.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">天賦的能力、稟性。</span><span class="gc_yy">《孟子&middot;告子上》：「富歲子弟多賴，凶歲子弟多暴，非天之降<b>才</b>爾殊也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">力量、智慧。</span><span class="gc_yy">《詩經&middot;魯頌&middot;駉》：「思無期，思馬斯<b>才</b>。」</span><span class="gc_yy">漢&middot;王充《論衡&middot;實知》：「人<b>才</b>有高下，知物由學，學之乃知，不問不識。」</span><span class="gc_yx">通「材」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">有才能、智慧的人。</span><span class="gc_lz">如：「天<b>才</b>」、「英<b>才</b>」、「幹<b>才</b>」。</span><span class="gc_yy">《孟子&middot;離婁下》：「中也養不中，<b>才</b>也養不<b>才</b>。」</span><span class="gc_yy">《禮記&middot;文王世子》：「凡語于郊者，必取賢斂<b>才</b>焉。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">諷稱某類的人。</span><span class="gc_lz">如：「蠢<b>才</b>」、「奴<b>才</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如明代有才寬。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">方、始。</span><span class="gc_lz">如：「剛<b>才</b>」、「方<b>才</b>」、「戲<b>才</b>開鑼」、「呆了半晌，我<b>才</b>會意過來。」</span><span class="gc_yy">《晉書&middot;卷七九&middot;謝安傳》：「<b>才</b>小富貴，便豫人家事。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">僅。</span><span class="gc_lz">如：「他今年<b>才</b>五歲。」、「我身上<b>才</b>帶五塊錢。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">表示強調的語氣。</span><span class="gc_lz">如：「我<b>才</b>不幹呢！」、「他哪有累？我<b>才</b>累呢！」</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="624D_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=手" target="_blank">手</a>】
+                              才·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=手" target="_blank">手</a>】
+                              才·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/624D.svg">						  <p>【唐韻】昨哉切【集韻】【韻會】【正韻】牆來切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音裁。【說文】艸木之初也。从丨，上貫一，將生枝葉。一，地也。【徐曰】上一，初生岐枝。下一，地也。【六書正譌】才，木質也。在地爲木，旣伐爲才，象其枝根斬伐之餘。从木省。別作材，非。</p><p>又天地人爲三才。【易&middot;繫辭】有天道焉，有人道焉，有地道焉。兼三才而兩之，故六。　一曰能也。【禮&middot;文王世子】必取賢斂才焉。【論語】才難，不其然乎。【前漢&middot;武帝紀】其令州縣舉茂才異等。【唐書&middot;百官志】擇人以四才。【邵堯夫曰】臨大事然後見才之難。才者，天之良質也，學者所以成其才也。</p><p>又質也，力也。【詩&middot;魯頌】思無期，思馬斯才。【傳】多材也。【孟子】非天之降才爾殊也。【近思錄】性出於天，才出於氣，氣淸則才淸，氣濁則才濁。</p><p>又姓。明尙書才寬。</p><p>又【集韻】通作材。【說文】材，水挺也。从木，才聲。【徐曰】木勁直可用，故曰入山掄可爲材者。人之有才，義出於此。</p><p>又【正韻】與纔通。古用才爲纔始字。【晉書&middot;謝混傳】才小冨貴，便豫人家事。</p><p>又與裁通。【戰國策】惟王才之。</p><p>又與財通。【前漢&middot;揚雄傳】財足以奉宗廟。</p><p>又【集韻】將來切，與哉同。亦始也。【爾雅&middot;釋詁疏】哉，古文作才。以聲近，借爲哉始之哉。</p><p>又作代切，音再。義同。</p><p>又叶卽由切，音遒。【焦氏&middot;易林】季子多才，使我不憂。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="624D_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=才">才</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷六">卷六</a>】【<a href="/zd/sw/?swju=卷六&amp;swbs=才">才</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/624D.svg">                          <p>艸木之初也。从丨上貫一，將生枝葉。一，地也。凡才之屬皆从才。昨哉切〖注〗徐鍇曰：&ldquo;上一，初生歧枝也。下一，地也。&rdquo;文一</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/624D_2161.svg" /><span class="swbf">(才)</span><span class="ywyy">艸木之初也。</span><span class="swdz">引伸爲凡始之偁。釋詁曰：初哉，始也哉，卽才。故哉生明亦作才生明。凡才材財裁纔字以同音通用。</span><span class="ywyy">從丨上貫一。將生枝葉也。一，</span><span class="swdz">逗，</span><span class="ywyy">地也。</span><span class="swdz">一謂上畫也。將生枝葉謂下畫。才有莖出地而枝葉未出，故曰將。艸木之初而枝葉畢寓焉，生人之初而萬善畢具焉，故人之能曰才，言人之所藴也。凡艸木之字。才者，初生而枝葉未見也。屮者，生而有莖有枝也。㞢者，枝莖益大也。出者，益茲上進也。此四字之先後次弟。昨哉切。一部。</span><span class="ywyy">凡才之屬皆從才。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="624D_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tsʰĄi˧˥ <span class="z_ts4">唐代读音</span>  *dzhəi<span class="z_ts4">日语读音</span>  WAZUKANI ZAE<span class="z_ts4">韩语罗马</span>  CAY<span class="z_ts4">现代韩语</span>  재<span class="z_ts3">越南语</span>  tài</p>						<p><span class="z_ts3">客家话</span>  [客英字典] coi2 [台湾四县腔] coi2 [客语拼音字汇] coi2 [海陆腔] coi2 [梅县腔] coi2 [陆丰腔] coi3 [东莞腔] coi2 [沙头角腔] coi2 [宝安腔] coi2<span class="z_ts2">粤语</span>  coi4<span class="z_ts3">潮州话</span>  cai5 zai5</p>						<p><span class="z_ts3">近代音</span>  清母    皆來韻    平聲陽    才小空；<span class="z_ts3">中古音</span>  從母    咍韻    平聲    裁小韻    昨哉切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：清母    咍部   ；王力系统：清母    之部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/才">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/才">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/才">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/才">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/才">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/才">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/才">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/才">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/才">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/才">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/才">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/才">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">才</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/才"><img data-original="//img.zdic.net/zy/jiaguwen/42_EB7E.svg" class="lazy ypic"><span>「才」 甲2908反</span><span>合19946反</span></a></td><td><a href="/zd/zx/jw/才"><img data-original="//img.zdic.net/zy/jinwen/32_EAEE.svg" class="lazy ypic"><span>「才」 才父戊爵</span><span>商代晚期</span><span>集成8535</span></a></td><td><a href="/zd/zx/cx/才"><img data-original="//img.zdic.net/zy/chuwenzi/56_EB92.svg" class="lazy ypic"><span>「才」 郭.語3.15</span></a></td><td><a href="/zd/zx/xz/才"><img data-original="//img.zdic.net/zy/xiaozhuan/27_624D.svg" class="lazy ypic"><span>「才」 說文‧才部</span></a></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/才" target="_blank"><img data-original="//img.zdic.net/kai/tw/624D.svg" class="lazy ypic"><span>「才」</span></a></td></tr><tr><td><a href="/zd/zx/jg/才"><img data-original="//img.zdic.net/zy/jiaguwen/42_EB88.svg" class="lazy ypic"><span>「才」 佚612</span><span>合8334</span></a></td><td><a href="/zd/zx/jw/才"><img data-original="//img.zdic.net/zy/jinwen/32_EAF3.svg" class="lazy ypic"><span>「才」 宰甫卣</span><span>商代晚期</span><span>集成5395</span></a></td><td><a href="/zd/zx/cx/才"><img data-original="//img.zdic.net/zy/chuwenzi/56_EB94.svg" class="lazy ypic"><span>「才」 郭.唐.28</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td><a href="/zd/zx/jg/才"><img data-original="//img.zdic.net/zy/jiaguwen/42_EB7F.svg" class="lazy ypic"><span>「才」 甲2908反</span><span>合19946反</span></a></td><td><a href="/zd/zx/jw/才"><img data-original="//img.zdic.net/zy/jinwen/32_EAEF.svg" class="lazy ypic"><span>「才」 旂鼎</span><span>西周早期</span><span>集成2670</span></a></td><td><a href="/zd/zx/cx/才"><img data-original="//img.zdic.net/zy/chuwenzi/52_E691.svg" class="lazy ypic"><span>「才」 曾77</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/才">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/才">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/才">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/才">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/才">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/才">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/624D.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/624D.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/624D.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/624D.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/624D.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/哉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/54C9.svg'><span>哉</span></a></div> <div class='zx'><a href='/hans/纔' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7E94.svg'><span>纔</span></a></div> <div class='zx'><a href='/hans/𧴶' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/27D36.svg'><span>𧴶</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="5198" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4465">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/财">财(cai2)</a></li><li><a href="/hans/財">財(cai2)</a></li><li><a href="/hans/材">材(cai2)</a></li><li><a href="/hans/纔">纔(cai2)</a></li><li><a href="/hans/扐">扐(cai2)</a></li><li><a href="/hans/㒲">㒲(cai2)</a></li><li><a href="/hans/䴭">䴭(cai2)</a></li><li><a href="/hans/裁">裁(cai2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㧈">㧈</a></li><li><a href="/hans/摒">摒</a></li><li><a href="/hans/㧄">㧄</a></li><li><a href="/hans/㨠">㨠</a></li><li><a href="/hans/振">振</a></li><li><a href="/hans/搶">搶</a></li><li><a href="/hans/挕">挕</a></li><li><a href="/hans/探">探</a></li><li><a href="/hans/擂">擂</a></li><li><a href="/hans/抅">抅</a></li><li><a href="/hans/扲">扲</a></li><li><a href="/hans/撐">撐</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/犭">犭</a></li><li><a href="/hans/𠄑">𠄑</a></li><li><a href="/hans/亽">亽</a></li><li><a href="/hans/宀">宀</a></li><li><a href="/hans/女">女</a></li><li><a href="/hans/勺">勺</a></li><li><a href="/hans/刄">刄</a></li><li><a href="/hans/子">子</a></li><li><a href="/hans/𠔀">𠔀</a></li><li><a href="/hans/兦">兦</a></li><li><a href="/hans/勺">勺</a></li><li><a href="/hans/习">习</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">小荷<span>才</span>露尖尖角，早有蜻蜓立上头。</div><div class="gscdr">宋·杨万里 《小池》</div><div class="gscdl">乡村四月闲人少，<span>才</span>了蚕桑又插田。</div><div class="gscdr">宋·翁卷 《乡村四月》</div><div class="gscdl"><span>才</span>始送春归，又送君归去。</div><div class="gscdr">宋·王观 《卜算子·送鲍浩然之浙东》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">夫学须静也，<span>才</span>须学也，非学无以广<span>才</span>，非志无以成学。</div><div class="gscdr">三国·诸葛亮 《诫子书》</div><div class="gscdl">及鲁肃过寻阳，与蒙论议，大惊曰：“卿今者<span>才</span>略，非复吴下阿蒙！”</div><div class="gscdr">宋·司马光 《孙权劝学》</div><div class="gscdl">杨花榆荚无<span>才</span>思，惟解漫天作雪飞。</div><div class="gscdr">唐·韩愈 《晚春》</div><div class="gscdl">宣室求贤访逐臣，贾生<span>才</span>调更无伦。</div><div class="gscdr">唐·李商隐 《贾生》</div><div class="gscdl">乱花渐欲迷人眼，浅草<span>才</span>能没马蹄。</div><div class="gscdr">唐·白居易 《钱塘湖春行》</div><div class="gscdl">林尽水源，便得一山，山有小口，仿佛若有光。便舍船，从口入。初极狭，<span>才</span>通人。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=5198"></script>
+</body>
+</html>

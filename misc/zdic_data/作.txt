@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>作的解释|作的意思|汉典“作”字的基本解释</title>
+<meta name="title" content="作的解释|作的意思|汉典“作”字的基本解释">
+<meta property="og:title" content="“作”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“作”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“作”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/作" />
+<link rel="canonical" href="//www.zdic.net/hans/作" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/作" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/作" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/作" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/作">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/作">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4F5C.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4F5C.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zuò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“作”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zuò.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄗㄨㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“作”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄗㄨㄛˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亻" target="_blank">  亻</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_ytz2"><a href='/hans/㑅' target=_blank>㑅</a>  <a href='/hans/乍' target=_blank>乍</a>  <a href='/hans/胙' target=_blank>胙</a>  <a href='/hans/𠆯' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/201AF.svg'><span class='ytz_txt'>𠆯</span></a>  <a href='/hans/𠈨' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20228.svg'><span class='ytz_txt'>𠈨</span></a>  <a href='/hans/𢓓' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/224D3.svg'><span class='ytz_txt'>𢓓</span></a>  <a href='/hans/𢼎' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22F0E.svg'><span class='ytz_txt'>𢼎</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4F5C</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>3231211</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>wthf</p></td>                            <td class="dsk_2_1"><p>oos</p></td>                            <td class="dsk_2_1"><p>nmid</p></td>                            <td class="dsk_2_1"><p>28211</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zuò<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“作”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zuò.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄗㄨㄛˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“作”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄗㄨㄛˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=亻" target="_blank">亻</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">统一码</span> 4F5C<span class="z_ts2">笔顺</span> 3231211                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4F5C_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=349" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>作</strong></p>
+<p><span class="dicpy">zu&ograve;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zu&ograve;.mp3"></a></span>  ㄗㄨㄛˋ</span></p>
+<ol>
+	<li>起，兴起，现在起：振～。枪声大～。</li>
+	<li>从事，做工：工～。～息。～业。</li>
+	<li>举行，进行：～别（分别）。～乱。～案。～战。～报告。</li>
+	<li>干出，做出，表现出，制造出：～恶（<span class="dicpy">&egrave;</span>）。～弊。～梗。～祟。～态。～色。～为。～难。～奸犯科（为非作歹，触犯法令）。</li>
+	<li>当成，充当：～罢。～保。～伐（做媒人）。～壁上观（人家交战，自己站在营垒上看，喻坐观别人成败）。</li>
+	<li>创造：创～。写～。～曲。～者。</li>
+	<li>文艺方面的成品：～品。不朽之～。</li>
+	<li>同&ldquo;<span class="diczx3">做</span>&rdquo;。</li>
+	<li>旧时手工业制造加工的场所：～坊。</li>
+	<li>从事某种活动：～揖。～弄。～死。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> make; work; compose, write; act, perform</p><p><span class="z_ts2">德语</span> etw.,jdn. ansehen, etw. (für jdn.)​ nehmen, machen, tun  (V)</p><p><span class="z_ts2">法语</span> faire,apparaître,rédiger,ouvrage,oeuvre,considérer comme</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>作</strong> <span class="dicpy">zuō</span></p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 作坊，手工业工场 <span class="encs">[workshop]</span></p>
+<p><span class="diczx2">明帝</span>方修宫室而节气不合，&hellip;而 <span class="diczx2">礼</span>径至所作，不复重奏，称诏罢民。&mdash;&mdash;<span class="smcs">《三国志&middot;魏志》</span></p>
+<p><span class="diczx3">又如:作房(作坊);作分(作坊);木工作;油漆作;洗衣作</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">zu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zu&ograve;.mp3"></a></span> (除作坊外，其余都读 <span class="dicpy">zu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zu&ograve;.mp3"></a></span> )</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/作坊">作坊</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>作</strong> <span class="dicpy">zu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zu&ograve;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从人，从乍。人突然站起为作。甲骨文字形，象衣领初作的形状。本义:人起身)</p>
+<p><span class="cino">(2)</span> 同本义<span class="encs">[get up]</span></p>
+<p><span class="diczx1">作，起也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">明两作。&mdash;&mdash;<span class="smcs">《易&middot;离》</span></span></p>
+<p><span class="diczx1">作其即位。&mdash;&mdash;<span class="smcs">《书&middot;无逸》</span></span></p>
+<p><span class="diczx1">与子偕作。&mdash;&mdash;<span class="smcs">《诗&middot;秦风&middot;无衣》</span></span></p>
+<p><span class="diczx1">或作而行之。&mdash;&mdash;<span class="smcs">《考工记》</span></span></p>
+<p><span class="diczx1">凡作民。&mdash;&mdash;<span class="smcs">《周礼&middot;士师》</span></span></p>
+<p><span class="diczx1">三献作止爵。&mdash;&mdash;<span class="smcs">《仪礼&middot;特牲礼》</span></span></p>
+<p><span class="diczx1">后圣有作。&mdash;&mdash;<span class="smcs">《礼记&middot;礼运》</span></span></p>
+<p><span class="diczx1">而后作焉。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十三年》</span></span></p>
+<p><span class="diczx1">舍瑟而作。&mdash;&mdash;<span class="smcs">《论语&middot;先进》</span></span></p>
+<p><span class="diczx1">客作而辞。&mdash;&mdash;<span class="smcs">《礼记&middot;少仪》</span></span></p>
+<p><span class="diczx1">如日出时，眠者皆作。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《画佛赞》</span></p>
+<p><span class="diczx1">有洪洞令杜君者，作而言曰。&mdash;&mdash;</span><span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx3">又如:作止(作息;起居)</span></p>
+<p><span class="cino">(3)</span> 起来;开始工作 <span class="encs">[rise; do; make]</span></p>
+<p><span class="diczx1">日出而作，日入而息。&mdash;&mdash;<span class="smcs">《乐府诗集》</span></span></p>
+<p><span class="diczx1">蚤作而夜思。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《送董邵南序》</span></p>
+<p><span class="diczx1">往来种作。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《桃花源记》</span></p>
+<p><span class="diczx1">田家秋作苦，邻女夜春寒。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《宿五松山下荀媪家》</span></p>
+<p><span class="diczx3">又如:作力(出力;使力);作本(务农);作苦(耕作辛苦);作一(劳动专一);作牧(畜牧，放牧);作剧(劳作勤苦);作劳(劳作，劳动);作甚(做什么)</span></p>
+<p><span class="cino">(4)</span> 产生，兴起 <span class="encs">[arise]</span></p>
+<p><span class="diczx2">包牺氏</span>没， <span class="diczx2">神农氏</span>作。&mdash;&mdash;<span class="smcs">《易&middot;系辞下》</span></p>
+<p><span class="diczx2">周秦</span>之际，诸子并作。&mdash;&mdash;<span class="smcs">《论衡》</span></p>
+<p><span class="diczx1">由</span><span class="diczx2">汤</span>至于 <span class="diczx2">武</span>丁，贤圣之君六七作。&mdash;&mdash;<span class="smcs">《孟子&middot;公孙丑下》</span></p>
+<p><span class="diczx1">且王者之不作，未有疏于此时者也。</span></p>
+<p><span class="diczx1">天油然作云。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">坚冰作于履霜，寻木起于蘖栽。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">张衡</span><span class="smcs">《东京赋》</span></p>
+<p><span class="diczx1">浓雾半作半止。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="diczx3">又如:作兴(兴起);作师(兴兴);作病(发生疾病，致病);作见(出现;显现);作逆(作乱，造反);作贼(造反);作缘(发生瓜葛、联系)</span></p>
+<p><span class="cino">(5)</span> 做;创制;制作;从事某种活动 <span class="encs">[do; make]</span></p>
+<p><span class="diczx1">始作俑者，其无后乎?&mdash;&mdash;<span class="smcs">《孟子&middot;梁惠王上》</span></span></p>
+<p><span class="diczx1">遂乃研核阴阳，妙尽璇机之正，作浑天仪。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx1">作结绳而为罔罟。&mdash;&mdash;<span class="smcs">《易&middot;系辞下》</span></span></p>
+<p><span class="diczx1">为</span><span class="diczx2">楚王</span>作剑。&mdash;&mdash; <span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span></p>
+<p><span class="diczx1">吾为</span><span class="diczx2">楚王</span>作剑。</p>
+<p><span class="diczx1">汝父为</span><span class="diczx2">楚王</span>作剑。</p>
+<p><span class="diczx1">作二铁板。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈&middot;活板》</span></p>
+<p><span class="diczx3">又如:作茶(制茶);作治(制作。亦指制造的成品);作黍(做黍米饭);作烦(制造麻烦，添麻烦);作衅(制造事端);作景(为难，作梗);作对头(与人为敌、为难)</span></p>
+<p><span class="diczx1">纤纤作细步。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">生人作死别。</span></p>
+<p><span class="diczx1">故作不良计。</span></p>
+<p><span class="diczx1">作推敲之势。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">胡仔</span><span class="smcs">《苕溪渔隐丛话》</span></p>
+<p><span class="cino">(6)</span> 写作，创作 <span class="encs">[compose]</span></p>
+<p><span class="diczx2">屈平</span>之作<span class="smcs">《离骚》</span>，盖自怨生也。&mdash;&mdash;<span class="smcs">《史记&middot;屈原列传》</span></p>
+<p><span class="diczx2">仲尼</span>卮而作<span class="smcs">《春秋》</span>。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">司马迁</span><span class="smcs">《报任安书》</span></p>
+<p><span class="diczx1">登高作赋，是所望于群公。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">王勃</span><span class="smcs">《滕王阁序》</span></p>
+<p><span class="diczx1">文章合为时而著，歌诗合为时而作&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span></p>
+<p><span class="cino">(7)</span> <span class="smcs">《与元九书》</span></p>
+<p><span class="diczx1">作敲字佳矣。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">胡仔</span><span class="smcs">《苕溪渔隐丛话》</span></p>
+<p><span class="diczx1">自是指物作诗立就。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《伤仲永》</span></p>
+<p><span class="diczx1">令作诗。</span></p>
+<p><span class="diczx1">属予作文以记之。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx3">又如:作古作故(不依旧规，自创先例);作述(创作传述)</span></p>
+<p><span class="cino">(8)</span> 振作 <span class="encs">[boost]</span></p>
+<p><span class="diczx1">困于心，衡于虑，而后作。&mdash;&mdash;<span class="smcs">《孟子&middot;告子下》</span></span></p>
+<p><span class="diczx1">一鼓作气。&mdash;&mdash;<span class="smcs">《左传&middot;庄公十年》</span></span></p>
+<p><span class="diczx3">又如:作气(振作勇气);作强(产生强劲之力)</span></p>
+<p><span class="cino">(9)</span> 假装，装出 <span class="encs">[feign]</span>。</p>
+<p><span class="diczx3">如:作面子(装点面子);作乔(装假，装模做样);作筏子(做样子);作张作致(装模作样);作轨(作为规范);作喜(变作笑脸，露出喜色)</span></p>
+<p><span class="cino">(10)</span> 充当 <span class="encs">[work as]</span></p>
+<p><span class="diczx1">人而无恒，不可以作巫医。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx3">又如:做冰(做媒人);作霖(充作救旱之雨。后指降甘霖或下雨);作小(做小。与人为妾);作眼(做眼线);作甘(做救旱甘霖)</span></p>
+<p><span class="cino">(11)</span> 当作 <span class="encs">[serve as]</span></p>
+<p><span class="diczx1">青春作伴好还乡。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《闻官军收河南河北》</span></p>
+<p><span class="diczx1">老大嫁作商人妇。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx1">有风既作飘飖之态。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄&middot;种植部》</span></p>
+<p><span class="diczx3">又如:作傍(当作靠山;作依托);作外(当作外文，见外);作做(当作，算作)</span></p>
+<p><span class="cino">(12)</span> 建筑 <span class="encs">[build]</span></p>
+<p><span class="diczx1">将有作。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">魏征</span><span class="smcs">《谏太宗十思疏》</span></p>
+<p><span class="diczx1">作亭者谁。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《醉翁亭记》</span></p>
+<p><span class="diczx3">又如:作邑(建筑都城);作洛(另建新都);作土(积土堆垒以御敌)</span></p>
+<p><span class="cino">(13)</span> 发出音响，演奏 <span class="encs">[play]</span></p>
+<p><span class="diczx1">乐将作。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王谠</span><span class="smcs">《唐语林&middot;雅量》</span></p>
+<p><span class="diczx3">又如:作倡(演奏音乐或表演歌舞);作健(成为强者。谓奋发称雄)</span></p>
+<p><span class="cino">(14)</span> 生出，长出来 <span class="encs">[begin to grow; come into being]</span></p>
+<p><span class="diczx1">采薇采薇，薇亦作止。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;采薇》</span></span></p>
+<p><span class="diczx3">又如:作花(长出花蕾;开花);作谷(田里生长着的谷物);作肉(方言。长肉)</span></p>
+<p><span class="cino">(15)</span> 培育，造就 <span class="encs">[culture]</span></p>
+<p><span class="diczx1">亦惟助宅天命，作新民。&mdash;&mdash;<span class="smcs">《书&middot;康诰》</span></span></p>
+<p><span class="diczx3">又如:作育(造就培养);作新(比喻教化百姓移风易俗);作养(培养，培育);作诲(教诲，训导)</span></p>
+<p><span class="cino">(16)</span> 担任 <span class="encs">[assume the office of ]</span></p>
+<p><span class="diczx2">伯禹</span>作司空。&mdash;&mdash;<span class="smcs">《书&middot;舜典》</span></p>
+<p><span class="diczx3">又如:作县(当县官);作吏(担任官职);作宾(担任太子宾客职务);作游(谓游幕。指到各地做幕僚);作邑(当县令)</span></p>
+<p><span class="cino">(17)</span> 发生，发作 <span class="encs">[occur;break out]</span></p>
+<p><span class="diczx1">冻风时作。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">作则飞沙走砾。</span></p>
+<p><span class="diczx1">此疫作也。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="cino">(18)</span> 发出，放射 <span class="encs">[emit;give out]</span></p>
+<p><span class="diczx1">泠泠作响。&mdash;&mdash;</span><span class="diczx2">吴均</span><span class="smcs">《与朱元思书》</span></p>
+<p><span class="diczx1">振奋作声。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx1">有作其芒。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《饮冰室合集&middot;文集》</span></p>
+<p><span class="diczx1">百千齐作。&mdash;&mdash;<span class="smcs">《虞初新志&middot;秋声诗自序》</span></span></p>
+<p><span class="cino">(19)</span> 发动 <span class="encs">[start;launch]</span></p>
+<p><span class="diczx1">一夫作难而匕庙隳。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="cino">(20)</span> 像;似(唐宋时期出现的) <span class="encs">[be similar; like]</span></p>
+<p><span class="diczx1">马作的卢飞快，弓如霹雳弦惊。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">辛弃疾</span><span class="smcs">《破阵子&middot;为陈同甫赋壮词以寄之》</span></p>
+<p><span class="cino">(21)</span> 通&ldquo;诅&rdquo;( <span class="dicpy">zǔ</span>)。咒诅<span class="encs">[curse;damn]</span></p>
+<p><span class="diczx1">侯作侯祝。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;荡》</span></span></p>
+<p><span class="diczx1">下作之地，上作之天。&mdash;&mdash;<span class="smcs">《管子&middot;轻重己》</span>。</span><span class="diczx2">俞樾</span>云:&ldquo;两作字读为诅，古字通用。&rdquo;</p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>作</strong> <span class="dicpy">zu&ograve;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zu&ograve;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 作品;文章 <span class="encs">[work]</span></p>
+<p><span class="diczx1">临摹旧作。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="diczx1">理想派之作。</span></p>
+<p><span class="diczx3">又如:遗作;译作;新作</span></p>
+<p><span class="cino">(2)</span> 事情，事业 <span class="encs">[affair]</span></p>
+<p><span class="diczx1">利用为大作。&mdash;&mdash;<span class="smcs">《易&middot;益》</span></span></p>
+<p><span class="diczx1">毋以小谋败大作。&mdash;&mdash;<span class="smcs">《礼记&middot;缁衣》</span></span></p>
+<p><span class="cino">(3)</span> 措施;办法 <span class="encs">[measure]</span></p>
+<p><span class="diczx1">作有利于时，制有便于物者，可为也。&mdash;&mdash;<span class="smcs">《后汉书》</span></span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">zuō</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/作案">作案</a></span><span class="crefe"><a href="/hans/作罢">作罢</a></span><span class="crefe"><a href="/hans/作伴">作伴</a></span><span class="crefe"><a href="/hans/作保">作保</a></span><span class="crefe"><a href="/hans/作弊">作弊</a></span><span class="crefe"><a href="/hans/作壁上观">作壁上观</a></span><span class="crefe"><a href="/hans/作别">作别</a></span><span class="crefe"><a href="/hans/作成">作成</a></span><span class="crefe"><a href="/hans/作大">作大</a></span><span class="crefe"><a href="/hans/作东">作东</a></span><span class="crefe"><a href="/hans/作对">作对</a></span><span class="crefe"><a href="/hans/作恶">作恶</a></span><span class="crefe"><a href="/hans/作恶多端">作恶多端</a></span><span class="crefe"><a href="/hans/作法">作法</a></span><span class="crefe"><a href="/hans/作法自毙">作法自毙</a></span><span class="crefe"><a href="/hans/作废">作废</a></span><span class="crefe"><a href="/hans/作风">作风</a></span><span class="crefe"><a href="/hans/作复">作复</a></span><span class="crefe"><a href="/hans/作梗">作梗</a></span><span class="crefe"><a href="/hans/作古">作古</a></span><span class="crefe"><a href="/hans/作怪">作怪</a></span><span class="crefe"><a href="/hans/作合">作合</a></span><span class="crefe"><a href="/hans/作计">作计</a></span><span class="crefe"><a href="/hans/作家">作家</a></span><span class="crefe"><a href="/hans/作假">作假</a></span><span class="crefe"><a href="/hans/作价">作价</a></span><span class="crefe"><a href="/hans/作奸犯科">作奸犯科</a></span><span class="crefe"><a href="/hans/作茧自缚">作茧自缚</a></span><span class="crefe"><a href="/hans/作件">作件</a></span><span class="crefe"><a href="/hans/作践">作践</a></span><span class="crefe"><a href="/hans/作劲">作劲</a></span><span class="crefe"><a href="/hans/作客">作客</a></span><span class="crefe"><a href="/hans/作困兽斗">作困兽斗</a></span><span class="crefe"><a href="/hans/作乐">作乐</a></span><span class="crefe"><a href="/hans/作脸">作脸</a></span><span class="crefe"><a href="/hans/作料">作料</a></span><span class="crefe"><a href="/hans/作乱">作乱</a></span><span class="crefe"><a href="/hans/作美">作美</a></span><span class="crefe"><a href="/hans/作难">作难</a></span><span class="crefe"><a href="/hans/作难">作难</a></span><span class="crefe"><a href="/hans/作孽">作孽</a></span><span class="crefe"><a href="/hans/作弄">作弄</a></span><span class="crefe"><a href="/hans/作呕">作呕</a></span><span class="crefe"><a href="/hans/作派">作派</a></span><span class="crefe"><a href="/hans/作陪">作陪</a></span><span class="crefe"><a href="/hans/作品">作品</a></span><span class="crefe"><a href="/hans/作情">作情</a></span><span class="crefe"><a href="/hans/作曲">作曲</a></span><span class="crefe"><a href="/hans/作人">作人</a></span><span class="crefe"><a href="/hans/作色">作色</a></span><span class="crefe"><a href="/hans/作势">作势</a></span><span class="crefe"><a href="/hans/作誓">作誓</a></span><span class="crefe"><a href="/hans/作手">作手</a></span><span class="crefe"><a href="/hans/作数">作数</a></span><span class="crefe"><a href="/hans/作死">作死</a></span><span class="crefe"><a href="/hans/作算">作算</a></span><span class="crefe"><a href="/hans/作祟">作祟</a></span><span class="crefe"><a href="/hans/作态">作态</a></span><span class="crefe"><a href="/hans/作痛">作痛</a></span><span class="crefe"><a href="/hans/作威作福">作威作福</a></span><span class="crefe"><a href="/hans/作为">作为</a></span><span class="crefe"><a href="/hans/作伪">作伪</a></span><span class="crefe"><a href="/hans/作文">作文</a></span><span class="crefe"><a href="/hans/作物">作物</a></span><span class="crefe"><a href="/hans/作息">作息</a></span><span class="crefe"><a href="/hans/作学问">作学问</a></span><span class="crefe"><a href="/hans/作眼">作眼</a></span><span class="crefe"><a href="/hans/作痒">作痒</a></span><span class="crefe"><a href="/hans/作业">作业</a></span><span class="crefe"><a href="/hans/作业本">作业本</a></span><span class="crefe"><a href="/hans/作揖">作揖</a></span><span class="crefe"><a href="/hans/作俑">作俑</a></span><span class="crefe"><a href="/hans/作用">作用</a></span><span class="crefe"><a href="/hans/作缘">作缘</a></span><span class="crefe"><a href="/hans/作乐">作乐</a></span><span class="crefe"><a href="/hans/作贼心虚">作贼心虚</a></span><span class="crefe"><a href="/hans/作战">作战</a></span><span class="crefe"><a href="/hans/作者">作者</a></span><span class="crefe"><a href="/hans/作证">作证</a></span><span class="crefe"><a href="/hans/作主">作主</a></span><span class="crefe"><a href="/hans/作准">作准</a></span><span class="crefe"><a href="/hans/作作索索">作作索索</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>作</rb></rbc><rtc><rt>ㄗㄨㄛˋ</rt></rtc><rtc><rt>zu&ograve; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5391.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">興起、振起。</span><span class="gc_lz">如：「興風作浪」。</span><span class="gc_yy">《說文解字&middot;人部》：「作，起也。」</span><span class="gc_yy">《易經&middot;乾卦&middot;九五》：「雲從龍，風從虎，聖人作而萬物睹。」</span><span class="gc_yy">《左傳&middot;莊公十年》：「一鼓作氣，再而衰，三而竭。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">造就、培育。</span><span class="gc_lz">如：「天作之合」。</span><span class="gc_yy">《書經&middot;康誥》：「亦惟助王宅天命，作新民。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">創作。</span><span class="gc_lz">如：「寫作」、「作畫」、「作詩」。</span><span class="gc_yy">《論語&middot;述而》：「述而不作，信而好古。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">進行、舉行。</span><span class="gc_lz">如：「作戰」、「作簡報」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">為、當。</span><span class="gc_lz">如：「認賊作父」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">假裝。</span><span class="gc_lz">如：「裝腔作勢」、「裝模作樣」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">進行某事。</span><span class="gc_lz">如：「作媒」、「作證」、「作事」。</span><span class="gc_yx">同「<a href='/hans/做' target=_blank>做</a> 」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">成為。</span><span class="gc_lz">如：「作人」、「作官」。</span><span class="gc_yx">同「<a href='/hans/做' target=_blank>做</a> 」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">製造。</span><span class="gc_yy">唐&middot;秦韜玉〈貧女〉詩：「苦恨年年壓金線，為他人作嫁衣裳。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">事業。</span><span class="gc_lz">如：「工作」。</span><span class="gc_yy">《禮記&middot;緇衣》：「毋以小謀敗大作，毋以嬖御人疾莊后。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">詩文書畫與藝術品稱為「作」。</span><span class="gc_lz">如：「傑作」、「佳作」、「名作」。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>作</rb></rbc><rtc><rt>ㄗㄨㄛˊ</rt></rtc><rtc><rt>zu&oacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5384.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">參見「作摩」、「作料」等條。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>作</rb></rbc><rtc><rt>ㄗㄨㄛ</rt></rtc><rtc><rt>zuō</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">工人、工匠。</span><span class="gc_lz">如：「木作」、「石作」、「瓦作」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">製作某些工藝作品的場所。</span><span class="gc_lz">如：「作坊」。</span><span class="gc_yy">《三國志&middot;卷二四&middot;魏書&middot;孫禮傳》：「禮徑至作所。不復重奏，稱詔罷民，帝奇其意而不責也。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">招惹、自找。</span><span class="gc_lz">如：「自作自受」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4F5C_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              作·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=子集中" target="_blank">子集中</a>】【<a href="/zd/kx/?zm=子集中&amp;bs=人" target="_blank">人</a>】
+                              作·康熙筆画：<a href="/zd/kx/bh/?bh=7" target="_blank">7</a>　·部外筆画：5</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4F5C.svg">						  <p>〔古文〕胙<img class='lazy k_img' data-original='//img.zdic.net/song/cn/224D3.svg'><span class='k_txt'>𢓓</span>【唐韻】則洛切【集韻】【韻會】【正韻】卽各切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>臧入聲。興起也。【易&middot;乾卦】聖人作而萬物覩。【書&middot;堯典】平秩東作。</p>
+<p>又振也。【書&middot;康誥】作新民。</p>
+<p>又造也。【禮&middot;樂記】作者之謂聖。【詩&middot;鄘風】定之方中，作于楚宮。</p>
+<p>又爲也。【詩&middot;鄭風】敝予又改作兮。</p>
+<p>又始也。【詩&middot;魯頌】思馬斯作。</p>
+<p>又坐作。【周禮&middot;夏官】大司馬敎坐作進退之節。</p>
+<p>又將作，秦官名。【前漢&middot;百官表】秩二千石，掌宮室。</p>
+<p>又作猶斮也。【禮&middot;內則】魚曰作之。【註】謂削其鱗。</p>
+<p>又汨作，逸書篇名。</p>
+<p>又姓。漢涿郡太守作顯。</p>
+<p>又與詛同。怨謗也。【詩&middot;大雅】侯作侯祝。</p>
+<p>又【集韻】【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>子賀切，音佐。【後漢&middot;廉范傳】廉叔度，來何暮，不禁火，民夜作，昔無襦，今五袴。【韓愈詩】非閣復非船，可居兼可過。君去問方橋，方橋如此作。今方音作讀佐。俗用做。</p>
+<p>又【韻補】叶總古切，音阻。【韓愈&middot;處州孔子廟<img class='lazy k_img' data-original='//img.zdic.net/song/cn/254D3.svg'><span class='k_txt'>𥓓</span>】惟此廟學，鄴侯所作。厥初庳下，神不以宇。</p>
+<p>又叶子悉切，音卽。【擊壤歌】日出而作，日入而息。【<img class='lazy k_img' data-original='//img.zdic.net/song/cn/28EF0.svg'><span class='k_txt'>𨻰</span>琳&middot;客難】太王築室，百堵俱作。西伯營臺，功不浹日。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4F5C_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=人">人</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷八">卷八</a>】【<a href="/zd/sw/?swju=卷八&amp;swbs=人">人</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4F5C.svg">                          <p>起也。从人从乍。則洛切〖注〗胙、<img class='lazy k_img' data-original='//img.zdic.net/song/cn/224D3.svg'><span class='k_txt'>𢓓</span>，古文。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4F5C_159.svg" /><span class="swbf">(作)</span><span class="ywyy">起也。</span><span class="swdz">秦風無衣傳曰：作，起也。釋言、穀梁傳曰：作，爲也。魯頌駉傳曰：作，始也。周頌天作傳曰：作，生也。其義别而略同。别者所因之文不同，同者其字義一也。有一句中同字而别之者，如小雅作而作詩箋云：上作，起也。下作，爲也。辵部曰：迮迮，起也。然則作迮二篆音義同，古文假借乍爲作。</span><span class="ywyy">从人乍聲。</span><span class="swdz">則洛切。五部。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4F5C_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tsuo˥˧ <span class="z_ts4">唐代读音</span>  *tzɑk tzɑk<span class="z_ts4">日语读音</span>  TSUKURU TSUKURI NASU<span class="z_ts4">韩语罗马</span>  CAK CWU<span class="z_ts4">现代韩语</span>  작<span class="z_ts3">越南语</span>  tác</p>						<p><span class="z_ts3">客家话</span>  [海陆腔] zok7 zo5 [宝安腔] zok7 [沙头角腔] zok7 [陆丰腔] zok7 [梅县腔] zok7 [台湾四县腔] zok7 zo5 [客英字典] zok7 [东莞腔] zok7 [客语拼音字汇] zog5<span class="z_ts2">粤语</span>  zok3<span class="z_ts3">潮州话</span>  zag4(tsak) zoh4(tsoh)</p>						<p><span class="z_ts3">近代音</span>  精母    蕭豪韻    入聲作上聲    柞小空；<span class="z_ts3">中古音</span>  精母    鐸韻    入聲    作小韻    則落切    一等    開口；精母    暮韻    去聲    作小韻    臧祚切    一等    合口；精母    箇韻    去聲    佐小韻    則箇切    一等    開口；<span class="z_ts3">上古音</span>  黄侃系统：精母    鐸部   ；王力系统：精母    鐸部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/作">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/作">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/作">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/作">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/作">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/作">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/作">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/作">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/作">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/作">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/作">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">作</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/作"><img data-original="//img.zdic.net/zy/jiaguwen/42_F4F1.svg" class="lazy ypic"><span>「乍」 鐵81.3</span><span>合6923</span></a></td><td><a href="/zd/zx/jw/作"><img data-original="//img.zdic.net/zy/jinwen/33_F4FC.svg" class="lazy ypic"><span>「乍」 小子作母己卣</span><span>商代晚期</span><span>集成5175</span></a></td><td><a href="/zd/zx/cx/作"><img data-original="//img.zdic.net/zy/chuwenzi/52_F3C7.svg" class="lazy ypic"><span>「作」 天策</span></a></td><td><a href="/zd/zx/xz/作"><img data-original="//img.zdic.net/zy/xiaozhuan/27_4F5C.svg" class="lazy ypic"><span>「作」 說文‧人部</span></a></td><td><a href="/zd/zx/qx/作"><img data-original="//img.zdic.net/zy/qinwenzi/71_E8B4.svg" class="lazy ypic"><span>「作」 睡.日乙6</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/作" target="_blank"><img data-original="//img.zdic.net/kai/tw/4F5C.svg" class="lazy ypic"><span>「作」</span></a></td></tr><tr><td><a href="/zd/zx/jg/作"><img data-original="//img.zdic.net/zy/jiaguwen/43_F02B.svg" class="lazy ypic"><span>「乍」 京津703</span><span>合1724</span></a></td><td><a href="/zd/zx/jw/作"><img data-original="//img.zdic.net/zy/jinwen/32_F7DF.svg" class="lazy ypic"><span>「乍」 頌鼎</span><span>西周晚期</span><span>集成2829</span></a></td><td><a href="/zd/zx/cx/作"><img data-original="//img.zdic.net/zy/chuwenzi/52_F3B5.svg" class="lazy ypic"><span>「作」 包2.168</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td><a href="/zd/zx/jw/作"><img data-original="//img.zdic.net/zy/jinwen/32_F7E0.svg" class="lazy ypic"><span>「<img data-original="//img.zdic.net/zy/kai/0_EE94.svg" class="ykai">」 姞氏簋</span><span>西周晚期</span><span>集成3916</span></a></td><td><a href="/zd/zx/cx/作"><img data-original="//img.zdic.net/zy/chuwenzi/56_F4F9.svg" class="lazy ypic"><span>「作」 新零.472</span></a></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/作">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/作">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/作">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/作">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/作">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/作">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4F5C.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4F5C.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4F5C.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4F5C.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4F5C.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㑅' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/3445.svg'><span>㑅</span></a></div> <div class='zx'><a href='/hans/乍' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/4E4D.svg'><span>乍</span></a></div> <div class='zx'><a href='/hans/胙' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/80D9.svg'><span>胙</span></a></div> <div class='zx'><a href='/hans/𠆯' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/201AF.svg'><span>𠆯</span></a></div>  <div class='zx'><a href='/hans/𠈨' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/20228.svg'><span>𠈨</span></a></div>  <div class='zx'><a href='/hans/𢓓' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/224D3.svg'><span>𢓓</span></a></div>  <div class='zx'><a href='/hans/𢼎' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/22F0E.svg'><span>𢼎</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="349" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7993">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䔘">䔘(zuo4)</a></li><li><a href="/hans/酢">酢(zuo4)</a></li><li><a href="/hans/做">做(zuo4)</a></li><li><a href="/hans/㘀">㘀(zuo4)</a></li><li><a href="/hans/䬤">䬤(zuo4)</a></li><li><a href="/hans/唑">唑(zuo4)</a></li><li><a href="/hans/㭮">㭮(zuo4)</a></li><li><a href="/hans/阼">阼(zuo4)</a></li><li><a href="/hans/胙">胙(zuo4)</a></li><li><a href="/hans/岝">岝(zuo4)</a></li><li><a href="/hans/㑅">㑅(zuo4)</a></li><li><a href="/hans/柞">柞(zuo4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/偰">偰</a></li><li><a href="/hans/𠐓">𠐓</a></li><li><a href="/hans/僤">僤</a></li><li><a href="/hans/𠊜">𠊜</a></li><li><a href="/hans/𠉔">𠉔</a></li><li><a href="/hans/傮">傮</a></li><li><a href="/hans/儃">儃</a></li><li><a href="/hans/𠌭">𠌭</a></li><li><a href="/hans/俚">俚</a></li><li><a href="/hans/𠈬">𠈬</a></li><li><a href="/hans/佶">佶</a></li><li><a href="/hans/𠈀">𠈀</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㐖">㐖</a></li><li><a href="/hans/𠃩">𠃩</a></li><li><a href="/hans/帊">帊</a></li><li><a href="/hans/𠄨">𠄨</a></li><li><a href="/hans/词">词</a></li><li><a href="/hans/㠹">㠹</a></li><li><a href="/hans/努">努</a></li><li><a href="/hans/忘">忘</a></li><li><a href="/hans/㳅">㳅</a></li><li><a href="/hans/囯">囯</a></li><li><a href="/hans/芭">芭</a></li><li><a href="/hans/㑅">㑅</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">小时不识月，呼<span>作</span>白玉盘。</div><div class="gscdr">《古朗月行》（节选）</div><div class="gscdl">微微风簇浪，散<span>作</span>满河星。</div><div class="gscdr">清·查慎行 《舟夜书所见》</div><div class="gscdl">洛阳城里见秋风，欲<span>作</span>家书意万重。</div><div class="gscdr">唐·张籍 《秋思》</div><div class="gscdl">煮豆持<span>作</span>羹，漉菽以为汁。</div><div class="gscdr">曹植 【朝代】三国·魏《七步诗》</div><div class="gscdl">白日放歌须纵酒，青春<span>作</span>伴好还乡。</div><div class="gscdr">唐·杜甫 《闻官军收河南河北》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">杨花榆荚无才思，惟解漫天<span>作</span>雪飞。</div><div class="gscdr">唐·韩愈 《晚春》</div><div class="gscdl">落红不是无情物，化<span>作</span>春泥更护花。</div><div class="gscdr">《已亥杂诗》（其五）</div><div class="gscdl">泉水激石，泠泠<span>作</span>响；好鸟相鸣，嘤嘤成韵。</div><div class="gscdr">南北朝·吴均 《与朱元思书》</div><div class="gscdl">人恒过然后能改，困于心衡于虑而后<span>作</span>；征于色发于声而后喻。</div><div class="gscdr">《孟子·告子下》《生于忧患 死于安乐》</div><div class="gscdl">其中往来种<span>作</span>，男女衣着，悉如外人。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">便要还家，设酒杀鸡<span>作</span>食。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=349"></script>
+</body>
+</html>

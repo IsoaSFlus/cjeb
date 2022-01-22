@@ -1,0 +1,701 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>转的解释|转的意思|汉典“转”字的基本解释</title>
+<meta name="title" content="转的解释|转的意思|汉典“转”字的基本解释">
+<meta name="keywords" content="左：车，右：专。 " /><meta property="og:title" content="“转”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“转”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“转”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/转" />
+<link rel="canonical" href="//www.zdic.net/hans/转" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/转" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/转" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/转" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/转">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/转">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/8F6C.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/8F6C.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhuǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎn.mp3"></a></span></span></p><p><span class="z_d song">zhuàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuàn.mp3"></a></span></span></p><p><span class="z_d song">zhuǎi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎi.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄨㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄢˇ.mp3"></a></span></span></p><p><span class="z_d song">ㄓㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄢˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄓㄨㄞˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄞˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=车" target="_blank">  车</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/轉' target=_blank>轉</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/轉' target=_blank>轉</a> <a href='/hans/転' target=_blank>転</a> <a href='/hans/䡱' target=_blank>䡱</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+8F6C</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>15211154</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>lfny</p></td>                            <td class="dsk_2_1"><p>kqqni</p></td>                            <td class="dsk_2_1"><p>hezs</p></td>                            <td class="dsk_2_1"><p>45532</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhuǎn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎn.mp3"></a></span></span> <span class="z_d song">zhuàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuàn.mp3"></a></span></span> <span class="z_d song">zhuǎi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎi.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄨㄢˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄢˇ.mp3"></a></span></span> <span class="z_d song">ㄓㄨㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄢˋ.mp3"></a></span></span> <span class="z_d song">ㄓㄨㄞˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“转”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄨㄞˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=车" target="_blank">车</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">基本区</span> 8F6C<span class="z_ts2">笔顺</span> 15211154                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="8F6C_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=16749" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">转</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>转</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">轉</span>）</strong></p>
+<p><span class="dicpy">zhuǎn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎn.mp3"></a></span> ㄓㄨㄢˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>迁徙；流亡：老弱～乎沟壑。</li>
+	<li>不直接的，中间再经过别人或别的地方：～送。～达。～发。～运。周～。</li>
+	<li>改换方向：～弯。向左～。</li>
+	<li>改变位置：～移。</li>
+	<li>改变形势、情况：～败为胜。天气～睛。病情好～。</li>
+</ol>
+<p>● <strong>转</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">轉</span>）</strong></p>
+<p><span class="dicpy">zhu&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> ㄓㄨㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>旋转：车轮飞～。</li>
+	<li>使旋转：～动地球仪。</li>
+	<li>围绕着一个中心运动：越陷越深绕着太阳～。</li>
+	<li>量词，旋转一圈为一转：绕了几十～。</li>
+	<li>量词，古代勋位每升一级称&ldquo;一转&rdquo;：&ldquo;策勋十二～，赏赐百千强。&rdquo;</li>
+</ol>
+<p>● <strong>转</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">轉</span>）</strong></p>
+<p><span class="dicpy">zhuǎi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎi.mp3"></a></span> ㄓㄨㄞˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>[转文]指说话或写文章时有意不用通俗易懂的词句，而使用文言文词语以显高雅。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> shift, move, turn</p><p><span class="z_ts2">德语</span> wenden, sich verwandeln, sich verändern; überbringen, weitergeben  (V)</p><p><span class="z_ts2">法语</span> transformer,changer,transmettre,tourner,tournoyer,tour,se promener</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">转</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>转</strong></p>
+<p>轉 <span class="dicpy">zhuǎn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎn.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (形声。从车，专声。转运要用车，故从车。本义:转运)</p>
+<p><span class="cino">(2)</span> 同本义(通过陆路运输) <span class="encs">[carry in a cart]</span></p>
+<p><span class="diczx1">转，运也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">胡转予于恤?&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;祈父》</span></span></p>
+<p><span class="diczx1">丁壮苦军旅，老弱罢转饷。&mdash;&mdash;<span class="smcs">《汉书&middot;高帝纪上》</span></span></p>
+<p><span class="diczx1">却骐骥以转运兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;刘向&middot;九叹愍命》</span></span></p>
+<p><span class="diczx1">转漕甚辽远。&mdash;&mdash;<span class="smcs">《史记&middot;项羽本纪》</span>。</span><span class="diczx2">司马贞</span>索隐:&ldquo;车运曰转，水运曰漕。&rdquo;</p>
+<p><span class="diczx1">辇车相属，转粟流输，千里不绝。&mdash;&mdash;<span class="smcs">《汉书&middot;邹阳传》</span></span></p>
+<p><span class="diczx3">又如:转饷(转运粮饷);转输(转运输送物资);转海(海运);转粟(运送谷物);转漕(转运粮饷);转毂(转运货物的车子)</span></p>
+<p><span class="cino">(3)</span> 回还，转动 <span class="encs">[turn;turn around and around]</span></p>
+<p><span class="diczx1">我心匪石，不可转也。&mdash;&mdash;<span class="smcs">《诗&middot;邶风&middot;柏舟》</span></span></p>
+<p><span class="diczx1">故善战人之势，如转圆石于千仞之山者，势也。&mdash;&mdash;<span class="smcs">《孙子&middot;势》</span></span></p>
+<p><span class="diczx1">转轴拨弦三两声，未成曲调先有情。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《琵琶行(并序)》</span></p>
+<p><span class="diczx1">回头转眄似雕鹗，有志飞鸣人岂知!&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李颀</span><span class="smcs">《别梁锽》</span></p>
+<p><span class="diczx3">又如:转盼(转动眼珠);转眄(转动眼珠);转规(像圆规旋转一样，比喻一往无阻);转侧(在床上转动身体)</span></p>
+<p><span class="cino">(4)</span> 指情况的变化、改变 <span class="encs">[change;shift]</span></p>
+<p><span class="diczx1">兵生于治而异，俗生于法而万转。&mdash;&mdash;<span class="smcs">《商君书&middot;立本》</span>。</span><span class="diczx2">高亨</span>注译:&ldquo;万转，万变。指风俗多变化，有好有坏。&rdquo;</p>
+<p><span class="diczx1">道直身还在，恩深命转轻。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">裴度</span><span class="smcs">《中书即事》</span></p>
+<p><span class="diczx1">其为政也，善因祸而为福，转败而为功。&mdash;&mdash;<span class="smcs">《史记&middot;管晏传》</span></span></p>
+<p><span class="diczx3">又如:转靶子(改变主意);转角头(转弯处);转日回天(形容力量大，能扭转很难挽回的局面)</span></p>
+<p><span class="cino">(5)</span> 转移，辗转 <span class="encs">[divert;transfer]</span></p>
+<p><span class="diczx1">转送其家。&mdash;&mdash;<span class="smcs">《汉书&middot;高帝纪上》</span></span></p>
+<p><span class="diczx1">浊之则郁而无转。&mdash;&mdash;<span class="smcs">《淮南子&middot;泛论》</span></span></p>
+<p><span class="diczx1">转而攻</span><span class="diczx2">秦</span>。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx1">转而缘南晦。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot; <span class="diczx2">贾谊</span><span class="smcs">《论积贮疏》</span></p>
+<p><span class="diczx1">路转溪头忽见。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">辛弃疾</span><span class="smcs">《西江月》</span></p>
+<p><span class="cino">(6)</span> 丢弃 <span class="encs">[abandon;discard]</span></p>
+<p><span class="diczx1">生无乏用，死无转尸。&mdash;&mdash;<span class="smcs">《淮南子》</span></span></p>
+<p><span class="diczx3">又如:转尸(人死而不能葬，尸体弃于沟中);转死(弃尸);转尸沟壑(弃尸于山沟水渠)</span></p>
+<p><span class="cino">(7)</span> 迁官转任 <span class="encs">[be transferred to another post]</span></p>
+<p><span class="diczx2">王述</span>转尚书令，事行便拜。&mdash;&mdash;<span class="smcs">《世说新语&middot;方正》</span></p>
+<p><span class="diczx2">密</span>有才能，常望内转，而朝廷无援，乃迁 <span class="diczx2">汉中</span>太守。&mdash;&mdash;<span class="smcs">《晋书》</span></p>
+<p><span class="diczx3">又如:转除(升官);转任(转换所任职务);转补(迁调官职，以补缺额)</span></p>
+<p><span class="cino">(8)</span> 掉转;转向 <span class="encs">[turn;change direction]</span></p>
+<p><span class="diczx2">东亭</span>转卧向壁。&mdash;&mdash;<span class="smcs">《世说新语&middot;品藻》</span></p>
+<p><span class="diczx1">转头向户里。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">童自转。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《童区寄传》</span></p>
+<p><span class="diczx1">云何裁转背，便卖恶于人?&mdash;&mdash;<span class="smcs">《宋书&middot;蔡廓传》</span></span></p>
+<p><span class="diczx1">若夫转身易位，全众传国，最其病也。&mdash;&mdash;<span class="smcs">《韩非子&middot;说疑》</span></span></p>
+<p><span class="diczx1">转视积薪后。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;狼三则》</span></span></p>
+<p><span class="diczx3">又如:转步(改变走向);转舵(转动船舵，以改变航向;比喻转变方向)</span></p>
+<p><span class="cino">(9)</span> 移动;迁徙 <span class="encs">[move]</span></p>
+<p><span class="diczx1">盤石无转移。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx1">转入石门。&mdash;&mdash;<span class="smcs">《徐霞客游记&middot;游黄山记》</span></span></p>
+<p><span class="diczx3">又如:转手(移动手臂);转居(移居)</span></p>
+<p><span class="cino">(10)</span> 离去，离开 <span class="encs">[leave]</span></p>
+<p><span class="diczx1">衙门无事，相公且转厅。&mdash;&mdash;</span><span class="diczx2">马致远</span><span class="smcs">《大妇小妻还牢末杂剧》</span></p>
+<p><span class="cino">(11)</span> 摇动;飘荡 <span class="encs">[wave]</span></p>
+<p><span class="diczx1">光风转蕙，泛崇兰兮。&mdash;&mdash;<span class="smcs">《楚辞&middot;招魂》</span></span></p>
+<p><span class="diczx1">四角龙子帆，婀娜随风转。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx3">又如:转蓬身(比喻到处飘泊的人);转磷(飘忽不定的磷火);转烛(风摇烛火。用以比喻世事变幻莫测);转萍(比喻飘泊不定)</span></p>
+<p><span class="cino">(12)</span> 避 <span class="encs">[evade]</span></p>
+<p><span class="diczx1">引而使之，民不敢转其力。&mdash;&mdash;<span class="smcs">《管子》</span></span></p>
+<p><span class="cino">(13)</span> 缠绕 <span class="encs">[wind]</span></p>
+<p><span class="diczx1">以红绡转其头。&mdash;&mdash;<span class="smcs">《席上腐谈》</span></span></p>
+<p><span class="diczx3">又如:转踅(回旋缠绕)</span></p>
+<p><span class="cino">(14)</span> 卖 <span class="encs">[sell]</span></p>
+<p><span class="diczx1">现今这房子转的出四十两银子&hellip;竟托书店里人把房子转了，拿了银子回来。&mdash;&mdash;<span class="smcs">《儒林外史》</span></span></p>
+<p><span class="diczx3">又如:转物(买卖货物);转肩(一种不正当的买卖。高价赊入，低价卖出);转货(做买卖);转卖(把买进的东西再卖出去)</span></p>
+<p><span class="cino">(15)</span> 诵<span class="encs">[经]</span> ;念<span class="encs">[咒]</span> <span class="encs">[chant]</span></p>
+<p><span class="diczx1">素公不出院，转<span class="smcs">《法华经》</span>三万七千部。&mdash;&mdash;</span><span class="diczx2">段成式</span><span class="smcs">《酉阳杂俎》</span></p>
+<p><span class="diczx1">三藏转咒，震舌呼祝。&mdash;&mdash;<span class="smcs">《太平广记》</span>引<span class="smcs">《宣室志》</span></span></p>
+<p><span class="diczx3">又如:转经(诵经);转读(诵读佛经)</span></p>
+<p><span class="cino">(16)</span> 曲折，盘曲 <span class="encs">[winding;circuitous]</span></p>
+<p><span class="diczx1">千岩万转。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《梦游天姥吟留别》</span></p>
+<p><span class="diczx1">山回路转。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">岑参</span><span class="smcs">《白雪歌送武判官归京》</span></p>
+<p><span class="cino">(17)</span> 量词。等于说&ldquo;次&rdquo;。古时军功每加一等，则官爵随升一级，叫做一转</p>
+<p><span class="diczx1">策勋十二转。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="cino">(18)</span> 另见 <span class="dicpy">zhuǎi;zhu&agrave;n</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/转氨酶">转氨酶</a></span><span class="crefe"><a href="/hans/转败为胜">转败为胜</a></span><span class="crefe"><a href="/hans/转背">转背</a></span><span class="crefe"><a href="/hans/转变">转变</a></span><span class="crefe"><a href="/hans/转播">转播</a></span><span class="crefe"><a href="/hans/转侧">转侧</a></span><span class="crefe"><a href="/hans/转产">转产</a></span><span class="crefe"><a href="/hans/转车">转车</a></span><span class="crefe"><a href="/hans/转乘">转乘</a></span><span class="crefe"><a href="/hans/转船">转船</a></span><span class="crefe"><a href="/hans/转达">转达</a></span><span class="crefe"><a href="/hans/转导">转导</a></span><span class="crefe"><a href="/hans/转道">转道</a></span><span class="crefe"><a href="/hans/转递">转递</a></span><span class="crefe"><a href="/hans/转动">转动</a></span><span class="crefe"><a href="/hans/转发">转发</a></span><span class="crefe"><a href="/hans/转帆">转帆</a></span><span class="crefe"><a href="/hans/转干">转干</a></span><span class="crefe"><a href="/hans/转告">转告</a></span><span class="crefe"><a href="/hans/转关系">转关系</a></span><span class="crefe"><a href="/hans/转行">转行</a></span><span class="crefe"><a href="/hans/转化">转化</a></span><span class="crefe"><a href="/hans/转化">转化</a></span><span class="crefe"><a href="/hans/转换">转换</a></span><span class="crefe"><a href="/hans/转回">转回</a></span><span class="crefe"><a href="/hans/转机">转机</a></span><span class="crefe"><a href="/hans/转嫁">转嫁</a></span><span class="crefe"><a href="/hans/转交">转交</a></span><span class="crefe"><a href="/hans/转角">转角</a></span><span class="crefe"><a href="/hans/转接">转接</a></span><span class="crefe"><a href="/hans/转剧">转剧</a></span><span class="crefe"><a href="/hans/转科">转科</a></span><span class="crefe"><a href="/hans/转口">转口</a></span><span class="crefe"><a href="/hans/转脸">转脸</a></span><span class="crefe"><a href="/hans/转捩">转捩</a></span><span class="crefe"><a href="/hans/转捩点">转捩点</a></span><span class="crefe"><a href="/hans/转卖">转卖</a></span><span class="crefe"><a href="/hans/转面无情">转面无情</a></span><span class="crefe"><a href="/hans/转念">转念</a></span><span class="crefe"><a href="/hans/转让">转让</a></span><span class="crefe"><a href="/hans/转入地下">转入地下</a></span><span class="crefe"><a href="/hans/转身">转身</a></span><span class="crefe"><a href="/hans/转生">转生</a></span><span class="crefe"><a href="/hans/转世">转世</a></span><span class="crefe"><a href="/hans/转手">转手</a></span><span class="crefe"><a href="/hans/转授">转授</a></span><span class="crefe"><a href="/hans/转述">转述</a></span><span class="crefe"><a href="/hans/转送">转送</a></span><span class="crefe"><a href="/hans/转体">转体</a></span><span class="crefe"><a href="/hans/转头">转头</a></span><span class="crefe"><a href="/hans/转托">转托</a></span><span class="crefe"><a href="/hans/转弯">转弯</a></span><span class="crefe"><a href="/hans/转文">转文</a></span><span class="crefe"><a href="/hans/转徙">转徙</a></span><span class="crefe"><a href="/hans/转向">转向</a></span><span class="crefe"><a href="/hans/转写">转写</a></span><span class="crefe"><a href="/hans/转学">转学</a></span><span class="crefe"><a href="/hans/转学生">转学生</a></span><span class="crefe"><a href="/hans/转眼">转眼</a></span><span class="crefe"><a href="/hans/转眼即逝">转眼即逝</a></span><span class="crefe"><a href="/hans/转业">转业</a></span><span class="crefe"><a href="/hans/转移">转移</a></span><span class="crefe"><a href="/hans/转译">转译</a></span><span class="crefe"><a href="/hans/转义">转义</a></span><span class="crefe"><a href="/hans/转引">转引</a></span><span class="crefe"><a href="/hans/转运">转运</a></span><span class="crefe"><a href="/hans/转韵">转韵</a></span><span class="crefe"><a href="/hans/转载">转载</a></span><span class="crefe"><a href="/hans/转载">转载</a></span><span class="crefe"><a href="/hans/转赠">转赠</a></span><span class="crefe"><a href="/hans/转战">转战</a></span><span class="crefe"><a href="/hans/转账">转账</a></span><span class="crefe"><a href="/hans/转折">转折</a></span><span class="crefe"><a href="/hans/转折点">转折点</a></span><span class="crefe"><a href="/hans/转正">转正</a></span><span class="crefe"><a href="/hans/转注">转注</a></span><span class="crefe"><a href="/hans/转租">转租</a></span></div>　
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>转</strong></p>
+<p>轉 <span class="dicpy">zhu&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> 旋转;打转 <span class="encs">[turn;revolve]</span></p>
+<p><span class="diczx1">峰回路转。&mdash;&mdash;<span class="smcs">《醉翁亭记》</span></span></p>
+<p><span class="diczx1">下者飘转。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《茅屋为秋风所破歌》</span></p>
+<p><span class="diczx3">又如:转丸(转动的弹丸。比喻升降沉浮不定);转灯(走马灯);机器转子团团转;砂轮转得快;地球绕着太阳转</span></p>
+<p><span class="cino">(2)</span> 绕过 <span class="encs">[wind around]</span></p>
+<p><span class="diczx1">由</span><span class="diczx2">千佛山</span>脚下往东，转过山坡，竟向南去。&mdash;&mdash;<span class="smcs">《老残游记》</span></p>
+<p><span class="cino">(3)</span> 迷路或迷失方向 <span class="encs">[lose]</span>。</p>
+<p><span class="diczx3">如:晕头转向</span></p>
+<p><span class="cino">(4)</span> <span class="encs">[口]</span>∶转悠 <span class="encs">[stroll]</span></p>
+<p><span class="diczx1">公园关了门，只好去转</span><span class="diczx2">文殊院</span>。&mdash;&mdash;<span class="smcs">《大波》</span></p>
+<p><span class="cino">(5)</span> 通&ldquo;啭&rdquo;。鸟鸣，蝉鸣 <span class="encs">[warble;chirp;chirrup]</span></p>
+<p><span class="diczx1">蝉则千转不穷。&mdash;&mdash;</span><span class="diczx2">吴均</span><span class="smcs">《与朱元思书》</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>转</strong></p>
+<p>轉 <span class="dicpy">zhu&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhu&agrave;n.mp3"></a></span> </p>
+<p><span class="xx_cx">量</span></p>
+<p><span class="cino">(1)</span> 旋转的一整圈 <span class="encs">[revolution;rotation]</span>。</p>
+<p><span class="diczx3">如:每分钟3600转</span></p>
+<p><span class="cino">(2)</span> 次;回 <span class="encs">[time]</span></p>
+<p><span class="diczx1">策勋十二转。赏赐百千强。&mdash;&mdash;<span class="smcs">《木兰诗》</span></span></p>
+<p><span class="diczx1">一天哭三回，三天哭九转，铁石的心也变软。&mdash;&mdash;</span><span class="diczx2">李季</span><span class="smcs">《王贵与李香香》</span></p>
+<p><span class="diczx3">又如:下转(下次;下一回)</span></p>
+<p><span class="cino">(3)</span> 另见 <span class="dicpy">zhuǎi;zhuǎn</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/转动">转动</a></span><span class="crefe"><a href="/hans/转鼓">转鼓</a></span><span class="crefe"><a href="/hans/转筋">转筋</a></span><span class="crefe"><a href="/hans/转矩">转矩</a></span><span class="crefe"><a href="/hans/转铃，转铃儿">转铃，转铃儿</a></span><span class="crefe"><a href="/hans/转炉">转炉</a></span><span class="crefe"><a href="/hans/转轮">转轮</a></span><span class="crefe"><a href="/hans/转门">转门</a></span><span class="crefe"><a href="/hans/转磨">转磨</a></span><span class="crefe"><a href="/hans/转纽">转纽</a></span><span class="crefe"><a href="/hans/转圈">转圈</a></span><span class="crefe"><a href="/hans/转圈">转圈</a></span><span class="crefe"><a href="/hans/转速">转速</a></span><span class="crefe"><a href="/hans/转塔">转塔</a></span><span class="crefe"><a href="/hans/转台">转台</a></span><span class="crefe"><a href="/hans/转头">转头</a></span><span class="crefe"><a href="/hans/转位">转位</a></span><span class="crefe"><a href="/hans/转向">转向</a></span><span class="crefe"><a href="/hans/转腰子">转腰子</a></span><span class="crefe"><a href="/hans/转一趟">转一趟</a></span><span class="crefe"><a href="/hans/转椅">转椅</a></span><span class="crefe"><a href="/hans/转悠">转悠</a></span><span class="crefe"><a href="/hans/转轴">转轴</a></span><span class="crefe"><a href="/hans/转子">转子</a></span><span class="crefe"><a href="/hans/转字锁">转字锁</a></span></div>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>转</strong></p>
+<p><span class="cino">(1)</span> 轉 <span class="dicpy">zhuǎi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhuǎi.mp3"></a></span> </p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">zhuǎn;zhu&agrave;n</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/转文">转文</a></span></div>　                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="8F6C_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=酉集下" target="_blank">酉集下</a>】【<a href="/zd/kx/?zm=酉集下&amp;bs=車" target="_blank">車</a>】
+                              轉·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">轉</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“转”字头，请参考“<a href="/hans/轉">轉</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=酉集下" target="_blank">酉集下</a>】【<a href="/zd/kx/?zm=酉集下&amp;bs=車" target="_blank">車</a>】
+                              轉·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：11</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/8F49.svg">						  <p>【廣韻】【集韻】【韻會】陟兗切【正韻】止兗切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>專上聲。【說文】轉運也。【前漢&middot;韓安國傳】轉粟輓輸以爲之備。</p>
+<p>又【廣韻】動也，旋也。【詩&middot;周南】輾轉反側。【註】輾者轉之半，轉者輾之周。</p>
+<p>又【韻會】軫轉，無窮也。【揚子&middot;太<img class="lazy k_img" data-original="//img.zdic.net/song/cn/248E5.svg"><span class="k_txt">𤣥</span>經】軫轉其道。</p>
+<p>又【廣韻】知戀切【集韻】【韻會】【正韻】株戀切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>專去聲。凡物自轉則上聲，以力轉物則去聲。</p>
+<p>又車上衣裝曰轉。【左傳&middot;襄二十四年】踞轉而鼓琴。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="8F6C_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=車">車</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">轉</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“转”字头，请参考“<a href="/hans/轉">轉</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十四">卷十四</a>】【<a href="/zd/sw/?swju=卷十四&amp;swbs=車">車</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/8F49.svg">                          <p>運也。从車專聲。知戀切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/8F49_6736.svg" /><span class="swbf">(轉)</span><span class="ywyy">還也。</span><span class="swdz">還，大徐作運，非。還者，復也。復者，往來也。運訓迻徙，非其義也。還卽今環字。</span><span class="ywyy">从車專聲。</span><span class="swdz">知戀切。十四部。亦陟兖切。淺人分别上去異義，無事自擾。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="8F6C_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">转</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂuan˨˩˦; tʂuan˥˧; tʂuai˨˩˦ </p>						<p><span class="z_ts2">粤语</span>  zyun2 zyun3</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/转">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/转">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/转">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/转">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/转">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/转">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/转">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/转">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/转">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/转">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/转">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/转">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">转</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「轉」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/转"><img data-original="//img.zdic.net/zy/xiaozhuan/27_8F49.svg" class="lazy ypic"><span>「轉」 說文‧車部</span></a></td><td><a href="/zd/zx/qx/转"><img data-original="//img.zdic.net/zy/qinwenzi/71_EE4C.svg" class="lazy ypic"><span>「轉」 睡.為3</span></a></td><td><a href="/hans/轉" target="_blank"><img data-original="//img.zdic.net/kai/tw/8F49.svg" class="lazy ypic"><span>「轉」</span></a> </td><td><a href="/hans/转" target="_blank"><img data-original="//img.zdic.net/kai/tw/8F6C.svg" class="lazy ypic"><span>「转」</span></a></td><td style="display:none"><a href="/hans/转" target="_blank"><img data-original="//img.zdic.net/kai/tw/8F6C.svg" class="lazy ypic"><span>「转」</span></a></td></tr><tr><tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/转">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/转">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/转">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/8F6C.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/8F6C.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/8F6C.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/轉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8F49.svg'><span>轉</span></a></div> <div class='zx'><a href='/hans/転' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/8EE2.svg'><span>転</span></a></div> <div class='zx'><a href='/hans/䡱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4871.svg'><span>䡱</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="16749" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7916">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䡱">䡱(zhuan3)</a></li><li><a href="/hans/孨">孨(zhuan3)</a></li><li><a href="/hans/膞">膞(zhuan3)</a></li><li><a href="/hans/転">転(zhuan3)</a></li><li><a href="/hans/轉">轉(zhuan3)</a></li><li><a href="/hans/竱">竱(zhuan3)</a></li><li><a href="/hans/䏝">䏝(zhuan3)</a></li><li><a href="/hans/䉵">䉵(zhuan4)</a></li><li><a href="/hans/蒃">蒃(zhuan4)</a></li><li><a href="/hans/襈">襈(zhuan4)</a></li><li><a href="/hans/饌">饌(zhuan4)</a></li><li><a href="/hans/传">传(zhuan4)</a></li><li><a href="/hans/籑">籑(zhuan4)</a></li><li><a href="/hans/贃">贃(zhuan4)</a></li><li><a href="/hans/灷">灷(zhuan4)</a></li><li><a href="/hans/䚈">䚈(zhuan4)</a></li><li><a href="/hans/僎">僎(zhuan4)</a></li><li><a href="/hans/囀">囀(zhuan4)</a></li><li><a href="/hans/譔">譔(zhuan4)</a></li><li><a href="/hans/跩">跩(zhuai3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/轲">轲</a></li><li><a href="/hans/辈">辈</a></li><li><a href="/hans/辘">辘</a></li><li><a href="/hans/辁">辁</a></li><li><a href="/hans/轹">轹</a></li><li><a href="/hans/辂">辂</a></li><li><a href="/hans/轪">轪</a></li><li><a href="/hans/轨">轨</a></li><li><a href="/hans/辑">辑</a></li><li><a href="/hans/较">较</a></li><li><a href="/hans/辌">辌</a></li><li><a href="/hans/辍">辍</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/怍">怍</a></li><li><a href="/hans/䧈">䧈</a></li><li><a href="/hans/攽">攽</a></li><li><a href="/hans/𠂲">𠂲</a></li><li><a href="/hans/抳">抳</a></li><li><a href="/hans/顷">顷</a></li><li><a href="/hans/咗">咗</a></li><li><a href="/hans/衩">衩</a></li><li><a href="/hans/籵">籵</a></li><li><a href="/hans/㘴">㘴</a></li><li><a href="/hans/斺">斺</a></li><li><a href="/hans/𠈖">𠈖</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">七八个星天外，两三点雨山前。旧时茅店社林边。路<span>转</span>溪桥忽见。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">方欲行，<span>转</span>视积薪后，一狼洞其中，意将隧入以攻其后也。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">策勋十二<span>转</span>，赏赐百千强。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">如是再啮，石又再<span>转</span>。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl"><span>转</span><span>转</span>不已，遂反溯流逆上矣。</div><div class="gscdr">清·纪昀 《河中石兽》</div><div class="gscdl">每至晴初霜旦，林寒涧肃，常有高猿长啸，属引凄异，空谷传响，哀<span>转</span>久绝。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">蝉则千<span>转</span>不穷，猿则百叫无绝。</div><div class="gscdr">南北朝·吴均 《与朱元思书》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/plugin/hits/index.php?classid=14&id=16749"></script>
+</body>
+</html>

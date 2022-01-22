@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>引的解释|引的意思|汉典“引”字的基本解释</title>
+<meta name="title" content="引的解释|引的意思|汉典“引”字的基本解释">
+<meta property="og:title" content="“引”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“引”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“引”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/引" />
+<link rel="canonical" href="//www.zdic.net/hans/引" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/引" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/引" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/引" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/引">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/引">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5F15.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5F15.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yǐn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“引”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄧㄣˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“引”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄣˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=弓" target="_blank">  弓</a></p>
+                              <p><span class="z_ts2">部外</span>  1</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_ytz2"><a href='/hans/㧈' target=_blank>㧈</a>  <a href='/hans/廴' target=_blank>廴</a>  <a href='/hans/𢎢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/223A2.svg'><span class='ytz_txt'>𢎢</span></a>  <a href='/hans/𢏂' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/223C2.svg'><span class='ytz_txt'>𢏂</span></a>  <a href='/hans/𢪉' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22A89.svg'><span class='ytz_txt'>𢪉</span></a>  <a href='/hans/靷' target=_blank>靷</a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5F15</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>5152</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>xhh</p></td>                            <td class="dsk_2_1"><p>nl</p></td>                            <td class="dsk_2_1"><p>yzi</p></td>                            <td class="dsk_2_1"><p>12200</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yǐn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“引”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄧㄣˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“引”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧㄣˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=弓" target="_blank">弓</a> <span class="z_ts2">部外</span> 1<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">统一码</span> 5F15<span class="z_ts2">笔顺</span> 5152                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5F15_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4374" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p><hr class="dichr" /><p>● <strong>引</strong></p><p><span class="dicpy">yǐn  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span>  ㄧㄣˇ</span></p><ol><li>拉，伸：～力。～颈。～而不发。～吭高歌。</li><li>领，招来：～见。～子。～言。～导。～荐。抛砖～玉。</li><li>拿来做证据、凭据或理由：～文。～用。援～。</li><li>退却：～退。～避。</li><li>旧时长度单位，一引等于十丈。</li><li>古代柩车的绳索：发～（出殡）。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> to pull, draw out, attract; to stretch</p><p><span class="z_ts2">德语</span> ableiten, ablenken  (V)​,führen, leiten, jmd. den Weg weisen  (V)​,ziehen, anspannen  (V)</p><p><span class="z_ts2">法语</span> conduire,guider,attirer,provoquer,citer,emprunter</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p><hr class="dichr" /><p>◎ <strong>引</strong> <span class="dicpy">yǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span> </p><p>〈动〉</p><p><span class="cino">(1)</span> (会意。从弓丨。丨表示箭。箭在弦上，即将射发。本义:拉开弓)</p><p><span class="cino">(2)</span> 同本义 <span class="encs">[draw a bow]</span></p><p><span class="diczx1">引，开弓也。——<span class="smcs">《说文》</span></span></p><p><span class="diczx1">君子引而不发，跃如也。——<span class="smcs">《孟子》</span></span></p><p><span class="diczx1">引弓而射。——<span class="smcs">《淮南子·说林训》</span></span></p><p><span class="diczx1">臣为王引弓，虚发而下鸟。——<span class="smcs">《战国策·楚策》</span></span></p><p><span class="diczx1">长城以后，引弓之国，受命单于。——<span class="smcs">《史记·匈奴列传》</span></span></p><p><span class="diczx1">丁壮者，引弦而战。——<span class="smcs">《淮南子·人间训》</span></span></p><p><span class="diczx1">柄铁折叠环复…引之长丈许。——</span><span class="diczx2">明</span>· <span class="diczx2">魏禧</span><span class="smcs">《大铁椎传》</span></p><p><span class="cino">(3)</span> 又如:引手(引箭手);引弓(拉弓);引满(拉弓至满)</p><p><span class="cino">(4)</span> 拉，牵挽 <span class="encs">[draw]</span></p><p><span class="diczx1">人方引婴儿而欲投之江中。婴儿啼。——<span class="smcs">《吕氏春秋·察今》</span></span></p><p><span class="diczx1">引</span><span class="diczx2">相如</span>去。——<span class="smcs">《史记·廉颇蔺相如列传》</span></p><p><span class="diczx1">引车避匿。</span></p><p><span class="diczx1">友人惭，下车引之。</span><span class="diczx2">元方</span>入门，不顾(引之)，拉他(表示好感)。——<span class="smcs">《世说新语·方正》</span></p><p><span class="cino">(5)</span> 又如:引日(拉转日轮);引手(拉回手);引曳(牵拉)</p><p><span class="cino">(6)</span> 延长;延续 <span class="encs">[lengthen;continue]</span></p><p><span class="diczx1">子子孙孙，忽替引之。——<span class="smcs">《诗·小雅·楚茨》</span></span></p><p><span class="cino">(7)</span> 又如:引日(拖延时日);引年(延长年寿);引时(迁延时日)</p><p><span class="cino">(8)</span> 伸着 <span class="encs">[stretch]</span></p><p><span class="diczx1">引首顾曰。——</span><span class="diczx2">马中锡</span><span class="smcs">《中山狼传》</span></p><p><span class="diczx1">使者持刀趋前，</span><span class="diczx2">济</span>引颈待之。——<span class="smcs">《新唐书·卓行传·甄济》</span></p><p><span class="cino">(9)</span> 又如:引首(伸长头颈，抬起头。形容殷切盼望);引手(伸手);引颈(伸长颈项);引臂(伸臂)</p><p><span class="cino">(10)</span> 牵连;攀供 <span class="encs">[involve in]</span></p><p><span class="diczx1">果引</span><span class="diczx2">张胜</span>。——<span class="smcs">《汉书·李广苏建传》</span></p><p><span class="cino">(11)</span> 又如:引附(攀附);引逮(株连捕)</p><p><span class="cino">(12)</span> 引导 <span class="encs">[guide]</span></p><p><span class="diczx1">引之表仪。——<span class="smcs">《左传·文公六年》</span></span></p><p><span class="cino">(13)</span> 又如:引转(扭转;转回);引风吹火(引风助火势。喻指煽风点火，加重事态);引商刻羽(指讲究声律、造诣很深，有很高成就的音乐演奏)</p><p><span class="cino">(14)</span> 带领 <span class="encs">[lead]</span></p><p><span class="diczx1">复夜引兵。——<span class="smcs">《资治通鉴·唐纪》</span></span></p><p><span class="cino">(15)</span> 又如:引奏(向帝王禀告、上书);引领(带领);引线(告密、引路捕人者)</p><p><span class="cino">(16)</span> 引决、自尽 <span class="encs">[suicide]</span></p><p><span class="diczx1">感三良之殉</span><span class="diczx2">秦</span>兮，甘捐生而自引。——<span class="smcs">《文选·潘岳·寡妇赋》</span></p><p><span class="cino">(17)</span> 又如:引决(自杀);引诀(引决);引药(服毒自杀)</p><p><span class="cino">(18)</span> 援引 <span class="encs">[cite]</span></p><p><span class="diczx1">不宜妄自菲薄，引喻失义。——</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p><p><span class="diczx1">引入上谕中。——</span><span class="diczx2">清</span>· <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p><p><span class="cino">(19)</span> 又如:引喻失义(援引例证以明理而失去大义);引经据古(引用经史古籍中的文句或故事作为根据)</p><p><span class="cino">(20)</span> 荐举 <span class="encs">[recommend]</span></p><p><span class="diczx1">两人相为引重，其游如父子然。——<span class="smcs">《史记·魏其武安侯传》</span></span></p><p><span class="cino">(21)</span> 又如:引援(推举;引荐);引预(引荐，使之参与)</p><p><span class="cino">(22)</span> 招致 <span class="encs">[incur]</span></p><p><span class="diczx1">必亲引问。——<span class="smcs">《资治通鉴·唐纪》</span></span></p><p><span class="cino">(23)</span> 又如:引纳(招致接纳);引惹(招惹)</p><p><span class="cino">(24)</span> 执持 <span class="encs">[hold]</span>。如:引杖(持杖);引杯(举杯。指喝酒)</p><p><span class="cino">(25)</span> 退避 <span class="encs">[retreat]</span></p><p><span class="diczx1">自引而起。——<span class="smcs">《战国策·燕策》</span></span></p><p><span class="diczx1">引次江北。——<span class="smcs">《资治通鉴》</span></span></p><p><span class="cino">(26)</span> 又如:引避(引退，回避);引遁(退却，逃走)</p><p><span class="cino">(27)</span> 选用 <span class="encs">[elect]</span>。如:引贤(选用贤才)</p><p><span class="cino">(28)</span> 吸引 <span class="encs">[attract]</span></p><p><span class="diczx1">引入</span><span class="diczx2">黄婆洞</span>。——<span class="smcs">《广东军务记》</span></p><p><span class="cino">(29)</span> 又如:引类呼朋(呼引同类);引狗入寨(比喻主动把敌人或坏人引进来);引流(导引水流)</p><p><span class="cino">(30)</span> 辞职 <span class="encs">[resign]</span>。如:引老(告老。年老辞官);引去(离去;退去)</p><p><span class="cino">(31)</span> 举起;竖起 <span class="encs">[lift]</span></p><p><span class="diczx1">引其匕首提</span><span class="diczx2">秦王</span>，不中，中柱。——<span class="smcs">《战国策·燕策》</span></p><p><span class="cino">(32)</span> 又如:引耳(竖着耳朵);引饮(举杯而饮)</p><p><span class="cino">(33)</span> 承认 <span class="encs">[recognize]</span></p><p><span class="diczx2">权</span>引咎责躬。——<span class="smcs">《三国志·吴志》</span></p><p><span class="cino">(34)</span> 又如:引伏(服罪);引过(承认过失);引罪(承认罪过)</p><p><span class="cino">(35)</span> 延请 <span class="encs">[send for]</span></p><p><span class="diczx1">公子引</span><span class="diczx2">侯生</span>坐上坐。——<span class="smcs">《史记·魏公子列传》</span></p><p><span class="cino">(36)</span> 取过来，拿出 <span class="encs">[take;get;get sth.out]</span></p><p><span class="diczx1">引佩刀。——<span class="smcs">《汉书·李广苏建传》</span></span></p><p><span class="diczx1">引壶觞。——</span><span class="diczx2">晋</span>· <span class="diczx2">陶渊明</span><span class="smcs">《归去来兮辞》</span></p><p><strong>词性变化</strong></p><p>◎ <strong>引</strong> <span class="dicpy">yǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span> </p><p>〈名〉</p><p><span class="cino">(1)</span> 引车前行的皮带 <span class="encs">[leather strap for pulling cart]</span></p><p><span class="diczx1">縣縣常以结引驰外为务。——<span class="smcs">《荀子·王霸》</span>。注:<span class="yhcs">“引，读为靷。靷，引轴之物。”</span></span></p><p><span class="diczx1">属引。——<span class="smcs">《仪礼·既夕礼》</span>。注:<span class="yhcs">“引，所以引柩车，在轴遁曰绋。”</span></span></p><p><span class="diczx1">执引者三百人。——<span class="smcs">《周礼·大司徒》</span></span></p><p><span class="cino">(2)</span> 卷首语;序言 <span class="encs">[forward]</span>。如:小引</p><p><span class="cino">(3)</span> 乐曲体裁之一，有序奏之意 <span class="encs">[prelude]</span></p><p><span class="diczx1">故聆曲引者，观法于节奏。——</span><span class="diczx2">马融</span><span class="smcs">《长笛赋》</span></p><p><span class="cino">(4)</span> 又如:引辞(宋元戏曲演唱时第一支曲子的泛称，用以引起剧情)</p><p><span class="cino">(5)</span> 指商人运销货物的凭证 <span class="encs">[license]</span></p><p><span class="diczx1">令客人赴官请引，自于茶园买茶…——<span class="smcs">《宣和遗事》</span></span></p><p><span class="cino">(6)</span> 又如:引行公店(盐商联合经营的机构);盐引;茶引</p><p><span class="cino">(7)</span> 通行执照 <span class="encs">[pass]</span></p><p><span class="diczx1">央李员外衙门上下打点使用了钱，见了大严，给引还乡。——<span class="smcs">《警世通言》</span></span></p><p>◎ <strong>引</strong> <span class="dicpy">yǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span> </p><p>〈形〉</p><p>长久 <span class="encs">[long]</span></p><p><span class="diczx1">常有高猿长啸，属引凄异。——<span class="smcs">《水经注》</span></span></p><p>◎ <strong>引</strong> <span class="dicpy">yǐn</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yǐn.mp3"></a></span> </p><p>〈量〉</p><p>长度单位 <span class="encs">[formerly， a measure of distance]</span>。古代以十丈为一引。今为市引的简称。1公里=30引</p><p><strong>常用词组</strong></p><hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/引爆">引爆</a></span><span class="crefe"><a href="/hans/引别">引别</a></span><span class="crefe"><a href="/hans/引柴">引柴</a></span><span class="crefe"><a href="/hans/引产">引产</a></span><span class="crefe"><a href="/hans/引车">引车</a></span><span class="crefe"><a href="/hans/引出">引出</a></span><span class="crefe"><a href="/hans/引导">引导</a></span><span class="crefe"><a href="/hans/引得">引得</a></span><span class="crefe"><a href="/hans/引逗">引逗</a></span><span class="crefe"><a href="/hans/引渡">引渡</a></span><span class="crefe"><a href="/hans/引而不发">引而不发</a></span><span class="crefe"><a href="/hans/引狗入寨">引狗入寨</a></span><span class="crefe"><a href="/hans/引鬼上门">引鬼上门</a></span><span class="crefe"><a href="/hans/引吭高歌">引吭高歌</a></span><span class="crefe"><a href="/hans/引号">引号</a></span><span class="crefe"><a href="/hans/引河">引河</a></span><span class="crefe"><a href="/hans/引火">引火</a></span><span class="crefe"><a href="/hans/引火烧身">引火烧身</a></span><span class="crefe"><a href="/hans/引见">引见</a></span><span class="crefe"><a href="/hans/引荐">引荐</a></span><span class="crefe"><a href="/hans/引进">引进</a></span><span class="crefe"><a href="/hans/引经据典">引经据典</a></span><span class="crefe"><a href="/hans/引咎">引咎</a></span><span class="crefe"><a href="/hans/引决">引决</a></span><span class="crefe"><a href="/hans/引来">引来</a></span><span class="crefe"><a href="/hans/引狼入室">引狼入室</a></span><span class="crefe"><a href="/hans/引力">引力</a></span><span class="crefe"><a href="/hans/引领">引领</a></span><span class="crefe"><a href="/hans/引流">引流</a></span><span class="crefe"><a href="/hans/引起">引起</a></span><span class="crefe"><a href="/hans/引桥">引桥</a></span><span class="crefe"><a href="/hans/引擎">引擎</a></span><span class="crefe"><a href="/hans/引人入胜">引人入胜</a></span><span class="crefe"><a href="/hans/引人注目">引人注目</a></span><span class="crefe"><a href="/hans/引入">引入</a></span><span class="crefe"><a href="/hans/引入">引入</a></span><span class="crefe"><a href="/hans/引入迷途">引入迷途</a></span><span class="crefe"><a href="/hans/引商刻羽">引商刻羽</a></span><span class="crefe"><a href="/hans/引蛇出洞">引蛇出洞</a></span><span class="crefe"><a href="/hans/引申">引申</a></span><span class="crefe"><a href="/hans/引胜">引胜</a></span><span class="crefe"><a href="/hans/引首">引首</a></span><span class="crefe"><a href="/hans/引手">引手</a></span><span class="crefe"><a href="/hans/引述">引述</a></span><span class="crefe"><a href="/hans/引水">引水</a></span><span class="crefe"><a href="/hans/引水入墙">引水入墙</a></span><span class="crefe"><a href="/hans/引头">引头</a></span><span class="crefe"><a href="/hans/引退">引退</a></span><span class="crefe"><a href="/hans/引文">引文</a></span><span class="crefe"><a href="/hans/引嫌">引嫌</a></span><span class="crefe"><a href="/hans/引线穿针">引线穿针</a></span><span class="crefe"><a href="/hans/引信">引信</a></span><span class="crefe"><a href="/hans/引言">引言</a></span><span class="crefe"><a href="/hans/引以为戒">引以为戒</a></span><span class="crefe"><a href="/hans/引用">引用</a></span><span class="crefe"><a href="/hans/引诱">引诱</a></span><span class="crefe"><a href="/hans/引语">引语</a></span><span class="crefe"><a href="/hans/引玉之砖">引玉之砖</a></span><span class="crefe"><a href="/hans/引喻">引喻</a></span><span class="crefe"><a href="/hans/引喻失义">引喻失义</a></span><span class="crefe"><a href="/hans/引着">引着</a></span><span class="crefe"><a href="/hans/引证">引证</a></span><span class="crefe"><a href="/hans/引锥刺股">引锥刺股</a></span><span class="crefe"><a href="/hans/引子">引子</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語詞典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd"><div class="pz"><ruby><rbc><rb>引</rb></rbc><rtc><rt>ㄧㄣˇ</rt></rtc><rtc><rt>yǐn <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6150.ogg"></a></span> </rt></rtc></ruby></div><div class="gycd-item"><span class="gc_cx">动</span><ol><li><p class="def"><span class="gc_sy">开弓。</span><span class="gc_yy">《庄子·田子方》：「列御寇为伯昏无人射，<b>引</b>之盈贯。」</span><span class="gc_yy">《孟子·尽心上》：「羿不为拙射变其彀率，君子引而不发，跃如也。」</span></p></li><li><p class="def"><span class="gc_sy">拉。</span><span class="gc_yy">《韩非子·人主》：「夫马之所以能任重<b>引</b>车致远道者，以筋力也。」</span><span class="gc_yy">《聊斋志异·卷一·尸变》：「客大惧，恐将及己，潜<b>引</b>被覆首，闭息忍咽以听之。」</span></p></li><li><p class="def"><span class="gc_sy">伸长、延长。</span><span class="gc_yy">《左传·成公十三年》：「我君景公，引领西望。」</span><span class="gc_yy">唐·韩愈〈进学解〉：「忘己量之所称，指前人之瑕疵，是所谓诘匠氏之不以杙为楹，而訾医师以昌阳引年，欲进其豨苓也。」</span></p></li><li><p class="def"><span class="gc_sy">领导、带领。</span><span class="gc_yy">《史记·卷七·项羽本纪》：「项羽引兵西屠咸阳，杀秦降王子婴。」</span><span class="gc_yy">《红楼梦·第一回》：「适因小女啼哭，<b>引</b>他出来作耍。」</span></p></li><li><p class="def"><span class="gc_sy">招致、招惹。</span><span class="gc_lz">如：「抛砖引玉」。</span><span class="gc_yy">唐·白居易〈初授秘监并赐金紫闲吟小酌偶写所怀〉诗：「酒<b>引</b>眼前兴，诗留身后名。」</span><span class="gc_yy">清·洪升《长生殿·第三八出》：「无端唱出兴亡恨，引得傍人也泪流。」</span></p></li><li><p class="def"><span class="gc_sy">推荐、选拔。</span><span class="gc_yy">《后汉书·卷一三·隗嚣传》：「王莽国师刘歆<b>引</b>嚣为士。」</span><span class="gc_yy">唐·钱起〈乐游原晴望上中书李侍郎〉诗：「遥想青云丞相府，何时开合<b>引</b>书生。」</span></p></li><li><p class="def"><span class="gc_sy">援用。</span><span class="gc_yy">汉·何休〈公羊传解诂序〉：「援<b>引</b>他经，失其句读。」</span><span class="gc_yy">南朝梁·刘勰《文心雕龙·事类》：「虽<b>引</b>古事，而莫取旧辞。」</span></p></li><li><p class="def"><span class="gc_sy">退避、退出。</span><span class="gc_yy">《礼记·玉藻》：「侍坐则必退席，不退，则必<b>引</b>而去君之党。」</span><span class="gc_yy">宋·苏轼〈与辩才禅师〉诗：「得此闲郡，虽未能超然远<b>引</b>，亦退老之渐也。」</span></p></li><li><p class="def"><span class="gc_sy">承受。</span><span class="gc_yy">《新唐书·卷八○·太宗诸子传·庶人佑传》：「诚能饬躬引咎，万纪请入朝言之，上意宜解。」</span><span class="gc_yy">《三国演义·第九九回》：「街亭之役，咎由马谡，而君<b>引</b>愆，深自贬抑。」</span></p></li></ol></div><div class="gycd-item"><span class="gc_cx">名</span><ol><li><p class="def"><span class="gc_sy">量词。计算长度的单位。公制一<b><b>引</b></b>等于一百公尺。</span><span class="gc_yx">也称为「公<b>引</b>」。</span></p></li><li><p class="def"><span class="gc_sy">纸币。</span><span class="gc_yy">宋·陆游《老学庵笔记·卷六》：「胡子远之父，唐安人，家饶财，常委仆权钱，得钱<b>引</b>五千缗，皆伪也。」</span></p></li><li><p class="def"><span class="gc_sy">通行证。</span><span class="gc_lz">如：「路<b>引</b>」。</span><span class="gc_yy">《西游记·第五四回》：「请投馆驿注名上簿，待下官执名奏驾，验<b>引</b>放行。」</span><span class="gc_yy">《警世通言·卷二八·白娘子永镇雷峰塔》：「见了大尹，给<b>引</b>还乡。」</span></p></li><li><p class="def"><span class="gc_sy">拉柩车的绳索。</span><span class="gc_yy">《礼记·檀弓下》：「吊于葬者必执<b>引</b>，若从柩及圹皆执绋。」</span></p></li><li><p class="def"><span class="gc_sy">文体名。相当于「序」，而较序短。</span><span class="gc_yy">唐·王勃〈滕王阁序〉：「敢竭鄙怀，恭疏短<b>引</b>。」</span><span class="gc_yy">宋·陆游《老学庵笔记·卷六》：「苏东坡祖名字，故为人作序皆用叙序，又以未安，遂改作<b>引</b>。」</span></p></li><li><p class="def"><span class="gc_sy">一种乐府诗体。</span><span class="gc_lz">如：「思归<b>引</b>」、「箜篌<b>引</b>」。</span><span class="gc_yy">唐·元稹〈乐府古题序〉：「赋、颂、<b>引</b>、谣、……、词、调，皆诗人六义之余，而作者之旨。」</span></p></li></ol></div></div>
+
+                    <div class="div copyright"> © 汉典 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5F15_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=弓" target="_blank">弓</a>】
+                              引·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：1</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 《康熙字典》</span></h2>
+                                                  
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=弓" target="_blank">弓</a>】
+                              引·康熙筆画：<a href="/zd/kx/bh/?bh=4" target="_blank">4</a>　·部外筆画：1</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5F15.svg">						  <p>〔古文〕㧈【唐韻】余忍切【集韻】【韻會】【正韻】以忍切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音蚓。【說文】開弓也。【徐鉉曰】象引弓之形。【周禮·冬官考工記】維體防之，引之中參。</p><p>又【廣雅】演也。【易·繫辭】引而伸之。</p><p>又【爾雅·釋詁】長也。【釋訓】子子孫孫引無極也。【書·梓材】引養引恬。</p><p>又相牽曰引。【禮·檀弓】喪服，兄弟之子，猶子也。蓋引而進之也。【註】牽引進之，同于己子。【史記·秦始皇紀】諸生轉相告引。</p><p>又【集韻】導也。【史記·韓長孺傳】奉引墮車，蹇。【註】爲天子導引而墮車，跛。</p><p>又卻也。【禮·玉藻】侍坐，則必退席。不退，則必引而去君之黨。【註】引，卻也。</p><p>又相薦達曰引。【史記·魏其侯傳】兩人相爲引重。【註】相薦達爲聲勢。【後漢·張皓王龔傳論】顯登者以貴塗易引。</p><p>又服氣法曰道引。【莊子·刻意篇】道引之士，養形之人。【史記·留侯世家】道引不食穀。</p><p>又治疾法有撟引。【史記·扁鵲傳】鑱石撟引。【註】謂爲按摩之法，夭撟引身，如熊顧鳥伸也。</p><p>又十丈爲引。【前漢·律歷志】其法用竹爲引，高一分，廣六分，長十丈。引者，信也。【註】信讀曰伸，言其長。</p><p>又【廣韻】【正韻】羊晉切【集韻】【韻會】羊進切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>蚓去聲。【集韻】牽牛綍也。【禮·檀弓】弔於葬者，必執引。【疏】引，柩車索也。</p><p>又【集韻】一曰曲引。【蔡邕·琴操】有思歸引。</p><p>又引古作<img class='lazy k_img' data-original='//img.zdic.net/song/cn/22A89.svg'><span class='k_txt'>𢪉</span>。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5F15_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=弓">弓</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=弓">弓</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5F15.svg">                          <p>開弓也。从弓丨。余忍切〖注〗臣鉉等曰：象引弓之形。</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5F15_1773.svg"  /><span class="swbf">(引)</span><span class="ywyy">開弓也。</span><span class="swdz">開下曰張也。是門可曰張。弓可曰開。相爲轉注也。施弦於弓曰張。鉤弦使滿、以竟矢之長亦曰張。是謂之引。凡延長之偁、開導之偁皆引申於此。小雅楚茨、大雅召旻毛傳皆曰。引、長也。</span><span class="ywyy">从弓丨。</span><span class="swdz">此引而上行之丨也。爲會意。丨亦象矢形。余忍切。十二部。</span><span class="xh"></span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5F15_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  jin˨˩˦ <span class="z_ts4">唐代读音</span>  *ǐn<span class="z_ts4">日语读音</span>  HIKU<span class="z_ts4">韩语罗马</span>  IN<span class="z_ts4">现代韩语</span>  인<span class="z_ts3">越南语</span>  dẫn</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] jin1 [台湾四县腔] jin1 jin3 [客语拼音字汇] yin1 yin3 [海陆腔] rin1 rin3 [客英字典] jin3 [东莞腔] jin3 [陆丰腔] jin3 [宝安腔] jin3 [沙头角腔] jin3<span class="z_ts2">粤语</span>  jan5</p>						<p><span class="z_ts3">近代音</span>  影母    真文韻    上聲    隱小空；<span class="z_ts3">中古音</span>  喻以母    軫韻    上聲    引小韻    余忍切    三等    開口；喻以母    震韻    去聲    胤小韻    羊晉切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：影母    先部   ；王力系统：餘母    真部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/引">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/引">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/引">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/引">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/引">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/引">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/引">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/引">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/引">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/引">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/引">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/引">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">引</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td><a href="/zd/zx/jg/引"><img data-original="//img.zdic.net/zy/jiaguwen/43_F095.svg" class="lazy ypic"><span>「引」 前5.8.5</span></a></td><td><a href="/zd/zx/jw/引"><img data-original="//img.zdic.net/zy/jinwen/33_F5FE.svg" class="lazy ypic"><span>「引」 引尊</span><span>西周早期或中期</span><span>集成5950</span></a></td><td><a href="/zd/zx/cx/引"><img data-original="//img.zdic.net/zy/chuwenzi/57_F296.svg" class="lazy ypic"><span>「引」 九.56.71</span></a></td><td><a href="/zd/zx/xz/引"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5F15.svg" class="lazy ypic"><span>「引」 說文‧弓部</span></a></td><td><a href="/zd/zx/qx/引"><img data-original="//img.zdic.net/zy/qinwenzi/71_ED07.svg" class="lazy ypic"><span>「引」 睡.雜8</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/引" target="_blank"><img data-original="//img.zdic.net/kai/tw/5F15.svg" class="lazy ypic"><span>「引」</span></a></td></tr><tr><td><a href="/zd/zx/jg/引"><img data-original="//img.zdic.net/zy/jiaguwen/43_F09A.svg" class="lazy ypic"><span>「引」 乙8809</span><span>合22300</span></a></td><td><a href="/zd/zx/jw/引"><img data-original="//img.zdic.net/zy/jinwen/33_F606.svg" class="lazy ypic"><span>「引」 秦公簋</span><span>春秋中期</span><span>集成4315</span></a></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/引">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/引">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/引">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/引">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/引">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/引">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5F15.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5F15.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5F15.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5F15.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5F15.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/㧈' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/39C8.svg'><span>㧈</span></a></div> <div class='zx'><a href='/hans/廴' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/5EF4.svg'><span>廴</span></a></div> <div class='zx'><a href='/hans/𢎢' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/223A2.svg'><span>𢎢</span></a></div>  <div class='zx'><a href='/hans/𢏂' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/223C2.svg'><span>𢏂</span></a></div>  <div class='zx'><a href='/hans/𢪉' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/22A89.svg'><span>𢪉</span></a></div>  <div class='zx'><a href='/hans/靷' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/9777.svg'><span>靷</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4374" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7529">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/櫽">櫽(yin3)</a></li><li><a href="/hans/讔">讔(yin3)</a></li><li><a href="/hans/饮">饮(yin3)</a></li><li><a href="/hans/㡥">㡥(yin3)</a></li><li><a href="/hans/瘾">瘾(yin3)</a></li><li><a href="/hans/㹞">㹞(yin3)</a></li><li><a href="/hans/磤">磤(yin3)</a></li><li><a href="/hans/濥">濥(yin3)</a></li><li><a href="/hans/隐">隐(yin3)</a></li><li><a href="/hans/飮">飮(yin3)</a></li><li><a href="/hans/㾙">㾙(yin3)</a></li><li><a href="/hans/縯">縯(yin3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/弘">弘</a></li><li><a href="/hans/㢷">㢷</a></li><li><a href="/hans/强">强</a></li><li><a href="/hans/弱">弱</a></li><li><a href="/hans/彁">彁</a></li><li><a href="/hans/弪">弪</a></li><li><a href="/hans/弡">弡</a></li><li><a href="/hans/㢳">㢳</a></li><li><a href="/hans/彊">彊</a></li><li><a href="/hans/㢹">㢹</a></li><li><a href="/hans/弾">弾</a></li><li><a href="/hans/弻">弻</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/爪">爪</a></li><li><a href="/hans/欠">欠</a></li><li><a href="/hans/㞢">㞢</a></li><li><a href="/hans/戶">戶</a></li><li><a href="/hans/艹">艹</a></li><li><a href="/hans/亣">亣</a></li><li><a href="/hans/龷">龷</a></li><li><a href="/hans/木">木</a></li><li><a href="/hans/凤">凤</a></li><li><a href="/hans/乢">乢</a></li><li><a href="/hans/日">日</a></li><li><a href="/hans/兮">兮</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">“日中不至，则是无信；对子骂父，则是无礼。”友人惭，下车<span>引</span>之。元方入门不顾。</div><div class="gscdr">南北朝·刘义庆 世说新语《陈太丘与友期行》</div><div class="gscdl">晴空一鹤排云上，便<span>引</span>诗情到碧霄。</div><div class="gscdr">唐·刘禹锡 《秋词》</div><div class="gscdl">每至晴初霜旦，林寒涧肃，常有高猿长啸，属<span>引</span>凄异，空谷传响，哀转久绝。</div><div class="gscdr">南北朝·郦道元 《三峡》</div><div class="gscdl">诚宜开张圣听，以光先帝遗德，恢弘志士之气，不宜妄自菲薄，<span>引</span>喻失义，以塞忠谏之路也。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4374"></script>
+</body>
+</html>

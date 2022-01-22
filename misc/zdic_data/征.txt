@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>征的解释|征的意思|汉典“征”字的基本解释</title>
+<meta name="title" content="征的解释|征的意思|汉典“征”字的基本解释">
+<meta name="keywords" content="左：彳，右：正。 " /><meta property="og:title" content="“征”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“征”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“征”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/征" />
+<link rel="canonical" href="//www.zdic.net/hans/征" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/征" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/征" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/征" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/征">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/征">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5F81.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5F81.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">zhēng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“征”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄓㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“征”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄥ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彳" target="_blank">  彳</a></p>
+                              <p><span class="z_ts2">部外</span>  5</p>
+                              <p><span class="z_ts3">总笔画</span>  8</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/徵' target=_blank>徵</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/徰' target=_blank>徰</a> <a href='/hans/𢌛' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2231B.svg'><span class='ytz_txt'>𢌛</span> <a href='/hans/𨒌' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2848C.svg'><span class='ytz_txt'>𨒌</span> <a href='/hans/徵' target=_blank>徵</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5F81</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>33212121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>tghg</p></td>                            <td class="dsk_2_1"><p>homym</p></td>                            <td class="dsk_2_1"><p>oiai</p></td>                            <td class="dsk_2_1"><p>21211</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">zhēng<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“征”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄓㄥ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“征”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄓㄥ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=彳" target="_blank">彳</a> <span class="z_ts2">部外</span> 5<span class="z_ts3">总笔画</span> 8</p>                    <p><span class="z_ts3">基本区</span> 5F81<span class="z_ts2">笔顺</span> 33212121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5F81_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4482" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">征</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>征</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字">➌-➐<span class="diczx3">徵</span>）</strong></p>
+<p><span class="dicpy">zhēng  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> ㄓㄥˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>远行：长～。～途。～夫。～人。～衣。～帆（远行的船）。</li>
+	<li>用武力制裁，讨伐：～服（用力制服）。～讨。～伐。～战（出征作战）。南～北战。</li>
+	<li>召集：～兵。～募（招募兵士）。～集兵马。</li>
+	<li>收集：～税。～粮。</li>
+	<li>招请，寻求：～求。～稿。～婚。～聘（招聘）。～询（征求意见）。</li>
+	<li>证明，证验：～引（引用，引证）。信而有～。</li>
+	<li>表露出来的迹象：特～。～候。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> invade, attack, conquer</p><p><span class="z_ts2">德语</span> angreifen, attackieren ,erheben, Erhebung  (S)​,Zheng  (Eig, Fam)</p><p><span class="z_ts2">法语</span> voyager,lancer une expédition,enrôler,prélever,preuve,signe,marcher,lancer une expédition,conquérir,percevoir,prélever</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">征</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>征</strong> <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (形声。从彳( <span class="dicpy">ch&igrave;</span>)，正声。从彳，表示与行走有关。甲骨文从彳，从足。本义:到很远的地方去，远行)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[go on a journey]</span></p>
+<p><span class="diczx1">徴，正行也。从辵，正声。或从彳。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">征，行也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">壮于趾征凶。&mdash;&mdash;<span class="smcs">《易&middot;大壮》</span></span></p>
+<p><span class="diczx1">而月斯征。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;小宛》</span></span></p>
+<p><span class="diczx1">先王卜征五年。&mdash;&mdash;<span class="smcs">《左传&middot;襄公十三年》</span>。注:&ldquo;谓巡狩征行。&rdquo;</span></p>
+<p><span class="diczx1">肃肃宵征，夙夜在公。&mdash;&mdash;<span class="smcs">《诗&middot;召南&middot;小星》</span></span></p>
+<p><span class="diczx1">愿为市鞍马，从此替爷征。&mdash;&mdash;古乐府<span class="smcs">《木兰词》</span></span></p>
+<p><span class="diczx1">孤蓬万里征。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《送友人》</span></p>
+<p><span class="diczx3">又如:征鼙(征战的军鼓);征衣(行旅在在外的御寒衣服);征客(游子。同征人);征鸟(远飞的鸟);征盖(远行的车);征夫(远行的人;出征的士兵)</span></p>
+<p><span class="cino">(3)</span> 征伐，发兵讨伐 <span class="encs">[go on a punitive expedition]</span></p>
+<p><span class="diczx1">征者，上伐下也。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">奉辞伐罪曰征。&mdash;&mdash;<span class="smcs">《书&middot;允征》</span></span></p>
+<p><span class="diczx1">桓桓于征。&mdash;&mdash;<span class="smcs">《诗&middot;鲁颂&middot;泮水》</span></span></p>
+<p><span class="diczx1">一曰征。&mdash;&mdash;<span class="smcs">《周礼&middot;太卜》</span>。</span><span class="diczx2">司农</span>注:&ldquo;谓征伐人也。&rdquo;</p>
+<p><span class="diczx1">挟天子以征四方。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:征诛(征讨诛戮);征阵(战阵);征讨(讨伐);征略(征战略地);征剿(犹征讨)</span></p>
+<p><span class="cino">(4)</span> 争夺，争取 <span class="encs">[contend for;fight for]</span></p>
+<p><span class="diczx1">不为征利。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《答司马谏议书》</span></p>
+<p><span class="cino">(5)</span> 征收 <span class="encs">[levy]</span></p>
+<p><span class="diczx2">宣德</span>间，宫中尚促织之戏，岁征民间。&mdash;&mdash;<span class="smcs">《聊斋志异》</span></p>
+<p><span class="diczx3">又如:征榷(征税与专卖);征役(征税与劳役);征缮(谓征收赋税，整顿武备);征敛(亦作&ldquo;征敛&rdquo;)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>征</strong> <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 赋税 <span class="encs">[taxes]</span></p>
+<p><span class="diczx1">有布缕之征，粟米之征。&mdash;&mdash;<span class="smcs">《孟子&middot;尽心下》</span></span></p>
+<p><span class="diczx3">又如:征役(赋税与徭役)</span></p>
+<p><span class="cino">(2)</span> 姓</p>
+<p>◎ <strong>征</strong></p>
+<p>徵、徴 <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。从微省、壬。行于微而闻达。本义:征召)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[summon;call up]</span></p>
+<p><span class="diczx1">徵，召也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">徵，召也。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">以量度成贾而徵徴。&mdash;&mdash;<span class="smcs">《周礼&middot;司市》</span></span></p>
+<p><span class="diczx1">各掌其县之政令徵比。&mdash;&mdash;<span class="smcs">《周礼&middot;县正》</span></span></p>
+<p><span class="diczx1">徵唯所欲。&mdash;&mdash;<span class="smcs">《仪礼&middot;乡射礼》</span></span></p>
+<p><span class="diczx1">王使来徵聘。&mdash;&mdash;<span class="smcs">《左传&middot;宣公九年》</span></span></p>
+<p><span class="diczx1">发征期会。&mdash;&mdash;<span class="smcs">《史记&middot;货殖列传》</span></span></p>
+<p><span class="diczx1">征拜郎中。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx1">征拜尚书。</span></p>
+<p><span class="diczx3">又如:征引(征召引用);征令(征召及施令);征吏(谓召用佐吏);征车(古代征召贤达使用的车子);征守(谓天子征召守国的诸侯)</span></p>
+<p><span class="cino">(3)</span> 求取;索取 <span class="encs">[solicit]</span></p>
+<p><span class="diczx1">物贱之征贵。&mdash;&mdash;<span class="smcs">《史记&middot;货殖列传》</span></span></p>
+<p><span class="diczx1">贵之征贱。</span></p>
+<p><span class="diczx1">岁征民间。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx1">会征促织。</span></p>
+<p><span class="diczx3">又如:征乞(求取);征索(索取);征须(求取);征贿(求取贿赂);征求(求索)</span></p>
+<p><span class="cino">(4)</span> 追究;追问 <span class="encs">[trace;get to the bottom;examine closely]</span></p>
+<p><span class="diczx1">寡人是征。&mdash;&mdash;<span class="smcs">《左传&middot;僖公四年》</span></span></p>
+<p><span class="cino">(5)</span> 证明;验证 <span class="encs">[verify]</span></p>
+<p><span class="diczx1">念用庶征。&mdash;&mdash;<span class="smcs">《书&middot;洪范》</span></span></p>
+<p><span class="diczx1">征为五声。&mdash;&mdash;<span class="smcs">《左传&middot;昭公元年》</span></span></p>
+<p><span class="diczx1">用牲，加书征之。&mdash;&mdash;<span class="smcs">《左传&middot;襄公二十六年》</span></span></p>
+<p><span class="diczx1">怪其无征。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></span></p>
+<p><span class="diczx3">又如:征验;征圣(验证于前圣的遗教);征象(验证);征效(效验)</span></p>
+<p>◎ <strong>征</strong></p>
+<p>徵 <span class="dicpy">zhēng</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/zhēng.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 征兆;迹象 <span class="encs">[symbol]</span></p>
+<p><span class="diczx1">明征定保。&mdash;&mdash;<span class="smcs">《书&middot;胤征》</span></span></p>
+<p><span class="diczx1">休征嘉应。&mdash;&mdash;<span class="smcs">《汉书&middot;平帝纪赞》</span></span></p>
+<p><span class="diczx1">候善恶之征。&mdash;&mdash;<span class="smcs">《汉书&middot;艺文志》</span></span></p>
+<p><span class="diczx1">征兆必报。&mdash;&mdash;<span class="smcs">《汉书&middot;儿宽传》</span></span></p>
+<p><span class="diczx1">观国之强弱贫富有征。&mdash;&mdash;<span class="smcs">《荀子》</span></span></p>
+<p><span class="diczx1">征于色。&mdash;&mdash;<span class="smcs">《孟子&middot;告子下》</span></span></p>
+<p><span class="diczx3">又如:征迹(迹象);征怪(怪异的征兆);征咎(灾祸的征兆);征候(发生某种情况的迹象，征兆);征效(征兆) &ldquo;徵&rdquo;</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">zhǐ</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/征兵">征兵</a></span><span class="crefe"><a href="/hans/征尘">征尘</a></span><span class="crefe"><a href="/hans/征程">征程</a></span><span class="crefe"><a href="/hans/征调">征调</a></span><span class="crefe"><a href="/hans/征发">征发</a></span><span class="crefe"><a href="/hans/征伐">征伐</a></span><span class="crefe"><a href="/hans/征夫">征夫</a></span><span class="crefe"><a href="/hans/征服">征服</a></span><span class="crefe"><a href="/hans/征稿">征稿</a></span><span class="crefe"><a href="/hans/征购">征购</a></span><span class="crefe"><a href="/hans/征候">征候</a></span><span class="crefe"><a href="/hans/征集">征集</a></span><span class="crefe"><a href="/hans/征募">征募</a></span><span class="crefe"><a href="/hans/征南将军">征南将军</a></span><span class="crefe"><a href="/hans/征聘">征聘</a></span><span class="crefe"><a href="/hans/征求">征求</a></span><span class="crefe"><a href="/hans/征实">征实</a></span><span class="crefe"><a href="/hans/征收">征收</a></span><span class="crefe"><a href="/hans/征戍">征戍</a></span><span class="crefe"><a href="/hans/征税">征税</a></span><span class="crefe"><a href="/hans/征讨">征讨</a></span><span class="crefe"><a href="/hans/征途">征途</a></span><span class="crefe"><a href="/hans/征文">征文</a></span><span class="crefe"><a href="/hans/征象">征象</a></span><span class="crefe"><a href="/hans/征询">征询</a></span><span class="crefe"><a href="/hans/征引">征引</a></span><span class="crefe"><a href="/hans/征用">征用</a></span><span class="crefe"><a href="/hans/征战">征战</a></span><span class="crefe"><a href="/hans/征召">征召</a></span><span class="crefe"><a href="/hans/征兆">征兆</a></span><span class="crefe"><a href="/hans/征逐">征逐</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">征</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>征</rb></rbc><rtc><rt>ㄓㄥ</rt></rtc><rtc><rt>zhēng <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/4469.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">遠行。</span><span class="gc_lz">如：「長<b>征</b>」、「遠<b>征</b>」。</span><span class="gc_yy">《詩經&middot;小雅&middot;小明》：「我<b>征</b>徂西，至于艽野。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">討伐。</span><span class="gc_lz">如：「征伐」、「征戍」、「南征北討」。</span><span class="gc_yy">《漢書&middot;卷七&middot;武帝紀》：「遣貳師將軍李廣利，發天下謫民西<b>征</b>大宛。」</span><span class="gc_yy">唐&middot;王翰〈涼州詞〉二首之一：「醉臥沙場君莫笑，古來征戰幾人回。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">課徵。</span><span class="gc_lz">如：「<b>征</b>稅」、「橫征暴斂」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">強取、爭奪。</span><span class="gc_yy">《孟子&middot;梁惠王上》：「上下交<b>征</b>利，而國危矣。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">賦稅。</span><span class="gc_yy">《孟子&middot;盡心下》：「有布縷之<b>征</b>，粟米之<b>征</b>，力役之<b>征</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如宋代有征集。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5F81_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=彳" target="_blank">彳</a>】
+                              征·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：5</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">征</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=寅集下" target="_blank">寅集下</a>】【<a href="/zd/kx/?zm=寅集下&amp;bs=彳" target="_blank">彳</a>】
+                              征·康熙筆画：<a href="/zd/kx/bh/?bh=8" target="_blank">8</a>　·部外筆画：5</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5F81.svg">						  <p>〔古文〕徰【廣韻】【集韻】【韻會】諸盈切【正韻】諸成切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>証平聲。【爾雅&middot;釋言】行也。【易&middot;泰卦】拔茅茹，以其彙征吉。【詩&middot;小雅】之子于征。</p>
+<p>又【韻會】征，伐也。【易&middot;離卦】王用出征。【書&middot;大禹謨】惟時有苗弗率，汝徂征。【孟子】征者，上伐下也。</p>
+<p>又【正韻】征，取也。【禮&middot;王制】關譏而不征。</p>
+<p>又姓。【前漢&middot;司馬相如傳】厮征伯僑，而役羨門兮。【註】仙人，姓征，名伯僑。</p>
+<p>又【韻會】通政。【周禮&middot;地官&middot;小司徒】施其職，而平其政。【註】音征，稅也。當作征。</p>
+<p>又通正。【周禮&middot;夏官】惟加田無國正。【註】音征，稅也。獨加賞之田無稅。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5F81_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=辵">辵</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">𨒌</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“征”字头，请参考“<a href="/hans/𨒌"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2848C.svg"><span class="k_txt">𨒌</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷二">卷二</a>】【<a href="/zd/sw/?swju=卷二&amp;swbs=辵">辵</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/2848C.svg">                          <p>正行也。从辵正聲。<img class="swtimg" src="//img.zdic.net/swxz/2848C_1.svg" />征，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2231B.svg"><span class="k_txt">𢌛</span>（<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2848C.svg"><span class="k_txt">𨒌</span>）或从彳。諸盈切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2848C_10082.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2848C.svg"><span class="k_txt">𨒌</span>)</span><span class="ywyy">正行也。</span><span class="swdz">釋言、毛傳皆曰：征，行也。許分別之。征爲正行，邁爲遠行。</span><span class="ywyy">从辵正聲。</span><span class="swdz">形聲包會意。諸盈切。十一部。廴部又有延字，行也。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2848C_10083.svg" /><span class="swbf">(征)</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2848C.svg"><span class="k_txt">𨒌</span>或从彳。</span><span class="swdz">引伸爲征伐。孟子曰：征之爲言正也。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5F81_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">征</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tʂəŋ˥ <span class="z_ts4">唐代读音</span>  *jiɛng<span class="z_ts4">日语读音</span>  UTSU YUKU TORU<span class="z_ts4">韩语罗马</span>  CENG<span class="z_ts4">现代韩语</span>  정<span class="z_ts3">越南语</span>  chinh</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] zhin1 [台湾四县腔] tsiin1 [客英字典] zhin1 [客语拼音字汇] zin1 [陆丰腔] zhin1 [东莞腔] zin1 [宝安腔] zin1 [海陆腔] zhin1<span class="z_ts2">粤语</span>  zing1<span class="z_ts3">潮州话</span>  zêng1(cheng) dêng1(teng) </p>						<p><span class="z_ts3">近代音</span>  照母    庚青韻    平聲陰    征小空；<span class="z_ts3">中古音</span>  照章母    清韻    平聲    征小韻    諸盈切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：端母    青部   ；王力系统：章母    耕部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/征">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/征">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/征">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/征">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/征">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/征">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/征">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/征">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/征">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/征">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/征">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/征">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">征</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td style="display:none">秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E86F.svg" /><span>「征」 存下848</span><span>合31791</span></a></td>
+			<td><a href="/zd/zx/jw/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E7E6.svg" /><span>「征」 利簋</span><span>西周早期</span><span>集成3580</span></a></td>
+			<td><a href="/zd/zx/cx/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E95E.svg" /><span>「征」 帛丙1.4</span></a></td>
+			<td><a href="/zd/zx/xz/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E15D.svg" /><span>「𨒌」 說文‧辵部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none"><a href="/hans/徵" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5FB5.svg" /><span>「徵」</span></a></td>
+			<td><a href="/hans/征" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5F81.svg" /><span>「征」</span></a></td>
+			<td style="display:none"><a href="/hans/征" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5F81.svg" /><span>「征」</span></a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E7FF.svg" /><span>「征」 啟作且丁尊</span><span>西周早期</span><span>集成5983</span></a></td>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/xz/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_5F81.svg" /><span>「征」 說文或體</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/jw/征"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E7F4.svg" /><span>「征」 無㠱簋蓋</span><span>西周中期</span><span>集成4228</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/征">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/征">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/征">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/征">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/征">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/征">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5F81.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5F81.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5F81.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5F81.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5F81.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/徰' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5FB0.svg'><span>徰</span></a></div> <div class='zx'><a href='/hans/𢌛' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2231B.svg'><span>𢌛</span></a></div> <div class='zx'><a href='/hans/𨒌' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2848C.svg'><span>𨒌</span></a></div> <div class='zx'><a href='/hans/徵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5FB5.svg'><span>徵</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4482" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7805">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/眐">眐(zheng1)</a></li><li><a href="/hans/踭">踭(zheng1)</a></li><li><a href="/hans/铮">铮(zheng1)</a></li><li><a href="/hans/争">争(zheng1)</a></li><li><a href="/hans/猙">猙(zheng1)</a></li><li><a href="/hans/峥">峥(zheng1)</a></li><li><a href="/hans/睁">睁(zheng1)</a></li><li><a href="/hans/凧">凧(zheng1)</a></li><li><a href="/hans/徰">徰(zheng1)</a></li><li><a href="/hans/埥">埥(zheng1)</a></li><li><a href="/hans/媜">媜(zheng1)</a></li><li><a href="/hans/崢">崢(zheng1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/徲">徲</a></li><li><a href="/hans/徒">徒</a></li><li><a href="/hans/徏">徏</a></li><li><a href="/hans/徹">徹</a></li><li><a href="/hans/忁">忁</a></li><li><a href="/hans/徸">徸</a></li><li><a href="/hans/徙">徙</a></li><li><a href="/hans/彷">彷</a></li><li><a href="/hans/德">德</a></li><li><a href="/hans/徎">徎</a></li><li><a href="/hans/㣖">㣖</a></li><li><a href="/hans/很">很</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/岧">岧</a></li><li><a href="/hans/叔">叔</a></li><li><a href="/hans/杮">杮</a></li><li><a href="/hans/炬">炬</a></li><li><a href="/hans/苾">苾</a></li><li><a href="/hans/卑">卑</a></li><li><a href="/hans/戔">戔</a></li><li><a href="/hans/弤">弤</a></li><li><a href="/hans/𠈙">𠈙</a></li><li><a href="/hans/䜳">䜳</a></li><li><a href="/hans/学">学</a></li><li><a href="/hans/㐭">㐭</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">不知何处吹芦管，一夜<span>征</span>人尽望乡。</div><div class="gscdr">唐·李益 《夜上受降城闻笛》</div><div class="gscdl">阿爷无大儿，木兰无长兄，愿为市鞍马，从此替爷<span>征</span>。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl"><span>征</span>蓬出汉塞，归雁入胡天。</div><div class="gscdr">唐·王维 《使至塞上》</div><div class="gscdl">人恒过然后能改，困于心衡于虑而后作；<span>征</span>于色发于声而后喻。</div><div class="gscdr">《孟子·告子下》《生于忧患 死于安乐》</div><div class="gscdl">此地一为别，孤蓬万里<span>征</span>。</div><div class="gscdr">唐·李白 《送友人》</div><div class="gscdl">晨起动<span>征</span>铎，客行悲故乡。</div><div class="gscdr">唐·温庭筠 《商山早行》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=4482"></script>
+</body>
+</html>

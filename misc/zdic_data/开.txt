@@ -1,0 +1,671 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>开的解释|开的意思|汉典“开”字的基本解释</title>
+<meta name="title" content="开的解释|开的意思|汉典“开”字的基本解释">
+<meta name="keywords" content="上：一，下：廾。 " /><meta property="og:title" content="“开”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“开”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“开”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/开" />
+<link rel="canonical" href="//www.zdic.net/hans/开" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/开" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/开" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/开" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/开">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/开">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5F00.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5F00.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">kāi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“开”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/kāi.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄎㄞ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“开”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄎㄞ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=廾" target="_blank">  廾</a></p>
+                              <p><span class="z_ts2">部外</span>  1</p>
+                              <p><span class="z_ts3">总笔画</span>  4</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/開' target=_blank>開</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/開' target=_blank>開</a> <a href='/hans/𨴂' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D02.svg'><span class='ytz_txt'>𨴂</span></a> <a href='/hans/𨴆' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D06.svg'><span class='ytz_txt'>𨴆</span></a> <a href='/hans/𨴉' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D09.svg'><span class='ytz_txt'>𨴉</span></a> <a href='/hans/𨵑' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D51.svg'><span class='ytz_txt'>𨵑</span></a> <a href='/hans/𨵹' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D79.svg'><span class='ytz_txt'>𨵹</span></a> <a href='/hans/𨶘' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28D98.svg'><span class='ytz_txt'>𨶘</span></a> <a href='/hans/𨳟' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28CDF.svg'><span class='ytz_txt'>𨳟</span></a> <a href='/hans/𫔭' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2B52D.svg'><span class='ytz_txt'>𫔭</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5F00</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>1132</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gak</p></td>                            <td class="dsk_2_1"><p>mt</p></td>                            <td class="dsk_2_1"><p>aevv</p></td>                            <td class="dsk_2_1"><p>10440</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">kāi<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“开”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/kāi.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄎㄞ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“开”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄎㄞ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=廾" target="_blank">廾</a> <span class="z_ts2">部外</span> 1<span class="z_ts3">总笔画</span> 4</p>                    <p><span class="z_ts3">基本区</span> 5F00<span class="z_ts2">笔顺</span> 1132                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5F00_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=4353" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">开</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>开</strong></p><p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">開</span>）</strong></p><p><span class="dicpy">kāi  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/kāi.mp3"></a></span> ㄎㄞˉ</span></p><hr class="dichr" /><ol>	<li>启，张，把关闭的东西打开：～启。～化。～诚布公。</li>	<li>分割：对～。三十二～本。</li>	<li>通，使通：～导。～窍。</li>	<li>使显露出来：～采（挖掘矿物）。～发。</li>	<li>扩大、发展：～扩。～拓。</li>	<li>发动或操纵：～动。～车。</li>	<li>起始：～始。～宗明义。</li>	<li>设置、建立：～创。～国。～设。</li>	<li>列举，写出：～单子。～发票。</li>	<li>支付：～销。～支。</li>	<li>沸腾，滚：～水。</li>	<li>举行：～运动会。</li>	<li>放在动词后面，表示效果：躲～。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> open; initiate, begin, start</p><p><span class="z_ts2">德语</span> (ab)​fahren  (V)​,(Party)​ veranstalten, stattfinden  (V)​,ausfertigen, ausstellen (Scheck, Rechnung, Rezept)​  (V)​,öffnen, losfahren, starten  (V)​,Kai  (Eig, Fam)</p><p><span class="z_ts2">法语</span> ouvrir,frayer,percer,s'épanouir,mettre en marche,démarrer,conduire,fonder,établir,commencer,débuter,tenir,organiser,bouillir</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">开</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>开</strong></p>
+<p>開 <span class="dicpy">kāi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/kāi.mp3"></a></span> </p>
+<p><span class="xx_cx">动</span></p>
+<p><span class="cino">(1)</span> (会意。小篆字形，两边是两扇门，中间一横是门闩，下面是一双手，表示两手打开门闩之意。本义:开门)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[open the door]</span></p>
+<p><span class="diczx1">開，张也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">天门开阖。&mdash;&mdash;<span class="smcs">《老子》</span>十章</span></p>
+<p><span class="diczx1">善闭，无关楗而不可开。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><span class="diczx1">开物成务。&mdash;&mdash;<span class="smcs">《易&middot;系辞上》</span></span></p>
+<p><span class="diczx1">开我东阁门。&mdash;&mdash;<span class="smcs">《乐府诗集&middot;木兰诗》</span></span></p>
+<p><span class="diczx1">遂开门纳众。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐记》</span></span></p>
+<p><span class="diczx1">开轩面场圃。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">孟浩然</span><span class="smcs">《过故人庄》</span></p>
+<p><span class="diczx1">午后又开西门归德门。&mdash;&mdash;<span class="smcs">《广东军务记》</span></span></p>
+<p><span class="diczx3">又如:开城(打开城门);开门钱(男家迎亲的轿子到女家，女家开门前索取的钱财)</span></p>
+<p><span class="cino">(3)</span> 打开，开启 <span class="encs">[open]</span></p>
+<p><span class="diczx2">微子</span>开封于 <span class="diczx2">宋</span>。&mdash;&mdash;<span class="smcs">《荀子&middot;议兵》</span></p>
+<p><span class="diczx1">公辨其声，而目不可开。&mdash;&mdash;</span><span class="diczx2">方苞</span><span class="smcs">《左忠毅公逸事》</span></p>
+<p><span class="diczx1">晶晶然如镜之新开。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">明星荧荧，开妆镜也。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">杜牧</span><span class="smcs">《阿房宫赋》</span></p>
+<p><span class="diczx3">又如:开卷有益;旗开得胜;顿开茅塞;开封(拆开书函);开窗放入大江来(只要一打开窗子，那汹涌奔腾的江水就会滚滚扑来);开箱(女子出嫁后第一次打开其配嫁的箱柜);开着眼(睁着眼)</span></p>
+<p><span class="cino">(4)</span> 引申为开放;舒放 <span class="encs">[come into bloom; unfold]</span></p>
+<p><span class="diczx1">千树万树梨花开。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">岑参</span><span class="smcs">《白雪歌送武判官归京》</span></p>
+<p><span class="diczx1">山寺桃花始盛开。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx1">只在花开之数日。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">李渔</span><span class="smcs">《闲情偶寄&middot;种植部》</span></p>
+<p><span class="diczx3">又如:春暖花开;盛开(花开得茂盛);开眉(舒展双眉。解愁、欣喜的意思);开眉展眼(形容高兴的样子。应作开眼展眉)</span></p>
+<p><span class="cino">(5)</span> 创立，建立，开创，设立 <span class="encs">[set up;found]</span></p>
+<p><span class="diczx1">欲开置县。&mdash;&mdash;<span class="smcs">《海瑞传》</span></span></p>
+<p><span class="diczx1">旁开小窗&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">魏学洢</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx3">又如:开工厂;开店;开茶馆;开屏(张设屏风)</span></p>
+<p><span class="cino">(6)</span> 摆开 <span class="encs">[put;set up; place]</span></p>
+<p><span class="diczx1">添酒回灯重开宴。&mdash;&mdash;</span><span class="diczx2">白居易</span><span class="smcs">《琵琶行》</span></p>
+<p><span class="diczx3">又如:开宴(摆开酒席)</span></p>
+<p><span class="cino">(7)</span> 开掘;开通 <span class="encs">[dredge]</span></p>
+<p><span class="diczx1">天门中断</span><span class="diczx2">楚江</span>开。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">李白</span><span class="smcs">《望天门山》</span></p>
+<p><span class="diczx3">又如:开天辟地;开源节流;继往开来;开达(开通明达);开敏(开明通达)</span></p>
+<p><span class="cino">(8)</span> 教导，启发 <span class="encs">[instruct;inspire]</span></p>
+<p><span class="diczx1">移风易俗之本，乃在开其心而正其精。&mdash;&mdash;</span><span class="diczx2">王符</span><span class="smcs">《潜夫论》</span></p>
+<p><span class="diczx1">便开此议。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx3">又如:开诱(启发诱导);开晓(开导启发，让人明白);开譬(开导警惕)</span></p>
+<p><span class="cino">(9)</span> 开拓，扩展 <span class="encs">[open up;initiate]</span></p>
+<p><span class="diczx1">开地数千里。&mdash;&mdash;<span class="smcs">《韩非子&middot;初见秦》</span></span></p>
+<p><span class="diczx1">开荒南野际。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">陶渊明</span><span class="smcs">《归园田居》</span></p>
+<p><span class="diczx2">武皇</span>开边意未已。&mdash;&mdash; <span class="diczx2">唐</span>&middot; <span class="diczx2">杜甫</span><span class="smcs">《兵车行》</span></p>
+<p><span class="diczx1">诚宜开张圣听，以光先帝遗德。&mdash;&mdash;</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p>
+<p><span class="diczx3">又如:开封(开拓疆土);开境(开拓疆域);开济(开创大业，匡济时艰);开边(开拓疆域);开张圣听(扩大圣明的听闻。意思是要后主广泛的听取别人的意见)</span></p>
+<p><span class="cino">(10)</span> 开始，开端 <span class="encs">[begin;start]</span>。</p>
+<p><span class="diczx3">如:开演;开业;开沽(卖酒);开笔(学童开始学做文章);开江(船由内河启程驶入长江);开八(十年一秩，七十一岁为八十纪数的开始，称为开八。同此，五十一岁称开六，六十一岁称开七)</span></p>
+<p><span class="cino">(11)</span> 戏剧开场角色的说白 <span class="encs">[soliloquy speak]</span></p>
+<p><span class="diczx1">外扮老夫人上开。&mdash;&mdash;</span><span class="diczx2">元</span>&middot; <span class="diczx2">王实甫</span><span class="smcs">《西厢记》</span></p>
+<p><span class="cino">(12)</span> 释放;赦免 <span class="encs">[release]</span>。</p>
+<p><span class="diczx3">如:开释(赦免，释放);开放(开脱;释放)</span></p>
+<p><span class="cino">(13)</span> 解除，免去 <span class="encs">[remove;get rid of]</span>。</p>
+<p><span class="diczx3">如:开除(开脱，免除;杀戮，消灭);开复(官员被降职、免官，后又免除处分恢复原职)</span></p>
+<p><span class="cino">(14)</span> 分离，分开 <span class="encs">[separate]</span></p>
+<p><span class="diczx1">连月不开。&mdash;&mdash;<span class="smcs">《后汉书&middot;列女传》</span></span></p>
+<p><span class="diczx3">又如:开交(分开;解决)</span></p>
+<p><span class="cino">(15)</span> 起刺激作用，尤指诱发特征性的生命活动 <span class="encs">[stimulate]</span>。</p>
+<p><span class="diczx3">如:开胃;开口(初生婴儿喂奶之前，请有奶水的妇女用咸菜抹上香油在婴儿口内抹上数次，称为:&ldquo;开口&rdquo;)</span></p>
+<p><span class="cino">(16)</span> 书写，开列，填写 <span class="encs">[make out]</span>。</p>
+<p><span class="diczx3">如:开票;开账;开报(开列呈报)</span></p>
+<p><span class="cino">(17)</span> 放晴 <span class="encs">[(of sky)clear up (after rain)]</span></p>
+<p><span class="diczx1">若夫霪雨霏霏，连月不开。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx1">若夫日出而林霏开。&mdash;&mdash;</span><span class="diczx2">欧阳修</span><span class="smcs">《醉翁亭记》</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>开</strong></p>
+<p>開 <span class="dicpy">kāi</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/kāi.mp3"></a></span> </p>
+<p><span class="xx_cx">量</span></p>
+<p><span class="cino">(1)</span> 黄金成色单位，等于纯金占合金的1/24 <span class="encs">[karat，carat]</span>。</p>
+<p><span class="diczx3">如:16开金含16/24纯金</span></p>
+<p><span class="cino">(2)</span> 印刷上指相当于整张纸的若干分之一，附在数词之后 <span class="encs">[mo]</span>。</p>
+<p><span class="diczx3">如:十六开</span></p>
+<p><span class="cino">(3)</span> 〈方〉∶冲茶一次，叫做一开 <span class="encs">[times]</span></p>
+<p><span class="diczx1">吃过五六开茶，</span><span class="diczx2">朴斋</span>将一角小洋钱会了茶钱。&mdash;&mdash;<span class="smcs">《海上花列传》</span></p>
+<p><span class="xx_cx">名</span></p>
+<p>姓</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/开拔">开拔</a></span><span class="crefe"><a href="/hans/开办">开办</a></span><span class="crefe"><a href="/hans/开本">开本</a></span><span class="crefe"><a href="/hans/开笔">开笔</a></span><span class="crefe"><a href="/hans/开步">开步</a></span><span class="crefe"><a href="/hans/开采">开采</a></span><span class="crefe"><a href="/hans/开场">开场</a></span><span class="crefe"><a href="/hans/开场白">开场白</a></span><span class="crefe"><a href="/hans/开敞">开敞</a></span><span class="crefe"><a href="/hans/开畅">开畅</a></span><span class="crefe"><a href="/hans/开车">开车</a></span><span class="crefe"><a href="/hans/开诚布公">开诚布公</a></span><span class="crefe"><a href="/hans/开诚相见">开诚相见</a></span><span class="crefe"><a href="/hans/开初">开初</a></span><span class="crefe"><a href="/hans/开除">开除</a></span><span class="crefe"><a href="/hans/开船">开船</a></span><span class="crefe"><a href="/hans/开创">开创</a></span><span class="crefe"><a href="/hans/开春">开春</a></span><span class="crefe"><a href="/hans/开打">开打</a></span><span class="crefe"><a href="/hans/开裆裤">开裆裤</a></span><span class="crefe"><a href="/hans/开刀">开刀</a></span><span class="crefe"><a href="/hans/开导">开导</a></span><span class="crefe"><a href="/hans/开倒车">开倒车</a></span><span class="crefe"><a href="/hans/开道">开道</a></span><span class="crefe"><a href="/hans/开地">开地</a></span><span class="crefe"><a href="/hans/开店">开店</a></span><span class="crefe"><a href="/hans/开吊">开吊</a></span><span class="crefe"><a href="/hans/开动">开动</a></span><span class="crefe"><a href="/hans/开端">开端</a></span><span class="crefe"><a href="/hans/开恩">开恩</a></span><span class="crefe"><a href="/hans/开发">开发</a></span><span class="crefe"><a href="/hans/开饭">开饭</a></span><span class="crefe"><a href="/hans/开方">开方</a></span><span class="crefe"><a href="/hans/开房间">开房间</a></span><span class="crefe"><a href="/hans/开放">开放</a></span><span class="crefe"><a href="/hans/开封">开封</a></span><span class="crefe"><a href="/hans/开工">开工</a></span><span class="crefe"><a href="/hans/开关">开关</a></span><span class="crefe"><a href="/hans/开锅">开锅</a></span><span class="crefe"><a href="/hans/开国">开国</a></span><span class="crefe"><a href="/hans/开国元勋">开国元勋</a></span><span class="crefe"><a href="/hans/开河">开河</a></span><span class="crefe"><a href="/hans/开黑店">开黑店</a></span><span class="crefe"><a href="/hans/开后门">开后门</a></span><span class="crefe"><a href="/hans/开壶">开壶</a></span><span class="crefe"><a href="/hans/开户">开户</a></span><span class="crefe"><a href="/hans/开花">开花</a></span><span class="crefe"><a href="/hans/开花衣">开花衣</a></span><span class="crefe"><a href="/hans/开化">开化</a></span><span class="crefe"><a href="/hans/开怀">开怀</a></span><span class="crefe"><a href="/hans/开荒">开荒</a></span><span class="crefe"><a href="/hans/开会">开会</a></span><span class="crefe"><a href="/hans/开荤">开荤</a></span><span class="crefe"><a href="/hans/开火">开火</a></span><span class="crefe"><a href="/hans/开伙">开伙</a></span><span class="crefe"><a href="/hans/开霁">开霁</a></span><span class="crefe"><a href="/hans/开价">开价</a></span><span class="crefe"><a href="/hans/开间">开间</a></span><span class="crefe"><a href="/hans/开疆">开疆</a></span><span class="crefe"><a href="/hans/开讲">开讲</a></span><span class="crefe"><a href="/hans/开交">开交</a></span><span class="crefe"><a href="/hans/开戒">开戒</a></span><span class="crefe"><a href="/hans/开金">开金</a></span><span class="crefe"><a href="/hans/开襟">开襟</a></span><span class="crefe"><a href="/hans/开禁">开禁</a></span><span class="crefe"><a href="/hans/开卷">开卷</a></span><span class="crefe"><a href="/hans/开掘">开掘</a></span><span class="crefe"><a href="/hans/开课">开课</a></span><span class="crefe"><a href="/hans/开垦">开垦</a></span><span class="crefe"><a href="/hans/开口">开口</a></span><span class="crefe"><a href="/hans/开口子">开口子</a></span><span class="crefe"><a href="/hans/开快车">开快车</a></span><span class="crefe"><a href="/hans/开旷">开旷</a></span><span class="crefe"><a href="/hans/开矿">开矿</a></span><span class="crefe"><a href="/hans/开阔">开阔</a></span><span class="crefe"><a href="/hans/开阔">开阔</a></span><span class="crefe"><a href="/hans/开朗">开朗</a></span><span class="crefe"><a href="/hans/开犁">开犁</a></span><span class="crefe"><a href="/hans/开例">开例</a></span><span class="crefe"><a href="/hans/开镰">开镰</a></span><span class="crefe"><a href="/hans/开脸">开脸</a></span><span class="crefe"><a href="/hans/开列">开列</a></span><span class="crefe"><a href="/hans/开裂">开裂</a></span><span class="crefe"><a href="/hans/开溜">开溜</a></span><span class="crefe"><a href="/hans/开路">开路</a></span><span class="crefe"><a href="/hans/开路">开路</a></span><span class="crefe"><a href="/hans/开绿灯">开绿灯</a></span><span class="crefe"><a href="/hans/开罗">开罗</a></span><span class="crefe"><a href="/hans/开锣">开锣</a></span><span class="crefe"><a href="/hans/开门">开门</a></span><span class="crefe"><a href="/hans/开门">开门</a></span><span class="crefe"><a href="/hans/开门见山">开门见山</a></span><span class="crefe"><a href="/hans/开门揖盗">开门揖盗</a></span><span class="crefe"><a href="/hans/开蒙">开蒙</a></span><span class="crefe"><a href="/hans/开明">开明</a></span><span class="crefe"><a href="/hans/开幕">开幕</a></span><span class="crefe"><a href="/hans/开幕式">开幕式</a></span><span class="crefe"><a href="/hans/开拍">开拍</a></span><span class="crefe"><a href="/hans/开盘">开盘</a></span><span class="crefe"><a href="/hans/开炮">开炮</a></span><span class="crefe"><a href="/hans/开辟">开辟</a></span><span class="crefe"><a href="/hans/开篇">开篇</a></span><span class="crefe"><a href="/hans/开票">开票</a></span><span class="crefe"><a href="/hans/开屏">开屏</a></span><span class="crefe"><a href="/hans/开启">开启</a></span><span class="crefe"><a href="/hans/开枪">开枪</a></span><span class="crefe"><a href="/hans/开腔">开腔</a></span><span class="crefe"><a href="/hans/开窍">开窍</a></span><span class="crefe"><a href="/hans/开窍">开窍</a></span><span class="crefe"><a href="/hans/开晴">开晴</a></span><span class="crefe"><a href="/hans/开球">开球</a></span><span class="crefe"><a href="/hans/开赛">开赛</a></span><span class="crefe"><a href="/hans/开山">开山</a></span><span class="crefe"><a href="/hans/开山">开山</a></span><span class="crefe"><a href="/hans/开山祖师">开山祖师</a></span><span class="crefe"><a href="/hans/开设">开设</a></span><span class="crefe"><a href="/hans/开始">开始</a></span><span class="crefe"><a href="/hans/开始">开始</a></span><span class="crefe"><a href="/hans/开市">开市</a></span><span class="crefe"><a href="/hans/开释">开释</a></span><span class="crefe"><a href="/hans/开水">开水</a></span><span class="crefe"><a href="/hans/开台">开台</a></span><span class="crefe"><a href="/hans/开堂">开堂</a></span><span class="crefe"><a href="/hans/开天窗">开天窗</a></span><span class="crefe"><a href="/hans/开天辟地">开天辟地</a></span><span class="crefe"><a href="/hans/开庭">开庭</a></span><span class="crefe"><a href="/hans/开通">开通</a></span><span class="crefe"><a href="/hans/开通">开通</a></span><span class="crefe"><a href="/hans/开头">开头</a></span><span class="crefe"><a href="/hans/开头">开头</a></span><span class="crefe"><a href="/hans/开脱">开脱</a></span><span class="crefe"><a href="/hans/开拓">开拓</a></span><span class="crefe"><a href="/hans/开挖">开挖</a></span><span class="crefe"><a href="/hans/开外">开外</a></span><span class="crefe"><a href="/hans/开玩笑">开玩笑</a></span><span class="crefe"><a href="/hans/开胃">开胃</a></span><span class="crefe"><a href="/hans/开戏">开戏</a></span><span class="crefe"><a href="/hans/开先">开先</a></span><span class="crefe"><a href="/hans/开线">开线</a></span><span class="crefe"><a href="/hans/开销">开销</a></span><span class="crefe"><a href="/hans/开小差">开小差</a></span><span class="crefe"><a href="/hans/开小会">开小会</a></span><span class="crefe"><a href="/hans/开小灶">开小灶</a></span><span class="crefe"><a href="/hans/开心">开心</a></span><span class="crefe"><a href="/hans/开心颜">开心颜</a></span><span class="crefe"><a href="/hans/开学">开学</a></span><span class="crefe"><a href="/hans/开颜">开颜</a></span><span class="crefe"><a href="/hans/开眼">开眼</a></span><span class="crefe"><a href="/hans/开演">开演</a></span><span class="crefe"><a href="/hans/开业">开业</a></span><span class="crefe"><a href="/hans/开夜车">开夜车</a></span><span class="crefe"><a href="/hans/开印">开印</a></span><span class="crefe"><a href="/hans/开映">开映</a></span><span class="crefe"><a href="/hans/开元">开元</a></span><span class="crefe"><a href="/hans/开源节流">开源节流</a></span><span class="crefe"><a href="/hans/开凿">开凿</a></span><span class="crefe"><a href="/hans/开斋">开斋</a></span><span class="crefe"><a href="/hans/开斋节">开斋节</a></span><span class="crefe"><a href="/hans/开展">开展</a></span><span class="crefe"><a href="/hans/开展">开展</a></span><span class="crefe"><a href="/hans/开战">开战</a></span><span class="crefe"><a href="/hans/开张">开张</a></span><span class="crefe"><a href="/hans/开张">开张</a></span><span class="crefe"><a href="/hans/开仗">开仗</a></span><span class="crefe"><a href="/hans/开账">开账</a></span><span class="crefe"><a href="/hans/开支">开支</a></span><span class="crefe"><a href="/hans/开足马力">开足马力</a></span><span class="crefe"><a href="/hans/开罪">开罪</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5F00_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=戌集上" target="_blank">戌集上</a>】【<a href="/zd/kx/?zm=戌集上&amp;bs=門" target="_blank">門</a>】
+                              開·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：4</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">開</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“开”字头，请参考“<a href="/hans/開">開</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=戌集上" target="_blank">戌集上</a>】【<a href="/zd/kx/?zm=戌集上&amp;bs=門" target="_blank">門</a>】
+                              開·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：4</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/958B.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28D02.svg"><span class="k_txt">𨴂</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/28D51.svg"><span class="k_txt">𨵑</span>【廣韻】苦哀切【集韻】【韻會】丘哀切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音侅。【說文】張也。【廣韻】解也。【韻會】啟也。【爾雅&middot;釋言】闢也。</p><p>又【五音集韻】通也。【易&middot;乾卦疏】亨通也。會合萬物，令使開通而爲亨也。</p><p>又發也。【禮&middot;學記】故君子之敎喻也。開而勿達。【註】開謂發頭角。【疏】但爲學者，開發大義頭角而已。</p><p>又釋也。【易&middot;乾坤卦文言疏】諸卦及爻，皆從乾坤而出，故特作文言，以開釋之。【書&middot;多方】殄戮多罪，亦克用勸，開釋無辜，亦克用勸。</p><p>又【韻會】條<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>也。</p><p>又始也。【後漢&middot;馮衍傳】開歲發春兮，百卉含英。【註】開、發，皆始也。【禮&middot;檀弓】曩者爾心或開予。【註】開，謂諫爭有所發起。</p><p>又星名。【史記&middot;天官書北斗七星註】春秋運斗極云：斗第六開陽。</p><p>又【集韻】州名。本漢朐䏰縣地，後魏置開州鎭。</p><p>又縣名。【史記&middot;高祖紀】與偕攻開封。</p><p>又【功臣年表】開封侯陶舍。【註】縣名。屬河南。</p><p>又【集韻】人名。【左傳&middot;襄二十三年】曹開御戎。【註】齊臣。</p><p>又【韻會】姓也。</p><p>又【集韻】通作闓。詳闓字註。</p><p>又【集韻】輕煙切，音牽。山名。在雍州。通作汧。</p><p>又【韻補】叶音虧。【謝惠連&middot;擣衣篇】盈篋自余手，幽緘<img class="lazy k_img" data-original="//img.zdic.net/song/cn/202EB.svg"><span class="k_txt">𠋫</span>君開。腰帶準疇昔，不知今是非。</p><p>又叶音欺。【左思&middot;蜀都賦】宣化之闥，崇禮之闈。華闕雙邈，重門洞開。</p><p>【說文】開本字。</p><p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5F00_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=門">門</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="tipright">↳</span><span class="orth">開</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“开”字头，请参考“<a href="/hans/開">開</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=門">門</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/958B.svg">                          <p>張也。从門从幵。<img class="swtimg" src="//img.zdic.net/swxz/958B_1.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/28D51.svg"><span class="k_txt">𨵑</span>，古文。苦哀切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/958B_7275.svg" /><span class="swbf">(開)</span><span class="ywyy">張也。</span><span class="swdz">張者，施弓弦也。門之開如弓之張，門之閉如弓之弛。</span><span class="ywyy">从門幵聲。</span><span class="swdz">按大徐本改爲从門从幵，以幵聲之字古不入之咍部也。玉裁謂此篆幵聲，古音當在十二部，讀如攐帷之攐。由後人讀同闓，而定爲苦哀切。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/958B_7276.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28D09.svg"><span class="k_txt">𨴉</span>)</span><span class="ywyy">古文。</span><span class="swdz">一者，象門閉。从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/21D02.svg"><span class="k_txt">𡴂</span>者，象手開門。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5F00_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">开</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  kʰĄi˥ </p>						<p><span class="z_ts2">粤语</span>  hoi1<span class="z_ts3">潮州话</span>  kai1</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/开">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/开">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/开">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/开">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/开">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/开">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/开">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/开">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/开">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/开">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/开">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/开">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/开">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">开</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「開」。</p>
+<table class="zyyb">
+	<tbody>
+		<tr>
+			<td style="display:none">甲骨文</td>
+			<td style="display:none">金文</td>
+			<td style="display:none">楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td>楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/开"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E9E1.svg" /><span>「開」 說文古文</span></a></td>
+			<td><a href="/zd/zx/qx/开"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_EC1F.svg" /><span>「開」 睡.日甲128</span></a></td>
+			<td><a href="/hans/開" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/958B.svg" /><span>「開」</span></a></td>
+			<td><a href="/hans/开" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/5F00.svg" /><span>「开」</span></a></td>
+			<td style="display:none"><a href="/hans/开" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/5F00.svg" /><span>「开」</span></a></td>
+		</tr>
+		<tr>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/zd/zx/xz/开"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_958B.svg" /><span>「開」 說文‧門部</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/开">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/开">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/开">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5F00.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5F00.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5F00.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/開' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/958B.svg'><span>開</span></a></div> <div class='zx'><a href='/hans/𨴂' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D02.svg'><span>𨴂</span></a></div> <div class='zx'><a href='/hans/𨴆' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D06.svg'><span>𨴆</span></a></div> <div class='zx'><a href='/hans/𨴉' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D09.svg'><span>𨴉</span></a></div> <div class='zx'><a href='/hans/𨵑' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D51.svg'><span>𨵑</span></a></div> <div class='zx'><a href='/hans/𨵹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D79.svg'><span>𨵹</span></a></div> <div class='zx'><a href='/hans/𨶘' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28D98.svg'><span>𨶘</span></a></div> <div class='zx'><a href='/hans/𨳟' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28CDF.svg'><span>𨳟</span></a></div> <div class='zx'><a href='/hans/𫔭' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2B52D.svg'><span>𫔭</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="4353" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5660">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㱾">㱾(kai1)</a></li><li><a href="/hans/奒">奒(kai1)</a></li><li><a href="/hans/揩">揩(kai1)</a></li><li><a href="/hans/㚊">㚊(kai1)</a></li><li><a href="/hans/開">開(kai1)</a></li><li><a href="/hans/鐦">鐦(kai1)</a></li><li><a href="/hans/锎">锎(kai1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/弄">弄</a></li><li><a href="/hans/弅">弅</a></li><li><a href="/hans/弉">弉</a></li><li><a href="/hans/弇">弇</a></li><li><a href="/hans/㢢">㢢</a></li><li><a href="/hans/㢡">㢡</a></li><li><a href="/hans/异">异</a></li><li><a href="/hans/廾">廾</a></li><li><a href="/hans/弆">弆</a></li><li><a href="/hans/廿">廿</a></li><li><a href="/hans/弁">弁</a></li><li><a href="/hans/㢣">㢣</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/圠">圠</a></li><li><a href="/hans/弖">弖</a></li><li><a href="/hans/𠃝">𠃝</a></li><li><a href="/hans/双">双</a></li><li><a href="/hans/仌">仌</a></li><li><a href="/hans/凤">凤</a></li><li><a href="/hans/讣">讣</a></li><li><a href="/hans/戈">戈</a></li><li><a href="/hans/勻">勻</a></li><li><a href="/hans/队">队</a></li><li><a href="/hans/今">今</a></li><li><a href="/hans/支">支</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">不解藏踪迹，浮萍一道<span>开</span>。</div><div class="gscdr">唐·白居易 《池上》</div><div class="gscdl">墙角数枝梅，凌寒独自<span>开</span>。</div><div class="gscdr">宋·王安石 《梅花》</div><div class="gscdl">天门中断楚江<span>开</span>，碧水东流至此回。</div><div class="gscdr">唐·李白 《望天门山》</div><div class="gscdl">荷叶罗裙一色裁，芙蓉向脸两边<span>开</span>。</div><div class="gscdr">唐·王昌龄 《采莲曲》</div><div class="gscdl"><span>开</span>轩面场圃，把酒话桑麻。</div><div class="gscdr">唐·孟浩然 《过故人庄》</div><div class="gscdl">复恐匆匆说不尽，行人临发又<span>开</span>封。</div><div class="gscdr">唐·张籍 《秋思》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">遥怜故园菊，应傍战场<span>开</span>。</div><div class="gscdr">唐·岑参 《行军九日思长安故园》</div><div class="gscdl"><span>开</span>我东阁门，坐我西阁床，脱我战时袍，著我旧时裳。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">于是上乃使使持节诏将军：“吾欲入劳军。”亚夫乃传言<span>开</span>壁门。</div><div class="gscdr">汉·司马迁 史记. 绛侯周勃世家《周亚夫军细柳》</div><div class="gscdl">黑云压城城欲摧，甲光向日金鳞<span>开</span>。</div><div class="gscdr">唐·李贺 《雁门太守行》</div><div class="gscdl">复行数十步，豁然<span>开</span>朗。</div><div class="gscdr">魏晋·陶渊明 《桃花源记》</div><div class="gscdl">旁<span>开</span>小窗，左右各四，共八扇。</div><div class="gscdr">明·魏学洢 《核舟记》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=4353"></script>
+</body>
+</html>

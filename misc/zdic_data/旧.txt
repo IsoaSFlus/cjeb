@@ -1,0 +1,588 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>旧的解释|旧的意思|汉典“旧”字的基本解释</title>
+<meta name="title" content="旧的解释|旧的意思|汉典“旧”字的基本解释">
+<meta property="og:title" content="“旧”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“旧”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“旧”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/旧" />
+<link rel="canonical" href="//www.zdic.net/hans/旧" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/旧" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/旧" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/旧" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/旧">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/旧">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/65E7.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/65E7.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">jiù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旧”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiù.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄐㄧㄡˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旧”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄡˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">  日</a></p>
+                              <p><span class="z_ts2">部外</span>  1</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/舊' target=_blank>舊</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/舊' target=_blank>舊</a>  <a href='/hans/𦾔' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/26F94.svg'><span class='ytz_txt'>𦾔</span></a>  </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+65E7</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>22511</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>hjg</p></td>                            <td class="dsk_2_1"><p>la</p></td>                            <td class="dsk_2_1"><p>ikvv</p></td>                            <td class="dsk_2_1"><p>26000</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">jiù<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旧”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/jiù.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄐㄧㄡˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“旧”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄐㄧㄡˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=日" target="_blank">日</a> <span class="z_ts2">部外</span> 1<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">统一码</span> 65E7<span class="z_ts2">笔顺</span> 22511                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="65E7_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=6120" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">旧</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+						<p><strong>基本字义</strong></p>
+<hr class="dichr" />
+<p>● <strong>旧</strong></p>
+<p><strong>（<span class="diczx3">舊</span>）</strong></p>
+<p><span class="dicpy">ji&ugrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&ugrave;.mp3"></a></span>  ㄐㄧㄡˋ</span></p>
+<ol>
+	<li>过时的，与&ldquo;<span class="diczx3">新</span>&rdquo;相对：～式。～俗。</li>
+	<li>东西因经过长时间而变了样子：～衣服。～书。</li>
+	<li>原先曾有过的，过去很长时间的：～居。～友。</li>
+	<li>有交情，有交情的人：故～（指老朋友）。念～（怀念旧日情谊）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> old, ancient; former, past</p><p><span class="z_ts2">德语</span> alt, veraltet, überholt  (Adj)​,früher, ehemals, ehemalig  (S)​,Jiu  (Eig, Fam)</p><p><span class="z_ts2">法语</span> vieux,ancien,usé</p></div>                        
+                        <div class="div copyright"> © 汉典 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">旧</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>旧</strong></p>
+<p>舊 <span class="dicpy">ji&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&ugrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (形声。甲骨文字形，上面是&ldquo;萑&rdquo;( <span class="dicpy">huān</span>)，鸱鸟类;下面是&ldquo;臼&rdquo;，作声符。本义:鸟名)</p>
+<p><span class="cino">(2)</span> 鸺鶹，即猫头鹰 <span class="encs">[owl]</span></p>
+<p><span class="cino">(3)</span> 故交，老交情 <span class="encs">[old friendship]</span></p>
+<p><span class="diczx1">待之若旧。&mdash;&mdash;</span><span class="diczx2">南朝</span><span class="diczx2">梁</span>&middot; <span class="diczx2">丘迟</span><span class="smcs">《与陈伯之书》</span></p>
+<p><span class="diczx1">与之有旧。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">全祖望</span><span class="smcs">《梅花岭记》</span></p>
+<p><span class="diczx1">与相国有旧。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">周容</span><span class="smcs">《芋老人传》</span></p>
+<p><span class="cino">(4)</span> 又如:怀旧;有旧;念旧;亲戚故旧;旧雨</p>
+<p><span class="cino">(5)</span> 原有的典章制度 <span class="encs">[old institutions]</span></p>
+<p><span class="diczx1">不必循旧。&mdash;&mdash;<span class="smcs">《淮南子&middot;泛论》</span></span></p>
+<p><span class="cino">(6)</span> 又如:复旧;照旧</p>
+<p><span class="cino">(7)</span> 指世族 <span class="encs">[aristocratic family]</span>。如:旧家(世家望族);旧家子(世家子弟)</p>
+<p><span class="cino">(8)</span> 通&ldquo;丘( <span class="dicpy">qiū</span>)&rdquo;。丘冢，坟墓 <span class="encs">[mond;grave]</span></p>
+<p><span class="diczx2">越王</span>不隳旧冢。&mdash;&mdash;<span class="smcs">《说苑&middot;尊贤》</span></p>
+<p><span class="diczx2">越王</span>不颓旧冢，而 <span class="diczx2">越</span>人服。&mdash;&mdash;<span class="smcs">《大戴礼&middot;保傅》</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>旧</strong></p>
+<p>舊 <span class="dicpy">ji&ugrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/ji&ugrave;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 过时的;陈旧的(跟&ldquo;新&rdquo;相对) <span class="encs">[old;used;worn]</span></p>
+<p><span class="diczx1">保守也故永旧。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《饮冰室合集&middot;文集》</span></p>
+<p><span class="cino">(2)</span> 又如:旧牌儿(旧谱子。旧规矩;老样子);旧楮(旧纸币);旧垒(旧的堡垒、营垒);旧矩(老规矩);旧车;旧衣服;旧流丢(破旧的样子)</p>
+<p><span class="cino">(3)</span> 从前的;原先的 <span class="encs">[bygone;past;former original]</span></p>
+<p><span class="diczx1">告尔旧止。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;抑》</span></span></p>
+<p><span class="diczx1">其旧如之何?&mdash;&mdash;<span class="smcs">《诗&middot;豳风&middot;东山》</span></span></p>
+<p><span class="diczx1">非旧器者举毁。&mdash;&mdash;<span class="smcs">《礼记&middot;王制》</span></span></p>
+<p><span class="diczx1">还于旧都。&mdash;&mdash;</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p>
+<p><span class="diczx1">风景旧曾谙。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">白居易</span><span class="smcs">《忆江南》</span></p>
+<p><span class="diczx1">增其旧制。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx1">临摹旧作。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="cino">(4)</span> 又如:旧来(原来);旧司(原来的职守);旧姻(原先的配偶);旧望(向来的门第);旧瘴(原有的瘴气);旧格(原来的风格);旧腊(去年腊月);旧恩(往日的情谊);旧岁(去年);旧家(从前住过的房宅);旧志(从前的抱负);旧我(从前的我)</p>
+<p><span class="cino">(5)</span> 长久 <span class="encs">[long]</span></p>
+<p><span class="diczx1">旧，久也。&mdash;&mdash;<span class="smcs">《小尔雅》</span></span></p>
+<p><span class="diczx1">旧井无禽。&mdash;&mdash;<span class="smcs">《易&middot;井》</span></span></p>
+<p><span class="diczx1">旧劳于外。&mdash;&mdash;<span class="smcs">《书&middot;无逸》</span></span></p>
+<p><span class="diczx2">周</span>虽旧邦。&mdash;&mdash;<span class="smcs">《诗&middot;大雅&middot;文王》</span></p>
+<p><span class="diczx1">修旧也。&mdash;&mdash;<span class="smcs">《公羊传&middot;庆公二十九年》</span></span></p>
+<p><span class="cino">(6)</span> 又如:旧邦(历史长久的国家;故国);旧人(久于其位的人)</p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/旧案">旧案</a></span><span class="crefe"><a href="/hans/旧病">旧病</a></span><span class="crefe"><a href="/hans/旧病复发">旧病复发</a></span><span class="crefe"><a href="/hans/旧愁新恨">旧愁新恨</a></span><span class="crefe"><a href="/hans/旧大陆">旧大陆</a></span><span class="crefe"><a href="/hans/旧的不去新的不来">旧的不去新的不来</a></span><span class="crefe"><a href="/hans/旧地">旧地</a></span><span class="crefe"><a href="/hans/旧地重游">旧地重游</a></span><span class="crefe"><a href="/hans/旧调重弹">旧调重弹</a></span><span class="crefe"><a href="/hans/旧都">旧都</a></span><span class="crefe"><a href="/hans/旧恶">旧恶</a></span><span class="crefe"><a href="/hans/旧故">旧故</a></span><span class="crefe"><a href="/hans/旧观">旧观</a></span><span class="crefe"><a href="/hans/旧贯">旧贯</a></span><span class="crefe"><a href="/hans/旧国">旧国</a></span><span class="crefe"><a href="/hans/旧好">旧好</a></span><span class="crefe"><a href="/hans/旧货">旧货</a></span><span class="crefe"><a href="/hans/旧疾">旧疾</a></span><span class="crefe"><a href="/hans/旧迹">旧迹</a></span><span class="crefe"><a href="/hans/旧交">旧交</a></span><span class="crefe"><a href="/hans/旧教">旧教</a></span><span class="crefe"><a href="/hans/旧历">旧历</a></span><span class="crefe"><a href="/hans/旧例">旧例</a></span><span class="crefe"><a href="/hans/旧年">旧年</a></span><span class="crefe"><a href="/hans/旧年">旧年</a></span><span class="crefe"><a href="/hans/旧派">旧派</a></span><span class="crefe"><a href="/hans/旧前">旧前</a></span><span class="crefe"><a href="/hans/旧情">旧情</a></span><span class="crefe"><a href="/hans/旧日">旧日</a></span><span class="crefe"><a href="/hans/旧诗">旧诗</a></span><span class="crefe"><a href="/hans/旧石器时代">旧石器时代</a></span><span class="crefe"><a href="/hans/旧时">旧时</a></span><span class="crefe"><a href="/hans/旧识">旧识</a></span><span class="crefe"><a href="/hans/旧式">旧式</a></span><span class="crefe"><a href="/hans/旧事">旧事</a></span><span class="crefe"><a href="/hans/旧书">旧书</a></span><span class="crefe"><a href="/hans/旧俗">旧俗</a></span><span class="crefe"><a href="/hans/旧损">旧损</a></span><span class="crefe"><a href="/hans/旧态">旧态</a></span><span class="crefe"><a href="/hans/旧体">旧体</a></span><span class="crefe"><a href="/hans/旧闻">旧闻</a></span><span class="crefe"><a href="/hans/旧物">旧物</a></span><span class="crefe"><a href="/hans/旧习">旧习</a></span><span class="crefe"><a href="/hans/旧学">旧学</a></span><span class="crefe"><a href="/hans/旧业">旧业</a></span><span class="crefe"><a href="/hans/旧游">旧游</a></span><span class="crefe"><a href="/hans/旧友">旧友</a></span><span class="crefe"><a href="/hans/旧雨">旧雨</a></span><span class="crefe"><a href="/hans/旧约">旧约</a></span><span class="crefe"><a href="/hans/旧宅">旧宅</a></span><span class="crefe"><a href="/hans/旧账">旧账</a></span><span class="crefe"><a href="/hans/旧知">旧知</a></span><span class="crefe"><a href="/hans/旧址">旧址</a></span><span class="crefe"><a href="/hans/旧制">旧制</a></span></div>                    <div class="div copyright"> © 汉典 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="65E7_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=未集下" target="_blank">未集下</a>】【<a href="/zd/kx/?zm=未集下&amp;bs=臼" target="_blank">臼</a>】
+                              舊·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：12</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />
+                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">舊</span><span class="span dictname"> 《康熙字典》</span></h2>
+                          <span class="mini_h2">(康熙字典未收录“旧”字头，请参考“舊”字。)</span>                        
+                          
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mob">【<a href="/zd/kx/?zm=未集下" target="_blank">未集下</a>】【<a href="/zd/kx/?zm=未集下&amp;bs=臼" target="_blank">臼</a>】
+                              舊·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：12</div>
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/820A.svg">						  <p>【唐韻】【集韻】【韻會】巨救切【正韻】巨又切，<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>音柩。【說文】鴟舊，舊留也。【徐曰】卽怪鴟也。</p>
+<p>又【廣韻】故也。【增韻】對新之稱。【詩&middot;豳風】其新孔嘉，其舊如之何。【左傳&middot;僖二十八年】輿人誦，原田每每，舍其舊，而新是謀。【公羊傳&middot;莊二十九年】新延廄者何。修舊也。</p>
+<p>又久也。【詩&middot;大雅】於乎小子，告爾舊止。【箋】舊，久也。</p>
+<p>又【韻會】昔也，老宿也。</p>
+<p>又姓。漢上黨太守舊彊。</p>
+<p>又與柩同。【金史&middot;蔡珪傳】燕靈王舊。舊，古柩字通用。</p>
+<p>又【韻會】【正韻】<img class='lazy k_img' data-original='//img.zdic.net/song/cn/20024.svg'><span class='k_txt'>𠀤</span>巨九切，音臼。義同。</p>
+<p>又【集韻】許尤切，音休。與鵂同。</p>
+<p>又【韻補】叶巨己切，音技。【詩&middot;大雅】匪上帝不時，殷不用舊。時音氏。【又】維今之人，不尚有舊。叶上里。</p>
+<p>又叶巨寄切，音忌。【韋<img class='lazy k_img' data-original='//img.zdic.net/song/cn/248E5.svg'><span class='k_txt'>𤣥</span>成詩】天子我監，登我三事。顧我傷墜，爵復我舊。</p>
+<p>又【管子&middot;牧民篇】不恭祖舊，則孝弟不備。◎按唐韻正，舊音忌，則忌亦正音，非叶音。</p>
+<p>又叶去九切，音糗。【前漢&middot;敘傳】三枿之起，本根旣朽。枯楊生華，曷惟其舊。</p>
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="65E7_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=萑">萑</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">舊</span><span class="span dictname"> 《说文解字》</span></h2>
+                                                    <span class="mini_h2">(说文解字未收录“旧”字头，请参考“舊”字：)</span>
+                                                  </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=萑">萑</a>】</div>
+                                                    <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/820A.svg">                          <p><img class='lazy k_img' data-original='//img.zdic.net/song/cn/28FA6.svg'><span class='k_txt'>𨾦</span>舊，舊畱也。从萑臼聲。鵂，舊或从鳥休聲。巨救切文四　重二</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/820A_5378.svg" /><span class="swbf">(舊)</span><span class="ywyy"><img class='lazy k_img' data-original='//img.zdic.net/song/cn/28FA6.svg'><span class='k_txt'>𨾦</span>舊，</span><span class="ywyy">舊畱也。</span><span class="swdz">舊畱也。釋鳥：怪鴟。舍人曰：謂鵂<img class='lazy k_img' data-original='//img.zdic.net/song/cn/2A173.svg'><span class='k_txt'>𪅳</span>也。南陽名鉤鵅。一名忌欺。按今字爲新舊字。</span><span class="ywyy">从萑臼聲。</span><span class="swdz">巨救切。古音在一部。</span></p>
+<hr />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/820A_5379.svg" /><span class="swbf">(鵂)</span><span class="ywyy">舊或从鳥。休聲。</span><span class="swdz">按毛詩舊在一部，音轉入三部，乃别製鵂字，音許流切矣。角部但云鴟舊。</span></p>                          </div>
+                                                    <div class="div copyright"> © 汉典</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="65E7_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">旧</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  tɕiou˥˧ <span class="z_ts4">日语读音</span>  FURUI MOTO<span class="z_ts4">韩语罗马</span>  KWU</p>						<p><span class="z_ts2">粤语</span>  gau6</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/旧">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/旧">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/旧">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/旧">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/旧">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/旧">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/旧">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/旧">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/旧">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/旧">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/旧">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/旧">中古音</a>   </div>                        
+                          <div class="div copyright"> © 汉典 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">旧</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「舊」。</p><table class="zyyb"><tr><td>甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td><a href="/zd/zx/jg/旧"><img data-original="//img.zdic.net/zy/jiaguwen/41_F7C3.svg" class="lazy ypic"><span>「舊」 前4.15.4</span><span>合3522</span></a></td><td><a href="/zd/zx/jw/旧"><img data-original="//img.zdic.net/zy/jinwen/31_F61A.svg" class="lazy ypic"><span>「舊」 盠駒尊</span><span>西周中期</span><span>集成6011</span></a></td><td><a href="/zd/zx/cx/旧"><img data-original="//img.zdic.net/zy/chuwenzi/51_F50A.svg" class="lazy ypic"><span>「舊」 包2.135反</span></a></td><td><a href="/zd/zx/xz/旧"><img data-original="//img.zdic.net/zy/xiaozhuan/27_820A.svg" class="lazy ypic"><span>「舊」 說文‧雈部</span></a></td><td style="display:none"></td><td><a href="/hans/舊" target="_blank"><img data-original="//img.zdic.net/kai/tw/820A.svg" class="lazy ypic"><span>「舊」</span></a> </td><td><a href="/hans/旧" target="_blank"><img data-original="//img.zdic.net/kai/tw/65E7.svg" class="lazy ypic"><span>「旧」</span></a></td><td style="display:none"><a href="/hans/旧" target="_blank"><img data-original="//img.zdic.net/kai/tw/65E7.svg" class="lazy ypic"><span>「旧」</span></a></td></tr><tr><td><a href="/zd/zx/jg/旧"><img data-original="//img.zdic.net/zy/jiaguwen/41_F7C4.svg" class="lazy ypic"><span>「舊」 後2.2.5</span><span>合33981</span></a></td><td></td><td><a href="/zd/zx/cx/旧"><img data-original="//img.zdic.net/zy/chuwenzi/55_F80A.svg" class="lazy ypic"><span>「舊」 郭.性.26</span></a></td><td><a href="/zd/zx/xz/旧"><img data-original="//img.zdic.net/zy/xiaozhuan/27_9D42.svg" class="lazy ypic"><span>「鵂」 說文或體</span></a></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td><a href="/zd/zx/jg/旧"><img data-original="//img.zdic.net/zy/jiaguwen/41_F7D7.svg" class="lazy ypic"><span>「舊」 前2.5.1</span><span>合36486</span></a></td><td></td><td><a href="/zd/zx/cx/旧"><img data-original="//img.zdic.net/zy/chuwenzi/55_F814.svg" class="lazy ypic"><span>「舊」 郭.老乙.3</span></a></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/旧">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/旧">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/旧">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/旧">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/旧">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/65E7.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/65E7.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/65E7.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/65E7.svg" data-bd-imgshare-binded="1">日本</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/舊' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/820A.svg'><span>舊</span></a></div> <div class='zx'><a href='/hans/𦾔' target=_blank><img class='lazy ytz_img2' data-original='//img.zdic.net/song/cn/26F94.svg'><span>𦾔</span></a></div>  </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> © 汉典 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="6120" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="5597">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㲃">㲃(jiu4)</a></li><li><a href="/hans/㝌">㝌(jiu4)</a></li><li><a href="/hans/匶">匶(jiu4)</a></li><li><a href="/hans/舅">舅(jiu4)</a></li><li><a href="/hans/欍">欍(jiu4)</a></li><li><a href="/hans/匓">匓(jiu4)</a></li><li><a href="/hans/捄">捄(jiu4)</a></li><li><a href="/hans/㺩">㺩(jiu4)</a></li><li><a href="/hans/䬨">䬨(jiu4)</a></li><li><a href="/hans/疚">疚(jiu4)</a></li><li><a href="/hans/廐">廐(jiu4)</a></li><li><a href="/hans/柩">柩(jiu4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/晊">晊</a></li><li><a href="/hans/晨">晨</a></li><li><a href="/hans/暲">暲</a></li><li><a href="/hans/曤">曤</a></li><li><a href="/hans/㫕">㫕</a></li><li><a href="/hans/曪">曪</a></li><li><a href="/hans/昞">昞</a></li><li><a href="/hans/㬠">㬠</a></li><li><a href="/hans/曫">曫</a></li><li><a href="/hans/曒">曒</a></li><li><a href="/hans/晡">晡</a></li><li><a href="/hans/暕">暕</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠂞">𠂞</a></li><li><a href="/hans/驭">驭</a></li><li><a href="/hans/夘">夘</a></li><li><a href="/hans/叾">叾</a></li><li><a href="/hans/㧅">㧅</a></li><li><a href="/hans/卟">卟</a></li><li><a href="/hans/仟">仟</a></li><li><a href="/hans/氻">氻</a></li><li><a href="/hans/𠀔">𠀔</a></li><li><a href="/hans/𠀐">𠀐</a></li><li><a href="/hans/写">写</a></li><li><a href="/hans/屳">屳</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">千门万户曈曈日，总把新桃换<span>旧</span>符。</div><div class="gscdr">宋·王安石 《元日》</div><div class="gscdl">江南好，风景<span>旧</span>曾谙；日出江花红胜火，春来江水绿如蓝。能不忆江南？</div><div class="gscdr">唐·白居易 《忆江南》</div><div class="gscdl">七八个星天外，两三点雨山前。<span>旧</span>时茅店社林边。路转溪桥忽见。</div><div class="gscdr">宋·辛弃疾 《西江月·夜行黄沙道中》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">海日生残夜，江春入<span>旧</span>年。</div><div class="gscdr">唐·王湾 《次北固山下》</div><div class="gscdl">开我东阁门，坐我西阁床，脱我战时袍，著我<span>旧</span>时裳。</div><div class="gscdr">南北朝·佚名 《木兰诗 / 木兰辞》</div><div class="gscdl">一曲新词酒一杯，去年天气<span>旧</span>亭台。</div><div class="gscdr">宋·晏殊 《浣溪沙·一向年光有限身》</div><div class="gscdl">乃重修岳阳楼，增其<span>旧</span>制，刻唐贤今人诗赋于其上。属予作文以记之。</div><div class="gscdr">宋·范仲淹 《岳阳楼记》</div><div class="gscdl">怀<span>旧</span>空吟闻笛赋，到乡翻似烂柯人。</div><div class="gscdr">唐·刘禹锡 《酬乐天扬州初逢席上见赠》</div><div class="gscdl">一抹晚烟荒戍垒，半竿斜日<span>旧</span>关城。古今幽恨几时平。</div><div class="gscdr">清·纳兰性德 《浣溪沙》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=6120"></script>
+</body>
+</html>

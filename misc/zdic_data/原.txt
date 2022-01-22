@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>原的解释|原的意思|汉典“原”字的基本解释</title>
+<meta name="title" content="原的解释|原的意思|汉典“原”字的基本解释">
+<meta name="keywords" content="|⿸厂⿱白小|" /><meta property="og:title" content="“原”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“原”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“原”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/原" />
+<link rel="canonical" href="//www.zdic.net/hans/原" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/原" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/原" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/原" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/原">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/原">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/539F.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/539F.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yuán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“原”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yuán.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄩㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“原”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩㄢˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=厂" target="_blank">  厂</a></p>
+                              <p><span class="z_ts2">部外</span>  8</p>
+                              <p><span class="z_ts3">总笔画</span>  10</p></td>                                                        <td class="z_ytz2"><a href='/hans/元' target=_blank>元</a> <a href='/hans/厡' target=_blank>厡</a> <a href='/hans/厵' target=_blank>厵</a> <a href='/hans/塬' target=_blank>塬</a> <a href='/hans/源' target=_blank>源</a> <a href='/hans/羱' target=_blank>羱</a> <a href='/hans/邍' target=_blank>邍</a> <a href='/hans/𠩠' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20A60.svg'><span class='ytz_txt'>𠩠</span> <a href='/hans/𠩤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20A64.svg'><span class='ytz_txt'>𠩤</span> <a href='/hans/𠪥' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AA5.svg'><span class='ytz_txt'>𠪥</span> <a href='/hans/𠪰' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AB0.svg'><span class='ytz_txt'>𠪰</span> <a href='/hans/𠫐' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AD0.svg'><span class='ytz_txt'>𠫐</span> <a href='/hans/𠫒' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20AD2.svg'><span class='ytz_txt'>𠫒</span> <a href='/hans/𨘡' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28621.svg'><span class='ytz_txt'>𨘡</span> <a href='/hans/𨙅' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28645.svg'><span class='ytz_txt'>𨙅</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+539F</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>1332511234</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>drii</p></td>                            <td class="dsk_2_1"><p>mhaf</p></td>                            <td class="dsk_2_1"><p>ggnk</p></td>                            <td class="dsk_2_1"><p>71296</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yuán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“原”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yuán.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄩㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“原”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩㄢˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=厂" target="_blank">厂</a> <span class="z_ts2">部外</span> 8<span class="z_ts3">总笔画</span> 10</p>                    <p><span class="z_ts3">基本区</span> 539F<span class="z_ts2">笔顺</span> 1332511234                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="539F_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1440" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">原</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>原</strong></p>
+<p><span class="dicpy">yu&aacute;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yu&aacute;n.mp3"></a></span>  ㄩㄢˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>最初的，开始的：～本。～告。～稿。～籍。～理。～料。～色。～始。～著。</li>
+	<li>本来：～样。～型。～址。～主。</li>
+	<li>谅解，宽容：～宥。～谅。</li>
+	<li>宽广平坦的地方：～野。平～。</li>
+	<li>同&ldquo;<a href="/hans/塬">塬</a>&rdquo;。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> source, origin, beginning</p><p><span class="z_ts2">德语</span> ursprünglich  (Adj)​,eigentlich  (Adv)</p><p><span class="z_ts2">法语</span> primitif,originel,initial,pardonner,excuser,plaine,brut,original,(nom de famille)​</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">原</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>原</strong> <span class="dicpy">yu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yu&aacute;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> (会意。小篆字形。象泉水从山崖里涌出来。从厂( <span class="dicpy">hǎn</span>)，象山崖石穴形。从泉。本义:水源，源泉)</p>
+<p><span class="cino">(2)</span> &ldquo;源&rdquo;的古字。水源，水流起头的地方 <span class="encs">[fountainhead;source of a river]</span></p>
+<p><span class="diczx1">原，水泉本也。&mdash;&mdash;<span class="smcs">《说文》</span>。俗字作&ldquo;源&rdquo;。</span></p>
+<p><span class="diczx1">原泉混混。&mdash;&mdash;<span class="smcs">《孟子》</span></span></p>
+<p><span class="diczx1">原流、泉浡。&mdash;&mdash;<span class="smcs">《淮南子&middot;原道》</span></span></p>
+<p><span class="diczx1">犹塞川原为潢洿也。&mdash;&mdash;<span class="smcs">《汉书&middot;食货志》</span></span></p>
+<p><span class="diczx1">有本有原。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《原毁》</span></p>
+<p><span class="diczx3">又如:原泉(源泉);原流(源流)</span></p>
+<p><span class="cino">(3)</span> 起源;根本;根由 <span class="encs">[origin;cause;source]</span></p>
+<p><span class="diczx1">必达于礼乐之原。&mdash;&mdash;<span class="smcs">《礼记&middot;孔子闲居》</span>。注:&ldquo;犹本也。&rdquo;</span></p>
+<p><span class="diczx1">原小则鲜。&mdash;&mdash;<span class="smcs">《史记&middot;货殖列传》</span>。</span></p>
+<p><span class="diczx1">衣食之原。</span></p>
+<p><span class="diczx1">原大则饶。</span></p>
+<p><span class="diczx3">又如:原故(原因);原凶(凶杀案的主犯);原曲(原委和底细)</span></p>
+<p><span class="cino">(4)</span> 原野 <span class="encs">[open country]</span></p>
+<p><span class="diczx1">广平曰原。&mdash;&mdash;<span class="smcs">《尔雅》</span></span></p>
+<p><span class="diczx1">拘诸原。&mdash;&mdash;<span class="smcs">《左传&middot;僖公三十三年》</span></span></p>
+<p><span class="diczx1">川原无际。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">南望原隰。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《祭妹文》</span></p>
+<p><span class="diczx3">又如:原燎(原野上大火延烧);原色(原野的景色);原陵(平原与丘陵)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>原</strong> <span class="dicpy">yu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yu&aacute;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> 原来 <span class="encs">[original;former;primary]</span></p>
+<p><span class="diczx1">原不过此数。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">洪亮吉</span><span class="smcs">《治平篇》</span></p>
+<p><span class="diczx3">如:原道(原来说;原来);原起(原来;起初);原自(本来;原来);原身(原来的身形);原心(本心，本意);原价(原来的价格);原额(原来规定的数额)</span></p>
+<p><span class="cino">(2)</span> 本来 <span class="encs">[true]</span></p>
+<p><span class="diczx1">若果为原版所有。&mdash;&mdash;<span class="smcs">《书林清话》</span></span></p>
+<p><span class="diczx3">又如:原底子(本来;从前);原说(本来说);原形毕露(本来面貌)</span></p>
+<p><span class="cino">(3)</span> 最初的 <span class="encs">[initial]</span>。</p>
+<p><span class="diczx3">如:原脚子(原本);原解(捉拿犯人归案的差役);原供(最初的供词)</span></p>
+<p><span class="cino">(4)</span> 未加工的 <span class="encs">[raw;unprocessed]</span>。</p>
+<p><span class="diczx3">如:原油;原粮</span></p>
+<p>◎ <strong>原</strong> <span class="dicpy">yu&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yu&aacute;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 推究 <span class="encs">[examine]</span></p>
+<p><span class="diczx1">原心定罪。&mdash;&mdash;<span class="smcs">《汉书&middot;薛宣传》</span>。注:&ldquo;谓寻其本也。&rdquo;</span></p>
+<p><span class="diczx1">原其理，当是为谷大水冲激&hellip;&hellip;唯巨石岿然挺立耳。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx1">原</span><span class="diczx2">庄宗</span>。&mdash;&mdash; <span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《伶官传》</span></p>
+<p><span class="diczx3">又如:原情(推究本情);原察(推究考察);原君;原毁</span></p>
+<p><span class="cino">(2)</span> 宽恕 <span class="encs">[excuse;pardon]</span></p>
+<p><span class="diczx1">因任己明而原省次之。&mdash;&mdash;<span class="smcs">《庄子&middot;天道》</span></span></p>
+<p><span class="diczx3">又如:原宥(原谅宽恕);原刑(恕罪);原省(宽恕并免除其罪);原降(原宥而减罪);原赦(宽恕赦免)</span></p>
+<p><span class="cino">(3)</span> 赦免 <span class="encs">[remit]</span>。</p>
+<p><span class="diczx3">如:原洗(赦免洗雪);原恕(赦免);原遣(赦免释放)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/原案">原案</a></span><span class="crefe"><a href="/hans/原版">原版</a></span><span class="crefe"><a href="/hans/原本">原本</a></span><span class="crefe"><a href="/hans/原本">原本</a></span><span class="crefe"><a href="/hans/原材料">原材料</a></span><span class="crefe"><a href="/hans/原虫">原虫</a></span><span class="crefe"><a href="/hans/原地">原地</a></span><span class="crefe"><a href="/hans/原点">原点</a></span><span class="crefe"><a href="/hans/原动力">原动力</a></span><span class="crefe"><a href="/hans/原封">原封</a></span><span class="crefe"><a href="/hans/原封不动">原封不动</a></span><span class="crefe"><a href="/hans/原稿">原稿</a></span><span class="crefe"><a href="/hans/原告">原告</a></span><span class="crefe"><a href="/hans/原隔">原隔</a></span><span class="crefe"><a href="/hans/原沟">原沟</a></span><span class="crefe"><a href="/hans/原故">原故</a></span><span class="crefe"><a href="/hans/原核">原核</a></span><span class="crefe"><a href="/hans/原籍">原籍</a></span><span class="crefe"><a href="/hans/原件">原件</a></span><span class="crefe"><a href="/hans/原浆">原浆</a></span><span class="crefe"><a href="/hans/原旧">原旧</a></span><span class="crefe"><a href="/hans/原来">原来</a></span><span class="crefe"><a href="/hans/原来">原来</a></span><span class="crefe"><a href="/hans/原来">原来</a></span><span class="crefe"><a href="/hans/原理">原理</a></span><span class="crefe"><a href="/hans/原粮">原粮</a></span><span class="crefe"><a href="/hans/原谅">原谅</a></span><span class="crefe"><a href="/hans/原料">原料</a></span><span class="crefe"><a href="/hans/原毛">原毛</a></span><span class="crefe"><a href="/hans/原貌">原貌</a></span><span class="crefe"><a href="/hans/原煤">原煤</a></span><span class="crefe"><a href="/hans/原棉">原棉</a></span><span class="crefe"><a href="/hans/原名">原名</a></span><span class="crefe"><a href="/hans/原木">原木</a></span><span class="crefe"><a href="/hans/原配">原配</a></span><span class="crefe"><a href="/hans/原圃">原圃</a></span><span class="crefe"><a href="/hans/原人">原人</a></span><span class="crefe"><a href="/hans/原色">原色</a></span><span class="crefe"><a href="/hans/原审">原审</a></span><span class="crefe"><a href="/hans/原始">原始</a></span><span class="crefe"><a href="/hans/原诉">原诉</a></span><span class="crefe"><a href="/hans/原田">原田</a></span><span class="crefe"><a href="/hans/原头">原头</a></span><span class="crefe"><a href="/hans/原图">原图</a></span><span class="crefe"><a href="/hans/原委">原委</a></span><span class="crefe"><a href="/hans/原文">原文</a></span><span class="crefe"><a href="/hans/原物">原物</a></span><span class="crefe"><a href="/hans/原隰">原隰</a></span><span class="crefe"><a href="/hans/原先">原先</a></span><span class="crefe"><a href="/hans/原线圈">原线圈</a></span><span class="crefe"><a href="/hans/原形">原形</a></span><span class="crefe"><a href="/hans/原形毕露">原形毕露</a></span><span class="crefe"><a href="/hans/原型">原型</a></span><span class="crefe"><a href="/hans/原盐">原盐</a></span><span class="crefe"><a href="/hans/原样">原样</a></span><span class="crefe"><a href="/hans/原野">原野</a></span><span class="crefe"><a href="/hans/原意">原意</a></span><span class="crefe"><a href="/hans/原因">原因</a></span><span class="crefe"><a href="/hans/原由">原由</a></span><span class="crefe"><a href="/hans/原油">原油</a></span><span class="crefe"><a href="/hans/原宥">原宥</a></span><span class="crefe"><a href="/hans/原原本本">原原本本</a></span><span class="crefe"><a href="/hans/原早">原早</a></span><span class="crefe"><a href="/hans/原则">原则</a></span><span class="crefe"><a href="/hans/原汁">原汁</a></span><span class="crefe"><a href="/hans/原职">原职</a></span><span class="crefe"><a href="/hans/原址">原址</a></span><span class="crefe"><a href="/hans/原主">原主</a></span><span class="crefe"><a href="/hans/原著">原著</a></span><span class="crefe"><a href="/hans/原子">原子</a></span><span class="crefe"><a href="/hans/原子笔">原子笔</a></span><span class="crefe"><a href="/hans/原子弹">原子弹</a></span><span class="crefe"><a href="/hans/原子反应堆">原子反应堆</a></span><span class="crefe"><a href="/hans/原子核">原子核</a></span><span class="crefe"><a href="/hans/原子能">原子能</a></span><span class="crefe"><a href="/hans/原子能发电站">原子能发电站</a></span><span class="crefe"><a href="/hans/原罪">原罪</a></span><span class="crefe"><a href="/hans/原作">原作</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">原</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>原</rb></rbc><rtc><rt>ㄩㄢˊ</rt></rtc><rtc><rt>yu&aacute;n <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6551.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">本於、發生於。</span><span class="gc_yy">《莊子&middot;天下》：「聖有所生，王有所成，皆<b>原</b>於一。」</span><span class="gc_yy">《禮記&middot;王制》：「凡聽五刑之訟，必<b>原</b>父子之親，立君臣之義。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">推究根源。</span><span class="gc_yy">《易經&middot;繫辭下》：「易之為書也，原始要終，以為質也。」</span><span class="gc_yy">宋&middot;沈括《夢溪筆談&middot;卷二四&middot;雜誌一》：「磁石之指南，猶柏之指西，莫可<b>原</b>其理。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">寬恕、諒解。</span><span class="gc_lz">如：「原諒」、「情有可<b>原</b>」。</span><span class="gc_yy">《後漢書&middot;卷八一&middot;獨行傳&middot;范冉傳》：「冉首自劾退，詔書特<b>原</b>不理罪。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">根本。</span><span class="gc_yy">《呂氏春秋&middot;孟冬紀&middot;異用》：「萬物不同，而用之於人異也，此治亂存亡死生之<b>原</b>。」</span><span class="gc_yy">漢&middot;王符《潛夫論&middot;務本》：「游業末事以收民利，此貧邦之<b>原</b>也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">廣大而平坦的地方。</span><span class="gc_lz">如：「平<b>原</b>」、「高<b>原</b>」。</span><span class="gc_yy">《書經&middot;盤庚上》：「若火之燎于<b>原</b>，不可嚮邇，其猶可撲滅。」</span><span class="gc_yy">唐&middot;白居易〈賦得古<b>原</b>草送別〉詩：「離離<b>原</b>上草，一歲一枯榮。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如春秋時魯國有原壤。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">最初的、本來的。</span><span class="gc_lz">如：「原文」、「原著」、「原油」、「物歸原主」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">再。</span><span class="gc_yy">《淮南子&middot;泰族》：「<b>原</b>蠶一歲再收，非不利也，然而王法禁之者，為其殘桑也。」</span><span class="gc_yy">《資治通鑑&middot;卷二七一&middot;後梁紀六&middot;均王貞明六年》：「閏月、庚申朔，蜀主作高祖原廟于萬里橋。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">本來。</span><span class="gc_yy">唐&middot;薛能〈贈隱者〉詩：「甘貧原是道，苦學不為名。」</span><span class="gc_yy">《紅樓夢&middot;第四二回》：「賈母<b>原</b>沒有大病，不過是勞乏了，兼著了些涼。」</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>原</rb></rbc><rtc><rt>ㄩㄢˋ</rt></rtc><rtc><rt>yu&agrave;n</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">忠厚、拘謹。</span><span class="gc_yy">《論語&middot;陽貨》：「鄉<b>原</b>，德之賊也。」</span><span class="gc_yx">通「愿」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="539F_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=厂" target="_blank">厂</a>】
+                              原·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：8</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">原</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=厂" target="_blank">厂</a>】
+                              原·康熙筆画：<a href="/zd/kx/bh/?bh=10" target="_blank">10</a>　·部外筆画：8</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/539F.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20AA5.svg"><span class="k_txt">𠪥</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/28621.svg"><span class="k_txt">𨘡</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20AB0.svg"><span class="k_txt">𠪰</span>【唐韻】【集韻】【韻會】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>愚袁切，音元。【說文】高平曰原，人所登。【爾雅&middot;釋地】大野曰平，廣平曰原。【周禮&middot;地官&middot;大司徒】辨其山林澤墳衍原隰之名物。【禮&middot;月令】孟夏，令野虞出行田原，爲天子勞農。</p>
+<p>又【前漢&middot;食貨志】農漁商賈四者，衣食之原。【董仲舒傳】道之大，原出於天。【司馬相如傳】爾陿游原。【註】孟康曰：原，本也。</p>
+<p>又【爾雅&middot;釋言】原，再也。【疏】重再也。【易&middot;比卦】原筮元永貞。【朱傳】必再筮，自審有元善長永正固之德。【禮&middot;文王世子】命膳宰曰：末有原。【註】末，勿也。謂所食之餘，不可再進也。【前漢&middot;禮樂志】以沛宮爲原廟。【註】師古曰：原，重也。言已立正廟，更重立也。</p>
+<p>又【韻會】推原也。【易&middot;繫辭】原始要終。【前漢&middot;薛宣傳】原心定罪。【註】師古曰：原，謂尋其本也。【管子&middot;戒篇】春出，原農事之不本者，謂之遊。【註】原，察也。</p>
+<p>又宥罪曰原。【晉書&middot;潘岳傳】會詔原之。</p>
+<p>又通作源。【前漢&middot;食貨志】猶塞川原爲潢洿也。【註】師古曰：原，謂水泉之本也。</p>
+<p>又姓。【廣韻】孔子弟子有原憲。【前漢&middot;趙廣漢傳】潁川大姓原褚。【註】原褚，二姓也。</p>
+<p>又州名。【韻會】漢高平縣，魏爲鎮州，又攺原州。</p>
+<p>又【韻補】叶虞雲切。【史記&middot;敘傳】懷王客死，蘭咎屈原。好諛信讒，楚幷于秦。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="539F_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=灥">灥</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">𠫐</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“原”字头，请参考“<a href="/hans/𠫐"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/20AD0.svg"><span class="k_txt">𠫐</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十一">卷十一</a>】【<a href="/zd/sw/?swju=卷十一&amp;swbs=灥">灥</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/20AD0.svg">                          <p>水泉夲也。从灥出厂下。</p>
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/swxz/20AD0_1.svg" />原，篆文从泉。愚袁切〖注〗臣鉉等曰：今別作源，非是。文二　重一</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/20AD0_9237.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20AD0.svg"><span class="k_txt">𠫐</span>)</span><span class="ywyy">水本也。</span><span class="swdz">各本作水泉本也，今<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20702.svg"><span class="k_txt">𠜂</span>正。月令百源注曰：衆水始所出爲百源。單<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2799D.svg"><span class="k_txt">𧦝</span>曰原。絫<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2799D.svg"><span class="k_txt">𧦝</span>曰原泉，孟子原泉混混是也。</span><span class="ywyy">从灥出厂下。</span><span class="swdz">厂者，山石之厓巖。會意。愚袁切。十四部。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/20AD0_9238.svg" /><span class="swbf">(厡)</span><span class="ywyy">篆文从泉。</span><span class="swdz">此亦先二後上之例。以小篆作厡，知<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20AD0.svg"><span class="k_txt">𠫐</span>乃古文、籒文也。後人以厡代高平曰邍之邍，而别製源字爲本厡之厡，積非成是久矣。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="539F_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">原</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  juan˧˥ <span class="z_ts4">唐代读音</span>  *ngiuæn<span class="z_ts4">日语读音</span>  HARA MOTO TAZUNERU<span class="z_ts4">韩语罗马</span>  WEN<span class="z_ts4">现代韩语</span>  원<span class="z_ts3">越南语</span>  nguyên</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] ngian2 [台湾四县腔] ngien2 [客英字典] ngien2 [宝安腔] ngien2 [客语拼音字汇] ngian2 [东莞腔] ngen2 [沙头角腔] nien2 [海陆腔] ngien2 [陆丰腔] gnian3<span class="z_ts2">粤语</span>  jyun4<span class="z_ts3">潮州话</span>  nguang5 (ngûang) 「潮州」nguêng5 (ngûeng 旧时：ngûen)</p>						<p><span class="z_ts3">近代音</span>  影母    先天韻    平聲陽    元小空；<span class="z_ts3">中古音</span>  疑母    元韻    平聲    元小韻    愚𡋡切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：疑母    寒部   ；王力系统：疑母    元部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/原">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/原">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/原">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/原">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/原">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/原">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/原">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/原">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/原">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/原">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/原">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/原">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/原">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">原</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/原"><img data-original="//img.zdic.net/zy/jinwen/33_ECB3.svg" class="lazy ypic"><span>「原」 雍伯原鼎</span><span>西周晚期</span><span>集成2559</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/原"><img data-original="//img.zdic.net/zy/xiaozhuan/27_F0F7.svg" class="lazy ypic"><span>「原」 說文‧灥部</span></a></td><td><a href="/zd/zx/qx/原"><img data-original="//img.zdic.net/zy/qinwenzi/71_EBE2.svg" class="lazy ypic"><span>「原」 睡.法196</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/原" target="_blank"><img data-original="//img.zdic.net/kai/tw/539F.svg" class="lazy ypic"><span>「原」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/原"><img data-original="//img.zdic.net/zy/jinwen/33_ECB4.svg" class="lazy ypic"><span>「原」 大克鼎</span><span>西周晚期</span><span>集成2836</span></a></td><td style="display:none"></td><td><a href="/zd/zx/xz/原"><img data-original="//img.zdic.net/zy/xiaozhuan/27_539F.svg" class="lazy ypic"><span>「原」 說文篆文</span></a></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/原"><img data-original="//img.zdic.net/zy/jinwen/33_ECB6.svg" class="lazy ypic"><span>「原」 散氏盤</span><span>西周晚期</span><span>集成10176</span></a></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/原">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/原">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/原">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/原">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/539F.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/539F.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/539F.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/539F.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/539F.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/元' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5143.svg'><span>元</span></a></div> <div class='zx'><a href='/hans/厡' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/53A1.svg'><span>厡</span></a></div> <div class='zx'><a href='/hans/厵' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/53B5.svg'><span>厵</span></a></div> <div class='zx'><a href='/hans/塬' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/586C.svg'><span>塬</span></a></div> <div class='zx'><a href='/hans/源' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/6E90.svg'><span>源</span></a></div> <div class='zx'><a href='/hans/羱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/7FB1.svg'><span>羱</span></a></div> <div class='zx'><a href='/hans/邍' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/908D.svg'><span>邍</span></a></div> <div class='zx'><a href='/hans/𠩠' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20A60.svg'><span>𠩠</span></a></div> <div class='zx'><a href='/hans/𠩤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20A64.svg'><span>𠩤</span></a></div> <div class='zx'><a href='/hans/𠪥' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AA5.svg'><span>𠪥</span></a></div> <div class='zx'><a href='/hans/𠪰' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AB0.svg'><span>𠪰</span></a></div> <div class='zx'><a href='/hans/𠫐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AD0.svg'><span>𠫐</span></a></div> <div class='zx'><a href='/hans/𠫒' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20AD2.svg'><span>𠫒</span></a></div> <div class='zx'><a href='/hans/𨘡' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28621.svg'><span>𨘡</span></a></div> <div class='zx'><a href='/hans/𨙅' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28645.svg'><span>𨙅</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1440" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7637">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/塬">塬(yuan2)</a></li><li><a href="/hans/圓">圓(yuan2)</a></li><li><a href="/hans/邍">邍(yuan2)</a></li><li><a href="/hans/员">员(yuan2)</a></li><li><a href="/hans/鶰">鶰(yuan2)</a></li><li><a href="/hans/㟲">㟲(yuan2)</a></li><li><a href="/hans/榞">榞(yuan2)</a></li><li><a href="/hans/円">円(yuan2)</a></li><li><a href="/hans/蚖">蚖(yuan2)</a></li><li><a href="/hans/䖤">䖤(yuan2)</a></li><li><a href="/hans/鎱">鎱(yuan2)</a></li><li><a href="/hans/蒝">蒝(yuan2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/㕏">㕏</a></li><li><a href="/hans/厢">厢</a></li><li><a href="/hans/厭">厭</a></li><li><a href="/hans/㕎">㕎</a></li><li><a href="/hans/厘">厘</a></li><li><a href="/hans/厨">厨</a></li><li><a href="/hans/厕">厕</a></li><li><a href="/hans/厣">厣</a></li><li><a href="/hans/厃">厃</a></li><li><a href="/hans/厴">厴</a></li><li><a href="/hans/㕉">㕉</a></li><li><a href="/hans/厞">厞</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/胸">胸</a></li><li><a href="/hans/𠔛">𠔛</a></li><li><a href="/hans/都">都</a></li><li><a href="/hans/臭">臭</a></li><li><a href="/hans/𠅜">𠅜</a></li><li><a href="/hans/羓">羓</a></li><li><a href="/hans/倝">倝</a></li><li><a href="/hans/䋇">䋇</a></li><li><a href="/hans/𠗟">𠗟</a></li><li><a href="/hans/蚏">蚏</a></li><li><a href="/hans/笋">笋</a></li><li><a href="/hans/悅">悅</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">离离<span>原</span>上草，一岁一枯荣。</div><div class="gscdr">《赋得古原草送别》（节选）</div><div class="gscdl">绿遍山<span>原</span>白满川，子规声里雨如烟。</div><div class="gscdr">宋·翁卷 《乡村四月》</div><div class="gscdl">咬定青山不放松，立根<span>原</span>在破岩中。</div><div class="gscdr">清·郑燮 《竹石》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">中<span>原</span>乱，簪缨散，几时收？试倩悲风吹泪，过扬州。</div><div class="gscdr">宋·朱敦儒 《相见欢》</div><div class="gscdl">今南方已定，兵甲已足，当奖率三军，北定中<span>原</span>，庶竭驽钝，攘除奸凶，兴复汉室，还于旧都。</div><div class="gscdr">三国·诸葛亮 《出师表》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=1440"></script>
+</body>
+</html>

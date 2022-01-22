@@ -1,0 +1,615 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>包的解释|包的意思|汉典“包”字的基本解释</title>
+<meta name="title" content="包的解释|包的意思|汉典“包”字的基本解释">
+<meta name="keywords" content="合并：勹、巳。 " /><meta property="og:title" content="“包”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“包”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“包”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/包" />
+<link rel="canonical" href="//www.zdic.net/hans/包" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/包" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/包" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/包" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/包">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/包">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/5305.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/5305.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">bāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“包”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bāo.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄅㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“包”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄠ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=勹" target="_blank">  勹</a></p>
+                              <p><span class="z_ts2">部外</span>  3</p>
+                              <p><span class="z_ts3">总笔画</span>  5</p></td>                                                        <td class="z_ytz2"><a href='/hans/勹' target=_blank>勹</a> <a href='/hans/鞄' target=_blank>鞄</a> <a href='/hans/匏' target=_blank>匏</a> <a href='/hans/庖' target=_blank>庖</a> <a href='/hans/胞' target=_blank>胞</a> <a href='/hans/苞' target=_blank>苞</a> <a href='/hans/𠣒' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/208D2.svg'><span class='ytz_txt'>𠣒</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+5305</p></td>
+                            <td class="dsk_2_1">半包围结构</td>                            <td align="center" class="z_bis2"><p>35515</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>qnv</p></td>                            <td class="dsk_2_1"><p>pru</p></td>                            <td class="dsk_2_1"><p>ry</p></td>                            <td class="dsk_2_1"><p>27712</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">bāo<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“包”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/bāo.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄅㄠ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“包”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄅㄠ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=勹" target="_blank">勹</a> <span class="z_ts2">部外</span> 3<span class="z_ts3">总笔画</span> 5</p>                    <p><span class="z_ts3">基本区</span> 5305<span class="z_ts2">笔顺</span> 35515                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="5305_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1286" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>包</strong></p>
+<p><span class="dicpy">bāo  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bāo.mp3"></a></span>  ㄅㄠˉ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>用纸、布或其他薄片把东西裹起来：～装。～饺子。</li>
+	<li>包好了的东西：邮～。背（<span class="dicpy">b&egrave;i </span>）～。</li>
+	<li>装东西的袋：书～。皮～。</li>
+	<li>容纳在内，总括在一起：～括。～举（总括）。～容。～涵。～罗万象。无所不～。</li>
+	<li>总揽，负全责：～销。～揽。</li>
+	<li>保证：～赔。～在我身上。</li>
+	<li>约定的，专用的：～饭。～工。</li>
+	<li>围：～围。～剿。</li>
+	<li>一种带馅的蒸熟的面食：～子。糖～儿。</li>
+	<li>身体上肿起的疙瘩：脓～。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> wrap, pack, bundle; package</p><p><span class="z_ts2">德语</span> Packung, Paket, Päckchen, Sack  (S)​,einpacken, einwickeln, verpacken  (V)</p><p><span class="z_ts2">法语</span> envelopper,empaqueter,encercler,contenir,embrasser,se charger de,garantir,affréter,louer,sac,paquet,bosse,enflure</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>包</strong> <span class="dicpy">bāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bāo.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (会意。小篆字形，外边是&ldquo;勹&rdquo;。中间是个&ldquo;巳&rdquo;( <span class="dicpy">s&igrave;</span>)字，&ldquo;象子未成形&rdquo;。&ldquo;勹&rdquo;就是&ldquo;包&rdquo;的本字。本义:裹)</p>
+<p><span class="cino">(2)</span> 用纸、布等裹东西 <span class="encs">[wrap up]</span></p>
+<p><span class="diczx1">野有死麕，白茅包之。&mdash;&mdash;<span class="smcs">《诗&middot;召南&middot;野有死麕》</span></span></p>
+<p><span class="diczx1">草木渐包。&mdash;&mdash;<span class="smcs">《书&middot;禹贡》</span></span></p>
+<p><span class="diczx1">包有鱼。&mdash;&mdash;<span class="smcs">《易&middot;姤》</span></span></p>
+<p><span class="diczx1">包之以虎皮。&mdash;&mdash;<span class="smcs">《礼记&middot;乐记》</span></span></p>
+<p><span class="diczx3">又如:纸包不住火;包缠(包裹缠绕)</span></p>
+<p><span class="cino">(3)</span> 包含，包容。里面含有 <span class="encs">[contain;include]</span></p>
+<p><span class="diczx1">举一滴可包陵谷。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">李朝威</span><span class="smcs">《柳毅传》</span></p>
+<p><span class="diczx1">皆包在诸谷中。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">沈括</span><span class="smcs">《梦溪笔谈》</span></p>
+<p><span class="diczx3">又如:把小费包在内;包函(包有，含有);包吞(包含);包荒(掩饰;遮盖;原谅，宽容)</span></p>
+<p><span class="cino">(4)</span> 包围。四面围住 <span class="encs">[surround]</span></p>
+<p><span class="diczx1">河水分流，包山而过。&mdash;&mdash;<span class="smcs">《水经注&middot;河水》</span></span></p>
+<p><span class="diczx3">又如:包络(包围环绕)</span></p>
+<p><span class="cino">(5)</span> 保证，担保 <span class="encs">[guarantee]</span></p>
+<p><span class="diczx1">包你没事。&mdash;&mdash;</span><span class="diczx2">萧德祥</span><span class="smcs">《杀狗劝夫》</span></p>
+<p><span class="diczx3">又如:包换;包退;包赔;包管(保证;保险;保单);包票</span></p>
+<p><span class="cino">(6)</span> 约定专用 <span class="encs">[charter]</span></p>
+<p><span class="diczx1">烂倾新酿酒，包载下江船。&mdash;&mdash;</span><span class="diczx2">梅尧臣</span><span class="smcs">《村豪诗》</span></p>
+<p><span class="diczx3">又如:全包(全部占有);包饭;包厢;包程;包机</span></p>
+<p><span class="cino">(7)</span> 承担，即答应负责办好 <span class="encs">[do sth.all by oneself;shoulder a task on one&#39;s own]</span>。</p>
+<p><span class="diczx3">如:包销;包办;包产;包工;包医;包教</span></p>
+<p><span class="cino">(8)</span> 镀上一层 <span class="encs">[clad]</span>。</p>
+<p><span class="diczx3">如:包金;包银</span></p>
+<p><span class="cino">(9)</span> 做 <span class="encs">[make]</span>。</p>
+<p><span class="diczx3">如:包饺子</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>包</strong> <span class="dicpy">bāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bāo.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 装东西的袋子 <span class="encs">[bag]</span>。</p>
+<p><span class="diczx3">如:书包;旅行包;行李包</span></p>
+<p><span class="cino">(2)</span> 包裹起来的东西 <span class="encs">[parcel]</span>。</p>
+<p><span class="diczx3">如:药包;邮包;包复(包袱。用布包起来的包裹)</span></p>
+<p><span class="cino">(3)</span> 因碰撞而引起的肿块 <span class="encs">[bump;swelling]</span>。</p>
+<p><span class="diczx3">如:脑门儿上碰了个包;脚上起了个包</span></p>
+<p><span class="cino">(4)</span> 一种带馅的蒸熟的食物 <span class="encs">[bun]</span>。</p>
+<p><span class="diczx3">如:菜包;汤包</span></p>
+<p><span class="cino">(5)</span> 毡制的圆顶帐篷 <span class="encs">[tent]</span>。</p>
+<p><span class="diczx3">如:蒙古包</span></p>
+<p><span class="cino">(6)</span> 姓</p>
+<p>◎ <strong>包</strong> <span class="dicpy">bāo</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/bāo.mp3"></a></span> </p>
+<p>〈量〉</p>
+<p><span class="cino">(1)</span> 包装好的一堆单件 <span class="encs">[pack]</span></p>
+<p><span class="diczx1">五官掾献橘数包。&mdash;&mdash;<span class="smcs">《后汉书&middot;杨由传》</span></span></p>
+<p><span class="diczx3">又如:一包香烟</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/包办">包办</a></span><span class="crefe"><a href="/hans/包办代替">包办代替</a></span><span class="crefe"><a href="/hans/包办婚姻">包办婚姻</a></span><span class="crefe"><a href="/hans/包被">包被</a></span><span class="crefe"><a href="/hans/包庇">包庇</a></span><span class="crefe"><a href="/hans/包藏">包藏</a></span><span class="crefe"><a href="/hans/包藏祸心">包藏祸心</a></span><span class="crefe"><a href="/hans/包产">包产</a></span><span class="crefe"><a href="/hans/包产到户制">包产到户制</a></span><span class="crefe"><a href="/hans/包场">包场</a></span><span class="crefe"><a href="/hans/包抄">包抄</a></span><span class="crefe"><a href="/hans/包车">包车</a></span><span class="crefe"><a href="/hans/包乘">包乘</a></span><span class="crefe"><a href="/hans/包乘制">包乘制</a></span><span class="crefe"><a href="/hans/包乘组">包乘组</a></span><span class="crefe"><a href="/hans/包船">包船</a></span><span class="crefe"><a href="/hans/包打天下">包打天下</a></span><span class="crefe"><a href="/hans/包饭">包饭</a></span><span class="crefe"><a href="/hans/包房">包房</a></span><span class="crefe"><a href="/hans/包封">包封</a></span><span class="crefe"><a href="/hans/包袱">包袱</a></span><span class="crefe"><a href="/hans/包袱底儿">包袱底儿</a></span><span class="crefe"><a href="/hans/包干">包干</a></span><span class="crefe"><a href="/hans/包干制">包干制</a></span><span class="crefe"><a href="/hans/包工">包工</a></span><span class="crefe"><a href="/hans/包工头">包工头</a></span><span class="crefe"><a href="/hans/包公">包公</a></span><span class="crefe"><a href="/hans/包谷">包谷</a></span><span class="crefe"><a href="/hans/包裹">包裹</a></span><span class="crefe"><a href="/hans/包裹">包裹</a></span><span class="crefe"><a href="/hans/包含">包含</a></span><span class="crefe"><a href="/hans/包涵">包涵</a></span><span class="crefe"><a href="/hans/包换">包换</a></span><span class="crefe"><a href="/hans/包伙">包伙</a></span><span class="crefe"><a href="/hans/包机">包机</a></span><span class="crefe"><a href="/hans/包间">包间</a></span><span class="crefe"><a href="/hans/包剿">包剿</a></span><span class="crefe"><a href="/hans/包巾">包巾</a></span><span class="crefe"><a href="/hans/包金">包金</a></span><span class="crefe"><a href="/hans/包举">包举</a></span><span class="crefe"><a href="/hans/包括">包括</a></span><span class="crefe"><a href="/hans/包揽">包揽</a></span><span class="crefe"><a href="/hans/包揽词讼">包揽词讼</a></span><span class="crefe"><a href="/hans/包罗">包罗</a></span><span class="crefe"><a href="/hans/包罗万象">包罗万象</a></span><span class="crefe"><a href="/hans/包米">包米</a></span><span class="crefe"><a href="/hans/包囊">包囊</a></span><span class="crefe"><a href="/hans/包赔">包赔</a></span><span class="crefe"><a href="/hans/包皮">包皮</a></span><span class="crefe"><a href="/hans/包票">包票</a></span><span class="crefe"><a href="/hans/包容">包容</a></span><span class="crefe"><a href="/hans/包身工">包身工</a></span><span class="crefe"><a href="/hans/包粟">包粟</a></span><span class="crefe"><a href="/hans/包探">包探</a></span><span class="crefe"><a href="/hans/包围">包围</a></span><span class="crefe"><a href="/hans/包厢">包厢</a></span><span class="crefe"><a href="/hans/包销">包销</a></span><span class="crefe"><a href="/hans/包衣">包衣</a></span><span class="crefe"><a href="/hans/包衣">包衣</a></span><span class="crefe"><a href="/hans/包衣种子">包衣种子</a></span><span class="crefe"><a href="/hans/包银">包银</a></span><span class="crefe"><a href="/hans/包圆儿">包圆儿</a></span><span class="crefe"><a href="/hans/包月">包月</a></span><span class="crefe"><a href="/hans/包扎">包扎</a></span><span class="crefe"><a href="/hans/包拯">包拯</a></span><span class="crefe"><a href="/hans/包装">包装</a></span><span class="crefe"><a href="/hans/包子">包子</a></span><span class="crefe"><a href="/hans/包租">包租</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>包</rb></rbc><rtc><rt>ㄅㄠ</rt></rtc><rtc><rt>bāo <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/0089.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">裹紮、容納其中。</span><span class="gc_lz">如：「包裝」、「包容」、「無所不<b>包</b>」。</span><span class="gc_yy">《詩經&middot;召南&middot;野有死麕》：「野有死麕，白茅<b>包</b>之。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">圍住。</span><span class="gc_lz">如：「士兵分兩路<b>包</b>過去了。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">藏。</span><span class="gc_yy">《漢書&middot;卷九七&middot;外戚傳上&middot;孝武李夫人傳》：「<b>包</b>紅顏而弗明。」</span><span class="gc_yy">顏師古注引晉灼曰：「<b>包</b>，藏也。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">保證、擔保。</span><span class="gc_lz">如：「<b>包</b>你滿意」、「包管沒事」。</span><span class="gc_yy">元&middot;鄭廷玉《楚昭公&middot;第一折》：「只怕我伯嚭身上，<b>包</b>殺的他尿流屁滾。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">負責。</span><span class="gc_lz">如：「包打聽」、「一手包辦」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">承攬。</span><span class="gc_lz">如：「承<b>包</b>」、「發<b>包</b>工程」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">約定專用。</span><span class="gc_lz">如：「包車」、「包場子」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">裝東西的袋子。</span><span class="gc_lz">如：「皮<b>包</b>」、「書<b>包</b>」、「荷<b>包</b>」、「腰<b>包</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">氈製的圓頂帳篷。</span><span class="gc_lz">如：「蒙古<b>包</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">物體或身體上鼓起的疙瘩。</span><span class="gc_lz">如：「頭上撞腫了一個<b>包</b>。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">一種麵粉做成的食物。</span><span class="gc_lz">如：「麵<b>包</b>」、「包子」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">量詞。計算成包的物品的單位。</span><span class="gc_lz">如：「一<b>包</b>糖果」、「十<b>包</b>水泥」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如漢代有包咸，宋代有包拯。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="5305_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=勹" target="_blank">勹</a>】
+                              包·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：3</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集下" target="_blank">子集下</a>】【<a href="/zd/kx/?zm=子集下&amp;bs=勹" target="_blank">勹</a>】
+                              包·康熙筆画：<a href="/zd/kx/bh/?bh=5" target="_blank">5</a>　·部外筆画：3</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/5305.svg">						  <p>【廣韻】布交切【集韻】班交切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音苞。【說文】包，象人褱姙。已在中，象子未成形也。元氣起於子。子，人所生也。男左行三十，女右行二十，俱立於巳，爲夫婦褱姙於巳。巳爲子，十月而生，男起巳至寅，女起巳至申，故男年始寅，女年始申也。</p>
+<p>又容也。【易&middot;泰卦】九二包荒，用馮河。</p>
+<p>又裹也。【書&middot;禹貢】包匭菁茅。【禮&middot;樂記】倒載干戈，包以虎皮。</p>
+<p>又【前漢&middot;班固敘傳】包漢舉信。【註】劉德曰：包，取也。</p>
+<p>又通作苞。叢生也。【書&middot;禹貢】草木漸包。</p>
+<p>又姓。【廣韻】楚大夫申包胥之後。漢有大鴻臚包咸。</p>
+<p>又山名。【山海經註】吳縣南，太湖中包山下有洞庭穴，號爲地脈。</p>
+<p>又【集韻】【正韻】<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>蒲交切，音咆。【集韻】匏亦作包。</p>
+<p>又庖通作包。【易&middot;姤卦】包有魚。【繫辭】古者包犧氏之王天下也。</p>
+<p>又【韻補】房尤切，音浮。地名。春秋，公及莒人盟于包來。左氏作孚。通雅，古呼包如孚，脬與胞，桴與枹，莩與苞，浮與抱之類，同原相因，故互通。</p>
+<p>又叶補苟切，褒上聲，裹也。【詩&middot;召南】野有死麕，白茅包之。有女懷春，吉士誘之。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="5305_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=包">包</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷九">卷九</a>】【<a href="/zd/sw/?swju=卷九&amp;swbs=包">包</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/5305.svg">                          <p>象人褢妊，巳在中，象子未成形也。元气起於子。子，人所生也。男左行三十，女右行二十，俱立於巳，爲夫婦。褢妊於巳，巳爲子，十月而生。男起巳至寅，女起巳至申。故男秊始寅，女秊始申也。凡包之屬皆从包。布交切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/5305_561.svg" /><span class="swbf">(包)</span><span class="ywyy">妊也。</span><span class="swdz">二字各本無，今推文意補。下文十三字乃說字形，非說義，則必當有說義之文矣。女部曰：妊者，孕也。子部曰：孕者，褢子也。引伸之爲凡外裹之偁。亦作苞，皆假借字。凡經傳言苞苴者，裹之曰苞，藉之曰苴。</span><span class="ywyy">象人褢妊，巳在中，象子未成形也。</span><span class="swdz">勹象褢其中，巳字象未成之子也。勹亦聲。布交切。古音在三部。</span><span class="ywyy">元气起於子，子，人所生也。</span><span class="swdz">子下曰：十一月陽气動，萬物滋，人以爲偁。</span><span class="ywyy">男左行三十，女右行二十，俱立於巳爲夫婦。</span><span class="swdz">左右當作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20087.svg"><span class="k_txt">𠂇</span>又。男自子左數次丑，次寅，次卯爲左行，順行，凡三十得巳。女自子右數次亥，次戌，次酉爲右行，逆行，凡二十亦得巳。至此會合。故周禮令男三十而娶，女二十而嫁，是爲夫婦也。</span><span class="ywyy">褢妊於巳，巳爲子。</span><span class="swdz">下巳字衍。巳部曰：巳者，巳也。四月陽气巳出，陰气巳藏，萬物見，成文章。故夫婦會合而褢妊，是爲子也。</span><span class="ywyy">十月而生，</span><span class="swdz">十月上當有子字。易本命曰：天一地二人三，三三而九，九九八十一。一主日，日數十，故人十月而生。</span><span class="ywyy">男起巳至寅，女起巳至申，故男年始寅，女年始申也。</span><span class="swdz">淮南氾論曰：禮三十而娶。高云：三十而娶者，陰陽未分時俱生於子。男從子數左行三十年立於巳，女從子數右行二十年亦立於巳，合夫婦。故聖人因是制禮，使男三十而娶，女二十而嫁。其男子自己數左行十得寅。故人十月而生於寅。男子數從寅起。女自巳數右行十得申。亦十月而生於申。故女子數從申起。高說與許說同。神仙傳王綱云：陽生立於寅，純木之精。陰生立於申，純金之精。夫以木投金，無往不傷，是以金不爲木屈，而木常畏於金。按今日者卜命。男命起寅，女命起申，此古法也。自元气至此，又詳說从巳之意。</span><span class="ywyy">凡包之屬皆从包。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="5305_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  pɑu˥ <span class="z_ts4">唐代读音</span>  bau<span class="z_ts4">日语读音</span>  TSUTSUMU TSUTSUMI<span class="z_ts4">韩语罗马</span>  PHO<span class="z_ts4">现代韩语</span>  포<span class="z_ts3">越南语</span>  bao</p>						<p><span class="z_ts3">客家话</span>  [梅县腔] bau1 [台湾四县腔] bau1 [客英字典] bau1 [陆丰腔] bau1 [客语拼音字汇] bau1 [东莞腔] bau1 [沙头角腔] bau1 [宝安腔] bau1 [海陆腔] bau1<span class="z_ts2">粤语</span>  baau1<span class="z_ts3">潮州话</span>  bau1</p>						<p><span class="z_ts3">近代音</span>  幫母    蕭豪韻    平聲陰    包小空；<span class="z_ts3">中古音</span>  幫母    肴韻    平聲    包小韻    布交切    二等    開口；<span class="z_ts3">上古音</span>  黄侃系统：幫母    蕭部   ；王力系统：幫母    幽部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/包">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/包">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/包">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/包">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/包">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/包">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/包">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/包">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/包">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/包">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/包">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/包">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">包</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td style="display:none">楷書</td><td style="display:none">楷書</td><td>楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/包"><img data-original="//img.zdic.net/zy/xiaozhuan/27_5305.svg" class="lazy ypic"><span>「包」 說文‧包部</span></a></td><td><a href="/zd/zx/qx/包"><img data-original="//img.zdic.net/zy/qinwenzi/71_EA23.svg" class="lazy ypic"><span>「包」 睡.封48</span></a></td><td style="display:none"></td><td style="display:none"></td><td><a href="/hans/包" target="_blank"><img data-original="//img.zdic.net/kai/tw/5305.svg" class="lazy ypic"><span>「包」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td><td style="display:none"></td><td></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/包">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/包">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/包">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/5305.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/5305.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/5305.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/5305.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/5305.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/勹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/52F9.svg'><span>勹</span></a></div> <div class='zx'><a href='/hans/鞄' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/9784.svg'><span>鞄</span></a></div> <div class='zx'><a href='/hans/匏' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/530F.svg'><span>匏</span></a></div> <div class='zx'><a href='/hans/庖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5E96.svg'><span>庖</span></a></div> <div class='zx'><a href='/hans/胞' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/80DE.svg'><span>胞</span></a></div> <div class='zx'><a href='/hans/苞' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/82DE.svg'><span>苞</span></a></div> <div class='zx'><a href='/hans/𠣒' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/208D2.svg'><span>𠣒</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1286" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="4332">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/枹">枹(bao1)</a></li><li><a href="/hans/孢">孢(bao1)</a></li><li><a href="/hans/笣">笣(bao1)</a></li><li><a href="/hans/佨">佨(bao1)</a></li><li><a href="/hans/褒">褒(bao1)</a></li><li><a href="/hans/蕔">蕔(bao1)</a></li><li><a href="/hans/苞">苞(bao1)</a></li><li><a href="/hans/煲">煲(bao1)</a></li><li><a href="/hans/胞">胞(bao1)</a></li><li><a href="/hans/剥">剥(bao1)</a></li><li><a href="/hans/裦">裦(bao1)</a></li><li><a href="/hans/襃">襃(bao1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/匐">匐</a></li><li><a href="/hans/匎">匎</a></li><li><a href="/hans/勺">勺</a></li><li><a href="/hans/匆">匆</a></li><li><a href="/hans/㔪">㔪</a></li><li><a href="/hans/匓">匓</a></li><li><a href="/hans/勾">勾</a></li><li><a href="/hans/匄">匄</a></li><li><a href="/hans/㔨">㔨</a></li><li><a href="/hans/匌">匌</a></li><li><a href="/hans/匀">匀</a></li><li><a href="/hans/匃">匃</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/忉">忉</a></li><li><a href="/hans/叾">叾</a></li><li><a href="/hans/㝋">㝋</a></li><li><a href="/hans/𠔆">𠔆</a></li><li><a href="/hans/写">写</a></li><li><a href="/hans/㠳">㠳</a></li><li><a href="/hans/𠄦">𠄦</a></li><li><a href="/hans/㪲">㪲</a></li><li><a href="/hans/氶">氶</a></li><li><a href="/hans/𠃟">𠃟</a></li><li><a href="/hans/凷">凷</a></li><li><a href="/hans/丘">丘</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=1286"></script>
+</body>
+</html>

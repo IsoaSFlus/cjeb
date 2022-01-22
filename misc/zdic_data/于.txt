@@ -1,0 +1,709 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>于的解释|于的意思|汉典“于”字的基本解释</title>
+<meta name="title" content="于的解释|于的意思|汉典“于”字的基本解释">
+<meta name="keywords" content="|于|" /><meta property="og:title" content="“于”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“于”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“于”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/于" />
+<link rel="canonical" href="//www.zdic.net/hans/于" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/于" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/于" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/于" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/于">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/于">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E8E.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E8E.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yú<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“于”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yú.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄩˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“于”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=二" target="_blank">  二</a></p>
+                              <p><span class="z_ts2">部外</span>  1</p>
+                              <p><span class="z_ts3">总笔画</span>  3</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/於' target=_blank>於</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/丂' target=_blank>丂</a> <a href='/hans/亏' target=_blank>亏</a> <a href='/hans/亐' target=_blank>亐</a> <a href='/hans/於' target=_blank>於</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E8E</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>112</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>gfk</p></td>                            <td class="dsk_2_1"><p>md</p></td>                            <td class="dsk_2_1"><p>advv</p></td>                            <td class="dsk_2_1"><p>10400</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yú<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“于”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yú.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄩˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“于”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄩˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=二" target="_blank">二</a> <span class="z_ts2">部外</span> 1<span class="z_ts3">总笔画</span> 3</p>                    <p><span class="z_ts3">基本区</span> 4E8E<span class="z_ts2">笔顺</span> 112                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E8E_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=143" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">于</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>于</strong></p>
+<p><span class="dicpy">y&uacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> ㄩˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>介词（➊在，如&ldquo;生～北京&rdquo;；➋到，如&ldquo;荣誉归～老师&rdquo;；➌对，如&ldquo;勤～学习&rdquo;；➍向，如&ldquo;出～自愿&rdquo;；➎给，如&ldquo;问道～盲&rdquo;；➏自，从，如&ldquo;取之～民&rdquo;；➐表比较，如&ldquo;重～泰山&rdquo;；➑表被动，如&ldquo;限～水平&rdquo;）。</li>
+	<li>后缀（➊在形容词后，如&ldquo;疏～防范&rdquo;；➋在动词后，如&ldquo;属～未来）。</li>
+	<li>姓。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> in, on, at; go to; surname</p><p><span class="z_ts2">德语</span> an, als, aus, bei, in, von, zu</p><p><span class="z_ts2">法语</span> dans,à,de,par,que,(nom de famille Yu)​,en,dans,pour,par</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">于</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>于</strong> <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (象形。甲骨文字形，表示气出受阻而仍越过。本义:超过)</p>
+<p><span class="cino">(2)</span> 往;去 <span class="encs">[go]</span></p>
+<p><span class="diczx1">之子于归，宜其室家。&mdash;&mdash;<span class="smcs">《诗&middot;周南&middot;桃夭》</span>。</span><span class="diczx2">毛</span>传:&ldquo;于，往也。&rdquo;</p>
+<p><span class="diczx1">予惟以尔庶邦于伐</span><span class="diczx2">殷</span>，逋播臣。&mdash;&mdash;<span class="smcs">《书&middot;大诰》</span></p>
+<p><span class="cino">(3)</span> 取 <span class="encs">[take]</span></p>
+<p><span class="diczx1">昼尔于茅，宵尔索陶。&mdash;&mdash;<span class="smcs">《诗&middot;豳风&middot;七月》</span></span></p>
+<p><span class="cino">(4)</span> 如;好像 <span class="encs">[look]</span></p>
+<p><span class="diczx1"><span class="smcs">《易》</span>曰:&ldquo;介于石，不终日，贞吉。&rdquo;介如石焉，宁用终日，断可识矣。&mdash;&mdash;<span class="smcs">《易&middot;系辞下》</span></span></p>
+<p><span class="diczx3">又如:于何(如何)</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>于</strong></p>
+<p>於 <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p>〈介〉</p>
+<p><span class="cino">(1)</span> 引进动作、行为的时间、处所，意义相当于&ldquo;在&rdquo;、&ldquo;到&rdquo;或&ldquo;在&hellip;方面(上、中)&rdquo; <span class="encs">[in， at， etc.]</span></p>
+<p><span class="diczx1">捐金于野。&mdash;&mdash;<span class="smcs">《后汉书&middot;列女传》</span></span></p>
+<p><span class="diczx1">成于机杼。</span></p>
+<p><span class="diczx1">射于家圃。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">欧阳修</span><span class="smcs">《归田录》</span></p>
+<p><span class="diczx1">葫芦置于地。</span></p>
+<p><span class="diczx1">力足以至焉，于人为可讥，而在己为有悔。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《游褒禅山记》</span></p>
+<p><span class="diczx1">于时冰皮始解，波色乍明。&mdash;&mdash;</span><span class="diczx2">明</span>&middot; <span class="diczx2">袁宏道</span><span class="smcs">《满井游记》</span></p>
+<p><span class="diczx1">越长城之限，至于</span><span class="diczx2">泰安</span>。(于:介词，到。)&mdash;&mdash; <span class="diczx2">清</span>&middot; <span class="diczx2">姚鼐</span><span class="smcs">《登泰山记》</span></p>
+<p><span class="diczx3">又如:第一次世界大战爆发于1914年;于以(在何处);于兹(在此);于时(在此)</span></p>
+<p><span class="cino">(2)</span> 引进动作、行为的对象，相当于&ldquo;向&rdquo;、&ldquo;对&rdquo;、&ldquo;对于&rdquo; <span class="encs">[for， etc.]</span></p>
+<p><span class="diczx1">告之于帝。&mdash;&mdash;<span class="smcs">《列子&middot;汤问》</span></span></p>
+<p><span class="diczx1">何有于我。&mdash;&mdash;<span class="smcs">《论语》</span></span></p>
+<p><span class="diczx1">于其身也，则耻师焉，惑矣。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx1">言于</span><span class="diczx2">李愬</span>。&mdash;&mdash;<span class="smcs">《资治通鉴&middot;唐纪》</span></p>
+<p><span class="diczx1">语于富者。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx3">又如:他做的事于人民有益</span></p>
+<p><span class="cino">(3)</span> 表示动作、行为的所从，意义相当于&ldquo;从&rdquo;或&ldquo;自&rdquo;、&ldquo;由&rdquo; <span class="encs">[from]</span>。</p>
+<p><span class="diczx3">如:青出于蓝而胜于蓝;取之于民，用之于民</span></p>
+<p><span class="cino">(4)</span> 在被动句中，引进动作、行为的主动者，相当于&ldquo;被&rdquo; <span class="encs">[by]</span></p>
+<p><span class="diczx1">不拘于时。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">韩愈</span><span class="smcs">《师说》</span></p>
+<p><span class="diczx1">苦于多疾。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx1">伤于缚者。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">方苞</span><span class="smcs">《狱中杂记》</span></p>
+<p><span class="diczx1">择于自然。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx3">又如:我限于水平，未能对这篇文章提出具体的修改意见</span></p>
+<p><span class="cino">(5)</span> 引进比较对象，意思相当于&ldquo;比&rdquo; <span class="encs">[than]</span></p>
+<p><span class="diczx1">甚于妇人。&mdash;&mdash;<span class="smcs">《战国策&middot;赵策》</span></span></p>
+<p><span class="diczx1">毛先生以三寸之舌，强于百万之师。&mdash;&mdash;<span class="smcs">《史记&middot;平原君虞卿列传》</span></span></p>
+<p><span class="diczx1">同于真。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">薛福成</span><span class="smcs">《观巴黎油画记》</span></p>
+<p><span class="diczx1">同于幻。</span></p>
+<p><span class="diczx1">近于自然。&mdash;&mdash;</span><span class="diczx2">蔡元培</span><span class="smcs">《图画》</span></p>
+<p><span class="diczx3">又如:人民的利益高于一切</span></p>
+<p><span class="cino">(6)</span> 表示把动作、行为加给对方，相当于&ldquo;给&rdquo; <span class="encs">[to， etc.]</span>。</p>
+<p><span class="diczx3">如:荣誉归于教练</span></p>
+<p><span class="cino">(7)</span> 表示相对的位置 <span class="encs">[in]</span>。</p>
+<p><span class="diczx3">如:垂直于肋板的脊柱</span></p>
+<p><span class="cino">(8)</span> 姓</p>
+<p>◎ <strong>于</strong> <span class="dicpy">y&uacute;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&uacute;.mp3"></a></span> </p>
+<p><span class="cino">(1)</span> 词缀。嵌在动词或形容词后面，不必译出</p>
+<p><span class="diczx1">以至于寸。&mdash;&mdash;<span class="smcs">《后汉书&middot;列女传》</span></span></p>
+<p><span class="diczx1">越于诸侯。&mdash;&mdash;<span class="smcs">《国语&middot;晋语》</span></span></p>
+<p><span class="cino">(2)</span> 又</p>
+<p><span class="diczx1">以免于难。</span></p>
+<p><span class="diczx1">可以免于难。</span></p>
+<p><span class="cino">(3)</span> &ldquo;於&rdquo;</p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">yū</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/于今">于今</a></span><span class="crefe"><a href="/hans/于思">于思</a></span><span class="crefe"><a href="/hans/于时">于时</a></span><span class="crefe"><a href="/hans/于是">于是</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">于</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>于</rb></rbc><rtc><rt>ㄩˊ</rt></rtc><rtc><rt>y&uacute; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/6427.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">去、往。</span><span class="gc_yy">《文選&middot;曹植&middot;責躬詩》：「煢煢僕夫，<b>于</b>彼冀方。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">取。</span><span class="gc_yy">《詩經&middot;豳風&middot;七月》：「晝爾<b>于</b>茅，宵爾索綯。」</span><span class="gc_yy">《孟子&middot;萬章下》：「殺越人<b>于</b>貨，閔不畏死，凡民罔不譈。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">介</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">在。</span><span class="gc_yy">《儀禮&middot;士昏禮》：「婿立<b>于</b>門外。」</span><span class="gc_yx">同「<a href='/hans/於' target=_blank>於</a> 」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">以、用。</span><span class="gc_yy">《左傳&middot;宣公十二年》：「楚自克庸以來，其君無日不以討國人而訓之，<b>于</b>民生之不易，禍至之無日，戒懼之不可以怠。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">對、對於。</span><span class="gc_yy">《詩經&middot;邶風&middot;泉水》：「有懷<b>于</b>衛，靡日不思。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">至、到。</span><span class="gc_yy">《淮南子&middot;原道》：「以恬養性，以漠處神，則入<b>于</b>天門。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">依照。</span><span class="gc_yy">《書經&middot;盤庚下》：「歷告爾百姓<b>于</b>朕志。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">為了。</span><span class="gc_yy">《孟子&middot;萬章上》：「唯茲臣庶，女其<b>于</b>予治。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">連</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">和、與。</span><span class="gc_yy">《書經&middot;康誥》：「告汝德之說，<b>于</b>罰之行。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">助</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">用於句首或句中，無義。</span><span class="gc_lz">如：「鳳凰于飛」。</span><span class="gc_yy">《詩經&middot;周南&middot;葛覃》：「黃鳥于飛。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">用於句尾，表示疑問的語氣。</span><span class="gc_yy">《呂氏春秋&middot;審應覽&middot;審應》：「然則先王聖<b>于</b>？」</span><span class="gc_yx">同「<a href='/hans/乎' target=_blank>乎</a> 」。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如明代有于謙。</span></p></li>
+</ol></div></div>
+<div class="gycd">
+<div class="pz"><ruby><rbc><rb>于</rb></rbc><rtc><rt>ㄒㄩ</rt></rtc><rtc><rt>xū</rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">歎</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表示感嘆的意思。</span><span class="gc_yy">《詩經&middot;周南&middot;麟之趾》：「于嗟麟兮。」</span><span class="gc_yx">通「吁」。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E8E_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=二" target="_blank">二</a>】
+                              于·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：1</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">于</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=二" target="_blank">二</a>】
+                              于·康熙筆画：<a href="/zd/kx/bh/?bh=3" target="_blank">3</a>　·部外筆画：1</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E8E.svg">						  <p>【唐韻】羽俱切【集韻】【韻會】【正韻】雲俱切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音迂。【爾雅&middot;釋詁】于，曰也。</p>
+<p>又往也。【書&middot;大誥】民獻有十夫，予翼以于。【詩&middot;小雅】王于出征。</p>
+<p>又【儀禮&middot;士冠禮】宜之于假。【註】于，猶爲也。宜之見爲大矣。</p>
+<p>又【聘禮】賄在聘于賄。【註】于讀曰爲。言當視賓之禮，而爲之財也。</p>
+<p>又【司馬相如&middot;長門賦敘】因于解悲愁之辭。</p>
+<p>又未定之辭。【公羊傳&middot;僖二十八年】歸于者何。歸于者，罪未定也。</p>
+<p>又行貌。【韓愈&middot;上宰相書】于于焉而來矣。</p>
+<p>又于于，自足貌。【莊子&middot;應帝王】其臥徐徐，其覺于于。</p>
+<p>又鐘兩口之閒曰于。【周禮&middot;冬官考工記】鳧氏爲鐘，兩欒謂之銑，銑閒謂之于。</p>
+<p>又【前漢&middot;元后傳】衣絳緣諸于。【註】大掖衣也。</p>
+<p>又【唐書&middot;元德秀傳】明皇命三百里內刺史縣令，以聲樂集，德秀惟樂工十人，聮袂歌于蔿于。</p>
+<p>又草名。【爾雅&middot;釋草】茜，蔓于。【註】生水中。一名軒于。【司馬相如&middot;子虛賦】菴閭軒于。</p>
+<p>又木名。【爾雅&middot;釋木】棧木，于木。【註】僵木也。江東呼木觡。</p>
+<p>又淳于，縣名。今密州安丘縣，古淳于國。</p>
+<p>又姓。周武王第二子邘叔之後，以國爲氏，後因去邑爲于。</p>
+<p>又淳于，宣于，鮮于，多于，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28DD6.svg"><span class="k_txt">𨷖</span>于，皆複姓。</p>
+<p>又三氏姓。勿忸于，阿伏于，見【魏書&middot;官氏志】。</p>
+<p>又助語辭。【詩&middot;召南】于沼于沚。【朱傳】于，於也。【周易】【毛詩】於皆作于。于於古通用。</p>
+<p>又【集韻】邕俱切，音紆。廣大貌。【禮&middot;檀弓】邾婁考公之喪，徐君使容居來弔含。有司曰：諸侯之來辱敝邑者，易則易，于則于，易于雜者，未之有也。</p>
+<p>又【文王世子】仲尼曰：周公抗世子法于伯禽，所以善成王也。聞之曰：爲人臣者，殺其身有益於君，則爲之，况于其身以善其君乎。俱與迂通。</p>
+<p>又【正韻】休居切，與吁通。歎辭。【詩&middot;周南】于嗟麟兮。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E8E_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=亏">亏</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">亏</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“于”字头，请参考“<a href="/hans/亏">亏</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷五">卷五</a>】【<a href="/zd/sw/?swju=卷五&amp;swbs=亏">亏</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4E8F.svg">                          <p>於也。象气之舒亏。从丂从一。一者，其气平之也。凡亏之屬皆从亏。羽俱切今變隸作于</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E8F_70.svg" /><span class="swbf">(亏)</span><span class="ywyy">於也。</span><span class="swdz">於者，古文烏也。烏下云：孔子曰：烏亏呼也。取其助气。故以爲烏呼。然則以於釋亏，亦取其助气。釋詁、毛傳皆曰：亏，於也。凡詩、書用亏字，凡論語用於字。葢于於二字在周時爲古今字，故釋詁、毛傳以今字釋古字也。凡言於皆自此之彼之䛐，其气舒于。檀弓：易則易，于則于。論語：有是哉，子之于也。于皆廣大之義。左傳：于民生之不易。杜云：于，曰也。此謂假于爲曰，與釋詁于曰也合。</span><span class="ywyy">象气之舒亏。从丂从一。一者，其气平也。</span><span class="swdz">气出而平，則舒于矣。羽俱切。五部。按今音于，羽俱切。於，央居切。烏，哀都切。古無是分別也。自周時巳分別於爲屬辭之用，見於羣經爾雅，故許仍之。</span><span class="ywyy">凡亏之屬皆从亏。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E8E_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">于</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  jy˧˥ <span class="z_ts4">唐代读音</span>  *hio hio<span class="z_ts4">日语读音</span>  KOKONI YUKU<span class="z_ts4">韩语罗马</span>  WU<span class="z_ts4">现代韩语</span>  우<span class="z_ts3">越南语</span>  vu</p>						<p><span class="z_ts3">客家话</span>  [海陆腔] ri1 wu1 [台湾四县腔] ji1 wu1 [梅县腔] j1 [宝安腔] ji1 [客英字典] ji1 [东莞腔] ji1 [客语拼音字汇] yi1 [陆丰腔] ji3 ji1<span class="z_ts2">粤语</span>  jyu1 jyu4<span class="z_ts3">潮州话</span>  i1 [澄海]e1(ur) [潮阳]u1 </p>						<p><span class="z_ts3">近代音</span>  <span class="z_ts3">中古音</span>  喻云母    虞韻    平聲    于小韻    羽俱切    三等    合口；<span class="z_ts3">上古音</span>  黄侃系统：匣母    模部   ；王力系统：匣母    魚部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/于">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/于">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/于">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/于">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/于">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/于">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/于">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/于">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/于">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/于">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/于">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/于">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">于</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/42_E49F.svg" /><span>「于」 佚426</span></a></td>
+			<td><a href="/zd/zx/jw/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/32_E3B2.svg" /><span>「于」 大黽婦未于方鼎</span><span>商代晚期</span><span>集成1905</span></a></td>
+			<td><a href="/zd/zx/cx/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/52_E16A.svg" /><span>「于」 包2.163</span></a></td>
+			<td><a href="/zd/zx/xz/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_4E8E.svg" /><span>「于」 說文‧于部</span></a></td>
+			<td><a href="/zd/zx/qx/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E4D8.svg" /><span>「于」 睡.法129</span></a></td>
+			<td style="display:none"><a href="/hans/於" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/65BC.svg" /><span>「於」</span></a></td>
+			<td><a href="/hans/于" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4E8E.svg" /><span>「于」</span></a></td>
+			<td style="display:none"><a href="/hans/于" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4E8E.svg" /><span>「于」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/42_E47E.svg" /><span>「于」 拾5.14</span><span>合22097</span></a></td>
+			<td><a href="/zd/zx/jw/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/32_E3B1.svg" /><span>「于」 二祀弋其卣</span><span>商代晚期</span><span>集成5412</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/42_E47D.svg" /><span>「于」 拾11.1</span><span>合3016</span></a></td>
+			<td><a href="/zd/zx/jw/于"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/32_E3E5.svg" /><span>「于」 毛公鼎</span><span>西周晚期</span><span>集成2841</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/于">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/于">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/于">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/于">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/于">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/于">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E8E.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E8E.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E8E.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E8E.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4E8E.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/丂' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E02.svg'><span>丂</span></a></div> <div class='zx'><a href='/hans/亏' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E8F.svg'><span>亏</span></a></div> <div class='zx'><a href='/hans/亐' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/4E90.svg'><span>亐</span></a></div> <div class='zx'><a href='/hans/於' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/65BC.svg'><span>於</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="143" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7588">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/狳">狳(yu2)</a></li><li><a href="/hans/湡">湡(yu2)</a></li><li><a href="/hans/䐳">䐳(yu2)</a></li><li><a href="/hans/騟">騟(yu2)</a></li><li><a href="/hans/俞">俞(yu2)</a></li><li><a href="/hans/㷒">㷒(yu2)</a></li><li><a href="/hans/予">予(yu2)</a></li><li><a href="/hans/䄨">䄨(yu2)</a></li><li><a href="/hans/於">於(yu2)</a></li><li><a href="/hans/隃">隃(yu2)</a></li><li><a href="/hans/衧">衧(yu2)</a></li><li><a href="/hans/杅">杅(yu2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠄧">𠄧</a></li><li><a href="/hans/𠄪">𠄪</a></li><li><a href="/hans/𠄰">𠄰</a></li><li><a href="/hans/㐯">㐯</a></li><li><a href="/hans/𠄯">𠄯</a></li><li><a href="/hans/亙">亙</a></li><li><a href="/hans/𠄩">𠄩</a></li><li><a href="/hans/亖">亖</a></li><li><a href="/hans/𠄵">𠄵</a></li><li><a href="/hans/𠄽">𠄽</a></li><li><a href="/hans/五">五</a></li><li><a href="/hans/㐫">㐫</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/义">义</a></li><li><a href="/hans/劜">劜</a></li><li><a href="/hans/𠚤">𠚤</a></li><li><a href="/hans/久">久</a></li><li><a href="/hans/𠂋">𠂋</a></li><li><a href="/hans/卄">卄</a></li><li><a href="/hans/𠃓">𠃓</a></li><li><a href="/hans/已">已</a></li><li><a href="/hans/屮">屮</a></li><li><a href="/hans/辶">辶</a></li><li><a href="/hans/之">之</a></li><li><a href="/hans/凣">凣</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">停车坐爱枫林晚，霜叶红<span>于</span>二月花。</div><div class="gscdr">唐·杜牧 《山行》</div><div class="gscdl">少年哀乐过<span>于</span>人，歌泣无端字字真。</div><div class="gscdr">清·龚自珍 《已亥杂诗》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">——《学而》子曰：“吾十有五而志<span>于</span>学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">“不义而富且贵，<span>于</span>我如浮云。”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">少时，一狼径去，其一犬坐<span>于</span>前。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">国人道之，闻之<span>于</span>宋君。</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">宋君令人问之<span>于</span>丁氏。</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div><div class="gscdl">丁氏对曰：“得一人之使，非得一人<span>于</span>井中也。”</div><div class="gscdr">《吕氏春秋》《穿井得一人》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=143"></script>
+</body>
+</html>

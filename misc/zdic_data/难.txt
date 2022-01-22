@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>难的解释|难的意思|汉典“难”字的基本解释</title>
+<meta name="title" content="难的解释|难的意思|汉典“难”字的基本解释">
+<meta name="keywords" content="左：又，右：隹。  " /><meta property="og:title" content="“难”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“难”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“难”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/难" />
+<link rel="canonical" href="//www.zdic.net/hans/难" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/难" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/难" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/难" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.1" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/难">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/难">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/96BE.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/96BE.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">nán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nán.mp3"></a></span></span></p><p><span class="z_d song">nàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nàn.mp3"></a></span></span></p><p><span class="z_d song">nuó<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nuó.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄋㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄢˊ.mp3"></a></span></span></p><p><span class="z_d song">ㄋㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄢˋ.mp3"></a></span></span></p><p><span class="z_d song">ㄋㄨㄛˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄨㄛˊ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=隹" target="_blank">  隹</a></p>
+                              <p><span class="z_ts2">部外</span>  2</p>
+                              <p><span class="z_ts3">总笔画</span>  10</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/難' target=_blank>難</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/難' target=_blank>難</a> <a href='/hans/𨿻' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/28FFB.svg'><span class='ytz_txt'>𨿻</span> <a href='/hans/𩀏' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2900F.svg'><span class='ytz_txt'>𩀏</span> <a href='/hans/𩀙' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29019.svg'><span class='ytz_txt'>𩀙</span> <a href='/hans/𩀡' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29021.svg'><span class='ytz_txt'>𩀡</span> <a href='/hans/𩀤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29024.svg'><span class='ytz_txt'>𩀤</span> <a href='/hans/𩁚' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2905A.svg'><span class='ytz_txt'>𩁚</span> <a href='/hans/𩁢' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29062.svg'><span class='ytz_txt'>𩁢</span> <a href='/hans/𩁣' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29063.svg'><span class='ytz_txt'>𩁣</span> <a href='/hans/𩁤' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29064.svg'><span class='ytz_txt'>𩁤</span> <a href='/hans/𩁩' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29069.svg'><span class='ytz_txt'>𩁩</span> <a href='/hans/𩁪' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2906A.svg'><span class='ytz_txt'>𩁪</span> <a href='/hans/𩁬' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2906C.svg'><span class='ytz_txt'>𩁬</span> <a href='/hans/𩁮' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2906E.svg'><span class='ytz_txt'>𩁮</span> <a href='/hans/𩁲' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29072.svg'><span class='ytz_txt'>𩁲</span> <a href='/hans/𩁳' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/29073.svg'><span class='ytz_txt'>𩁳</span> <a href='/hans/𪄿' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2A13F.svg'><span class='ytz_txt'>𪄿</span> <a href='/hans/𪅀' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2A140.svg'><span class='ytz_txt'>𪅀</span> <a href='/hans/𪇠' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2A1E0.svg'><span class='ytz_txt'>𪇠</span> <a href='/hans/𪇼' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2A1FC.svg'><span class='ytz_txt'>𪇼</span> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+96BE</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>5432411121</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>cwyg</p></td>                            <td class="dsk_2_1"><p>eog</p></td>                            <td class="dsk_2_1"><p>xsni</p></td>                            <td class="dsk_2_1"><p>70415</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">nán<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nán.mp3"></a></span></span> <span class="z_d song">nàn<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nàn.mp3"></a></span></span> <span class="z_d song">nuó<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nuó.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄋㄢˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄢˊ.mp3"></a></span></span> <span class="z_d song">ㄋㄢˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄢˋ.mp3"></a></span></span> <span class="z_d song">ㄋㄨㄛˊ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“难”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄨㄛˊ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=隹" target="_blank">隹</a> <span class="z_ts2">部外</span> 2<span class="z_ts3">总笔画</span> 10</p>                    <p><span class="z_ts3">基本区</span> 96BE<span class="z_ts2">笔顺</span> 5432411121                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="96BE_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                                                   <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=18623" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">难</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>难</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">難</span>）</strong></p>
+<p><span class="dicpy">n&aacute;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&aacute;n.mp3"></a></span> ㄋㄢˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>不容易，做起来费事：～处。～度。～点。～关。～熬。～耐。～产。～堪。～题。～以。～于。困～。畏～。急人之～。</li>
+	<li>不大可能办到，使人感到困难：～免。～为。～保。～怪。～倒（<span class="dicpy">dǎo </span>）。～道。～能可贵。</li>
+	<li>不好：～听。～看。</li>
+</ol>
+<p>● <strong>难</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">難</span>）</strong></p>
+<p><span class="dicpy">n&agrave;n  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&agrave;n.mp3"></a></span> ㄋㄢˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>灾祸，困苦：～民。灾～。遇～。逃～。殉～。患～。遭～。避～。排扰解～。</li>
+	<li>仇怨：排～解纷。</li>
+	<li>诘责，质问：发～。非～。责～。</li>
+</ol>
+<p>● <strong>难</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">難</span>）</strong></p>
+<p><span class="dicpy">nu&oacute;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/nu&oacute;.mp3"></a></span>  ㄋㄨㄛˊ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>古同&ldquo;<a href="/hans/傩">傩</a>&rdquo;。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> difficult, arduous, hard; unable</p><p><span class="z_ts2">德语</span> schwer, schwierig  (Adj)​,Nan  (Eig, Fam)​,ausschimpfen, schelten ,Desaster, Katastrophe  (S)​,hart  (Adj)</p><p><span class="z_ts2">法语</span> difficile,ennuyeux,fatigant,désastre,détresse,clamité,infortune,malheur</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">难</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>难</strong></p>
+<p>難 <span class="dicpy">n&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&aacute;n.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (形声。从隹( <span class="dicpy">zhuī</span>)堇声。从隹，与鸟有关。①本义:支翅鸟。②假借为困难)</p>
+<p><span class="cino">(2)</span> 困难;艰难;不容易 <span class="encs">[difficult;hard;troublesome]</span></p>
+<p><span class="diczx1">非为织作迟，君家妇难为。&mdash;&mdash;<span class="smcs">《玉台新咏&middot;古诗为焦仲卿妻作》</span></span></p>
+<p><span class="diczx2">蜀</span>道之难，难于上青天。&mdash;&mdash; <span class="diczx2">李白</span><span class="smcs">《蜀道难》</span></p>
+<p><span class="diczx3">又如:难句(难得的佳句);难老(难于衰老);难行(难于施行;不容易走);难治(不容易治理);难航(不易舟行);难期(难及，难于企及);难义(不易索解的辞旨);难极(不易穷尽);难疑(相互讨论不易索解，心存迷惑的要义);难乎为继(指前人做得太好，不易照样继续下去)</span></p>
+<p><span class="cino">(3)</span> 不可;不好 <span class="encs">[hardly possible;bad]</span></p>
+<p><span class="diczx2">桓谭</span>作论，明弱水之难航。&mdash;&mdash; <span class="diczx2">汉</span>&middot; <span class="diczx2">王褒</span><span class="smcs">《灵坛碑文》</span></p>
+<p><strong>词性变化</strong></p>
+<p>◎ <strong>难</strong></p>
+<p>難 <span class="dicpy">n&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&aacute;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 为难，畏难;感到困难 <span class="encs">[feel difficult]</span></p>
+<p><span class="diczx1">今寇众我寡，难与持久。(难与，&ldquo;难与之&rdquo;的省略。之，指代曹军。)&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">难测也。&mdash;&mdash;<span class="smcs">《左传&middot;庄公十年》</span></span></p>
+<p><span class="diczx1">铁衣冷难着。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">岑参</span><span class="smcs">《白雪歌送武判官归京》</span></p>
+<p><span class="diczx1">天下事有难易乎。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">彭端淑</span><span class="smcs">《为学一首示子侄》</span></p>
+<p><span class="diczx1">余幼女书，家贫难致。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">袁枚</span><span class="smcs">《黄生借书说》</span></p>
+<p><span class="cino">(2)</span> 使感到困难 <span class="encs">[put sb.into a difficult position]</span></p>
+<p><span class="diczx1">今不行礼于</span><span class="diczx2">卫</span>，而藩其君舍以难之。&mdash;&mdash;<span class="smcs">《左传》</span></p>
+<p><span class="cino">(3)</span> 通&ldquo;戁&rdquo;。</p>
+<p><span class="cino">(4)</span> 恐惧 <span class="encs">[dread;fear]</span></p>
+<p><span class="diczx1">故君子恭而不难。&mdash;&mdash;<span class="smcs">《荀子&middot;君道》</span>。注:&ldquo;难读为戁，惧也。&rdquo;</span></p>
+<p><span class="cino">(5)</span> 敬 <span class="encs">[respect]</span></p>
+<p><span class="diczx1">不戢不难，受福不那。&mdash;&mdash;<span class="smcs">《诗&middot;小雅&middot;桑扈》</span></span></p>
+<p>◎ <strong>难</strong></p>
+<p>難 <span class="dicpy">n&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&aacute;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p>通&ldquo;攤&rdquo;。驱除疫鬼之祭 <span class="encs">[sacrificial rites for get rid of bogy]</span></p>
+<p><span class="diczx1">命有司大难。&mdash;&mdash;<span class="smcs">《礼记&middot;月令》</span></span></p>
+<p>◎ <strong>难</strong></p>
+<p>難 <span class="dicpy">n&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&aacute;n.mp3"></a></span> </p>
+<p>〈后缀〉</p>
+<p><span class="cino">(1)</span> 现常作后缀加在词或词组后构成新的名词，构成某种存在较大困难的事 <span class="encs">[difficult]</span>。</p>
+<p><span class="diczx3">如:卖棉难;乘车难;买菜难</span></p>
+<p><span class="cino">(2)</span> 另见 <span class="dicpy">n&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&agrave;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/难熬">难熬</a></span><span class="crefe"><a href="/hans/难保">难保</a></span><span class="crefe"><a href="/hans/难缠">难缠</a></span><span class="crefe"><a href="/hans/难产">难产</a></span><span class="crefe"><a href="/hans/难产">难产</a></span><span class="crefe"><a href="/hans/难吃">难吃</a></span><span class="crefe"><a href="/hans/难处">难处</a></span><span class="crefe"><a href="/hans/难处">难处</a></span><span class="crefe"><a href="/hans/难卒合">难卒合</a></span><span class="crefe"><a href="/hans/难当">难当</a></span><span class="crefe"><a href="/hans/难倒">难倒</a></span><span class="crefe"><a href="/hans/难道">难道</a></span><span class="crefe"><a href="/hans/难得">难得</a></span><span class="crefe"><a href="/hans/难点">难点</a></span><span class="crefe"><a href="/hans/难懂">难懂</a></span><span class="crefe"><a href="/hans/难度">难度</a></span><span class="crefe"><a href="/hans/难分难解">难分难解</a></span><span class="crefe"><a href="/hans/难搞">难搞</a></span><span class="crefe"><a href="/hans/难怪">难怪</a></span><span class="crefe"><a href="/hans/难怪">难怪</a></span><span class="crefe"><a href="/hans/难关">难关</a></span><span class="crefe"><a href="/hans/难割难舍">难割难舍</a></span><span class="crefe"><a href="/hans/难过">难过</a></span><span class="crefe"><a href="/hans/难解">难解</a></span><span class="crefe"><a href="/hans/难解难分]<span class="encs">[[难解之谜">难解难分]</span><span class="encs">[[难解之谜</a></span><span class="crefe"><a href="/hans/难堪">难堪</a></span><span class="crefe"><a href="/hans/难看">难看</a></span><span class="crefe"><a href="/hans/难免">难免</a></span><span class="crefe"><a href="/hans/难耐">难耐</a></span><span class="crefe"><a href="/hans/难能可贵">难能可贵</a></span><span class="crefe"><a href="/hans/难忍">难忍</a></span><span class="crefe"><a href="/hans/难色">难色</a></span><span class="crefe"><a href="/hans/难上难，难上加难">难上难，难上加难</a></span><span class="crefe"><a href="/hans/难舍难分">难舍难分</a></span><span class="crefe"><a href="/hans/难事">难事</a></span><span class="crefe"><a href="/hans/难受">难受</a></span><span class="crefe"><a href="/hans/难说">难说</a></span><span class="crefe"><a href="/hans/难说话儿">难说话儿</a></span><span class="crefe"><a href="/hans/难题">难题</a></span><span class="crefe"><a href="/hans/难听">难听</a></span><span class="crefe"><a href="/hans/难忘">难忘</a></span><span class="crefe"><a href="/hans/难为">难为</a></span><span class="crefe"><a href="/hans/难为情">难为情</a></span><span class="crefe"><a href="/hans/难为听">难为听</a></span><span class="crefe"><a href="/hans/难闻">难闻</a></span><span class="crefe"><a href="/hans/难言">难言</a></span><span class="crefe"><a href="/hans/难言之隐">难言之隐</a></span><span class="crefe"><a href="/hans/难以">难以</a></span><span class="crefe"><a href="/hans/难于">难于</a></span><span class="crefe"><a href="/hans/难住">难住</a></span><span class="crefe"><a href="/hans/难字">难字</a></span></div>
+<p><strong>基本词义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>难</strong></p>
+<p>難 <span class="dicpy">n&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&agrave;n.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 灾难;祸害，人为而产生的祸害 [disaster;calamity;catastrophe]</span></p>
+<p><span class="diczx1">三军既惑且疑，则诸侯之难至矣。&mdash;&mdash;<span class="smcs">《孙子&middot;谋攻》</span></span></p>
+<p><span class="diczx1">非</span><span class="diczx2">刘豫州</span>莫可以当 <span class="diczx2">曹操</span>者，然 <span class="diczx2">豫州</span>新败之后，安能抗此难乎?&mdash;&mdash;<span class="smcs">《资治通鉴》</span></p>
+<p><span class="diczx1">危难之间。&mdash;&mdash;</span><span class="diczx2">诸葛亮</span><span class="smcs">《出师表》</span></p>
+<p><span class="diczx1">以免于难。&mdash;&mdash;<span class="smcs">《国语&middot;晋语》</span></span></p>
+<p><span class="diczx1">芟夷大难。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">故及于难。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx3">又如:排难解纷;苦难(痛苦和灾难);逃难(逃灾);落难(遭遇灾难，陷入困境);蒙难(遭受到人为的灾祸);罹难(遇灾遇险而死);避难(躲避灾难或迫害)</span></p>
+<p><span class="cino">(2)</span> 兵难，指反抗或叛乱 <span class="encs">[rerolt]</span></p>
+<p><span class="diczx1">一夫作难而七庙隳。&mdash;&mdash;</span><span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx3">又如:发难(发动反抗或叛乱);首难(首先发难)</span></p>
+<p><span class="cino">(3)</span> 怨仇;仇敌 <span class="encs">[enmity;foe]</span></p>
+<p><span class="diczx1">将西南以与</span><span class="diczx2">秦</span>为难。&mdash;&mdash;<span class="smcs">《战国策》</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>难</strong></p>
+<p>難 <span class="dicpy">n&agrave;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&agrave;n.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> 诘问;责难 <span class="encs">[blame;reproach]</span></p>
+<p><span class="diczx1">追难</span><span class="diczx2">孔子</span>，何伤于人?&mdash;&mdash; <span class="diczx2">王充</span><span class="smcs">《论衡&middot;问孔》</span></p>
+<p><span class="diczx1">交相问难。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">刘开</span><span class="smcs">《问说》</span></p>
+<p><span class="diczx3">又如:刁难(故意使人为难);难言(非难的言论);难极(诘难);驳难(反驳责难);责难(指摘非难);非难(指摘和责问)</span></p>
+<p><span class="cino">(2)</span> 抵挡;拒斥 <span class="encs">[keep out;ward off;refuse]</span></p>
+<p><span class="diczx1">难壬人。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《答司马谏议书》</span></p>
+<p><span class="diczx1">難德允元，而难任人。&mdash;&mdash;<span class="smcs">《书&middot;舜典》</span></span></p>
+<p><span class="diczx3">如:阻难(阻挠留难)</span></p>
+<p><span class="cino">(3)</span> 论说;争辩 <span class="encs">[argue]</span></p>
+<p><span class="diczx1">死生之说，存亡之难。&mdash;&mdash;<span class="smcs">《史记&middot;五帝本纪》</span></span></p>
+<p><span class="diczx3">又如:难说(讨论解说);难诘(讨论责问);难驳(攻讨反击)</span></p>
+<p><span class="cino">(4)</span> 另见 <span class="dicpy">n&aacute;n</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/n&aacute;n.mp3"></a></span> </p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /> <div class="cit type-xxjs"><span class="crefe"><a href="/hans/难胞">难胞</a></span><span class="crefe"><a href="/hans/难民">难民</a></span><span class="crefe"><a href="/hans/难侨">难侨</a></span><span class="crefe"><a href="/hans/难属">难属</a></span><span class="crefe"><a href="/hans/难兄难弟">难兄难弟</a></span><span class="crefe"><a href="/hans/难友">难友</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="96BE_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=戌集中" target="_blank">戌集中</a>】【<a href="/zd/kx/?zm=戌集中&amp;bs=隹" target="_blank">隹</a>】
+                              難·康熙筆画：<a href="/zd/kx/bh/?bh=19" target="_blank">19</a>　·部外筆画：11</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">難</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“难”字头，请参考“<a href="/hans/難">難</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=戌集中" target="_blank">戌集中</a>】【<a href="/zd/kx/?zm=戌集中&amp;bs=隹" target="_blank">隹</a>】
+                              難·康熙筆画：<a href="/zd/kx/bh/?bh=19" target="_blank">19</a>　·部外筆画：11</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/96E3.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/29062.svg"><span class="k_txt">𩁢</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2906C.svg"><span class="k_txt">𩁬</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29019.svg"><span class="k_txt">𩀙</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29063.svg"><span class="k_txt">𩁣</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29072.svg"><span class="k_txt">𩁲</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29069.svg"><span class="k_txt">𩁩</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2900F.svg"><span class="k_txt">𩀏</span><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29064.svg"><span class="k_txt">𩁤</span>【廣韻】【韻會】那干切【集韻】那肝切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音䕿。【說文】鳥也。本作<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A13F.svg"><span class="k_txt">𪄿</span>。</p>
+<p>又【玉篇】不易之稱也。【書&middot;臯陶謨】惟帝其難之。【咸有一德】其難其愼。</p>
+<p>又珠名。【曹植&middot;美人行】珊瑚閒木難。【註】《南越志》曰：木難，金翅鳥沫所成碧色珠也。</p>
+<p>又姓。【正字通】南北朝難從党。見《姓苑》。</p>
+<p>又【集韻】【韻會】囊何切【正韻】奴何切。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>同儺。【集韻】難，卻除凶惡也。【周禮&middot;春官&middot;占夢】遂令始難歐疫。【夏官&middot;方相氏】率百隸而時難，以索室驅疫。【禮&middot;月令】季春，命國難。【又】季冬命有司大難。</p>
+<p>又【詩&middot;小雅】其葉有難。【傳】難然盛貌。【釋文】乃多反。</p>
+<p>又【集韻】乃可切，音娜。同橠。詳木部橠字註。</p>
+<p>又【廣韻】奴案切【集韻】【韻會】【正韻】乃旦切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>音㬮。【廣韻】患也。【易&middot;否卦】君子以儉德辟難，不可榮以祿。【禮&middot;曲禮】臨難毋苟免。【周禮&middot;地官&middot;調人】掌司萬民之難，而諧和之。【註】難，相與爲仇讎。</p>
+<p>又詰辨也。【唐史&middot;韋處厚傳】張平叔議糶鹽，韋處厚發十難以詰之。</p>
+<p>又【書&middot;舜典】惇德允元而難任人。【傳】難，拒也。【釋文】乃旦反。</p>
+<p>又【公羊&middot;隱八年&middot;我入邴傳】其言入何難也。【註】難，辭也。【釋文】乃旦反，一音如字。</p>
+<p>又【孟子】於禽獸又何難焉。【註】難，責也。</p>
+<p>又人名。【左傳&middot;文元年】難也收子。【釋文】乃多反，一音如字。</p>
+<p>又叶音臡。【汲冢周書】旁隊外權，隳城湮溪。老弱單處，其謀乃難。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="96BE_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=鳥">鳥</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">𪅀</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“难”字头，请参考“<a href="/hans/𪅀"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A140.svg"><span class="k_txt">𪅀</span></a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷四">卷四</a>】【<a href="/zd/sw/?swju=卷四&amp;swbs=鳥">鳥</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/2A140.svg">                          <p>鳥也。从鳥堇聲。<img class="swtimg" src="//img.zdic.net/swxz/2A140_1.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29024.svg"><span class="k_txt">𩀤</span>，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A140.svg"><span class="k_txt">𪅀</span>或从隹。<img class="swtimg" src="//img.zdic.net/swxz/2A140_2.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2905A.svg"><span class="k_txt">𩁚</span>，古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A140.svg"><span class="k_txt">𪅀</span>。<img class="swtimg" src="//img.zdic.net/swxz/2A140_3.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29064.svg"><span class="k_txt">𩁤</span>，古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A140.svg"><span class="k_txt">𪅀</span>。<img class="swtimg" src="//img.zdic.net/swxz/2A140_4.svg" /><img class="lazy k_img" data-original="//img.zdic.net/song/cn/29019.svg"><span class="k_txt">𩀙</span>，古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A140.svg"><span class="k_txt">𪅀</span>。那干切</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2A140_10378.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A140.svg"><span class="k_txt">𪅀</span>)</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A13F.svg"><span class="k_txt">𪄿</span>鳥也。</span><span class="swdz">今爲難易字，而本義隱矣。</span><span class="ywyy">从鳥堇聲。</span><span class="swdz">那干切。十四部。按堇聲在十三部，合韵也。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2A140_10379.svg" /><span class="swbf">(難)</span><span class="ywyy"><img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A13F.svg"><span class="k_txt">𪄿</span>或从隹。</span><span class="swdz">今難易字皆作此。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2A140_10380.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2906A.svg"><span class="k_txt">𩁪</span>)</span><span class="ywyy">古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A13F.svg"><span class="k_txt">𪄿</span>。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2A140_10381.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/29073.svg"><span class="k_txt">𩁳</span>)</span><span class="ywyy">古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A13F.svg"><span class="k_txt">𪄿</span>。</span></p>
+<hr class="swhr" />
+<p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/2A140_10382.svg" /><span class="swbf">(<img class="lazy k_img" data-original="//img.zdic.net/song/cn/29019.svg"><span class="k_txt">𩀙</span>)</span><span class="ywyy">古文<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2A13F.svg"><span class="k_txt">𪄿</span>。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="96BE_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">难</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  nĄn˧˥; nĄn˥˧; nuo˧˥ </p>						<p><span class="z_ts2">粤语</span>  naan4 naan6</p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/难">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/难">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/难">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/难">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/难">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/难">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/难">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/难">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/难">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/难">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/难">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/难">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/难">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">难</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「難」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td>金文</td><td>楚系簡帛</td><td>說文</td><td>秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/难"><img data-original="//img.zdic.net/zy/jinwen/31_F678.svg" class="lazy ypic"><span>「難」 殳季良父壺</span><span>西周晚期</span><span>集成9713</span></a></td><td><a href="/zd/zx/cx/难"><img data-original="//img.zdic.net/zy/chuwenzi/51_F555.svg" class="lazy ypic"><span>「難」 包2.236</span></a></td><td><a href="/zd/zx/xz/难"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E347.svg" class="lazy ypic"><span>「難」 說文古文</span></a></td><td><a href="/zd/zx/qx/难"><img data-original="//img.zdic.net/zy/qinwenzi/71_E3D4.svg" class="lazy ypic"><span>「難」 睡.日甲16</span></a></td><td><a href="/hans/難" target="_blank"><img data-original="//img.zdic.net/kai/tw/96E3.svg" class="lazy ypic"><span>「難」</span></a> </td><td><a href="/hans/难" target="_blank"><img data-original="//img.zdic.net/kai/tw/96BE.svg" class="lazy ypic"><span>「难」</span></a></td><td style="display:none"><a href="/hans/难" target="_blank"><img data-original="//img.zdic.net/kai/tw/96BE.svg" class="lazy ypic"><span>「难」</span></a></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/难"><img data-original="//img.zdic.net/zy/jinwen/31_F677.svg" class="lazy ypic"><span>「難」 齊大宰歸父盤</span><span>春秋</span><span>集成10151</span></a></td><td><a href="/zd/zx/cx/难"><img data-original="//img.zdic.net/zy/chuwenzi/51_F558.svg" class="lazy ypic"><span>「難」 帛甲4.25</span></a></td><td><a href="/zd/zx/xz/难"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E348.svg" class="lazy ypic"><span>「難」 說文古文</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td><a href="/zd/zx/jw/难"><img data-original="//img.zdic.net/zy/jinwen/31_F679.svg" class="lazy ypic"><span>「難」 中山王昔鼎</span><span>戰國晚期</span><span>集成2840</span></a></td><td><a href="/zd/zx/cx/难"><img data-original="//img.zdic.net/zy/chuwenzi/51_F557.svg" class="lazy ypic"><span>「難」 曾174</span></a></td><td><a href="/zd/zx/xz/难"><img data-original="//img.zdic.net/zy/xiaozhuan/27_E349.svg" class="lazy ypic"><span>「難」 說文古文</span></a></td><td></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/难">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/难">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/难">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/难">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/难">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/96BE.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/96BE.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/96BE.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/難' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/96E3.svg'><span>難</span></a></div> <div class='zx'><a href='/hans/𨿻' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/28FFB.svg'><span>𨿻</span></a></div> <div class='zx'><a href='/hans/𩀏' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2900F.svg'><span>𩀏</span></a></div> <div class='zx'><a href='/hans/𩀙' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29019.svg'><span>𩀙</span></a></div> <div class='zx'><a href='/hans/𩀡' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29021.svg'><span>𩀡</span></a></div> <div class='zx'><a href='/hans/𩀤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29024.svg'><span>𩀤</span></a></div> <div class='zx'><a href='/hans/𩁚' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2905A.svg'><span>𩁚</span></a></div> <div class='zx'><a href='/hans/𩁢' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29062.svg'><span>𩁢</span></a></div> <div class='zx'><a href='/hans/𩁣' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29063.svg'><span>𩁣</span></a></div> <div class='zx'><a href='/hans/𩁤' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29064.svg'><span>𩁤</span></a></div> <div class='zx'><a href='/hans/𩁩' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29069.svg'><span>𩁩</span></a></div> <div class='zx'><a href='/hans/𩁪' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2906A.svg'><span>𩁪</span></a></div> <div class='zx'><a href='/hans/𩁬' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2906C.svg'><span>𩁬</span></a></div> <div class='zx'><a href='/hans/𩁮' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2906E.svg'><span>𩁮</span></a></div> <div class='zx'><a href='/hans/𩁲' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29072.svg'><span>𩁲</span></a></div> <div class='zx'><a href='/hans/𩁳' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/29073.svg'><span>𩁳</span></a></div> <div class='zx'><a href='/hans/𪄿' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2A13F.svg'><span>𪄿</span></a></div> <div class='zx'><a href='/hans/𪅀' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2A140.svg'><span>𪅀</span></a></div> <div class='zx'><a href='/hans/𪇠' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2A1E0.svg'><span>𪇠</span></a></div> <div class='zx'><a href='/hans/𪇼' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2A1FC.svg'><span>𪇼</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="18623" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6169">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/楠">楠(nan2)</a></li><li><a href="/hans/䔜">䔜(nan2)</a></li><li><a href="/hans/畘">畘(nan2)</a></li><li><a href="/hans/枏">枏(nan2)</a></li><li><a href="/hans/喃">喃(nan2)</a></li><li><a href="/hans/抩">抩(nan2)</a></li><li><a href="/hans/遖">遖(nan2)</a></li><li><a href="/hans/男">男(nan2)</a></li><li><a href="/hans/莮">莮(nan2)</a></li><li><a href="/hans/㽖">㽖(nan2)</a></li><li><a href="/hans/䶲">䶲(nan2)</a></li><li><a href="/hans/柟">柟(nan2)</a></li><li><a href="/hans/難">難(nan4)</a></li><li><a href="/hans/㬮">㬮(nan4)</a></li><li><a href="/hans/諵">諵(nan4)</a></li><li><a href="/hans/䕼">䕼(nan4)</a></li><li><a href="/hans/妠">妠(nan4)</a></li><li><a href="/hans/婻">婻(nan4)</a></li><li><a href="/hans/㰙">㰙(nuo2)</a></li><li><a href="/hans/橠">橠(nuo2)</a></li><li><a href="/hans/難">難(nuo2)</a></li><li><a href="/hans/傩">傩(nuo2)</a></li><li><a href="/hans/𠕰">𠕰(nuo2)</a></li><li><a href="/hans/䎠">䎠(nuo2)</a></li><li><a href="/hans/挪">挪(nuo2)</a></li><li><a href="/hans/梛">梛(nuo2)</a></li><li><a href="/hans/儺">儺(nuo2)</a></li><li><a href="/hans/娜">娜(nuo2)</a></li><li><a href="/hans/㔮">㔮(nuo2)</a></li><li><a href="/hans/㑚">㑚(nuo2)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䧽">䧽</a></li><li><a href="/hans/雛">雛</a></li><li><a href="/hans/雧">雧</a></li><li><a href="/hans/雍">雍</a></li><li><a href="/hans/䧹">䧹</a></li><li><a href="/hans/隽">隽</a></li><li><a href="/hans/雤">雤</a></li><li><a href="/hans/䧶">䧶</a></li><li><a href="/hans/雄">雄</a></li><li><a href="/hans/雇">雇</a></li><li><a href="/hans/䨊">䨊</a></li><li><a href="/hans/䧱">䧱</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠋟">𠋟</a></li><li><a href="/hans/桜">桜</a></li><li><a href="/hans/耘">耘</a></li><li><a href="/hans/帰">帰</a></li><li><a href="/hans/荷">荷</a></li><li><a href="/hans/倌">倌</a></li><li><a href="/hans/珣">珣</a></li><li><a href="/hans/粅">粅</a></li><li><a href="/hans/𠓭">𠓭</a></li><li><a href="/hans/涨">涨</a></li><li><a href="/hans/娥">娥</a></li><li><a href="/hans/𠉭">𠉭</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">莫言下岭便无<span>难</span>，赚得行人错喜欢。</div><div class="gscdr">《过松源晨炊漆公店》（其五）</div><div class="gscdl">行路<span>难</span>！行路<span>难</span>！多歧路，今安在？长风破浪会有时，直挂云帆济沧海。</div><div class="gscdr">《行路难》（其一）</div><div class="gscdl">不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古<span>难</span>全。</div><div class="gscdr">宋·苏轼 《水调歌头》</div><div class="gscdl">相见时<span>难</span>别亦<span>难</span>，东风无力百花残。</div><div class="gscdr">唐·李商隐 《无题·相见时难别亦难》</div><div class="gscdl">自谓少时用心于学甚劳，是可谓善学者矣！其将归见其亲也，余故道为学之<span>难</span>以告之。</div><div class="gscdr">明·宋濂 《送东阳马生序》</div><div class="gscdl">夫大国，<span>难</span>测也，惧有伏焉。</div><div class="gscdr">先秦·左丘明 《曹刿论战》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=18623"></script>
+</body>
+</html>

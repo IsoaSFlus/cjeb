@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>拟的解释|拟的意思|汉典“拟”字的基本解释</title>
+<meta name="title" content="拟的解释|拟的意思|汉典“拟”字的基本解释">
+<meta name="keywords" content="左：扌，右：以。" /><meta property="og:title" content="“拟”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“拟”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“拟”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/拟" />
+<link rel="canonical" href="//www.zdic.net/hans/拟" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/拟" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/拟" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/拟" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.2" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/拟">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/拟">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/62DF.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/62DF.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">nǐ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拟”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nǐ.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄋㄧˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拟”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄧˇ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">  扌</a></p>
+                              <p><span class="z_ts2">部外</span>  4</p>
+                              <p><span class="z_ts3">总笔画</span>  7</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">繁体</span> <a href='/hans/擬' target=_blank>擬</a>  </p>
+                              </td>
+                                                        <td class="z_ytz2"><a href='/hans/擬' target=_blank>擬</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+62DF</p></td>
+                            <td class="dsk_2_1">左右结构</td>                            <td align="center" class="z_bis2"><p>1215434</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>rnyw</p></td>                            <td class="dsk_2_1"><p>qvio</p></td>                            <td class="dsk_2_1"><p>dzod</p></td>                            <td class="dsk_2_1"><p>58000</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">nǐ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拟”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/nǐ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄋㄧˇ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“拟”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄋㄧˇ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=扌" target="_blank">扌</a> <span class="z_ts2">部外</span> 4<span class="z_ts3">总笔画</span> 7</p>                    <p><span class="z_ts3">基本区</span> 62DF<span class="z_ts2">笔顺</span> 1215434                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="62DF_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                    <a href="/zd/zb/cc2" title="现代汉语常用字表：次常用字"><span class="z_zb cc1">次</span></a>                                                         <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=5344" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">拟</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>拟</strong></p>
+<p><strong>（<img class="jbjs_ico" src="/images/yico_ft.svg" title="繁体字"><span class="diczx3">擬</span>）</strong></p>
+<p><span class="dicpy">nǐ  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/nǐ.mp3"></a></span> ㄋㄧˇ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>打算：～去信联系。～议。</li>
+	<li>初步设计编制或起草：～定（➊起草制定；➋揣测断定）。～订。草～。</li>
+	<li>仿照：～古之作。～人（修辞方式，把事物人格化）。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> draft; intend, plan, propose</p><p><span class="z_ts2">德语</span> planen (V)​,vorhaben (V)​,nachmachen (V)​,vergleichen (V)</p><p><span class="z_ts2">法语</span> élaborer,établir,avoir l'intention de faire qch</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">拟</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>拟</strong></p>
+<p>儗、懝 <span class="dicpy">nǐ</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/nǐ.mp3"></a></span> </p>
+<p>〈动〉</p>
+<p><span class="cino">(1)</span> (形声。从手，以声。本义:揣度，猜测)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[conjecture]</span></p>
+<p><span class="diczx1">拟，度也。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">行止而拟度焉。&mdash;&mdash;<span class="smcs">《周礼&middot;射人》</span>注</span></p>
+<p><span class="diczx1">拟之而后言，议之而后动。&mdash;&mdash;<span class="smcs">《易&middot;系辞上》</span></span></p>
+<p><span class="diczx1">先生说的可单是拟题?&mdash;&mdash;<span class="smcs">《儒林外史》</span></span></p>
+<p><span class="diczx3">又如:悬拟(凭空虚构);拟足(揣度脚步);拟度(揣度;推测);拟迹(揣度足迹);拟题(应试举子揣度命题)</span></p>
+<p><span class="cino">(3)</span> 类似;比拟 <span class="encs">[similar;analogous;compare]</span></p>
+<p><span class="diczx1">复举剑拟之。&mdash;&mdash;<span class="smcs">《汉书&middot;李广苏建传》</span></span></p>
+<p><span class="diczx1">客以剑拟王，王头随堕汤中。(拟:比划，作砍的样子。&ldquo;拟&rdquo;后有&ldquo;于&rdquo;省略。客用剑向楚王一比划，楚王的人头就落到开水里。&mdash;&mdash;</span><span class="diczx2">晋</span>&middot; <span class="diczx2">干宝</span><span class="smcs">《搜神记》</span>)</p>
+<p><span class="diczx1">非它山可拟。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">陆游</span><span class="smcs">《过小孤山大孤山》</span></p>
+<p><span class="diczx1">不可拟小孤。</span></p>
+<p><span class="diczx1">拟之如天。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">黄宗羲</span><span class="smcs">《原君》</span></p>
+<p><span class="diczx3">又如:拟主(自比作主人);拟制(比拟其规模制度);拟物(修辞方法之一。把人拟作物或把物拟作人，或把甲物拟作乙物);拟伦(比拟;伦比);拟容(形貌上的比拟);拟圣(比拟圣人);拟质(比拟)</span></p>
+<p><span class="cino">(4)</span> 效法 <span class="encs">[follow the example of]</span>。</p>
+<p><span class="diczx3">如:拟制(仿效帝王制度);拟法(效法);拟则(效法;模仿);拟迹(仿效);拟效(仿效);拟圣(仿效圣人);拟范(效法);拟学(仿效);拟宪(效法)</span></p>
+<p><span class="cino">(5)</span> 模仿 <span class="encs">[imitate]</span></p>
+<p><span class="diczx2">衡</span>乃拟 <span class="diczx2">班固</span><span class="smcs">《两都》</span>作<span class="smcs">《二京赋》</span>。&mdash;&mdash;<span class="smcs">《后汉书&middot;张衡传》</span></p>
+<p><span class="diczx3">又如:模拟(模仿);拟经(模仿经典);拟水(古代祭祀仪式中模拟盥洗的动作);拟托(模拟假托);拟象(谓模仿其状);拟貌(摹拟描摹);拟仪(模仿其法度;仿效)</span></p>
+<p><span class="cino">(6)</span> 打算 <span class="encs">[intend]</span></p>
+<p><span class="diczx1">拟用左通政。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">张廷玉</span><span class="smcs">《明史》</span></p>
+<p><span class="diczx3">又如:拟作(准备有所作为);拟待(打算);拟踪(打算达到);拟托(打算委托)</span></p>
+<p><span class="cino">(7)</span> 拟定 <span class="encs">[work out]</span>。</p>
+<p><span class="diczx3">如:拟用(拟定使用);拟论(指拟立为太子之说);拟题(拟定题目)</span></p>
+<p><span class="cino">(8)</span> 起草 <span class="encs">[draw up]</span></p>
+<p><span class="diczx1">命君拟旨。&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">梁启超</span><span class="smcs">《谭嗣同传》</span></p>
+<p><span class="diczx3">又如:草拟(起草;初步设计);拟制(草拟制订);拟奏(起草奏章;准备奏呈)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/拟出">拟出</a></span><span class="crefe"><a href="/hans/拟订">拟订</a></span><span class="crefe"><a href="/hans/拟定">拟定</a></span><span class="crefe"><a href="/hans/拟稿">拟稿</a></span><span class="crefe"><a href="/hans/拟古">拟古</a></span><span class="crefe"><a href="/hans/拟合">拟合</a></span><span class="crefe"><a href="/hans/拟话本">拟话本</a></span><span class="crefe"><a href="/hans/拟人">拟人</a></span><span class="crefe"><a href="/hans/拟人化">拟人化</a></span><span class="crefe"><a href="/hans/拟议">拟议</a></span><span class="crefe"><a href="/hans/拟于不伦">拟于不伦</a></span><span class="crefe"><a href="/hans/拟作">拟作</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="62DF_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=手" target="_blank">手</a>】
+                              擬·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：14</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">擬</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						<div class="mini_h2">(康熙字典未收录“拟”字头，请参考“<a href="/hans/擬">擬</a>”字。)</div>  
+						<div class="mob">【<a href="/zd/kx/?zm=卯集中" target="_blank">卯集中</a>】【<a href="/zd/kx/?zm=卯集中&amp;bs=手" target="_blank">手</a>】
+                              擬·康熙筆画：<a href="/zd/kx/bh/?bh=18" target="_blank">18</a>　·部外筆画：14</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/64EC.svg">						  <p>【唐韻】魚紀切【集韻】【韻會】偶起切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>疑上聲。【說文】度也。【增韻】準擬揣度以待也。【易&middot;繫辭】擬之而後言。【疏】擬度之而後言也。</p>
+<p>又像也，比擬也。【前漢&middot;公孫弘傳】管仲相齊有三歸，侈擬於君。【註】擬，疑也，言相似也。【後漢&middot;張衡傳】吾觀太<img class="lazy k_img" data-original="//img.zdic.net/song/cn/248E5.svg"><span class="k_txt">𤣥</span>，方知子雲妙極道數，乃與五經相擬。【集韻】或作譺。</p>
+<p>又作懝。【禮記】通作儗。【漢書】借作儀。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="62DF_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=手">手</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">擬</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+						<div class="mini_h2">(说文解字未收录“拟”字头，请参考“<a href="/hans/擬">擬</a>”字：)</div>						<div class="mob">【<a href="/zd/sw/?swju=卷十二">卷十二</a>】【<a href="/zd/sw/?swju=卷十二&amp;swbs=手">手</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/64EC.svg">                          <p>度也。从手疑聲。魚已切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/64EC_2389.svg" /><span class="swbf">(擬)</span><span class="ywyy">度也。</span><span class="swdz">今所謂揣度也。</span><span class="ywyy">从手疑聲。</span><span class="swdz">魚己切。一部。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="62DF_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">拟</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ni˨˩˦ </p>						<p><span class="z_ts3">客家话</span>  [客英字典] ngi3<span class="z_ts2">粤语</span>  ji5<span class="z_ts3">潮州话</span>  ngi2(ngíⁿ) [揭阳、潮阳]ghi2 </p>						
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/拟">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/拟">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/拟">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/拟">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/拟">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/拟">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/拟">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/拟">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/拟">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/拟">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/拟">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">拟</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <p>重定向至「擬」。</p><table class="zyyb"><tr><td style="display:none">甲骨文</td><td style="display:none">金文</td><td style="display:none">楚系簡帛</td><td>說文</td><td style="display:none">秦系簡牘</td><td>楷書</td><td>楷書</td><td style="display:none">楷書</td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td><a href="/zd/zx/xz/拟"><img data-original="//img.zdic.net/zy/xiaozhuan/27_64EC.svg" class="lazy ypic"><span>「擬」 說文‧手部</span></a></td><td style="display:none"></td><td><a href="/hans/擬" target="_blank"><img data-original="//img.zdic.net/kai/tw/64EC.svg" class="lazy ypic"><span>「擬」</span></a> </td><td><a href="/hans/拟" target="_blank"><img data-original="//img.zdic.net/kai/tw/62DF.svg" class="lazy ypic"><span>「拟」</span></a></td><td style="display:none"><a href="/hans/拟" target="_blank"><img data-original="//img.zdic.net/kai/tw/62DF.svg" class="lazy ypic"><span>「拟」</span></a></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr><tr><td style="display:none"></td><td style="display:none"></td><td style="display:none"></td><td></td><td style="display:none"></td><td></td><td></td><td style="display:none"></td></tr></table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/拟">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/拟">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/62DF.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/62DF.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/62DF.svg" data-bd-imgshare-binded="1">香港</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/擬' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/64EC.svg'><span>擬</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="5344" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="6186">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/䘽">䘽(ni3)</a></li><li><a href="/hans/㣇">㣇(ni3)</a></li><li><a href="/hans/䘦">䘦(ni3)</a></li><li><a href="/hans/晲">晲(ni3)</a></li><li><a href="/hans/孴">孴(ni3)</a></li><li><a href="/hans/䰯">䰯(ni3)</a></li><li><a href="/hans/你">你(ni3)</a></li><li><a href="/hans/懝">懝(ni3)</a></li><li><a href="/hans/狔">狔(ni3)</a></li><li><a href="/hans/疑">疑(ni3)</a></li><li><a href="/hans/伲">伲(ni3)</a></li><li><a href="/hans/婗">婗(ni3)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/摲">摲</a></li><li><a href="/hans/摶">摶</a></li><li><a href="/hans/㩅">㩅</a></li><li><a href="/hans/㨲">㨲</a></li><li><a href="/hans/捅">捅</a></li><li><a href="/hans/㩚">㩚</a></li><li><a href="/hans/㩨">㩨</a></li><li><a href="/hans/抔">抔</a></li><li><a href="/hans/攗">攗</a></li><li><a href="/hans/扞">扞</a></li><li><a href="/hans/掵">掵</a></li><li><a href="/hans/拤">拤</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/呀">呀</a></li><li><a href="/hans/屃">屃</a></li><li><a href="/hans/岕">岕</a></li><li><a href="/hans/𠇷">𠇷</a></li><li><a href="/hans/䢍">䢍</a></li><li><a href="/hans/𠇩">𠇩</a></li><li><a href="/hans/狃">狃</a></li><li><a href="/hans/岉">岉</a></li><li><a href="/hans/芫">芫</a></li><li><a href="/hans/助">助</a></li><li><a href="/hans/沐">沐</a></li><li><a href="/hans/䒜">䒜</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">兄子胡儿曰：“撒盐空中差可<span>拟</span>。”</div><div class="gscdr">南北朝·刘义庆   世说新语《咏雪》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=5344"></script>
+</body>
+</html>
