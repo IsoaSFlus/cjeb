@@ -1,0 +1,652 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>異的解释|異的意思|汉典“異”字的基本解释</title>
+<meta name="title" content="異的解释|異的意思|汉典“異”字的基本解释">
+<meta name="keywords" content="上：田，下：共。  " /><meta property="og:title" content="“異”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“異”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“異”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/異" />
+<link rel="canonical" href="//www.zdic.net/hans/異" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/異" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/異" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/異" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.0" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/異">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/異">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd 160x600 --> 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="4165417438"></ins> 
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script> 
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '> 
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <!-- gwd_auto --> 
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="9479950141"
+             data-ad-format="auto"></ins> 
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+             </script> 
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt">                                <img src="//img.zdic.net/kai/cn/7570.svg"/>
+                                                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                            <td class="z_jfz"><p><span class="z_t2">简繁</span></p></td>                            <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“異”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yì.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄧˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“異”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧˋ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=田" target="_blank">  田</a></p>
+                              <p><span class="z_ts2">部外</span>  6</p>
+                              <p><span class="z_ts3">总笔画</span>  11</p></td>                                                        <td class="z_jfz">                              <p><span class="z_ts2">简体</span> <a href='/hans/异' target=_blank>异</a>  </p>
+                                                            </td>
+                                                        <td class="z_ytz2"><a href='/hans/异' target=_blank>异</a> <a href='/hans/𠔱' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/20531.svg'><span class='ytz_txt'>𠔱</span> <a href='/hans/𢄖' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/22116.svg'><span class='ytz_txt'>𢄖</span> <a href='/hans/異' target=_blank>異</a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+7570</p></td>
+                            <td class="dsk_2_1">上下结构</td>                            <td align="center" class="z_bis2"><p>25121122134</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>lawu</p></td>                            <td class="dsk_2_1"><p>wtc</p></td>                            <td class="dsk_2_1"><p>kieo</p></td>                            <td class="dsk_2_1"><p>60801</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yì<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“異”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yì.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄧˋ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“異”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧˋ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=田" target="_blank">田</a> <span class="z_ts2">部外</span> 6<span class="z_ts3">总笔画</span> 11</p>                    <p><span class="z_ts3">基本区</span> 7570<span class="z_ts2">笔顺</span> 25121122134                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="7570_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                                                                                <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                                                          <a href="/e/member/fava/add/?classid=3&id=10097" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>異</strong></p>
+<p><span class="dicpy">y&igrave;  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&igrave;.mp3"></a></span>  ㄧˋ</span></p>
+<hr class="dichr" />
+<ol>
+	<li>不同的：～乎。～說。～常。～己（與自己意見不同或利害相衝突的人）。～端（舊時指不符合正統思想的主張或教義，如&ldquo;～～邪說&rdquo;）。～化。～性。～樣。大同小～。～曲同工。</li>
+	<li>分開：離～。～居。</li>
+	<li>另外的，別的：～日。～地。～國。～鄉。～類。</li>
+	<li>特別的：奇～。～聞。～彩。奇才～能（特殊的才能）。</li>
+	<li>奇怪：驚～。詫～。怪～。</li>
+</ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> different, unusual, strange</p><p><span class="z_ts2">德语</span> Verschiedenheit, Differenz (S)​,ungewöhnlich, außergewöhnlich, fremd, fremdartig (Adj)​,ungleich, verschieden, anders (Adj)​,iso, iso- (Eig, Chem)</p><p><span class="z_ts2">法语</span> différent,étrange,exceptionnel</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>詳細字義</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>異</strong></p>
+<p>異 <span class="dicpy">y&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&igrave;.mp3"></a></span> </p>
+<p>〈形〉</p>
+<p><span class="cino">(1)</span> (會意。&ldquo;異&rdquo;，甲骨文字形，象個有手、腳、頭的人形。從廾( <span class="dicpy">gǒng</span>)從畀( <span class="dicpy">b&igrave;</span>)。畀，予也。本義:奇特;奇異;奇怪)</p>
+<p><span class="cino">(2)</span> 同本義 <span class="encs">[strange;queer;odd]</span></p>
+<p><span class="diczx1">異，怪也。&mdash;&mdash;<span class="smcs">《玉篇》</span></span></p>
+<p><span class="diczx1">異，奇也。&mdash;&mdash;<span class="smcs">《廣韻》</span></span></p>
+<p><span class="diczx1">何以異哉。&mdash;&mdash;<span class="smcs">《列子&middot;楊朱》</span></span></p>
+<p><span class="diczx1">異乎交益之士。&mdash;&mdash;</span><span class="diczx2">左思</span><span class="smcs">《魏都賦》</span></p>
+<p><span class="diczx1">婦人異甚。&mdash;&mdash;<span class="smcs">《戰國策&middot;趙策》</span></span></p>
+<p><span class="diczx1">產異蛇。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《捕蛇者說》</span></p>
+<p><span class="diczx1">覺無異能。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx1">父異焉。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">王安石</span><span class="smcs">《傷仲永》</span></p>
+<p><span class="diczx3">又如:異疾(奇怪的病症);異形(怪異或奇特的形狀)</span></p>
+<p><span class="cino">(3)</span> 不同 <span class="encs">[different]</span></p>
+<p><span class="diczx1">禮者爲異。&mdash;&mdash;<span class="smcs">《禮記&middot;樂記》</span>。注:&ldquo;謂別貴賤也。&rdquo;</span></p>
+<p><span class="diczx1">事爲異別。&mdash;&mdash;<span class="smcs">《禮記&middot;王制》</span></span></p>
+<p><span class="diczx1">執心各異。&mdash;&mdash;</span><span class="diczx2">漢</span>&middot; <span class="diczx2">劉向</span><span class="smcs">《列女傳》</span></p>
+<p><span class="diczx1">得無異乎。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot; <span class="diczx2">范仲淹</span><span class="smcs">《岳陽樓記》</span></p>
+<p><span class="diczx1">或異二者。</span></p>
+<p><span class="diczx1">何異以孤羊投羣狼?&mdash;&mdash;</span><span class="diczx2">清</span>&middot; <span class="diczx2">徐珂</span><span class="smcs">《清稗類鈔&middot;戰事類》</span></p>
+<p><span class="diczx3">又如:異俗(風俗異於漢族的少數民族);異姓陌路(既不同姓也不認識);異手(指不同之人);異世(不同時代);異目(另眼)</span></p>
+<p><strong>詞性變化</strong></p>
+<p>◎ <strong>異</strong> <span class="dicpy">y&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&igrave;.mp3"></a></span> </p>
+<p>〈代〉</p>
+<p><span class="cino">(1)</span> 其他，別的 <span class="encs">[other]</span></p>
+<p><span class="diczx1">賈不敢爲異事。&mdash;&mdash;<span class="smcs">《呂氏春秋&middot;上農》</span></span></p>
+<p><span class="diczx1">無它異也。(意思是，沒有別的意外的事)。&mdash;&mdash;<span class="smcs">《後漢書&middot;列女傳》</span></span></p>
+<p><span class="diczx3">又如:異域茅草(蠻荒之地的鄉野村夫);異土(他鄉;別處)</span></p>
+<p>◎ <strong>異</strong> <span class="dicpy">y&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&igrave;.mp3"></a></span> </p>
+<p>〈動〉</p>
+<p><span class="cino">(1)</span> 護翼 <span class="encs">[shelter]</span></p>
+<p><span class="diczx1">古天異臨子。&mdash;&mdash;<span class="smcs">《盂鼎》</span></span></p>
+<p><span class="cino">(2)</span> 區別;分開 <span class="encs">[distinguish;divide]</span></p>
+<p><span class="diczx1">異是非，明好惡，檢奸邪，消佚亂。&mdash;&mdash;<span class="smcs">《新語》</span></span></p>
+<p><span class="diczx3">又如:異分(區別);異居(分居)</span></p>
+<p><span class="cino">(3)</span> 覺得奇怪;詫異 <span class="encs">[be surprised;be astonished]</span></p>
+<p><span class="diczx1">漁人甚異之。&mdash;&mdash;</span><span class="diczx2">晉</span>&middot; <span class="diczx2">陶潛</span><span class="smcs">《桃花源記》</span></p>
+<p><span class="cino">(4)</span> 特別優待;特別重視 <span class="encs">[give preferential treatment;pay attention to]</span>。</p>
+<p><span class="diczx3">如:異擢(破格提拔);異待(特別禮遇);異恩(特殊恩遇);異遇(特別優待);異謀(特別的計謀)</span></p>
+<p><span class="cino">(5)</span> 通&ldquo;翼&rdquo;。恭敬 <span class="encs">[respect]</span></p>
+<p><span class="diczx1">極明與與，有畏勸汝，何異非汝，何畏非世。&mdash;&mdash;<span class="smcs">《逸周書》</span></span></p>
+<p><span class="cino">(6)</span> 通&ldquo;翼&rdquo;。輔助 <span class="encs">[assist]</span></p>
+<p><span class="diczx1">令行禁止王始也&hellip;出三日無適異;出四日無適與。&mdash;&mdash;<span class="smcs">《逸周書》</span></span></p>
+<p>◎ <strong>異</strong> <span class="dicpy">y&igrave;</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/y&igrave;.mp3"></a></span> </p>
+<p>〈名〉</p>
+<p><span class="cino">(1)</span> 指以往，以前 <span class="encs">[before;formerly;in the past]</span>。</p>
+<p><span class="diczx3">如:異時(往時;從前);異代(前代;前世)</span></p>
+<p><span class="cino">(2)</span> 指以後，將來 <span class="encs">[after;later;future]</span>。</p>
+<p><span class="diczx3">如:異日(來日;以後);異時(以後;他時);異世(後代;後世);異代(後代;後世)</span></p>
+<p><span class="cino">(3)</span> 怪異不祥之事;災異 <span class="encs">[strange]</span></p>
+<p><span class="diczx1">己巳，日有食之。何以書?記異也。&mdash;&mdash;<span class="smcs">《公羊傳》</span></span></p>
+<p><span class="cino">(4)</span> 指特殊本領、才能 <span class="encs">[special skill;special ability]</span></p>
+<p><span class="diczx1">覺無異能者。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot; <span class="diczx2">柳宗元</span><span class="smcs">《三戒》</span></p>
+<p><span class="diczx1">舉天下所貢蝴蝶&hellip;一切異狀遍試之，無出其右者。&mdash;&mdash;<span class="smcs">《聊齋志異&middot;促織》</span></span></p>
+<p><strong>常用詞組</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/異彩">異彩</a></span><span class="crefe"><a href="/hans/異常">異常</a></span><span class="crefe"><a href="/hans/異詞">異詞</a></span><span class="crefe"><a href="/hans/異爨">異爨</a></span><span class="crefe"><a href="/hans/異地">異地</a></span><span class="crefe"><a href="/hans/異動">異動</a></span><span class="crefe"><a href="/hans/異讀">異讀</a></span><span class="crefe"><a href="/hans/異端">異端</a></span><span class="crefe"><a href="/hans/異馥">異馥</a></span><span class="crefe"><a href="/hans/異國">異國</a></span><span class="crefe"><a href="/hans/異花傳粉">異花傳粉</a></span><span class="crefe"><a href="/hans/異化">異化</a></span><span class="crefe"><a href="/hans/異己">異己</a></span><span class="crefe"><a href="/hans/異軍突起">異軍突起</a></span><span class="crefe"><a href="/hans/異口同聲">異口同聲</a></span><span class="crefe"><a href="/hans/異類">異類</a></span><span class="crefe"><a href="/hans/異能">異能</a></span><span class="crefe"><a href="/hans/異曲同工">異曲同工</a></span><span class="crefe"><a href="/hans/異趣">異趣</a></span><span class="crefe"><a href="/hans/異日">異日</a></span><span class="crefe"><a href="/hans/異史氏">異史氏</a></span><span class="crefe"><a href="/hans/異說">異說</a></span><span class="crefe"><a href="/hans/異體字">異體字</a></span><span class="crefe"><a href="/hans/異同">異同</a></span><span class="crefe"><a href="/hans/異圖">異圖</a></span><span class="crefe"><a href="/hans/異外">異外</a></span><span class="crefe"><a href="/hans/異位">異位</a></span><span class="crefe"><a href="/hans/異味">異味</a></span><span class="crefe"><a href="/hans/異文">異文</a></span><span class="crefe"><a href="/hans/異文鄙事">異文鄙事</a></span><span class="crefe"><a href="/hans/異戊橡膠">異戊橡膠</a></span><span class="crefe"><a href="/hans/異物">異物</a></span><span class="crefe"><a href="/hans/異鄉">異鄉</a></span><span class="crefe"><a href="/hans/異香">異香</a></span><span class="crefe"><a href="/hans/異想天開">異想天開</a></span><span class="crefe"><a href="/hans/異心">異心</a></span><span class="crefe"><a href="/hans/異形">異形</a></span><span class="crefe"><a href="/hans/異性">異性</a></span><span class="crefe"><a href="/hans/異焉">異焉</a></span><span class="crefe"><a href="/hans/異言">異言</a></span><span class="crefe"><a href="/hans/異樣">異樣</a></span><span class="crefe"><a href="/hans/異議">異議</a></span><span class="crefe"><a href="/hans/異域">異域</a></span><span class="crefe"><a href="/hans/異種">異種</a></span><span class="crefe"><a href="/hans/異狀">異狀</a></span><span class="crefe"><a href="/hans/異族">異族</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- 内容页300x250 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-5789084355642416"
+                         data-ad-slot="2167118264"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>異</rb></rbc><rtc><rt>ㄧˋ</rt></rtc><rtc><rt>y&igrave; <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5917.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">特別的、不平常的。</span><span class="gc_lz">如：「<b>異</b>士」、「<b>異</b>術」。</span><span class="gc_yy">《史記&middot;卷六七&middot;仲尼弟子傳》：「孔子曰：『受業身通者七十有七人。』皆異能之士也。」</span><span class="gc_yy">《後漢書&middot;卷五八&middot;臧洪傳》：「洪體貌魁梧，有<b>異</b>姿。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">另外的、其他的。</span><span class="gc_yy">《呂氏春秋&middot;士容論&middot;上農》：「農不敢行，賈不敢為異事。」</span><span class="gc_yy">唐&middot;王維〈九月九日憶山東兄弟〉詩：「獨在異鄉為異客，每逢佳節倍思親。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">不同的。</span><span class="gc_lz">如：「異口同聲」。</span><span class="gc_yy">《書經&middot;旅獒》：「王乃昭德之致於異姓之邦，無替厥服。」</span><span class="gc_yy">唐&middot;盧照鄰〈南陽公集序〉：「異議蜂起，高談不息。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">分開。</span><span class="gc_yy">《禮記&middot;曲禮上》：「群居五人，則長者必<b>異</b>席。」</span><span class="gc_yy">《史記&middot;卷六八&middot;商君傳》：「民有二男以上不分<b>異</b>者，倍其賦。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">奇怪。</span><span class="gc_yy">《後漢書&middot;卷四四&middot;徐防傳》：「防體貌矜嚴，占對可觀，顯宗<b>異</b>之。」</span><span class="gc_yy">晉&middot; 陶淵明〈桃花源記〉：「忽逢桃花林，夾岸數百步，中無雜樹，芳草鮮美，落英繽紛，漁人甚<b>異</b>之。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">奇怪異事物。</span><span class="gc_lz">如：「標新立<b>異</b>」。</span><span class="gc_yy">《公羊傳&middot;隱公三年》：「己巳，日有食之，何以書，記<b>異</b>也？」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如唐代有異牟尋。</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="7570_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=田" target="_blank">田</a>】
+                              異·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：7</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=午集上" target="_blank">午集上</a>】【<a href="/zd/kx/?zm=午集上&amp;bs=田" target="_blank">田</a>】
+                              異·康熙筆画：<a href="/zd/kx/bh/?bh=12" target="_blank">12</a>　·部外筆画：7</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/7570.svg">						  <p>〔古文〕<img class="lazy k_img" data-original="//img.zdic.net/song/cn/22116.svg"><span class="k_txt">𢄖</span>【唐韻】【集韻】【韻會】羊吏切【正韻】以智切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>移去聲。【說文】分也，从廾从<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2233F.svg"><span class="k_txt">𢌿</span>。<img class="lazy k_img" data-original="//img.zdic.net/song/cn/2233F.svg"><span class="k_txt">𢌿</span>予也。【博雅】異分也。【史記&middot;商君傳】民有二男以上，不分異者，倍其賦。</p>
+<p>又不同也。【書&middot;旅獒】王乃昭德之，致于異姓之邦。【禮&middot;儒行】同弗與異弗非也。【疏】謂彼人與己之疏異，所爲是善，則不非毀之也。　　又怪也。【釋名】異者，異於常也。【左傳&middot;昭二十六年】據有異焉。【註】異猶怪也。【史記&middot;屈賈傳】化爲異物兮，又何足患。</p>
+<p>又奇也。【周禮&middot;地官&middot;質人】掌成市之貨賄，人民，牛馬，兵器，珍異。【註】珍異，四時食物。【史記&middot;仲尼弟子傳】受業身通者七十有七人，皆異能之士也。</p>
+<p>又違也。</p>
+<p>又姓。唐異牟尋歸唐，冊封南詔王，今白水蠻有此姓。</p>
+<p>又異，翹草名。【爾雅&middot;釋草】連異翹。</p>
+<p>又無名異藥名，主治金創折傷。</p>
+<p>又【韻補】叶延知切，音怡。【詩&middot;邶風】洵美且異。叶下貽。</p>
+<p>又叶弋質切，音逸。【詩&middot;小雅】亦祇以異。【朱註】逸織反。【無名氏樂德歌】所見奇異，叶甘美酒食。</p>
+<p>&nbsp;</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="7570_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=異">異</a>】 </span></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷三">卷三</a>】【<a href="/zd/sw/?swju=卷三&amp;swbs=異">異</a>】</div>                          
+						                            <div class="swnr">
+                          『說文解字』<hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/7570.svg">                          <p>分也。从廾从畀。畀，予也。凡異之屬皆从異。羊吏切〖注〗徐鍇曰：&ldquo;將欲與物，先分異之也。《禮》曰：&lsquo;賜君子小人不同日。&rsquo;&rdquo;</p>                          </div>
+                                                                              <div class="swnr">
+                          『說文解字注』<hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/7570_4098.svg" /><span class="swbf">(異)</span><span class="ywyy">分也。</span><span class="swdz">分之則有彼此之異。</span><span class="ywyy">从廾畀。畀，予也。</span><span class="swdz">竦手而予人則離異矣。羊吏切。一部。</span><span class="ywyy">凡異之屬皆从異。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 336x280 -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:336px;height:280px"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="1745068308"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="7570_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ji˥˧ <span class="z_ts4">唐代读音</span>  *iə̀<span class="z_ts4">日语读音</span>  KOTO KOTONARU AYASHII<span class="z_ts4">韩语罗马</span>  I<span class="z_ts4">现代韩语</span>  리 이</p>						<p><span class="z_ts3">客家话</span>  [台湾四县腔] ji5 [客英字典] ji5 [陆丰腔] ji5 [梅县腔] j5 [沙头角腔] ji5 [客语拼音字汇] yi4 [海陆腔] ri5 [宝安腔] ji3<span class="z_ts2">粤语</span>  ji6<span class="z_ts3">潮州话</span>  i6</p>						<p><span class="z_ts3">近代音</span>  影母    齊微韻    去聲    異小空；<span class="z_ts3">中古音</span>  喻以母    志韻    去聲    異小韻    羊吏切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：影母    德部   ；王力系统：餘母    職部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/異">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/異">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/異">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/異">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/異">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/異">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/異">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/異">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/異">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/異">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/異">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/異">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">異</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>說文</td>
+			<td>秦系簡牘</td>
+			<td>楷書</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_ED67.svg" /><span>「異」 甲394</span><span>合29090</span></a></td>
+			<td><a href="/zd/zx/jw/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_ED95.svg" /><span>「異」 大盂鼎</span><span>西周早期</span><span>集成2837</span></a></td>
+			<td><a href="/zd/zx/cx/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_EE17.svg" /><span>「異」 包2.52</span></a></td>
+			<td><a href="/zd/zx/xz/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_7570.svg" /><span>「異」 說文‧異部</span></a></td>
+			<td><a href="/zd/zx/qx/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E2A0.svg" /><span>「異」 睡.秦65</span></a></td>
+			<td><a href="/hans/異" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/7570.svg" /><span>「異」</span></a></td>
+			<td style="display:none"><a href="/hans/异" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/cn/5F02.svg" /><span>「异」</span></a></td>
+			<td style="display:none"><a href="/hans/異" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/7570.svg" /><span>「異」</span></a></td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_ED6C.svg" /><span>「異」 乙1493</span><span>合17992</span></a></td>
+			<td><a href="/zd/zx/jw/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_ED94.svg" /><span>「異」 虢叔旅鐘</span><span>西周晚期</span><span>集成238</span></a></td>
+			<td><a href="/zd/zx/cx/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_EE18.svg" /><span>「異」 包2.55</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/cx/異"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_EF35.svg" /><span>「異」 郭.語2.52</span></a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/異">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/異">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/異">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/異">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/異">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/異">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/7570.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/7570.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/7570.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/7570.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/7570.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/异' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5F02.svg'><span>异</span></a></div> <div class='zx'><a href='/hans/𠔱' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/20531.svg'><span>𠔱</span></a></div> <div class='zx'><a href='/hans/𢄖' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/22116.svg'><span>𢄖</span></a></div> <div class='zx'><a href='/hans/異' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/F962.svg'><span>異</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- 336x280 -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:336px;height:280px"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="1745068308"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="10097" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="11467">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:336px;height:280px"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="1745068308"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>               
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/鄓">鄓(yi4)</a></li><li><a href="/hans/栺">栺(yi4)</a></li><li><a href="/hans/憶">憶(yi4)</a></li><li><a href="/hans/伇">伇(yi4)</a></li><li><a href="/hans/枍">枍(yi4)</a></li><li><a href="/hans/㡫">㡫(yi4)</a></li><li><a href="/hans/帠">帠(yi4)</a></li><li><a href="/hans/㴁">㴁(yi4)</a></li><li><a href="/hans/刈">刈(yi4)</a></li><li><a href="/hans/佾">佾(yi4)</a></li><li><a href="/hans/抑">抑(yi4)</a></li><li><a href="/hans/饐">饐(yi4)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/疁">疁</a></li><li><a href="/hans/畯">畯</a></li><li><a href="/hans/町">町</a></li><li><a href="/hans/畉">畉</a></li><li><a href="/hans/㽝">㽝</a></li><li><a href="/hans/畬">畬</a></li><li><a href="/hans/㽘">㽘</a></li><li><a href="/hans/㽙">㽙</a></li><li><a href="/hans/畠">畠</a></li><li><a href="/hans/疂">疂</a></li><li><a href="/hans/畛">畛</a></li><li><a href="/hans/㽧">㽧</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/琑">琑</a></li><li><a href="/hans/畧">畧</a></li><li><a href="/hans/觗">觗</a></li><li><a href="/hans/牽">牽</a></li><li><a href="/hans/偛">偛</a></li><li><a href="/hans/啛">啛</a></li><li><a href="/hans/㹺">㹺</a></li><li><a href="/hans/殌">殌</a></li><li><a href="/hans/得">得</a></li><li><a href="/hans/畣">畣</a></li><li><a href="/hans/㔠">㔠</a></li><li><a href="/hans/婒">婒</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 内容页300x250 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-5789084355642416"
+             data-ad-slot="2167118264"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>      
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=3&id=10097"></script>
+</body>
+</html>

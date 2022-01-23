@@ -1,0 +1,744 @@
+<!doctype html>
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>一的解释|一的意思|汉典“一”字的基本解释</title>
+<meta name="title" content="一的解释|一的意思|汉典“一”字的基本解释">
+<meta name="keywords" content="|一|" /><meta property="og:title" content="“一”字的解释 | 汉典" />
+<meta property="og:image" content="//www.zdic.net/images/logo-zh-cn.png" />
+<meta property="og:description" content="“一”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta name="description" content="“一”字的解释，释义，异体字，音韵方言，部首笔画，康熙字典，说文解字，字源字形" />
+<meta property="og:url" content="//www.zdic.net/hans/一" />
+<link rel="canonical" href="//www.zdic.net/hans/一" />
+<link rel="alternate" hreflang="x-default" href="//www.zdic.net/hans/一" />
+<link rel="alternate" hreflang="zh-Hans" href="//www.zdic.net/hans/一" />
+<link rel="alternate" hreflang="zh-Hant" href="//www.zdic.net/hant/一" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="apple-mobile-web-app-title" content="汉典" />
+<meta name="theme-color" content="#8b411c" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161009-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161009-3');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416" crossorigin="anonymous"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/style.css" />
+<link href="https://libs.baidu.com/fontawesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/3.1.0/jquery-3.1.0.js"></script><link type="text/css" rel="stylesheet" media="screen" href="/zi.css?v=1.4" />
+</head>
+<body class=" shiyi context-zh-cn stickyHeader ">
+<header class="sticky">
+  <div class='extra res_s'>
+    <div class='zclk'> <a class="current" href="//www.zdic.net" title="汉典">汉典</a> <span>|</span> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <span>|</span> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <span>|</span> <a class="current" href="http://sf.zdic.net" title="汉典书法">书法</a> <span>|</span> <a href="/ts/" title="汉典通识">通识</a> </div>
+    <div class="yyzt"> <i class='i_suyi'></i>
+      <ul class="zmenu">
+        <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+        <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 繁体部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+        </li>
+      </ul>
+	<span class="jf_link"><a href="/hant/一">繁体</a></span>	</div>
+  </div>
+  <div class='clear'></div>
+  <div class='left res_t res_d res_h'> <a class="menuPOB i_bars i_2x" title="Menu"></a> </div>
+  <div class='left'> <a class='logo' href="//www.zdic.net/" target="_blank" title="返回主页">&nbsp;</a> </div>
+  <div class='right res_t res_d res_h'> <a class='searchPB i_2x' title="Search"></a> </div>
+  <form action="/search/" class="search-form search-desktop">
+    <div class='cs_lc' style='float:left;'> <span class='cs_l res_s' title="选择条件">条目</span><i class='i_xsj i_fw'></i> </div>
+    <button type="submit" class='search-submit'><i class='fa fa-search i_fw' title="Search"></i></button>
+    <button class='search-keyboard res_s res_t'><i class='i_keyboard i_fw'></i></button>
+    <select name="sclb" class='search-select custom-select autoc-dict'>
+      <optgroup label="条目">
+      <option value='tm' selected data-placeholder="请输入汉字或词语">条目</option>
+      <option value='zi' data-placeholder="请输入汉字">汉字</option>
+      <option value='ci' data-placeholder="请输入词语">词语</option>
+      <option value='cy' data-placeholder="请输入成语">成语</option>
+      </optgroup>
+      <optgroup label="字典">
+      <option value='ids' data-placeholder="请输入汉字部件">汉字拆分</option>
+      <option value='py' data-placeholder="请输入拼音">拼音</option>
+      <option value='bis' data-placeholder="请输入笔顺编号">笔顺</option>
+      <option value='wb' data-placeholder="请输入五笔编码">五笔编码</option>
+      <option value='cj' data-placeholder="请输入仓颉编码">仓颉编码</option>
+      <option value='fc' data-placeholder="请输入四角号码">四角号码</option>
+      <option value='uno' data-placeholder="请输入UNICODE">UNICODE</option>
+      </optgroup>
+    </select>
+    <div class='autoc-results'></div>
+    <div class='search-input-container'>
+      <input type="text" name="q" class="search-input autoc-input" autocomplete="off" spellcheck="false" autofocus />
+    </div>
+    <div class='cs_m'></div>
+  </form>
+  <div class='header_bot res_s'></div>
+</header>
+<nav class='cadaPl'> <a class='cadaPlCB i_times i_2x'></a>
+  <div class='title'>导航</div>
+  <a class="current" href="//www.zdic.net/" title="汉典">汉典</a> <a href="http://gj.zdic.net" title="汉典古籍">古籍</a> <a href="http://sc.zdic.net" title="汉典诗词">诗词</a> <a href="http://sf.zdic.net" title="汉典书法">书法</a> <a href="/ts/" title="汉典通识">通识</a>
+  <ul class="zmenu">
+    <li class="curr_zmenu">查询索引 <i class="i_xsj"></i></li>
+    <li class="drop">
+          <div class="this_page">............................</div>
+			  <div class="zmenu_i"> <a href="/zd/ids/"> 汉字拆分查询 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/hanseeker/"> 汉字部件检索 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/bs/"> 字典部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/fbs/"> 字典繁体部首 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/py/"> 字典拼音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/zy/"> 字典注音索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/kx/"> 康熙部首索引 </a> </div>
+			  <div class="zmenu_i"> <a href="/zd/sw/"> 说文部首索引 </a> </div>
+    </li>
+  </ul>
+  <span class="jf_link"><a href="/hant/一">繁体</a></span></nav>
+<div class="cadaOl"></div>
+<main>
+  <div class='res_c_left res_s res_t'>
+    <div class="gc_lslot_a sticky res_h res_s">
+      <div id='gg_lslot_a' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="gc_lslot_b sticky res_d res_t res_s">
+      <div id='gg_lslot_b' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_v -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="3435931875"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class="zdict">
+    <div class="topslot_container">
+      <div id='gg_tslot' class='am-default '> 
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_w -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="8091693882"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+    <div class="res_c_center" >
+      <div class="shiyi_content res_c_center_content">
+        <div class="entry_title">
+          <div class="ziif noi zisong">
+            <table border="0">
+              <tr>
+                <td class="ziif_d_l"><div class="zipic mlt"><section><img id="bhbs" src="//img.zdic.net/kai/cn/4E00.svg" alt="笔顺动画" data-gif="//img.zdic.net/kai/jbh/4E00.gif" class="gifs"></section>                  </div></td>
+                <td><table border="0">
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="z_py"><p><span class="z_t2">拼音</span></p></td>                            <td class="z_zy"><p><span class="z_t2">注音</span></p></td>                            <td class="z_bs"><p><span class="z_t2">部首</span></p></td>                                                        <td class="z_ytz"><p><span class="z_t3">异体字</span></p></td>                          </tr>
+                          <tr>
+                            <td class="z_py"><p><span class="z_d song">yī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“一”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span></span></p></td>                            <td class="z_zy"><p><span class="z_d song">ㄧ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“一”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧ.mp3"></a></span></span></p></td>                            <td class="z_bs2"><p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=一" target="_blank">  一</a></p>
+                              <p><span class="z_ts2">部外</span>  0</p>
+                              <p><span class="z_ts3">总笔画</span>  1</p></td>                                                        <td class="z_ytz2"><a href='/hans/壹' target=_blank>壹</a> <a href='/hans/弌' target=_blank>弌</a> <a href='/hans/𠤪' target=_blank><img class='lazy ytz_img' data-original='//img.zdic.net/song/cn/2092A.svg'><span class='ytz_txt'>𠤪</span></a> </td>                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t4">统一码</span></p></td>
+                            <td class="dsk_2_1"><p><span class="z_t4">字形分析</span></p></td>                            <td align="left" class="z_bis"><p><span class="z_t2">笔顺</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>基本区 U+4E00</p></td>
+                            <td class="dsk_2_1">单一结构</td>                            <td align="center" class="z_bis2"><p>443</p></td>                          </tr>
+                        </table>
+                        <table border="0" class="dsk">
+                          <tr>
+                            <td class="dsk_2_1"><p><span class="z_t2">五笔</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">仓颉</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">郑码</span></p></td>                            <td class="dsk_2_1"><p><span class="z_t2">四角</span></p></td>                          </tr>
+                          <tr>
+                            <td class="dsk_2_1"><p>ggll</p></td>                            <td class="dsk_2_1"><p>m</p></td>                            <td class="dsk_2_1"><p>a</p></td>                            <td class="dsk_2_1"><p>10000</p></td>                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <div class="mob">
+                    <p><span class="z_ts2">拼音</span> <span class="z_d song">yī<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“一”字的拼音" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span></span> </p>                    <p><span class="z_ts2">注音</span> <span class="z_d song">ㄧ<span class="ptr"><a class="audio_play_button i_volume-up ptr" title="“一”字的注音" data-src-mp3="//img.zdic.net/audio/zd/zy/ㄧ.mp3"></a></span></span> </p>                    <p><span class="z_ts2">部首</span> <a href="/zd/bs/?bs=一" target="_blank">一</a> <span class="z_ts2">部外</span> 0<span class="z_ts3">总笔画</span> 1</p>                    <p><span class="z_ts3">基本区</span> 4E00<span class="z_ts2">笔顺</span> 1                    </p>
+                  </div></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="homograph-entry">
+          <div class="page">
+            <div class="dictionaries zdict">
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="dictlink">
+                    <div class="nr-box nr-box-shiyi jbjs" id="4E00_1" data-type-block="基本解释" data-title-block="" data-num-block="">
+                      <div class="nr-box-header">
+                        <div class="zi-b-container zib-title">
+                          <a href="/zd/zb/cc1" title="现代汉语常用字表：常用字"><span class="z_zb cc1">常</span></a>                                                       <a href="/zd/zb/tc1" title="现代汉语通用字表：现通表"><span class="z_zb tc1">通</span></a>                             <a href="/zd/zb/ty" title="常用國字標準字體表：标准字体"><span class="z_zb ty">标</span></a>                              <a href="/e/member/fava/add/?classid=3&id=1" title="加入收藏夹"><span id="favbon" class="icon-star fa fa-star"></span></a>
+							                           </div>
+                          <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 基本解释</span></h2>
+                        </div>
+                        <div class="content definitions jnr">
+
+						<p>● <strong>一</strong></p><p><span class="dicpy">yī  <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span> ㄧˉ</span></p><hr class="dichr" /><ol>	<li>数名，最小的正整数（在钞票和单据上常用大写&ldquo;<span class="diczx3">壹</span>&rdquo;代）。</li>	<li>纯；专：专～。～心～意。</li>	<li>全；满：～生。～地水。</li>	<li>相同：～样。颜色不～。</li>	<li>另外的：蟋蟀～名促织。</li>	<li>表示动作短暂，或是一次，或具试探性：算～算。试～试。</li>	<li>乃；竞：～至于此。</li>	<li>部分联成整体：统～。整齐划～。</li>	<li>或者：～胜～负。</li>	<li>初次：～见如故。</li>	<li>中国古代乐谱记音符号，相当于简谱中的低音&ldquo;7&rdquo;。</li></ol>                        
+<div class="enbox"><p><span class="z_ts2">英语</span> one; a, an; alone</p><p><span class="z_ts2">德语</span> eins (1)​ (Num)​,Radikal Nr. 1 = eins (1)​,sobald (Adv)</p><p><span class="z_ts2">法语</span> 1 (nombre)​,un</p></div>                        
+                        <div class="div copyright"> 【漢典】 </div>                        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div id="xxjs" class="nr-box nr-box-shiyi xxjs" data-type-block="详细解释">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 详细解释</span></h2>
+                  </div>
+                  <div class="content definitions xnr">
+                    <p><strong>详细字义</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>一</strong> <span class="dicpy">yī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span> </p>
+<p><span class="xx_cx">数</span></p>
+<p><span class="cino">(1)</span> (指事。&ldquo;一&rdquo;是汉字部首之一。本义:数词。大写作&ldquo;壹&rdquo;。最小的正整数。常用以表示人或事、物的最少数量)</p>
+<p><span class="cino">(2)</span> 同本义 <span class="encs">[one]</span></p>
+<p><span class="diczx1">一，惟初太始道立于一，造分天地，化成万物。&mdash;&mdash;<span class="smcs">《说文》</span></span></p>
+<p><span class="diczx1">一也者，万物之本也。&mdash;&mdash;<span class="smcs">《淮南子&middot;诠言》</span></span></p>
+<p><span class="diczx1">抱一而天下试。&mdash;&mdash;<span class="smcs">《老子》</span></span></p>
+<p><span class="diczx1">故一人有事于四方。&mdash;&mdash;<span class="smcs">《书&middot;君奭》</span>。传:&ldquo;天子也。&rdquo;</span></p>
+<p><span class="diczx1">一夫作难而七庙隳，身死人手，为天下笑。&mdash;&mdash;</span><span class="diczx2">汉</span>&middot;<span class="diczx2">贾谊</span><span class="smcs">《过秦论》</span></p>
+<p><span class="diczx1">一夫夜呼，乱者四应。(公元九二年六月，李存莇妻刘皇后听信宦官诬告，杀死大臣郭崇韬，时谣言纷起，人心惶惶。屯驻在贝州(现河北省清河县)的军人皇甫晖勾结党羽作乱，拥立指挥使赵在礼为帅，攻入邺都(现河南省安阳市)。邢州(现河北省邢台市)、沧州驻军相继作乱。)&mdash;&mdash;</span><span class="diczx2">宋</span>&middot;<span class="diczx2">欧阳修</span><span class="smcs">《新五代史&middot;伶官传&middot;序》</span></p>
+<p><span class="diczx3">又如:一境(一个地方);一丝(一根蚕丝);一碗水往平处端(办事公正不偏袒);一拳正打在心窝(一下说到要害处);一人做一人当(敢做就敢于承认，绝不连累别人);一客不烦二主(托一人能办的事，就不再打扰第二个人);一动不如一静(动不如静好);一言抄百语(总而言之);一缘一会(天缘凑合);一路功名(仕途顺利，官运亨通);一盘一盒(礼物);一清如水(静悄悄地没有人影);一毫不爽(一点不差);一息恹恹(疾病缠身，气息微弱)</span></p>
+<p><span class="cino">(3)</span> 序数的第一位 <span class="encs">[first]</span></p>
+<p><span class="diczx1">一战而举</span><span class="diczx2">鄢</span>、<span class="diczx2">郢</span>。(第一仗就攻下了楚国的重要城市鄢、郢。一战，第一战。指楚顷襄王二十年即公元前279年，秦将白起攻下楚国的鄢、郢二都的战争。举，攻下。鄢，地名，在今湖北省宜城县境。郢，地名，在今湖北省江陵县境。)&mdash;&mdash;<span class="smcs">《史记&middot;平原君虞卿列传》</span></p>
+<p><span class="diczx3">又如:一紧二慢三罢休(指先紧后慢、最后不了了之的官场办事作风);一来二去(经过一段时间的周折);一品锅(一种里面杂放鸡鸭鱼肉、山珍海味的&ldquo;砂锅&rdquo;);一甲(科举殿试第一至第三名，赐进士及第);一更;一品(犹言一等;第一等);一等一(第一等中的第一名)</span></p>
+<p><span class="cino">(4)</span> 若干份中的一份或整数以外的零头 <span class="encs">[odd]</span></p>
+<p><span class="diczx1">先王之制，大都不过参国之一，中五之一，小九之一。&mdash;&mdash;<span class="smcs">《左传》</span></span></p>
+<p><span class="diczx3">又如:一脚(动物身体的四分之一，一条腿的部分);丈一、丈二;百一;一份(整体分为若干份的一部分);一杆子(方言。犹言一部分);一得(得到一件或一个);一端(指物件的一头)</span></p>
+<p><span class="cino">(5)</span> 表示动作一次或短暂 <span class="encs">[single;only one]</span></p>
+<p><span class="diczx1">一至</span><span class="diczx2">楚</span>。&mdash;&mdash;<span class="smcs">《史记&middot;平原君虞卿列传》</span></p>
+<p><span class="diczx1">初一交战。&mdash;&mdash;<span class="smcs">《资治通鉴》</span></span></p>
+<p><span class="diczx1">抚尺一下。&mdash;&mdash;<span class="smcs">《虞初新志&middot;秋声诗自序》</span></span></p>
+<p><span class="diczx3">又如:一拿一个着(一下子就拿住);一气一个死(气得要命);一忽觉转(一觉醒来);一时半霎(指时间极短);一个眼闪(一会儿工夫);一之为甚(一次已经过分了。用来劝人不要重犯错误)</span></p>
+<p><span class="cino">(6)</span> 某一个 <span class="encs">[certain]</span>。</p>
+<p><span class="diczx3">如:忽见一个从前方来;一天;一次;一夜(指某夜);一能(某一项专长或技能)</span></p>
+<p><span class="cino">(7)</span> 每;各 <span class="encs">[every time;each]</span>。</p>
+<p><span class="diczx3">如:一桌十人;一日三餐</span></p>
+<p><span class="cino">(8)</span> 另;又 <span class="encs">[another]</span>。</p>
+<p><span class="diczx3">如:蝉一名知了</span></p>
+<p><strong>词性变化</strong></p>
+<hr class="dichr" />
+<p>◎ <strong>一</strong> <span class="dicpy">yī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span> </p>
+<p><span class="xx_cx">形</span></p>
+<p><span class="cino">(1)</span> 全;满 <span class="encs">[whole;full]</span></p>
+<p><span class="diczx1">一肌一容(一:全部。指宫女的整个肌肤容貌)。&mdash;&mdash;</span><span class="diczx2">唐</span>&middot;<span class="diczx2">杜牧</span><span class="smcs">《阿房宫赋》</span></p>
+<p><span class="diczx1">传一乡。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot;<span class="diczx2">王安石</span><span class="smcs">《伤仲永》</span></p>
+<p><span class="diczx1">洞庭一湖。&mdash;&mdash;</span><span class="diczx2">宋</span>&middot;<span class="diczx2">范仲淹</span><span class="smcs">《岳阳楼记》</span></p>
+<p><span class="diczx1">长烟一空。</span></p>
+<p><span class="diczx1">欢动一城。&mdash;&mdash;</span><span class="diczx2">明</span>&middot;<span class="diczx2">高启</span><span class="smcs">《书博鸡者事》</span></p>
+<p><span class="diczx1">通订一舟。&mdash;&mdash;</span><span class="diczx2">明</span>&middot;<span class="diczx2">魏学</span><span class="smcs">《核舟记》</span></p>
+<p><span class="diczx3">又如:一罟(全部;一点不留);一是(全赁);一凭(任凭;完全凭仗);一抹(全部);一听(听任);一划(一派);一床(全部<span class="encs">[乐器]</span>);一力(竭力);一创(整个);一到处(到处;四处);一条提(全部;统统);一抹光(一律免除或不予追究);一到处(遍地里);一肩儿(所承担的全部责任)</span></p>
+<p><span class="cino">(2)</span> 相同;一样 <span class="encs">[same]</span>。</p>
+<p><span class="diczx3">如:一个稿子(一模一样);一便价(一式的;一律的);一似(好像;似同);一同(相同;一样);一理(同一准则)</span></p>
+<p><span class="cino">(3)</span> 齐一;联合 <span class="encs">[joint;combined]</span>。</p>
+<p><span class="diczx3">如:一缴过儿(一起);一搭儿(一答里。一起;一块儿);一合儿(一同;一起);一就(一并;一起);一心(同心;齐心);一堆(一起;一块);一淘(一道;一路);一派(一齐);一体(一起;一块)</span></p>
+<p><span class="cino">(4)</span> 统一 <span class="encs">[unified;unitary]</span></p>
+<p><span class="diczx1">以一中外之心，以色觊觎之望。&mdash;&mdash;<span class="smcs">《子谦全传》</span></span></p>
+<p><span class="diczx1">六王毕，四海一。&mdash;&mdash;</span><span class="diczx2">杜牧</span><span class="smcs">《阿房宫赋》</span></p>
+<p><span class="diczx3">又如:一正(统一法度政令);一匡(使得到匡正);一法(统一的法令);一是(犹言统一的标准);一量(统一度量);一统天下(统一全国)</span></p>
+<p><span class="cino">(5)</span> 专一 <span class="encs">[single-minded;concentrated]</span></p>
+<p><span class="diczx1">用心一世。&mdash;&mdash;<span class="smcs">《荀子&middot;劝学》</span></span></p>
+<p><span class="diczx3">又如:一德无暇(一心一意，没有一点虚情假意);一心一计(一心一意)</span></p>
+<p><span class="cino">(6)</span> 纯一不杂 <span class="encs">[pure]</span>。</p>
+<p><span class="diczx3">如:一青(犹纯青);一抹黑(形容一团漆黑);一纯(心地纯一)</span></p>
+<p><span class="cino">(7)</span> 独 <span class="encs">[single;alone]</span>。</p>
+<p><span class="diczx3">如:一目(独眼);一取(独取);一眼(一只眼睛。特指独存一眼);一尊(独尊)</span></p>
+<p>◎ <strong>一</strong> <span class="dicpy">yī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span> </p>
+<p><span class="xx_cx">副</span></p>
+<p><span class="cino">(1)</span> 都，一概 <span class="encs">[all]</span></p>
+<p><span class="diczx1">一匡天下。&mdash;&mdash;<span class="smcs">《史记&middot;货殖列传》</span></span></p>
+<p><span class="diczx3">又如:一划(一律);一回(一概);一弄(一切;全体);一抹光(全都包括在内);一往(一概;一律);一括(犹言总括);一是(一概)</span></p>
+<p><span class="cino">(2)</span> 很;甚 <span class="encs">[very]</span>。</p>
+<p><span class="diczx3">如:一无性天(非常虚伪);一力价(极力地);一撮儿(极其;百般)</span></p>
+<p><span class="cino">(3)</span> 始终 <span class="encs">[straight;always;all along]</span>。</p>
+<p><span class="diczx3">如:一象(一像。一向;从来);一起(一向;向来);一行(一向;一直);一了(一直;从来);一往(犹一向)</span></p>
+<p><span class="cino">(4)</span> 一经 <span class="encs">[once;in case]</span></p>
+<p><span class="diczx1">诚一开口。&mdash;&mdash;<span class="smcs">《史记&middot;魏公子列传》</span></span></p>
+<p><span class="diczx1">俗之一改。&mdash;&mdash;<span class="smcs">《史记&middot;屈原贾生列传》</span></span></p>
+<p><span class="diczx1">黄鹤一去不复返，&mdash;&mdash;</span><span class="diczx2">唐</span>&middot;<span class="diczx2">崔颢</span><span class="smcs">《黄鹤楼》</span></p>
+<p><span class="diczx2">禄山</span>一出。&mdash;&mdash;<span class="diczx2">宋</span>&middot;<span class="diczx2">苏轼</span><span class="smcs">《教战守》</span></p>
+<p><span class="diczx1">一出门。&mdash;&mdash;<span class="smcs">《聊斋志异&middot;促织》</span></span></p>
+<p><span class="diczx3">又如:一膺新命(一旦接受朝廷的任命);一觉(一旦);一头(一旦);一投(方言。一等到;一旦)</span></p>
+<p><span class="cino">(5)</span> 犹一一 <span class="encs">[one by one;one affer another]</span>。</p>
+<p><span class="diczx3">如:一略数(谓一一略举);一听(一一倾听)</span></p>
+<p>◎ <strong>一</strong> <span class="dicpy">yī</span> <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/zd/py/yī.mp3"></a></span> </p>
+<p><span class="xx_cx">名</span></p>
+<p>初次，第一次;开始 <span class="encs">[first;begin]</span>。</p>
+<p><span class="diczx3">如:一箭上垛(比喻旗开得胜，首次就达到目的);一生人(初次卖做奴婢的女子);一头里(原来;起先);一成(初次制成的);一回生(初见陌生);一见如旧(一见如故。初次相见意气相投，有如故交);一初(开始;起初);一征(初次征战);一听(初听)</span></p>
+<p><strong>常用词组</strong></p>
+<hr class="dichr" /><div class="cit type-xxjs"><span class="crefe"><a href="/hans/一把手">一把手</a></span><span class="crefe"><a href="/hans/一把死拿">一把死拿</a></span><span class="crefe"><a href="/hans/一把抓">一把抓</a></span><span class="crefe"><a href="/hans/一败涂地">一败涂地</a></span><span class="crefe"><a href="/hans/一斑">一斑</a></span><span class="crefe"><a href="/hans/一般">一般</a></span><span class="crefe"><a href="/hans/一般见识">一般见识</a></span><span class="crefe"><a href="/hans/一板三眼">一板三眼</a></span><span class="crefe"><a href="/hans/一板一眼">一板一眼</a></span><span class="crefe"><a href="/hans/一半">一半</a></span><span class="crefe"><a href="/hans/一半">一半</a></span><span class="crefe"><a href="/hans/一半天">一半天</a></span><span class="crefe"><a href="/hans/一杯羹">一杯羹</a></span><span class="crefe"><a href="/hans/一辈子">一辈子</a></span><span class="crefe"><a href="/hans/一本万利">一本万利</a></span><span class="crefe"><a href="/hans/一本正经">一本正经</a></span><span class="crefe"><a href="/hans/一鼻孔出气">一鼻孔出气</a></span><span class="crefe"><a href="/hans/一笔勾销">一笔勾销</a></span><span class="crefe"><a href="/hans/一笔抹煞">一笔抹煞</a></span><span class="crefe"><a href="/hans/一壁厢">一壁厢</a></span><span class="crefe"><a href="/hans/一臂之力">一臂之力</a></span><span class="crefe"><a href="/hans/一边">一边</a></span><span class="crefe"><a href="/hans/一边">一边</a></span><span class="crefe"><a href="/hans/一并">一并</a></span><span class="crefe"><a href="/hans/一波未平，一波又起">一波未平，一波又起</a></span><span class="crefe"><a href="/hans/一拨儿">一拨儿</a></span><span class="crefe"><a href="/hans/一不做，二不休">一不做，二不休</a></span><span class="crefe"><a href="/hans/一步登天">一步登天</a></span><span class="crefe"><a href="/hans/一步一个脚印">一步一个脚印</a></span><span class="crefe"><a href="/hans/一差二错">一差二错</a></span><span class="crefe"><a href="/hans/一刹">一刹</a></span><span class="crefe"><a href="/hans/一刹那">一刹那</a></span><span class="crefe"><a href="/hans/一刬">一刬</a></span><span class="crefe"><a href="/hans/一场空">一场空</a></span><span class="crefe"><a href="/hans/一倡百和">一倡百和</a></span><span class="crefe"><a href="/hans/一唱一和">一唱一和</a></span><span class="crefe"><a href="/hans/一朝天子一朝臣">一朝天子一朝臣</a></span><span class="crefe"><a href="/hans/一尘不染">一尘不染</a></span><span class="crefe"><a href="/hans/一成不变">一成不变</a></span><span class="crefe"><a href="/hans/一程子">一程子</a></span><span class="crefe"><a href="/hans/一筹莫展">一筹莫展</a></span><span class="crefe"><a href="/hans/一触即发">一触即发</a></span><span class="crefe"><a href="/hans/一触即溃">一触即溃</a></span><span class="crefe"><a href="/hans/一锤定音">一锤定音</a></span><span class="crefe"><a href="/hans/一锤子买卖">一锤子买卖</a></span><span class="crefe"><a href="/hans/一次方程">一次方程</a></span><span class="crefe"><a href="/hans/一次性">一次性</a></span><span class="crefe"><a href="/hans/一蹴而就">一蹴而就</a></span><span class="crefe"><a href="/hans/一搭两用儿">一搭两用儿</a></span><span class="crefe"><a href="/hans/一大早儿">一大早儿</a></span><span class="crefe"><a href="/hans/一代">一代</a></span><span class="crefe"><a href="/hans/一带">一带</a></span><span class="crefe"><a href="/hans/一旦">一旦</a></span><span class="crefe"><a href="/hans/一刀两断">一刀两断</a></span><span class="crefe"><a href="/hans/一刀切">一刀切</a></span><span class="crefe"><a href="/hans/一道">一道</a></span><span class="crefe"><a href="/hans/一得">一得</a></span><span class="crefe"><a href="/hans/一得之功">一得之功</a></span><span class="crefe"><a href="/hans/一得之愚">一得之愚</a></span><span class="crefe"><a href="/hans/一点">一点</a></span><span class="crefe"><a href="/hans/一点儿">一点儿</a></span><span class="crefe"><a href="/hans/一丁点儿">一丁点儿</a></span><span class="crefe"><a href="/hans/一定">一定</a></span><span class="crefe"><a href="/hans/一定之规">一定之规</a></span><span class="crefe"><a href="/hans/一度">一度</a></span><span class="crefe"><a href="/hans/一段">一段</a></span><span class="crefe"><a href="/hans/一堆">一堆</a></span><span class="crefe"><a href="/hans/一而再、再而三">一而再、再而三</a></span><span class="crefe"><a href="/hans/一二">一二</a></span><span class="crefe"><a href="/hans/一发">一发</a></span><span class="crefe"><a href="/hans/一发">一发</a></span><span class="crefe"><a href="/hans/一发千钧">一发千钧</a></span><span class="crefe"><a href="/hans/一帆风顺">一帆风顺</a></span><span class="crefe"><a href="/hans/一反常态">一反常态</a></span><span class="crefe"><a href="/hans/一分">一分</a></span><span class="crefe"><a href="/hans/一分为二">一分为二</a></span><span class="crefe"><a href="/hans/一风吹">一风吹</a></span><span class="crefe"><a href="/hans/一副">一副</a></span><span class="crefe"><a href="/hans/一概">一概</a></span><span class="crefe"><a href="/hans/一概而论">一概而论</a></span><span class="crefe"><a href="/hans/一干二净">一干二净</a></span><span class="crefe"><a href="/hans/一个萝卜一个坑">一个萝卜一个坑</a></span><span class="crefe"><a href="/hans/一个心眼儿">一个心眼儿</a></span><span class="crefe"><a href="/hans/一共">一共</a></span><span class="crefe"><a href="/hans/一股劲儿">一股劲儿</a></span><span class="crefe"><a href="/hans/一股脑儿">一股脑儿</a></span><span class="crefe"><a href="/hans/一鼓作气">一鼓作气</a></span><span class="crefe"><a href="/hans/一官半职">一官半职</a></span><span class="crefe"><a href="/hans/一贯">一贯</a></span><span class="crefe"><a href="/hans/一棍子打死">一棍子打死</a></span><span class="crefe"><a href="/hans/一锅端">一锅端</a></span><span class="crefe"><a href="/hans/一锅粥">一锅粥</a></span><span class="crefe"><a href="/hans/一锅煮">一锅煮</a></span><span class="crefe"><a href="/hans/一国两制">一国两制</a></span><span class="crefe"><a href="/hans/一何">一何</a></span><span class="crefe"><a href="/hans/一哄而起">一哄而起</a></span><span class="crefe"><a href="/hans/一哄而上">一哄而上</a></span><span class="crefe"><a href="/hans/一忽儿">一忽儿</a></span><span class="crefe"><a href="/hans/一呼百应">一呼百应</a></span><span class="crefe"><a href="/hans/一晃">一晃</a></span><span class="crefe"><a href="/hans/一晃">一晃</a></span><span class="crefe"><a href="/hans/一会儿">一会儿</a></span><span class="crefe"><a href="/hans/一己">一己</a></span><span class="crefe"><a href="/hans/一技之长">一技之长</a></span><span class="crefe"><a href="/hans/一家之长">一家之长</a></span><span class="crefe"><a href="/hans/一家之主">一家之主</a></span><span class="crefe"><a href="/hans/一见倾心">一见倾心</a></span><span class="crefe"><a href="/hans/一见如故">一见如故</a></span><span class="crefe"><a href="/hans/一箭双雕">一箭双雕</a></span><span class="crefe"><a href="/hans/一介">一介</a></span><span class="crefe"><a href="/hans/一经">一经</a></span><span class="crefe"><a href="/hans/一举">一举</a></span><span class="crefe"><a href="/hans/一举两得">一举两得</a></span><span class="crefe"><a href="/hans/一蹶不振">一蹶不振</a></span><span class="crefe"><a href="/hans/一刻">一刻</a></span><span class="crefe"><a href="/hans/一孔之见">一孔之见</a></span><span class="crefe"><a href="/hans/一口">一口</a></span><span class="crefe"><a href="/hans/一口气">一口气</a></span><span class="crefe"><a href="/hans/一块">一块</a></span><span class="crefe"><a href="/hans/一块">一块</a></span><span class="crefe"><a href="/hans/一览">一览</a></span><span class="crefe"><a href="/hans/一览表">一览表</a></span><span class="crefe"><a href="/hans/一揽子">一揽子</a></span><span class="crefe"><a href="/hans/一劳永逸">一劳永逸</a></span><span class="crefe"><a href="/hans/一例">一例</a></span><span class="crefe"><a href="/hans/一连">一连</a></span><span class="crefe"><a href="/hans/一连串">一连串</a></span><span class="crefe"><a href="/hans/一了百了">一了百了</a></span><span class="crefe"><a href="/hans/一鳞半爪">一鳞半爪</a></span><span class="crefe"><a href="/hans/一溜儿">一溜儿</a></span><span class="crefe"><a href="/hans/一溜烟">一溜烟</a></span><span class="crefe"><a href="/hans/一路">一路</a></span><span class="crefe"><a href="/hans/一律">一律</a></span><span class="crefe"><a href="/hans/一落千丈">一落千丈</a></span><span class="crefe"><a href="/hans/一马当先">一马当先</a></span><span class="crefe"><a href="/hans/一马平川">一马平川</a></span><span class="crefe"><a href="/hans/一脉相承">一脉相承</a></span><span class="crefe"><a href="/hans/一毛不拔">一毛不拔</a></span><span class="crefe"><a href="/hans/一面">一面</a></span><span class="crefe"><a href="/hans/一面儿理">一面儿理</a></span><span class="crefe"><a href="/hans/一面之词">一面之词</a></span><span class="crefe"><a href="/hans/一面之交">一面之交</a></span><span class="crefe"><a href="/hans/一鸣惊人">一鸣惊人</a></span><span class="crefe"><a href="/hans/一瞑不视">一瞑不视</a></span><span class="crefe"><a href="/hans/一命呜呼">一命呜呼</a></span><span class="crefe"><a href="/hans/一模一样">一模一样</a></span><span class="crefe"><a href="/hans/一木难支">一木难支</a></span><span class="crefe"><a href="/hans/一目了然">一目了然</a></span><span class="crefe"><a href="/hans/一目十行">一目十行</a></span><span class="crefe"><a href="/hans/一男半女">一男半女</a></span><span class="crefe"><a href="/hans/一年到头">一年到头</a></span><span class="crefe"><a href="/hans/一年一度">一年一度</a></span><span class="crefe"><a href="/hans/一念之差">一念之差</a></span><span class="crefe"><a href="/hans/一诺千金">一诺千金</a></span><span class="crefe"><a href="/hans/一派">一派</a></span><span class="crefe"><a href="/hans/一盘棋">一盘棋</a></span><span class="crefe"><a href="/hans/一盘散沙">一盘散沙</a></span><span class="crefe"><a href="/hans/一瞥">一瞥</a></span><span class="crefe"><a href="/hans/一贫如洗">一贫如洗</a></span><span class="crefe"><a href="/hans/一暴十寒">一暴十寒</a></span><span class="crefe"><a href="/hans/一齐">一齐</a></span><span class="crefe"><a href="/hans/一起">一起</a></span><span class="crefe"><a href="/hans/一气">一气</a></span><span class="crefe"><a href="/hans/一窍不通">一窍不通</a></span><span class="crefe"><a href="/hans/一切">一切</a></span><span class="crefe"><a href="/hans/一清二白">一清二白</a></span><span class="crefe"><a href="/hans/一清二楚">一清二楚</a></span><span class="crefe"><a href="/hans/一穷二白">一穷二白</a></span><span class="crefe"><a href="/hans/一丘之貉">一丘之貉</a></span><span class="crefe"><a href="/hans/一人班">一人班</a></span><span class="crefe"><a href="/hans/一人飞升，仙及鸡犬">一人飞升，仙及鸡犬</a></span><span class="crefe"><a href="/hans/一人之心，千万人之心也">一人之心，千万人之心也</a></span><span class="crefe"><a href="/hans/一日">一日</a></span><span class="crefe"><a href="/hans/一日千里">一日千里</a></span><span class="crefe"><a href="/hans/一日三秋">一日三秋</a></span><span class="crefe"><a href="/hans/一日身死">一日身死</a></span><span class="crefe"><a href="/hans/一如">一如</a></span><span class="crefe"><a href="/hans/一如既往">一如既往</a></span><span class="crefe"><a href="/hans/一霎那">一霎那</a></span><span class="crefe"><a href="/hans/一身">一身</a></span><span class="crefe"><a href="/hans/一神教">一神教</a></span><span class="crefe"><a href="/hans/一生">一生</a></span><span class="crefe"><a href="/hans/一眚">一眚</a></span><span class="crefe"><a href="/hans/一时">一时</a></span><span class="crefe"><a href="/hans/一时半会儿">一时半会儿</a></span><span class="crefe"><a href="/hans/一事无成">一事无成</a></span><span class="crefe"><a href="/hans/一视同仁">一视同仁</a></span><span class="crefe"><a href="/hans/一手">一手</a></span><span class="crefe"><a href="/hans/一手一足">一手一足</a></span><span class="crefe"><a href="/hans/一手遮天">一手遮天</a></span><span class="crefe"><a href="/hans/一水儿">一水儿</a></span><span class="crefe"><a href="/hans/一顺儿">一顺儿</a></span><span class="crefe"><a href="/hans/一瞬">一瞬</a></span><span class="crefe"><a href="/hans/一丝不苟">一丝不苟</a></span><span class="crefe"><a href="/hans/一丝不挂">一丝不挂</a></span><span class="crefe"><a href="/hans/一丝一毫">一丝一毫</a></span><span class="crefe"><a href="/hans/一塌糊涂">一塌糊涂</a></span><span class="crefe"><a href="/hans/一套">一套</a></span><span class="crefe"><a href="/hans/一套">一套</a></span><span class="crefe"><a href="/hans/一体">一体</a></span><span class="crefe"><a href="/hans/一天">一天</a></span><span class="crefe"><a href="/hans/一条龙">一条龙</a></span><span class="crefe"><a href="/hans/一条心">一条心</a></span><span class="crefe"><a href="/hans/一同">一同</a></span><span class="crefe"><a href="/hans/一统">一统</a></span><span class="crefe"><a href="/hans/一通儿">一通儿</a></span><span class="crefe"><a href="/hans/一头">一头</a></span><span class="crefe"><a href="/hans/一头儿沉">一头儿沉</a></span><span class="crefe"><a href="/hans/一头热">一头热</a></span><span class="crefe"><a href="/hans/一吐为快">一吐为快</a></span><span class="crefe"><a href="/hans/一团和气">一团和气</a></span><span class="crefe"><a href="/hans/一团漆黑">一团漆黑</a></span><span class="crefe"><a href="/hans/一团糟">一团糟</a></span><span class="crefe"><a href="/hans/一推六二五">一推六二五</a></span><span class="crefe"><a href="/hans/一网打尽">一网打尽</a></span><span class="crefe"><a href="/hans/一往情深">一往情深</a></span><span class="crefe"><a href="/hans/一往无前">一往无前</a></span><span class="crefe"><a href="/hans/一望无际">一望无际</a></span><span class="crefe"><a href="/hans/一味">一味</a></span><span class="crefe"><a href="/hans/一文不名">一文不名</a></span><span class="crefe"><a href="/hans/一文不值">一文不值</a></span><span class="crefe"><a href="/hans/一问三不知">一问三不知</a></span><span class="crefe"><a href="/hans/一窝蜂">一窝蜂</a></span><span class="crefe"><a href="/hans/一无是处">一无是处</a></span><span class="crefe"><a href="/hans/一无所长">一无所长</a></span><span class="crefe"><a href="/hans/一五一十">一五一十</a></span><span class="crefe"><a href="/hans/一物降一物">一物降一物</a></span><span class="crefe"><a href="/hans/一息尚存">一息尚存</a></span><span class="crefe"><a href="/hans/一席话">一席话</a></span><span class="crefe"><a href="/hans/一系列">一系列</a></span><span class="crefe"><a href="/hans/一下">一下</a></span><span class="crefe"><a href="/hans/一下">一下</a></span><span class="crefe"><a href="/hans/一向">一向</a></span><span class="crefe"><a href="/hans/一笑置之">一笑置之</a></span><span class="crefe"><a href="/hans/一些">一些</a></span><span class="crefe"><a href="/hans/一泻千里">一泻千里</a></span><span class="crefe"><a href="/hans/一泻汪洋">一泻汪洋</a></span><span class="crefe"><a href="/hans/一心">一心</a></span><span class="crefe"><a href="/hans/一心一德">一心一德</a></span><span class="crefe"><a href="/hans/一心一意">一心一意</a></span><span class="crefe"><a href="/hans/一行">一行</a></span><span class="crefe"><a href="/hans/一言既出，驷马难追">一言既出，驷马难追</a></span><span class="crefe"><a href="/hans/一言九鼎">一言九鼎</a></span><span class="crefe"><a href="/hans/一言堂">一言堂</a></span><span class="crefe"><a href="/hans/一言为定">一言为定</a></span><span class="crefe"><a href="/hans/一言以蔽之">一言以蔽之</a></span><span class="crefe"><a href="/hans/一氧化碳">一氧化碳</a></span><span class="crefe"><a href="/hans/一样">一样</a></span><span class="crefe"><a href="/hans/一叶蔽目，不见泰山">一叶蔽目，不见泰山</a></span><span class="crefe"><a href="/hans/一叶知秋">一叶知秋</a></span><span class="crefe"><a href="/hans/一一">一一</a></span><span class="crefe"><a href="/hans/一衣带水">一衣带水</a></span><span class="crefe"><a href="/hans/一语破的">一语破的</a></span><span class="crefe"><a href="/hans/一元方程">一元方程</a></span><span class="crefe"><a href="/hans/一再">一再</a></span><span class="crefe"><a href="/hans/一早">一早</a></span><span class="crefe"><a href="/hans/一眨巴眼">一眨巴眼</a></span><span class="crefe"><a href="/hans/一朝">一朝</a></span><span class="crefe"><a href="/hans/一朝一夕">一朝一夕</a></span><span class="crefe"><a href="/hans/一针见血">一针见血</a></span><span class="crefe"><a href="/hans/一枕黄粱">一枕黄粱</a></span><span class="crefe"><a href="/hans/一阵">一阵</a></span><span class="crefe"><a href="/hans/一阵风">一阵风</a></span><span class="crefe"><a href="/hans/一阵子">一阵子</a></span><span class="crefe"><a href="/hans/一知半解">一知半解</a></span><span class="crefe"><a href="/hans/一直">一直</a></span><span class="crefe"><a href="/hans/一纸空文">一纸空文</a></span><span class="crefe"><a href="/hans/一致">一致</a></span><span class="crefe"><a href="/hans/一掷千金">一掷千金</a></span><span class="crefe"><a href="/hans/一柱擎天">一柱擎天</a></span><span class="crefe"><a href="/hans/一准">一准</a></span><span class="crefe"><a href="/hans/一字千金">一字千金</a></span><span class="crefe"><a href="/hans/一字一板">一字一板</a></span><span class="crefe"><a href="/hans/一总">一总</a></span><span class="crefe"><a href="/hans/一走了之">一走了之</a></span><span class="crefe"><a href="/hans/一卒之田">一卒之田</a></span></div>                    <div class="div copyright"> 【漢典】 </div>
+                    <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="gyjs" class="nr-box nr-box-shiyi gyjs" data-type-block="國語辭典">
+                  <div class="nr-box-header">
+                    <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 國語辭典</span></h2>
+                  </div>
+                  <div class="content definitions gnr">
+                    <div class="gycd">
+<div class="pz"><ruby><rbc><rb>一</rb></rbc><rtc><rt>ㄧ</rt></rtc><rtc><rt>yī <span class="ptr"><a class="audio_play_button i_volume-up ptr" data-src-mp3="//img.zdic.net/audio/gycd/zd/5837.ogg"></a></span> </rt></rtc></ruby></div>
+<div class="gycd-item"><span class="gc_cx">名</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">自然數的開始。如：「一、二、三&hellip;&hellip;。」大寫作「壹」。阿拉伯數字作「1」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">姓。如明代有一炫宗。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">二一四部首之一。</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">形</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">單個。</span><span class="gc_lz">如：「一人」、「一物兩用」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">相同、一致。</span><span class="gc_lz">如：「一模一樣」、「大小不<b>一</b>」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">專注的。</span><span class="gc_lz">如：「一心一意」、「專<b>一</b>不變」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">全、滿、整。</span><span class="gc_lz">如：「一身是汗」、「<b>一</b>屋子人」、「一身是膽」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">每、各。</span><span class="gc_lz">如：「一班五十人」、「<b>一</b>頁六百字」、「共派八隊，<b>一</b>隊二十人。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">一次。</span><span class="gc_lz">如：「一而再，再而三。」</span><span class="gc_yy">《禮記&middot;中庸》：「人<b>一</b>能之，己百之。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">另外的。</span><span class="gc_lz">如：「蟬，一名知了。」、「番茄，一名西紅柿。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">動</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">統一。</span><span class="gc_yy">《孟子&middot;梁惠王上》：「不嗜殺人者能<b>一</b>之。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">副</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">才、剛剛。</span><span class="gc_lz">如：「一聽就懂」、「天<b>一</b>亮，他就起來。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">偶然。</span><span class="gc_lz">如：「一不小心」、「<b>一</b>不留神」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">表示加強的動作或突然的現象。</span><span class="gc_lz">如：「把頭<b>一</b>扭」、「用手<b>一</b>摸」、「天氣<b>一</b>涼，就感冒了。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">概括。</span><span class="gc_lz">如：「一般來說」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">每每、每逢。</span><span class="gc_lz">如：「<b>一</b>想到那件事，她總是笑個不停。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">放在二疊字動詞之間，表行為是不費力或嘗試性的。</span><span class="gc_lz">如：「雙手動<b>一</b>動」、「問<b>一</b>問」、「隨便說一說」。</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">事物的某方面。</span><span class="gc_lz">如：「一則以喜，一則以憂。」、「<b>一</b>不沾親，二不帶故。」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">竟、乃。表示事出意外。</span><span class="gc_lz">如：「<b>一</b>至於斯」。</span><span class="gc_yy">《史記&middot;卷六八&middot;商君傳》：「嗟乎，為法之敝<b>一</b>至此哉！」</span></p></li>
+	<li>
+	<p class="def"><span class="gc_sy">皆。</span><span class="gc_yy">《荀子&middot;勸學》：「端而言，蠕而動，<b>一</b>可以為法則。」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">助</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">表示程度，加強語氣。</span><span class="gc_yy">《文選&middot;古詩十九首&middot;西北有高樓》：「上有絃歌聲，音響<b>一</b>何悲 。」</span><span class="gc_yy">《戰國策&middot;燕策<b>一</b>》：「因仰而弔齊王桉戈而郤曰：『此<b>一</b>何慶弔相隨之速也？』」</span></p></li>
+</ol></div>
+<div class="gycd-item"><span class="gc_cx">連</span>
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">或。</span><span class="gc_yy">《莊子&middot;應帝王》：「泰氏其臥徐徐，其覺于于，<b>一</b>以己為馬，<b>一</b>以己為牛。」</span></p></li>
+</ol></div>
+<div class="gycd-item">
+<ol>
+	<li>
+	<p class="def"><span class="gc_sy">（「一」字單用或在一詞一句的末尾，念陰平聲；在去聲字前，念陽平聲；在陰平、 陽平、上聲之前，念去聲。）​</span></p></li>
+</ol></div></div>                    <div class="div copyright"> 【漢典】 </div>
+                  </div>
+                </div>
+
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi kxzd" id="4E00_2" data-type-block="康熙字典" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=一" target="_blank">一</a>】
+                              一·康熙筆画：<a href="/zd/kx/bh/?bh=1" target="_blank">1</a>　·部外筆画：0</span>
+                              <input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" />                            </div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 《康熙字典》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions knr">
+						  
+						<div class="mob">【<a href="/zd/kx/?zm=子集上" target="_blank">子集上</a>】【<a href="/zd/kx/?zm=子集上&amp;bs=一" target="_blank">一</a>】
+                              一·康熙筆画：<a href="/zd/kx/bh/?bh=1" target="_blank">1</a>　·部外筆画：0</div>                               
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/kxzd/4E00.svg">						  <p>〔古文〕弌【唐韻】【韻會】於悉切【集韻】【正韻】益悉切，<img class="lazy k_img" data-original="//img.zdic.net/song/cn/20024.svg"><span class="k_txt">𠀤</span>漪入聲。【說文】惟初大始，道立於一。造分天地，化成萬物。【廣韻】數之始也，物之極也。【易&middot;繫辭】天一地二。【老子&middot;道德經】道生一，一生二。</p><p>又【廣韻】同也。【禮&middot;樂記】禮樂<img class="lazy k_img" data-original="//img.zdic.net/song/cn/206EC.svg"><span class="k_txt">𠛬</span>政，其極一也。【史記&middot;儒林傳】韓生推詩之意，而爲內外傳數萬言，其語頗與齊魯閒殊，然其歸一也。</p><p>又少也。【顏延之&middot;庭誥文】選書務一不尚煩密。【何承天&middot;答顏永嘉書】竊願吾子舍兼而遵一也。</p><p>又【增韻】純也。【易&middot;繫辭】天下之動貞夫一。【老子&middot;道德經】天得一以淸，地得一以寧，神得一以靈，谷得一以盈，萬物得一以生，侯王得一以爲天下正。</p><p>又均也。【唐書&middot;薛平傳】兵鎧完礪，徭賦均一。</p><p>又誠也。【中庸】所以行之者，一也。</p><p>又正一。【唐書&middot;司馬承楨傳】得陶隱居正一法，逮四世矣。</p><p>又一一。【韓非子&middot;內儲篇】南郭處士請爲齊宣王吹竽。宣王悅之，廩食以數百人。湣王立，好一一聽之，處士逃。【韓愈詩】一一欲誰憐。【蘇軾詩】好語似珠穿一一。</p><p>又【星經】天一星，在紫微宮門外。太一星，在天一南半度。</p><p>又太一，山名，卽終南山。一名太乙。</p><p>又三一。【前漢&middot;郊祀志】以太牢祀三一。【註】天一，地一，泰一。泰一者，天地未分元氣也。</p><p>又尺一，詔版也。【後漢&middot;<img class="lazy k_img" data-original="//img.zdic.net/song/cn/28EF0.svg"><span class="k_txt">𨻰</span>蕃傳】尺一選舉。【註】版長尺一，以寫詔書。</p><p>又百一，詩篇名，魏應璩著。</p><p>又姓，明一炫宗。</p><p>又三字姓。北魏有一那婁氏，後改婁氏。</p><p>又一二三作壹貳叄。【大學】壹是皆以修身爲本。【史記&middot;禮書】總一海內。【前漢&middot;霍光傳】作總壹。【六書故】今惟財用出納之簿書，用壹貳叄以防姦易。</p><p>又【韻補】叶於利切，音懿。【左思&middot;吳都賦】藿蒳豆蔲，薑彙非一。江蘺之屬，海苔之類。</p><p>又叶弦雞切，音兮。【參同契】白者金精，黑者水基。水者道樞，其數名一。</p>
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi swjz" id="4E00_3" data-type-block="说文解字" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container zib-title">
+                            <div class="label"><span class="res_t res_d res_s">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=一">一</a>】 </span><input type="checkbox" checked="checked" name="twbon" class="lcs_check" autocomplete="on" /></div>
+                          </div>
+                          <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 《说文解字》</span></h2>
+                        </div>
+                        
+                        <div class="content definitions snr">
+												<div class="mob">【<a href="/zd/sw/?swju=卷一">卷一</a>】【<a href="/zd/sw/?swju=卷一&amp;swbs=一">一</a>】</div>                          
+						                            <div class="swnr">
+                          <span class="swsm">《說文解字》</span><hr class="dichr">
+                          <img class="lazy kxtimg" data-original="//img.zdic.net/swxz/4E00.svg">                          <p>惟初太始，道立于一，造分天地，化成萬物。凡一之属皆从一。<img class="swtimg" src="//img.zdic.net/swxz/4E00_1.svg" />弌，古文一。于悉切</p>                          </div>
+                                                                              <div class="swnr">
+                          <span class="swsm">《說文解字注》</span><hr class="dichr">
+                          <p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E00_1.svg" /><span class="swbf">(一)</span><span class="ywyy">惟初大極，道立於一，造分天地，化成萬物。</span><span class="swdz">漢書曰：元元本本。數始於一。</span><span class="ywyy">凡一之屬皆从一。</span><span class="swdz">一之形，於六書爲指事。凡云凡某之屬皆从某者，自序所謂分别部居，不相襍廁也。爾雅、方言所以發明轉注假借。倉頡、訓纂、<img class="lazy k_img" data-original="//img.zdic.net/song/cn/23DA2.svg"><span class="k_txt">𣶢</span>熹及凡將、急就、元尙、飛龍、聖皇諸篇，僅以四言七言成文。皆不言字形原委，以字形爲書。俾學者因形以考音與義，實始於許，功莫大焉。於悉切。古音第十二部。○凡注言一部、二部，以至十七部者，謂古韵也。玉裁作六書音均表，識古韵凡十七部。自倉頡造字時至唐虞三代秦漢，以及許叔重造説文曰某聲，曰讀若某者，皆條理合一不紊，故旣用徐鉉切音矣。而又某字志之曰古音第幾部，又恐學者未見六書音均之書，不知其所謂，乃於説文十五篇之後，附六書音均表五篇，俾形聲相表裏，因耑推究，於古形、古音、古義可互求焉。</span></p><p><img class="lazy kxtimg" data-original="//img.zdic.net/xz/swdz/4E00_2.svg" /><span class="swbf">(弌)</span><span class="ywyy">古文一。</span><span class="swdz">凡言古文者，謂倉頡所作古文也。此書法後王，尊漢制，以小篆爲質，而兼錄古文、籒文。所謂今敘篆文，合以古籒也。小篆之於古，籒或仍之，或省改之。仍者十之八九，省改者十之一二而已。仍則小篆皆古、籒也，故不更出古、籒。省改則古、籒非小篆也，故更出之。一二三之本古文明矣，何以更出弌弍弎也，葢所謂卽古文而異者，當謂之古文奇字。</span></p>                          </div>
+                                                    <div class="div copyright"> 【漢典】</div>
+                          <div id='gg_cslot_1' class='am-default contentslot'> 
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+								 crossorigin="anonymous"></script>
+							<!-- auto_w -->
+							<ins class="adsbygoogle"
+								 style="display:block"
+								 data-ad-client="ca-pub-5789084355642416"
+								 data-ad-slot="8091693882"
+								 data-ad-format="auto"
+								 data-full-width-responsive="true"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="zdict">
+                  <div class="dictentry">
+                    <div class="dictlink">
+                      <div class="nr-box nr-box-shiyi yyfy" id="4E00_5" data-type-block="音韵方言" data-title-block="" data-num-block="">
+                        <div class="nr-box-header">
+                          <div class="zi-b-container res_s res_t res_d zib-title"> </div>
+                          <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 音韵方言</span></h2>
+                          </div>
+                        <div class="content definitions ynr">
+                        <p><span class="z_ts4">国际音标</span>  ji˥ <span class="z_ts4">唐代读音</span>  *qit qit<span class="z_ts4">日语读音</span>  HITOTSU HITOTABI HAJIME<span class="z_ts4">韩语罗马</span>  IL<span class="z_ts4">现代韩语</span>  일<span class="z_ts3">越南语</span>  nhất</p>						<p><span class="z_ts3">客家话</span>  [沙头角腔] jit7 [客语拼音字汇] yid5 [海陆腔] rit7 [宝安腔] jit7 [客英字典] jit7 [台湾四县腔] jit7 [梅县腔] jit7 [东莞腔] jit7 [陆丰腔] jit7<span class="z_ts2">粤语</span>  jat1<span class="z_ts3">潮州话</span>  zêg8(chêk)  ig4(ik)【揭阳】êg4</p>						<p><span class="z_ts3">近代音</span>  影母    齊微韻    入聲作上聲    一小空；影母    齊微韻    入聲作去聲    逸小空；<span class="z_ts3">中古音</span>  影母    質韻    入聲    一小韻    於悉切    三等    開口；<span class="z_ts3">上古音</span>  黄侃系统：影母    屑部   ；王力系统：影母    質部   ；</p>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/gh/一">官话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/jy/一">晋语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/wy/一">吴语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/hy/一">徽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/gy/一">赣语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/xy/一">湘语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/my/一">闽语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/yy/一">粤语</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ph/一">平话</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/ky/一">客语</a>   </div>
+                        <div class="fylink"><i class="fa fa-external-link-square"></i> <a href="/zd/yy/ys/一">韵书</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/sgy/一">上古音</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/yy/zgy/一">中古音</a>   </div>                        
+                          <div class="div copyright"> 【漢典】 </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <div class="zdict">
+                <div class="dictentry">
+                  <div class="nr-box nr-box-shiyi zyzx" data-type-block="字源字形">
+                    <div class="nr-box-header">
+                      <h2 class="h2_entry"><span class="orth">一</span><span class="span dictname"> 字源字形</span></h2>
+                       </div>
+                    <div class="content definitions znr">
+                    字源演变<hr class="dichr">
+                     <table class="zyyb">
+	<tbody>
+		<tr>
+			<td>甲骨文</td>
+			<td>金文</td>
+			<td>楚系簡帛</td>
+			<td>秦系簡牘</td>
+			<td>說文</td>
+			<td style="display:none">楷書</td>
+			<td style="display:none">楷書</td>
+			<td>楷書</td>
+		</tr>
+		<tr>
+			<td><a href="/zd/zx/jg/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/jiaguwen/41_E000.svg" /><span>「一」 鐵148.1</span></a></td>
+			<td><a href="/zd/zx/jw/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/jinwen/31_E000.svg" /><span>「一」 我方鼎</span><span>西周早期</span><span>集成2763</span></a></td>
+			<td><a href="/zd/zx/cx/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/51_E00D.svg" /><span>「一」 包2.259</span></a></td>
+			<td><a href="/zd/zx/qx/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/qinwenzi/71_E000.svg" /><span>「一」 睡.法4</span></a></td>
+			<td><a href="/zd/zx/xz/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_E000.svg" /><span>「弌」 說文古文</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td><a href="/hans/一" target="_blank"><img class="lazy ypic" data-original="//img.zdic.net/kai/tw/4E00.svg" /><span>「一」</span></a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/cx/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/chuwenzi/55_E058.svg" /><span>「弌」 郭.窮.14</span></a></td>
+			<td>&nbsp;</td>
+			<td><a href="/zd/zx/xz/一"><img class="lazy ypic" data-original="//img.zdic.net/zy/xiaozhuan/27_4E00.svg" /><span>「一」 說文‧一部</span></a></td>
+			<td style="display:none">&nbsp;</td>
+			<td style="display:none">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		
+	</tbody>
+</table>					 <div class="zylink"><i class="fa fa-external-link-square"></i> <a href="/zd/zx/jg/一">甲骨文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/jw/一">金文</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cx/一">楚系簡帛</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/qx/一">秦系簡牘</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/xz/一">說文小篆</a>  <i class="fa fa-external-link-square"></i> <a href="/zd/zx/cc/一">傳抄古文字</a>   </div>
+					 <div class="zxdb_b"><b>字形对比</b><hr class="dichr"><div class="zx1"><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/cn/4E00.svg" data-bd-imgshare-binded="1">内地</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/tw/4E00.svg" data-bd-imgshare-binded="1">台湾</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/hk/4E00.svg" data-bd-imgshare-binded="1">香港</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/jp/4E00.svg" data-bd-imgshare-binded="1">日本</div><div class="zx"><img class="lazy" data-original="//img.zdic.net/kai/kr/4E00.svg" data-bd-imgshare-binded="1">韩国</div> </div></div>                     
+                     <div class="ytz_b"><b>异体字</b><hr class="dichr"><div class="zx1"><div class='zx'><a href='/hans/壹' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/58F9.svg'><span>壹</span></a></div> <div class='zx'><a href='/hans/弌' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/5F0C.svg'><span>弌</span></a></div> <div class='zx'><a href='/hans/𠤪' target=_blank><img class='lazy ytz2' data-original='//img.zdic.net/song/cn/2092A.svg'><span>𠤪</span></a></div> </div></div>        
+                     
+                    </div>
+                    <div class="div copyright"> 【漢典】 </div>
+                    <div id='gg_cslot_2' class='am-default contentslot'> 
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+							 crossorigin="anonymous"></script>
+						<!-- auto_w -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-5789084355642416"
+							 data-ad-slot="8091693882"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div class="zdict">
+            <div class="dictentry">
+              <div class="nr-box nr-box-shiyi wytl" data-type-block="网友讨论">
+                <div class="zi-b-container">
+                <div class="bbs_link"><p>【<a id="w_b_1" data-id="1" data-classid="1">加载评论</a> 】   
+				【<a id="w_b_2" data-tid="7463">论坛讨论</a>】</p></div>
+                </div>
+                <div class="content definitions wnr">
+                <iframe id='iframe' width='100%' frameBorder='0' src='' scrolling='no'></iframe>
+                </div>
+                <div class="btmslot_a-container">
+                  <div id='gg_bslot_a' class='am-default contentslot'>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+						 crossorigin="anonymous"></script>
+					<!-- auto_w -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-5789084355642416"
+						 data-ad-slot="8091693882"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		</div>
+		</div>
+        </div>
+        </div>
+        </div>
+    
+    <div class="res_c_right">
+      <script src="/d/js/js/word_top_1.js"></script>  
+
+      <div id='gg_rslot' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+      
+      <script src="/d/js/js/book_top_1.js"></script>
+        
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同音字</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/祎">祎(yi1)</a></li><li><a href="/hans/㥋">㥋(yi1)</a></li><li><a href="/hans/撎">撎(yi1)</a></li><li><a href="/hans/醫">醫(yi1)</a></li><li><a href="/hans/黟">黟(yi1)</a></li><li><a href="/hans/漪">漪(yi1)</a></li><li><a href="/hans/畩">畩(yi1)</a></li><li><a href="/hans/𠄱">𠄱(yi1)</a></li><li><a href="/hans/壹">壹(yi1)</a></li><li><a href="/hans/郼">郼(yi1)</a></li><li><a href="/hans/瑿">瑿(yi1)</a></li><li><a href="/hans/辷">辷(yi1)</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同部首</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠁔">𠁔</a></li><li><a href="/hans/𠀼">𠀼</a></li><li><a href="/hans/𠁝">𠁝</a></li><li><a href="/hans/𠀾">𠀾</a></li><li><a href="/hans/車">車</a></li><li><a href="/hans/丆">丆</a></li><li><a href="/hans/业">业</a></li><li><a href="/hans/𠀝">𠀝</a></li><li><a href="/hans/𠀅">𠀅</a></li><li><a href="/hans/𠀙">𠀙</a></li><li><a href="/hans/𠀤">𠀤</a></li><li><a href="/hans/𠁜">𠁜</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">同笔画</div>
+      <div class="yczsl-description">
+        <ul class="tyz">
+          <ol>
+            <li><a href="/hans/𠃍">𠃍</a></li><li><a href="/hans/𠄌">𠄌</a></li><li><a href="/hans/丶">丶</a></li><li><a href="/hans/𠃌">𠃌</a></li><li><a href="/hans/乙">乙</a></li><li><a href="/hans/亅">亅</a></li><li><a href="/hans/𠃉">𠃉</a></li><li><a href="/hans/丿">丿</a></li><li><a href="/hans/丨">丨</a></li><li><a href="/hans/乚">乚</a></li><li><a href="/hans/乀">乀</a></li><li><a href="/hans/𠃑">𠃑</a></li>          </ol>
+        </ul>
+      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">小学古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">不解藏踪迹，浮萍<span>一</span>道开。</div><div class="gscdr">唐·白居易 《池上》</div><div class="gscdl">欲穷千里目，更上<span>一</span>层楼。</div><div class="gscdr">唐·王之涣 《登鹳雀楼》</div><div class="gscdl">碧玉妆成<span>一</span>树高，万条垂下绿丝绦。</div><div class="gscdr">唐·贺知章 《咏柳》</div><div class="gscdl">离离原上草，<span>一</span>岁<span>一</span>枯荣。</div><div class="gscdr">《赋得古原草送别》（节选）</div><div class="gscdl">两个黄鹂鸣翠柳，<span>一</span>行白鹭上青天。</div><div class="gscdr">唐·杜甫 《绝句》</div><div class="gscdl">春种<span>一</span>粒粟，秋收万颗子。</div><div class="gscdr">《悯农》（其一）</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+
+<div class="lie_x blan_x">
+  <div class="yczsl sibox prev hdgy-box">
+    <div class="yczsl-content">
+      <div class="yczsl-title">初中古诗词</div>
+      <div class="yczsl-description">
+			<div class="gscdl">潮平两岸阔，风正<span>一</span>帆悬。</div><div class="gscdr">唐·王湾 《次北固山下》</div><div class="gscdl">——《为政》子曰：“贤哉，回也！<span>一</span>箪食，<span>一</span>瓢饮，在陋巷，人不堪其忧，回也不改其乐。贤哉，回也！”</div><div class="gscdr">先秦·孔子弟子及其再传弟子 《《论语》十二章》</div><div class="gscdl">不知何处吹芦管，<span>一</span>夜征人尽望乡。</div><div class="gscdr">唐·李益 《夜上受降城闻笛》</div><div class="gscdl"><span>一</span>屠晚归，担中肉尽，止有剩骨。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl"><span>一</span>狼得骨止，<span>一</span>狼仍从。</div><div class="gscdr">蒲松龄《狼三则·其二》</div><div class="gscdl">少时，<span>一</span>狼径去，其<span>一</span>犬坐于前。</div><div class="gscdr">蒲松龄《狼三则·其二》</div>      </div>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div> 
+        
+
+      <div id='gg_rslot2' class='am-default '>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5789084355642416"
+			 crossorigin="anonymous"></script>
+		<!-- auto_square -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-5789084355642416"
+			 data-ad-slot="9472864794"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+      </div>
+    </div>
+  </div>
+  <div class='clear'></div>
+</main>
+<footer>
+  <div class='footer_top'></div>
+  <div class='footer_content'>
+    <div class="main-content">
+	  <div class="footer_block">
+        <ul>
+          <li class="current"><a href="https://support.qq.com/products/315677"> 意 见 反 馈 </a></li>
+          <li><a href="https://support.qq.com/products/315677"> 联 系 我 们 </a></li>
+		  <li><a href="/aboutus/"> 关 于 汉 典 </a></li>
+          <li><a href="/aboutus/disclaimer.htm"> 免 责 声 明 </a></li>
+		</ul>
+      </div>
+      <div class="footer_block">
+        <ul>
+		  <li class="current"> <a title="粤ICP备10071303号" href="https://beian.miit.gov.cn/">粤ICP备10071303号</a> </li>
+          <li> <a href="https://www.facebook.com/zdict" title="Facebook">ZDIC Facebook</a> </li>
+          <li> <a href="https://twitter.com/zdic" title="Twitter">ZDIC Twitter</a> </li>
+		  <li> <a href="http://jq.qq.com/?_wv=1027&k=UgXeEW" title="QQ group">Qgroup:203589259</a> </li>
+          <li> WX:zdicwx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class='footer_bottom'> &copy; 汉典 </div>
+</footer>
+<script type="text/javascript" src="/code_common.js"></script><script type="text/javascript" src="/ll_gp.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){$('.gifs').gifplayer();});
+  $(function() {$("img").lazyload({effect: "fadeIn"});});
+  $(document).ready(function(e) {
+    $('input').lc_switch("图","文");
+    $('body').delegate('.lcs_check', 'lcs-statuschange', function() {
+		var status = ($(this).is(':checked')) ? 'checked' : 'unchecked';
+    });
+	
+    $('body').delegate('.lcs_check', 'lcs-on', function() {
+		$(".k_img").css("display", "inline");
+		$(".k_txt").css("display", "none");
+    });
+		
+    $('body').delegate('.lcs_check', 'lcs-off', function() {
+		$(".k_img").css("display", "none");
+		$(".k_txt").css("display", "inline");
+    });
+  });
+
+  </script>
+<script src="/e/public/onclick/?enews=donews&classid=14&id=1"></script>
+</body>
+</html>
