@@ -186,11 +186,11 @@ async def main():
                 mb_data[f'{hz}'] = { 'm':  py[0] + bh_parsed }
                 count += 1
 
-    print(f'{mb_data}')
+    # print(f'{mb_data}')
     async with aiofiles.open(f"./mb.txt", mode="w") as f:
         for k, v in mb_data.items():
             m = v['m']
-            await f.write(f"{k} {m}\n")
+            await f.write(f"{m} {k}\n")
 
 
 asyncio.run(main())
