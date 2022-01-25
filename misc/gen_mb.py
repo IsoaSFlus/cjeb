@@ -92,6 +92,30 @@ async def get_py(zdic_data, hz):
 async def get_bihua(zdic_data, hz):
     return zdic_data[hz]['bihua']
 
+async def check_special_part(zdic_data, hz):
+    if hz in {'钅'}:
+        return 'z'
+    elif hz in {'艹'}:
+        return 'b'
+    elif hz in {'亻'}:
+        return 'f'
+    elif hz in {'氵'}:
+        return 'c'
+    elif hz in {'日'}:
+        return 's'
+    elif hz in {'月'}:
+        return 'd'
+    elif hz in {'口'}:
+        return 'l'
+    elif hz in {'土'}:
+        return 'v'
+    elif hz in {'木'}:
+        return 'x'
+    elif hz in {'扌'}:
+        return 'u'
+    else:
+        return ''
+
 async def ids_parser_inner(zd, ids_string, start):
     if ids_string[start] in ids_map:
         ret = ""
@@ -102,7 +126,9 @@ async def ids_parser_inner(zd, ids_string, start):
             ret = ret + bh
         return ret, i
     else:
-        return await get_bihua(zd, ids_string[start]), start + 1
+        ret = await check_special_part(zd, ids_string[start])
+        return ret + (await get_bihua(zd, ids_string[start])), start + 1
+
 
 
 async def ids_parser(zd, ids_string):
@@ -119,8 +145,23 @@ async def ids_parser(zd, ids_string):
     else:
         return ""
     # keya = await bihua_parser(ret[0][0] + ret[1][0])
-    keya = await bihua_parser(ret[0])
-    keyb = await bihua_parser(ret[1])
+    if ret[0][0].isdigit():
+        bh = ""
+        for b in ret[0]:
+            if b.isdigit():
+                bh = bh + b
+        keya = await bihua_parser(bh)
+    else:
+        keya = ret[0][0]
+
+    if ret[1][0].isdigit():
+        bh = ""
+        for b in ret[1]:
+            if b.isdigit():
+                bh = bh + b
+        keyb = await bihua_parser(bh)
+    else:
+        keyb = ret[1][0]
 
     return k + keya[0] + keyb[0]
 
