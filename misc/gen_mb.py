@@ -366,6 +366,13 @@ class GenMB:
                     else:
                         mb_stats[m] = 1
                     await f.write(f"{m} {k}\n")
+        cp = 99999999
+        async with aiofiles.open(f"./mb_rime.txt", mode="w") as f:
+            for k, v in mb_data.items():
+                ms = v['m']
+                for m in ms:
+                    await f.write(f"{k}\t{m}\t{cp}\n")
+                    cp -= 1
 
 
 
