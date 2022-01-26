@@ -86,7 +86,8 @@ async def get_py(zdic_data, hz):
                 ret.append(py_dropped[1:])
             else:
                 ret.append(py_dropped[2:])
-        py_list.append((ret, sd))
+        # py_list.append((ret, sd))
+        py_list.append(ret)
     return py_list
 
 async def get_bihua(zdic_data, hz):
@@ -236,89 +237,140 @@ async def bihua_parser(bihua_string):
         ret = ret + "b"
     return ret
 
-
-async def main():
-    mb_data = dict()
-    yunmu_stats = dict()
-    zd_data = ""
-    async with aiofiles.open("zdic_data.json", mode="r") as f:
-        zd_data = json.loads(await f.read())
-
-    async with aiofiles.open("ids_data/ids.txt", mode="r") as ids_file:
-        count = 0
-        ids_data = await ids_file.read()
+async def sort_danzi():
+    async with aiofiles.open("danzi_freq.txt", mode="r") as f:
+        ma = re.findall(r"[0-9]\s(\S{1})\s([0-9]+)\s", await f.read())
+        freq = { k: int(v) for k, v in ma }
+        ty7k = list()
         async with aiofiles.open("ty7k/words.txt", mode="r") as f:
             async for line in f:
                 hz = line.strip()
-                ma = re.search(r"U\S+\s+(" + hz + r")\s+([^\[\s]+)", ids_data)
-                ids_string = ma.group(2)
-                py_list = await get_py(zd_data, hz)
-                bh_parsed = ""
-                if zd_data[hz]['struct'] == "单一结构" or zd_data[hz]['struct'] == "独体字":
-                    bh_parsed = "g" + (await bihua_parser(await get_bihua(zd_data, hz)))[:2]
-                else:
-                    try:
-                        bh_parsed = await ids_parser(zd_data, ids_string)
-                    except:
-                        print(f'{count}: {hz} - {ids_string}')
-                if bh_parsed == "":
-                    bh_parsed = "g" + (await bihua_parser(await get_bihua(zd_data, hz)))[:2]
-                m = set()
-                py_set = set()
-                yunmu_groups = [
-                    {'a',  'ai',  'ao',  'ou',  'ei'},
-                    {'o',  'an',  'ang', 'in',  'ing'},
-                    {'e',  'en',  'eng',  'un',  'ong'},
-                    {'i',  'ia',  'ie',  'iu'},
-                    {'u',  'uo',  'ua',  'ui',  'ue', 've'},
-                    {'v',  'iao',  'iang',  'ian',  'iong', 'uang', 'uai', 'uan'}
-                ]
-                for py, sd in py_list:
-                    py_set.add((py[0], py[1]))
-                for py in py_set:
-                    py1 = py[0]
-                    map_key1 = ['a', 's', 'd', 'f', 'c', 'v']
-                    map_key2 = ['h', 'j', 'k', 'l', 'n', 'm']
-                    if bh_parsed[0] == 's':
-                        i = 5
-                        for ii, g in enumerate(yunmu_groups):
-                            if py[1] in g:
-                                i = ii
-                                break
-                        m.add(py1 + map_key1[i] + bh_parsed[1:])
-                    elif bh_parsed[0] == 'd':
-                        i = 5
-                        for ii, g in enumerate(yunmu_groups):
-                            if py[1] in g:
-                                i = ii
-                                break
-                        m.add(py1 + map_key2[i] + bh_parsed[1:])
+                if not hz in freq:
+                    freq[hz] = 1
+                ty7k.append(hz)
+        return sorted(ty7k, key=lambda item: freq[item], reverse=True)
+
+
+class GenMB:
+    def __init__(self):
+        self.yunmu_groups = [
+            {'a',  'ai',  'ao',  'ou',  'ei'},
+            {'o',  'an',  'ang', 'in',  'ing'},
+            {'e',  'en',  'eng',  'un',  'ong'},
+            {'i',  'ia',  'ie',  'iu'},
+            {'u',  'uo',  'ua',  'ui',  'ue', 've'},
+            {'v',  'iao',  'iang',  'ian',  'iong', 'uang', 'uai', 'uan'}
+        ]
+
+    async def get_code(self, hz, py_list):
+        ma = re.search(r"U\S+\s+(" + hz + r")\s+([^\[\s]+)", self.ids_data)
+        ids_string = ma.group(2)
+        if self.zd_data[hz]['struct'] == "单一结构" or self.zd_data[hz]['struct'] == "独体字":
+            bh_parsed = "g" + (await bihua_parser(await get_bihua(self.zd_data, hz)))[:2]
+        else:
+            try:
+                bh_parsed = await ids_parser(self.zd_data, ids_string)
+            except:
+                print(f'{count}: {hz} - {ids_string}')
+        if bh_parsed == "":
+            bh_parsed = "g" + (await bihua_parser(await get_bihua(self.zd_data, hz)))[:2]
+        m = set()
+        for py in py_list:
+            py1 = py[0]
+            map_key1 = ['a', 's', 'd', 'f', 'c', 'v']
+            map_key2 = ['h', 'j', 'k', 'l', 'n', 'm']
+            if bh_parsed[0] == 's':
+                i = 5
+                for ii, g in enumerate(self.yunmu_groups):
+                    if py[1] in g:
+                        i = ii
+                        break
+                m.add(py1 + map_key1[i] + bh_parsed[1:])
+            elif bh_parsed[0] == 'd':
+                i = 5
+                for ii, g in enumerate(self.yunmu_groups):
+                    if py[1] in g:
+                        i = ii
+                        break
+                m.add(py1 + map_key2[i] + bh_parsed[1:])
+            else:
+                m.add(py1 + bh_parsed)
+        return m
+
+    async def run(self):
+        mb_data = dict()
+        async with aiofiles.open("zdic_data.json", mode="r") as f:
+            self.zd_data = json.loads(await f.read())
+
+        async with aiofiles.open("ids_data/ids.txt", mode="r") as ids_file:
+            self.ids_data = await ids_file.read()
+
+        count = 0
+        for hz in await sort_danzi():
+            py_list = await get_py(self.zd_data, hz)
+            mb_data[hz] = { 'm':  await self.get_code(hz, py_list) }
+            count += 1
+
+        async with aiofiles.open("./cizu.txt", mode="r") as f:
+            cizu_data = await f.read()
+        async with aiofiles.open("./corpus/corpus_words.txt", mode="r") as f:
+            ma = re.findall(r"[0-9]\s(\S{2,4})\s[a-z]+\s", await f.read())
+            for i, cizu in enumerate(ma):
+                if i > 3000:
+                    break
+                codes = list()
+                ma = re.search(r"\s" + cizu + r"\s[0-9]+\s([a-z']+)", cizu_data)
+                try:
+                    py_list = ma.group(1).split("'")
+                except:
+                    # print(cizu)
+                    continue
+                for i, py in enumerate(py_list):
+                    py_parsed = list()
+                    py_parsed.append(py[0])
+                    yunmu = ['a', 'o', 'e', 'i', 'u', 'v']
+                    if py[0] in yunmu or py[0] in py_n or py[0] in py_m:
+                        py_parsed.append(py[0:])
                     else:
-                        m.add(py1 + bh_parsed)
+                        if py[1] != "h":
+                            py_parsed.append(py[1:])
+                        else:
+                            py_parsed.append(py[2:])
+                    try:
+                        co = await self.get_code(cizu[i], [py_parsed, ])
+                        for c in co:
+                            codes.append(c)
+                    except:
+                        print(f'{i} {cizu}')
+                cizu_code = ""
+                for i, hz in enumerate(cizu):
+                    if i == 0:
+                        cizu_code = codes[i]
+                    elif i == 1:
+                        cizu_code = cizu_code[0:2] + codes[i][0:2]
+                    elif i == 2:
+                        cizu_code = cizu_code[0:3] + codes[i][0]
+                    elif i == 3:
+                        cizu_code = cizu_code[0] + cizu_code[2] + cizu_code[3] + codes[i][0]
 
-                mb_data[hz] = { 'm':  m }
-                count += 1
+                mb_data[cizu] = { 'm':  { cizu_code, } }
 
-    # print(f'{mb_data}')
-    mb_stats = dict()
-    async with aiofiles.open(f"./mb.txt", mode="w") as f:
-        for k, v in mb_data.items():
-            ms = v['m']
-            for m in ms:
-                if m in mb_stats:
-                    mb_stats[m] += 1
-                else:
-                    mb_stats[m] = 1
-                await f.write(f"{m} {k}\n")
-
-    print({k: v for k, v in sorted(mb_stats.items(), key=lambda item: item[1])})
-    # print({k: v for k, v in sorted(yunmu_stats.items(), key=lambda item: item[1])})
-    # c = 0
-    # for k, v in yunmu_stats.items():
-    #     c = c + v
-    # print(c)
+        # print(f'{mb_data}')
+        mb_stats = dict()
+        async with aiofiles.open(f"./mb.txt", mode="w") as f:
+            for k, v in mb_data.items():
+                ms = v['m']
+                for m in ms:
+                    if m in mb_stats:
+                        mb_stats[m] += 1
+                    else:
+                        mb_stats[m] = 1
+                    await f.write(f"{m} {k}\n")
 
 
 
+        print({k: v for k, v in sorted(mb_stats.items(), key=lambda item: item[1])})
 
-asyncio.run(main())
+
+gen_mb = GenMB()
+asyncio.run(gen_mb.run())
