@@ -261,6 +261,25 @@ class GenMB:
             {'u',  'uo',  'ua',  'ui',  'ue', 've'},
             {'v',  'iao',  'iang',  'ian',  'iong', 'uang', 'uai', 'uan'}
         ]
+        self.fast_code = {
+            "的": "d",
+            "一": "y",
+            "不": "b",
+            "是": "s",
+            "人": "r",
+            "在": "z",
+            "有": "yu",
+            "我": "w",
+            "他": "t",
+            "和": "h",
+            "而": "e",
+            "你": "n",
+            "那": "na",
+            "可": "k",
+            "啊": "a",
+            "了": "l",
+            "这": "v",
+        }
 
     async def get_code(self, hz, py_list):
         ma = re.search(r"U\S+\s+(" + hz + r")\s+([^\[\s]+)", self.ids_data)
@@ -308,15 +327,18 @@ class GenMB:
         count = 0
         for hz in await sort_danzi():
             py_list = await get_py(self.zd_data, hz)
-            mb_data[hz] = { 'm':  await self.get_code(hz, py_list) }
+            m = await self.get_code(hz, py_list)
+            if hz in self.fast_code:
+                m.add(self.fast_code[hz])
+            mb_data[hz] = { 'm': m }
             count += 1
 
         async with aiofiles.open("./cizu.txt", mode="r") as f:
             cizu_data = await f.read()
-        async with aiofiles.open("./corpus/corpus_words.txt", mode="r") as f:
-            ma = re.findall(r"[0-9]\s(\S{2,4})\s[a-z]+\s", await f.read())
+        async with aiofiles.open("./corpus/words100000.txt", mode="r") as f:
+            ma = re.findall(r"(\S{2,4})\s[a-z]+\s", await f.read())
             for i, cizu in enumerate(ma):
-                if i > 3000:
+                if i > 9000:
                     break
                 codes = list()
                 ma = re.search(r"\s" + cizu + r"\s[0-9]+\s([a-z']+)", cizu_data)
@@ -347,6 +369,7 @@ class GenMB:
                     if i == 0:
                         cizu_code = codes[i]
                     elif i == 1:
+                        # cizu_code = cizu_code[0:2] + codes[i][0] + codes[i][-1]
                         cizu_code = cizu_code[0:2] + codes[i][0:2]
                     elif i == 2:
                         cizu_code = cizu_code[0:3] + codes[i][0]
@@ -366,12 +389,12 @@ class GenMB:
                     else:
                         mb_stats[m] = 1
                     await f.write(f"{m} {k}\n")
-        cp = 99999999
+        cp = 99454797
         async with aiofiles.open(f"./mb_rime.txt", mode="w") as f:
             for k, v in mb_data.items():
                 ms = v['m']
                 for m in ms:
-                    await f.write(f"{k}\t{m}\t{cp}\n")
+                    await f.write(f"{k}\t{m}\n")
                     cp -= 1
 
 
