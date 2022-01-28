@@ -102,7 +102,7 @@ async def check_special_part(zdic_data, hz):
         return 'f'
     elif hz in {'氵'}:
         return 'c'
-    elif hz in {'日'}:
+    elif hz in {'日', '犭'}:
         return 's'
     elif hz in {'月'}:
         return 'd'
@@ -114,21 +114,32 @@ async def check_special_part(zdic_data, hz):
         return 'x'
     elif hz in {'扌'}:
         return 'u'
+    elif hz in {'山', '𧾷'}:
+        return 'n'
+    elif hz in {'目', }:
+        return 'a'
+    elif hz in {'纟', }:
+        return 'e'
+    elif hz in {'讠', }:
+        return 'w'
     else:
         return ''
 
-async def ids_parser_inner(zd, ids_string, start):
+async def ids_parser_inner(zd, ids_string, start, nosp=False):
     if ids_string[start] in ids_map:
         ret = ""
         i = start + 1
         n = ids_map[ids_string[start]]['n']
         for ii in range(n):
-            bh, i = await ids_parser_inner(zd, ids_string, i)
+            bh, i = await ids_parser_inner(zd, ids_string, i, nosp)
             ret = ret + bh
         return ret, i
     else:
-        ret = await check_special_part(zd, ids_string[start])
-        return ret + (await get_bihua(zd, ids_string[start])), start + 1
+        if nosp != True:
+            sp_key = await check_special_part(zd, ids_string[start])
+        else:
+            sp_key = ""
+        return sp_key + (await get_bihua(zd, ids_string[start])), start + 1
 
 
 
@@ -141,7 +152,11 @@ async def ids_parser(zd, ids_string):
         k = ids_map[ids_string[i]]['k']
         i = i + 1
         for ii in range(n):
-            bh, i = await ids_parser_inner(zd, ids_string, i)
+            if ii == 0:
+                nosp = False
+            else:
+                nosp = True
+            bh, i = await ids_parser_inner(zd, ids_string, i, nosp)
             ret.append(bh)
     else:
         return ""
@@ -279,6 +294,7 @@ class GenMB:
             "啊": "a",
             "了": "l",
             "这": "v",
+            "们": "m",
         }
 
     async def get_code(self, hz, py_list):
@@ -338,7 +354,7 @@ class GenMB:
         async with aiofiles.open("./corpus/words100000.txt", mode="r") as f:
             ma = re.findall(r"(\S{2,4})\s[a-z]+\s", await f.read())
             for i, cizu in enumerate(ma):
-                if i > 9000:
+                if i >= 9000:
                     break
                 codes = list()
                 ma = re.search(r"\s" + cizu + r"\s[0-9]+\s([a-z']+)", cizu_data)
@@ -389,6 +405,22 @@ class GenMB:
                     else:
                         mb_stats[m] = 1
                     await f.write(f"{m} {k}\n")
+        # mb_stats = dict()
+        # async with aiofiles.open(f"./mb.txt", mode="w") as f:
+        #     for k, v in mb_data.items():
+        #         ms = v['m']
+        #         for m1 in ms:
+        #             if len(m1) >= 3:
+        #                 m = m1[2]
+        #             else:
+        #                 continue
+        #             if m == 'u':
+        #                 print(k)
+        #             if m in mb_stats:
+        #                 mb_stats[m] += 1
+        #             else:
+        #                 mb_stats[m] = 1
+        #             await f.write(f"{m} {k}\n")
         cp = 99454797
         async with aiofiles.open(f"./mb_rime.txt", mode="w") as f:
             for k, v in mb_data.items():
@@ -396,7 +428,6 @@ class GenMB:
                 for m in ms:
                     await f.write(f"{k}\t{m}\n")
                     cp -= 1
-
 
 
         print({k: v for k, v in sorted(mb_stats.items(), key=lambda item: item[1])})
