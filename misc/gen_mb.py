@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import asyncio, aiofiles, pathlib, aiohttp
-import re, json
+import re, json, traceback
 import random
 
 ids_map = {
@@ -125,61 +125,9 @@ async def check_special_part(zdic_data, hz):
     else:
         return ''
 
-async def ids_parser_inner(zd, ids_string, start, nosp=False):
-    if ids_string[start] in ids_map:
-        ret = ""
-        i = start + 1
-        n = ids_map[ids_string[start]]['n']
-        for ii in range(n):
-            bh, i = await ids_parser_inner(zd, ids_string, i, nosp)
-            ret = ret + bh
-        return ret, i
-    else:
-        if nosp != True:
-            sp_key = await check_special_part(zd, ids_string[start])
-        else:
-            sp_key = ""
-        return sp_key + (await get_bihua(zd, ids_string[start])), start + 1
 
 
 
-async def ids_parser(zd, ids_string):
-    # print(ids_string)
-    ret = []
-    i = 0
-    if ids_string[i] in ids_map:
-        n = ids_map[ids_string[i]]['n']
-        k = ids_map[ids_string[i]]['k']
-        i = i + 1
-        for ii in range(n):
-            if ii == 0:
-                nosp = False
-            else:
-                nosp = True
-            bh, i = await ids_parser_inner(zd, ids_string, i, nosp)
-            ret.append(bh)
-    else:
-        return ""
-    # keya = await bihua_parser(ret[0][0] + ret[1][0])
-    if ret[0][0].isdigit():
-        bh = ""
-        for b in ret[0]:
-            if b.isdigit():
-                bh = bh + b
-        keya = await bihua_parser(bh)
-    else:
-        keya = ret[0][0]
-
-    if ret[1][0].isdigit():
-        bh = ""
-        for b in ret[1]:
-            if b.isdigit():
-                bh = bh + b
-        keyb = await bihua_parser(bh)
-    else:
-        keyb = ret[1][0]
-
-    return k + keya[0] + keyb[0]
 
 
 async def bihua_parser(bihua_string):
@@ -296,44 +244,148 @@ class GenMB:
             "这": "v",
             "们": "m",
         }
+        self.special_ids_map = {
+            "⿰--": "a",
+            "⿰-⿰": "s",
+            "⿰-⿸": "d",
+            "⿰-⿳": "f",
+            "⿰⿱-": "c",
+            "⿱--": "h",
+            "⿱-⿰": "j",
+            "⿱-⿱": "k",
+            "⿱⿰-": "l",
+            "⿱⿱-": "n",
+        }
+
+    def get_ids_string(self, hz):
+        ma = re.search(r"U\S+\s+(" + hz + r")\s+([^\[\s]+)", self.ids_data)
+        ids_string = ma.group(2)
+        return ids_string
+
+    # bh_list i ids_tag
+    async def ids_parser_inner(self, ids_string, start, depth):
+        if ids_string[start] in ids_map:
+            ret = []
+            i = start + 1
+            n = ids_map[ids_string[start]]['n']
+            for ii in range(n):
+                bh_list, i, ids_tag = await self.ids_parser_inner(ids_string, i, depth - 1)
+                for bh in bh_list:
+                    ret.append(bh)
+            return ret, i, ids_string[start]
+        else:
+            sp_key = await check_special_part(self.zd_data, ids_string[start])
+            if sp_key != "":
+                return [sp_key, ], start + 1, "-"
+            try:
+                st = self.zd_data[ids_string[start]]['struct']
+                if st == "单一结构" or st == "独体字":
+                    return [await get_bihua(self.zd_data, ids_string[start]), ], start + 1, '-'
+            except:
+                pass
+            if depth >= 1:
+                sub_ids = self.get_ids_string(ids_string[start])
+                if sub_ids[0] in ids_map:
+                    bh_list, i, ids_tag = await self.ids_parser_inner(sub_ids, 0, depth - 1)
+                    return bh_list, start + 1, ids_tag
+                else:
+                    return [await get_bihua(self.zd_data, ids_string[start]), ], start + 1, '-'
+            else:
+                return [await get_bihua(self.zd_data, ids_string[start]), ], start + 1, '-'
+
+
+
+    async def ids_parser(self, ids_string):
+        # print(ids_string)
+        ret = []
+        ids_ret = ""
+        i = 0
+        if ids_string[i] in ids_map:
+            if ids_string[i] in ("⿰", "⿱"):
+                dep = 1
+            else:
+                dep = 1
+            ids_ret = ids_string[i]
+            n = ids_map[ids_string[i]]['n']
+            k = ids_map[ids_string[i]]['k']
+            i = i + 1
+            for ii in range(n):
+                bh_list, i, ids_tag = await self.ids_parser_inner(ids_string, i, dep)
+                ret.append(bh_list)
+                ids_ret = ids_ret + ids_tag
+        else:
+            return "" , "-"
+        # keya = await bihua_parser(ret[0][0] + ret[1][0])
+        parta = ret[0][0]
+        if parta[0].isdigit():
+            bh = ""
+            for b in parta:
+                if b.isdigit():
+                    bh = bh + b
+            keya = await bihua_parser(bh)
+        else:
+            keya = parta[0]
+
+        partb = ret[1][0]
+        if partb[0].isdigit():
+            bh = ""
+            for b in partb:
+                if b.isdigit():
+                    bh = bh + b
+            keyb = await bihua_parser(bh)
+        else:
+            keyb = partb
+
+        if k in ['s']:
+            if ids_ret in ("⿰-⿱",):
+                partc = ret[1][1]
+                if partc[0].isdigit():
+                    bh = ""
+                    for b in partc:
+                        if b.isdigit():
+                            bh = bh + b
+                    keyc = await bihua_parser(bh)
+                else:
+                    keyc = partc
+                return keya[0] + keyb[0] + keyc[0], ids_ret
+            if ids_ret in self.special_ids_map:
+                return self.special_ids_map[ids_ret] + keya[0] + keyb[0], ids_ret
+            return 'v' + keya[0] + keyb[0], ids_ret
+        if k in ['d']:
+            if ids_ret in self.special_ids_map:
+                return self.special_ids_map[ids_ret] + keya[0] + keyb[0], ids_ret
+            return 'm' + keya[0] + keyb[0], ids_ret
+
+
+        return k + keya[0] + keyb[0], ids_ret
 
     async def get_code(self, hz, py_list):
+        ids_ret = "-"
         ma = re.search(r"U\S+\s+(" + hz + r")\s+([^\[\s]+)", self.ids_data)
         ids_string = ma.group(2)
         if self.zd_data[hz]['struct'] == "单一结构" or self.zd_data[hz]['struct'] == "独体字":
             bh_parsed = "g" + (await bihua_parser(await get_bihua(self.zd_data, hz)))[:2]
         else:
             try:
-                bh_parsed = await ids_parser(self.zd_data, ids_string)
-            except:
-                print(f'{count}: {hz} - {ids_string}')
+                bh_parsed, idst = await self.ids_parser(ids_string)
+                ids_ret = idst
+                # if ids_ret == "⿰-⿱":
+                #     print(f'{hz} - {ids_string}')
+            except Exception as e:
+                # traceback.print_exc()
+                bh_parsed = ""
+                print(f'{e}: {hz} - {ids_string}')
         if bh_parsed == "":
             bh_parsed = "g" + (await bihua_parser(await get_bihua(self.zd_data, hz)))[:2]
         m = set()
         for py in py_list:
             py1 = py[0]
-            map_key1 = ['a', 's', 'd', 'f', 'c', 'v']
-            map_key2 = ['h', 'j', 'k', 'l', 'n', 'm']
-            if bh_parsed[0] == 's':
-                i = 5
-                for ii, g in enumerate(self.yunmu_groups):
-                    if py[1] in g:
-                        i = ii
-                        break
-                m.add(py1 + map_key1[i] + bh_parsed[1:])
-            elif bh_parsed[0] == 'd':
-                i = 5
-                for ii, g in enumerate(self.yunmu_groups):
-                    if py[1] in g:
-                        i = ii
-                        break
-                m.add(py1 + map_key2[i] + bh_parsed[1:])
-            else:
-                m.add(py1 + bh_parsed)
-        return m
+            m.add(py1 + bh_parsed)
+        return m, ids_ret
 
     async def run(self):
         mb_data = dict()
+        ids_stats = dict()
         async with aiofiles.open("zdic_data.json", mode="r") as f:
             self.zd_data = json.loads(await f.read())
 
@@ -343,7 +395,11 @@ class GenMB:
         count = 0
         for hz in await sort_danzi():
             py_list = await get_py(self.zd_data, hz)
-            m = await self.get_code(hz, py_list)
+            m, ids_tag = await self.get_code(hz, py_list)
+            if ids_tag in ids_stats:
+                ids_stats[ids_tag] += 1
+            else:
+                ids_stats[ids_tag] = 1
             if hz in self.fast_code:
                 m.add(self.fast_code[hz])
             mb_data[hz] = { 'm': m }
@@ -354,7 +410,7 @@ class GenMB:
         async with aiofiles.open("./corpus/words100000.txt", mode="r") as f:
             ma = re.findall(r"(\S{2,4})\s[a-z]+\s", await f.read())
             for i, cizu in enumerate(ma):
-                if i >= 9000:
+                if i >= 0:
                     break
                 codes = list()
                 ma = re.search(r"\s" + cizu + r"\s[0-9]+\s([a-z']+)", cizu_data)
@@ -400,6 +456,8 @@ class GenMB:
             for k, v in mb_data.items():
                 ms = v['m']
                 for m in ms:
+                    if "⿰--" in m:
+                        print(k)
                     if m in mb_stats:
                         mb_stats[m] += 1
                     else:
@@ -429,8 +487,18 @@ class GenMB:
                     await f.write(f"{k}\t{m}\n")
                     cp -= 1
 
-
-        print({k: v for k, v in sorted(mb_stats.items(), key=lambda item: item[1])})
+        dup_code = 0
+        for k, v in sorted(mb_stats.items(), key=lambda item: item[1]):
+            if v > 1:
+                dup_code += v
+                hzs = list()
+                for hz, vv in mb_data.items():
+                    if k in vv['m']:
+                        hzs.append(hz)
+                print(f'{k}: {hzs}')
+        print(dup_code)
+        # print({k: v for k, v in sorted(mb_stats.items(), key=lambda item: item[1])})
+        # print({k: v for k, v in sorted(ids_stats.items(), key=lambda item: item[1])})
 
 
 gen_mb = GenMB()
