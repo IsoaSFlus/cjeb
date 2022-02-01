@@ -279,7 +279,7 @@ class GenMB:
                 return [sp_key, ], start + 1, "-"
             try:
                 st = self.zd_data[ids_string[start]]['struct']
-                if st == "单一结构" or st == "独体字":
+                if "单" in st or "独" in st:
                     return [await get_bihua(self.zd_data, ids_string[start]), ], start + 1, '-'
             except:
                 pass
@@ -363,7 +363,7 @@ class GenMB:
         ids_ret = "-"
         ma = re.search(r"U\S+\s+(" + hz + r")\s+([^\[\s]+)", self.ids_data)
         ids_string = ma.group(2)
-        if self.zd_data[hz]['struct'] == "单一结构" or self.zd_data[hz]['struct'] == "独体字":
+        if "单" in self.zd_data[hz]['struct'] or "独" in self.zd_data[hz]['struct']:
             bh_parsed = "g" + (await bihua_parser(await get_bihua(self.zd_data, hz)))[:2]
         else:
             try:
