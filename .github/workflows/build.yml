@@ -20,7 +20,5 @@ jobs:
       with:
         allowUpdates: true
         tag: "release"
-        artifacts:
-        - ./fcitx/build/hanma.main.dict
-        - ./rime/hanma.dict.yaml
+        artifacts: "fcitx/build/hanma.main.dict, rime/hanma.dict.yaml"
         token: ${{ secrets.GITHUB_TOKEN }}
