@@ -13,7 +13,9 @@ jobs:
       with:
         submodules: 'recursive'
     - run: sudo apt-get update
-    - run: sudo apt-get install pkg-config libssl-dev build-essential python3-aiofiles python3-aiohttp cmake extra-cmake-modules fcitx5*  libime* gettext
+    - run: sudo apt-get install pkg-config libssl-dev build-essential python3-aiofiles python3-aiohttp cmake extra-cmake-modules  gettext
+    - run: sudo apt-get install fcitx5*
+    - run: sudo apt-get install libime*
     - run: bash ./build.sh
 
     - uses: ncipollo/release-action@v1
