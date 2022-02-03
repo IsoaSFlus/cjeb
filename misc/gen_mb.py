@@ -216,6 +216,7 @@ async def sort_danzi():
 
 class GenMB:
     def __init__(self):
+        self.mb_stats = dict()
         self.yunmu_groups = [
             {'a',  'ai',  'ao',  'ou',  'ei'},
             {'o',  'an',  'ang', 'in',  'ing'},
@@ -266,12 +267,18 @@ class GenMB:
     async def ids_parser_inner(self, ids_string, start, depth):
         if ids_string[start] in ids_map:
             ret = []
+            flat_ret = ""
             i = start + 1
             n = ids_map[ids_string[start]]['n']
             for ii in range(n):
                 bh_list, i, ids_tag = await self.ids_parser_inner(ids_string, i, depth - 1)
                 for bh in bh_list:
-                    ret.append(bh)
+                    if depth < 0:
+                        flat_ret = flat_ret + bh
+                    else:
+                        ret.append(bh)
+            if depth < 0:
+                ret.append(flat_ret)
             return ret, i, ids_string[start]
         else:
             sp_key = await check_special_part(self.zd_data, ids_string[start])
@@ -383,6 +390,12 @@ class GenMB:
             m.add(py1 + bh_parsed)
         return m, ids_ret
 
+    def update_mb_stats(self, ma):
+        if ma in self.mb_stats:
+            self.mb_stats[ma] += 1
+        else:
+            self.mb_stats[ma] = 1
+
     async def run(self):
         mb_data = dict()
         ids_stats = dict()
@@ -396,13 +409,11 @@ class GenMB:
         for hz in await sort_danzi():
             py_list = await get_py(self.zd_data, hz)
             m, ids_tag = await self.get_code(hz, py_list)
-            if ids_tag in ids_stats:
-                ids_stats[ids_tag] += 1
-            else:
-                ids_stats[ids_tag] = 1
             if hz in self.fast_code:
                 m.add(self.fast_code[hz])
             mb_data[hz] = { 'm': m }
+            for ma in m:
+                self.update_mb_stats(ma)
             count += 1
 
         async with aiofiles.open("./cizu.txt", mode="r") as f:
@@ -410,7 +421,7 @@ class GenMB:
         async with aiofiles.open("./corpus/words100000.txt", mode="r") as f:
             ma = re.findall(r"(\S{2,4})\s[a-z]+\s", await f.read())
             for i, cizu in enumerate(ma):
-                if i >= 0:
+                if i >= 40000:
                     break
                 codes = list()
                 ma = re.search(r"\s" + cizu + r"\s[0-9]+\s([a-z']+)", cizu_data)
@@ -419,23 +430,14 @@ class GenMB:
                 except:
                     # print(cizu)
                     continue
-                for i, py in enumerate(py_list):
-                    py_parsed = list()
-                    py_parsed.append(py[0])
-                    yunmu = ['a', 'o', 'e', 'i', 'u', 'v']
-                    if py[0] in yunmu or py[0] in py_n or py[0] in py_m:
-                        py_parsed.append(py[0:])
-                    else:
-                        if py[1] != "h":
-                            py_parsed.append(py[1:])
-                        else:
-                            py_parsed.append(py[2:])
-                    try:
-                        co = await self.get_code(cizu[i], [py_parsed, ])
+                try:
+                    for i, py in enumerate(py_list):
+                        co, ids_tag = await self.get_code(cizu[i], [py, ])
                         for c in co:
                             codes.append(c)
-                    except:
-                        print(f'{i} {cizu}')
+                except:
+                    print(f'{i} {cizu}')
+                    continue
                 cizu_code = ""
                 for i, hz in enumerate(cizu):
                     if i == 0:
@@ -447,38 +449,16 @@ class GenMB:
                         cizu_code = cizu_code[0:3] + codes[i][0]
                     elif i == 3:
                         cizu_code = cizu_code[0] + cizu_code[2] + cizu_code[3] + codes[i][0]
-
-                mb_data[cizu] = { 'm':  { cizu_code, } }
+                if self.mb_stats.get(cizu_code, 0) < 5:
+                    mb_data[cizu] = { 'm':  { cizu_code, } }
+                    self.update_mb_stats(cizu_code)
 
         # print(f'{mb_data}')
-        mb_stats = dict()
         async with aiofiles.open(f"./mb.txt", mode="w") as f:
             for k, v in mb_data.items():
                 ms = v['m']
                 for m in ms:
-                    if "⿰--" in m:
-                        print(k)
-                    if m in mb_stats:
-                        mb_stats[m] += 1
-                    else:
-                        mb_stats[m] = 1
                     await f.write(f"{m} {k}\n")
-        # mb_stats = dict()
-        # async with aiofiles.open(f"./mb.txt", mode="w") as f:
-        #     for k, v in mb_data.items():
-        #         ms = v['m']
-        #         for m1 in ms:
-        #             if len(m1) >= 3:
-        #                 m = m1[2]
-        #             else:
-        #                 continue
-        #             if m == 'u':
-        #                 print(k)
-        #             if m in mb_stats:
-        #                 mb_stats[m] += 1
-        #             else:
-        #                 mb_stats[m] = 1
-        #             await f.write(f"{m} {k}\n")
         cp = 99454797
         async with aiofiles.open(f"./mb_rime.txt", mode="w") as f:
             for k, v in mb_data.items():
@@ -488,7 +468,7 @@ class GenMB:
                     cp -= 1
 
         dup_code = 0
-        for k, v in sorted(mb_stats.items(), key=lambda item: item[1]):
+        for k, v in sorted(self.mb_stats.items(), key=lambda item: item[1]):
             if v > 1:
                 dup_code += v
                 hzs = list()

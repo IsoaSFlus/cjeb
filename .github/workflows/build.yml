@@ -1,0 +1,26 @@
+name: BUILD
+
+on:
+  push:
+
+jobs:
+  amd64:
+    runs-on: ubuntu-20.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+    - run: sudo apt-get install pkg-config libssl-dev p7zip-full python3-aiofiles python3-aiohttp cmake extra-cmake-modules
+    - run: bash ./build.sh
+    - run: mv ./target/release/dmlive ./dmlive-amd64
+
+    - uses: ncipollo/release-action@v1
+      with:
+        allowUpdates: true
+        tag: "release"
+        artifacts:
+        - ./fcitx/build/hanma.main.dict
+        - ./rime/hanma.dict.yaml
+        token: ${{ secrets.GITHUB_TOKEN }}
