@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         submodules: 'recursive'
-    - run: sudo apt-get install pkg-config libssl-dev build-essential python3-aiofiles python3-aiohttp cmake extra-cmake-modules fcitx5 gettext
+    - run: sudo apt-get install pkg-config libssl-dev build-essential python3-aiofiles python3-aiohttp cmake extra-cmake-modules fcitx5 libime gettext
     - run: bash ./build.sh
 
     - uses: ncipollo/release-action@v1
