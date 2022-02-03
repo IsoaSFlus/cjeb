@@ -12,9 +12,8 @@ jobs:
       uses: actions/checkout@v2
       with:
         submodules: 'recursive'
-    - run: sudo apt-get install pkg-config libssl-dev p7zip-full python3-aiofiles python3-aiohttp cmake extra-cmake-modules
+    - run: sudo apt-get install pkg-config libssl-dev build-dep python3-aiofiles python3-aiohttp cmake extra-cmake-modules fcitx5 gettext
     - run: bash ./build.sh
-    - run: mv ./target/release/dmlive ./dmlive-amd64
 
     - uses: ncipollo/release-action@v1
       with:
