@@ -201,8 +201,9 @@ async def bihua_parser(bihua_string):
     return ret
 
 async def sort_danzi():
-    async with aiofiles.open("danzi_freq.txt", mode="r") as f:
-        ma = re.findall(r"[0-9]\s(\S{1})\s([0-9]+)\s", await f.read())
+    async with aiofiles.open("danzi_freq_b.txt", mode="r") as f:
+        # ma = re.findall(r"[0-9]\s(\S{1})\s([0-9]+)\s", await f.read())
+        ma = re.findall(r"(\S{1})\s([0-9]+)", await f.read())
         freq = { k: int(v) for k, v in ma }
         ty7k = list()
         async with aiofiles.open("ty7k/words.txt", mode="r") as f:
