@@ -420,8 +420,8 @@ class GenMB:
             self.ids_data = await ids_file.read()
 
         count = 0
-        danzi = sort_danzi()
-        for hz in await danzi:
+        danzi = await sort_danzi()
+        for hz in danzi:
             py_list = await get_py(self.zd_data, hz)
             m, ids_tag = await self.get_code(hz, py_list)
             if hz in self.fast_code:
@@ -431,7 +431,7 @@ class GenMB:
                 self.update_mb_stats(ma)
             count += 1
 
-        for hz in await danzi:
+        for hz in danzi:
             if hz in self.fast_code:
                 continue
             to_delete = []
