@@ -420,7 +420,8 @@ class GenMB:
             self.ids_data = await ids_file.read()
 
         count = 0
-        for hz in await sort_danzi():
+        danzi = sort_danzi()
+        for hz in await danzi:
             py_list = await get_py(self.zd_data, hz)
             m, ids_tag = await self.get_code(hz, py_list)
             if hz in self.fast_code:
@@ -429,6 +430,43 @@ class GenMB:
             for ma in m:
                 self.update_mb_stats(ma)
             count += 1
+
+        for hz in await danzi:
+            if hz in self.fast_code:
+                continue
+            to_delete = []
+            to_add = []
+            for ma in mb_data.get(hz, { 'm': [] })['m']:
+                if self.mb_stats[ma] > 1:
+                    ma2 = ma[0:2]
+                    ma3 = ma[0:3]
+                    if self.mb_stats.get(ma2, 0) == 0:
+                        to_add.append(ma2)
+                        to_delete.append(ma)
+                        continue
+                    elif self.mb_stats.get(ma3, 0) == 0:
+                        to_add.append(ma3)
+                        to_delete.append(ma)
+                        continue
+
+            if len(to_delete) != 0:
+                print(f"add {to_add} and remove {to_delete} for {hz}")
+
+            for ta in to_add:
+                try:
+                    mb_data.get(hz)['m'].add(ta)
+                except:
+                    print(f"cannot add {ta} for {hz}")
+                    continue
+                self.update_mb_stats(ta)
+
+            for td in to_delete:
+                try:
+                    mb_data.get(hz)['m'].remove(td)
+                except:
+                    print(f"cannot delete {td} for {hz}")
+                    continue
+                self.mb_stats[td] -= 1
 
         async with aiofiles.open("./cizu.txt", mode="r") as f:
             cizu_data = await f.read()
