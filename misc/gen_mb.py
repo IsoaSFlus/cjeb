@@ -432,6 +432,7 @@ class GenMB:
                 self.update_mb_stats(ma)
             count += 1
 
+        short_hz = dict()
         for hz in danzi:
             if hz in self.fast_code:
                 continue
@@ -441,13 +442,25 @@ class GenMB:
                 if self.mb_stats[ma] > 1:
                     ma2 = ma[0:2]
                     ma3 = ma[0:3]
-                    if self.mb_stats.get(ma2, 0) == 0:
-                        to_add.append(ma2)
-                        to_delete.append(ma)
-                        continue
-                    elif self.mb_stats.get(ma3, 0) == 0:
+                    if self.mb_stats.get(ma3, 0) == 0:
                         to_add.append(ma3)
                         to_delete.append(ma)
+                        short_hz[ma3] = hz
+                        continue
+                    elif self.mb_stats.get(ma2, 0) == 0:
+                        if ma3 in short_hz:
+                            prev_hz = short_hz[ma3]
+                            mb_data[prev_hz]['m'].add(ma2)
+                            self.update_mb_stats(ma2)
+                            mb_data[prev_hz]['m'].remove(ma3)
+                            self.mb_stats[ma3] -= 1
+                            to_add.append(ma3)
+                            to_delete.append(ma)
+                            short_hz[ma3] = hz
+                        else:
+                            to_add.append(ma2)
+                            to_delete.append(ma)
+                            short_hz[ma2] = hz
                         continue
 
             if len(to_delete) != 0:
