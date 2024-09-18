@@ -540,6 +540,16 @@ class GenMB:
                 for m in ms:
                     await f.write(f"{k}\t{m}\t{cp}\n")
                     cp -= 100
+        cp = 579392145
+        async with aiofiles.open(f"./mb_ibus.txt", mode="w") as f:
+            for k, v in self.punct_code.items():
+                await f.write(f"{v}\t{k}\t{cp}\n")
+                cp -= 100
+            for k, v in mb_data.items():
+                ms = v['m']
+                for m in ms:
+                    await f.write(f"{m}\t{k}\t{cp}\n")
+                    cp -= 100
 
         dup_code = 0
         for k, v in sorted(self.mb_stats.items(), key=lambda item: item[1]):
